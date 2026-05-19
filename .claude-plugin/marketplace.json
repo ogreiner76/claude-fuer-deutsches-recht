@@ -113,7 +113,7 @@
     {
       "name": "liquiditaetsplanung",
       "source": "./liquiditaetsplanung",
-      "description": "Rollierende Liquiditätsvorschau und Krisenfrüherkennung: 3-Wochen-Test § 17 InsO, integrierter 13/26/52-Wochen-Plan mit Ampel nach BGH BGHZ 163, 134 (10-%-Lücke, 3-Wochen-Horizont), Fortführungsprognose nach IDW S 6/S 11 und insolvenzrechtliche Liquiditätsanalyse §§ 17/18/19 InsO. Für Steuerberater, GmbH-Geschäftsleitung, Sanierungsberater und Insolvenzverwalter.",
+      "description": "Eigenständiges Power-Plugin Liquiditätsvorschau nach deutschem Recht. Wochenaktuelle 3-Wochen-Vorschau § 17 InsO und rollierende 13/26/52-Wochen-Planung, jeweils mit Excel-Vorlage (Freitag-Stichtag, KW-Spalten) und optionalem interaktivem HTML-Padlet oder Markdown-Artefakt. BGH-Schema strikt: Passiva II zwingend (BGHZ 217, 129), 10-%-Schwelle und 3-Wochen-Horizont (BGHZ 163, 134), Bugwellenrspr. (BGH II ZR 112/21), titulierte Forderungen mit Nennwert (BGH IX ZR 229/22), objektive Beurteilung (BGH II ZR 139/23). Banking optional (manuell, CAMT.053/MT940/CSV/DATEV-OPOS, Connector). Memo nur auf Anfrage. Funktioniert allein, ergänzt sich aber mit insolvenzrecht und steuerberater-werkzeuge.",
       "author": {
         "name": "Klotzkette"
       }

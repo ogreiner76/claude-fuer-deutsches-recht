@@ -106,12 +106,22 @@ function checkMarketplace() {
       }
     }
     if (plugin.name === 'liquiditaetsplanung') {
-      const deps = new Set(manifest.dependencies || []);
-      for (const dep of ['steuerberater-werkzeuge', 'insolvenzrecht']) {
-        if (!deps.has(dep)) errors.push(`${rel(manifestPath)}: missing dependency ${dep}`);
+      // liquiditaetsplanung is the standalone Power-Plugin Liquiditaetsvorschau.
+      // It MUST work without insolvenzrecht/steuerberater-werkzeuge. Dependencies are
+      // therefore optional (recommended companions, not required), but its own skills
+      // must exist and be self-contained.
+      const skills = walk(path.join(pluginRoot, 'skills'), f => path.basename(f) === 'SKILL.md');
+      if (skills.length === 0) errors.push(`${plugin.name}: expected autark Liquiditaetsvorschau skills`);
+      for (const required of ['liquiditaetsvorschau-3wochen', 'liquiditaetsvorschau-3-6-12-monate', 'liquiditaetsvorschau-insolvenzrechtlich']) {
+        const sp = path.join(pluginRoot, 'skills', required, 'SKILL.md');
+        if (!exists(sp)) errors.push(`${plugin.name}: missing required standalone skill ${required}`);
       }
-      const skillCount = walk(path.join(pluginRoot, 'skills'), f => path.basename(f) === 'SKILL.md').length;
-      if (skillCount === 0) errors.push(`${plugin.name}: expected routing skills`);
+      for (const asset of ['assets/excel/Liquiditaetsplan-Wochenbasis.xlsx', 'assets/padlet/liquiditaets-padlet.html', 'assets/markdown/liquiditaets-artefakt-vorlage.md']) {
+        if (!exists(path.join(pluginRoot, asset))) errors.push(`${plugin.name}: missing standalone asset ${asset}`);
+      }
+      for (const pdf of ['BGH_II_ZR_88-16_vom_2017-12-19.pdf', 'BGH_II_ZR_112-21_vom_2022-06-28.pdf', 'BGH_IX_ZR_48-21_vom_2022-04-28.pdf', 'BGH_IX_ZR_229-22_vom_2025-01-23.pdf', 'BGH_II_ZR_139-23_vom_2025-03-11.pdf']) {
+        if (!exists(path.join(pluginRoot, 'references', 'rechtsprechung', pdf))) errors.push(`${plugin.name}: missing BGH PDF references/rechtsprechung/${pdf}`);
+      }
     }
   }
 }

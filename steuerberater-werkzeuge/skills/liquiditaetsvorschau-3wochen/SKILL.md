@@ -16,6 +16,12 @@ when_to_use: |
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)
 
+## Powerplugin-Hinweis
+
+**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin `liquiditaetsplanung`** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
+
+Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende ausdrücklich die Hinweispflicht nach § 102 StaRUG dokumentieren.
+
 ## Zweck
 
 Dieser Skill erstellt für eine GmbH/UG/AG eine **kurzfristige Drei-Wochen-Liquiditätsvorschau** — die kleinste sinnvolle Einheit der laufenden Krisenfrüherkennung nach § 1 StaRUG und die direkte Ableitung des BGH-Schemas zur Zahlungsunfähigkeit (§ 17 InsO).

@@ -1,48 +1,83 @@
-# Plugin Liquiditätsplanung (`liquiditaetsplanung`)
+# Liquiditätsplanung – Power-Plugin
 
-Rollierende Liquiditätsplanung und Krisenfrüherkennung nach deutschem Recht — gebündelt für Steuerberater, Sanierungsberater, GmbH-Geschäftsleitung und Insolvenzverwalter. Maßstab ist die BGH-Rechtsprechung zu § 17 InsO (BGHZ 163, 134 – 10-%-Lücke, 3-Wochen-Horizont) und die berufsständischen Verlautbarungen IDW S 6 (Sanierungskonzepte) und IDW S 11 (Insolvenzeröffnungsgründe).
+Eigenständiges Plugin für **wochenaktuelle Liquiditätsvorschauen** nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG). Funktioniert allein; ergänzt sich optimal mit den Plugins `insolvenzrecht` und `steuerberater-werkzeuge`, hängt aber nicht von ihnen ab.
 
-> **Hinweis:** Dieses Plugin enthält schlanke **Routing-Skills** und deklariert die Plugins [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) und [`insolvenzrecht`](../insolvenzrecht/) als Abhängigkeiten. Die eigentliche Fachlogik bleibt in den Quell-Plugins; Liquiditätsplanung bietet den einheitlichen Einstieg.
+## Was ist drin
 
-## Enthaltene Skills (Bündel)
+Drei Skills, alle fachlich autark:
 
-| Skill | Heimatplugin | Zweck |
-|---|---|---|
-| `liquiditaetsvorschau-3wochen` | `steuerberater-werkzeuge` | Kurzfrist-Test über 3 Wochen nach § 17 InsO; löst Ampel und Hinweis auf § 15a InsO-Antragspflicht aus |
-| `liquiditaetsvorschau-3-6-12-monate` | `steuerberater-werkzeuge` | Rollierende 13/26/52-Wochen-Vorschau mit IDW-S-6-Fortführungsprognose und Excel-Export |
-| `liquiditaetsvorschau-insolvenzrechtlich` | `insolvenzrecht` | Gerichtsfähige Liquiditätsbilanz als Beweismittel für § 17 InsO und Fortbestehensprognose § 19 InsO |
+| Skill | Zweck | Horizont |
+| --- | --- | --- |
+| `liquiditaetsvorschau-3wochen` | Wochenaktuelle Vorprüfung § 17 InsO (Freitag-Stichtag), Verhältnis zu offenen Forderungen, Ampel. | 3 Wochen |
+| `liquiditaetsvorschau-3-6-12-monate` | Rollierende Planung mit Sensitivität (Best/Base/Worst), Fortführungsprognose nach § 19 InsO. | 13 / 26 / 52 Wochen |
+| `liquiditaetsvorschau-insolvenzrechtlich` | Gerichtsfeste Liquiditätsbilanz nach BGH-Schema (Passiva II zwingend, Volumeneffekt der Quote, titulierte Forderungen mit Nennwert). | Stichtagsbezogen |
 
-## Wann welcher Skill?
+## Ergebnisformate
 
-- **Wöchentliche Geschäftsführerrunde, frühe Krise**: `liquiditaetsvorschau-3wochen` als Ampel-Routine. Solange grün → kein Handeln, gelb → Engpässe planen, rot → sofort eskalieren.
-- **Sanierungskonzept, Bankgespräch, StaRUG-Vorbereitung**: `liquiditaetsvorschau-3-6-12-monate` mit Best/Base/Worst-Sensitivität und IDW-S-6-Matrix.
-- **Antragspflicht-Prüfung, Gläubigerantrag, gerichtliche Beweisführung**: `liquiditaetsvorschau-insolvenzrechtlich` aus dem Plugin `insolvenzrecht`.
+Jeder Skill liefert standardmäßig eine **Excel-Tabelle** nach der hinterlegten Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`, KW-Spalten × Kategorien-Zeilen, Freitag als Wochenstichtag). Zusätzlich auf Wahl:
 
-## Rechtlicher Rahmen
+- **Interaktives HTML-Padlet** (`assets/padlet/liquiditaets-padlet.html`) — single-file, autark, rechnet die Ampel live nach BGH-Schema, speichert in `localStorage`, exportiert/importiert JSON.
+- **Markdown-Artefakt** (`assets/markdown/liquiditaets-artefakt-vorlage.md`) — Tabellen, Indizienliste, Kurzfazit; wird bei jeder Folgemeldung neu geschrieben.
+- **Memo** im Gutachtenstil (DOCX oder Markdown) — **nur auf ausdrückliche Anfrage**.
 
-- **§ 17 InsO** – Zahlungsunfähigkeit (10-%-Lücke / 3-Wochen-Horizont nach BGH BGHZ 163, 134)
-- **§ 18 InsO** – drohende Zahlungsunfähigkeit (24-Monats-Prognose)
-- **§ 19 InsO** – Überschuldung und Fortbestehensprognose
-- **§ 15a InsO** – Insolvenzantragspflicht (3 Wochen / 6 Wochen)
-- **§ 1 StaRUG** – Krisenfrüherkennungspflicht der Geschäftsleitung
-- **§ 102 StaRUG** – Hinweispflicht beratender Berufe (Steuerberater)
+Die Skills fragen einmal am Anfang nach Format und merken sich die Antwort.
 
-## Leitentscheidungen
+## Banking
 
-- BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 (Zahlungsunfähigkeit: 10-%-/3-Wochen-Schema)
-- BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 (Indizienkatalog Zahlungsunfähigkeit)
-- BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 (Fortbestehensprognose § 19 Abs. 2 InsO)
-- BGH, Urt. v. 09.10.2012 – II ZR 298/11, BGHZ 195, 42 (insolvenzrechtliche vs. handelsbilanzielle Überschuldung)
-- BGH, Urt. v. 26.01.2017 – IX ZR 285/14, BGHZ 213, 374 (Steuerberater-Hinweispflicht – Vorläufer § 102 StaRUG)
+Jeder Skill fragt einmal nach der Datenquelle:
 
-## Standardliteratur
+1. **Manuell** im Padlet/Artefakt/Chat.
+2. **Datei-Import** — CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS.
+3. **Connector** — PSD2/FinTS oder verfügbare Anbieter (per `list_external_tools`).
 
-- *K. Schmidt/Herchen*, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 InsO
-- *Uhlenbruck/Mock*, InsO, 16. Aufl. 2024, § 19 InsO
-- *Pape/Schaltke*, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 StaRUG
-- **IDW S 6** – Anforderungen an die Erstellung von Sanierungskonzepten
-- **IDW S 11** – Beurteilung des Vorliegens von Insolvenzeröffnungsgründen
+Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO) und Drittlandtransfer (DSGVO Art. 44 ff.) werden adressiert.
+
+## BGH-Schema (Passiva II)
+
+```
+Aktiva I   = Bank + Kasse + freier zugesagter Kontokorrent (Stichtag)
+Aktiva II  = Σ Einzahlungen KW t..t+2
+Passiva I  = am Stichtag fällig, eingefordert, nicht echt gestundet
+Passiva II = binnen 3 Wochen fällig (KW t+1 + KW t+2)
+
+Lücke abs. = max(0, (Passiva I + Passiva II) − (Aktiva I + Aktiva II))
+Quote      = Lücke abs. ÷ (Passiva I + Passiva II)   (Volumeneffekt
+             BGH 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff.)
+```
+
+**Ampel**: 🟢 Quote < 10 % und Liquidität KW t+2 ≥ 0 und < 2 Indizien. 🟡 Quote ≥ 10 %, KW t+2 ≥ 0, < 2 Indizien (schließbar). 🔴 sonst — § 17 InsO indiziert.
+
+## Leitentscheidungen (Volltexte: `references/rechtsprechung/`)
+
+1. BGH, 19.12.2017 – **II ZR 88/16**, BGHZ 217, 129 (Passiva II; Volumeneffekt)
+2. BGH, 28.06.2022 – **II ZR 112/21**, ZIP 2022, 1606 (Bugwellenrspr.)
+3. BGH, 28.04.2022 – **IX ZR 48/21**, ZIP 2022, 1341 (10-%-Schwelle)
+4. BGH, 23.01.2025 – **IX ZR 229/22**, DB 2025, 381 (titulierte Forderungen)
+5. BGH, 11.03.2025 – **II ZR 139/23** (objektive Umstände)
+6. BGH, 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 (Grundsatzentscheidung)
+7. BGH, 12.10.2006 – IX ZR 228/03, NJW 2007, 78 (Indizienkatalog)
+
+Berufsständischer Hintergrund: IDW S 11 (12.08.2021), IDW S 6 — nicht im Vordergrund zitieren.
+
+## Installation
+
+Power-Plugin: einzeln installierbar.
+
+```jsonc
+{
+  "plugins": ["liquiditaetsplanung"]
+}
+```
+
+Optional zusammen mit:
+
+- `insolvenzrecht` — formale Prüfung §§ 15a, 17, 18, 19 InsO, § 15b InsO Zahlungsverbote, Gläubigerantrag.
+- `steuerberater-werkzeuge` — BWA-/SuSa-/Bilanz-Vorprüfung als Datenquelle.
 
 ## Lizenz
 
-Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`). Siehe `LICENSE`, `LICENSE-APACHE`, `LICENSE-MIT` und `NOTICE` im Repository-Wurzelverzeichnis.
+Apache-2.0 OR MIT — Auswahl beim Empfänger.
+
+## Quellen-Disclaimer
+
+Alle Aussagen beruhen auf der im Plugin hinterlegten BGH-Rechtsprechung (`references/rechtsprechung/`) und genannter Kommentarliteratur. Die Skills ersetzen keine eigene anwaltliche oder steuerberatende Prüfung im Einzelfall.

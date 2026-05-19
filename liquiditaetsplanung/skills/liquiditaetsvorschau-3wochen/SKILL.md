@@ -1,37 +1,184 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: Routing-Skill für den kurzfristigen 3-Wochen-Liquiditätstest nach § 17 InsO. Nutzt den fachlichen Quell-Skill aus steuerberater-werkzeuge und eskaliert bei roter Ampel in die insolvenzrechtliche Antragspflichtprüfung.
+description: Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt.
 language: de
+license: Apache-2.0 OR MIT
 when_to_use: |
   Trigger phrases and example requests:
-  - Liquiditätsvorschau 3 Wochen
-  - 3-Wochen-Test § 17 InsO
-  - Zahlungsunfähigkeit kurzfristig prüfen
-  - Ampel für Geschäftsführerrunde
-  - Sozialversicherung oder Finanzamt Rückstand Liquidität
+  - Drei-Wochen-Liquidität
+  - 3-Wochen-Vorschau
+  - Liquidität wöchentlich prüfen
+  - § 17 InsO Vorprüfung
+  - Zahlungsstockung oder Zahlungsunfähigkeit
+  - Liquiditäts-Padlet
+  - Liquiditäts-Artefakt
+  - Krisenfrüherkennung StaRUG
+  - Hinweispflicht Steuerberater
 ---
 
-# /liquiditaetsplanung:liquiditaetsvorschau-3wochen
+# Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
 
-Dieser Skill ist ein Routing-Einstieg für das Bündel-Plugin Liquiditätsplanung (`liquiditaetsplanung`).
-Die fachliche Arbeitsanweisung liegt im Quell-Skill
-`/steuerberater-werkzeuge:liquiditaetsvorschau-3wochen`.
+## Zweck
+
+Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
+
+Anwendungsfälle:
+
+- Wöchentliche Geschäftsführer-Sitzung in einer KMU-GmbH mit angespannter Liquidität.
+- Dauermandat des Steuerberaters mit Krisenfrüherkennungsauftrag.
+- Vorprüfung vor dem Bankgespräch oder vor einer StaRUG-Anzeige.
+- Erstindikation, ob ein Antragspflicht-Check nach § 15a InsO ausgelöst werden muss.
+
+## Eingaben — minimaler Datensatz
+
+Der Skill fragt diese Felder strukturiert ab. Fehlt etwas, wird der Worst Case angesetzt und die Annahme im Padlet/Artefakt protokolliert.
+
+- **Unternehmen** (Firma, Rechtsform).
+- **Stichtag**: Montag der laufenden KW; Wochenende der Vorschau ist jeweils Freitag derselben Woche.
+- **Aktiva I (zum Stichtag)**: Bank (verfügbarer Saldo), Kasse, ungenutzter und zugesagter Kontokorrent. Gekündigte Linien zählen nicht, voll ausgeschöpfte Kontokorrents zählen nicht.
+- **Aktiva II (KW *t* bis *t+2*)**: erwartete Einzahlungen aus Debitoren, freie Kreditzusagen, schnell verwertbares Umlaufvermögen — je Woche.
+- **Passiva I (zum Stichtag)**: alle am Stichtag fälligen, eingeforderten und nicht echt gestundeten Verbindlichkeiten.
+- **Passiva II (KW *t* bis *t+2*)**: binnen drei Wochen fällig werdende Verbindlichkeiten je Woche, sortiert nach Buckets (Lohn/SV/Lohnsteuer/USt-VZ/Miete/Lieferanten kritisch/Zins+Tilgung/Sonstiges).
+- **Offene Forderungen gesamt** (Nominal, davon binnen 3 Wochen erwartet, davon tituliert, davon zweifelhaft).
+- **Indizien** § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge, Wechselproteste).
+
+## Bezugsquellen der Eingabedaten
+
+Bevor mit Schätzungen gearbeitet wird, dem Nutzer in dieser Reihenfolge konkret folgende Frage stellen:
+
+> Wie sollen die Bankdaten und offenen Posten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
+
+- **Manuell**: Nutzer trägt Werte direkt im Padlet, Markdown-Artefakt oder Chat ein. Stets zulässig.
+- **Datei-Import**: Akzeptiert werden bankübliche Exporte (CAMT.053, MT940, CSV des Onlinebankings) und DATEV-OPOS-Exporte (Offene Posten Debitoren/Kreditoren). Der Skill liest sie ein und bucht sie in Aktiva I/II bzw. Passiva I/II nach Fälligkeitsdatum.
+- **Connector**: Vor jedem Versuch `list_external_tools` mit Suchbegriffen wie `banking`, `psd2`, `fintap`, `gocardless` aufrufen. Wenn ein Connector verfügbar ist, dem Nutzer die Verbindung und Datenherkunft transparent erläutern und die Aktiva I direkt aus den Salden, Aktiva II aus geplanten Eingängen, Passiva I/II aus offenen Posten ableiten. Wenn kein Connector verfügbar ist, höflich darauf hinweisen, dass der Skill selbst keinen Open-Banking-Zugang aufbaut, und auf die manuelle oder Datei-Import-Variante zurückfallen.
+
+Datenschutz: Bei Mandantendaten auf das Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO) hinweisen. Bei Banking-Daten zusätzlich auf Drittlandtransfer-Risiken (DSGVO Art. 44 ff.) und auf die Notwendigkeit einer eigenen DSFA hinweisen, sofern eine vorliegt.
 
 ## Ablauf
 
-1. Wenn das Dependency-Plugin `steuerberater-werkzeuge` verfügbar ist, nutze
-   den Skill `/steuerberater-werkzeuge:liquiditaetsvorschau-3wochen`.
-2. Erstelle eine 3-Wochen-Liquiditätsvorschau mit Anfangsbestand,
-   fälligen Verbindlichkeiten, erwarteten Einzahlungen, ungedeckter Lücke,
-   Lückenquote und Ampel.
-3. Bei roter Ampel oder nicht binnen drei Wochen schließbarer Lücke: auf
-   `/insolvenzrecht:zahlungsunfaehigkeit-pruefung-17-inso` und
-   `/insolvenzrecht:antragspflicht-15a-inso` eskalieren.
-4. Wenn die Dependency-Skills nicht installiert sind, dem Nutzer die fehlenden
-   Plugins nennen und keine ersatzweise Kurzprüfung erfinden.
+**Schritt 1 — Format und Padlet-Wahl**
+Erst genau eine Rückfrage:
+
+> Ergebnisformat: nur Excel-Tabelle (Standard), Excel + interaktives HTML-Padlet zur fortlaufenden Pflege, oder Excel + Markdown-Artefakt? Memo erst auf Anfrage.
+
+Die Antwort merken und nicht erneut nachfragen. Default bei Schweigen ist Excel + HTML-Padlet.
+
+**Schritt 2 — Datenquelle**
+Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst danach Eingaben einsammeln.
+
+**Schritt 3 — Stichtag und Wochenraster**
+- Stichtag = Montag der laufenden KW *t*.
+- Wochenraster: KW *t*, *t+1*, *t+2* mit Freitag als Wochenstichtag. Die Vorschau zeigt für jede Woche: Liquidität Wochenanfang (Montag), Σ Einnahmen, Σ Ausgaben, Cashflow, Liquidität Wochenende (Freitag).
+- Spaltenformat wie in der Vorlage `Liquiditaetsplan-Wochenbasis.xlsx`: Kategorien-Zeilen × KW-Spalten, keine andere Anordnung.
+
+**Schritt 4 — BGH-Test § 17 InsO (Liquiditätsbilanz)**
+- Aktiva I = Bank + Kasse + freier zugesagter Kontokorrent (zum Stichtag).
+- Aktiva II = Σ Einnahmen KW *t* bis *t+2*.
+- Passiva I = am Stichtag fällig, eingefordert, nicht echt gestundet (überwiegend in KW *t* aufgeführt).
+- Passiva II = binnen 3 Wochen fällig werdend (KW *t+1* + KW *t+2* und gegebenenfalls Resterfüllung der Passiva I).
+- Σ Liquide = Aktiva I + Aktiva II.
+- Σ Fällig = Passiva I + Passiva II.
+- **Liquiditätslücke (absolut) = max(0, Σ Fällig − Σ Liquide)**.
+- **Liquiditätsquote = Lücke ÷ Σ Fällig** (Volumeneffekt nach BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff.).
+
+**Schritt 5 — Ampel und 3-Wochen-Schließbarkeit**
+- 🟢 **Grün**: Liquiditätsquote < 10 % und am Ende von *t+2* ist die Liquidität nicht negativ und weniger als zwei Indizien gesetzt.
+- 🟡 **Gelb**: Liquiditätsquote ≥ 10 %, am Ende von *t+2* aber Liquidität ≥ 0 (Lücke binnen drei Wochen schließbar) und weniger als zwei Indizien.
+- 🔴 **Rot**: Liquiditätsquote ≥ 10 % **und** Liquidität am Ende von *t+2* negativ (nicht binnen drei Wochen schließbar) **oder** zwei und mehr Indizien gesetzt — Zahlungsunfähigkeit § 17 InsO indiziert.
+
+**Schritt 6 — Verhältnis zu offenen Forderungen**
+Deckungsgrad = Offene Forderungen gesamt ÷ Liquiditätslücke (absolut). Titulierte Forderungen, bei denen die Vollstreckung läuft, in Höhe des Nennwerts berücksichtigen — BGH, Urt. v. 23.01.2025 – IX ZR 229/22.
+
+**Schritt 7 — Ergebnis ausliefern**
+- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditaetsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
+- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
+- **Wenn Markdown-Artefakt gewählt**: `liquiditaets-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditaets-artefakt-vorlage.md` ausfüllen.
+- Bei jeder Folgemeldung des Nutzers (weitere Belege, Beträge, Korrekturen, neue Indizien) das gewählte Artefakt-Format aktualisieren und die neue Version unter demselben Asset-Namen liefern.
+
+**Schritt 8 — Memo (nur auf Anfrage)**
+Erst nach Auslieferung der Vorschau anbieten:
+
+> Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Subsumtion nach § 17 InsO erstellen?
+
+Das Memo enthält bei Zustimmung: Sachverhalt, rechtliche Grundlagen, Liquiditätsbilanz tabellarisch, Quotenberechnung, Subsumtion nach BGH BGHZ 217, 129 Rn. 24 ff. und BGHZ 163, 134 Rn. 12 ff., Indizienwürdigung, Ergebnis, Handlungsempfehlung. Maximal zwei Seiten. Format DOCX oder Markdown nach Nutzerwunsch.
+
+**Schritt 9 — Eskalation**
+Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
+
+## Rechtlicher Rahmen
+
+### Primärnormen
+
+- **§ 17 InsO** Zahlungsunfähigkeit.
+- **§ 18 InsO** drohende Zahlungsunfähigkeit (24-Monats-Prognose, Hinweisfunktion).
+- **§ 15a InsO** Antragspflicht (3 Wochen).
+- **§ 1 StaRUG** Krisenfrüherkennungspflicht der Geschäftsleitung.
+- **§ 102 StaRUG** Hinweispflicht beratender Berufe.
+
+### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
+
+1. BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrieargument; Substantiierungslast des bestreitenden Geschäftsführers.
+2. BGH, Urt. v. 28.06.2022 – II ZR 112/21, ZIP 2022, 1606 — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus zulässig (Bugwellenrechtsprechung).
+3. BGH, Urt. v. 28.04.2022 – IX ZR 48/21, ZIP 2022, 1341 — Bestätigung der 10-%-Schwelle und der geordneten Gegenüberstellung.
+4. BGH, Urt. v. 23.01.2025 – IX ZR 229/22, DB 2025, 381 — titulierte Forderungen in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet ist.
+5. BGH, Urt. v. 11.03.2025 – II ZR 139/23 — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; es kommt auf den materiellen Bestand der Verbindlichkeit an.
+6. Grundlage: BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 — 10-%-Schwelle und 3-Wochen-Horizont.
+7. Indizienkatalog: BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78.
+
+Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), keine US-stare-decisis-Logik, keine pretrial discovery.
+
+### Kommentarliteratur (im Bearbeiterstil)
+
+1. *K. Schmidt/Herchen*, in: K. Schmidt, Insolvenzordnung, 20. Aufl. 2023, § 17 InsO Rn. 5–35.
+2. *Mock*, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 10 ff., 30 ff.
+3. *Pape/Schaltke*, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 StaRUG Rn. 10–30.
+4. *BeckOK StaRUG/Skauradszun*, 8. Ed. Stand 04.2025, § 102 StaRUG.
+
+### Berufsständischer Hintergrund (nicht im Vordergrund zitieren)
+
+- **IDW S 11** (Stand 12.08.2021), Tz. 16 f., 31–37 — Beurteilung des Eröffnungsgrundes der Zahlungsunfähigkeit.
+- **IDW S 6** — Anforderungen an Sanierungskonzepte und integrierte Planung (hier nur Hintergrundmaßstab).
+
+## Ausgabeformat
+
+1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditaetsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
+2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
+3. **Markdown-Artefakt** (auf Wunsch): Vorlage `assets/markdown/liquiditaets-artefakt-vorlage.md`, mit Tabellen, Indizienliste und Kurzfazit, das bei jeder Folgemeldung neu geschrieben wird.
+4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
+
+## Beispiel
+
+**Sachverhalt**: Edelholz Manufaktur Berlin GmbH, Stichtag Mo 18.05.2026, Bank 18.500 €, Kasse 0 €, Kontokorrent 150.000 € zu 92 % ausgeschöpft (12.000 € frei). Fällig KW 21: Lohn + AG-SV 42.000 €, Lieferant kritisch 19.500 €. KW 22: SV-Beitrag 14.800 €, Miete 7.200 €. KW 23: USt-VZ 14.200 €, Leasing 3.400 €. Erwartete Eingänge: KW 22 18.000 € (Skonto-Sicherheit 80 % = 14.400 €), KW 23 9.500 €.
+
+**Auswertung**:
+- Aktiva I = 30.500 €. Aktiva II = 23.900 €. Σ Liquide = 54.400 €.
+- Passiva I (KW 21) = 61.500 €. Passiva II (KW 22 + KW 23) = 39.600 €. Σ Fällig = 101.100 €.
+- Liquiditätslücke absolut = 46.700 €. Quote = 46,2 %.
+- Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
+- Ampel: 🔴 — Quote ≥ 10 % und Liquidität am Freitag KW 23 negativ. Damit Zahlungsunfähigkeit § 17 InsO indiziert ab KW 21 — BGH BGHZ 217, 129 Rn. 24 ff.; BGHZ 163, 134 Rn. 12 ff.
+
+**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
+
+## Typische Fehler
+
+- **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
+- **Faktische Duldung des Zahlungsverzugs als Stundung werten**: Beseitigt die Fälligkeit nicht — BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 21 ff.
+- **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
+- **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab Eintritt der Zahlungsunfähigkeit.
+- **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.
+- **Bezugsgröße der Quote verwechseln**: Volumeneffekt nach BGH II ZR 88/16 Rn. 25 ff. — Σ(P I + P II), nicht nur P I.
+- **Vorlage verändern**: Die Excel-Vorlage hat eine vorgegebene Form (Kategorien-Zeilen × KW-Spalten). Nicht in ein anderes Layout umbauen.
 
 ## Quellenpflicht
 
-Alle rechtlichen Aussagen sind nach `references/zitierweise.md` zu belegen.
-Mindestanker: § 17 InsO, BGH, Urt. v. 24.05.2005 - IX ZR 123/04,
-BGHZ 163, 134, sowie § 15a InsO bei Eskalation.
+Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiter-Stil. Berufsständische Verlautbarungen (IDW, StaRUG-Kommentare) als Hintergrund. Die PDFs unter `references/rechtsprechung/` sind die maßgeblichen Quellen, ergänzt um BGHZ 163, 134 (Grundsatzentscheidung) und NJW 2007, 78 (Indizienkatalog).
+
+## Übergabe
+
+Bei 🔴 sofort:
+
+- `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`) — formales Prüfgutachten und gerichtsfester Liquiditätsstatus.
+- `antragspflicht-15a-inso` (Plugin `insolvenzrecht`) — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
+- `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
+
+Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
