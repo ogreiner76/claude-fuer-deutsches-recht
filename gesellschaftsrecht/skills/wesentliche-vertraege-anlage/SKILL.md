@@ -1,25 +1,7 @@
 ---
 name: wesentliche-vertraege-anlage
 description: >
-  Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus
-  Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats.
-  Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und
-  Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei „Vertragsanhang erstellen",
-  „Disclosure Schedule", „wesentliche Verträge", „Anhang 3.X" oder beim Entwurf von
-  Offenlegungsanhängen im M&A-Kontext.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Vertragsanhang erstellen
-  - wesentliche Verträge
-  - Disclosure Schedule
-  - Material Contracts Schedule
-  - Anhang SPA
-  - Due Diligence Vertragsverzeichnis
-  - Change-of-Control Klauseln
-  - Offenlegungsanhang
-  - Gewährleistungsanhang
-argument-hint: "[Pfad zum SPA, oder Definition 'wesentlicher Vertrag' einfügen]"
+  Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei „Vertragsanhang erstellen", „Disclosure Schedule", „wesentliche Verträge", „Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext.
 ---
 
 # Material-Vertragsverzeichnis (Disclosure Schedule)

@@ -1,22 +1,7 @@
 ---
 name: dsgvo-auskunft-antwort
 description: >
-  Bearbeitung von Betroffenenanfragen nach Art. 15–22 DSGVO: geführter Ablauf von
-  Eingangsklassifikation über Identitätsprüfung und Systemabfrage bis zum
-  Antwortentwurf. Fristen nach Art. 12 Abs. 3 DSGVO werden automatisch berechnet.
-  Ausnahmen nach §§ 34, 35 BDSG werden geprüft.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Betroffenenanfrage
-  - Auskunftsanfrage
-  - DSAR
-  - Löschantrag
-  - Widerspruch
-  - Art. 15
-  - Art. 17
-  - Art. 21
-  - Datenkopie
+  Bearbeitung von Betroffenenanfragen nach Art. 15–22 DSGVO: geführter Ablauf von Eingangsklassifikation über Identitätsprüfung und Systemabfrage bis zum Antwortentwurf. Fristen nach Art. 12 Abs. 3 DSGVO werden automatisch berechnet. Ausnahmen nach §§ 34, 35 BDSG werden geprüft.
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO

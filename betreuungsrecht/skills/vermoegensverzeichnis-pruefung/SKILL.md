@@ -1,23 +1,7 @@
 ---
 name: vermoegensverzeichnis-pruefung
 description: >
-  Unterstützt bei Erstellung, Prüfung und Aktualisierung des
-  Vermögensverzeichnisses des Betreuers nach §§ 1835, 1839 BGB sowie
-  der jährlichen Rechnungslegung nach § 1865 BGB. Lädt, wenn Schlagwörter
-  wie „Vermögensverzeichnis", „Anfangsvermögen", „Rechnungslegung",
-  „§ 1835 BGB", „§ 1865 BGB" oder „Sperrvermerk" auftreten.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Vermögensverzeichnis
-  - Anfangsvermögen Betreuung
-  - Rechnungslegung Betreuer
-  - § 1835 BGB
-  - § 1839 BGB
-  - § 1865 BGB
-  - Sperrvermerk Konto
-  - mündelsichere Anlage
-  - Schlussrechnung Betreuung
+  Unterstützt bei Erstellung, Prüfung und Aktualisierung des Vermögensverzeichnisses des Betreuers nach §§ 1835, 1839 BGB sowie der jährlichen Rechnungslegung nach § 1865 BGB. Lädt, wenn Schlagwörter wie „Vermögensverzeichnis", „Anfangsvermögen", „Rechnungslegung", „§ 1835 BGB", „§ 1865 BGB" oder „Sperrvermerk" auftreten.
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)

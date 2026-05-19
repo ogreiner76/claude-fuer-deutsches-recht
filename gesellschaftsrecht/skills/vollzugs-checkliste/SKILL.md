@@ -1,20 +1,7 @@
 ---
 name: vollzugs-checkliste
 description: >
-  Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert
-  den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend:
-  nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger:
-  „Vollzugscheckliste", „Closing-Checkliste", „was fehlt noch zum Closing",
-  „Checklisten-Status", „zur Checkliste hinzufügen".
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Vollzugscheckliste
-  - Closing-Checkliste
-  - Closing-Bedingungen
-  - was fehlt zum Vollzug
-  - Checklisten-Status
-  - Vollzugsvoraussetzungen
+  Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: „Vollzugscheckliste", „Closing-Checkliste", „was fehlt noch zum Closing", „Checklisten-Status", „zur Checkliste hinzufügen".
 ---
 
 # Vollzugscheckliste M&A

@@ -1,23 +1,7 @@
 ---
 name: lernplan
 description: >
-  Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das
-  Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet,
-  adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv,
-  Kaiser-Skripten). Lädt, wenn der Nutzer „Lernplan erstellen", „Examensvorbereitung planen",
-  „Stundenplan Staatsexamen" oder „wie soll ich für [Prüfung] lernen" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Lernplan erstellen
-  - Examensvorbereitung planen
-  - Staatsexamen Lernplan
-  - Repetitorium Planung
-  - Klausurenphase planen
-  - zweites Staatsexamen vorbereiten
-  - Wiederholungsphase strukturieren
-  - Lernen organisieren
-  - Lernstunden planen
+  Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer „Lernplan erstellen", „Examensvorbereitung planen", „Stundenplan Staatsexamen" oder „wie soll ich für [Prüfung] lernen" sagt.
 ---
 
 # Staatsexamen-Lernplan

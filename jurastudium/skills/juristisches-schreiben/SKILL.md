@@ -1,23 +1,7 @@
 ---
 name: juristisches-schreiben
 description: >
-  Strukturiertes Feedback auf juristische Schreibarbeiten — Hausarbeit, Seminararbeit, Dissertation,
-  Aufsatz (JuS/JA-Stil), Klausur im Urteilsstil. Schreibt den Entwurf NIE um. Lädt, wenn der
-  Nutzer „Feedback auf meine Hausarbeit", „Gliederung prüfen", „meinen Aufsatz kommentieren"
-  oder „Stilfehler zeigen" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Hausarbeit Feedback
-  - Seminararbeit prüfen
-  - Aufsatz kommentieren
-  - juristische Schreibweise
-  - Gliederung prüfen
-  - Stilfehler Jura
-  - Dissertation Feedback
-  - JuS Aufsatz
-  - wissenschaftlicher Stil
-  - Klausur Urteilsstil
+  Strukturiertes Feedback auf juristische Schreibarbeiten — Hausarbeit, Seminararbeit, Dissertation, Aufsatz (JuS/JA-Stil), Klausur im Urteilsstil. Schreibt den Entwurf NIE um. Lädt, wenn der Nutzer „Feedback auf meine Hausarbeit", „Gliederung prüfen", „meinen Aufsatz kommentieren" oder „Stilfehler zeigen" sagt.
 ---
 
 # Juristische Schreibberatung

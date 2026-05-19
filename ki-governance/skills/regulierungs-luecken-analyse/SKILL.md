@@ -1,23 +1,7 @@
 ---
 name: regulierungs-luecken-analyse
 description: >
-  Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen
-  Governance-Position ab — identifiziert Lücken, Prioritäten und einen
-  Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer
-  „Lückenanalyse AI Act", „gilt der AI Act für uns", „Compliance-Prüfung
-  KI", „neue KI-Verordnung prüfen" oder Regelungstext eingibt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Lückenanalyse AI Act
-  - gilt der AI Act für uns
-  - Compliance-Prüfung KI
-  - neue KI-Verordnung prüfen
-  - AI-Act-Conformity-Check
-  - regulatorische Lücken KI
-  - DSGVO Art. 22 Compliance
-  - Hochrisiko-KI-Pflichten prüfen
-  - KI-Regulierung Anwendungsbereich
+  Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer „Lückenanalyse AI Act", „gilt der AI Act für uns", „Compliance-Prüfung KI", „neue KI-Verordnung prüfen" oder Regelungstext eingibt.
 ---
 
 # KI-Regulierungs-Lückenanalyse

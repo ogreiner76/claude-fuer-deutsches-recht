@@ -1,22 +1,7 @@
 ---
 name: mandat-arbeitsbereich
 description: >
-  Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln,
-  abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn
-  ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven
-  Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf
-  kanzleiweiten Kontext umschalten möchte.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandat anlegen
-  - Mandatsakte
-  - Mandatswechsel
-  - Mandat abschließen
-  - Mandatsverwaltung
-  - Aktenstruktur
-  - Mandatsübersicht
-  - neues Mandat
+  Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf kanzleiweiten Kontext umschalten möchte.
 ---
 
 # Mandatsarbeitsbereich Vertragsrecht

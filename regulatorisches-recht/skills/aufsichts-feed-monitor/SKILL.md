@@ -1,23 +1,7 @@
 ---
 name: aufsichts-feed-monitor
 description: >
-  Überwacht regulatorische Quellen auf neue Verlautbarungen und Rechtsänderungen, gefiltert nach
-  einem konfigurierbaren Wesentlichkeitsschwellenwert. Lädt, wenn der Nutzer „Feeds prüfen",
-  „Was gibt es Neues im Regulatorischen", „BaFin-Rundschreiben" oder eine konkrete Fundstelle
-  zur Einordnung nennt — oder wenn der Scheduler-Agent die Skill automatisch auslöst.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Feeds prüfen
-  - regulatorische Aktualisierung
-  - Was gibt es Neues im Regulatorischen
-  - BaFin-Rundschreiben
-  - Bundesgesetzblatt Änderungen
-  - Amtsblatt EU
-  - BSI-Verlautbarungen
-  - EuGH-Newsletter
-  - Referentenentwurf neu
-  - Bundesanzeiger Aktuell
+  Überwacht regulatorische Quellen auf neue Verlautbarungen und Rechtsänderungen, gefiltert nach einem konfigurierbaren Wesentlichkeitsschwellenwert. Lädt, wenn der Nutzer „Feeds prüfen", „Was gibt es Neues im Regulatorischen", „BaFin-Rundschreiben" oder eine konkrete Fundstelle zur Einordnung nennt — oder wenn der Scheduler-Agent die Skill automatisch auslöst.
 ---
 
 # Regulatorischer Feed-Watcher

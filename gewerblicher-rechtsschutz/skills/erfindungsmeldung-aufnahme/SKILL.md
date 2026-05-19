@@ -1,22 +1,7 @@
 ---
 name: erfindungsmeldung-aufnahme
 description: >
-  Erstprüfung einer Erfindungsmeldung nach deutschem Recht — Neuheit,
-  erfinderische Tätigkeit, technischer Charakter (EPÜ), Schutzfähigkeit,
-  Arbeitnehmererfindung (ArbnErfG) und strategischer Wert. Lädt, wenn eine
-  Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung,
-  Weiterverfolgung oder Ablehnung benötigt wird.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Erfindungsmeldung
-  - Arbeitnehmererfindung
-  - Patentanmeldung prüfen
-  - Inanspruchnahme Erfindung
-  - technische Schutzrechte
-  - Neuheitsprüfung
-  - Schutzrechtsstrategie Patent
-  - ArbnErfG Meldung
+  Erstprüfung einer Erfindungsmeldung nach deutschem Recht — Neuheit, erfinderische Tätigkeit, technischer Charakter (EPÜ), Schutzfähigkeit, Arbeitnehmererfindung (ArbnErfG) und strategischer Wert. Lädt, wenn eine Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung, Weiterverfolgung oder Ablehnung benötigt wird.
 ---
 
 # Erfindungseingang — Erstprüfung

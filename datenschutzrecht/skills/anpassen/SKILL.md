@@ -1,18 +1,7 @@
 ---
 name: anpassen
 description: >
-  Praxisprofil gezielt anpassen, ohne das komplette Interview zu wiederholen.
-  Auslöser: Nutzer möchte eine bestimmte Einstellung ändern (z.B. Aufsichtsbehörde,
-  AVV-Dealbreaker, Systemliste), oder ein Skill hat eine Standardeinstellung gemeldet,
-  die nicht passt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - anpassen
-  - konfigurieren
-  - ändern
-  - profil aktualisieren
-  - anpassen
+  Praxisprofil gezielt anpassen, ohne das komplette Interview zu wiederholen. Auslöser: Nutzer möchte eine bestimmte Einstellung ändern (z.B. Aufsichtsbehörde, AVV-Dealbreaker, Systemliste), oder ein Skill hat eine Standardeinstellung gemeldet, die nicht passt.
 ---
 
 # Customize – Praxisprofil anpassen

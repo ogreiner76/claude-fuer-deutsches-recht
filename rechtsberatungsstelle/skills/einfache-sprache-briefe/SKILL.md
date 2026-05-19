@@ -1,22 +1,7 @@
 ---
 name: einfache-sprache-briefe
 description: >
-  Referenz: VERALTET — für Routine-Korrespondenz `/mandantenbrief` verwenden,
-  für inhaltliche Statusupdates `/status mandant`. Im Zuge des Umbaus auf
-  Version 2 in zwei fokussiertere Skills aufgeteilt. Lädt, wenn ein Studierender
-  einen verständlichen Mandantenbrief, ein Statusschreiben in leichter Sprache
-  oder eine einfach formulierte Mandantenmitteilung erstellen möchte.
-language: de
-user-invocable: false
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandantenbrief einfache Sprache
-  - verständlicher Brief
-  - Terminbestätigung schreiben
-  - Informationsschreiben Mandant
-  - leichte Sprache Schreiben
-  - Statusbrief verständlich
-  - Mandant informieren einfach
+  Referenz: VERALTET — für Routine-Korrespondenz `/mandantenbrief` verwenden, für inhaltliche Statusupdates `/status mandant`. Im Zuge des Umbaus auf Version 2 in zwei fokussiertere Skills aufgeteilt. Lädt, wenn ein Studierender einen verständlichen Mandantenbrief, ein Statusschreiben in leichter Sprache oder eine einfach formulierte Mandantenmitteilung erstellen möchte.
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

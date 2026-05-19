@@ -1,24 +1,7 @@
 ---
 name: anwendungsfall-triage
 description: >
-  Prüft einen neuen Verarbeitungsvorgang datenschutzrechtlich und klassifiziert ihn als
-  FREIGABE, DSA ERFORDERLICH, DSFA PFLICHT oder STOPP — mit Rechtsgrundlagenprüfung,
-  Datenschutzrichtlinien-Abgleich und Weiterleitung an den nächsten Schritt.
-  Lädt, wenn der Nutzer eine neue Verarbeitung, ein Produktfeature oder eine
-  Auftragsverarbeitung beschreibt und fragt, ob eine Datenschutz-Folgenabschätzung nötig ist.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Datenschutz-Triage
-  - brauchen wir eine DSFA
-  - neues Feature datenschutzrechtlich prüfen
-  - Verarbeitungstätigkeit einordnen
-  - Rechtsgrundlage DSGVO
-  - Privacy by Design
-  - Auftragsverarbeitung prüfen
-  - Verzeichnis Verarbeitungstätigkeiten
-  - DSGVO Use-Case prüfen
-  - datenschutzrechtliche Vorabprüfung
+  Prüft einen neuen Verarbeitungsvorgang datenschutzrechtlich und klassifiziert ihn als FREIGABE, DSA ERFORDERLICH, DSFA PFLICHT oder STOPP — mit Rechtsgrundlagenprüfung, Datenschutzrichtlinien-Abgleich und Weiterleitung an den nächsten Schritt. Lädt, wenn der Nutzer eine neue Verarbeitung, ein Produktfeature oder eine Auftragsverarbeitung beschreibt und fragt, ob eine Datenschutz-Folgenabschätzung nötig ist.
 ---
 
 # Datenschutz-Triage neuer Verarbeitungsvorgänge

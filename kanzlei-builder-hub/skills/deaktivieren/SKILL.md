@@ -1,21 +1,7 @@
 ---
 name: deaktivieren
 description: >
-  Einen Community-Skill, der über den Hub installiert wurde, ohne Dateilöschung deaktivieren.
-  Einsetzen, wenn der Nutzer einen Community-Skill vorübergehend stilllegen möchte
-  („disable [skill]"), seine automatischen Auslöser am Feuern hindern will, die Konfiguration
-  aber behalten möchte, oder einen zuvor deaktivierten Skill wieder aktivieren möchte.
-argument-hint: "[Skillname]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - skill deaktivieren
-  - skill stilllegen
-  - disable
-  - deaktivieren
-  - skill abschalten
-  - skill pausieren
-  - skill vorübergehend sperren
+  Einen Community-Skill, der über den Hub installiert wurde, ohne Dateilöschung deaktivieren. Einsetzen, wenn der Nutzer einen Community-Skill vorübergehend stilllegen möchte („disable [skill]"), seine automatischen Auslöser am Feuern hindern will, die Konfiguration aber behalten möchte, oder einen zuvor deaktivierten Skill wieder aktivieren möchte.
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)
