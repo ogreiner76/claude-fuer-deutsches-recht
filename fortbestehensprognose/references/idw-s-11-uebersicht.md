@@ -1,0 +1,103 @@
+# IDW S 11 — Beurteilung des Vorliegens von Insolvenzeröffnungsgründen
+
+> IDW Standard S 11 ist der zentrale berufsständische Standard für die Beurteilung der Insolvenzeröffnungsgründe nach §§ 17, 18, 19 InsO. Stand der jeweils aktuellen Fassung beachten — IDW gibt Fortschreibungen heraus.
+
+## Anwendungsbereich
+
+Der Standard richtet sich primär an Wirtschaftsprüfer, vereidigte Buchprüfer und Steuerberater, die für Mandanten eine **Beurteilung von Insolvenzeröffnungsgründen** vornehmen.
+
+Auch der **Geschäftsleiter selbst** kann den Standard als Orientierung für seine **eigene Pflichtprüfung** heranziehen. Wer als Geschäftsleiter eine Selbstdokumentation an IDW S 11 anlehnt, kann sich darauf berufen, methodisch sorgfältig vorgegangen zu sein (§ 43 Abs. 1 GmbHG, § 93 Abs. 1 AktG).
+
+## Drei-Stufen-Schema
+
+IDW S 11 prüft die drei Eröffnungsgründe in folgender Reihenfolge:
+
+### Stufe 1 — Zahlungsunfähigkeit § 17 InsO
+
+- **Liquiditätsstatus** zum Stichtag.
+- **Liquiditätsplan** über drei Wochen.
+- **Schema** nach BGH-Rspr. BGHZ 163, 134 (IX ZR 123/04, 24.05.2005): Liquiditätslücke ≥ 10 % über länger als drei Wochen = Zahlungsunfähigkeit.
+- **Ausnahme**: Lücke schließbar binnen drei Wochen mit überwiegender Wahrscheinlichkeit.
+
+### Stufe 2 — Drohende Zahlungsunfähigkeit § 18 InsO
+
+- **Prognosezeitraum 24 Monate** (seit SanInsFoG 2021, vorher unbestimmt).
+- Sind innerhalb dieser Zeit die fälligen Verpflichtungen aus den verfügbaren Mitteln nicht zu erfüllen?
+- Bei Bejahung: Möglichkeit zur Inanspruchnahme des StaRUG-Restrukturierungsrahmens oder zur Eigenantragstellung mit Eigenverwaltung.
+
+### Stufe 3 — Überschuldung § 19 InsO
+
+- **Bilanzieller Überschuldungsstatus**: Aktiva > Passiva mit insolvenzrechtlicher Bewertung (Stille Reserven plus, Stille Lasten minus, Rangrücktritte nicht passiviert).
+- **Fortbestehensprognose** über 12 Monate (seit SanInsFoG 2021, vorher unbestimmt — meist 12 Monate ergänzend zu IDW S 11).
+- Wenn die Fortführung im Prognosezeitraum **überwiegend wahrscheinlich** (>50 %) ist: keine insolvenzrechtliche Überschuldung trotz bilanzieller Überschuldung.
+
+## Anforderungen an die Fortbestehensprognose
+
+Nach IDW S 11:
+
+### 1. Integriertes Planungsmodell
+
+- **Erfolgsrechnung** (GuV-Planung).
+- **Bilanzplanung** mit Stichtagen.
+- **Liquiditätsplanung** monatlich, in kritischen Phasen wochenbezogen.
+- Alle drei verknüpft.
+
+### 2. Begründete Annahmen
+
+- Umsatz, Kosten, Working Capital, Investitionen, Finanzierung.
+- Jede Annahme **belegbar** und im Zweifel **konservativ** zu wählen.
+- Sensitivitätsszenarien (Basis, Negativ, Stress) erforderlich.
+
+### 3. Berücksichtigung von Sanierungsmaßnahmen
+
+- Nur **verbindlich vereinbarte** und **wahrscheinlich umsetzbare** Maßnahmen.
+- Patronatserklärungen, Gesellschafterdarlehen mit Rangrücktritt, Stundungen, Forderungsverzichte.
+
+### 4. Dokumentation
+
+- Schriftliche Dokumentation der Prognose mit Datum und Verantwortlichem.
+- Anlagen mit Belegen.
+- Aktualisierung bei wesentlichen Änderungen.
+
+## Sanierungsmaßnahmen im IDW S 11
+
+### Berücksichtigungsfähig
+
+- **Harte externe Patronatserklärung** mit insolvenzfester Klausel (Forderungsverzicht im Insolvenzfall).
+- **Qualifizierter Rangrücktritt** gemäß BGH-Rspr. (BGH IX ZR 133/14, IX ZR 210/18, II ZR 18/19).
+- **Forderungsverzicht** mit Besserungsschein.
+- **Stundungsvereinbarungen** schriftlich.
+- **Schriftliche Bankzusage** auf Kreditlinienerhöhung.
+- **Kapitalmaßnahmen** mit notarieller Beurkundung.
+
+### Nicht berücksichtigungsfähig
+
+- **Weicher Comfortletter** (Best Effort).
+- **Mündliche** Zusagen.
+- **Hoffnungen** ohne Belege.
+- **Verkaufserlöse** ohne Käufer.
+
+## Schnittstellen zu anderen IDW-Standards
+
+| Standard | Anwendung |
+|---|---|
+| IDW S 6 | Anforderungen an Sanierungskonzepte — bei größeren Sanierungen wenn ein vollständiges Sanierungskonzept erstellt werden soll |
+| IDW S 9 | Bescheinigungen nach §§ 50, 51 StaRUG — bei Inanspruchnahme des StaRUG-Restrukturierungsrahmens |
+| IDW S 7 | Insolvenzplanverfahren — bei eröffneter Insolvenz mit Insolvenzplan |
+| IDW PS 270 | Going Concern Beurteilung im Jahresabschlussprüfungsbericht |
+
+## Verhältnis zum Geschäftsleiter
+
+IDW S 11 ist **Werkzeug** des Geschäftsleiters. Die Pflicht zur Prüfung der Eröffnungsgründe trägt der Geschäftsleiter persönlich (§ 15a InsO). IDW S 11 strukturiert die Prüfung — entbindet aber nicht von der eigenen Verantwortung.
+
+## Aktualisierung
+
+Die Stellungnahmen und Fortschreibungen des IDW finden sich auf:
+
+- [www.idw.de](https://www.idw.de) — Standards, Fachgutachten, Stellungnahmen.
+
+Bei jeder Erstellung der Fortbestehensprognose: aktuellsten IDW S 11 prüfen.
+
+## Hinweis
+
+Diese Übersicht ersetzt nicht das Originaldokument des IDW. Vor jeder gerichtsverwertbaren Prüfung: Originalstandard heranziehen und ggf. mit WP / Steuerberater abstimmen.

@@ -397,6 +397,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "fortbestehensprognose",
+      "source": "./fortbestehensprognose",
+      "description": "Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation. Pruefablauf Bilanzstatus Annahmen Plausibilisierung 12-Monats-Liquiditaet. Sanierungsbausteine harte Patronatserklaerung Comfortletter Gesellschafterdarlehen Rangruecktritt Stundung Forderungsverzicht. IDW S 11 S 6 StaRUG.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
