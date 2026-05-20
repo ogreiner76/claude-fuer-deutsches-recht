@@ -197,6 +197,22 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "methodenlehre-deutsches-recht",
+      "source": "./methodenlehre-deutsches-recht",
+      "description": "Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos mit Vorrang der historischen Methode. Generalklauseln nur als Auffang. Ruethers-Warnung vor unbegrenzter Auslegung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "zitierweise-deutsches-recht",
+      "source": "./zitierweise-deutsches-recht",
+      "description": "Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rspr mit Datum Aktenzeichen Fundstelle Randnummer. Kommentare mit Bearbeiter Auflage Jahr Randnummer. Reihenfolge Rspr vor Lit neueste zuerst. Palandt heisst seit 2022 Grueneberg. Typografieregeln und Pflicht-Checkliste.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }

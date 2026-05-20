@@ -288,6 +288,17 @@ Jeder Skill verweist auf [`references/zitierweise.md`](./references/zitierweise.
 
 Pflicht: Datum + Aktenzeichen + Fundstelle + Randnummer bei Rspr.; Bearbeiter + Werk + Auflage + Norm + Rn. bei Kommentaren.
 
+### Methodenlehre und Zitierweise als zuschaltbare Plugins
+
+Die Inhalte aus [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md) liegen zusätzlich als zwei eigenständige, einzeln aktivierbare Plugins im Marketplace:
+
+- [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) — Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegungskanones mit Vorrang der historischen Methode, Generalklauseln nur als Auffang, Rüthers-Warnung vor unbegrenzter Auslegung.
+- [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Palandt/Grüneberg-Regel, Typografiestandards, Pflicht-Checkliste vor jeder Ausgabe.
+
+Beide Plugins enthalten die gleichen Inhalte wie die Referenzdateien, sind aber als Skill ausgeführt: Sobald sie in Cowork aktiviert sind, gilt die Methodik bzw. die Zitierweise als ausdrückliche Pflicht für jede Antwort — unabhängig davon, ob ein Rechtsgebietsplugin geladen ist.
+
+Aktivierung in Cowork: `Customize → Skills → Persönliche Plugins → +` und das jeweilige Plugin hinzuschalten.
+
 ## Für Einsteiger: Schritt-für-Schritt-Anleitung
 
 ### Was brauche ich?
