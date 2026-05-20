@@ -61,7 +61,7 @@ Zu deaktivierende Dateien (Umbenennung, keine Löschung):
   ~/.claude/skills/[skill-name]/SKILL.md
     → SKILL.md.disabled
   ~/.claude/skills/[skill-name]/ausloeser/ausloeser.json (falls vorhanden)
-    → auslöser.json.disabled
+    → ausloeser.json.disabled
 
 Konfiguration bleibt erhalten:
   ~/.claude/plugins/config/.../[skill-name]/ (wird NICHT angefasst)
@@ -92,7 +92,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 
 1. Umbenennung rückgängig machen:
    - `SKILL.md.disabled` → `SKILL.md`
-   - `auslöser.json.disabled` → `auslöser.json` (falls vorhanden)
+   - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
    - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
 3. „Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren

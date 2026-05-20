@@ -21,7 +21,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
 
 3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
 
-4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditätsplan.py` als `liquiditätsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
+4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
 
 Anwendungsfälle: Krisen-GmbH/UG, Mittelstand mit Bugwellen-Liquidität, Vorbereitung Sanierungsgespräch mit Hausbank, Dokumentation Fortbestehensprognose für § 19 InsO, Vorbereitung StaRUG-Restrukturierungsverfahren, regelmäßige wöchentliche Geschäftsführer-Sitzung.
 
@@ -144,8 +144,8 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
 - Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
 
 **Schritt 7 – Ergebnis ausliefern**
-- **Immer**: Excel-Datei `Liquiditätsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block „Offene Forderungen“ behalten. Formeln verwenden, nicht hartcodieren.
-- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditäts-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten (single-file, autark, localStorage, JSON-Export/Import, Live-Ampel nach BGH-Schema).
+- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block „Offene Forderungen“ behalten. Formeln verwenden, nicht hartcodieren.
+- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten (single-file, autark, localStorage, JSON-Export/Import, Live-Ampel nach BGH-Schema).
 - **Wenn Markdown-Artefakt gewählt**: `liquiditäts-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditäts-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers das gewählte Artefakt aktualisieren und die neue Version unter demselben Asset-Namen liefern.
 

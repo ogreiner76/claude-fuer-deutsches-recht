@@ -119,7 +119,7 @@ Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf 
 
 ## Ausgabe
 
-- `liquidität-12-monate.xlsx` mit monatlichen Werten je Szenario.
-- `liquidität-monatssalden.md` als menschenlesbare Übersicht.
+- `liquiditaet-12-monate.xlsx` mit monatlichen Werten je Szenario.
+- `liquiditaet-monatssalden.md` als menschenlesbare Übersicht.
 - Hinweis auf Prüfer-Flag bei roten Monaten.
 - Empfehlung auf nächsten Skill `fortbestehensprognose-zusammenfuehren`.

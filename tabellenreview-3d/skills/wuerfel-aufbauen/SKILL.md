@@ -7,7 +7,7 @@ description: "Baut die dreidimensionale Wuerfel-Struktur fuer ein neues Pruefpro
 
 ## Zweck
 
-Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fragt die drei Achsen ab und schreibt sie in eine versionierte `würfel-schema.yaml`. Die Reviewlauf-Skills lesen ausschließlich diese Datei. Wer den Würfel ändern will ändert das Schema; nichts verschwindet still.
+Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fragt die drei Achsen ab und schreibt sie in eine versionierte `wuerfel-schema.yaml`. Die Reviewlauf-Skills lesen ausschließlich diese Datei. Wer den Würfel ändern will ändert das Schema; nichts verschwindet still.
 
 ## Eingaben
 
@@ -35,8 +35,8 @@ Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fra
 
 ## Ausgabe
 
-- `würfel-schema.yaml` mit allen drei Achsen, vollständig definiert
-- `würfel-vorschau.md` — menschenlesbare Übersicht zur Prüfer-Abnahme
+- `wuerfel-schema.yaml` mit allen drei Achsen, vollständig definiert
+- `wuerfel-vorschau.md` — menschenlesbare Übersicht zur Prüfer-Abnahme
 - Optional: `spaltenprompt-bibliothek.yaml` als Referenz auf Standard-Spaltenprompts
 
 ## Quellenpflicht

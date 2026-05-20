@@ -134,7 +134,7 @@ Installierter SHA: a1b2c3d → Neuester SHA: e4f5g6h
 + 1. Art. 28 DSGVO Auftragsverarbeitung prüfen
 - ## Alte NDA-Checkliste
 
-Vertrauensprüfung: ✅ Keine Änderungen an auslöser.json, .mcp.json oder allowed-tools.
+Vertrauensprüfung: ✅ Keine Änderungen an ausloeser.json, .mcp.json oder allowed-tools.
 skills-qualitaetspruefung: BEREIT — kein Rückschritt gegenüber v1.0.
 
 Diff anzeigen (ja) oder Update zurückstellen (nein)?

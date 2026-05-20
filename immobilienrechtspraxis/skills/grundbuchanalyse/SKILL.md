@@ -42,7 +42,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 - `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstueck, Spalten je
   Risikofeld
 - `Risikomatrix.md` mit Ampel pro Objekt und Aggregat-Statistik
-- `Auffälligkeiten.md` — Objekte mit ungewöhnlichen Vermerken
+- `Auffaelligkeiten.md` — Objekte mit ungewöhnlichen Vermerken
   (Insolvenzvermerk Zwangsversteigerungsvermerk Nacherbenvermerk
   Sanierungsvermerk § 144 BauGB Vorkaufsrecht nach BauGB)
 

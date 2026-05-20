@@ -77,5 +77,5 @@ Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander
 
 ## Ausgabe
 
-- `arbeitsblätter.yaml` mit allen Arbeitsblättern, deren Spaltenzusätze, Auslassungen und Prüfer-Rollen
+- `arbeitsblaetter.yaml` mit allen Arbeitsblättern, deren Spaltenzusätze, Auslassungen und Prüfer-Rollen
 - `arbeitsblatt-matrix.md` als menschenlesbare Übersicht

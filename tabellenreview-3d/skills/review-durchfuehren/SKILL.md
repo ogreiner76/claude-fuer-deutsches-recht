@@ -11,10 +11,10 @@ Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblät
 
 ## Eingaben
 
-- `würfel-schema.yaml`
+- `wuerfel-schema.yaml`
 - `spaltenprompts.yaml`
 - `zeilenprompts.yaml`
-- `arbeitsblätter.yaml`
+- `arbeitsblaetter.yaml`
 - `zeilen-inventar.yaml`
 - Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
 
@@ -35,7 +35,7 @@ Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblät
 
 ## Ausgabeformat
 
-- `würfel.parquet` (oder JSON) mit einer Zeile pro Zelle:
+- `wuerfel.parquet` (oder JSON) mit einer Zeile pro Zelle:
 
 ```
 arbeitsblatt-id, zeile-id, spalte-id, antwort, woertliches-zitat, fundstelle, ampel, prüfer-flag, prompt-version, lauf-zeitstempel

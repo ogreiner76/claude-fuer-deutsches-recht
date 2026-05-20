@@ -120,7 +120,7 @@ Getrennt vom Textscan in Schritt 3 die Ausführungsoberfläche des Skills unters
 - **`ausloeser/ausloeser.json`** — Automatische Auslöser führen beliebige Shell-Befehle aus. Jeden Auslöser zeilenweise anzeigen. Im restriktiven Modus ist jeder automatische Auslöser ein ROTES Warnsignal.
 - **`.mcp.json`** — MCP-Server laufen mit den Zugangsdaten des Nutzers. Für jeden Server: Name, URL, Typ, Betreiber. Gegen die `connectors`-Liste der Zulassungsliste abgleichen.
 - **`allowed-tools` / `tools` in Befehls- und Agenten-Frontmatter** — Lesen, Schreiben, Glob sind erwartet. Bash, WebFetch, WebSearch und MCP-Platzhalter sind erhöhte Berechtigungen, die jeweils einen angegebenen Grund erfordern.
-- **Dateischreibpfade** — schreibt eine Anweisung in `~/.claude/`, CLAUDE.md, `.gitignore`, `auslöser/` oder ähnliche umgebungsverändernde Pfade?
+- **Dateischreibpfade** — schreibt eine Anweisung in `~/.claude/`, CLAUDE.md, `.gitignore`, `ausloeser/` oder ähnliche umgebungsverändernde Pfade?
 - **Netzwerkaufrufe** — jede URL, die der Skill abrufen soll. URLs ohne erkennbaren Bezug zum Skill-Zweck kennzeichnen.
 
 #### Lizenzverifizierung (nach dem Abruf)
