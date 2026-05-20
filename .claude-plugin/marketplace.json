@@ -189,6 +189,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "tabellenreview-3d",
+      "source": "./tabellenreview-3d",
+      "description": "3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenpruefung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
