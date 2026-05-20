@@ -146,26 +146,58 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 
 ## Was ist drin?
 
-Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis:
+Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert:
 
 | Plugin | Beschreibung |
 | --- | --- |
-| [`arbeitsrecht`](./arbeitsrecht) | Individual- und Kollektivarbeitsrecht – Kündigung, Aufhebungsvertrag, Abmahnung, Anhörung Betriebsrat, KSchG-Klage, internationale Entsendungen |
-| [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TTDSG, Auskunft, Datenpanne, AVV |
-| [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister |
-| [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Marke, Design, Patent, Urheberrecht, UWG-Abmahnung |
-| [`jurastudium`](./jurastudium) | Werkzeuge für Studium und Referendariat |
-| [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills |
-| [`ki-governance`](./ki-governance) | EU-KI-VO, KI-Inventar, AIA, Vendor Review |
-| [`produktrecht`](./produktrecht) | Produktrecht, AGB, Impressum, PAngV, Marketing-Claims |
-| [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall |
-| [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief |
-| [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung |
-| [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO (BGHZ 163, 134), zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose (IDW S 11), Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. |
-| [Liquiditätsplanung](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
-| [`steuerberater-werkzeuge`](./steuerberater-werkzeuge) | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Die rollierende Liquiditätsplanung steht im Schwester-Plugin Liquiditätsplanung (`liquiditaetsplanung`). |
-| [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking |
+| [`aktenaufbereiter-strafrecht`](./aktenaufbereiter-strafrecht) | Aktenaufbereiter für die Strafverteidigung. Bringt große Strafakten in den Griff durch sechs Excel-fähige Übersichten (Personen, Zeitachse, Beweismittel, Vorwürfe, Schriftsätze, Anlagen). |
+| [`anlagen-zu-schriftsaetzen`](./anlagen-zu-schriftsaetzen) | Zuordnung von Anlagen zu gerichtlichen Schriftsätzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik (Klage, Erwiderung, Replik, Duplik) und erstellt das Anlagenverzeichnis. |
+| [`arbeitsrecht`](./arbeitsrecht) | Individual- und Kollektivarbeitsrecht – Kündigung, Aufhebungsvertrag, Abmahnung, Anhörung Betriebsrat, KSchG-Klage, internationale Entsendungen. |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). |
+| [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TTDSG, Auskunft, Datenpanne, AVV. |
+| [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Light-Touch-Plugin Fachanwalt für Agrarrecht. Höfeordnung, Anerbenrechte, Landpachtrecht (BGB §§ 581 ff.), GrdstVG, EU-GAP-Direktzahlungen, Cross-Compliance, Düngeverordnung, Pflanzenschutz, Tierschutz, Forstrecht. |
+| [`fachanwalt-bank-kapitalmarktrecht`](./fachanwalt-bank-kapitalmarktrecht) | Light-Touch-Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG, ZAG, WpHG, WpIG, MiFID II, MAR Marktmissbrauch, MiCAR, Verbraucherkredit, Vermögensanlage, Beratungshaftung. |
+| [`fachanwalt-bau-architektenrecht`](./fachanwalt-bau-architektenrecht) | Light-Touch-Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertragsrecht §§ 650a ff. Bauvertrag, VOB/A, VOB/B, VOB/C, HOAI, Bauordnungsrecht der Länder. |
+| [`fachanwalt-erbrecht`](./fachanwalt-erbrecht) | Light-Touch-Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff., Pflichtteil, Testament, Erbschein, Erbauseinandersetzung, Erbschaft- und Schenkungsteuer (ErbStG), EU-ErbVO. |
+| [`fachanwalt-familienrecht`](./fachanwalt-familienrecht) | Light-Touch-Plugin Fachanwalt für Familienrecht. Familiengericht, FamFG, Scheidung, Sorgerecht, Umgangsrecht, Unterhalt, Zugewinn, Ehevertrag. |
+| [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Light-Touch-Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG, Brüssel Ia, Rom I, Rom II, grenzüberschreitende Vertragspraxis, Schiedsverfahren (ICC, UNCITRAL), Investitionsschutz (ICSID), WTO, EU-Außenhandel, LkSG. |
+| [`fachanwalt-it-recht`](./fachanwalt-it-recht) | Light-Touch-Plugin Fachanwalt für IT-Recht. SaaS-Verträge, Software-Lizenz, DSGVO/BDSG/TTDSG, TKG, NIS2, DDG, Open-Source-Compliance, Plattformhaftung (DSA, DMA), EU-KI-VO. |
+| [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Light-Touch-Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB, Patientenrechte, Vertragsarztrecht, Berufsrecht Ärzte und Heilberufe, SGB V, MPDG, Apothekenrecht. |
+| [`fachanwalt-migrationsrecht`](./fachanwalt-migrationsrecht) | Light-Touch-Plugin Fachanwalt für Migrationsrecht. AufenthG, AsylG, GFK, Dublin-VO, EU-Verfahrensrichtlinie, Qualifikations-RL, StAG Einbürgerung, Aufenthaltsverfestigung, Familiennachzug. Notfrist § 36 AsylG (eine Woche). |
+| [`fachanwalt-sportrecht`](./fachanwalt-sportrecht) | Light-Touch-Plugin Fachanwalt für Sportrecht. Verbandsrecht der Sportverbände (DFB, FIFA, UEFA, IOC, DOSB), CAS-Schiedsverfahren, Spielerverträge, Doping (WADA-Code, NADA), Sponsoring, Persönlichkeitsrechte Sportler, Veranstalterhaftung. |
+| [`fachanwalt-strafrecht`](./fachanwalt-strafrecht) | Light-Touch-Plugin Fachanwalt für Strafrecht. StPO, StGB, Nebenstrafrecht. Strafverteidigung, Ermittlungsverfahren, Hauptverhandlung, Berufung, Revision, Verfassungsbeschwerde. Ergänzend zum Plugin `aktenaufbereiter-strafrecht`. |
+| [`fachanwalt-transport-speditionsrecht`](./fachanwalt-transport-speditionsrecht) | Light-Touch-Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag, §§ 425 ff. Haftung, §§ 453 ff. Speditionsvertrag, CMR, COTIF, Montrealer Übereinkommen, Haager Visby Regeln, ADSp. |
+| [`fachanwalt-urheber-medienrecht`](./fachanwalt-urheber-medienrecht) | Light-Touch-Plugin Fachanwalt für Urheber- und Medienrecht. UrhG, VGG Verwertungsgesellschaften, KUG Recht am eigenen Bild, Presserecht, Persönlichkeitsrecht, Medienstaatsvertrag, InfoSoc-RL, DSM-RL. |
+| [`fachanwalt-vergaberecht`](./fachanwalt-vergaberecht) | Light-Touch-Plugin Fachanwalt für Vergaberecht. GWB §§ 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, EU-Vergabe-RL, Nachprüfungsverfahren vor Vergabekammer und OLG-Vergabesenat. |
+| [`fachanwalt-verkehrsrecht`](./fachanwalt-verkehrsrecht) | Light-Touch-Plugin Fachanwalt für Verkehrsrecht. StVG, StVO, PflVG, VVG-Bezüge. Verkehrsunfall, Personenschaden, Sachschaden, Bußgeld, Fahrerlaubnis, OWi-Verfahren, Verkehrsstrafrecht (§§ 315c, 316 StGB). |
+| [`fachanwalt-versicherungsrecht`](./fachanwalt-versicherungsrecht) | Light-Touch-Plugin Fachanwalt für Versicherungsrecht. VVG, VAG, Berufsunfähigkeit, private Krankenversicherung, Lebens- und Rentenversicherung, Sachversicherung, Haftpflicht, D&O. |
+| [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Light-Touch-Plugin Fachanwalt für Verwaltungsrecht. VwGO, VwVfG (Bund/Länder), Anfechtungs- und Verpflichtungsklage, Eilrechtsschutz, Normenkontrolle, Polizei- und Ordnungsrecht. |
+| [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf-Skill destilliert aus eigenen Mustern. Klagentwurf zum Amtsgericht und Landgericht ab 1.1.2026 nach neuer Streitwertgrenze 10.000 € (§ 23 Nr. 1 GVG n.F.). |
+| [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
+| [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Marke, Design, Patent, Urheberrecht, UWG-Abmahnung. |
+| [`immobilienrechtspraxis`](./immobilienrechtspraxis) | Werkzeuge für immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung, Übergabeprotokolle. |
+| [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO (BGHZ 163, 134), zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose (IDW S 11), Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. |
+| [`jurastudium`](./jurastudium) | Werkzeuge für Studium und Referendariat. |
+| [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills. |
+| [`kanzlei-cowork`](./kanzlei-cowork) | Cowork-Assistent für die deutsche Anwaltskanzlei. Fristenbuch, Timesheet, Rechnungserstellung nach RVG, Versand-Vor-Check (PDF, beA, Signatur, Adressat, Anlagen), beA-Versand-Prüfung, Postein- und ausgang, Mandantenakte, Aktenbestandspflege, Honorar-Mahnwesen, Mandantenbrief-Vorlagen, Geburtstags- und Weihnachtskarten, Sekretariats-Tagesbrief. |
+| [`ki-governance`](./ki-governance) | EU-KI-VO, KI-Inventar, AIA, Vendor Review. |
+| [Liquiditätsplanung](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
+| [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
+| [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) | Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. |
+| [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
+| [`nda-abgleich`](./nda-abgleich) | NDA-Verhandlungshilfe für die empfangende Seite. Modus A: Standard-Destillation aus 1–n NDAs. Modus B: Redlining gegen den eigenen Standard. |
+| [`produktrecht`](./produktrecht) | Produktrecht, AGB, Impressum, PAngV, Marketing-Claims. |
+| [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall. Streitwertgrenzen ab 1.1.2026 angepasst (AG bis 10.000 € nach § 23 Nr. 1 GVG n.F.). |
+| [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief. |
+| [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung. |
+| [`sozialrecht-kanzlei`](./sozialrecht-kanzlei) | Vollassistenz für die sozialrechtliche Kanzlei: Bescheidanalyse, Widerspruch, Klage zum Sozialgericht, Eilantrag, Akteneinsicht, Anlagenerstellung. Spezialisiert auf Bürgergeld (SGB II), SGB IX Schwerbehinderung, Pflege, Hilfsmittel (Rollstuhl, Hörhilfe, Vorlesekraft), Eingliederungshilfe, SGB VIII Schulbegleitung. Fristenbuch und PKH. |
+| [`steuerberater-werkzeuge`](./steuerberater-werkzeuge) | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Die rollierende Liquiditätsplanung steht im Schwester-Plugin Liquiditätsplanung (`liquiditaetsplanung`). |
+| [`steuerrecht-kanzlei`](./steuerrecht-kanzlei) | Vollassistenz für die steuerrechtsanwaltliche Kanzlei: Bescheidanalyse, Einspruch nach AO, Klage zum Finanzgericht, Aussetzung der Vollziehung, Außenprüfung, Selbstanzeige, Verbindliche Auskunft, Akteneinsicht Steuerakte. Anwaltlich-streitbezogene Folgebearbeitung (nicht Steuererklärung). |
+| [`tabellenreview-3d`](./tabellenreview-3d) | 3D-Tabellenreview als Würfel: Spaltenprompts pro Datenpunkt × Zeilenprompts pro Dokument × Arbeitsblatt-Perspektiven (Rollen, Adressaten). |
+| [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit verpflichtender Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz, formelle und materielle Verfassungsmäßigkeit, Grundrechte und Verfassungsbeschwerde. |
+| [`verlagsredaktion`](./verlagsredaktion) | Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte, PPT, Screenshots, Videos, Notizen) einen redaktionellen Text. Modus B redigiert vorhandene Texte. |
+| [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking. |
+| [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rechtsprechung mit Datum, Aktenzeichen, Fundstelle, Randnummer. Kommentar- und Aufsatzzitate. |
 
 Zusätzlich:
 - [`verwaltete-agentenrezepte`](./verwaltete-agentenrezepte) – wiederverwendbare Vorlagen für Multi-Agent-Arbeitsabläufe (Aufsichts-Monitor, Gerichtskalender-Monitor, Verlängerungs-Monitor, Due-Diligence-Tabelle).

@@ -381,6 +381,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "verfassungsrecht",
+      "source": "./verfassungsrecht",
+      "description": "Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
