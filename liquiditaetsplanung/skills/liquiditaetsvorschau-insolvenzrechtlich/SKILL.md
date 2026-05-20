@@ -7,7 +7,7 @@ description: "Gerichtsfähige Liquiditätsbilanz und Liquiditätsvorschau für d
 
 ## Zweck
 
-Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditätsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
+Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
 
 Anwendungsfälle:
 
@@ -115,7 +115,7 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis von `assets/excel/Liquiditätsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block „Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
+1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block „Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
 2. **HTML-Padlet** (auf Wunsch).
 3. **Markdown-Artefakt** (auf Wunsch).
 4. **Memo** (nur auf Anfrage) im Gutachtenstil: Sachverhalt, Rechtliche Grundlagen, Liquiditätsbilanz, Subsumtion BGH-Schema, Indizienanalyse, Ergebnis, Quellennachweis.

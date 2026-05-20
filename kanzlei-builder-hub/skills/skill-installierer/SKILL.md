@@ -91,7 +91,7 @@ Dann auf Basis des extrahierten SPDX-Tokens (oder „nicht erkannt" / „nicht v
 Aus Registry-URL oder Skill-Name (aufgelöst gegen überwachte Registries):
 
 - Skill-Verzeichnis klonen oder herunterladen
-- Sammeln: vollständige `SKILL.md`, alle `commands/*`, `agents/*`, `auslöser/auslöser.json`, `.mcp.json`, `references/*`, `templates/*`, `scripts/*`
+- Sammeln: vollständige `SKILL.md`, alle `commands/*`, `agents/*`, `ausloeser/ausloeser.json`, `.mcp.json`, `references/*`, `templates/*`, `scripts/*`
 
 **Schreibgeschützter Subagent — Pflicht im restriktiven Modus.** In diesem Modus müssen Schritte 2–4 in einem Subagenten mit ausschließlich Lese- + WebFetch- + Glob-Zugriff ausgeführt werden. Kein Schreiben, keine Bash, kein MCP. Ist kein schreibgeschützter Subagent verfügbar: Stopp. Nutzer informieren und warten, bis eine konforme Umgebung bereitsteht oder auf permissiven Modus gewechselt wird.
 
@@ -117,7 +117,7 @@ Expliziter Hinweis an den Nutzer: „Was folgt, ist die rohe SKILL.md. Die KI-Zu
 
 Getrennt vom Textscan in Schritt 3 die Ausführungsoberfläche des Skills untersuchen:
 
-- **`auslöser/auslöser.json`** — Automatische Auslöser führen beliebige Shell-Befehle aus. Jeden Auslöser zeilenweise anzeigen. Im restriktiven Modus ist jeder automatische Auslöser ein ROTES Warnsignal.
+- **`ausloeser/ausloeser.json`** — Automatische Auslöser führen beliebige Shell-Befehle aus. Jeden Auslöser zeilenweise anzeigen. Im restriktiven Modus ist jeder automatische Auslöser ein ROTES Warnsignal.
 - **`.mcp.json`** — MCP-Server laufen mit den Zugangsdaten des Nutzers. Für jeden Server: Name, URL, Typ, Betreiber. Gegen die `connectors`-Liste der Zulassungsliste abgleichen.
 - **`allowed-tools` / `tools` in Befehls- und Agenten-Frontmatter** — Lesen, Schreiben, Glob sind erwartet. Bash, WebFetch, WebSearch und MCP-Platzhalter sind erhöhte Berechtigungen, die jeweils einen angegebenen Grund erfordern.
 - **Dateischreibpfade** — schreibt eine Anweisung in `~/.claude/`, CLAUDE.md, `.gitignore`, `auslöser/` oder ähnliche umgebungsverändernde Pfade?

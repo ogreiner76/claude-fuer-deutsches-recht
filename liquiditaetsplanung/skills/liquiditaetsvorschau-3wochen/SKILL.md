@@ -7,7 +7,7 @@ description: "Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. E
 
 ## Zweck
 
-Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditätsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
+Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
 
 Anwendungsfälle:
 
@@ -56,7 +56,7 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 **Schritt 3 — Stichtag und Wochenraster**
 - Stichtag = Montag der laufenden KW *t*.
 - Wochenraster: KW *t*, *t+1*, *t+2* mit Freitag als Wochenstichtag. Die Vorschau zeigt für jede Woche: Liquidität Wochenanfang (Montag), Σ Einnahmen, Σ Ausgaben, Cashflow, Liquidität Wochenende (Freitag).
-- Spaltenformat wie in der Vorlage `Liquiditätsplan-Wochenbasis.xlsx`: Kategorien-Zeilen × KW-Spalten, keine andere Anordnung.
+- Spaltenformat wie in der Vorlage `Liquiditaetsplan-Wochenbasis.xlsx`: Kategorien-Zeilen × KW-Spalten, keine andere Anordnung.
 
 **Schritt 4 — BGH-Test § 17 InsO (Liquiditätsbilanz)**
 - Aktiva I = Bank + Kasse + freier zugesagter Kontokorrent (zum Stichtag).
@@ -78,7 +78,7 @@ Deckungsgrad = Offene Forderungen gesamt ÷ Liquiditätslücke (absolut). Tituli
 
 **Schritt 7 — Ergebnis ausliefern**
 - **Immer**: Excel-Datei `Liquiditätsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditätsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
-- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditäts-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditäts-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
+- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditäts-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
 - **Wenn Markdown-Artefakt gewählt**: `liquiditäts-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditäts-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers (weitere Belege, Beträge, Korrekturen, neue Indizien) das gewählte Artefakt-Format aktualisieren und die neue Version unter demselben Asset-Namen liefern.
 
@@ -128,8 +128,8 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditätsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditätsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
-2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditäts-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
+1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditätsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
+2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
 3. **Markdown-Artefakt** (auf Wunsch): Vorlage `assets/markdown/liquiditäts-artefakt-vorlage.md`, mit Tabellen, Indizienliste und Kurzfazit, das bei jeder Folgemeldung neu geschrieben wird.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
 
