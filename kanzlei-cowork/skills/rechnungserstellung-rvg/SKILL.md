@@ -1,0 +1,110 @@
+---
+name: rechnungserstellung-rvg
+description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebuehrentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Taetigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung). Reisekosten und Tage- und Abwesenheitsgeld nach VV RVG. Auslagen-Pauschale Nr. 7002 VV RVG. Erzeugt rechtsgueltige Rechnung als PDF und Markdown. Mit Eintrag im Honorar-Tracker.
+---
+
+# Rechnungserstellung Honorar (RVG oder Vereinbarung)
+
+## Rechtsgrundlagen
+
+- **RVG** Rechtsanwaltsverguetungsgesetz — § 10 Berechnung der Verguetung; Anlage 1 (RVG-VV) Verguetungstabelle.
+- **Anlage 2 RVG** Gebuehrentabelle (Streitwert).
+- **Honorarvereinbarung** § 3a RVG — schriftlich Mindestbetraege Beduerftigkeitspruefung.
+
+## Pflichtangaben § 10 RVG
+
+1. **Rechnungssteller** (Anwalt mit Anschrift Steuernummer USt-IDNr).
+2. **Empfaenger** (Mandant Anschrift).
+3. **Rechnungsdatum** und **Rechnungsnummer** (laufend einmalig).
+4. **Aktenzeichen** der Kanzlei.
+5. **Gegenstand der Taetigkeit** kurz beschrieben.
+6. **Verguetungstatbestaende** mit RVG-VV-Nummer und Gebuehrensatz.
+7. **Streitwert / Gegenstandswert** (bei RVG-Abrechnung).
+8. **Stundensaetze und Stundenzahl** (bei Honorarvereinbarung).
+9. **Auslagen** (Telekommunikationspauschale Nr. 7002 VV RVG; Kopier- und Versandkosten Nr. 7000 7001; Reisekosten Tagegeld Abwesenheitsgeld Nr. 7003 ff.).
+10. **Umsatzsteuer** (regelmaessig 19 %).
+11. **Gesamtbetrag** und Zahlungsweg.
+12. **Belehrung** auf Akteneinsichtsrecht des Mandanten (§ 50 BRAO).
+
+## RVG-Abrechnung (Gebuehren)
+
+### Typische Gebuehren
+
+| Gebuehr | RVG-VV-Nr. | Anlass |
+|---|---|---|
+| Geschaeftsgebuehr | 2300 | Aussergerichtliche Vertretung |
+| Anrechnung 0,65 | Vorbem. 3 Abs. 4 | Anrechnung auf Verfahrensgebuehr |
+| Verfahrensgebuehr | 3100 | Klage Klageerwiderung 1. Instanz |
+| Terminsgebuehr | 3104 | Gerichtstermin |
+| Einigungsgebuehr | 1000 | Vergleich |
+| Beratungsgebuehr | 2100 (Vereinbarung) | nur Beratung |
+
+### Streitwert
+
+- Berechnung nach § 23 RVG iVm § 3 ZPO.
+- Streitwertfestsetzung des Gerichts bindend (§ 32 RVG).
+
+### Gebuehrentabelle
+
+Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhoehung waehrend Verfahrens Nachforderung moeglich.
+
+## Honorarvereinbarung (§ 3a RVG)
+
+- **Schriftform** zwingend.
+- **Hoehere Verguetung als RVG** zulaessig wenn Vereinbarung wirksam.
+- **Niedrigere Verguetung** als RVG nicht zulaessig (§ 4 RVG) ausser bei aussergerichtlicher Beratung.
+- **Stundensatz** und Schaetzgesamtbetrag empfehlenswert.
+- **Pflicht** zur Information ueber Belegung der Stunden gegenueber Mandant.
+
+## Auslagen
+
+- **Nr. 7000 VV RVG** Schreibauslagen und Kopien (1 EUR pro Seite Kopie bis 50 Seiten dann reduziert).
+- **Nr. 7001 VV RVG** Telekommunikationsentgelt-Pauschale.
+- **Nr. 7002 VV RVG** Telekommunikationspauschale 20 EUR pro Sache.
+- **Nr. 7003 VV RVG** Reisekosten (Kilometerpauschale 0,42 EUR pro km PKW).
+- **Nr. 7005 VV RVG** Tage- und Abwesenheitsgeld.
+- **Belege** beifuegen wo erforderlich.
+
+## Umsatzsteuer
+
+- Regelfall 19 %.
+- Anwalt Kleinunternehmer § 19 UStG: ggf. ohne USt-Ausweis und Hinweis auf § 19 UStG.
+
+## Rechnungsformat
+
+```
+Kanzlei XYZ
+Anschrift Steuernummer USt-IDNr
+
+Rechnung Nr. 2026/00123
+Rechnungsdatum: 20.05.2026
+
+Empfaenger: Mueller GmbH ...
+Aktenzeichen: 2026/0042
+Gegenstand: Zivilrechtliche Vertretung im Verfahren gegen ABC GmbH
+
+Streitwert: 25.000 EUR
+
+Position                                              Betrag
+--------------------------------------------------------------
+Verfahrensgebuehr 1,3 Nr. 3100 VV RVG                 1.235 EUR
+Terminsgebuehr 1,2 Nr. 3104 VV RVG                    1.140 EUR
+Telekommunikationspauschale Nr. 7002 VV RVG               20 EUR
+Reisekosten Nr. 7003 VV RVG                              168 EUR
+--------------------------------------------------------------
+Zwischensumme netto                                   2.563 EUR
+Umsatzsteuer 19 %                                       487 EUR
+--------------------------------------------------------------
+Gesamtbetrag brutto                                   3.050 EUR
+
+Zahlungsweg: Ueberweisung auf das Konto IBAN DE...
+Faellig binnen vierzehn Tagen nach Rechnungsdatum.
+
+Hinweis nach § 50 BRAO: Sie koennen Akteneinsicht verlangen.
+```
+
+## Ausgabe
+
+- `rechnung-<nr>.pdf` und `rechnung-<nr>.docx` und Markdown-Spiegel.
+- Eintrag im Honorar-Tracker (Skill `mahnwesen-honorar`).
+- Verbuchung im Buchhaltungssystem (DATEV Lexware sevDesk RA-MICRO).

@@ -221,6 +221,166 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "sozialrecht-kanzlei",
+      "source": "./sozialrecht-kanzlei",
+      "description": "Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Buergergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "steuerrecht-kanzlei",
+      "source": "./steuerrecht-kanzlei",
+      "description": "Vollassistenz fuer die steuerrechtsanwaltliche Kanzlei: Bescheidanalyse Einspruch nach AO Klage zum Finanzgericht Aussetzung der Vollziehung Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht Steuerakte. Nicht Steuererklaerung (DATEV Steuerberater) sondern anwaltlich-streitbezogene Folgebearbeitung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "kanzlei-cowork",
+      "source": "./kanzlei-cowork",
+      "description": "Cowork-Assistent fuer die deutsche Anwaltskanzlei. Fristenbuch Timesheet Rechnungserstellung nach RVG Versand-Vor-Check (PDF beA Signatur Adressat Anlagen) beA-Versand-Pruefung Postein- und ausgang Mandantenakte Aktenbestandspflege Honorar-Mahnwesen Mandantenbrief-Vorlagen Geburtstags- und Weihnachtskarten Sekretariats-Tagesbrief.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-familienrecht",
+      "source": "./fachanwalt-familienrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Familienrecht. Orientierung Normen typische Mandate Fristen Standardliteratur. Familiengericht FamFG Scheidung Sorgerecht Umgangsrecht Unterhalt Zugewinn Ehevertrag. Tiefe Bearbeitung erfordert weiterhin Fachanwaltsexpertise.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-strafrecht",
+      "source": "./fachanwalt-strafrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Strafrecht. Orientierung Normen Notfristen Standardliteratur. StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzend zum Plugin aktenaufbereiter-strafrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-verkehrsrecht",
+      "source": "./fachanwalt-verkehrsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Verkehrsrecht. Orientierung StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personenschaden Sachschaden Bussgeld Fahrerlaubnis OWi-Verfahren Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstellen zu Versicherungs- und Strafrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-versicherungsrecht",
+      "source": "./fachanwalt-versicherungsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Versicherungsrecht. Orientierung VVG VAG Berufsunfaehigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstellen kanzlei-cowork und fachanwalt-verkehrsrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-verwaltungsrecht",
+      "source": "./fachanwalt-verwaltungsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-bau-architektenrecht",
+      "source": "./fachanwalt-bau-architektenrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Laender. Schnittstellen Vergaberecht und Verwaltungsrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-erbrecht",
+      "source": "./fachanwalt-erbrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-kanzlei und gesellschaftsrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-medizinrecht",
+      "source": "./fachanwalt-medizinrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen sozialrecht-kanzlei.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-urheber-medienrecht",
+      "source": "./fachanwalt-urheber-medienrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Urheber- und Medienrecht. Orientierung UrhG VGG Verwertungsgesellschaften KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. EU-Bezug InfoSoc-RL DSM-RL. Schnittstellen gewerblicher-rechtsschutz und verlagsredaktion.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-it-recht",
+      "source": "./fachanwalt-it-recht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Informationstechnologierecht. Orientierung SaaS-Vertraege Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG Open-Source-Compliance Plattformhaftung DSA DMA EU-KI-VO. Schnittstellen datenschutzrecht ki-governance vertragsrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-bank-kapitalmarktrecht",
+      "source": "./fachanwalt-bank-kapitalmarktrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Bank- und Kapitalmarktrecht. Orientierung KWG ZAG WpHG WpIG MiFID-II MAR Marktmissbrauch MiCAR Verbraucherkredit Vermoegensanlage Beratungshaftung. Schnittstellen gesellschaftsrecht und regulatorisches-recht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-internationales-wirtschaftsrecht",
+      "source": "./fachanwalt-internationales-wirtschaftsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Internationales Wirtschaftsrecht. Orientierung CISG Bruessel Ia Rom I Rom II grenzueberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-migrationsrecht",
+      "source": "./fachanwalt-migrationsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Migrationsrecht. Orientierung AufenthG AsylG GFK Dublin-VO EU-Verfahrensrichtlinie Qualifikations-RL StAG Einbuergerung Aufenthaltsverfestigung Familiennachzug. Notfrist § 36 AsylG (eine Woche).",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-vergaberecht",
+      "source": "./fachanwalt-vergaberecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachpruefungsverfahren Vergabekammer OLG-Vergabesenat. Schnittstellen fachanwalt-bau-architektenrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-transport-speditionsrecht",
+      "source": "./fachanwalt-transport-speditionsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Uebereinkommen Haager Visby Regeln ADSp.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-agrarrecht",
+      "source": "./fachanwalt-agrarrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-sportrecht",
+      "source": "./fachanwalt-sportrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Sportrecht. Orientierung Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielervertraege Doping WADA-Code NADA Sponsoring Persoenlichkeitsrechte Sportler Veranstalterhaftung.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }

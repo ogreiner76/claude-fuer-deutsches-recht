@@ -1,0 +1,21 @@
+{
+  "name": "fachanwalt-strafrecht",
+  "version": "0.1.0",
+  "description": "Light-Touch-Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-cowork.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "strafrecht",
+    "fachanwalt",
+    "strafverteidigung",
+    "stpo",
+    "stgb",
+    "ermittlungsverfahren",
+    "hauptverhandlung",
+    "revision",
+    "akteneinsicht-strafakte"
+  ]
+}
