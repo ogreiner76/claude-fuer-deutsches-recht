@@ -65,8 +65,8 @@ Ankunft Frankfurt: ca. 11:35 Uhr am 14.04.2026.
 | Ankunftsverspätung | 53 Stunden (> 4 Stunden) |
 | Ausgleichsanspruch je Passagier | 600 EUR (Art. 7 Abs. 1 lit. c VO 261/2004) |
 | 5 Passagiere | **3.000 EUR** |
-| Auslagen gesamt | ca. **545 EUR** |
-| **Gesamtforderung (Ausgleich + Auslagen)** | **ca. 3.545 EUR** |
+| Auslagen gesamt | **587,64 EUR** (Wechselkurs THB/EUR 38,35 vom 13.04.2026) |
+| **Gesamtforderung (Ausgleich + Auslagen)** | **3.587,64 EUR** |
 | Verjährung | 31.12.2029 (§ 195 BGB, BGH X ZR 80/10) |
 | Mandantenkontakt | 20.05.2026 |
 
@@ -104,7 +104,7 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 
 ---
 
-## Akteiinhalt – Dateienübersicht
+## Akteninhalt – Dateienübersicht
 
 | Dateiname | Typ | Inhalt | Besonderheit |
 |---|---|---|---|

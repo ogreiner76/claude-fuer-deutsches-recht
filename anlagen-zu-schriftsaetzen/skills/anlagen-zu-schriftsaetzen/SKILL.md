@@ -84,7 +84,7 @@ Konvention für die einzelnen Anlagen-Dateien im Ausgabe-Ordner:
 ```
 Anlage_K-03_Vertrag-vom-2024-03-15.pdf
 Anlage_K-07a_Mahnschreiben-erste-Stufe.pdf
-Anlage_B-01_Aufrechnungserklärung.pdf
+Anlage_B-01_Aufrechnungserklaerung.pdf
 ```
 
 Regeln:
