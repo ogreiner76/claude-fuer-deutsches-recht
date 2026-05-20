@@ -1,41 +1,38 @@
 ---
 name: grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan
-description: "StaRUG und Insolvenzplan: Unterstuetzt Restrukturierungsfaelle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan."
+description: "StaRUG und Insolvenzplan: unterstützt Restrukturierungsfälle mit Planoptionen, Gläubigerklassen, Liquiditätsprüfung, Antragspflichten, Distressed M&A und Zeitplan."
 ---
 
 # StaRUG und Insolvenzplan
 
 ## Zweck
 
-Unterstuetzt Restrukturierungsfaelle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan.
+Unterstützt Restrukturierungsfälle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan. Für Liquiditäts- und Insolvenzreifeprüfungen nutzt dieser Skill die internen Skills `grosskanzlei-ma-liquiditaetsvorschau` und `grosskanzlei-ma-insolvenzreife`.
 
 ## Arbeitsmodus
 
-- Krisenphase, Zahlungsfähigkeit, drohende Zahlungsunfähigkeit und Stakeholder erfassen.
+- Krisenphase, Zahlungsfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung und Stakeholder erfassen.
 - Planoptionen, Klassenbildung, Eingriffe, Mehrheiten und Gerichtsschritte strukturieren.
-- M&A-Optionen mit Sanierungsplan verzahnen.
-- Liquiditaets- und Insolvenzantragspflichten als rote Schwelle markieren.
+- M&A-Optionen mit Sanierungsplan, W&I, SPA, Closing und Finanzierung verzahnen.
+- Antragspflichten und Organhaftung als rote Schwellen in den Deal-Fristenkalender ziehen.
 
 ## Rote Schwellen
 
 - Zahlungsunfähigkeit ungeprüft.
 - Antragspflicht ignoriert.
 - Planbetroffenheit oder Gläubigerklasse unklar.
+- Liquiditätsbrücke stützt den Plan nicht.
 
 ## Standardausgabe
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
+- StaRUG-/Insolvenzplan-Playbook.
+- Klassenmatrix und Vergleichsrechnung als Arbeitsstruktur.
+- Deal Impact auf Signing, Closing, SPA, W&I und Board Paper.
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
 
 ## Vorlagen
 
 - assets/templates/starug-restructuring-plan-playbook.md
 - assets/templates/insolvenzplan-ma-checklist.md
+- assets/templates/starug-fruehwarnmatrix.md
+- assets/templates/insolvenzplan-klassenmatrix.md

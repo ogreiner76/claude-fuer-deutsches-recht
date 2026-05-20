@@ -33,7 +33,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `kanzlei-cowork.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
 | `kanzlei-allgemein.zip`                 | Kanzlei-Allgemein-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA             |
-| `grosskanzlei-corporate-ma.zip`           | Big-Law-Corporate/M&A: Datenraum, DD, Tabellenreview, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI                    |
+| `grosskanzlei-corporate-ma.zip`           | Freistehend: Big-Law-Corporate/M&A mit Aktenanlage, Datenraum, DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreife, CP-Kalender, E-Rechnung/GoBD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI |
 | `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
 | `verwaltete-agentenrezepte.zip`           | Kuratierte Workflow-Rezepte zum Wiederverwenden                                                                            |
 | `aktenaufbereiter-strafrecht.zip`         | Strukturierung großer Strafakten in den Griff bekommen                                                                     |

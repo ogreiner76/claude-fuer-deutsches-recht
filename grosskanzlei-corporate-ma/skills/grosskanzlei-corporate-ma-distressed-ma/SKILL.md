@@ -1,41 +1,39 @@
 ---
 name: grosskanzlei-corporate-ma-distressed-ma
-description: "Distressed M&A: Führt Unternehmenskauf in Krise, vorlaeufiger Insolvenz, Insolvenzplan oder Asset Deal aus der Insolvenz."
+description: "Distressed M&A: führt Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz mit Liquiditäts- und Closing-Fokus."
 ---
 
 # Distressed M&A
 
 ## Zweck
 
-Führt Unternehmenskauf in Krise, vorlaeufiger Insolvenz, Insolvenzplan oder Asset Deal aus der Insolvenz.
+Führt Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz. Liquiditätsvorschau, Insolvenzreifecheck und CP-Kalender sind intern verfügbar.
 
 ## Arbeitsmodus
 
 - Status der Krise und Verfahrensstand erfassen.
-- Asset Deal/Share Deal/Planloesung vergleichen.
-- Sicherheiten, Eigentum, Arbeitnehmerübergang, Anfechtung und Massefragen markieren.
-- Closing-Faehigkeit und Zustimmungserfordernisse prüfen.
+- Asset Deal, Share Deal, Planlösung, übertragende Sanierung und Carve-out vergleichen.
+- Sicherheiten, Eigentum, Arbeitnehmerübergang, Anfechtung, Massefragen und Zustimmungserfordernisse markieren.
+- Closing-Fähigkeit anhand Liquiditätsampel, CPs, Zustimmungskette und Finanzierung prüfen.
+- Auswirkungen auf SPA, W&I, Board Paper und PMI ausgeben.
 
 ## Rote Schwellen
 
 - Insolvenzrechtlicher Status unklar.
 - Eigentum oder Sicherheiten nicht belegt.
 - Betriebsübergang/Arbeitnehmerinformation offen.
+- Liquiditätslücke oder Antragspflicht ohne dokumentierte Maßnahme.
 
 ## Standardausgabe
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
+- Distressed-M&A-Timeline.
+- Deal-Strukturvergleich.
+- Liquiditäts- und Antragspflicht-Ampel.
+- Closing-Fähigkeitscheck mit Belegkette.
 
 ## Vorlagen
 
 - assets/templates/distressed-ma-timeline.md
+- assets/templates/distressed-ma-liquiditaetsampel.md
 - assets/templates/insolvenzplan-ma-checklist.md
+- assets/templates/cash-bridge-13-wochen.md

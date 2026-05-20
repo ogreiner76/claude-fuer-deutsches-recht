@@ -89,7 +89,7 @@
     {
       "name": "grosskanzlei-corporate-ma",
       "source": "./grosskanzlei-corporate-ma",
-      "description": "Big-Law-Großkanzlei-Corporate/M&A-Plugin: Deal-Kommandocenter, Datenraum, Legal DD, Tabellenreview, Q&A, SPA/APA, Disclosure Schedules, Knowledge/Fair Disclosure, Signing/Closing, W&I, Public M&A, Umwandlung, StaRUG, Insolvenzplan, PMI.",
+      "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
       "author": {
         "name": "Klotzkette"
       }
