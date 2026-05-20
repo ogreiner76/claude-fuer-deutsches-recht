@@ -157,6 +157,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "memorandums-ersteller",
+      "source": "./memorandums-ersteller",
+      "description": "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausfuehrungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
