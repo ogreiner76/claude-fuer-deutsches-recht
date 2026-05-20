@@ -146,6 +146,13 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 
 ## Was ist drin?
 
+> 🧭 **Querschnitts-Plugins zum Mitladen:** Zwei Plugins liefern die methodische Grundlage, die in den anderen Plugins vorausgesetzt wird. Sie gehören in jede Konfiguration mit hinein, weil sie den deutschen Stil tragen:
+>
+> - [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) — Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. Definiert die juristische Denk- und Prüfungsreihenfolge für alle Skills.
+> - [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Grüneberg/MüKo-Regel, BGH-/Beck-Stil, Typografiestandards. Pflicht-Checkliste vor jeder Ausgabe.
+>
+> Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
+
 Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert:
 
 | Plugin | Beschreibung |
@@ -153,6 +160,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`aktenaufbereiter-strafrecht`](./aktenaufbereiter-strafrecht) | Aktenaufbereiter für die Strafverteidigung. Bringt große Strafakten in den Griff durch sechs Excel-fähige Übersichten (Personen, Zeitachse, Beweismittel, Vorwürfe, Schriftsätze, Anlagen). |
 | [`anlagen-zu-schriftsaetzen`](./anlagen-zu-schriftsaetzen) | Zuordnung von Anlagen zu gerichtlichen Schriftsätzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik (Klage, Erwiderung, Replik, Duplik) und erstellt das Anlagenverzeichnis. |
 | [`arbeitsrecht`](./arbeitsrecht) | Individual- und Kollektivarbeitsrecht – Kündigung, Aufhebungsvertrag, Abmahnung, Anhörung Betriebsrat, KSchG-Klage, internationale Entsendungen. |
+| [`berufsrecht-ki-vertragspruefung`](./berufsrecht-ki-vertragspruefung) | Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte, Notare. §§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO i.V.m. § 203 StGB. Maßstab DAV-Stellungnahme Nr. 32/2025. Gutachten, Rückfragebrief, Klauselvorschläge. |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TTDSG, Auskunft, Datenpanne, AVV. |
 | [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Light-Touch-Plugin Fachanwalt für Agrarrecht. Höfeordnung, Anerbenrechte, Landpachtrecht (BGB §§ 581 ff.), GrdstVG, EU-GAP-Direktzahlungen, Cross-Compliance, Düngeverordnung, Pflanzenschutz, Tierschutz, Forstrecht. |
@@ -174,6 +182,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Light-Touch-Plugin Fachanwalt für Verwaltungsrecht. VwGO, VwVfG (Bund/Länder), Anfechtungs- und Verpflichtungsklage, Eilrechtsschutz, Normenkontrolle, Polizei- und Ordnungsrecht. |
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rechtsprechung. Tickets erfassen, Annullierung vs. Verspätung prüfen, außergewöhnliche Umstände, Distanz und Ausgleich berechnen, Forderungsschreiben, Mahnung, Klage zum Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden. |
 | [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf-Skill destilliert aus eigenen Mustern. Klagentwurf zum Amtsgericht und Landgericht ab 1.1.2026 nach neuer Streitwertgrenze 10.000 € (§ 23 Nr. 1 GVG n.F.). |
+| [`fortbestehensprognose`](./fortbestehensprognose) | Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Prüfablauf Bilanzstatus, Annahmen, Plausibilisierung, 12-Monats-Liquidität. Sanierungsbausteine: harte Patronatserklärung, Comfortletter, Gesellschafterdarlehen mit Rangrücktritt, Stundung, Forderungsverzicht. IDW S 11, IDW S 6, StaRUG. 90-Prozent-Maßstab nach BGHZ 163, 134. |
 | [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
 | [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Marke, Design, Patent, Urheberrecht, UWG-Abmahnung. |
 | [`immobilienrechtspraxis`](./immobilienrechtspraxis) | Werkzeuge für immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung, Übergabeprotokolle. |
@@ -182,7 +191,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills. |
 | [`kanzlei-cowork`](./kanzlei-cowork) | Cowork-Assistent für die deutsche Anwaltskanzlei. Fristenbuch, Timesheet, Rechnungserstellung nach RVG, Versand-Vor-Check (PDF, beA, Signatur, Adressat, Anlagen), beA-Versand-Prüfung, Postein- und ausgang, Mandantenakte, Aktenbestandspflege, Honorar-Mahnwesen, Mandantenbrief-Vorlagen, Geburtstags- und Weihnachtskarten, Sekretariats-Tagesbrief. |
 | [`ki-governance`](./ki-governance) | EU-KI-VO, KI-Inventar, AIA, Vendor Review. |
-| [Liquiditätsplanung](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
+| [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
 | [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) | Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. |
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
