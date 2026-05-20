@@ -181,6 +181,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "verlagsredaktion",
+      "source": "./verlagsredaktion",
+      "description": "Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte PPT Screenshots Videos Notizen) ein Rohmanuskript als Anschubhilfe. Modus B ueberarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }

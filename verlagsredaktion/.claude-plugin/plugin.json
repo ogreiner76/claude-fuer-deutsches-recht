@@ -1,0 +1,27 @@
+{
+  "name": "verlagsredaktion",
+  "version": "0.1.0",
+  "description": "Verlegerischer Redaktionsassistent fuer juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript fuer Aufsatz Kommentar oder Buchkapitel. Editionssystem ueberarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "verlagsredaktion",
+    "redaktionsleitlinien",
+    "manuskript",
+    "rohmanuskript",
+    "juristischer-verlag",
+    "aufsatz",
+    "kommentar",
+    "buchkapitel",
+    "festschrift",
+    "edition",
+    "lektorat",
+    "pinpoint-zitierung",
+    "bgh-randnummer",
+    "grueneberg",
+    "muenchkomm"
+  ]
+}
