@@ -297,7 +297,7 @@
     {
       "name": "forderungsmanagement-klagewerkstatt",
       "source": "./forderungsmanagement-klagewerkstatt",
-      "description": "Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf-Skill destilliert aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen eine hauseigene Standardklage-Vorlage, sammelt den Sachverhalt und prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de, justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG). Laufzeit-Skill nimmt nur Sachverhalt und Beklagtenadresse entgegen und erzeugt die nächste Klage direkt in der hauseigenen Vorlage. Zusätzlich packt der Skill ein eigenes Mini-Plugin (klagewerkstatt-<kanzlei>.zip), das in Claude Code direkt installierbar ist. Eigenständig nutzbar; ergänzt sich mit prozessrecht und liquiditaetsplanung.",
+      "description": "Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit Plugin-Generator, Zuständigkeitsprüfung und direktem Inkasso-Zahlungsklage-Ersteller. Neu: Mahnvorlauf, Teilzahlung/Erfüllung, Anspruchs-Gatekeeper und Klage nur für klare, fällige und belegte Positionen.",
       "author": {
         "name": "Klotzkette"
       }

@@ -196,7 +196,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-versicherungsrecht`](./fachanwalt-versicherungsrecht) | Light-Touch-Plugin Fachanwalt für Versicherungsrecht. VVG, VAG, Berufsunfähigkeit, private Krankenversicherung, Lebens- und Rentenversicherung, Sachversicherung, Haftpflicht, D&O. |
 | [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Light-Touch-Plugin Fachanwalt für Verwaltungsrecht. VwGO, VwVfG (Bund/Länder), Anfechtungs- und Verpflichtungsklage, Eilrechtsschutz, Normenkontrolle, Polizei- und Ordnungsrecht. |
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rechtsprechung. Tickets erfassen, Annullierung vs. Verspätung prüfen, außergewöhnliche Umstände, Distanz und Ausgleich berechnen, Forderungsschreiben, Mahnung, Klage zum Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden. |
-| [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf-Skill destilliert aus eigenen Mustern. Klagentwurf zum Amtsgericht und Landgericht ab 1.1.2026 nach neuer Streitwertgrenze 10.000 € (§ 23 Nr. 1 GVG n.F.). |
+| [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf aus eigenen Mustern, Laufzeit-Skill und direkter Inkasso-Zahlungsklage-Ersteller mit Mahnvorlauf, Anspruchs-Gatekeeper, Gerichtsortprüfung und der Regel: nur klare, fällige und belegte Ansprüche einklagen. |
 | [`fortbestehensprognose`](./fortbestehensprognose) | Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Prüfablauf Bilanzstatus, Annahmen, Plausibilisierung, 12-Monats-Liquidität. Sanierungsbausteine: harte Patronatserklärung, Comfortletter, Gesellschafterdarlehen mit Rangrücktritt, Stundung, Forderungsverzicht. IDW S 11, IDW S 6, StaRUG. 90-Prozent-Maßstab nach BGHZ 163, 134. |
 | [`geldwaeschepraevention-aml-kyc`](./geldwaeschepraevention-aml-kyc) | Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation. |
 | [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
@@ -339,7 +339,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.0.4: **78 Plugins, 999 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
+Stand v3.0.5: **78 Plugins, 1000 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
 
 ### Materielle Rechtsgebiete
 

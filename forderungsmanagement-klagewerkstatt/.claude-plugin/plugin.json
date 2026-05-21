@@ -1,7 +1,7 @@
 {
   "name": "forderungsmanagement-klagewerkstatt",
-  "version": "3.0.0",
-  "description": "Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Standardklage und optionalem Kanzlei-Mini-Plugin.",
+  "version": "3.0.5",
+  "description": "Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -21,6 +21,8 @@
     "bea",
     "egvp",
     "zustaendigkeit",
-    "justizadressen-nrw"
+    "justizadressen-nrw",
+    "anspruchsgate",
+    "mahnlauf"
   ]
 }

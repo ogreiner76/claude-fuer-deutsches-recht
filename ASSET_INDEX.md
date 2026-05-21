@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.4
+**Stand:** v3.0.5
 
 ## Asset-Typen
 
@@ -55,7 +55,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `fachanwalt-versicherungsrecht` | Light-Touch-Plugin Fachanwalt fuer Versicherungsrecht. Orientierung VVG VAG Berufsunfaehigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstellen kanzlei-cowork und fachanwalt-verkehrsrecht. |
 | `fachanwalt-verwaltungsrecht` | Light-Touch-Plugin Fachanwalt fuer Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht. |
 | `fluggastrechte` | Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspaetung pruefen aussergewoehnliche Umstaende Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden. |
-| `forderungsmanagement-klagewerkstatt` | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf-Skill destilliert aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen eine hauseigene Standardklage-Vorlage, sammelt den Sachverhalt und prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de, justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG). Laufzeit-Skill nimmt nur Sachverhalt und Beklagtenadresse entgegen und erzeugt die nächste Klage direkt in der hauseigenen Vorlage. Zusätzlich packt der Skill ein eigenes Mini-Plugin (klagewerkstatt-<kanzlei>.zip), das in Claude Code direkt installierbar ist. Eigenständig nutzbar; ergänzt sich mit prozessrecht und liquiditaetsplanung. |
+| `forderungsmanagement-klagewerkstatt` | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator, Zuständigkeitsprüfung und direktem Inkasso-Zahlungsklage-Ersteller. Mahnvorlauf, Teilzahlung/Erfüllung, Anspruchs-Gatekeeper und Klage nur für klare, fällige und belegte Positionen. |
 | `fortbestehensprognose` | Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation. Pruefablauf Bilanzstatus Annahmen Plausibilisierung 12-Monats-Liquiditaet. Sanierungsbausteine harte Patronatserklaerung Comfortletter Gesellschafterdarlehen Rangruecktritt Stundung Forderungsverzicht. IDW S 11 S 6 StaRUG. Funktioniert allein; empfohlene Begleitplugins liquiditaetsplanung (wochenbasierte Liquiditaet) und insolvenzrecht (§ 17 § 18 InsO Antragspflicht). |
 | `geldwaeschepraevention-aml-kyc` | Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation. |
 | `gesellschaftsrecht` | M&A-Due-Diligence (ohne Discovery, mit Q&A/Datenraum), Gesellschafterbeschlüsse, Closing Checklists, HRB/HRA-Anmeldungen, Compliance-Fristen. |
@@ -98,7 +98,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung. |
 
-## Fallakten-Assets (22 Stück)
+## Fallakten-Assets (23 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -119,6 +119,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | siehe `testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/` |
+| `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
@@ -140,9 +141,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
 | plugin | 78 | |
-| fallakte | 22 | |
+| fallakte | 23 | |
 | manifest | 1 | |
-| **gesamt** | | **101** |
+| **gesamt** | | **102** |
 
 ## Verifikation eines Release
 
@@ -151,4 +152,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 101 Assets, davon 78 Plugin-ZIPs, 22 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 102 Assets, davon 78 Plugin-ZIPs, 23 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
