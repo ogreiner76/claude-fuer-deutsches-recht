@@ -391,6 +391,14 @@
       }
     },
     {
+      "name": "jveg-kostenpruefer",
+      "source": "./jveg-kostenpruefer",
+      "description": "Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "kanzlei-allgemein",
       "source": "./kanzlei-allgemein",
       "description": "Kanzlei-Allgemein-Plugin: edles Cowork-Kommandocenter, Mandatsannahme/GwG, Klage/Replik, Vertrag, Rechtsprechungsrecherche, Handelsregister, beA, Fristen, HR, Rechnung, Bankmatching, XRechnung, UStVA.",

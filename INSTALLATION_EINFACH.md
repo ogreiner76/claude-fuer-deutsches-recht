@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.3`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.4`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **77 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **78 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -97,6 +97,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `patentrecherche.zip`                     | Espacenet, Google Patents, DPMAregister                                                                                    |
 | `immobilienrechtspraxis.zip`              | Vertragserstellung, Bauträger, WEG, Maklerrecht                                                                            |
 | `rechtsberatungsstelle.zip`               | Pro-Bono / studentische Beratung (RDG-konform), Intake, Fristen                                                            |
+| `jveg-kostenpruefer.zip` | JVEG-Kostenprüfung: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Fristen, Festsetzung und Beschwerde |
 | `jurastudium.zip`                         | Karteikarten, Gutachten-Coaching, Examensvorbereitung                                                                      |
 
 ### Fachanwalt-Light-Touch (22 Stück)
@@ -120,6 +121,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | `insolvenzforderungsanmeldungspruefung` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | `insolvenzplan-starug-planwerkstatt` |
+| `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | `jveg-kostenpruefer` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | `vertragsausfueller` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
