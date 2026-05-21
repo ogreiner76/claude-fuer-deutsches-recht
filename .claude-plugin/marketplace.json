@@ -295,6 +295,14 @@
       }
     },
     {
+      "name": "geldwaeschepraevention-aml-kyc",
+      "source": "./geldwaeschepraevention-aml-kyc",
+      "description": "Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "gesellschaftsrecht",
       "source": "./gesellschaftsrecht",
       "description": "M&A-Due-Diligence (ohne Discovery, mit Q&A/Datenraum), Gesellschafterbeschlüsse, Closing Checklists, HRB/HRA-Anmeldungen, Compliance-Fristen.",
