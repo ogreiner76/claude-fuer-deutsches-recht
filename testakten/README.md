@@ -25,6 +25,7 @@ Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofor
 | [`umweltrecht-industrieanlage-genehmigung/`](./umweltrecht-industrieanlage-genehmigung/) | Fiktive Industrieanlage mit BImSchG-Änderung, TEHG-Frage, Abfallströmen, Wasser/Boden, Naturschutz, UIG-Antrag, Bußgeldanhörung und Umwelt-DD. | `umweltrecht` |
 | [`verkehr-infrastrukturrecht-strassenbahn-ladezonen/`](./verkehr-infrastrukturrecht-strassenbahn-ladezonen/) | Fiktive Kommune mit Straßenbahnverlängerung, Ladeinfrastruktur, Parkraumbewirtschaftung, Lieferzonen, Schulwegsicherheit, Bürgerwiderspruch, Förderung und Vergabe. | `verkehr-infrastrukturrecht` |
 | [`verkehrsowi-rotlicht-tempo-musterakte/`](./verkehrsowi-rotlicht-tempo-musterakte/) | Fiktive VerkehrsOWi-Akte mit Anhörung, Bußgeldbescheid, Rotlicht, Tempoverstoß, Messakte, Fahreridentifizierung, KBA-Punktestand, Härtefall und Zeugenstrategie. | `verkehrsowi-verteidiger` |
+| [`vertragsausfueller-bsag-kiosk-huckelriede/`](./vertragsausfueller-bsag-kiosk-huckelriede/) | BSAG-Mietvertragsausfüller: Word-Vorlage und Term Sheet Kiosk Huckelriede als echte DOCX-Beispielakte mit Feldinventar, Mapping-Notiz, Rückfragen und Clean-Entwurf-Checkliste. | `vertragsausfueller` |
 | [`zwangsverwaltung-zvg-mietshaus-parkstrasse/`](./zwangsverwaltung-zvg-mietshaus-parkstrasse/) | ZVG-Zwangsverwaltung: Mietshaus Parkstraße, Besitzübernahme, Rent Roll, Versicherung, Konto, Berichte, § 155-Verteilung und Schlussrechnung | `zwangsverwaltung-zvg` |
 
 ## Direkt-Download (je ein ZIP pro Akte)
@@ -50,6 +51,7 @@ Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehän
 - [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip)
 - [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip)
 - [testakte-verkehrsowi-rotlicht-tempo-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-musterakte.zip)
+- [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
 - [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip)
 
 ## So spielt man eine Akte durch
