@@ -345,7 +345,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.2.0: **84 Plugins, 1098 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont und Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23.
+Stand v3.2.1: **84 Plugins, 1098 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont und Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23.
 
 ### Materielle Rechtsgebiete
 

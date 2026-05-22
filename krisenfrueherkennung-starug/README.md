@@ -1,8 +1,32 @@
 # Krisenfrüherkennung und StaRUG-Management
 
 **Plugin-Slug:** `krisenfrueherkennung-starug`  
-**Version:** 3.2.0  
+**Version:** 3.2.1  
 **Autor:** Klotzkette
+
+---
+
+## Direkt-Download
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| Krisenfrüherkennung und StaRUG-Management (`krisenfrueherkennung-starug`) | [krisenfrueherkennung-starug.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
+
+## Installation
+
+1. ZIP aus dem Release herunterladen.
+2. Claude Code oder Claude Desktop/Cowork öffnen.
+3. **Customize Plugins** bzw. **Personal plugins** öffnen.
+4. **Install from .zip** wählen und `krisenfrueherkennung-starug.zip` hochladen.
+5. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe unser Frühwarnsystem nach § 1 StaRUG und bewerte die GF-Haftung.`
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+
+## Testakte
+
+Vier verschiedene fiktive Krisenvarianten in einer Akte: KI-Startup, Maschinenbau-AG, Batteriezellen-SE, Catering-UG.
+
+- Vier-Varianten-Akte (VEYRA AI / HARTMANNSCHMIDT / NORDFELS / SALALTBAR): [testakten/krisenfrueherkennung-starug-vier-varianten/](../testakten/krisenfrueherkennung-starug-vier-varianten/) -> [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip)
 
 ---
 

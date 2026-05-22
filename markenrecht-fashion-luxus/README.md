@@ -1,6 +1,6 @@
 # markenrecht-fashion-luxus
 
-**Version:** 3.2.0  
+**Version:** 3.2.1  
 **Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie  
 **US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019  
 **Kanzlei DE:** Steinacker Lichtenberg, München (Boutique-IP-Kanzlei)  
