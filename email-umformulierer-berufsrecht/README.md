@@ -4,9 +4,7 @@ Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sach
 
 ## Download
 
-```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip
-```
+[email-umformulierer-berufsrecht.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip)
 
 ## Enthaltene Skills
 
