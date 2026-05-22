@@ -8,7 +8,7 @@ Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte:
 
 | Plugin | Version | Direkt-Download |
 | --- | --- | --- |
-| Datenschutzrecht (`datenschutzrecht`, dieses Plugin) | v3.3.0 | [datenschutzrecht-v3.3.0.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/datenschutzrecht.zip) |
+| Datenschutzrecht (`datenschutzrecht`, dieses Plugin) | v3.3.0 | [datenschutzrecht-v3.3.0.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
 | Datenschutzrecht (neueste Version) | latest | [datenschutzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
 
 Die URL zum latest-Release ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.

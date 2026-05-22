@@ -19,6 +19,35 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
 
+## Überblick v4.0.0 auf einen Blick
+
+| Kennzahl | Wert |
+|---|---|
+| **Plugins** | 94 |
+| **Skills (SKILL.md)** | 1411 |
+| **Testakten** | 39 |
+| **Fachanwält·innen-Profile** | alle 24 |
+| **Letzter Release** | [v4.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v4.0.0) |
+| **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
+
+### Inhaltliche Cluster
+
+- **Rechtsgebiete (materiell):** Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht, Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht.
+- **Mechanik-Prüfer (neu in v3.3.x):** `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
+- **Workflow-Pakete:** Wandeldarlehen-Lebenszyklus (Erstellung, Beurkundung, Wandlung, Cap-Table, Notar), Kündigungsschutzklage Selbsthilfe (Laie/Anwalt, Schriftsätze, Sprechzettel, Vergleich), Entfristungsklage TzBfG (Schriftform, elektronische Signatur), KI-Richtlinie für Kanzleien, Schriftform-/Textform-Organisator, Krisenfrüherkennung StaRUG, Liquiditätsplanung, Fortbestehensprognose.
+- **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise BGH-/Beck-Stil, Fachanwaltschafts-Übersicht.
+
+Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) und im Abschnitt [Was ist drin?](#was-ist-drin).
+
+## Quickstart
+
+```bash
+# Marketplace im Claude-Code-CLI hinzufügen
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install <plugin-name>@claude-fuer-deutsches-recht
+```
+
+Alternativ: über die Claude-Desktop-GUI unter **Customize → Skills** → ZIP aus dem [Release v4.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v4.0.0) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart) und [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung).
 
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
 
@@ -271,7 +300,7 @@ Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, s
 
 Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
 
-> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v3.3.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
+> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v4.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
 
 > 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. „Legal Plugin" installierst. Schritt für Schritt erklärt: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
 
@@ -351,7 +380,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.3.1: **94 Plugins, 1411 Skills, 37 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont und Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23.
+Stand v4.0.0: **94 Plugins, 1411 Skills, 39 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik sowie generische Mechanik-Prüfer für Subsumtion, Bereicherungs-/Anfechtungsrecht und die KI-VO (Verordnung (EU) 2024/1689).
 
 ### Materielle Rechtsgebiete
 

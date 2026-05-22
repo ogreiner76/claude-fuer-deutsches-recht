@@ -7,7 +7,7 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 ## Direkter Download
 
 **Plugin:**
-[ki-richtlinie-kanzleien.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/ki-richtlinie-kanzleien.zip)
+[ki-richtlinie-kanzleien.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien.zip)
 
 ---
 
@@ -15,7 +15,7 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 
 Zur Erprobung des Plugins steht ein generischer Muster-Entwurf einer KI-Nutzungsrichtlinie für eine fiktive Musterkanzlei als Word-Dokument zur Verfügung:
 
-[testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/testakte-ki-richtlinie-musterkanzlei.zip)
+[testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip)
 
 ---
 

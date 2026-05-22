@@ -13,7 +13,7 @@ Kein Rechtsberatungs-Tool. Mechanische Tatbestandsprüfung mit ständigen Warnhi
 ## Direkt-Download
 
 ```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.1/bereicherungs-und-anfechtungsrecht-pruefer.zip
+https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip
 ```
 
 ---

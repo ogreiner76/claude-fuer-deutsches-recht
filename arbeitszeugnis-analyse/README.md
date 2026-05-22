@@ -10,7 +10,7 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 | Plugin | Direkt-Download |
 |---|---|
-| Arbeitszeugnis-Analyse (`arbeitszeugnis-analyse`, dieses Plugin) | [arbeitszeugnis-analyse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/arbeitszeugnis-analyse.zip) |
+| Arbeitszeugnis-Analyse (`arbeitszeugnis-analyse`, dieses Plugin) | [arbeitszeugnis-analyse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
 
 ### Installation in Claude Code
 

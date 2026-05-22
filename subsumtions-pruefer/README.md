@@ -8,7 +8,7 @@ Interaktiver Mechanik-Workflow für die juristische Subsumtion nach deutschem Re
 
 | Plugin | Direkt-Download |
 | --- | --- |
-| Subsumtions-Prüfer (`subsumtions-pruefer`, dieses Plugin) | [subsumtions-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.1/subsumtions-pruefer.zip) |
+| Subsumtions-Prüfer (`subsumtions-pruefer`, dieses Plugin) | [subsumtions-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/subsumtions-pruefer.zip) |
 
 Die URL ist stabil. Alle weiteren Plugins sind unter [Releases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases) verfügbar.
 
