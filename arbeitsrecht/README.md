@@ -190,8 +190,33 @@ Für beide Arbeitsrecht-Skill-Bündel gibt es fertige fiktive Mandatsakten zum s
 | [`testakten/kuendigungsschutzklage-weber-techlogix/`](../testakten/kuendigungsschutzklage-weber-techlogix/) | Markus Weber ./. TechLogix GmbH Berlin: betriebsbedingte Kündigung 30.04.2026, lückenhafte BR-Anhörung, fragwürdige Sozialauswahl (Weber 8 J. BZ + 2 Kinder vs. Grunewald 2 J. BZ), § 4 KSchG-Frist 20.05.2026. | `kueschk-*` |
 | [`testakten/befristungskontrollklage-vogt-stadtwerke/`](../testakten/befristungskontrollklage-vogt-stadtwerke/) | Lena Vogt ./. Stadtwerke Neukölln GmbH: Befristungskontrollklage, Schriftformverstoß § 14 Abs. 4 TzBfG (AV nur per E-Mail + Scan), Vorbeschäftigung 2021 als Graubereich, § 17 TzBfG-Frist 20.03.2026. | `entfristung-*` |
 
-Download:
+Download als ZIP:
 [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) · [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip)
+
+### Kündigungsschutzklage Weber ./. TechLogix — Einzeldateien
+
+| Datei | Inhalt |
+|---|---|
+| [README.md](../testakten/kuendigungsschutzklage-weber-techlogix/README.md) | Überblick, Fristen, Streitpunkte |
+| [kuendigungsschreiben_techlogix_30-04-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/kuendigungsschreiben_techlogix_30-04-2026.txt) | Kündigungsschreiben vom 30.04.2026 |
+| [arbeitsvertrag_weber_2018_auszug.txt](../testakten/kuendigungsschutzklage-weber-techlogix/arbeitsvertrag_weber_2018_auszug.txt) | Arbeitsvertrag Auszug 2018 |
+| [betriebsrat_anhoerung_entwurf_roh.txt](../testakten/kuendigungsschutzklage-weber-techlogix/betriebsrat_anhoerung_entwurf_roh.txt) | Roh-Entwurf der BR-Anhörung mit Lücken |
+| [sozialauswahl_vergleichstabelle_roh.md](../testakten/kuendigungsschutzklage-weber-techlogix/sozialauswahl_vergleichstabelle_roh.md) | Sozialauswahl-Vergleichstabelle Weber vs. Grunewald |
+| [mandantennotiz_erstgespraech_06-05-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/mandantennotiz_erstgespraech_06-05-2026.txt) | Mandantennotiz Erstgespräch |
+| [notiz_weber_gespraech_maerz_2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/notiz_weber_gespraech_maerz_2026.txt) | Notiz Vorgespräch März 2026 |
+| [vollmacht_weber.txt](../testakten/kuendigungsschutzklage-weber-techlogix/vollmacht_weber.txt) | Vollmacht des Mandanten |
+
+### Befristungskontrollklage Vogt ./. Stadtwerke Neukölln — Einzeldateien
+
+| Datei | Inhalt |
+|---|---|
+| [README.md](../testakten/befristungskontrollklage-vogt-stadtwerke/README.md) | Überblick, Fristen, Streitpunkte |
+| [arbeitsvertrag_vogt_2024_per_email.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_vogt_2024_per_email.txt) | Befristeter Arbeitsvertrag (per E-Mail übermittelt, Schriftformproblem § 14 Abs. 4 TzBfG) |
+| [email_uebermittlung_vertrag_feb_2024.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_uebermittlung_vertrag_feb_2024.txt) | E-Mail mit Vertrag (Februar 2024) |
+| [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Vorbeschäftigung 2021 als Ferienaushilfe |
+| [email_schoenfeld_kein_folgevertrag_jan_2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail Schönfeld: kein Folgevertrag (Januar 2026) |
+| [mandantennotiz_erstgespraech_09-03-2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/mandantennotiz_erstgespraech_09-03-2026.txt) | Mandantennotiz Erstgespräch |
+| [vollmacht_vogt.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/vollmacht_vogt.txt) | Vollmacht der Mandantin |
 
 ## Lerneffekt
 
