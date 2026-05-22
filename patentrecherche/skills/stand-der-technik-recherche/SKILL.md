@@ -92,4 +92,4 @@ Empfehlung an die Patentanwältin:
 
 ## Disclaimer
 
-> **Hinweis zur Recherche.** Diese Stand-der-Technik-Recherche ist eine durch Claude unterstützte Vorrecherche und keine amtliche Recherche. Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) sind erst nach Ablauf der 18-Monats-Frist erfassbar. Nicht-deutsche, nicht-englische und nicht-französische Volltexte werden nicht vollständig durchsucht. Die Bewertung als X/Y/A/P/E ist eine vorläufige Einschätzung — die amtliche Recherche durch DPMA oder EPA kann zu anderen Ergebnissen kommen.
+> **Hinweis zur Recherche.** Diese Stand-der-Technik-Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) sind erst nach Ablauf der 18-Monats-Frist erfassbar. Nicht-deutsche, nicht-englische und nicht-französische Volltexte werden nicht vollständig durchsucht. Die Bewertung als X/Y/A/P/E ist eine vorläufige Einschätzung — die amtliche Recherche durch DPMA oder EPA kann zu anderen Ergebnissen kommen.

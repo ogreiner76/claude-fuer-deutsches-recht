@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-look-and-feel
-description: "Gestaltet Ausgaben für Kanzlei-Allgemein-Plugin innerhalb der Claude-Cowork-Grenzen hochwertig, ruhig und edel. Nutzt Markdown-Dashboards, Statuskarten, Freigabeampeln, bläulich-silberne Grundtöne und warmen Orange-Akzent ohne CSS-Abhängigkeit."
+description: "Gestaltet Ausgaben für Kanzlei-Allgemein-Plugin innerhalb der Cowork-Grenzen hochwertig, ruhig und edel. Nutzt Markdown-Dashboards, Statuskarten, Freigabeampeln, bläulich-silberne Grundtöne und warmen Orange-Akzent ohne CSS-Abhängigkeit."
 ---
 
 # Look and Feel

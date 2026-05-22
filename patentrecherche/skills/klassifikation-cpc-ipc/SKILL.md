@@ -99,4 +99,4 @@ klassen:
 
 ## Disclaimer
 
-> **Hinweis zur Klassifikation.** Die hier vorgeschlagenen CPC- und IPC-Klassen sind eine durch Claude unterstützte **Vorklassifikation** zur Recherche-Steuerung und keine amtliche Klassifikation. Die endgültige Klasseneinordnung einer eigenen Anmeldung erfolgt durch das Patentamt. Für die Recherchesteuerung sind ergänzend Schlüsselbegriffe und Volltextsuchen einzusetzen — keine Klassenrecherche ohne Volltext.
+> **Hinweis zur Klassifikation.** Die hier vorgeschlagenen CPC- und IPC-Klassen sind eine KI-gestützte **Vorklassifikation** zur Recherche-Steuerung und keine amtliche Klassifikation. Die endgültige Klasseneinordnung einer eigenen Anmeldung erfolgt durch das Patentamt. Für die Recherchesteuerung sind ergänzend Schlüsselbegriffe und Volltextsuchen einzusetzen — keine Klassenrecherche ohne Volltext.

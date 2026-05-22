@@ -86,4 +86,4 @@ Familientabelle als strukturiertes YAML/JSON an `freedom-to-operate-recherche` o
 
 ## Disclaimer
 
-> **Hinweis zur Familienanalyse.** Diese Patentfamilien-Analyse beruht auf INPADOC-Daten und ist eine durch Claude unterstuetzte Vorrecherche. Datenlücken sind insbesondere bei JP- CN- KR- und einzelnen weiteren Aemtern möglich. Continuation- und Teilanmeldungen können anhängig sein, ohne dass sie schon veröffentlicht sind. Die Familie kann durch Anmelderwechsel verschoben sein. Die finale Familie- und Rechtsstandsbewertung muss durch direkte Recherche in den nationalen Registern abgesichert werden.
+> **Hinweis zur Familienanalyse.** Diese Patentfamilien-Analyse beruht auf INPADOC-Daten und ist eine KI-gestützte Vorrecherche. Datenlücken sind insbesondere bei JP- CN- KR- und einzelnen weiteren Aemtern möglich. Continuation- und Teilanmeldungen können anhängig sein, ohne dass sie schon veröffentlicht sind. Die Familie kann durch Anmelderwechsel verschoben sein. Die finale Familie- und Rechtsstandsbewertung muss durch direkte Recherche in den nationalen Registern abgesichert werden.

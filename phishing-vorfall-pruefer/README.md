@@ -10,6 +10,10 @@ Das Plugin arbeitet entlang des typischen Mandats:
 4. Risikomatrix: nicht autorisierter Zahlungsvorgang, grobe Fahrlässigkeit, Bankpflichtverletzung, Mitverschulden/Quotelung, Ombudsmann oder Klage.
 5. Output: Erstbewertung, Bankaufforderung, Ombudsmann-Antrag, Klagegerüst, Beweisantritts- und Log-Anforderung.
 
+## Direkt-Download
+
+[phishing-vorfall-pruefer.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/phishing-vorfall-pruefer.zip)
+
 ## Inhalt
 
 - `skills/phishing-vorfall-pruefen/SKILL.md` - geführter Hauptworkflow.

@@ -7,7 +7,7 @@ description: "Master-Skill der die klassischen Patentdatenbanken agentisch anste
 
 ## Zweck
 
-Das ist das **Master-Skill** des Plugins: Es führt Claude Cowork agentisch durch die wichtigsten Patentdatenbanken. Während Claude im Hauptfenster sichtbar durch die Datenbank navigiert, erscheint das Ergebnis strukturiert im Chat.
+Das ist das **Master-Skill** des Plugins: Es führt agentisch durch die wichtigsten Patentdatenbanken. Während das System im Hauptfenster sichtbar durch die Datenbank navigiert, erscheint das Ergebnis strukturiert im Chat.
 
 ## Eingaben
 
@@ -26,7 +26,7 @@ Das ist das **Master-Skill** des Plugins: Es führt Claude Cowork agentisch durc
 - **Advanced Search** für strukturierte Suche: Felder `txt` (Titel/Abstract), `desc` (Beschreibung), `claims`, `cpc`, `ipc`, `ti` (Titel), `ab` (Abstract), `in` (Erfinder), `pa` (Anmelder), `pn` (Publikationsnummer), `pd` (Publikationsdatum), `prd` (Prioritätsdatum), `ap` (Anmelde-Nr.). Boolesche Operatoren `AND`, `OR`, `NOT`, Wildcards `*`, Nachbarschaft `prox/distance<n>` und `prox/unit=sentence`.
 - **Familien-Ansicht:** „Family list" und „INPADOC patent family" — wichtig für Dedup.
 - **Classification Search:** [Espacenet CPC Browser](https://worldwide.espacenet.com/patent/cpc-browser).
-- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; Claude scrollt durch die Trefferliste, öffnet Treffer in „Family list"-Ansicht, sammelt Metadaten.
+- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; das System scrollt durch die Trefferliste, öffnet Treffer in „Family list"-Ansicht, sammelt Metadaten.
 
 ### 2. Google Patents — `https://patents.google.com`
 
@@ -67,7 +67,7 @@ Das ist das **Master-Skill** des Plugins: Es führt Claude Cowork agentisch durc
 
 ### Schritt 1: Suchauftrag normalisieren
 
-Claude liest den natürlichsprachigen Auftrag, identifiziert:
+Das System liest den natürlichsprachigen Auftrag, identifiziert:
 
 - Welche Datenbanken sind angesprochen (alle / nur EU / nur DE / Weltreichweite)?
 - Welcher Zeitraum (Anmelde- / Veröffentlichungsdatum, vor / nach Stichtag)?
@@ -144,7 +144,7 @@ Strukturierte Ergebnisliste mit:
 
 ## Disclaimer
 
-> **Hinweis zur Recherche.** Diese Recherche ist eine durch Claude unterstützte Vorrecherche und keine amtliche Recherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Treffern in nicht-deutschen, nicht-englischen und nicht-französischen Sprachen, bei Treffern außerhalb der gewählten Klassen und bei Treffern, die nicht in einer der eingesehenen Datenbanken hinterlegt sind. Die Recherche muss durch eigene Nachrecherche oder durch Überprüfung der Treffer abgesichert werden.
+> **Hinweis zur Recherche.** Diese Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Treffern in nicht-deutschen, nicht-englischen und nicht-französischen Sprachen, bei Treffern außerhalb der gewählten Klassen und bei Treffern, die nicht in einer der eingesehenen Datenbanken hinterlegt sind. Die Recherche muss durch eigene Nachrecherche oder durch Überprüfung der Treffer abgesichert werden.
 
 ## Übergabe
 

@@ -26,7 +26,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 Vier verschiedene fiktive Krisenvarianten in einer Akte: KI-Startup, Maschinenbau-AG, Batteriezellen-SE, Catering-UG.
 
-- Vier-Varianten-Akte (VEYRA AI / HARTMANNSCHMIDT / NORDFELS / SALALTBAR): [testakten/krisenfrueherkennung-starug-vier-varianten/](../testakten/krisenfrueherkennung-starug-vier-varianten/) -> [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip)
+- Vier-Varianten-Akte (VEYRA KI / HARTMANNSCHMIDT / NORDFELS / SALALTBAR): [testakten/krisenfrueherkennung-starug-vier-varianten/](../testakten/krisenfrueherkennung-starug-vier-varianten/) -> [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip)
 
 ---
 

@@ -1,4 +1,4 @@
-# Claude für die studentische Rechtsberatungsstelle
+# Plugin für die studentische Rechtsberatungsstelle
 
 *KI-gestützte Unterstützung für universitäre Refugee Law Clinics, studentische Rechtsberatungen und Pro-Bono-Initiativen – mit klaren RDG-Grenzen.*
 

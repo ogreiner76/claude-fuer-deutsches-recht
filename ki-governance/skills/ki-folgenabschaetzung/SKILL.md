@@ -227,7 +227,7 @@ Seed-Struktur aus CLAUDE.md verwenden. Falls keine erfasst, diese Grundstruktur:
 ## Zusammenfassung
 
 [Zwei Sätze: Was tut diese KI und ist der Einsatz vertretbar? Z. B. „Dieses System nutzt
-ein Drittanbieter-LLM, um Erstentwürfe für Kundensupport-Antworten vor menschlicher Prüfung
+ein Drittanbieter-KI-System, um Erstentwürfe für Kundensupport-Antworten vor menschlicher Prüfung
 zu erstellen. Die Verarbeitung ist mit der KI-Richtlinie des Unternehmens vereinbar;
 drei Bedingungen vor dem Produktiveinsatz erforderlich."]
 
@@ -374,7 +374,7 @@ Bei vereinfachtem Track: Abschnitte 1–3 und Abschnitt 9 sind Pflicht; Abschnit
 **Anfrage:** „Wir wollen einen Chatbot für die Erstberatung von Mandanten einsetzen — was müssen wir prüfen?"
 
 **Ablauf:**
-- Risikotrack: Vollständig (erhöhte Governance-Stufe; Drittanbieter-LLM; Mandantendaten).
+- Risikotrack: Vollständig (erhöhte Governance-Stufe; Drittanbieter-KI-System; Mandantendaten).
 - Art. 6 KI-VO i.V.m. Anhang III: Kein Hochrisiko erkennbar (keine Einstellungs- oder Kreditentscheidung). `[prüfen-pinpoint]`
 - DSFA Art. 35 DSGVO: Prüfung erforderlich — Verarbeitung von Mandantendaten durch Drittanbieter-API (Art. 28 DSGVO); mögliche automatisierte Empfehlungen.
 - Art. 50 KI-VO: Chatbot-Offenlegungspflicht gegenüber Mandanten.

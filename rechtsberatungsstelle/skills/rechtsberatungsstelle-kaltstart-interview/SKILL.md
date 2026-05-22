@@ -110,9 +110,9 @@ Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene 
 
 | Haltung | Beschreibung | Geeignet für |
 |---|---|---|
-| **Ausführen** | Claude erstellt vollständige Entwürfe; Studierende analysieren und übergeben | Erfahrene Studierende (3.–5. Sem.), Routinedokumente |
-| **Anleiten** | Claude gibt Struktur und Schlüsselpunkte; Studierende füllen aus | Mittelstufe (2.–3. Sem.) |
-| **Lehren** | Claude stellt nur Fragen; Studierende erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
+| **Ausführen** | Das System erstellt vollständige Entwürfe; Studierende analysieren und übergeben | Erfahrene Studierende (3.–5. Sem.), Routinedokumente |
+| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studierende füllen aus | Mittelstufe (2.–3. Sem.) |
+| **Lehren** | Das System stellt nur Fragen; Studierende erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
 
 Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
 

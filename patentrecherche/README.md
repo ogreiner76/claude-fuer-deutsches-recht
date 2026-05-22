@@ -55,11 +55,11 @@ Das Plugin ist Teil des Repositories [`claude-fuer-deutsches-recht`](../) und wu
 
 ## Setup
 
-Nach Aktivierung des Plugins legt Claude beim ersten Lauf von `patentrecherche-kaltstart-interview` ein Profil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` an (Kanzlei, Patentanwält:innen, Schwerpunktklassen, typische Mandantenstruktur).
+Nach Aktivierung des Plugins wird beim ersten Lauf von `patentrecherche-kaltstart-interview` ein Profil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` angelegt (Kanzlei, Patentanwält:innen, Schwerpunktklassen, typische Mandantenstruktur).
 
 ## Pflichtdisclaimer
 
-Jedes Recherche-Ergebnis enthält am Anfang den Disclaimer „**Hinweis zur Recherche** — durch Claude unterstützte Vorrecherche, keine amtliche Recherche, finale Bewertung muss eigenständig abgesichert werden". Skills lassen den Disclaimer nicht weg.
+Jedes Recherche-Ergebnis enthält am Anfang den Disclaimer „**Hinweis zur Recherche** — KI-gestützte Vorrecherche, keine amtliche Recherche, finale Bewertung muss eigenständig abgesichert werden". Skills lassen den Disclaimer nicht weg.
 
 ## Verhältnis zum Berufsrecht
 

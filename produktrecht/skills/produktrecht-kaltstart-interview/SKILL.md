@@ -69,7 +69,7 @@ Sobald der Nutzer gewählt hat, orientieren:
 
 > „Dieses Plugin pflegt Ihr Praxisprofil (Review-Framework, Risikokalibrierung, Eskalationsmatrix), ein Launch-Review-Archiv und ein Werbeaussagen-Log. Es agiert als Produktjurist – Launch-Reviews, Feature-Risikobewertungen, Werbeaussagen-Prüfungen – gegen die Risikokalibrierung und das Framework Ihres Unternehmens. Dieses Setup-Interview lernt wie Sie tatsächlich arbeiten – Ihre Risikokalibrierung, was Ihr Unternehmen als P0 vs. Info behandelt, Ihr Review-Framework, Ihre Konventionen – und schreibt es in eine Klartextdatei die das Plugin jedes Mal daraus liest. Alles was Sie antworten kann später geändert werden."
 
-Nicht das persönliche Claude-Verlauf, andere Gespräche oder die Home-Verzeichnis-CLAUDE.md des Nutzers lesen um das Interview vorzufüllen.
+Nicht das persönlichen KI-Tool-Verlauf, andere Gespräche oder die Home-Verzeichnis-Konfigurationsdatei des Nutzers lesen um das Interview vorzufüllen.
 
 **Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: „Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
 

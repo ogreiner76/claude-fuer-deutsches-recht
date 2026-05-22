@@ -120,7 +120,7 @@ Format:
 
 ## Disclaimer ans Ende des Interviews
 
-> **Hinweis zur Recherche.** Diese Recherche ist eine durch Claude unterstützte Vorrecherche und keine amtliche Recherche im Sinne einer DPMA-/EPA-Recherche. Die finale Bewertung von Neuheit, erfinderischer Tätigkeit und Schutzrechtsstand muss durch eigene Nachrecherche oder durch Überprüfung der Recherche abgesichert werden. Treffer können unvollständig sein, falsch klassifiziert sein, durch Patentfamilien-Verbindungen verfehlt werden und in nicht maschinenlesbaren Sprachen verborgen sein.
+> **Hinweis zur Recherche.** Diese Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche im Sinne einer DPMA-/EPA-Recherche. Die finale Bewertung von Neuheit, erfinderischer Tätigkeit und Schutzrechtsstand muss durch eigene Nachrecherche oder durch Überprüfung der Recherche abgesichert werden. Treffer können unvollständig sein, falsch klassifiziert sein, durch Patentfamilien-Verbindungen verfehlt werden und in nicht maschinenlesbaren Sprachen verborgen sein.
 
 ## Weiterleitung
 

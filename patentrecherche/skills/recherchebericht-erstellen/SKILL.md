@@ -85,7 +85,7 @@ In drei bis fünf Sätzen — was sollte die Mandantin tun?
 ```
 HINWEIS ZUR RECHERCHE
 
-Diese Patentrecherche ist eine durch Claude unterstuetzte Vorrecherche und KEINE
+Diese Patentrecherche ist eine KI-gestützte Vorrecherche und KEINE
 amtliche Recherche im Sinne einer DPMA- oder EPA-Recherche. Vollständigkeit
 kann nicht garantiert werden, insbesondere:
 

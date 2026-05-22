@@ -157,4 +157,4 @@ Mit freundlichen Grüßen
 
 ## Disclaimer
 
-> **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Prüfungsbescheids ist eine durch Claude unterstuetzte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe müssen durch die Patentanwältin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Tätigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenüber Amt und Mandant.
+> **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Prüfungsbescheids ist eine KI-gestützte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe müssen durch die Patentanwältin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Tätigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenüber Amt und Mandant.

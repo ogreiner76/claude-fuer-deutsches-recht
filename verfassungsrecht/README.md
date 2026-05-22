@@ -55,22 +55,8 @@ Verfassungsrecht ist ein hochspezialisiertes Rechtsgebiet mit existentiellen Fol
 
 Jede verfassungsrechtliche Aussage benötigt eine BVerfG-Pinpoint-Quelle (Az. + Rn.). Modellwissen ohne Quelle wird als `[zu verifizieren auf bundesverfassungsgericht.de]` markiert.
 
-## Hinweis für Codex-Nutzer (Stand Mai 2026)
+## Hinweis zum berufsrechtlichen Rahmen (Stand Mai 2026)
 
-Seit OpenAI im März 2026 eine Plugin-Funktion für Codex eingeführt hat ([siliconANGLE, 27.03.2026](https://siliconangle.com/2026/03/27/openai-introduces-plugins-codex-programming-assistant/)), ist eine Übernahme dieses Plugins in Codex grundsätzlich möglich. Format und Verzeichnis sind **konzeptionell verwandt, aber nicht binärkompatibel**.
+Anwältinnen und Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheimnissen) und **§ 43a BRAO** (anwaltliche Verschwiegenheitspflicht) zur Verschwiegenheit verpflichtet. Eine unmittelbare Weitergabe mandatsbezogener Daten an außereuropäische KI-Anbieter ohne datenschutzkonformes Setup ist berufsrechtlich riskant und kann strafrechtliche Folgen haben. Deshalb empfiehlt sich der Betrieb über einen **deutschen Zwischenanbieter** (z. B. § 203-konformes Cowork-Setup; siehe [README im Repo-Root](../README.md#einrichtungsleitfaden-fuer--203-konformes-cowork-ueber-deutschen-zwischenanbieter)), der als Auftragsverarbeiter nach Art. 28 DSGVO eingebunden ist und die Weiterleitung an den KI-Anbieter pseudonymisiert/anonymisiert handhabt.
 
-### Wieso überhaupt ein Zwischenanbieter (Stand Mai 2026)
-
-Anwältinnen und Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheimnissen) und **§ 43a BRAO** (anwaltliche Verschwiegenheitspflicht) zur Verschwiegenheit verpflichtet. Eine unmittelbare Weitergabe mandatsbezogener Daten an US-Anbieter (Anthropic, OpenAI) ohne datenschutzkonformes Setup ist berufsrechtlich riskant und kann strafrechtliche Folgen haben. Deshalb empfiehlt sich der Betrieb über einen **deutschen Zwischenanbieter** (z. B. § 203-konformes Cowork-Setup; siehe [README im Repo-Root](../README.md#einrichtungsleitfaden-fuer--203-konformes-cowork-ueber-deutschen-zwischenanbieter)), der als Auftragsverarbeiter nach Art. 28 DSGVO eingebunden ist und die Weiterleitung an den eigentlichen LLM-Anbieter pseudonymisiert/anonymisiert handhabt.
-
-### Empfohlener Weg für die Übernahme nach Codex
-
-1. **Importfunktion in Codex nutzen** — Einstellungen → "Einrichtung aus anderen KI-Apps importieren" → Claude/Cowork auswählen. Originalordner und `CLAUDE.md` in Claude bleiben unverändert.
-2. **`CLAUDE.md` in `agent.md` überführen** — Codex nutzt `agent.md` als Steuerdatei; Pfade und Regeln neu hinterlegen.
-3. **MCP-Server / Konnektoren neu anbinden** — OAuth-Tokens sind nicht migrierbar. Die GitHub-App in ChatGPT/Codex hat derzeit **nur Lesezugriff**; für Schreib-Workflows (z. B. PR-Erstellung) bleibt Claude Code oder die Codex-CLI nötig.
-4. **Skills-Struktur prüfen** — die `SKILL.md`-Dateien dieses Plugins sind weitgehend natursprachlich und sollten in Codex funktional übernehmbar sein; pluginspezifische Pfade (`references/...`) ggf. anpassen.
-5. **Berufsrechtlicher Rahmen bleibt** — der Wechsel des LLM-Anbieters ändert nichts an § 203 StGB und § 43a BRAO. Der Zwischenanbieter-Aufbau muss auch für Codex eingerichtet sein, bevor Mandatsdaten verarbeitet werden.
-
-Eine direkte 1:1-Übertragung "per GitHub-URL" wie über das Claude Cowork Skills Toolkit (`/skills-load`) gibt es für Codex bislang nicht — die Anbindung läuft über das offizielle Plugin-Directory bzw. MCP-Server.
-
-**Disclaimer dieser Hinweise:** technische, **keine juristische** Auskunft; die Tool-Landschaft entwickelt sich seit Frühjahr 2026 sehr dynamisch. Die berufsrechtlichen Pflichten nach § 203 StGB und § 43a BRAO bleiben in jedem Fall in der Verantwortung der jeweiligen Anwältin / des jeweiligen Anwalts.
+**Disclaimer:** technische, **keine juristische** Auskunft; die Tool-Landschaft entwickelt sich seit Frühjahr 2026 sehr dynamisch. Die berufsrechtlichen Pflichten nach § 203 StGB und § 43a BRAO bleiben in jedem Fall in der Verantwortung der jeweiligen Anwältin / des jeweiligen Anwalts.

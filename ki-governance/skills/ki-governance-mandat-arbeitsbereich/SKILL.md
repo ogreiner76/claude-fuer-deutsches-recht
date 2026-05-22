@@ -158,7 +158,7 @@ Standard-Playbook unterscheidet.]
 - [z. B. „Haftungshöchstbetrag: Mandant verlangt 24 Monate, nicht Hausstandard 12."]
 - [z. B. „Ton: beziehungserhaltend – Gegenseite ist strategischer Partner."]
 - [z. B. „Rechtswahl: muss deutsches Recht sein."]
-- [z. B. „§ 203 StGB: nur On-Premise-Verarbeitung, kein Drittanbieter-LLM ohne AVV."]
+- [z. B. „§ 203 StGB: nur On-Premise-Verarbeitung, kein Drittanbieter-KI-System ohne AVV."]
 
 ## Verbundene Mandate
 
@@ -217,7 +217,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 
 ## Risiken / typische Fehler
 
-- **§ 203 StGB bei KI-Einsatz.** Wenn Mandantendaten in ein Drittanbieter-LLM eingegeben
+- **§ 203 StGB bei KI-Einsatz.** Wenn Mandantendaten in ein Drittanbieter-KI-System eingegeben
   werden, AVV nach Art. 28 DSGVO und Vereinbarkeit mit § 203 StGB prüfen. Im mandat.md
   dokumentieren.
 - **Slug-Wiederverwendung.** Führt zu Kontext-Vermischung. Immer neu prüfen, ob Slug frei ist.

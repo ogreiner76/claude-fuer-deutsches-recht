@@ -54,7 +54,7 @@ Dies dient zugleich der Einhaltung kanzleiinterner Informationssicherheitspflich
 ### Kommentar- und Aufsatzbelege
 
 - Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55 — Verschwiegenheitspflicht und technische Schutzmaßnahmen beim Einsatz von KI-Werkzeugen.
-- Hähnchen, NJW 2024, 1137 — KI-gestützte Rechtsdienstleistung: Anforderungen an Qualitätssicherung und Haftung beim Einsatz von LLM-basierten Tools.
+- Hähnchen, NJW 2024, 1137 — KI-gestützte Rechtsdienstleistung: Anforderungen an Qualitätssicherung und Haftung beim Einsatz von KI-basierten Tools.
 
 ---
 

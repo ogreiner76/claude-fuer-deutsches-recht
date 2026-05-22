@@ -23,7 +23,7 @@ Pro Beruf:
 
 Strafrechtlich ergänzend: § 203 Abs. 3 Satz 2 StGB (Befugnis zur Weitergabe an mitwirkende Personen, die ihrerseits weitere Personen einbinden) und § 203 Abs. 4 Satz 2 Nr. 1 StGB (Sekundärpflicht zur Verpflichtung).
 
-## Praxisproblem LLM-Anbieter
+## Praxisproblem KI-Anbieter
 
 KI-Anbieter sind oft mehrstufige Strukturen:
 

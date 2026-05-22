@@ -83,7 +83,7 @@ klôtzzkètté erwägt Kauf eines kleinen Nischenparfumeurs. IP-Due-Diligence: S
 ```
 [ ] Interne Geheimhaltungsrichtlinie vorhanden
 [ ] NDAs mit allen Mitarbeitern, die Zugang zur Rezeptur haben
-[ ] NDAs mit Parfümeur/Komponist (Jean-Claude Ellena-Stil)
+[ ] NDAs mit Parfümeur/Komponist (Hermès-Parfümeur-Stil)
 [ ] NDAs mit Lieferanten (Aromastoffe)
 [ ] Zugangsbeschränkungen (Server, Tresor, Need-to-know)
 [ ] Aktuelle Dokumentation der Geheimhaltungsmaßnahmen (§ 2 Nr. 1 GeschGehG)

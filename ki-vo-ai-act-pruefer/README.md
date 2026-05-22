@@ -8,9 +8,7 @@ Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-Syste
 
 ## Direkt-Download
 
-```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip
-```
+[ki-vo-ai-act-pruefer.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip)
 
 ---
 

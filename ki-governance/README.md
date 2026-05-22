@@ -1,7 +1,7 @@
 # KI-Governance-Plugin
 
 Abläufe für betriebliche und kanzleiinterne KI-Governance: Use-Case-Triage, KI-Folgenabschätzungen,
-Vendor-AI-Review und Gap-Analyse neuer Rechtsakte gegenüber bestehender Richtlinien- und Praxislage.
+Vendor-KI-Review und Gap-Analyse neuer Rechtsakte gegenüber bestehender Richtlinien- und Praxislage.
 Das Plugin ist auf die EU-KI-Verordnung (VO 2024/1689, „KI-VO"), die DSGVO, das BDSG sowie
 einschlägige deutschsprachige Rechtsgrundlagen (ProdHaftG, GeschGehG, UrhG, § 203 StGB) ausgerichtet.
 
@@ -33,10 +33,10 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Rolle | Primäre Abläufe |
 |---|---|
-| **Datenschutzbeauftragte / KI-Governance-Counsel** | Folgenabschätzungen, Vendor-AI-Review, Gap-Analyse |
+| **Datenschutzbeauftragte / KI-Governance-Counsel** | Folgenabschätzungen, Vendor-KI-Review, Gap-Analyse |
 | **Syndikusanwälte / Produktjuristen** | Use-Case-Triage, Launch-Review mit KI-Komponente |
 | **GC / Legal Ops** | KI-Richtlinien-Governance, Eskalation, Vorstandsthemen |
-| **Einkauf / Vertragsrecht** | Vendor-AI-Vertragsreview nach Art. 28 DSGVO / Art. 11 KI-VO |
+| **Einkauf / Vertragsrecht** | Vendor-KI-Vertragsreview nach Art. 28 DSGVO / Art. 11 KI-VO |
 
 ## Erster Start: das Kaltstart-Interview
 
@@ -57,7 +57,7 @@ und Ihren Haustil.
 | `/ki-governance:ki-inventar [list \| add \| edit \| classify \| show]` | KI-Inventar verwalten – Rolle und Risikoklasse je KI-System nach KI-VO erfassen |
 | `/ki-governance:anwendungsfall-triage [Anwendungsfall]` | Use-Case gegen Ihr Register prüfen (genehmigt / bedingt / nie) |
 | `/ki-governance:ki-folgenabschaetzung [Anwendungsfall]` | KI-Folgenabschätzung (FRIA Art. 27 KI-VO + DSFA Art. 35 DSGVO) erstellen |
-| `/ki-governance:ki-anbieter-pruefung [Anbieter/Datei]` | Vendor-AI-Vertrag gegen Ihre Positionen prüfen |
+| `/ki-governance:ki-anbieter-pruefung [Anbieter/Datei]` | Vendor-KI-Vertrag gegen Ihre Positionen prüfen |
 | `/ki-governance:regulierungs-luecken-analyse [Rechtsakt]` | Neuen Rechtsakt oder Leitlinie gegen aktuelle Richtlinien/Praxis abgleichen |
 | `/ki-governance:richtlinien-monitor` | Wöchentliche Prüfung auf Richtliniendrift oder direkte Anfrage zu neuer Praxis |
 | `/ki-governance:richtlinien-vorlage` | Erstentwurf einer KI-Richtlinie auf Basis Ihres Praxisprofils erstellen |

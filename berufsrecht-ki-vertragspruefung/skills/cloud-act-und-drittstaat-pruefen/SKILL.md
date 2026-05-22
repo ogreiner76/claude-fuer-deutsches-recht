@@ -23,7 +23,7 @@ Wichtig: Die Vergleichbarkeit bezieht sich auf den Schutz der Geheimnisse, nicht
 
 ## Problemzone USA
 
-Die USA stellen die größte praktische Herausforderung dar, weil die meisten LLM-Anbieter dort ansässig sind oder dort verarbeiten lassen.
+Die USA stellen die größte praktische Herausforderung dar, weil die meisten KI-Anbieter dort ansässig sind oder dort verarbeiten lassen.
 
 ### CLOUD Act (2018)
 
@@ -31,7 +31,7 @@ Der US-Clarifying Lawful Overseas Use of Data Act verpflichtet US-Anbieter und i
 
 ### FISA Section 702
 
-Der Foreign Intelligence Surveillance Act erlaubt US-Geheimdiensten Zugriff auf elektronische Kommunikation von Nicht-US-Personen ohne richterlichen Beschluss. Praktisch betroffen sind insbesondere große Cloudanbieter und LLM-Provider.
+Der Foreign Intelligence Surveillance Act erlaubt US-Geheimdiensten Zugriff auf elektronische Kommunikation von Nicht-US-Personen ohne richterlichen Beschluss. Praktisch betroffen sind insbesondere große Cloudanbieter und KI-System-Provider.
 
 ### Konsequenz
 

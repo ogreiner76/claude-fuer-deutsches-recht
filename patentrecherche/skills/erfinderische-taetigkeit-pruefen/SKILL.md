@@ -110,4 +110,4 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 
 ## Disclaimer
 
-> **Hinweis zur Prüfung.** Diese Prüfung der erfinderischen Tätigkeit ist eine durch Claude unterstuetzte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des nächstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Prüfung muss durch eigene Bewertung und durch Prüfung der Recherche-Vollständigkeit abgesichert werden.
+> **Hinweis zur Prüfung.** Diese Prüfung der erfinderischen Tätigkeit ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des nächstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Prüfung muss durch eigene Bewertung und durch Prüfung der Recherche-Vollständigkeit abgesichert werden.

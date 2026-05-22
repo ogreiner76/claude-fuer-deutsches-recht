@@ -30,8 +30,8 @@ Sind mehrere Berufsgruppen in einer Sozietät gemischt vertreten (Anwalts-Steuer
 ### Anbieter und Produkt
 
 - Firmenname und Sitz des Anbieters (juristische Person, vertretungsberechtigte Personen)
-- Produktname und Versionsstand (Bsp.: GPT-4, Claude Sonnet, Mistral Large, Aleph Alpha Luminous; eigene Marken-Frontends)
-- Eigenes Sprachmodell oder API-Aufruf an Drittanbieter (z.B. Microsoft Azure OpenAI, AWS Bedrock)
+- Produktname und Versionsstand (Bsp.: gängige KI-Sprachmodelle und KI-Frontends; eigene Marken-Frontends)
+- Eigene KI-Modelle oder API-Aufruf an Drittanbieter (z.B. Microsoft Azure, AWS Bedrock)
 - Welche Subunternehmer sind vorgesehen (Hyperscaler, Modellanbieter, Hosting)?
 
 ### Datenarten und Verarbeitungszweck

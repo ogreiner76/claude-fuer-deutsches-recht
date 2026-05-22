@@ -107,4 +107,4 @@ Aggregierter Bericht alle drei Monate mit:
 
 ## Disclaimer
 
-> **Hinweis zur Überwachung.** Diese laufende Überwachung ist eine durch Claude unterstuetzte Vorrecherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwältin in einer eigenständigen Prüfung der Veröffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.
+> **Hinweis zur Überwachung.** Diese laufende Überwachung ist eine KI-gestützte Vorrecherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwältin in einer eigenständigen Prüfung der Veröffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.
