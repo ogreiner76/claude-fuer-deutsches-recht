@@ -35,6 +35,8 @@ Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofor
 | [`wandeldarlehen-beispielcase/`](./wandeldarlehen-beispielcase/) | Fiktive Startup-GmbH (Sonnenglas Solartechnologie UG) mit bilingualem Wandeldarlehensvertrag (Northstar, EUR 250.000), Cap-Table Pre/Post-Money, Wandlungserklärung, Gesellschafterbeschluss Kapitalerhöhung und Notar-Paket-Inhaltsverzeichnis. | `wandeldarlehen-lebenszyklus` |
 | [`zwangsverwaltung-zvg-mietshaus-parkstrasse/`](./zwangsverwaltung-zvg-mietshaus-parkstrasse/) | ZVG-Zwangsverwaltung: Mietshaus Parkstraße, Besitzübernahme, Rent Roll, Versicherung, Konto, Berichte, § 155-Verteilung und Schlussrechnung | `zwangsverwaltung-zvg` |
 | [`zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/`](./zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/) | ZVG-Versteigerung: fiktives Wohnungseigentum Hamburg-Eppendorf, Portalrecherche, Grundbuch, Verkehrswertgutachten ohne Fotos, Mietlage, Bieterangebot, geringstes Gebot, Sicherheitsleistung und Termincheck. | `zwangsverwaltung-zvg` |
+| [`kuendigungsschutzklage-weber-techlogix/`](./kuendigungsschutzklage-weber-techlogix/) | Markus Weber ./. TechLogix GmbH Berlin: betriebsbedingte Kündigung vom 30.04.2026, § 4 KSchG-Frist 20.05.2026. Betrieb mit 23 AN (§ 23 KSchG anwendbar), lückenhafte BR-Anhörung (Datum fehlt, Seite 2 fehlt), fragwürdige Sozialauswahl (Weber 8 J. BZ + 2 Kinder vs. Grunewald 2 J. BZ). Kanzleinotiz, handschriftliche Mandantennotiz, Kündigungsschreiben, AV-Auszug, BR-Anhörungsentwurf (roh), Sozialauswahl-Tabelle (roh), Vollmacht. | `kueschk-*` (Kündigungsschutz-Skills) |
+| [`befristungskontrollklage-vogt-stadtwerke/`](./befristungskontrollklage-vogt-stadtwerke/) | Lena Vogt ./. Stadtwerke Neukölln GmbH: Befristungskontrollklage, § 17 TzBfG-Frist 20.03.2026. Kernproblem Schriftformverstoß § 14 Abs. 4 TzBfG (AV nur per E-Mail + Scan, kein körperliches Original). Zusatzfrage: Vorbeschäftigung 2021 als Ferienaushilfe (3 Monate, anderer Bereich, 2 J. 5 M. Abstand). Arbeitsvertrag 2024 (E-Mail-Übermittlung), Email-Kette Vertragsschluss, Absage-Email Jan 2026, Ferienaushilfe-AV-Auszug 2021, Kanzleinotiz Erstgespräch, Vollmacht. | `entfristung-*` (Befristungskontroll-Skills) |
 
 ## Direkt-Download (je ein ZIP pro Akte)
 
@@ -69,6 +71,8 @@ Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehän
 - [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip)
 - [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip)
 - [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip)
+- [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip)
+- [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip)
 
 ## So spielt man eine Akte durch
 
