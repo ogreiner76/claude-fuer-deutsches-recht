@@ -24,7 +24,7 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip)
 
-Fiktive Akte zu einer sozialrechtlichen Streitigkeit um die Bewilligung eines elektrischen Rollstuhls (Familie Tannenberg): Bescheid, Widerspruch, Klageschrift, ärztliche Atteste.
+Fiktive Akte zur Familie Tannenberg in Kiel mit **vier disparaten Sozialrechtsverfahren parallel**: Olaf (Aktivrollator SGB V), Lena (Schulbegleitung SGB VIII), Margarete (Pflegegrad 3 auf 4 SGB XI), Bodo (volle EM-Rente SGB VI). Bescheide, Gutachten, Atteste, Pflegetagebuch (XLSX), Widerspruchsentwürfe, Mandantenbrief in einfacher Sprache, Trainerhandbuch für 1-Tages-Schulung.
 
 ## Enthaltene Skills
 
@@ -43,7 +43,20 @@ Fiktive Akte zu einer sozialrechtlichen Streitigkeit um die Bewilligung eines el
 | `klage-sozialgericht` | Entwurf einer Klage zum Sozialgericht nach §§ 87 ff. SGG. Klagefrist ein Monat nach Zustellung des Widerspruchsbescheids (§ 87 Abs. 1 SGG; bei fehlender Rechtsbehelfsbelehrung ein Jahr § 66 Abs. 2 SGG). Sachliche Zust… |
 | `mandanten-intake` | Strukturierter Erst-Intake in einer sozialrechtlichen Kanzlei. Erfasst Mandantenstammdaten Geburtsdatum Versichertennummer aktuell zustaendige Behoerden bisheriger Verfahrensstand laufende Fristen Bevollmaechtigungssi… |
 | `prozesskostenhilfe-antrag` | Erstellt einen Prozesskostenhilfe-Antrag fuer sozialgerichtliche Verfahren nach § 73a SGG iVm §§ 114 ff. ZPO. Pflichtbelege Erklaerung ueber die persoenlichen und wirtschaftlichen Verhaeltnisse (Formular ZP1a) Nachwei… |
+| `mandat-triage-sozialrecht` | Routet eingehende Mandate zu den richtigen Folge-Skills nach Sachgebiet und Sofort-Frist. |
+| `mandantenbrief-leichte-sprache` | Mandantenbrief in drei Stufen B1 / A2 / Leichte Sprache nach DIN SPEC 33429. |
+| `pflegegrad-widerspruch` | Widerspruch gegen Pflegegrad-Bescheide nach SGB XI — sechs Module Bewertung MD-Begutachtung Pflegetagebuch. |
+| `pkh-erfolgsaussicht-pruefen` | Vorab-Pruefraster fuer PKH-Erfolgsaussicht §§ 73a SGG iVm 114 ZPO Mutwilligkeit. |
+| `schulung-fallbesprechung` | Trainerleitfaden fuer Schulung Inhouse Fortbildung Pruefungs-AG mit fuenf Stationen. |
+| `schwerbehindertenausweis-gdb` | GdB- und Merkzeichen-Bescheide nach VersMedV aG G B Bl Gl H RF TBl. |
+| `sozialrecht-fallaufnahme-routing` | Master-Entscheidungsbaum: in drei Schritten zur richtigen Skill-Reihenfolge. |
+| `sozialrecht-kanzlei-kaltstart-interview` | Kaltstart-Interview fuer die Kanzlei-Profilierung schreibt CLAUDE.md. |
 | `widerspruch-formulieren` | Entwirft einen begruendeten Widerspruch gegen einen Sozialleistungsbescheid nach § 84 SGG (Widerspruchsfrist ein Monat ab Bekanntgabe — bei fehlender Rechtsbehelfsbelehrung ein Jahr nach § 66 Abs. 2 SGG). Aus der Besc… |
+| `widerspruchsfrist-und-zustellung-sgb` | Pruefraster Bekanntgabe Zustellung Drei-Tages-Fiktion Wiedereinsetzung Untaetigkeitsklage. |
+| `bescheid-frist-quick-check` | 60-Sekunden-Sofortpruefung der Frist eines Bescheids mit Ampel rot/gelb/gruen. |
+| `erwerbsminderungsrente-pruefen` | DRV-Bescheid pruefen voll vs teilweise EM Wartezeit Arbeitsmarktrente sozialmedizinisches Gutachten. |
+| `eingliederungshilfe-schule` | Eingliederungshilfe SGB IX Teil 2 §§ 90 ff Schulbegleitung Integrationshelfer. |
+| `eilantrag-sozialrecht` | Eilrechtsschutz § 86b SGG Anordnungsanspruch Anordnungsgrund Glaubhaftmachung. |
 
 ## Lizenz
 
