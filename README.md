@@ -19,23 +19,29 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
 
-## Überblick v5.6.0 auf einen Blick
+## Überblick v5.7.0 auf einen Blick
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 94 |
-| **Skills (SKILL.md)** | 1411 |
-| **Testakten** | 39 |
+| **Plugins** | 97 |
+| **Skills (SKILL.md)** | über 1500 |
+| **Testakten** | 40 |
 | **Fachanwält·innen-Profile** | alle 24 |
-| **Letzter Release** | [v5.6.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v5.6.0) |
+| **Letzter Release** | [v5.7.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v5.7.0) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Inhaltliche Cluster
 
-- **Rechtsgebiete (materiell):** Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht, Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht.
+- **Rechtsgebiete (materiell):** Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht (mit Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung neu in v5.7.0), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht (massiv ausgebaut in v5.7.0).
 - **Mechanik-Prüfer (neu in v3.3.x):** `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
+- **Werkstatt-Plugins (neu in v5.6.0 und v5.7.0):**
+  - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundes- und Landesministerien (Referentenentwurf Arial-Hausstil, BT-Drucksache Times+Sperrsatz, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe). DOCX/PDF im HdR-Layout.
+  - `urteilsbauer-relationsmacher` — Urteils- und Beschluss-Werkstatt für Amts-, Land- und Familienrichter plus Rechtspfleger. Vollrelation (Sachbericht/Zulässigkeit/Schlüssigkeit/Erheblichkeit/Replik/Beweis/Tenorierung/Nebenentscheidungen/Selbstkontrolle) **und** Kurzrelation Praxisstandard mit Wahlfrage am Anfang. Rendert Urteile, Versäumnisurteile und Beschlüsse als DOCX im offiziellen Gerichtslayout nach § 313 ZPO. Inkl. Schulungsakte „Solis Vision X Smartglasses" (CISG, kollidierende AGB CH/EU, Incoterm FOB Galway, DSGVO als Eingriffsnorm, Testkauf 1577 EUR).
 - **Workflow-Pakete:** Wandeldarlehen-Lebenszyklus (Erstellung, Beurkundung, Wandlung, Cap-Table, Notar), Kündigungsschutzklage Selbsthilfe (Laie/Anwalt, Schriftsätze, Sprechzettel, Vergleich), Entfristungsklage TzBfG (Schriftform, elektronische Signatur), KI-Richtlinie für Kanzleien, Schriftform-/Textform-Organisator, Krisenfrüherkennung StaRUG, Liquiditätsplanung, Fortbestehensprognose.
 - **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise BGH-/Beck-Stil, Fachanwaltschafts-Übersicht.
+
+> ⚠️ **Vorsicht: hiermit bitte nicht mogeln im Studium.**
+> Die Vollrelation, der Urteilsentwurf und alle Schulungsakten sind **Trainings- und Praxiswerkzeuge** für Referendar·innen, Assessor·innen, Berufsrichter·innen und Lehrkräfte. Sie sind ausdrücklich **nicht** dafür gedacht, in Klausuren, Hausarbeiten, Aktenvorträgen oder im juristischen Vorbereitungsdienst (Z-, S-, V-, A-Klausur, mündliche Prüfung) als eigene Leistung ausgegeben zu werden. Das wäre ein Täuschungsversuch im Sinne von § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder und kann zum Nichtbestehen, zur Aberkennung der Prüfung oder zu disziplinarrechtlichen Konsequenzen führen. Wer eine Relation üben will: zuerst selbst schreiben, danach mit dem Plugin abgleichen.
 
 Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) und im Abschnitt [Was ist drin?](#was-ist-drin).
 

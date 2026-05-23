@@ -1,0 +1,32 @@
+{
+  "name": "urteilsbauer-relationsmacher",
+  "version": "5.7.0",
+  "description": "Urteils- und Beschluss-Werkstatt fuer Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswuerdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgruende Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "keywords": [
+    "richter",
+    "amtsgericht",
+    "landgericht",
+    "rechtspfleger",
+    "urteil",
+    "beschluss",
+    "relation",
+    "vollrelation",
+    "schluessigkeit",
+    "erheblichkeit",
+    "beweiswuerdigung",
+    "tatbestand",
+    "tenor",
+    "entscheidungsgruende",
+    "rechtsmittelbelehrung",
+    "313-zpo",
+    "rechtsanwendung",
+    "berufungsfest",
+    "revisionsfest",
+    "zivilprozess",
+    "freistehend"
+  ]
+}
