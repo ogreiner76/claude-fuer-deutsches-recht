@@ -1,0 +1,38 @@
+{
+  "name": "legistik-werkstatt",
+  "version": "5.6.0",
+  "description": "Legistik-Werkstatt fuer Bundes- und Landesministerien. Erstellt Referentenentwuerfe Kabinettsentwuerfe Formulierungshilfen Rechtsverordnungen Satzungen mit Begruendung Synopse Lesefassung XML. Pruefung Verfassungsrecht Europarecht Folgenabschaetzung Goldplating. DOCX im offiziellen HdR-Layout.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "keywords": [
+    "legistik",
+    "rechtssetzung",
+    "gesetzgebung",
+    "referentenentwurf",
+    "kabinettsentwurf",
+    "formulierungshilfe",
+    "rechtsverordnung",
+    "satzung",
+    "begruendung",
+    "synopse",
+    "lesefassung",
+    "xml",
+    "legaldocml",
+    "enorm",
+    "verfassungsrecht",
+    "europarecht",
+    "goldplating",
+    "folgenabschaetzung",
+    "terminologie",
+    "bundesgesetz",
+    "landesgesetz",
+    "art-80-gg",
+    "art-28-gg",
+    "wesentlichkeitstheorie",
+    "bestimmtheitsgebot",
+    "notifizierung",
+    "freistehend"
+  ]
+}
