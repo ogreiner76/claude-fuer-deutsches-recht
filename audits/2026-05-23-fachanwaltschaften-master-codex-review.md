@@ -68,7 +68,7 @@ committen**, wo sinnvoll:
   MoPeG, KStG-Reformen, PflPostG, neue ZPO-Aenderungen,
   Mietrechtsanpassungen, Cannabis-Gesetz beruecksichtigt, wo relevant?
 - **Fristen:** Sind die genannten Fristen korrekt (z.B. § 626 II BGB
-  zwei Wochen, § 4 KSchG drei Wochen, § 11 WEG-Frist, § 558b BGB)?
+  zwei Wochen, § 4 KSchG drei Wochen, § 45 WEG Beschlussanfechtungsfrist (ein Monat Klage, zwei Monate Begruendung), § 558b BGB)?
 - **Zustaendigkeiten:** Amtsgericht vs Landgericht, sachliche und
   oertliche Zustaendigkeit, Streitwertgrenzen.
 
@@ -104,9 +104,10 @@ committen**, wo sinnvoll:
 ### Dimension 4 — Format und Stil
 
 - **DSGVO-Verweise:** Immer `Art.`, **nie** `§`.
-- **Komma-Zahlen:** In SKILL.md-Bodies sind Zahlen wie `12,5` durch
-  `12.5` zu ersetzen (Validator-Regel). In Frontmatter/description
-  ebenfalls.
+- **Komma-Zahlen:** Der Validator verbietet `\d\s*,\s*\d` ausschliesslich
+  in Skill-`description`-Frontmatter und Plugin-Manifest-`description`. Im
+  SKILL.md-Body sind juristische Komma-Zahlen (z.B. `1,5 Promille`,
+  `12,5 Prozent`) erlaubt und sollen nicht ohne Not umgeschrieben werden.
 - **Skill descriptions:** ≤1024 Zeichen, einzeilig, in Quotes, nur
   `name` + `description` im Frontmatter.
 - **Frauenfreundliche Sprache:** Schraegstrich-Form
@@ -142,8 +143,9 @@ committen**, wo sinnvoll:
    - Keine Erwaehnung von Claude/AI/Codex/GPT/LLM/Sprachmodell in
      Commits oder Plugin-Inhalten.
 4. **Validator-Konformitaet:**
-   - `\d\s*,\s*\d` in plugin.json + SKILL.md descriptions und body
-     **verboten** (nur in marketplace.json erlaubt).
+   - `\d\s*,\s*\d` in plugin.json-`description` + SKILL.md-`description`
+     **verboten** (Validator-Regel). Im SKILL.md-Body sind Komma-Zahlen
+     erlaubt. In marketplace.json ebenfalls erlaubt.
    - Skill descriptions ≤ 1024 Zeichen, einzeilig, in Quotes.
    - Plugin descriptions ≤ 300 Zeichen.
    - Skill-Namen Regex `[a-z0-9-]{1,64}`, name == Verzeichnisname.
