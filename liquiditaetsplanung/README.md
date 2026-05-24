@@ -22,6 +22,16 @@ Die URLs sind **stabil** und zeigen immer auf die neueste Version. Alle weiteren
 
 Hinweis: Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus **Code → Download ZIP** verwenden.
 
+### Lokale Voraussetzungen für Excel-Export
+
+Das Werkzeug `skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py` erzeugt die gerichtsfeste `.xlsx`-Datei mit Formeln und bedingter Formatierung. **Es braucht kein `pip install`** — der XLSX-Schreiber ist in reiner Python-Standardbibliothek (`zipfile`, `xml.etree`) implementiert und läuft auf jedem Python 3.8+ direkt:
+
+```bash
+python3 werkzeuge/build_liquiditaetsplan.py --eingabe mandant.yaml --ausgabe plan.xlsx
+```
+
+PyYAML wird automatisch genutzt wenn vorhanden, sonst greift ein eingebauter Mini-YAML-Parser. JSON-Eingaben funktionieren ohnehin ohne Zusatzpaket.
+
 ### Zum Ausprobieren: Beispielakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
