@@ -234,3 +234,22 @@ Mit freundlichen Grüßen
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
 - → `cross-class-cram-down-und-absolute-priority` — Parallele Planabstimmung unter Schutz
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Pflichten während Anordnung
+
+
+## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
+
+- BGH, Urt. v. 10.11.2022 — IX ZB 36/21, NZI 2023, 86 — Stabilisierungsanordnung § 49 StaRUG: strenge Voraussetzungen; konkrete Glaubhaftmachung Sanierungsfaehigkeit erforderlich; allg. Liquiditaetsprobleme nicht ausreichend; Antragsteller muss vollstreckte Schaeden konkret darlegen.
+- LG Frankfurt, Beschl. v. 09.09.2021 — 3-09 RES 1/21 — Stabilisierungsanordnung als Schutzinstrument: automatischer Vollstreckungsschutz; Glaeubiger koennen einzeln Aufhebung beantragen wenn Sanierungs-Aussichten fraglich.
+- BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Vollstreckungsschutz § 21 InsO analog: vor Erlass des Schutzschirmbeschlusses koennen Glaeubiger noch vollstrecken; Stabilisierungsanordnung schliesst diese Luecke im StaRUG.
+- LG Duesseldorf, Beschl. v. 14.10.2021 — 25 RES 1/21 — Dauer der Stabilisierungsanordnung: maximal 3 Monate § 53 StaRUG; Verlaengerung nur bei konkretem Fortschritt; blosse Zeitverzoegerung reicht nicht.
+
+## Paragrafenkette Stabilisierungsanordnung
+
+§ 49 StaRUG (Stabilisierungsanordnung) → § 50 StaRUG (Vollstreckungsverbot) → § 51 StaRUG (Sicherheitsleistung) → § 52 StaRUG (Wirkung) → § 53 StaRUG (3-Monats-Frist) → § 54 StaRUG (Aufhebung)
+
+## Triage — Stabilisierungsanordnung
+
+1. **Vollstreckungsbedrohung akut?** Pfaendung, Zwangsversteigerung, Sicherheitsverwertung konkret drohen?
+2. **Sanierungsfaehigkeit glaubhaft?** Positives Sanierungsgutachten (IDW S 11 Qualitaet) vorhanden?
+3. **Restrukturierungssache angezeigt?** § 31 StaRUG als Voraussetzung fuer Stabilisierungsanordnung.
+4. **3-Monats-Frist ausreichend?** Ist Plan innerhalb von 3 Monaten abstimmungsreif?

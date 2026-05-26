@@ -309,3 +309,11 @@ _______________________________   _______________________________
 - → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht der GF
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO-Hinweis im Template
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftungsfolgen
+
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.

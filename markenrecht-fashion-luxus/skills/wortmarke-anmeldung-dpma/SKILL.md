@@ -134,3 +134,19 @@ Statt „Bekleidungsstücke" → „Bekleidungsstücke, nämlich Oberbekleidung 
 - **Erinnerungsfrist:** Nur 1 Monat (§ 64 I MarkenG); Fristversäumnis nicht heilbar außer durch Wiedereinsetzung
 - **Sonderzeichen im DPMA-System:** Ô und È müssen korrekt eingegeben werden; Testlauf vor Anmeldung empfohlen
 - **Verwechslungsgefahr mit älteren Rechten:** Das DPMA prüft nur absolute Schutzhindernisse — relative Konflikte mit älteren Marken obliegen dem Inhaber (Widerspruch, Klage)
+
+## Triage-Fragen vor DPMA-Wortmarken-Anmeldung
+
+Bevor die Anmeldung erfolgt, klaere:
+1. Wurde eine Kollisionsrecherche im DPMA-Markenregister auf identische und aehnliche Zeichen durchgefuehrt?
+2. Ist das Wort rein beschreibend (§ 8 II Nr. 2 MarkenG) oder ein freizuhaltender Begriff?
+3. Sind Umlaute / Sonderzeichen korrekt kodiert — und wird eine ASCII-Parallelanmeldung empfohlen?
+4. Sind alle gewuenschten Nizza-Klassen mit praezisem Warenverzeichnis abgedeckt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Beschl. v. 17.05.2001 — I ZB 40/98 (FUELUNGSKRAFT):** Zusammengesetzte Woerter, die aus zwei jeweils beschreibenden Bestandteilen bestehen, koennen als Ganzes Unterscheidungskraft besitzen, wenn die Verbindung ungewoehnlich ist und nicht selbst eine beschreibende Aussage ergibt.
+
+> **EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild):** Woerter, die aus einer Kombination von beschreibenden Bestandteilen bestehen, sind von der Eintragung ausgeschlossen, es sei denn, dass der Begriff in seiner Gesamtheit einen anderen Eindruck ergibt als die bloss arithmetische Summe seiner Bestandteile.
+
+> **BGH, Beschl. v. 22.01.2009 — I ZB 52/08 (SPA II):** Zur Bestimmung der Unterscheidungskraft ist nicht allein der Wortlaut massgeblich, sondern auch die Branchenkenntnis und der Wahrnehmungshorizont der massgeblichen Verkehrskreise; bei Luxuswaren ist das Publikum markenaffiner und unterscheidungssensitiver als beim allgemeinen Massenmarkt.

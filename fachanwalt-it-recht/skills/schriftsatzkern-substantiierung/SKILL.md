@@ -193,3 +193,72 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 22.12.2005 — VII ZR 183/04, NJW 2006, 1198 Rn. 14: Symptomrechtsprechung — Mangelrüge mit Symptombeschreibung genuegt; alle verursachenden Maengel werden davon umfasst; Beweisangebot zum Symptom ausreichend.
+- BGH, Urt. v. 25.05.2020 — VI ZR 252/19, NJW 2020, 1962 Rn. 35: Substantiierungsanforderungen an Klageschrift im Deliktrecht — primaerfaehige Tatsachen muesSen konkret und nachpruefbar vorgetragen werden, keine Pauschalbehauptungen.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: DSGVO-Schadensersatz Art. 82 — Betroffener muss Schaden konkret darlegen; blosser Verstosz genuegt nicht; Substantiierungslast liegt beim Klaeager.
+- BGH, Urt. v. 17.03.2022 — III ZR 79/21, NJW 2022, 2024 Rn. 19: Verpasste Replik-Frist § 296 ZPO bei IT-Rechtsstreit — spaetes Vorbringen ausgeschlossen, wenn Partei keine ausreichende Entschuldigung vorlegt; Rechtzeitigkeitspflicht gilt auch bei komplexen IT-Sachverhalten.
+
+## Zentrale Normen (Paragrafenkette)
+- § 253 ZPO — Inhalt der Klageschrift; Abs. 2 Nr. 2 Bestimmtheit des Antrags
+- § 296 ZPO — Zurueckweisung verspaeteten Vorbringens
+- § 448 ZPO — Parteivernehmung von Amts wegen
+- § 130a ZPO — Elektronisches Dokument (beA-Einreichung)
+- § 138 ZPO — Erklaerungs- und Wahrheitspflicht; Vollstaendigkeitsgebot
+- Art. 82 DSGVO — Schadensersatz bei DSGVO-Versto§ (eigene Substantiierungslast)
+
+## Kommentarliteratur
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 253 Rn. 8 ff.: Bestimmtheitsgebot und Substantiierungsanforderungen.
+- Zöller, ZPO, 35. Aufl. 2024, § 296 Rn. 1 ff.: Praeklusion verspaeteten Vortrags.
+- Kühling/Buchner, DSGVO / BDSG, 4. Aufl. 2024, Art. 82 Rn. 60 ff.: Darlegungslast bei Schadensersatzklage.
+
+## Triage zu Beginn
+1. Welcher Verfahrenstyp liegt vor — Klageschrift, Berufungsbegruendung, Widerspruch gegen Buszgeldbescheid, einstweilige Verfuegung?
+2. Ist die Klagefrist bzw. Rechtsmittelfrist bekannt und im Kalender eingetragen?
+3. Welche Anspruchsgrundlagen kommen in Betracht — sind Alternativansprueche vollstaendig erfasst?
+4. Existieren konkrete Beweismittel (Urkunden, Zeugen, Sachverstaendige) fuer jedes Tatbestandsmerkmal?
+5. Ist der Antrag tenorierungsfaehig und vollstreckbar formuliert?
+
+## Output-Template — Schriftsatz IT-/Datenschutz-/Telemedienrecht
+**Adressat:** Gericht / Behoerde — Tonfall: sachlich-juristisch, praezise
+```
+[GERICHT / BEHOERDE]
+[ADRESSE]
+
+In der Sache [NAME MANDANT] ./. [GEGNER]
+[AKTENZEICHEN]
+
+KLAGESCHRIFT / [BEZEICHNUNG SCHRIFTSATZ]
+vom [DATUM]
+
+Wir vertreten [NAME MANDANT] (Klaeger/in). Wir zeigen die Uebernahme
+des Mandats an und beantragen:
+
+I. ANTRAG
+[HAUPTANTRAG: z.B. "Die Beklagte wird verurteilt, an den Klaeger
+EUR [BETRAG] nebst Zinsen i.H.v. 5 Prozentpunkten ueber dem
+Basiszinssatz seit [DATUM] zu zahlen."]
+
+Hilfsweise: [HILFSANTRAG]
+
+II. SACHVERHALT
+[CHRONOLOGISCHER TATSACHENVORTRAG: DATUM — EREIGNIS — BEWEISMITTEL]
+
+III. RECHTLICHE WUERDIGUNG
+Anspruchsgrundlage: [NORM]
+- Tatbestandsmerkmal 1: [TATSACHE] — Beweis: Anlage K[N]
+- Tatbestandsmerkmal 2: [TATSACHE] — Beweis: Zeuge [NAME]
+- Subsumtionsergebnis: [ERGEBNIS]
+
+IV. STREITWERT
+EUR [BETRAG] gemaess § [NORM].
+
+V. ANLAGEN
+K1: [BEZEICHNUNG, DATUM]
+K2: [BEZEICHNUNG, DATUM]
+
+[KANZLEI], [DATUM]
+[NAME RA/RAin]
+Rechtsanwaeltin / Rechtsanwalt
+```

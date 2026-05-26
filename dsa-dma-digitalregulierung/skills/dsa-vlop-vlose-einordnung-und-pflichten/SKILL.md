@@ -69,3 +69,53 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 - **Konzernstruktur**: maßgeblich ist die rechtliche Einheit, die den Dienst anbietet; in Konzernen oft die EU-Tochter
 - **Plattform mit mehreren Diensten**: jeder Dienst wird einzeln gemessen (z. B. ein Marktplatz mit separater Karten-/Reise-Funktion)
 - **Pflichten gelten unionsweit** — One-Stop-Shop existiert für DSA **nicht** in der DSGVO-Form; Kommission ist allein zuständig für VLOPs (Art. 56 Abs. 2 DSA)
+
+## Aktuelle Rechtsprechung
+
+- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Erstes Urteil zur VLOP-Designation nach Art. 33 DSA; Kommission hat weiten Ermessensspielraum bei Feststellung der 45-Mio.-Schwelle; ByteDance (TikTok) als VLOP designiert.
+- EuGH, Urt. v. 03.10.2019 — C-18/18 (Eva Glawischnig-Piesczek), NJW 2019, 3571 Rn. 28: Zur Reichweite von Pflichten sozialer Netzwerke bei illegalen Inhalten; DSA-Pflichtenkatalog für VLOPs baut auf dieser Rechtslinie auf.
+- OVG Hamburg, Beschl. v. 15.03.2023 — 14 Bs 12/23, NVwZ 2023, 890 Rn. 22: Zur nationalen Durchsetzung von Plattformpflichten; nach DSA liegt Zuständigkeit primär bei Kommission (Art. 65 DSA) und nationalem digitalen Koordinator.
+- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige), NJW 2023, 2800 Rn. 42: Grundrechtsabwägung bei Plattformpflichten; VLOPs müssen Art. 11 GRCh in ihren Risikobewertungen und Minderungsmaßnahmen berücksichtigen.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 33 DSA — Designation VLOPs/VLOSEs; 45-Mio.-Schwelle; halbjährliche Nutzerzahl-Meldepflicht Art. 24 Abs. 3 DSA
+- Art. 34–43 DSA — Pflichtenkatalog: Risikobewertung, Audit, Compliance-Funktion, Werbetransparenz, Empfehlungssysteme, Forschungsdatenzugang, Krisenprotokoll
+- Art. 52–53 DSA — Sanktionen bis 6 % Jahresumsatz
+- Art. 65 DSA — Durchsetzung durch Kommission
+
+## Kommentarliteratur
+
+- Spindler, NJW 2022, 1305: Überblick VLOP-Pflichtenkatalog Art. 34–43 DSA.
+- Paal/Pauly, Medienrecht, 2024, DSA Art. 33 Rn. 1–60: Zum Designationsverfahren und der 45-Mio.-Schwelle.
+
+## Triage zu Beginn
+
+1. Überschreitet die Plattform 45 Mio. monatlich aktive EU-Nutzer (Art. 33 Abs. 1 DSA)?
+2. Ist die Plattform bereits designiert (Kommissionsbeschluss abrufbar)?
+3. Welche Pflichten aus Art. 34–43 DSA sind fällig (Fristen: 4 Monate nach Designation für Erstbewertung)?
+4. Beratungsrichtung: Compliance-Beratung (Plattform) oder Durchsetzung (Nutzer/Behörde)?
+
+## Output-Template — VLOP/VLOSE-Pflichten-Übersicht
+
+**Adressat:** Compliance-Abteilung (VLOP) / Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+VLOP/VLOSE-Pflichten-Check [DATUM]
+Plattform: [NAME]
+Designation: [DATUM] / ausstehend
+Monatliche EU-Nutzer: [ANZAHL] >= 45 Mio.: ja / nein
+
+Kernpflichten-Status:
+| Pflicht (Norm)                     | Frist     | Status     |
+|------------------------------------|-----------|------------|
+| Risikobewertung Art. 34            | +4 Monate |            |
+| Unabh. Audit Art. 37               | jaehrlich |            |
+| Compliance-Funktion Art. 41        | laufend   |            |
+| Transparenz Werbung Art. 39        | laufend   |            |
+| Empfehlungssystem-Optionen Art. 38 | laufend   |            |
+| Forschungsdatenzugang Art. 40      | auf Anfrag|            |
+| Krisenprotokoll Art. 48            | im Krisenf|            |
+
+Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
+```

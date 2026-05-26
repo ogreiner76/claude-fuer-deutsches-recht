@@ -59,3 +59,45 @@ Rechtsquellen und Softlaw zum KI-Einsatz in der Anwaltschaft sind auf mehreren E
 ## Hinweise zur Aktualisierung
 
 Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu überprüfen und um neu erschienene relevante Beiträge zu ergänzen. Sobald ein KI-VO-Durchführungsrechtsakt erscheint, ist er sofort in die Primärquellenliste aufzunehmen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftung bei Verwendung halluzinierter Quellen — Anwalt muss KI-generierte Fundstellen verifizieren.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Sorgfaltspflicht umfasst korrekte Quellenangaben in Rechtsgutachten und Schriftsaetzen.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Sekundaerquellen zur DSGVO muessen mit Primaerrecht abgeglichen werden.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflicht bei zitierten Informationsquellen — nicht nur bei KI, auch bei anderen automatisierten Recherchetools.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43 BRAO — Sorgfaltspflicht und korrekte Quellenangaben
+- § 138 ZPO — Wahrheitspflicht (gilt auch fuer Quellenangaben)
+- Art. 5 Abs. 1 lit. d DSGVO — Richtigkeit der verarbeiteten Informationen
+- § 44b UrhG — Text-und-Data-Mining-Schranke (fuer KI-Recherche)
+
+## Triage zu Beginn
+1. Werden Quellen aus KI-Ausgaben direkt verwendet oder gegen amtliche Quellen verifiziert?
+2. Ist ein Verifikationsprozess fuer Rechtsprechungs-Fundstellen (juris, Beckonline, EUR-Lex) etabliert?
+3. Werden Kommentare und Monografien aus KI-Ausgaben abgeglichen?
+4. Gibt es eine aktuelle Literatursammlung fuer das relevante Rechtsgebiet?
+5. Sind Mitarbeiter geschult, zwischen Primaer- und Sekundaerquellen zu unterscheiden?
+
+## Output-Template — Quellenverzeichnis / Verifizierungsprotokoll
+**Adressat:** Kanzlei intern — Tonfall: dokumentierend
+```
+QUELLENVERZEICHNIS UND VERIFIZIERUNGSPROTOKOLL
+[DATUM] — [AKTENZEICHEN] — Dokument: [BEZEICHNUNG]
+
+PRIMÄRQUELLEN (verifiziert):
+Rechtsprechung:
+- [GERICHT, DATUM — AZ, FUNDSTELLE]: Verifiziert gegen [QUELLE] am [DATUM]
+- [WEITERE]
+
+Gesetze und Verordnungen:
+- [NORM]: verifiziert gegen [QUELLE] am [DATUM]
+
+SEKUNDÄRQUELLEN (Kommentare / Literatur):
+- [AUTOR, Werk, Auflage, Randzahl]: Im Original eingesehen am [DATUM]
+
+KI-GENERIERTE FUNDSTELLEN (Verifikationsstatus):
+- [FUNDSTELLE]: [BESTAETIGT / NICHT GEFUNDEN / FEHLERHAFT — Korrektur: BESCHREIBUNG]
+
+Verifiziert von: [NAME], [DATUM]
+```

@@ -67,3 +67,12 @@ Diff-Vorschau (alt / neu) je geändertem Abschnitt → Bestätigungsaufforderung
 - **Unbeabsichtigtes Überschreiben:** Nur den betreffenden Abschnitt ändern; nicht das gesamte Profil neu schreiben.
 - **Inkonsistente Matrix:** Genehmigungsmatrix und Durchsetzungsstrategie müssen zueinander passen; bei Widerspruch nachfragen.
 - **Kein Rollback:** Das Plugin speichert keine Vorversionen; bei wichtigen Änderungen vorher eine Sicherungskopie anlegen.
+
+## Rechtlicher Hintergrund: Kanzleipflichten bei Profilaenderungen
+
+Bei Änderungen der Genehmigungsmatrix und Durchsetzungsstrategie sind folgende Normen relevant:
+
+- BGH, Urt. v. 17.10.2019 – I ZR 34/18, GRUR 2020, 401 Rn. 22 – DSDS: Abmahnbefugnis setzt konkretes Wettbewerbsverhältnis voraus; bei Änderung des Mandantenprofils pruefen ob Aktivlegitimation noch besteht.
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Missbrauch nach § 8c UWG bei Serienvorgehen ohne ernsthaftes Unterlassungsinteresse; Genehmigungsmatrix sollte Missbr auchsprüfung enthalten.
+- § 43a Abs. 2 BRAO – Verschwiegenheitspflicht: Kanzleiprofil und Mandantenstruktur unterfallen Verschwiegenheitspflicht; Profilaenderungen nur in gesicherter Umgebung.
+- § 203 StGB – Unbefugte Offenbarung von Geheimnissen: Weitergabe von Mandantenstrukturdaten an ungesicherte Drittsysteme strafbewehrt.

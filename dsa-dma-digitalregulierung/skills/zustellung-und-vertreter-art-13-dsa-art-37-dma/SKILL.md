@@ -78,3 +78,53 @@ description: "Skill zur Zustellung gegen Plattform mit Sitz außerhalb der EU. A
 
 - Bundesnetzagentur als DSC führt **öffentliches Verzeichnis** der Art.-13-Vertreter
 - Bei Pflichtverstoß (kein Vertreter benannt): Bußgeld nach DDG, ggf. Diensteinschränkung
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 29.07.2021 — III ZR 179/20, NJW 2021, 3179 Rn. 38: Zur Zustellung gegen US-Plattformen; bei fehlender EU-Niederlassung ist internationale Zustellung nach HZÜ oder EuZVO 2020/1784 erforderlich; Art. 13 DSA schafft EU-Vertreter als einfacheren Weg.
+- BGH, Beschl. v. 19.03.2020 — I ZB 99/19, NJW 2020, 1450 Rn. 22: Zur Zustellung im Ausland nach §§ 183, 184 ZPO; Möglichkeit öffentlicher Zustellung wenn andere Wege scheitern oder verweigert werden.
+- EuGH, Urt. v. 07.07.2022 — C-168/21 (KP), NJW 2022, 2815 Rn. 28: Zur Anwendung der EuZVO 2020/1784; Zustellung muss so gestaltet sein, dass der Empfänger tatsächlich Kenntnis erlangt; formale Zustellung ohne tatsächliche Kenntnisnahme kann unzureichend sein.
+- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 22: Zur Zustellung bei verweigerter Annahme; öffentliche Zustellung nach § 185 ZPO als Ultima Ratio.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 13 DSA — Pflicht zur Benennung eines gesetzlichen Vertreters in der EU für Nicht-EU-Anbieter
+- Art. 11 DSA — Zentrale Kontaktstelle für Behörden
+- Art. 12 DSA — Zentrale Kontaktstelle für Nutzer
+- Art. 37 DMA — Vertreter für Gatekeeper ohne EU-Niederlassung
+- Art. 1–5 EuZVO 2020/1784 — Europäische Zustellungsverordnung
+- §§ 183–185 ZPO — Auslandszustellung und öffentliche Zustellung
+- Art. 17–19 HZÜ — Haager Zustellungsübereinkommen
+
+## Kommentarliteratur
+
+- Zöller/Greger ZPO, 34. Aufl. 2022, § 183 Rn. 1–30: Zur Auslandszustellung nach EuZVO und HZÜ; Praxis.
+- Musielak/Voit ZPO, 21. Aufl. 2024, § 184 Rn. 1–20: Zur Ermächtigung eines inländischen Zustellungsbevollmächtigten; Bedeutung für DSA Art. 13.
+
+## Triage zu Beginn
+
+1. Hat die Plattform eine EU-Niederlassung? (Zustellung dorthin nach EuZVO)
+2. Ist ein EU-Vertreter nach Art. 13 DSA benannt? (Kommissionsregister prüfen)
+3. Scheitert die Zustellung an Weigerung? (§ 184 ZPO / öffentliche Zustellung § 185 ZPO als Ultima Ratio)
+4. Ist internationale Zuständigkeit nach Brüssel Ia-VO (VO 1215/2012) gegeben?
+
+## Output-Template — Zustellungsplan
+
+**Adressat:** Gericht / Gerichtsvollzieher — Tonfall: sachlich-juristisch
+
+```
+Zustellungsplan [DATUM]
+Empfaenger: [PLATTFORMNAME, SITZ]
+EU-Vertreter nach Art. 13 DSA: [NAME, ANSCHRIFT] / nicht benannt
+EU-Niederlassung: [JA/NEIN; WENN JA: ANSCHRIFT]
+
+Bevorzugter Zustellungsweg:
+1. Wahl: EU-Vertreter nach Art. 13 DSA an [ANSCHRIFT]
+2. Wahl: EU-Niederlassung (falls vorhanden)
+3. Wahl: EuZVO 2020/1784 über Zentralstelle [LAND]
+4. Wahl: § 184 ZPO Ermächtigung eines inlaendischen Bevollmaechtigten
+5. Ultima Ratio: Oeffentliche Zustellung § 185 Nr. 1 ZPO
+
+Internationale Zuständigkeit: Art. [X] Bruessel-Ia-VO (VO 1215/2012)
+Gerichtsstand: [GERICHT]
+```

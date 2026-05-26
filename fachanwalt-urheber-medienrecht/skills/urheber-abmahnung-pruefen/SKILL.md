@@ -273,3 +273,19 @@ ODER
 ## Quellen
 
 UrhG §§ 2, 7, 15–17, 19a, 31, 51–53, 59, 69a, 72, 97, 97a, 101, 102. BGH I ZR 137/85 (kleine Münze). BGH I ZR 69/08 (Vorschaubilder). BGH I ZR 121/08 (WLAN Störerhaftung). BGH I ZR 74/12 (Morpheus). BGH I ZR 75/14 (Tauschbörse III). BGH I ZR 187/12 (Lizenzbetrag Foto). KUG §§ 22, 23. Dreier/Schulze UrhG, aktuelle Auflage. Schricker/Löwenheim UrhG. Stand: 05/2026.
+
+## Triage-Fragen bei Urheber-Abmahnungs-Pruefung
+
+Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
+1. Besteht Werkqualitaet (§ 2 II UrhG — persoenlich-geistige Schoepfung, Schoeupfungshoehe)?
+2. Ist der Abmahnende tatsaechlich der Rechteinhaber oder ein autorisierter Lizenznehmer (Aktivlegitimation)?
+3. Greift eine gesetzliche Schranke — Zitat, Parodie, Unterrichtsgebrauch, TDM?
+4. Wurde die Frist zur Reaktion auf die Abmahnung korrekt berechnet (regelmaeßig 7-14 Tage, Fristbeginn = Zugang)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 13.11.2013 — I ZR 143/12 (Konferenz der Tiere — Parodie):** Ein Parodie-Werk muss einerseits die Merkmale des Originals evozieren, andererseits einen merklichen Unterschied zum Original aufweisen; eine blosse Nachahmung ohne eigenen Beitrag ist keine Parodie, die nach § 24 UrhG (a.F.) oder als Meinungsaeusserung geschuetzt waere.
+
+> **BGH, Urt. v. 29.04.2010 — I ZR 69/08 (Vorschaubilder I):** Wer ein urheberrechtlich geschuetztes Bild im Internet fuer Suchmaschinen zugaenglich macht, erklaert konkludent die Einwilligung in die technische Verarbeitung durch Suchmaschinen; diese Einwilligung gilt aber nicht fuer eine eigenhaendige Weiternutzung des Bildes durch Dritte.
+
+> **BGH, Urt. v. 17.12.2020 — I ZR 228/19 (Teppichboden):** Das Zitatrecht nach § 51 UrhG setzt voraus, dass das Zitat als Beleg oder zur Auseinandersetzung mit dem Original dient; ein dekoratives oder bloess ornamentales Zitat ohne inhaltlichen Zusammenhang faellt nicht unter § 51 UrhG.

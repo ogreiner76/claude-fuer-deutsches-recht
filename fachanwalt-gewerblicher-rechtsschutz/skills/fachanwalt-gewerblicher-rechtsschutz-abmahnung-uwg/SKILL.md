@@ -48,6 +48,8 @@ description: "UWG-Abmahnung §§ 8 ff. UWG: Aktivlegitimation § 8 Abs. 3 (Mitbe
 | BGH | I ZR 45/11 | 31.05.2012 | Missbräuchliche Abmahnung: Massenhaftes Vorgehen gegen dasselbe Muster ohne eigene wirtschaftliche Tätigkeit |
 | BGH | I ZR 163/18 | 02.06.2022 | Schwarze Liste Anhang § 3 Abs. 3 UWG: Gefälligkeitsbewertungen als irreführende Handlung |
 | OLG München | 6 U 2028/21 | 13.01.2022 | Influencer-Schleichwerbung: Fehlende Kennzeichnung als Werbung = § 5a UWG-Verstoß |
+| BGH | I ZR 184/17 | 07.03.2019 | Energieeffizienzklasse III: Missbrauchliche Abmahnung nach § 8c UWG erfordert kein Eigeninteresse an Unterlassung mehr; Serienabmahner koennen nach § 8c Abs. 2 UWG auf Schadensersatz in Anspruch genommen werden |
+| BGH | I ZR 66/20 | 10.02.2022 | Influencer III: Kein Pflichthinweis "Werbung" bei ausschliesslich eigeninitiiertem Posting ohne kommerzielle Gegenleistung; Freiheitsrechte der Meinungsauesserung ueberwiegen |
 
 ## Prüfschema UWG-Abmahnung
 

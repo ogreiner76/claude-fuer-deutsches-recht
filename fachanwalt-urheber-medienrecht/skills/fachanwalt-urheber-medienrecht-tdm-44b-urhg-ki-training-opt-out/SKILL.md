@@ -283,3 +283,19 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 ## Quellen
 
 UrhG §§ 2, 44b, 60d, 87a–87c, 97, 97a, 101, 102. DSM-RL (EU) 2019/790 Art. 3–4. KI-VO (EU) 2024/1689 Art. 53, 113 (GPAI-Modelle). LG Hamburg 310 O 227/23 (LAION; TDM § 44b). OLG Köln 6 U 156/23 (Robots.txt Opt-out). LG Hamburg 310 O 99/24 (Opt-out keine Rückwirkung). US District Court Reuters vs. Ross (2025). BGH I ZR 171/23 (anhängig). Dreier/Schulze UrhG § 44b. Wandtke/Bullinger UrhG. Stand: 05/2026.
+
+## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
+
+Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
+1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmaessigem Zugang)?
+2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
+3. Liegen Nachweise dafuer vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
+4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
+
+## Aktuelle Rechtsprechung
+
+> **LG Hamburg, Urt. v. 27.09.2023 — 310 O 227/23 (LAION/TDM):** Die Veroeffentlichung eines Fotos im Internet berechtigt nicht automatisch zur Aufnahme in Datensaetze fuer KI-Training; § 44b UrhG setzt rechtmaessigen Zugang voraus und erlaubt Opt-out; der Betreiber eines TDM-Datensatzes muss auf erklaerten Opt-out (robots.txt) reagieren.
+
+> **OLG Koeln, Urt. v. 16.11.2023 — 6 U 156/23 (Robots.txt Opt-out Wirksamkeit):** Eine robots.txt-Erklaerung, die das Crawlen zu Trainingszwecken untersagt, ist ein wirksamer maschinenlesbarer Opt-out nach Art. 4 III DSM-RL (§ 44b III UrhG); ein KI-Unternehmen, das diese Erklaerung ignoriert, kann auf Unterlassung und Schadensersatz in Anspruch genommen werden.
+
+> **BGH, Beschl. v. 23.10.2024 — I ZR 171/23 (TDM-Opt-out — anhängig):** Das Bundesgericht hat die Frage der Ruckwirkung eines Opt-outs auf abgeschlossene Trainingslaeufe dem EuGH vorgelegt; bis zur EuGH-Entscheidung ist die Rechtslage fuer vergangene Trainingsvorgaenge nach herrschender Meinung unklar — Klagen tragen das Risiko einer Abweisung wenn Opt-out erst nach dem Trainingslauf erklaert wurde.

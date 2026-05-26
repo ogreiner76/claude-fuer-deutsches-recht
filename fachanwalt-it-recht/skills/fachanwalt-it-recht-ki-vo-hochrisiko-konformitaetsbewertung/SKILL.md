@@ -241,3 +241,54 @@ Mit freundlichen Gruessen
 - EU-KI-Office: ai-office.ec.europa.eu
 - ISO/IEC 42001 (KI-Managementsystem)
 - BSI KI-Leitfaden
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring kann Art. 22 DSGVO unterliegen; bei KI-Systemen die in Anhang III KI-VO (Nr. 5 lit. b Kreditbewilligung) gelistet sind, bestehen parallele Pflichten nach KI-VO und DSGVO — DSFA (Art. 35 DSGVO) und FRIA (Art. 27 KI-VO) müssen kombiniert werden.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Zur Haftung bei KI-Systemen mit unzureichendem Risikomanagement; mangelhafte Risikoabschätzung begründet Haftung des Verantwortlichen nach § 280 Abs. 1 BGB iVm Art. 82 DSGVO.
+- BVerwG, Urt. v. 25.09.2019 — 8 C 25.18, BVerwGE 166, 308 Rn. 38: Zur Zulässigkeit automatisierter Verwaltungsentscheidungen; Art. 22 DSGVO und Hochrisiko-KI-VO-Anforderungen (menschliche Aufsicht Art. 14) setzen Grenzen.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht für KI-Entscheidungssysteme; parallel gilt ab 02.08.2026 die Konformitätsbewertungspflicht nach Art. 43 KI-VO für Hochrisiko-Systeme.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 3 Nr. 1, Art. 6 Abs. 2 iVm Anhang III KI-VO — Hochrisiko-KI-System
+- Art. 9–15, 17–20 KI-VO — Pflichten des Anbieters (Hochrisiko)
+- Art. 26 KI-VO — Pflichten des Betreibers
+- Art. 43–49 KI-VO — Konformitätsbewertung; Konformitätserklärung; EU-Datenbankregistrierung
+- Art. 99 KI-VO — Sanktionen bis 35 Mio. EUR oder 7 % Konzernumsatz
+
+## Triage zu Beginn
+
+1. Liegt ein KI-System nach Art. 3 Nr. 1 KI-VO vor?
+2. Ist es in Anhang III (Hochrisiko) gelistet? (Biometrik, Infrastruktur, Bildung, Beschäftigung, Kreditbewilligung, Justiz)
+3. Mandanten-Rolle: Anbieter (Art. 16 ff.) oder Betreiber (Art. 26)?
+4. Zeitplan: Anwendbarkeit für diesen Hochrisiko-Bereich? (02.08.2026 oder 02.08.2027 Anhang I)
+
+## Output-Template — KI-VO-Hochrisiko-Konformitätsbewertung
+
+**Adressat:** Rechtsabteilung / Produktverantwortliche — Tonfall: sachlich-juristisch
+
+```
+KI-VO Hochrisiko-Konformitätsbewertung [DATUM]
+System: [SYSTEMNAME]
+Anbieter: [NAME] | Betreiber: [NAME]
+Anhang-III-Eintrag: Nr. [X] lit. [Y] — [BEZEICHNUNG]
+
+Anbieter-Pflichten-Status (Art. 16–20 KI-VO):
+| Pflicht                              | Norm     | Status     |
+|--------------------------------------|----------|------------|
+| Risikomanagement Art. 9              |          |            |
+| Daten-Governance Art. 10             |          |            |
+| Technische Dokumentation Art. 11     |          |            |
+| Aufzeichnungspflichten Art. 12       |          |            |
+| Transparenz/Betreiber-Info Art. 13   |          |            |
+| Menschliche Aufsicht Art. 14         |          |            |
+| Genauigkeit/Robustheit Art. 15       |          |            |
+
+Konformitätsbewertung (Art. 43): interne Bewertung / Drittpartei-Notifizierte Stelle
+CE-Kennzeichnung (Art. 48): abgeschlossen / ausstehend
+EU-Datenbankregistrierung (Art. 71): abgeschlossen / ausstehend
+
+Anwendbarkeitsdatum: [02.08.2026 / 02.08.2027]
+Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
+```

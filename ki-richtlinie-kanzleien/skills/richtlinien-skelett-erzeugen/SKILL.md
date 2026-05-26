@@ -58,3 +58,63 @@ Anlage: Musterklauseln § 43e BRAO
 ## Hinweise zur Aktualisierung
 
 Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrechtsakte, neue BRAK-Hinweise, neue BAG- oder OLG-Entscheidungen) anzupassen. Der Skill `richtlinien-update-zyklus` legt das Prüfintervall fest.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht § 43a Abs. 2 BRAO erfordert strukturierte interne Regelungen — Richtlinien-Skelett als Dokumentationsgrundlage.
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer-Regelung muss in Richtlinie verankert werden.
+- BGH, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Betriebsrats-Beteiligung bei Richtlinien-Erstellung (§ 87 BetrVG); Skelett muss Mitbestimmungsrelevanz abbilden.
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Art. 22 DSGVO muss in Richtlinie operationalisiert werden — Richtlinien-Skelett muss diesen Abschnitt vorsehen.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 4 KI-VO — KI-Kompetenzverpflichtung als Richtlinien-Anforderung
+- Art. 26/29 KI-VO — Betreiberpflichten in Richtlinie operationalisieren
+- Art. 22 DSGVO — Automatisierte Entscheidungen
+- § 43a Abs. 2 BRAO — Verschwiegenheits-Abschnitt
+- § 87 Abs. 1 Nr. 6 BetrVG — Betriebsrats-Beteiligungserfordernis
+
+## Triage zu Beginn
+1. Welche Kanzleigroesse und Rechtsgebiete — bestimmt Umfang des Skeletts?
+2. Ist ein Betriebsrat vorhanden — muss Skelett Mitbestimmungsabschnitt enthalten?
+3. Welche KI-Systeme sollen durch die Richtlinie abgedeckt werden?
+4. Gibt es bereits Teilregelungen — ist das Skelett Ersterfassung oder Konsolidierung?
+5. Wer genehmigt die fertige Richtlinie — Partnerkreis, GF, Betriebsrat?
+
+## Output-Template — Richtlinien-Skelett KI-Nutzung
+**Adressat:** Richtlinien-Verantwortlicher — Tonfall: strukturiert, modular
+```
+RICHTLINIEN-SKELETT KI-NUTZUNG
+[KANZLEI] — Entwurf — Stand: [DATUM]
+VOR EINSATZ ANWALTLICHE PRUEFUNG UND BETRIEBSRATSEINBINDUNG ERFORDERLICH
+
+I. VORBEMERKUNG UND GELTUNGSBEREICH
+   § 1 Zweck und Geltung
+   § 2 Begriffsbestimmungen (KI-System, Anbieter, Betreiber)
+
+II. ERLAUBTE UND VERBOTENE KI-NUTZUNG
+   § 3 Freigegebene KI-Systeme (Freigabeliste)
+   § 4 Verbotene Praktiken (Art. 5 KI-VO)
+   § 5 Hochrisiko-KI (Anhang III KI-VO)
+
+III. DATENSCHUTZ UND BERUFSRECHT
+   § 6 Anonymisierungspflicht
+   § 7 Auftragsverarbeitungsvertrag (Art. 28 DSGVO)
+   § 8 Verschwiegenheit (§ 43a Abs. 2 BRAO / § 203 StGB)
+   § 9 GeschGehG-Schutz
+
+IV. QUALITAETSSICHERUNG
+   § 10 Menschliche Pruefung und Vier-Augen-Prinzip
+   § 11 Halluzinations-Pruefung und Quellenverifizierung
+   § 12 Dokumentationspflichten
+
+V. SCHULUNG UND KOMPETENZ
+   § 13 KI-Schulungspflicht (Art. 4 KI-VO)
+   § 14 Fortbildungspflicht Fachanwaelte
+
+VI. GOVERNANCE UND VERANTWORTUNG
+   § 15 KI-Beauftragter
+   § 16 Meldepflichten bei Sicherheitsvorfaellen
+   § 17 Betriebsratsrechte (§ 87 Abs. 1 Nr. 6 BetrVG)
+   § 18 Aenderung und Aktualisierung der Richtlinie
+
+Genehmigt von: [UNTERSCHRIFT], [DATUM]
+```

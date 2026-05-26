@@ -207,3 +207,47 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 - EuGH C-128/11
 - Marly Praxishandbuch Softwarerecht, 8. Aufl.
 - Schneider IT-Recht, 5. Aufl.
+
+## Triage zu Beginn
+1. Welcher Vertragstyp liegt vor — Kauf, Werkvertrag, SaaS-Miete, Digitale Produkte B2C (§§ 327 ff. BGB)?
+2. Wann war Lieferung / Abnahme — laeuft Verjaehrungsfrist (2 Jahre Kauf/Werk, 3 Jahre SaaS)?
+3. Wurde eine Mangelruege erhoben — bei kaufmaennischem Geschaeft § 377 HGB unverzueglich?
+4. Wie viele Nachbesserungsversuche gab es — Zweiversuchsregel § 440 Satz 2 BGB erfuellt?
+5. Liegt eine Open-Source-Komponente vor — welche Lizenz (GPL, AGPL, MIT, Apache)?
+6. Ist die Sicherheitsluecke datenschutzrelevant — parallel DSGVO-Meldepflicht Art. 33 pruefen?
+
+## Output-Template — Mangelruege mit Fristsetzung
+**Adressat:** Verkaeuer / Auftragnehmer — Tonfall: sachlich-juristisch
+```
+[KANZLEI]
+[ADRESSE]
+[DATUM]
+
+[NAME MANDANT] ./. [GEGNER]
+[AKTENZEICHEN]
+
+Betreff: Mangelruege und Fristsetzung zur Nacherfuellung
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten [NAME MANDANT]. Die am [DATUM LIEFERUNG] geleistete
+Software / das am [DATUM ABNAHME] abgenommene Softwarewerk weist
+nachfolgende Maengel auf:
+
+1. [MANGELBESCHREIBUNG 1: Funktion, Fehlermeldung, Reproduzierbarkeit]
+2. [MANGELBESCHREIBUNG 2: Performance-Wert IST vs. SOLL laut Pflichtenheft Pkt. X]
+3. [MANGELBESCHREIBUNG 3: Sicherheitsluecke — CVE-Nummer falls bekannt]
+
+Die Maengel unterschreiten die vereinbarte Beschaffenheit gemaess
+Pflichtenheft / Spezifikation vom [DATUM] sowie die objektive
+Beschaffenheit vergleichbarer Software (§ 434 Abs. 2 BGB / § 633 Abs. 2 BGB).
+
+Wir setzen Frist zur Nacherfuellung bis [DATUM] (Frist: [ZEITRAUM]).
+
+Nach Fristablauf behalten wir vor: Minderung, Ruecktritt, Schadensersatz
+(§§ 437, 636 BGB) sowie Selbstvornahme mit Vorschussklage (§ 637 BGB).
+
+[KANZLEI], [DATUM]
+
+Anlagen: Fehlerprotokoll, Screenshots, Log-Auszuege (Anlage K1–K3)
+```

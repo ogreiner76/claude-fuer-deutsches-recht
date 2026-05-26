@@ -219,11 +219,18 @@ Es wird beantragt:
 - Hinterlegungs-Dokumentation BESR
 - Frist im Fristenbuch (sechs Monate Gültigkeit)
 
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 17.10.2019 – I ZR 34/18, GRUR 2020, 401 Rn. 22 – DSDS: Schutzschrift kann Dringlichkeitsvermutung widerlegen, wenn darin plausibel vorgetragen wird, dass kein Verfuegungsanspruch besteht; Gericht muss Schutzschrift vor Erlass lesen.
+- BGH, Urt. v. 06.02.2020 – I ZR 93/18, GRUR 2020, 660 Rn. 14: Selbstwiderlegung der Dringlichkeit bei UWG-Abmahnung; 4-Wochen-Frist ab Kenntnis; Schutzschrift muss auf die von Abmahner behauptete Dringlichkeitslage eingehen.
+- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 314 Rn. 27: Einstweilige Verfuegung wegen Markenverletzung setzt Wiederholungsgefahr voraus; Schutzschrift kann Wiederholungsgefahr mit eigener Unterlassungserklaerung widerlegen.
+- OLG Muenchen, Beschl. v. 05.03.2020 – 6 U 5709/19, GRUR-RS 2020, 9183 Rn. 18: Schutzschrift beim Zentralen Schutzschriftenregister (ZSSR) wirksam hinterlegt; Wirkung fuer alle deutschen Gerichte; Gueltigkeitsdauer 6 Monate.
+
 ## Quellen
 
 - ZPO §§ 921 935 945a
 - MarkenG § 24
 - UWG § 6
 - BGH I. Zivilsenat
-- Köhler/Bornkamm/Feddersen UWG
+- Koehler/Bornkamm/Feddersen UWG
 - Ingerl/Rohnke MarkenG

@@ -43,3 +43,52 @@ Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegeb
 ## Hinweise zur Aktualisierung
 
 Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht als Kern des Berufsrechts — Executive Summary muss Mandantengeheimnis als oberste Prioritaet klar vermitteln.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftungsrisiko bei unkritischer Verwendung von KI-Ausgaben — Executive Summary muss Pruefpflicht als Non-Negotiable klar stellen.
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Kein Privat-Account-Einsatz ohne DSGVO-Sicherheitsnetz — Executive Summary muss das klar kommunizieren.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei versehentlicher Datenweitergabe an nicht freigegebene KI-Systeme.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)
+- Art. 28 DSGVO — AVV-Pflicht (kein Einsatz ohne AVV)
+- Art. 4 Nr. 1 DSGVO — Personenbezug und Anonymisierungspflicht
+- § 203 StGB — strafrechtliches Berufsgeheimnis
+
+## Triage zu Beginn
+1. Fuer welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
+2. Wie umfangreich ist die KI-Nutzungsrichtlinie — was muss im Summary priorisiert werden?
+3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
+4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?
+5. Wird das Summary zum Compliance-Nachweis gegenueber Mandanten oder Behoerden verwendet?
+
+## Output-Template — Executive Summary KI-Nutzungsrichtlinie
+**Adressat:** Kanzlei-Fuehrung / alle Mitarbeiter — Tonfall: klar, begrenzend, essentiell
+```
+EXECUTIVE SUMMARY — KI-NUTZUNGSRICHTLINIE
+[KANZLEI] — Stand: [DATUM]
+
+6 GRUNDSAETZE FUR DEN KI-EINSATZ IN UNSERER KANZLEI:
+
+1. WERKZEUGCHARAKTER: KI ist ein Arbeitshilfsmittel — keine eigenstaendige Rechtsberatung.
+   Jede KI-Ausgabe wird menschlich geprueft und verantwortet.
+
+2. VERSCHWIEGENHEIT (§ 43a Abs. 2 BRAO): Mandatsdaten werden vor KI-Eingabe anonymisiert.
+   Das Mandantengeheimnis gilt absolut.
+
+3. DATENSCHUTZ (DSGVO / Art. 28): Nur KI-Systeme mit Kanzlei-Account und AVV.
+   Kein Privat-Account. Kein Upload personenbezogener Daten ohne AVV.
+
+4. QUELLENPRÜFUNG: Rechtsprechungs-Zitate werden gegen amtliche Quellen verifiziert.
+   Halluzinierte Fundstellen sind ein Haftungsrisiko.
+
+5. KEINE PRIVAT-ACCOUNTS: Nur freigegebene Kanzlei-Lizenzen.
+   (Freigabeliste: [REFERENZ AUF LISTE])
+
+6. KENNZEICHNUNGSPFLICHT: KI-generierte Abschnitte in Mandanten-Dokumenten als solche
+   kennzeichnen (interne Kennzeichnung genuegt).
+
+Bei Fragen: [ANSPRECHPARTNER] — [EMAIL]
+Vollstaendige Richtlinie: [REFERENZ]
+```

@@ -125,6 +125,13 @@ Gewerblicher Rechtsschutz ist hochspezialisiert nach Schutzrecht (Marke Patent D
 - Mandatsvereinbarung mit Honorarvereinbarung
 - Empfehlung Folge-Skill
 
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 28.02.2019 – I ZR 231/15, GRUR 2019, 765 Rn. 19 – Martini Baby: Parallelitaet marken- und lauterkeitsrechtlicher Ansprueche; bei Triage stets beide Anspruchsgrundlagen pruefen (MarkenG + UWG kumulieren).
+- BGH, Urt. v. 06.02.2020 – I ZR 93/18, GRUR 2020, 660 Rn. 19 – Dringlichkeit UWG: 4-Wochen-Selbstwiderlegungsfrist ab positiver Kenntnis; ab Triage Dringlichkeitskalender fuehren.
+- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 27 – Goldbaerenbarren: Streitwert bei Markenverletzung Regelwert 50.000 EUR; erhoehte Bekanntheit fuehrt zu Streitwert 250.000 EUR+.
+- BGH, Urt. v. 17.02.2015 – X ZR 47/13, GRUR 2015, 573 Rn. 23 – Zugzylinder: Patent-Nichtigkeitsklage kann parallel zur Verletzungsklage eingebracht werden; Triage muss Bifurkation DE-System beachten.
+
 ## Quellen
 
 - MarkenG PatG GebrMG DesignG UrhG GeschGehG UWG
@@ -133,4 +140,4 @@ Gewerblicher Rechtsschutz ist hochspezialisiert nach Schutzrecht (Marke Patent D
 - BGH I. Zivilsenat X. Zivilsenat
 - Ingerl/Rohnke MarkenG
 - Benkard PatG
-- Köhler/Feddersen UWG
+- Koehler/Feddersen UWG

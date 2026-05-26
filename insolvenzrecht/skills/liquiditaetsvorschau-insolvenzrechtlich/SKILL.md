@@ -327,3 +327,14 @@ zwingend zu zitieren und zu berücksichtigen:
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Liquiditaetsvorschau insolvenzrechtlich
+
+Bevor losgelegt wird, klaere:
+
+1. **Zweck?** ZU-Test § 17 InsO (3-Wochen-Fenster) oder Fortbestehensprognose § 19 Abs. 2 InsO (12 Monate)?
+2. **Methode?** Direkte Methode (Cash In / Cash Out) bevorzugt fuer InsO-Beurteilung.
+3. **Zeitraum?** 3 Wochen (akute ZU-Pruefung), 13 Wochen (operativer Forecast), 12-24 Monate (Fortbestehensprognose).
+4. **Eingabedaten?** Offene Posten (OPOS), Bankkontoauszuege, Steuer- und SV-Verbindlichkeiten.
+5. **Stichtag?** Fuer InsO-Verfahren muss Stichtag tag-genau sein.

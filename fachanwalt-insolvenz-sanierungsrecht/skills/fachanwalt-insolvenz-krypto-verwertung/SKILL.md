@@ -206,3 +206,20 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 - US Bankruptcy Court SDNY, In re FTX Trading Ltd., 22-11068 (2022/2023)
 - Uhlenbruck/Sinz, InsO, 15. Aufl., § 35 Rn. 30 ff. (Digitale Assets)
 - Chainalysis Blockchain Analytics Platform (forensische Wallet-Analyse)
+
+
+## Triage — Krypto-Insolvenzeinsatz
+
+Bevor losgelegt wird, klaere:
+
+1. **Art der Verwahrung?** Custodial (Exchange) → Aussonderungsrecht § 47 InsO pruefen (Treuhand vs. Darlehen AGB). Self-Custody → Private Keys sicherstellen § 97/98 InsO.
+2. **Volumina bekannt?** Forensische Blockchain-Analyse (Chainalysis/Elliptic) benoetigt?
+3. **Anfechtungsrisiko?** Krypto-Transfers in den letzten 4 Jahren vor Antrag → § 133 InsO.
+4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
+5. **Verjährung § 146 InsO?** Anfechtungsfristen fuer Krypto-Transfers laufen ab → sofort Inventur.
+
+## Kommentarliteratur
+
+- MuenKo InsO/Peters § 35 InsO Rn. 50 ff. — Massezugehoerigkeit digitaler Vermoegenswerte.
+- MuenKo InsO/Henckel §§ 47-48 InsO Rn. 1 ff. — Aussonderungsrechte und Treuhand bei Custodial-Exchanges.
+- Uhlenbruck/Foerster §§ 97-98 InsO Rn. 1 ff. — Auskunfts- und Mitwirkungspflicht bei digitalen Assets.

@@ -191,3 +191,20 @@ Hinweis: Dieser Vermerk ersetzt kein Sachverständigengutachten.
 - → `rollierende-liquiditaetsplanung-24-monate-template` — Liquiditätsplanung als FBP-Basis
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Folge negativer FBP
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsfolgen
+
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

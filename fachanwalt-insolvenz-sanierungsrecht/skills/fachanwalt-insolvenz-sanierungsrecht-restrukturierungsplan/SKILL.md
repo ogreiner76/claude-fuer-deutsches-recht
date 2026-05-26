@@ -188,3 +188,20 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 - Braun, StaRUG-Kommentar, 1. Aufl. 2021
 - Morgen/Heise, StaRUG, 2. Aufl. 2022
 - Flöther, Sanierungsrecht, 2. Aufl. 2021
+
+
+## Triage — Restrukturierungsplan
+
+Bevor losgelegt wird, klaere:
+
+1. **Nur drohende ZU § 18 InsO?** Bei eingetretener ZU sofort InsO-Antragspflicht § 15a InsO.
+2. **Welche Klassen geplant?** Finanzglaeubiger, Lieferanten, gesicherte Glaeubiger, Arbeitnehmer-Klasse?
+3. **75%-Mehrheit realistisch?** Wer ist der groesste Glaeubiger und will er mitziehen?
+4. **Cramdown-Szenario?** § 26 StaRUG — Falls eine Klasse ablehnt: Best-Interest-Test bestanden?
+5. **Restrukturierungsgericht anzeigen?** § 31 StaRUG konstitutiv — ohne Anzeige kein Schutz und kein Plan.
+
+## Kommentarliteratur StaRUG
+
+- Braun/Herzig, StaRUG, §§ 7-39 StaRUG — Plan-Architektur, darstellender und gestaltender Teil.
+- MuenKo InsO/Gehrlein, StaRUG Anhang — Klassenbildung und Mehrheiten.
+- Uhlenbruck/App, StaRUG §§ 25-27 Rn. 1 ff. — Cramdown und Minderheitenschutz.

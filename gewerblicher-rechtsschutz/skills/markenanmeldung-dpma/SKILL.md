@@ -183,3 +183,19 @@ Alle Aussagen zu Schutzfähigkeit, Verfahrensfristen und Gebühren nach
 (DPMA-Gebührenordnung kann geändert werden). Bei absoluten Eintragungshindernissen
 EuGH-Rspr. (HABM-Rspr.) und BGH-Rspr. nebeneinander zitieren und auf etwaige
 Divergenzen hinweisen.
+
+## Triage-Fragen vor DPMA-Markenanmeldung
+
+Bevor die Anmeldung eingereicht wird, klaere:
+1. Wurde eine umfassende Vorrecherche auf kollidierende aeltere Marken und Firmennamen durchgefuehrt?
+2. Sind absolute Schutzhindernisse (§ 8 II MarkenG) geprueft — insbesondere Beschreibungsnaehe und mangelnde Unterscheidungskraft?
+3. Wird eine Einzel- oder Multi-Class-Anmeldung bevorzugt (3 Klassen = EUR 300; jede weitere EUR 100)?
+4. Soll Prioritaet auf eine auswärtige Voranmeldung (§ 34 MarkenG — 6 Monate) beansprucht werden?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Beschl. v. 16.07.2009 — I ZB 53/07 (STREETBALL):** Ein Wortzeichen, das aus zwei gebräuchlichen englischen Woertern zusammengesetzt ist und fuer Sportartikel einen beschreibenden Sinn ergibt, ist von der Eintragung ausgeschlossen (§ 8 II Nr. 2 MarkenG); lediglich ein ungewoehnlicher Gesamteindruck kann die Unterscheidungskraft begruenden.
+
+> **BGH, Beschl. v. 01.07.2010 — I ZB 68/09 (Tooor!):** Ein Wortzeichen mit Ausrufungszeichen oder grafischen Elementen kann Unterscheidungskraft erlangen, wenn die Besonderheit der Gestaltung nicht auf eine erkennbare Sachaussage hinauslaeuft; Begeisterungsrufe ohne Bezug zur Ware sind in der Regel nicht eintragbar.
+
+> **EuGH, Urt. v. 04.05.1999 — C-108/97 (Chiemsee):** Geographische Herkunftsangaben, die fuer den relevanten Mitbewerberkreis freizuhalten sind, koennen nur durch Nachweis von Verkehrsdurchsetzung eingetragen werden; fuer regionale Marken ist ein Wiedererkennungswert von mindestens 40 % im relevanten Gebiet erforderlich.

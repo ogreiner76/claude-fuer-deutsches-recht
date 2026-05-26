@@ -288,3 +288,45 @@ Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Antragspflicht § 15a InsO
+
+Bevor losgelegt wird, klaere:
+
+1. **Rechtsform?** § 15a InsO gilt fuer GmbH, AG, UG, GmbH & Co. KG; natuerliche Personen: keine Antragspflicht, nur Antragsrecht.
+2. **Eröffnungsgrund?** ZU § 17 InsO: Frist 3 Wochen. Ueberschuldung § 19 InsO: Frist 6 Wochen. Frist-Uhr laeuft ab erstem Kenntnistag.
+3. **Wer ist verpflichtet?** Jeder Geschaeftsfuehrer/Vorstand individuell; Delegation an Mitgeschaeftsfuehrer unwirksam (BGH II ZR 119/14).
+4. **Sanierungsversuch?** Antragspflicht wird durch echten Sanierungsversuch NICHT beseitigt; Frist laeuft weiter; Eigenantrag sichert Sanierungszeit.
+5. **Zahlungen nach Insolvenzreife?** § 15b InsO: Zahlungen nach Insolvenzreife von GF persoenlich erstattten; Ausnahme nur Betriebskostenentgeltsatz ohne Massebeeintraechtigung.
+
+## Output-Template Beratungsschreiben Antragspflicht
+
+**Adressat:** Geschaeftsfuehrung [FIRMA] — Tonfall: klar-warnend mit Handlungsempfehlung
+
+```
+VERTRAULICH — ANWALTLICHES SCHREIBEN
+[KANZLEI]
+[DATUM]
+
+Betreff: Dringende Hinweis — Insolvenzantragspflicht § 15a InsO
+
+Sehr geehrte/r Frau/Herr [NAME],
+
+nach unserer heutigen Beratung weise ich Sie ausdruecklich darauf hin:
+
+Es besteht [Zahlungsunfaehigkeit § 17 InsO / Ueberschuldung § 19 InsO].
+Die Antragsfrist des § 15a Abs. 1 InsO laeuft am [DATUM] ab.
+
+Bei Ueberschreitung dieser Frist drohen:
+- Strafbarkeit nach § 15a Abs. 4 InsO (Freiheitsstrafe bis 3 Jahre)
+- Persoenliche Haftung nach § 15b InsO fuer alle Zahlungen nach Insolvenzreife
+- Schadensersatzhaftung gegenueber Glaeubigern
+
+Ich empfehle die sofortige Stellung des Insolvenzantrags, idealerweise mit Antrag auf
+[Eigenverwaltung / Schutzschirm / Regelverfahren].
+
+Bitte bestaetigen Sie schriftlich, dass Sie diesen Hinweis erhalten haben.
+
+[UNTERSCHRIFT ANWALT]
+```

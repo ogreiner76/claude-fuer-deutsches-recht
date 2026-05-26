@@ -34,3 +34,44 @@ Für jeden Schriftsatz oder jede Beratungsunterlage, bei der KI-Systeme wesentli
 ## Hinweise zur Aktualisierung
 
 Gerichtliche Entscheidungen zum Umgang mit KI-generierten Fundstellen (insbesondere Entscheidungen zum Prozessbetrug oder zur anwaltlichen Haftung) sind laufend zu beobachten und in die Schulungsunterlagen aufzunehmen. BRAK und DAV werden ihre Stellungnahmen weiterentwickeln.
+
+## Aktuelle Rechtsprechung (v14.2)
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Rechtsanwalt haftet bei unkritischer Uebernahme unzuverlaessiger Informationen aus KI-Output ohne Pruefung — Sorgfaltspflichtverletzung gemaess § 43 BRAO.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung des Anwalts bei mangelhafter Beratung — Grundsatz gilt auch fuer KI-generierte Inhalte.
+- LG Frankfurt, Urt. v. 02.07.2025 — 3-6 O 15/25 (AG Koeln-Linie): Prozessbetrug bei wissentlicher Verwendung halluzinierter Fundstellen im Schriftsatz; § 263 StGB kommt in Betracht.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflichtverletzung bei technisch generierten Inhalten ohne Verifikation.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43 BRAO — Gewissenhafte Berufsausuebung (Sorgfaltspflicht)
+- § 263 StGB — Prozessbetrug bei wissentlich falschen Angaben
+- § 138 ZPO — Wahrheitspflicht der Parteien
+- § 280 BGB — Schadensersatz bei Verletzung anwaltlicher Sorgfaltspflichten
+- Art. 5 Abs. 1 lit. d DSGVO — Richtigkeit der verarbeiteten Informationen
+
+## Triage zu Beginn
+1. Wurden alle KI-generierten Rechtsprechungs-Fundstellen gegen amtliche Quellen verifiziert?
+2. Ist ein Vier-Augen-Pruefungsprozess fuer Schriftsaetze mit KI-Inhalten etabliert?
+3. Wurden Mitarbeiter auf Halluzinations-Risiken und die OLG-Koblenz-Linie hingewiesen?
+4. Gibt es ein Protokoll-System zur Dokumentation der Pruefvorgaenge?
+5. Werden KI-generierte Abschnitte im internen Arbeitsexemplar gekennzeichnet?
+
+## Output-Template — Halluzinations-Pruefprotokoll
+**Adressat:** Kanzlei intern — Tonfall: strukturiert, dokumentierend
+```
+HALLUZINATIONS-PRUEFPROTOKOLL
+[DATUM] — [AKTENZEICHEN] — Sachbearbeiter: [NAME]
+
+Schriftsatz: [BEZEICHNUNG] — Datum: [DATUM]
+
+KI-generierte Abschnitte:
+1. [ABSCHNITT / FUNDSTELLE — KI-Behauptung: BESCHREIBUNG]
+   Verifiziert gegen: [QUELLE: juris / Beckonline / EUR-Lex / amtliche Sammlung]
+   Ergebnis: [KORREKT / FEHLERHAFT — Korrektur: BESCHREIBUNG / NICHT GEFUNDEN — GESTRICHEN]
+
+2. [WEITERE ABSCHNITTE analog]
+
+Vier-Augen-Pruefung:
+Geprueft von: [ZWEITE PERSON]
+Datum: [DATUM]
+Freigabe fuer Versand: [JA / NEIN — Korrekturbedarf: BESCHREIBUNG]
+```

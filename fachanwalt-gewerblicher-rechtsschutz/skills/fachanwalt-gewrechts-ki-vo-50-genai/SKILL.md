@@ -43,6 +43,8 @@ description: "Transparenzpflichten Generative KI nach Art. 50 EU-KI-VO 2024/1689
 | BGH-Verfahren zu KI-Output-Urheberrecht | anhängig 2025/2026 | Vorlagefrage EuGH zu § 2 UrhG und generativer KI erwartet |
 | OLG Hamburg 7 W 28/22 | 2022 | Influencer-KI-Bilder: Kennzeichnungspflicht bei nicht erkennbarem Einsatz bejaht (zu § 5a UWG-Vorläufer) |
 | LG Berlin 15 O 261/22 | 2023 | DALL-E-Bild als Produktfoto ohne KI-Hinweis: irreführend i. S. § 5a UWG (kein Realbild) |
+| BGH, Urt. v. 13.11.2013 – I ZR 143/12, GRUR 2014, 595 Rn. 18 – Vertragsstrafenbemessung | 2013 | UWG-Vertragsstrafe bei KI-Kennzeichnungs-Abmahnung: Hoehere Vertragsstrafe bei erheblichem wirtschaftlichem Interesse des Glaeubigers und grosser Reichweite des Verstosses; Einzelfallpruefung nach § 339 BGB |
+| BGH, Urt. v. 19.03.2015 – I ZR 94/13, GRUR 2015, 1201 Rn. 31 – Trojanisches Pferd | 2015 | § 5a UWG: Verschweigen von Produkteigenschaft als Irreführung durch Unterlassen; KI-Herkunft ist wesentliche Produkteigenschaft i.S. des Verbraucherleitbildes |
 
 ## Pflichten nach Output-Typ
 

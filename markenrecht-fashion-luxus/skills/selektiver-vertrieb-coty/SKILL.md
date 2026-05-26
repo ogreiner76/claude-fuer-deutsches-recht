@@ -102,3 +102,19 @@ Selektivvertriebssystems vereinbar.
 - **Jenseits der 30 %-Schwelle:** Bei höherem Marktanteil entfällt die Vertikal-GVO-Freistellung — Einzelfallprüfung erforderlich
 - **Coty gilt nur für Luxus:** Für Standard-Konsumgüter gelten andere Maßstäbe; klôtzzkètté muss das Luxus-Image kontinuierlich pflegen und belegen
 - **Pierre Fabre-Grenze:** Generelles Internet-Verbot bleibt unzulässig; nur Drittmarktplatz-Verbot ist nach Coty zulässig
+
+## Triage-Fragen zum selektiven Vertrieb
+
+Bevor das selektive Vertriebssystem eingerichtet oder ein Haendler ausgeschlossen wird, klaere:
+1. Sind die Selektionskriterien qualitativer Natur (Luxusimage, Service-Level) und nicht bloss quantitativ?
+2. Werden die Kriterien einheitlich und nichtdiskriminierend auf alle Haendler angewendet?
+3. Ist der Ausschluss von Online-Marktplaetzen auf den Schutz des Luxusimages gegruendet (Coty-Linie) oder pauschal?
+4. Besteht ein Marktanteil unter 30 % (Freistellungsschwelle Vertikal-GVO) — wenn nicht, Einzelfallpruefung erforderlich?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 06.12.2017 — C-230/16 (Coty Germany / Parfuemerie Akzente):** Ein selektives Vertriebssystem fuer Luxuswaren, das den Verkauf ueber bestimmte Drittmarktplattformen verbietet, kann kartellrechtlich gerechtfertigt sein, wenn die Qualitaet des Luxusguts und sein Luxusimage gewahrt werden muessen; das Verbot muss verhaeltnismaessig und nichtdiskriminierend sein.
+
+> **EuGH, Urt. v. 25.10.1977 — 26/76 (Metro / Commission):** Selektive Vertriebssysteme sind nach Art. 101 AEUV zulaessig, wenn (1) die Eigenschaften des Produkts ein solches System erfordern, (2) Haendler nach objektiven qualitativen Kriterien gewaehlt werden und (3) die Kriterien nicht ueber das erforderliche Mass hinausgehen (Metro-Kriterien).
+
+> **BGH, Urt. v. 26.10.2011 — KZR 23/10 (Schulranzen):** Auch bei im Grundsatz zulaessigen selektiven Systemen ist das kartellrechtliche Diskriminierungsverbot zu beachten; Ausnahmen einzelner Haendler von den Selektionskriterien koennen kartellrechtliche Gleichbehandlungspflichten verletzen.

@@ -309,3 +309,34 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 ---
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Glaeubigerantrag
+
+Bevor losgelegt wird, klaere:
+
+1. **Forderung vollstreckbar?** Titel oder Glaubhaftmachung § 14 Abs. 1 InsO; eidesstattliche Versicherung ausreichend.
+2. **ZU nachweisbar?** 10%-Luecke BGH IX ZB 116/08; Indizien sammeln: Rücklastschriften, offene Vollstreckungen, Zahlungsstockungen ueber 3 Wochen.
+3. **Rechtsschutzbeduernis?** Kein Missbrauch, keine Druckausübung ohne echte ZU-Indizien (BGH IX ZB 8/04).
+4. **Sicherungsantrag § 21 InsO?** Sofort-Massnahmen bei Vermoegensgefaehrdung beantragen?
+5. **Kostenvorschuss § 26 InsO?** Glaeubigerinteresse an Verfahren trotz Massearmut?
+
+## Output-Template Kurzgutachten Glaeubigerantrag
+
+**Adressat:** Mandant (Glaeubiger) — Tonfall: sachlich-empfehlend
+
+```
+INTERNES GUTACHTEN — GLAEUBIGERANTRAG § 14 InsO
+Datum: [DATUM]    Mandant: [GLAEUBIGER]    Schuldner: [SCHULDNER]
+
+ERGEBNIS: Glaeubigerantrag [SINNVOLL / NICHT SINNVOLL]
+
+BEGRUENDUNG:
+Forderung: EUR [BETRAG], Faelligkeit [DATUM], Vollstreckbarkeit [JA/NEIN]
+ZU-Nachweis: [Indizien aufzaehlen]
+Rechtsschutzbeduernis: [Beurteilung]
+Sicherungsantrag § 21 InsO: [EMPFOHLEN weil ...]
+Kostenvorschuss: EUR [BETRAG] ggf. erforderlich (§ 26 InsO)
+
+NAECHSTER SCHRITT: [Antrag einreichen bis DATUM]
+```

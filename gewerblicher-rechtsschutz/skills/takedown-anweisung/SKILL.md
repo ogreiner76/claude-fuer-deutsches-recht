@@ -341,3 +341,19 @@ Alle Aussagen zu Haftung, Schranken und Verfahren müssen belegbar sein:
 - **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Hostprovider-Haftung oder Störerhaftung (BGH BGHZ 158, 236 oder BGH GRUR 2020, 738)
 - **Kommentar:** Spindler/Schuster eMedienR oder Köhler/Bornkamm/Feddersen UWG mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Triage-Fragen vor Takedown
+
+Bevor der Takedown ausgeloest wird, klaere:
+1. Liegt eine klare Rechtsverletzung vor oder handelt es sich um Kritik/Parodie/Satire (urheberrechtliche Schranke)?
+2. Ist der Rechteinhaber klar identifiziert und ist der Einreicher zur Meldung berechtigt?
+3. Ist die Plattform eine Very Large Online Platform (VLOP) nach DSA Art. 33 (Pflicht zu foermlicehem Notice-and-Action-Verfahren)?
+4. Wurde das NetzDG geprueft (§§ 1-3 NetzDG) fuer strafbare Inhalte mit eigenen Loeschfristen?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 25.10.2011 — VI ZR 93/10 (Blog-Haftung):** Ein Host-Provider ist als Stoerer fuer rechtswidrige Inhalte haftbar, wenn er nach Erhalt einer qualifizierten Beschwerde nicht unverzueglich handelt; die Anforderungen an die Beschwerde sind niedrig — eine klare Beschreibung des Inhalts und Angabe des Rechteinhabers genuegen.
+
+> **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (YouTube - Vorschaubilder II):** Plattformbetreiber, die durch automatische Indexierung Inhalte ohne aktive Beteiligung des Urhebers oeffentlich zugaenglich machen, koennen bei ausreichender Passivitaet als Host-Provider eingestuft werden; jedoch genuegt eine einmalige Notice und fehlende Stay-Down-Massnahmen fuer Haftung.
+
+> **DSA (EU) 2022/2065, Art. 16/17 (Digital Services Act):** Hosting-Dienstleister muessen wirksame und zugaengliche Melde- und Abhilfemechanismen einrichten; bei VLOP gelten verstaerkte Transparenz- und Reaktionspflichten; Verstoss kann zu Bussgeldern bis 6 % des globalen Jahresumsatzes fuehren.

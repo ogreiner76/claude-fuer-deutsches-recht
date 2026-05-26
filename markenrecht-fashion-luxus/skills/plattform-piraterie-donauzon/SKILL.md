@@ -123,3 +123,19 @@ Kontakt: RA'in [Name], [Email], [Tel.]
 - **Haftungsprivileg bleibt bestehen:** DSA schafft keine neue Haftungsgrundlage; Störerhaftung nach BGH-Rechtsprechung bleibt Basis für Klage
 - **Massenmeldungen:** Zu viele mangelhafte Meldungen können DSA Art. 16 VI-Schutz schwächen — jede Meldung sorgfältig dokumentieren
 - **Beweissicherung:** Screenshots werden von Plattformen gelöscht — sofort Wayback Machine und eigene Archive nutzen
+
+## Triage-Fragen bei Plattform-Piraterie
+
+Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
+1. Handelt es sich um Donauzon als Hosting-Provider (DSA Art. 16 — Notice-and-Action) oder als aktiven Mitverkäufer (DSA Art. 30 — Verhaeltnis-Haendler)?
+2. Wurde Donauzon bereits mit einer wirksamen Notice informiert und hat es nicht gehandelt (Voraussetzung fuer Haftung als Plattform)?
+3. Ist der Verletzer auf der Plattform identifizierbar (WHOIS, Haendlerdaten nach DSA Art. 30)?
+4. Liegen ausreichende Beweise fuer die Verletzungshandlung vor (Screenshots, Testkauf)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 22.06.2021 — C-682/18 (YouTube / Frank Peterson):** Eine Videoplattform ist nicht allein deswegen für Urheberrechtsverletzungen ihrer Nutzer verantwortlich, weil sie die Moeglichkeit dazu schafft; Haftung setzt voraus, dass die Plattform keine wirksamen Massnahmen ergreift, wenn sie von der Verletzung weiss (aktive Kenntnis oder Notice-and-Stay-Down-Pflicht).
+
+> **BGH, Urt. v. 17.08.2011 — I ZR 57/09 (Stiftparfuem):** Ein Online-Marktplatz ist als Stoerer fuer Markenrechtsverletzungen durch Drittanbieter haftbar, wenn er nach Hinweis auf eine klare Verletzung keine wirksamen Massnahmen ergreift, um Wiederholungen zu verhindern (Stay-Down-Pflicht).
+
+> **DSA (EU) 2022/2065, Art. 16/17/45:** Sehr grosse Online-Plattformen muessen wirksame Notice-and-Action-Verfahren einrichten, innerhalb angemessener Frist auf qualifizierte Notices reagieren und dem Melder den Bearbeitungsstatus mitteilen; Nichteinhaltung kann zu Bussgeldern bis zu 6 % des globalen Jahresumsatzes fuehren.

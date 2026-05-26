@@ -206,3 +206,20 @@ Achtung: Unterliegt der Verwalter, sind die Prozesskosten Masseverbindlichkeiten
 - BGH IX ZR 213/19, Urt. v. 22.04.2021, ZInsO 2021, 1312
 - Uhlenbruck/Hirte, InsO, 15. Aufl. 2019, §§ 129–143
 - MüKo-InsO/Kayser, 4. Aufl. 2019, § 133
+
+
+## Triage — Anfechtungs-Check
+
+Bevor losgelegt wird, klaere:
+
+1. **Insolvenzreife-Zeitpunkt?** Wann genau war die Zahlungsunfaehigkeit eingetreten? (Tag-genaue Bestimmung wichtig fuer Fristberechnung §§ 130-133 InsO).
+2. **Verjährung?** § 146 InsO: 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — sofort pruefen!
+3. **Nahestehende Person?** § 138 InsO — Beweislastumkehr zugunsten des IV bei Gesellschaftern >25%, GF, Ehegatte.
+4. **Bargeschaeft moeglich?** § 142 InsO — zeitgleiche gleichwertige Gegenleistung (max. 30 Tage Abstand)?
+5. **Vorsatzanfechtung § 133 InsO?** Nach SanInsFoG-Reform (01.01.2021): nur noch bei konkreter Bedrohungslage, nicht bloss drohende ZU-Kenntnis.
+
+## Kommentarliteratur
+
+- Jaeger/Henckel, InsO, §§ 129-147 InsO (De Gruyter) — Standardwerk Anfechtungsrecht.
+- MuenKo InsO/Kirchhof §§ 129-147 InsO — BGH-nahe Kommentierung, laufend aktualisiert.
+- Uhlenbruck/Borries/Hirte §§ 129-147 InsO Rn. 1 ff. — praxisnahe Darstellung Bargeschaeft und § 133 InsO-Reform.

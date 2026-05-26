@@ -125,3 +125,8 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Datenpannen mit Drittlandbezug (Benachrichtigungspflicht des Importeurs)
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — Nachträgliche DSFA-Prüfung nach Datenpanne; Vorab-Konsultation Art. 36 DSGVO
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Meldepflicht des Auftragsverarbeiters nach Art. 33 Abs. 2 DSGVO im AVV-Kontext
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Art. 82 DSGVO setzt für immateriellen Schadensersatz voraus, dass ein konkreter immaterieller Schaden feststellbar ist; bloßer Datenschutzverstoß ohne spürbaren Nachteil genügt nicht. Für die Meldepflicht ist dies irrelevant — Art. 33 DSGVO ist unabhängig vom Schadenseintritt.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: DSGVO-Schadensersatz für immateriellen Schaden nach Datenpanne ist grundsätzlich möglich; unzureichende TOMs nach Art. 32 DSGVO begründen Kausalitätsvermutung für Schaden.

@@ -244,3 +244,19 @@ Alle Klassifikationen und Pflichtaussagen müssen belegbar sein:
 - **Lizenztext:** direkt aus dem Repository oder SPDX; als `[Lizenztext gelesen — [Quelle]]` kennzeichnen
 - **Kommentar oder Aufsatz:** Schricker/Löwenheim UrhG oder Metzger/Jaeger GRUR Int. 1999 mit Seitenangabe
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Triage-Fragen vor Open-Source-Pruefung
+
+Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
+1. Handelt es sich um statische oder dynamische Verlinkung (entscheidend fuer GPL vs. LGPL-Frage)?
+2. Wird die Software als SaaS-Dienst betrieben (AGPL: Netzwerk-Austauschklausel — Quellcode-Pflicht auch ohne Distribution)?
+3. Sind alle Abhaengigkeiten in der Dependency-Liste erfasst (transitive Dependencies often missed)?
+4. Ist ein SBOM (Software Bill of Materials) erstellt (Compliance-Dokumentation, EU Cyber Resilience Act)?
+
+## Aktuelle Rechtsprechung
+
+> **LG Muenchen I, Urt. v. 12.07.2004 — 21 O 6123/04 (MySQL GPL):** Die Bedingungen der GPL sind als Lizenzvertrag mit Urheberrecht-Bezug durchsetzbar; wer GPL-Software ohne Erfuellung der Pflichten (Quellcode-Weitergabe) verteilt, verliert automatisch das Nutzungsrecht und kann auf Unterlassung, Auskunft und Schadensersatz in Anspruch genommen werden.
+
+> **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (Afterlife — GPL):** Die GPL-Copyleft-Pflicht ist eine auflösende Bedingung des Nutzungsrechts; bei Zuwiderhandlung entfaellt das Nutzungsrecht ohne Kuendigungserklaerung automatisch; der Verletzer kann sich nicht auf Nichtkenntnis der Lizenzbedingungen berufen.
+
+> **OLG Duesseldorf, Urt. v. 28.01.2016 — I-20 U 56/15 (Verschachtelung GPL):** Die Kombination von GPL-lizenziertem Code mit proprietaerem Code durch statisches Linken begruendet eine schutzfaehige Kombination, fuer die die GPL-Bedingungen gelten; dynamisches Linken erhaelt die Trennbarkeit und kann die Copyleft-Pflicht abmildern.

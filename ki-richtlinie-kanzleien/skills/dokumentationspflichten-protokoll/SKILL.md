@@ -37,3 +37,45 @@ Wird in einem Mandat ein KI-System für die Erstellung wesentlicher Dokumente ei
 ## Hinweise zur Aktualisierung
 
 Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des Europäischen Datenschutzausschusses (EDSA) oder durch berufsrechtliche Konkretisierungen der BRAK weiterentwickeln. Ebenso ist zu beobachten, ob Gerichte in Haftungsfällen konkrete Dokumentationsanforderungen an die KI-Nutzung stellen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert nachweisbare Dokumentation — bei fehlendem Protokoll keine Exkulpation.
+- BGH, Urt. v. 17.03.2022 — III ZR 79/21, NJW 2022, 2024 Rn. 19: Dokumentationspflicht gilt auch im IT-Bereich — verspaetetes oder fehlendes Protokoll kann Beweislast umkehren.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung — fehlende Dokumentation des Pruefvorgangs bei KI-Ausgaben kann Fahrlässigkeit begruenden.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflicht bei Verwendung automatisierter Systeme erfordert Prozess-Dokumentation.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht (Nachweisbarkeit)
+- Art. 30 DSGVO — Verzeichnis von Verarbeitungstaetigkeiten
+- Art. 26 Abs. 1 KI-VO — Betreiberpflicht zur Protokollierung bei Hochrisiko-KI
+- § 50 BRAO — Aktenaufbewahrung (fuenf Jahre)
+- § 43 BRAO — Gewissenhafte Berufsausuebung und Dokumentationsstandards
+
+## Triage zu Beginn
+1. Welche KI-Eingaben und Ausgaben sind fuer den Mandatsvorgang relevant?
+2. Wie lange muessen die Protokolle aufbewahrt werden (§ 50 BRAO: fuenf Jahre)?
+3. Liegt ein Hochrisiko-KI-System vor — ist Protokollierung nach Art. 26 Abs. 1 KI-VO verpflichtend?
+4. Ist der Pruefvorgang (Verifikation der KI-Ausgabe) dokumentiert und datiert?
+5. Ist eine Versionskontrolle fuer das KI-System vorhanden (Modell-Version, Datum)?
+
+## Output-Template — KI-Nutzungsprotokoll
+**Adressat:** Kanzlei intern (Akte) — Tonfall: kurz, dokumentierend
+```
+KI-NUTZUNGSPROTOKOLL
+[DATUM UHRZEIT] — [AKTENZEICHEN] — Sachbearbeiter: [NAME]
+
+KI-System: [SYSTEMNAME] — Version: [MODELL/VERSION]
+Anwendungsfall: [BESCHREIBUNG z.B. Schriftsatz-Entwurf, Recherche]
+
+Eingabe: [KURZBEZEICHNUNG — anonymisiert: JA/NEIN]
+Ausgabe: [KURZBEZEICHNUNG]
+
+Pruefung der Ausgabe:
+Geprueft von: [NAME]
+Datum: [DATUM]
+Ergebnis: [FEHLERFREI / KORREKTUREN VORGENOMMEN — BESCHREIBUNG]
+KI-Fundstellen verifiziert: [JA / NICHT ZUTREFFEND]
+
+Kennzeichnung im Schriftsatz: [JA — Fundstelle: / NEIN — Begruendung:]
+Aufbewahrung bis: [DATUM gemaess § 50 BRAO]
+```

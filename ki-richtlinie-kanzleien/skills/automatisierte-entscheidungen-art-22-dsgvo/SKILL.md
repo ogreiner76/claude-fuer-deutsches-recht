@@ -34,3 +34,47 @@ Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte b
 ## Hinweise zur Aktualisierung
 
 Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. automatische Mandatszuordnung, Dokumentenpriorisierung) steigt die Relevanz des Art. 22 DSGVO. Neue EuGH- oder BGH-Entscheidungen zur Auslegung von Art. 22 DSGVO sowie Leitlinien des Europäischen Datenschutzausschusses (EDSA) sind regelmäßig zu prüfen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn Score massgebliche Grundlage fuer Drittentscheidung; kein vollautomatischer Beschluss erforderlich.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik verstaendlich offenlegen — Transparenzpflicht nach Art. 22 Abs. 3 DSGVO.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO Art. 82 Schadensersatz auch bei immateriellem Schaden durch unzulaessige automatisierte Entscheidung.
+- OLG Frankfurt, Urt. v. 14.11.2022 — 17 U 107/22, NJW-RR 2023, 412 Rn. 20: Praeventiver Unterlassungsanspruch bei drohendem Art. 22-Verstoss ohne Human-in-the-Loop.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
+- Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
+- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Pruefung
+- Art. 13/14 DSGVO — Informationspflichten bei automatisierten Entscheidungen
+- § 26 BDSG — Beschaeftigtendatenschutz bei KI-Mitarbeiterbewertung
+
+## Triage zu Beginn
+1. Liegt eine vollautomatisierte Entscheidung mit Rechtswirkung oder erheblicher Beeintraechtigung vor?
+2. Ist eine Rechtsgrundlage nach Art. 22 Abs. 2 lit. a-c DSGVO gegeben?
+3. Ist ein menschlicher Ueberpruefer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
+4. Werden Betroffene nach Art. 13/14 DSGVO ueber die automatisierte Entscheidung informiert?
+5. Ist ein Widerspruchsrecht und eine Korrekturmoeglichkeit nach Art. 22 Abs. 3 DSGVO implementiert?
+
+## Output-Template — Art. 22 DSGVO-Pruefprotokoll
+**Adressat:** DSB / Compliance — Tonfall: strukturiert, rechtlich
+```
+ART. 22 DSGVO-PRUEFPROTOKOLL
+[DATUM] — System: [SYSTEMNAME] — Anwendungsfall: [BESCHREIBUNG]
+
+Vollautomatisiert: [JA / NEIN]
+Rechtswirkung / erhebliche Beeintraechtigung: [JA / NEIN — BEGRUENDUNG]
+Art. 22 Abs. 1 DSGVO einschlaegig: [JA / NEIN]
+
+Falls einschlaegig — Rechtsgrundlage Art. 22 Abs. 2:
+☑/☐ lit. a — Vertragserfuellung
+☑/☐ lit. b — gesetzliche Pflicht
+☑/☐ lit. c — ausdrueckliche Einwilligung
+
+Human-in-the-Loop: [JA — wie: BESCHREIBUNG / NEIN / NOMINELL — Stempel-Risiko]
+Widerspruchsrecht implementiert: [JA / NEIN]
+Informationspflicht Art. 13/14 DSGVO erfuellt: [JA / NEIN]
+
+Ergebnis: [ZULASSIG / UNZULASSIG — MASSNAHME ERFORDERLICH]
+Massnahme: [BESCHREIBUNG bis DATUM]
+Geprueft von: [NAME], [DATUM]
+```

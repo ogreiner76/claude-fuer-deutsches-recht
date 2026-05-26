@@ -243,3 +243,19 @@ Beweis: Anlage K1: beanstandeter Artikel; Anlage K2: Gegendarstellungsschreiben;
 ## Quellen
 
 LPG der Bundesländer: § 11 LPG NRW, Art. 10 BayPrG, § 11 LPG HH (exemplarisch). Medienstaatsvertrag (MStV) §§ 19, 20 (in Kraft seit 07.11.2020; ersetzt RStV). BGB §§ 823, 1004. GG Art. 1, 2, 5. ZPO §§ 935, 940. BVerfGE 61, 1 (Tatsache/Meinung). BVerfGE 90, 241. BGH VI ZR 56/04 (Geldentschädigung). BGH VI ZR 52/15 (Online-Gegendarstellung). BGH VI ZR 31/19 (Kennzeichnungspflicht). Soehring/Hoehne, Presserecht, aktuelle Auflage. Wenzel/Burkhardt, Äußerungsrecht. Stand: 05/2026.
+
+## Triage-Fragen bei Gegendarstellungs-Mandat
+
+Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
+1. Handelt es sich um eine Tatsachenbehauptung (Gegendarstellungsrecht) oder eine Meinungsaeusserung (nur § 1004 BGB i.V.m. §§ 823 I BGB)?
+2. Ist die Gegendarstellung unmittelbar an den Veroeffentlichungsort gerichtet (§ 11 LPG des betreffenden Bundeslandes)?
+3. Ist die Frist fuer die Gegendarstellung eingehalten (in den meisten Bundeslaendern: 3 Monate ab Kenntnis)?
+4. Ist die Gegendarstellung auf den Kern der falschen Tatsachenbehauptung beschraenkt (keine eigene Stellungnahme oder Kommentar)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 16.11.2004 — VI ZR 56/04 (Geldentschaedigung Presserecht):** Besonders schwere Persoenlichkeitsverletzungen, die nicht anders als durch Geldentschaedigung ausgeglichen werden koennen, begruenden einen Anspruch nach § 823 I BGB i.V.m. Art. 1/2 GG auch ohne Wiederholungsgefahr; die Geldentschaedigung ist keine Strafe, sondern Ausgleich fuer immateriellen Schaden.
+
+> **BGH, Urt. v. 17.12.2013 — VI ZR 211/12 (Promi-Unterlassung Online):** Ein Online-Artikel, der dauerhaft im Archiv abrufbar ist, kann einen fortdauernden Unterlassungsanspruch begruenden; der Verlag ist verpflichtet, den Artikel nach Erkennen der Unrichtigkeit zu korrigieren oder mit einem Hinweis auf die Gegendarstellung zu versehen.
+
+> **BVerfG, Beschl. v. 25.06.2009 — 1 BvR 134/03 (Meinungsfreiheit Tatsachenkern):** Eine Aeusserung, die einen wahren Tatsachenkern mit einer Meinungskomponente verbindet, ist im Ganzen als Meinungsaeusserung zu behandeln; der Gegendarstellungsanspruch greift daher nur bei reinen Tatsachenbehauptungen — nicht bei gemischten Tatsachen-Meinungs-Aeusserungen.

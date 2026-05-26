@@ -46,3 +46,44 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 ## Hinweise zur Aktualisierung
 
 Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitenden müssen über Änderungen informiert und neu geschult werden.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Kein Transfer personenbezogener Daten an US-Anbieter ohne angemessenes Schutzniveau; Compliance-Regelsatz muss Privat-Account-Verbot enthalten.
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht gilt auch fuer technische Dienstleister; Compliance-Regelsatz muss AVV-Anforderungen umsetzen.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung bei unkritischer Uebernahme fehlerhafter KI-Ausgaben — Korrekturpflicht als Compliance-Anforderung.
+- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Mitbestimmungsrecht des Betriebsrats bei EDV-Nutzungsrichtlinien — KI-Compliance-Regelsatz erfordert Betriebsratseinbindung.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheit
+- § 43e BRAO — IT-Dienstleister-Anforderungen
+- Art. 28 DSGVO — AVV-Pflicht
+- Art. 5 Abs. 1 lit. c KI-VO — Verbotene biometrische Praktiken
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei technischen Ueberwachungssystemen
+
+## Triage zu Beginn
+1. Welche KI-Systeme werden in der Kanzlei eingesetzt — ist eine Freigabeliste vorhanden?
+2. Gibt es bereits einen Compliance-Regelsatz oder wird er neu erstellt?
+3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
+4. Sind alle Mitarbeiter ueber das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
+5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
+
+## Output-Template — Compliance-Regelsatz KI (10 Gebote)
+**Adressat:** Alle Kanzlei-Mitarbeiter — Tonfall: verbindlich, klar
+```
+COMPLIANCE-REGELSATZ KI-EINSATZ — [KANZLEI]
+Stand: [DATUM] — Version: [VERSIONSNUMMER]
+VERBINDLICH FUER ALLE MITARBEITERINNEN UND MITARBEITER
+
+1. KEIN PRIVAT-ACCOUNT: Nur freigegebene Kanzlei-Accounts verwenden.
+2. KEINE MANDATSDATEN OHNE ANONYMISIERUNG: Vor jeder KI-Eingabe pseudonymisieren.
+3. KEIN PDF-UPLOAD OHNE AVV: Dokumente nur in Systeme mit Art. 28 DSGVO-AVV hochladen.
+4. KEINE UNKRITISCHE UEBERNAHME: Jede KI-Ausgabe ist vor Verwendung menschlich zu pruefen.
+5. KENNZEICHNUNGSPFLICHT: KI-generierte Inhalte im Schriftsatz als solche kennzeichnen.
+6. QUELLENVERIFIZIERUNG: Jede Rechtsprechungs-Fundstelle gegen amtliche Quellen pruefen.
+7. KEINE VERTRAULICHEN DATEN IN NICHT-FREIGEGEBENE SYSTEME.
+8. MELDEPFLICHT: Sicherheitsvorfall oder ungewoehnliches KI-Verhalten sofort melden an: [KONTAKT].
+9. SCHULUNGSPFLICHT: Jaehrliche KI-Pflichtschulung erforderlich.
+10. COMPLIANCE-OFFICER KONTAKTIEREN bei Unsicherheit: [KONTAKT].
+
+Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
+```

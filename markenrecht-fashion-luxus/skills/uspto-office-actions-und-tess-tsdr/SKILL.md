@@ -145,3 +145,19 @@ Whitman Brennan Forsythe LLP
 - **Prosecution History Estoppel:** Argumente und Beschränkungen in der Response binden den Markeninhaber im späteren Verletzungsverfahren
 - **TESS Dead Marks:** Abandonded Marken in TESS können trotzdem als Common Law-Marken weiterexistieren — Common-Law-Recherche zusätzlich nötig
 - **Declaration-Anforderungen:** Declarant muss natürliche Person sein; Unternehmens-Declarations über authorized officer
+
+## Triage-Fragen bei USPTO Office Action
+
+Bevor die Response verfasst wird, klaere:
+1. Wie lange ist die Antwortfrist (6 Monate ab Mail-Date — verlängerbar gegen Gebuehr)?
+2. Basiert die Zuerueckweisung auf § 2(d) (Likelihood of Confusion) oder § 2(e)(1) (Mere Descriptiveness) oder beides?
+3. Ist die Zitiermarke in TESS noch live und im relevanten Klassensegment aktiv (Basis fuer DuPont-Analyse)?
+4. Gibt es Prosecution History Estoppel-Risiken bei geplanten Warenverzeichnis-Einschraenkungen?
+
+## Aktuelle Rechtsprechung (US)
+
+> **In re E.I. du Pont de Nemours & Co., 476 F.2d 1357 (CCPA 1973):** Die Beurteilung von Likelihood of Confusion im US-Markenrecht richtet sich nach 13 Faktoren (DuPont Factors), wobei die Aehnlichkeit der Marken und der Waren/Dienstleistungen das groesste Gewicht haben; keiner der Faktoren ist per se entscheidend.
+
+> **In re Viterra Inc., 671 F.3d 1358 (Fed. Cir. 2012):** Die Aehnlichkeit zwischen Marken ist nach dem Gesamteindruck auf Erscheinung, Klang, Bedeutung und kommerzielle Impression zu beurteilen; es genuegt, wenn ein einziges dieser Elemente Verwechslungsgefahr begruendet.
+
+> **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act „merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.

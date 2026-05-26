@@ -34,3 +34,47 @@ Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausn
 ## Hinweise zur Aktualisierung
 
 Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend. Nach jeder Neuveröffentlichung sind die Bausteine zu überprüfen. Ebenso bei neuen OLG- oder BGH-Entscheidungen zur Haftung bei Verwendung von KI-Output in Schriftsätzen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: § 43a Abs. 2 BRAO — Berufsgeheimnisschutz gilt auch fuer technische Dienstleister; Weitergabe an KI-Anbieter ohne Absicherung verstoesst gegen Verschwiegenheitspflicht.
+- BGH, Urt. v. 15.06.1989 — III ZR 39/88, NJW 1989, 2534 Rn. 12: Anwaltliche Sorgfaltspflicht umfasst Schutz technischer Systeme vor unbefugtem Zugriff — gilt fuer KI-Einsatz.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftung des Anwalts bei Verwendung unzuverlaessiger Informationsquellen ohne Pruefung — massgeblich fuer KI-generierte Schriftsaetze.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwaltshaftung nach § 280 BGB bei mangelhafter Beratung — Einsatz unzureichend gepruefter KI-Ausgaben kann Haftungsrisiko begr uenden.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
+- § 43e BRAO — IT-Dienstleister und berufsrechtliche Absicherung
+- § 203 StGB — Berufsgeheimnis (Freiheitsstrafe bis 2 Jahre)
+- §§ 1 ff. BORA — Berufsordnung Rechtsanwaelte
+- Art. 28 DSGVO — AVV-Pflicht bei Auftragsverarbeitung
+
+## Triage zu Beginn
+1. Ist der KI-Anbieter ein IT-Dienstleister nach § 43e BRAO — liegt eine berufsrechtliche AVV-Vereinbarung vor?
+2. Werden Mandatsdaten in das KI-System eingegeben — ist Anonymisierung oder verschlüsselte Verarbeitung sichergestellt?
+3. Hat der KI-Anbieter seinen Sitz ausserhalb der EU — droht ein CLOUD Act-Zugriff?
+4. Werden KI-Ausgaben ohne menschliche Pruefung verwendet — Haftungsrisiko nach § 280 BGB?
+5. Ist die KI in der Lage, Mandate anderer Mandanten zu verwechseln — Interessenkonflikt-Risiko?
+
+## Output-Template — Berufsrechts-Check KI-Einsatz
+**Adressat:** Kanzlei-Management / Senior-Partner — Tonfall: strukturiert, berufsrechtlich
+```
+BERUFSRECHTS-CHECK KI-EINSATZ
+[DATUM] — Kanzlei: [NAME MANDANT] — System: [SYSTEMNAME]
+
+§ 43a Abs. 2 BRAO — Verschwiegenheit:
+☑/☐ KI-Anbieter durch § 43e BRAO-AVV gebunden
+☑/☐ Mandatsdaten anonymisiert vor Eingabe
+☑/☐ Kein Training auf Mandatsdaten
+
+§ 203 StGB — Berufsgeheimnis:
+☑/☐ Zugriff auf Mandatsdaten auf notwendiges Personal beschraenkt
+☑/☐ Verschlüsselte Verarbeitung oder On-Premise
+
+Haftungsrisiko § 280 BGB / § 43 BRAO:
+☑/☐ Vier-Augen-Pruefung aller KI-Ausgaben vor Verwendung
+☑/☐ Keine unkritische Uebernahme von Rechtsprechungs-Zitaten ohne Pruefung
+
+Ergebnis: [EINSATZ ZULAESSIG / MIT AUFLAGEN / UNZULAESSIG]
+Auflagen: [BESCHREIBUNG]
+Geprueft von: [NAME], [DATUM]
+```

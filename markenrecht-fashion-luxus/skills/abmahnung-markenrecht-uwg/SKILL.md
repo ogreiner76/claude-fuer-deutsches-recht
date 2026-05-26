@@ -113,3 +113,21 @@ RA'in [Name], Partnerin
 - **Fehlende Markenrecherche vor Abmahnung:** Eigene Marke muss eingetragen und in Kraft sein — Abmahnung auf Basis einer inzwischen verfallenen Marke ist unwirksam
 - **Unterlassungserklärung mit Abstrich:** Enthält die Erklärung des Verletzers eine Einschränkung, ist Wiederholungsgefahr nicht beseitigt — nicht blind annehmen
 - **Fristlauf Vertragsstrafe:** Vertragsstrafe entsteht erst bei schuldhafter Zuwiderhandlung — bei sofortiger Unterwerfung kein automatisches Recht auf Zahlung
+
+## Triage-Fragen vor Abmahnung
+
+Bevor die Abmahnung abgeschickt wird, kläre:
+1. Ist die eigene Marke eingetragen, in Kraft und nicht im Verfall (§§ 26/49 MarkenG)?
+2. Handelt es sich um eine gewerbliche oder private Nutzung?
+3. Welche Verletzungshandlung genau — § 14 II Nr. 1 (Doppelidentität), Nr. 2 (Verwechslungsgefahr) oder Nr. 3 (Bekanntheitsschutz)?
+4. Ist der Verletzer im Inland greifbar (Impressum, HReg-Auszug)?
+5. Liegt Wiederholungsgefahr oder (erst) Erstbegehungsgefahr vor?
+6. Ist eine Abmahnung sinnvoll oder besteht Missbrauchsrisiko (§ 8 IV UWG analog)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 30.07.2020 — I ZR 119/19 (Farbmarke Rot):** Die Dringlichkeitsvermutung bei Markenverletzungen entfällt, wenn der Abmahnende nach Kenntniserlangung mehr als vier Wochen zuwartet, bevor er gerichtliche Schritte einleitet.
+
+> **EuGH, Urt. v. 25.07.2018 — C-129/17 (Mitsubishi / Duma):** Das Aufbringen einer anderen Marke auf eine markenrechtlich bereits geschützte Ware unter Entfernung der Originalmarke ist eine eigenständige markenmäßige Benutzungshandlung nach Art. 9 UMV.
+
+> **BGH, Urt. v. 11.04.2019 — I ZR 108/18 (tesa Tack):** Die dreifache Schadensberechnungsmethode steht gleichwertig nebeneinander; der Rechteinhaber kann die günstigste Methode wählen, ohne sie bei Klageerhebung endgültig festzulegen.

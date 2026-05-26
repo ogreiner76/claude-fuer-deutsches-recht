@@ -218,3 +218,43 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 - BGH VI ZR 40/20
 - BSI IT-Grundschutz-Kompendium
 - BSI-Lageberichte Cybersicherheit
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 26.01.2023 — III ZR 9/22, NJW 2023, 1085 Rn. 28: Ransomware-Schaden und Betreiberhaftung — Unternehmen haftet Betroffenen nach Art. 82 DSGVO wenn fehlende TOMs Art. 32 DSGVO kausal fuer Datenverlust; Entlastungsnachweis liegt beim Verantwortlichen.
+
+## Output-Template — DSGVO-Meldung Art. 33
+**Adressat:** Zustaendige Datenschutz-Aufsichtsbehoerde — Tonfall: sachlich-berichtend
+```
+AN: [DATENSCHUTZBEHOERDE ZUSTAENDIG — z.B. LDA Bayern / BfDI]
+VON: [NAME VERANTWORTLICHER], Datenschutzbeauftragter: [NAME DSB]
+BETREFF: Meldung Datenpanne Art. 33 DSGVO — [AKTENZEICHEN INTERN]
+DATUM/UHRZEIT DER MELDUNG: [DATUM UHRZEIT]
+
+[NAME MANDANT] ./. [AKTENZEICHEN]
+
+A) Art der Verletzung
+[Vertraulichkeits- / Integritaets- / Verfuegbarkeitsverletzung]
+durch [Ransomware / Datenleck / unberechtigten Zugriff]
+am [DATUM ANGRIFF] — entdeckt am [DATUM ENTDECKUNG UHRZEIT].
+
+B) Betroffene Kategorien und Umfang
+Personen: ca. [ANZAHL] ([KATEGORIE: Kunden / Mitarbeiter / Patienten])
+Datenkategorien: [NAME, ADRESSE, GESUNDHEITSDATEN, BANKDATEN, ...]
+Besondere Kategorien Art. 9 DSGVO: [Ja/Nein]
+
+C) Wahrscheinliche Folgen
+[IDENTITAETSDIEBSTAHL / PHISHING / DISKRIMINIERUNG / ...]
+
+D) Ergriffene Massnahmen
+1. Netztrennung: [DATUM UHRZEIT]
+2. Forensik beauftragt: [DIENSTLEISTER, DATUM]
+3. Passwortzuruecksetzung: [DATUM]
+4. BSI-Meldung NIS-2 (falls relevant): [DATUM]
+
+E) Kontakt
+[NAME DSB], Tel: [TEL], E-Mail: [EMAIL]
+
+Hinweis gemaess Art. 33 Abs. 4 DSGVO: Nachmeldung vorbehalten.
+
+[KANZLEI / UNTERNEHMEN], [DATUM]
+```

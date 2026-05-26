@@ -178,3 +178,18 @@ Unterschrift GF: ___________________ Datum: ___________
 - → `fortbestehensprognose-zweistufig` — Fortführungsprognose in der Ertragskrise
 - → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-basierte Stadienbestimmung
 - → `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Werkzeuge ab Liquiditätskrise
+
+
+## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
+
+- BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Krisenstadium und Handlungspflichten: je spaeter im Krisenstadium desto hoeher die Haftungsrisiken; Fruehstadium (Ertragskrise) gibt am meisten Spielraum; Spaete Liquiditaetskrise: Antragspflicht immanent.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Stakeholder-Information in der Krise: Bank frueizeitig informieren erhoeht Sanierungschancen; verspaetete Information kann als Arglist ausgelegt werden.
+- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stakeholder-Verhandlungen und Anfechtung: Stundungsvereinbarungen mit Glaeubigern in der Krise sind Kenntnisanzeichen fuer § 130 InsO; dokumentierte Verhandlungen mit realistischem Sanierungs-Plan schutzen.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vertrauensschutz bei Sanierungsversuch: Stakeholder, die einen echten Sanierungs-Plan unterstuetzen, sind vor spaeterer Anfechtung geschuetzt wenn ex ante schlussiges Konzept vorlag.
+
+## Triage — Krisenstadien-Einordnung
+
+1. **Krisenstadium?** Stakeholderkrise (Vertrauen) → Erfolgskrise (EBIT) → Liquiditaetskrise (Cashflow) → Insolvenzgefahr.
+2. **Fruehzeitige Stakeholder-Einbindung?** Bank, Hauptlieferanten, FA, PSV frueizeitig kontaktieren.
+3. **Vertraulichkeit?** Stakeholder-Informationen ohne NDA riskant (Weitergabe, Bonitaetsschaden).
+4. **Eskalationskette?** GF → Aufsichtsrat → Anwalt → Bank → FA je nach Stadium.

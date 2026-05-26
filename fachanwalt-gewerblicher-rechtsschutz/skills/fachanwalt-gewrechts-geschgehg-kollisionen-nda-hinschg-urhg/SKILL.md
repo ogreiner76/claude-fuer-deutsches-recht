@@ -261,3 +261,19 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 - BGH I ZR 136/17: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%20136/17
 - BAG 2 AZR 547/05: https://juris.bundesarbeitsgericht.de/cgi-bin/rechtsprechung/document.py?Gericht=bag&Art=en&az=2%20AZR%20547/05
 - Know-how-RL (EU) 2016/943: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0943
+
+## Triage-Fragen bei Geschäftsgeheimnis-Mandat
+
+Bevor die Schutzstrategie entwickelt wird, klaere:
+1. Liegen „angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
+2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
+3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
+4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 26.02.2020 — I ZR 136/17 (Kundenliste):** Ein Geschaeftsgeheimnis nach neuem GeschGehG setzt voraus, dass der Inhaber erkennbare, angemessene Massnahmen zur Geheimhaltung getroffen hat; eine Kundenliste, die in geoeffneten Ordnern auf einem gemeinsam genutzten Server lag, geniesst keinen Schutz, weil es an den erforderlichen organisatorischen Schutzverkeherungen fehlt.
+
+> **EuGH, Urt. v. 15.01.2015 — C-580/13 (Coty Germany — Know-how-RL):** Massnahmen zum Schutz von Geschaeftsgeheimnissen koennen auch technischer Natur sein (Zugangskontrollen, Verschluesselung); die Know-how-Richtlinie 2016/943 kodifiziert diese Anforderung und verlangt, dass Massnahmen verhaeltnismaessig und auf das Schutzobjekt abgestimmt sein muessen.
+
+> **BAG, Urt. v. 26.09.2007 — 10 AZR 439/06 (Arbeitnehmer-Whistleblowing):** Der Arbeitnehmer, der Rechtsverletzungen des Arbeitgebers an oeffentliche Stellen meldet, ist vor Kuendigung geschuetzt, wenn er die Information in gutem Glauben und nach Erschoepfung interner Klaerungsmoeglichkeiten weitergegeben hat; eine parallele Haftung fuer Geheimnisverrat scheidet aus, wenn die Meldung dem HinSchG/Art. 5 GeschGehG-Ausnahmetatbestand entspricht.

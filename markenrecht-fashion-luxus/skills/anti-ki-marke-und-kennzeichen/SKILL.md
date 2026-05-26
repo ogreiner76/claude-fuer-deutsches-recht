@@ -118,3 +118,19 @@ Entzug der Nutzungserlaubnis; Unterlassungsanspruch nach § 97 V MarkenG.
 - **EU AI Act Compliance:** Auch wenn das Design human-created ist, kann Nutzung von KI im Marketing (z.B. KI-generierte Werbefotografien) Kennzeichnungspflichten auslösen (Art. 50 I lit. b UMV)
 - **Kollektivmarken-Verwaltungsaufwand:** Satzung und Überwachungspflichten sind ressourcenintensiv — nur sinnvoll mit echtem Verbandsträger
 - **Keine markenrechtliche Exklusivität:** „Human Made" als Wortmarke ist in diversen Klassen bereits eingetragen — Kollisionsrisiko prüfen
+
+## Triage-Fragen vor KI-Kennzeichen-Strategie
+
+Bevor das Anti-KI-Label entwickelt wird, kläre:
+1. Wird KI tatsächlich in keinem Schritt des Designprozesses eingesetzt (Dokumentation vorhanden)?
+2. Welche Kennzeichenart ist angestrebt — eigenständige Marke, Kollektivmarke oder Gewährleistungsmarke?
+3. Gibt es bereits bestehende „Human Made"-Marken in den relevanten Klassen (DPMA/EUIPO-Vorrecherche)?
+4. Ist die interne KI-Nutzung im Marketing (Bildgenerierung, Texterstellung) nach EU AI Act Art. 50 gekennzeichnet?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 16.09.2004 — C-329/02 P (SAT.1):** Nur Marken, die hinreichend von der Norm oder Branchenüblichkeit der betroffenen Waren abweichen, besitzen Unterscheidungskraft; ein rein anpreisendes „Human Made"-Label ohne Besonderheit des Bildzeichens erfuellt diese Anforderung nur mit Nachweis von Verkehrsdurchsetzung.
+
+> **BGH, Urt. v. 28.03.2019 — I ZR 132/17 (Knochenschrauben — Kollektivmarke):** Die Nutzungsordnung einer Kollektivmarke muss echte Qualitaets- und Herkunftskriterien enthalten; eine rein formelle Mitgliedschaft im Verband ohne inhaltliche Pruefung genuegt nicht. Konsequenz fuer Anti-KI-Kollektivmarken: Unabhaengige Pruefmechanismen einrichten.
+
+> **OLG Frankfurt, Urt. v. 14.11.2019 — 6 U 183/18 (Greenwashing Werbebehauptung):** Werbliche Aussagen zur nachhaltigen oder authentischen Herstellung sind greenwashing-faehig nach § 5 UWG, wenn keine belastbaren Nachweise vorliegen; die gleiche Wertung gilt analog fuer „100% Human Made"-Claims ohne Verifikationssystem.

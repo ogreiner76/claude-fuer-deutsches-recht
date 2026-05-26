@@ -231,3 +231,10 @@ Aktenzeichens.
 - AWG § 18
 - EuGH C-340/21 (Natsionalna agentsia)
 - BSI IT-Grundschutz; BSI Lageberichte Cybersicherheit
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite/VB), NJW 2024, 685 Rn. 55–79: Unbefugter Datenzugang begründet keinen automatischen Schadensersatz nach Art. 82 DSGVO; aber: die 72-Stunden-Meldepflicht nach Art. 33 DSGVO wird schon durch die bloße Möglichkeit eines Risikos ausgelöst, nicht erst bei realisiertem Schaden.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: DSGVO-Schadensersatz für immateriellen Schaden bei Datenpanne; unzureichende TOMs nach Art. 32 DSGVO begründen Haftung; Cyber-Vorfall-Response muss TOMs dokumentieren.
+- OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21, NJW 2022, 334 Rn. 22: Schadensersatz bei mangelnden TOMs; Nachweis angemessener TOMs entlastet Verantwortlichen nach Art. 82 Abs. 3 DSGVO — Forensik-Dokumentation ist zentral für Entlastungsbeweis.
+- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zur Verantwortlichkeit bei Cyberangriffen; Verantwortlicher kann sich bei adäquaten Sicherheitsmaßnahmen (Art. 32 DSGVO) exkulpieren; BSI-IT-Grundschutz als Referenzstandard.

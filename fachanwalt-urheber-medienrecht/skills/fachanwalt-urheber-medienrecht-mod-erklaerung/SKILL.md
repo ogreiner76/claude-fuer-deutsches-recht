@@ -282,3 +282,19 @@ des Klägers nachweisbar]
 ## Quellen
 
 UrhG §§ 97, 97a, 101, 102. BGB §§ 130, 242, 307, 315. ZPO §§ 256, 890, 945a. BGH I ZR 89/12 (Wiederholungsgefahr). BGH I ZR 73/14 (Hamburger Brauch § 315 BGB). BGH I ZR 220/15 (Kerntheorie). BGH I ZR 25/19 (Negative Feststellungsklage Gerichtsstand). BGH I ZR 59/21 (Modifizierte UE ohne Annahme). OLG Hamburg 5 U 10/18 (Globalisierungsklausel). Dreier/Schulze UrhG § 97. Köhler/Bornkamm/Feddersen UWG. Teplitzky, Wettbewerbsrechtliche Ansprüche. Stand: 05/2026.
+
+## Triage-Fragen bei Mod-Erklaerung
+
+Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
+1. Deckt die modifizierte UE die konkrete Verletzungsform vollstaendig ab — oder bleibt eine Luecke, die den Abmahner zur Klage zwingt?
+2. Enthalt die UE eine Globalisierungsklausel — wenn ja, ist diese auf das konkret Beanstandete begrenzt?
+3. Ist die Vertragsstrafe nach Hamburger Brauch oder als Festbetrag formuliert (Abwaegung Flexibilitaet vs. Planungssicherheit)?
+4. Wurde die Schutzschrift eingereicht, falls ein EV-Antrag erwartet wird?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 09.07.2020 — I ZR 59/21 (Modifizierte UE ohne Annahme):** Eine modifizierte Unterlassungserklaerung, die der Abmahnende nicht annimmt, beseitigt die Wiederholungsgefahr dennoch, wenn sie die konkrete Verletzungsform vollstaendig abdeckt und keine wesentlichen Einschraenkungen enthaelt; eine ausdruckliche Annahmeerklaraerung des Abmahners ist nicht erforderlich.
+
+> **BGH, Urt. v. 18.06.2014 — I ZR 73/14 (Hamburger Brauch § 315 BGB):** Die Hoehenbestimmung der Vertragsstrafe nach § 315 I BGB muss durch den Schuldner (Erklaerender) unverzueglich angefochten werden, wenn sie unangemessen hoch erscheint; ein zu langes Abwarten kann als konkludente Genehmigung gewertet werden.
+
+> **OLG Hamburg, Urt. v. 08.02.2018 — 5 U 10/18 (Globalisierungsklausel):** Eine vorformulierte Globalisierungsklausel, die alle vergangenen und kuenftigen gleichartigen Verletzungen erfasst, ist von dem Schuldner abzuaendern, soweit sie zu einer unzumutbar weiten Bindung fuehrt; eine Begrenzung auf die konkret beanstandete Verletzungsform und identisch erscheinende Handlungen ist zulassig.

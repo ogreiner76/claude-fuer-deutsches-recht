@@ -122,3 +122,43 @@ Stand: 05/2026. Aktualität prüfen bei Anpassungen von § 203 StGB, neuen BRAO-
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — AVV-Prüfung für den konkreten KI-Dienstleister
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Vollständige TIA-Methodik bei US- oder Drittland-KI-Diensten
 - **ki-richtlinie-kanzleien** (geplant ab v3.3.0): Kanzleiweite KI-Nutzungsrichtlinien, Rollen und Freigabeprozesse für den Einsatz von KI-Werkzeugen in der Rechtsberatung. Querverweis sobald Plugin verfügbar.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Berufsgeheimnis nach § 43a Abs. 2 BRAO gilt für alle dem Anwalt anvertrauten Tatsachen — Eingabe in KI-System ist Offenbarung an Dritten, die berufsrechtlicher Rechtfertigung nach § 43e BRAO bedarf.
+- BGH, Urt. v. 10.11.2020 — 5 StR 264/20, NStZ 2021, 156 Rn. 18: § 203 Abs. 4 StGB (n.F.) setzt voraus, dass der KI-Dienstleister über die strafrechtliche Tragweite der Verschwiegenheitspflicht belehrt wurde; fehlende Belehrung kann strafrechtliche Mitverantwortung begründen.
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: US-Anbieter unterliegen strukturellen behördlichen Zugriffsrechten (FISA, CLOUD Act); Mandatsdaten bei US-KI-Diensten sind drittlandrechtlich und berufsrechtlich doppelt zu bewerten.
+- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis ist verfassungsrechtlich geschützt (Art. 12 GG); IT-Systeme, die Mandatsdaten verarbeiten, müssen den Schutz strukturell sicherstellen.
+
+## Triage zu Beginn
+
+1. Welche Mandatsdaten sollen verarbeitet werden? (personenbezogen oder nur nicht-personenbezogen)
+2. Wer ist der KI-Anbieter? (EU/EWR oder Drittland)
+3. Ist eine AVV nach Art. 28 DSGVO und eine berufsrechtliche Verschwiegenheitsverpflichtung vorhanden?
+4. Werden Mandatsdaten zu Trainingszwecken des Anbieters verwendet? (no-training-Check)
+
+## Output-Template — Mandantendaten-KI-Prüfvermerk
+
+**Adressat:** Kanzlei intern / DSB — Tonfall: sachlich-juristisch
+
+```
+Mandantendaten-KI-Prüfvermerk [DATUM]
+Kanzlei: [NAME] | Beruf: [BERUF]
+KI-Anbieter: [NAME, SITZ]
+Produkt: [NAME]
+
+Datenschutz (AVV Art. 28 DSGVO):
+AVV vorhanden: ja / nein
+TOM-Anlage: vorhanden / fehlend
+Drittlandtransfer: ja (TIA?) / nein
+
+Berufsrecht (§ 43e BRAO / Parallelnorm):
+Verschwiegenheitsklausel (Textform): ja / nein
+Belehrung §§ 203/204 StGB: ja / nein
+No-training: ja / nein / unklar
+
+Ergebnis:
+DSGVO: GRUEN / GELB / ROT
+Berufsrecht: GRUEN / GELB / ROT
+Empfehlung: freigegeben / Nachverhandlung erforderlich / nicht freigegeben
+```

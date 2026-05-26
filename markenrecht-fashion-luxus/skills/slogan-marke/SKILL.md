@@ -108,3 +108,19 @@ kein strengerer Maßstab anzulegen als für andere Wortmarken.
 - **Kurze Slogans besonders gefährdet:** Je kürzer, desto größer die Nähe zu ungeschützten Werbeformeln
 - **Hashtag-Slogans:** Separates Zeichen vom Basisslogan — beide gesondert anmelden
 - **Kosten-Nutzen-Abwägung:** Bei zweifelhafter Eintragungsfähigkeit besser als Wort-Bild-Marke mit besonderer Typografie — Schutz für Gesamteindruck
+
+## Triage-Fragen vor Slogan-Marken-Anmeldung
+
+Bevor der Slogan als Marke angemeldet wird, klaere:
+1. Hat der Slogan eine eigenstaendige Unterscheidungskraft (mehr als bloss anpreisend) oder braucht er Secondary Meaning?
+2. Ist der Slogan im Rahmen der Werbung bereits so lange und intensiv benutzt, dass Verkehrsdurchsetzung belegbar ist?
+3. Koennte der Slogan als beschreibende Angabe oder Qualitaetsversprechen angesehen werden (§ 8 II Nr. 2 MarkenG)?
+4. Gibt es bereits aehnliche Slogan-Marken in den relevanten Klassen?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 21.01.2010 — C-398/08 P (Audi / HABM — Vorsprung durch Technik):** Slogans koennen Unterscheidungskraft besitzen, wenn sie beim angesprochenen Publikum eine unerwartete originelle Note aufweisen, die zugleich als Herkunftshinweis auf ein bestimmtes Unternehmen wahrgenommen wird; bloss anpreisende Aussagen ohne Eigenart genuegen nicht.
+
+> **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot):** Ein Slogan, der ausschliesslich lobende oder qualitaetsbeschreibende Aussagen macht, kann keine Markeneintragung erlangen; auch wenn der Slogan durch intensive Werbenutzung im Verkehr bekannt geworden ist, folgt daraus nicht automatisch Unterscheidungskraft.
+
+> **EuGH, Urt. v. 04.10.2001 — C-517/99 (Merz & Krell / Brylcream):** Der Eintragungsversagungsgrund der fehlenden Unterscheidungskraft ist anhand aller relevanten Tatsachen und Umstaende zu prufen, einschliesslich der angesprochenen Verkehrskreise und der Art der Waren; fuer Luxuswaren ist der Adressatenkreis enger und oft stilbewusster.

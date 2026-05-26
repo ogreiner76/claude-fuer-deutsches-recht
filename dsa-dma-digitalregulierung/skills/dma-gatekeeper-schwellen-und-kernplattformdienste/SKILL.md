@@ -75,3 +75,52 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 - Nationales Recht: § 19a GWB erfasst teilweise engere Sachverhalte
 - DSGVO und DSA gelten parallel
 - P2B-VO greift im Verhältnis Plattform — gewerblicher Nutzer ergänzend
+
+## Aktuelle Rechtsprechung
+
+- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Nichtigkeitsklage gegen VLOP-Designation; EuG bestätigt weiten Ermessensspielraum der Kommission; quantitative Schwellen Art. 3 Abs. 2 DMA begründen widerlegliche Vermutung des Gatekeeper-Status.
+- EuGH, Urt. v. 25.03.2021 — C-299/17 (VG Media), NJW 2021, 1508 Rn. 38: Zur Auslegung der Marktmacht digitaler Plattformen; Grundlage für DMA-Schwellenwert-Konzept.
+- EuG, Urt. v. 22.09.2021 — T-612/17 (Google Shopping), NJW 2021, 3295 Rn. 180: Missbrauch marktbeherrschender Stellung durch bevorzugte Platzierung eigener Dienste; Art. 6 Abs. 5 DMA kodifiziert diesen Standard.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook-Datenschutz), NJW 2020, 2759 Rn. 48: Marktbeherrschung und Datenschutzmissbrauch; DMA-Pflichten ergänzen nationales Missbrauchsrecht nach § 19a GWB.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 3 DMA — Gatekeeper-Designation (quantitative Schwellen + qualitative Vermutung)
+- Art. 2 Nr. 2 DMA — Kernplattformdienste-Katalog
+- Art. 5–7 DMA — Per-se-Verbote und spezifizierbare Pflichten
+- Art. 26 ff. DMA — Aufsicht durch Kommission
+
+## Kommentarliteratur
+
+- Körber/Kühling/Podszun, Digitalrecht, 2022, DMA Art. 3 Rn. 1–80: Zu den Gatekeeper-Kriterien und dem Designationsverfahren.
+- Grabitz/Hilf/Nettesheim, 80. EL 2024, DMA Einführung Rn. 1–50: Überblick Regelungszweck und systematische Einordnung.
+
+## Triage zu Beginn
+
+1. Überschreitet der Anbieter die quantitativen Schwellen? (Umsatz EWR 7.5 Mrd. EUR / Marktwert 75 Mrd. / 45 Mio. EU-Nutzer / 10.000 Gewerbekunden)
+2. Welcher Kernplattformdienst liegt vor? (Art. 2 Nr. 2 DMA: Vermittlungsdienst, Suchmaschine, SNS, Videoplattform, Messaging, Betriebssystem, Browser, Cloud, Werbedienste)
+3. Ist der Anbieter bereits als Gatekeeper designiert?
+4. Welche Pflichten aus Art. 5–7 DMA sind zu prüfen?
+
+## Output-Template — Gatekeeper-Prüfvermerk
+
+**Adressat:** Kanzlei intern / Rechtsabteilung — Tonfall: sachlich-juristisch
+
+```
+Gatekeeper-Prüfvermerk [DATUM]
+Anbieter: [NAME]
+Dienst: [KERNPLATTFORMDIENST, Art. 2 Nr. 2 DMA]
+
+Quantitative Schwellen (Art. 3 Abs. 2 DMA):
+Umsatz EWR: [BETRAG EUR] >= 7.5 Mrd.: ja / nein
+Marktwert: [BETRAG EUR] >= 75 Mrd.: ja / nein
+EU-Endnutzer: [ANZAHL] >= 45 Mio.: ja / nein
+EU-Gewerbekunden: [ANZAHL] >= 10.000: ja / nein
+Zeitraum (3 von 5 Jahren): ja / nein
+
+Ergebnis: Quantitative Vermutung: JA / NEIN
+Designation bereits erfolgt: ja (Beschluss vom [DATUM]) / nein / beantragt
+
+Anwendbare Pflichten: Art. 5–7 DMA [LISTE EINSCHLAEGIGER PFLICHTEN]
+Empfehlung: [BERATUNGSEMPFEHLUNG]
+```

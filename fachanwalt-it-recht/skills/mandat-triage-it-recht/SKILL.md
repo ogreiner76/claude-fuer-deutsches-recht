@@ -141,3 +141,49 @@ Bei aktivem Hacker-Angriff:
 - BGH VIII. Zivilsenat
 - Marly Softwarerecht
 - Schneider IT-Recht
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Mandatsuebernahme ohne Konflikt-Check — Interessenkonflikt bereits bei Beratung desselben Sachverhalts auf Gegenseite entsteht.
+- EuGH, Urt. v. 07.03.2024 — C-604/22 (IAB Europe), NJW 2024, 1205 Rn. 48: Consent-Management-Betreiber als gemeinsam Verantwortlicher i.S.d. Art. 26 DSGVO; relevant fuer Mandatspruefung IT-Dienstleister.
+- BGH, Urt. v. 26.01.2017 — VII ZR 198/15, NJW 2017, 1534 Rn. 22: Eilbeduerftigkeit im IT-Projektstreit — einstweilige Verfuegung bei drohender Projektunterbrechung zulaessig; RA-Sofortmandat gerechtfertigt.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei immateriellem Schaden bereits bei festgestelltem Datenschutzversto§ — Mandatseinleitung bei Datenpanne zwingend.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a BRAO — Anwaltliche Grundpflichten: Interessenkonflikt-Verbot
+- § 45 BRAO — Verbotene Taetigkeit (frueherer Mandant / Gegenpartei)
+- Art. 33 DSGVO — 72-Stunden-Meldepflicht Datenpanne
+- § 32 BSIG n. F. — NIS-2-Meldepflicht 24 Stunden / 72 Stunden
+- Art. 19 NIS-2-RL (EU 2022/2555) — Haftung Geschaeftsleitungsorgane
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken, Anwaltliches Berufsrecht, 3. Aufl. 2020, § 43a BRAO Rn. 12 ff.: Konflikt-Check als Mandats-Voraussetzung.
+- Schneider, IT-Recht, 5. Aufl. 2021, Kap. 1 Rn. 45 ff.: Mandatseinleitung im IT-Recht.
+
+## Triage zu Beginn
+1. Besteht ein Interessenkonflikt — wurde dieselbe Partei oder Gegenseite bereits beraten (§ 43a BRAO)?
+2. Liegt ein Cyber-Vorfall oder eine Datenpanne vor — laeuft die 72-Stunden-Frist (Art. 33 DSGVO)?
+3. Handelt es sich um eine NIS-2-relevante Einrichtung — laeuft die 24-Stunden-Fruhwarnung (§ 32 BSIG n. F.)?
+4. Welches Sachgebiet ist einschlaegig (Softwarerecht, Datenschutz, KI-VO, DSA, Plattformrecht)?
+5. Wie hoch ist der Streitwert — sechsstellig oder mehr erfordert fruehs Sachverstaendigen-Bedarf klaeren?
+
+## Output-Template — Triage-Protokoll IT-Recht
+**Adressat:** Kanzlei intern (Akte) — Tonfall: strukturiert-knapp
+```
+TRIAGE-PROTOKOLL IT-RECHT
+[DATUM] — [AKTENZEICHEN] — [NAME MANDANT]
+
+1. Mandantenrolle: [Auftraggeber / Auftragnehmer / Plattform / Nutzer]
+2. Sachgebiet: [Softwareerstellung / SaaS / DSGVO / NIS-2 / AI Act / DSA / ...]
+3. Eilbeduerftigkeit:
+   - Cyber-Vorfall: [Ja / Nein] — Entdeckungszeitpunkt: [DATUM UHRZEIT]
+   - DSGVO-Meldung 72h laeuft ab: [DATUM UHRZEIT] (Art. 33 DSGVO)
+   - NIS-2-Fruehwarnung 24h laeuft ab: [DATUM UHRZEIT] (§ 32 BSIG n. F.)
+4. Konflikt-Check: [Durchgefuehrt — kein Konflikt / KONFLIKT: BESCHREIBUNG]
+5. Streitwert-Schaetzung: EUR [BETRAG]
+6. Naechste Schritte:
+   - [MASSNAHME 1] bis [DATUM]
+   - [MASSNAHME 2] bis [DATUM]
+7. Routing: [FOLGE-SKILL]
+
+Bearbeiter: [NAME RA/RAin]
+```

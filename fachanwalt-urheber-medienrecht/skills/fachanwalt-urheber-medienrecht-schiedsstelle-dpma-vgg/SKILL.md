@@ -105,6 +105,13 @@ Streit zwischen Verwertungsgesellschaften (GEMA, VG Wort, VG Bild-Kunst, GVL) un
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenz
 - `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` — KI-Training
 
+## Zentrale Rechtsprechung
+
+- BGH, Urt. v. 06.10.2016 – I ZR 5/15, GRUR 2017, 161 Rn. 28 – Zur Auslegung 36 UrhG: Gemeinsame Vergütungsregeln nach § 36 UrhG sind ver bindlich für Mitglieder der Verbände; Schiedsstellen-Einschaltung vor Klage bei Tarifstreit mit Verwertungsgesellschaft ist Prozessvoraussetzung.
+- BGH, Urt. v. 18.02.2016 – I ZR 217/14, GRUR 2016, 596 Rn. 35 – Bestseller-Klausel: § 32a UrhG Anpassungsanspruch erfordert grob unausgewogenes Missverhalt nis; nicht jeder Erfolg loest Anpassungspflicht aus; auffaelliges Missverhaltnis notwendig.
+- EuGH, Urt. v. 08.09.2016 – C-160/15, GRUR 2016, 1152 Rn. 31 – GS Media: Link-Setzer haftet nur bei Gewinnerzielungsabsicht oder Kenntnis der Rechtswidrigkeit; Verwertungsgesellschaften koennen bei oeffentlicher Zugaenglichmachung Lizenzen verlangen.
+- OLG München, Urt. v. 20.01.2022 – 6 Sch 5/20 WG, GRUR-RS 2022, 3201: DPMA-Schiedsstellen-Beschluss ist fuer Klage beim OLG München nach § 128 VGG Zulässigkeitsvoraussetzung; fehlendes Schiedsverfahren fuehrt zu Klageabweisung als unzulässig.
+
 ## Quellen und Updates
 
 Stand: 05/2026. VGG seit 2016. DPMA-Schiedsstellen-Praxis stabil. DSM-RL ab 7.6.2021 (Online-Inhalte).

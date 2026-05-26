@@ -268,3 +268,19 @@ Verfahrensgebühr 1.3 VV RVG ca. EUR 2.018; Terminsgebühr 1.2 VV RVG ca. EUR 1.
 - EuGH C-281/10 (PepsiCo): https://curia.europa.eu/juris/liste.jsf?num=C-281/10
 - EUIPO eFiling: https://euipo.europa.eu/eSearch/
 - DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Triage-Fragen bei Designverletzungs-Mandat
+
+Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
+1. Ist das Design eingetragen (DesignG/GGV) oder handelt es sich um ein nicht-eingetragenes GGM (3-Jahres-Schutz)?
+2. Weicht der Gesamteindruck des verletzenden Designs von dem des geschuetzten Designs ab (informierter Benutzer nach Art. 10 GGV)?
+3. Liegen Neuheit und Eigencharakter des geschuetzten Designs unstreitig vor — oder droht eine Nichtigkeit-Widerklage?
+4. Gibt es Beweise fuer absichtliche Kopie (Marktstudie, Online-Produktfotos, Zeitstrahl)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 20.10.2011 — C-281/10 P (PepsiCo / Grupo Promer):** Der informierte Benutzer nach Art. 10 GGV ist weder ein Durchschnittsverbraucher noch ein Fachmann; er kennt das Formschatz-Umfeld und beurteilt den Gesamteindruck unter Beruecksichtigung der Gestaltungsfreiheit des Entwerfers; groessere Gestaltungsfreiheit fuehrt zu groesseren Schutzumfang.
+
+> **BGH, Urt. v. 28.01.2016 — I ZR 40/14 (Armbanduhr):** Ein eingetragenes Geschmacksmuster ist nichtig, wenn zum Anmeldezeitpunkt ein identisches Muster im Formenschatz der Oeffentlichkeit zugaenglich war; ein nicht zugaengliches Vorlaeufer-Design des Herstellers selbst zerstoert die Neuheit nicht (keine neuheitsschaedliche Eigenoffenbarung vor Schonfrist).
+
+> **OLG Duesseldorf, Urt. v. 10.07.2018 — I-20 U 180/16 (Kinderwagen-Design):** Bei der Beurteilung der Designverletzung ist nicht das einzelne Merkmal, sondern der Gesamteindruck massgeblich; selbst eine starke Aehnlichkeit in Einzelmerkmalen fuehrt nicht zur Verletzung, wenn der Gesamteindruck erheblich verschieden ist.

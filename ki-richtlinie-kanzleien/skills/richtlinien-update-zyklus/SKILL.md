@@ -48,3 +48,47 @@ Art. 4 KI-VO: KI-Kompetenz muss auf dem aktuellen Stand gehalten werden — was 
 ## Hinweise zur Aktualisierung
 
 Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder Inkrafttreten-Daten für KI-VO-Bestimmungen bekannt werden, ist die Trigger-Liste entsprechend anzupassen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinien muessen aktuelle Rechtsprechung widerspiegeln — Scoring-Entscheidung hatte direkte Richtlinienfolgen.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Algorithmus-Logik offenlegen — neue Pflicht erfordert Richtlinien-Update.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten muessen mit technischer Entwicklung Schritt halten — veraltete Richtlinien erhoehen Haftungsrisiko.
+- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen gelten auch fuer Richtlinien-Aktualitaet.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 17 KI-VO — Qualitaetsmanagement-System mit laufender Ueberprueufung (Anbieter)
+- Art. 29 KI-VO — Betreiberpflicht zur laufenden Beobachtung und Anpassung
+- Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht (Richtlinie muss aktuell sein)
+- § 43 BRAO — Fortlaufende Kompetenz als Berufsanforderung
+
+## Triage zu Beginn
+1. Wann wurde die Richtlinie zuletzt aktualisiert — ist sie aelter als ein Jahr?
+2. Gab es seit letztem Update relevante Rechtsprechung (EuGH SCHUFA-Score, Dun & Bradstreet)?
+3. Sind neue KI-Systeme eingefuehrt worden, die noch nicht in der Richtlinie abgedeckt sind?
+4. Haben sich regulatorische Anwendungsdaten geaendert (KI-VO Stufenplan bis 2026)?
+5. Ist der Betriebsrat bei Richtlinien-Aenderungen neu einzubinden?
+
+## Output-Template — Update-Zyklus-Protokoll
+**Adressat:** KI-Governance-Verantwortlicher — Tonfall: strukturiert, prozessorientiert
+```
+RICHTLINIEN-UPDATE-ZYKLUS-PROTOKOLL
+[KANZLEI] — Richtlinienversion: [VERSION] — Letztes Update: [DATUM]
+
+REGELMAESSIGE REVIEW-TERMINE:
+- Quartalsreview: [DATUM] — Verantwortlich: [NAME]
+- Jahres-Vollpruefung: [DATUM] — Verantwortlich: [NAME]
+
+ANLASSBEZOGENE UPDATE-TRIGGER:
+☑/☐ Neue EuGH / BGH-Rechtsprechung: [DATUM / AZ]
+☑/☐ Neue KI-VO Anwendungsphase (Hochrisiko ab 02.08.2026)
+☑/☐ Neues KI-System eingefuehrt: [SYSTEMNAME, DATUM]
+☑/☐ Datenpanne oder Sicherheitsvorfall
+
+AKTUELLER UPDATE-BEDARF:
+| Abschnitt | Aenderungsbedarf | Prioritaet | Verantwortlicher | Frist |
+|---|---|---|---|---|
+| [ABSCHNITT] | [BESCHREIBUNG] | HOCH/MITTEL | [NAME] | [DATUM] |
+
+BETRIEBSRATS-EINBINDUNG: ☑/☐ Erforderlich — geplant am [DATUM]
+FREIGABE NACH UPDATE: [DATUM] durch [NAME]
+```

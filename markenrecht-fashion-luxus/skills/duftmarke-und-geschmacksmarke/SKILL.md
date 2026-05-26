@@ -113,3 +113,19 @@ der Eintragungsfähigkeit nach Art. 4 UMV n.F.]
 - **UWG-Schutz schwer nachweisbar:** Olfaktorik-Gutachten kosten EUR 8.000–20.000; Nachahmungsnachweis erfordert chemische Analyse
 - **Patentoffenbarung:** Patentanmeldung offenbart die Rezeptur — nach Ablauf gemeinfrei; Abwägung gegen Geheimhaltung
 - **Kein Aufbau auf Riechmarke:** Keine Widerspruchs- oder Verletzungsklage auf Basis einer nicht eingetragenen Riechmarke möglich
+
+## Triage-Fragen vor Duftmarken-Anmeldung
+
+Bevor die Duftmarke eingereicht wird, klaere:
+1. Kann der Geruch mit einem chemischen Strukturrezept praezise beschrieben werden (Sieckmann-Test)?
+2. Ist der Duft einer naheliegenden Produktkategorie inhaerent (z.B. Erdbeerduft bei Erdbeermarmelade — dann § 8 II Nr. 2 MarkenG Hindernis)?
+3. Hat der Duft durch Benutzung Unterscheidungskraft erworben (§ 8 III MarkenG — Umfrage erforderlich)?
+4. Ist das Sieckmann-Kriterium „objektiv" erfuellbar (chemische Analyse durch akkreditiertes Labor)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein Duft ist als Marke registrierbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine textliche Beschreibung als „frischer Duft mit einem Hauch von Zimt" erfuellt diese Voraussetzungen nicht.
+
+> **EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL):** Die Darstellung eines Geruchs als „Erdbeerduft" ist nicht als Marke eintragbar, weil sie weder praezise noch objektiv ist; ein chemisches Strukturrezept waere theoretisch ausreichend, ist aber in der Praxis des EUIPO nicht akzeptiert worden.
+
+> **DPMA, Beschl. v. 01.12.2016 — 30 2015 122 220.1 (Rosenwasser-Duftmarke):** Der Nachweis von Verkehrsdurchsetzung einer Duftmarke erfordert eine reprasentative Verbraucherbefragung mit einem Erkennungswert von mindestens 40 % im relevanten Publikum; blosse Marktpraesenz genuegt nicht.

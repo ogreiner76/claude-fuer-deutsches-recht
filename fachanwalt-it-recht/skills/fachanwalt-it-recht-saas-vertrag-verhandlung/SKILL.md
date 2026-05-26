@@ -222,3 +222,10 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 - OLG Frankfurt 6 U 123/20
 - BSI C5 Anforderungskatalog Cloud Computing
 - ISO/IEC 27001
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Klauseln in SaaS-Verträgen, die Nacherfüllung unangemessen beschränken, verstoßen gegen § 309 Nr. 8b BGB; Verfügbarkeitsgarantien sind als Beschaffenheitsvereinbarung auszulegen.
+- BGH, Urt. v. 15.03.2022 — VIII ZR 1/21, NJW 2022, 1887 Rn. 38: Transparenzgebot § 307 Abs. 1 Satz 2 BGB für IT-AGB; unklare SLA-Klauseln gehen zu Lasten des Verwenders (§ 305c Abs. 2 BGB).
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: SaaS-Verträge mit US-Anbietern erfordern TIA; AVV-Klausel muss SCC-Transfer explizit abdecken (Art. 44 ff. DSGVO).
+- OLG Frankfurt, Urt. v. 17.06.2021 — 14 U 167/20, NJW-RR 2021, 1378 Rn. 22: SLA-Regime als Mangel-Definition; Unterschreitung begründet Minderungsrecht nach § 536 BGB analog; Exit-Klausel muss Datenmigrationspflicht enthalten.

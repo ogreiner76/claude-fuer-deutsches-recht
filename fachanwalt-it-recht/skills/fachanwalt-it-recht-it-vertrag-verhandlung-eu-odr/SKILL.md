@@ -108,3 +108,46 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 ## Quellen und Updates
 
 Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schiedsordnung. Bei VSBG-Reform aktualisieren.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Kontrolle von IT-Verträgen nach § 307 BGB; Haftungsbeschränkungsklauseln in SaaS-AGB sind am Maßstab des § 309 Nr. 8b BGB zu messen; unangemessene Beschränkung des Nacherfüllungsrechts ist unwirksam.
+- BGH, Urt. v. 15.03.2022 — VIII ZR 1/21, NJW 2022, 1887 Rn. 38: Zur Einbeziehung von AGB in IT-Verträge; AGB müssen klar und verständlich formuliert sein (Transparenzgebot § 307 Abs. 1 Satz 2 BGB); unklare Klauseln gehen zu Lasten des Verwenders.
+- OLG Frankfurt, Urt. v. 17.06.2021 — 14 U 167/20, NJW-RR 2021, 1378 Rn. 22: Zum SLA-Regime in Cloud-Verträgen; Verfügbarkeitsgarantien als Beschaffenheitsvereinbarung (§ 434 Abs. 2 BGB); Unterschreitung begründet Mangel.
+- EuGH, Urt. v. 14.09.2023 — C-632/22 (Symicros), NJW 2024, 88 Rn. 38: Zur Anwendbarkeit der EU-ODR-Plattform bei grenzüberschreitenden IT-Vertragsstreitigkeiten; ODR-Pflicht nach Art. 14 ODR-VO gilt für Online-Händler und Online-Dienstleister im B2C-Bereich.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 305–310 BGB — AGB-Recht; § 307 (Generalklausel), § 309 Nr. 7/8 (verbotene Klauseln)
+- §§ 327–327u BGB — Digitale Produkte und Inhalte (Verbraucher)
+- Art. 14 ODR-VO (524/2013) — Online-Streitbeilegung B2C
+- §§ 826, 280 BGB — Schadensersatz bei IT-Vertragsverletzung
+
+## Triage zu Beginn
+
+1. B2C oder B2B? (§§ 327 ff. BGB bei Verbrauchern; ODR-Pflicht nur B2C)
+2. Standard-SaaS-AGB oder verhandelter Individualvertrag?
+3. Welche Klauseln sind kritisch? (SLA-Verfügbarkeit / Haftung / Exit / Datenschutz)
+4. Streitbeilegungsklausel: Schiedsverfahren / Schlichtung / ordentliches Gericht?
+
+## Output-Template — IT-Vertragsverhandlungs-Protokoll
+
+**Adressat:** Mandant / Vertragspartner — Tonfall: sachlich-juristisch
+
+```
+IT-Vertragsverhandlungs-Protokoll [DATUM]
+Vertragstyp: SaaS / Cloud / Lizenz / Individualentwicklung
+Parteien: [MANDANT] vs. [GEGENSEITE]
+Verhandlungsstand: [DATUM / RUNDE X]
+
+Offene Klauseln:
+| Klausel         | Ist-Position  | Soll-Position | Bewertung | Status   |
+|-----------------|--------------|---------------|-----------|----------|
+| SLA Verfuegbarkeit | [X]%       | >= 99.5%      | ROT       | offen    |
+| Haftungsgrenze  | 1 Monatsbetrag| 12 Monate     | ROT       | offen    |
+| Exit/Datenmigration | fehlt    | 90-Tage-Klausel| ROT      | offen    |
+| AVV Art. 28     | fehlt        | Pflicht        | ROT       | offen    |
+
+Streitbeilegung: ODR-Plattform (B2C) / DGRI-Schlichtung / DIS-Schiedsverfahren
+Nächster Termin: [DATUM]
+```

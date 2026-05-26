@@ -72,3 +72,39 @@ Mit freundlichen Gruessen
 - Bei Fristablauf ohne Nacherfüllung: Übergang in `forderungsmanagement-klagewerkstatt` zur Klageerhebung.
 - Bei laufendem SaaS: parallel Minderungsmitteilung an Vermieter nach § 536 BGB.
 - Verjährungsfrist im Aktenkalender notieren.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 06.06.2019 — VII ZR 124/18, NJW 2019, 2867 Rn. 28: Zur Abgrenzung Kauf- und Werkvertrag bei Software; Individualsoftware ist werkvertraglich (§ 633 BGB); Standardsoftware auf körperlichem Datenträger als Kauf (§ 434 BGB); SaaS/Cloud-Software als Miet- oder Dienstvertrag.
+- BGH, Urt. v. 16.09.2021 — VII ZR 190/20, NJW 2021, 3438 Rn. 38: Zum Mangelbegriff bei Software; fehlende Interoperabilität mit vertraglich vorausgesetzter Systemumgebung ist Sachmangel nach § 434 Abs. 1 BGB (a.F.) / § 434 Abs. 2 BGB (n.F. ab 2022).
+- OLG Frankfurt, Urt. v. 15.04.2021 — 6 U 152/20, NJW-RR 2021, 912 Rn. 22: Fristsetzung nach § 439 BGB muss konkrete Mangelbeseitigung benennen; pauschale "Nachbesserungsaufforderung" setzt Frist nicht wirksam.
+- LG Berlin, Urt. v. 28.09.2021 — 52 O 83/20, CR 2022, 145 Rn. 18: Zur Mängelrüge bei SaaS; SLA-Unterschreitung als Sachmangel; Schlechtleistung begründet Minderungsrecht nach §§ 536, 536a BGB analog.
+
+## Triage zu Beginn
+
+1. Vertragstyp: Kauf / Werk / Miete / Dienst / Kombination?
+2. Standard- oder Individualsoftware?
+3. Liegt ein Sachmangel (§ 434 BGB) oder Rechtsmangel (§ 435 BGB) vor?
+4. Fristsetzung zur Nacherfüllung bereits erfolgt? Frist abgelaufen?
+
+## Output-Template — Software-Mangel-Memo
+
+**Adressat:** Gericht / Gegenseite — Tonfall: sachlich-juristisch
+
+```
+Software-Mangel-Memo [DATUM]
+Parteien: [AUFTRAGGEBER] vs. [AUFTRAGNEHMER/ANBIETER]
+Vertragstyp: Kauf § 433 BGB / Werkvertrag § 631 BGB / Miete § 535 BGB
+Software: [BEZEICHNUNG, VERSION]
+
+Mangel:
+Beschreibung: [KONKRETE BESCHREIBUNG]
+Rechtsgrundlage: § 434 Abs. [X] BGB / § 633 Abs. [X] BGB / § 536 BGB
+
+Ansprüche:
+1. Nacherfüllung (§ 439 / § 635 BGB): Frist gesetzt am [DATUM]; Ablauf [DATUM]
+2. Bei Fristablauf: Rücktritt § 437 Nr. 2 / § 634 Nr. 3 BGB / Minderung / Schadensersatz
+
+Streitwert: [BETRAG EUR]
+Verjährung: § 438 BGB 2 Jahre ab Ablieferung / § 195 BGB 3 Jahre (§ 634a BGB)
+```

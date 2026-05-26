@@ -75,3 +75,65 @@ Mit freundlichen Gruessen
 - Bei Zahlungsausfall: Übergabe an `forderungsmanagement-klagewerkstatt`.
 - Bei Herabsetzungsantrag des Schuldners: gesonderte Stellungnahme zur Angemessenheit § 343 BGB.
 - Verjährungsfrist im Aktenkalender notieren.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 23.01.2003 — VII ZR 210/01, NJW 2003, 1805 Rn. 19: Tagessatz-Vertragsstrafe im Bauvertrag bis fuenf Prozent der Auftragssumme als Hoechtgrenze in AGB wirksam.
+- BGH, Urt. v. 06.12.2016 — VII ZR 165/14, NJW 2017, 1017 Rn. 26: Tagessatz-Klausel ohne Hoechtgrenze in AGB nach § 307 BGB unwirksam.
+- BGH, Urt. v. 10.12.2015 — VII ZR 117/15, NJW 2016, 863 Rn. 21: Vertragsstrafe fuer Datenschutzverstoesse in IT-AGB — Klarheitsgebot des § 307 Abs. 1 Satz 2 BGB erfordert eindeutige Beschreibung der strafbewehrten Pflicht.
+- BGH, Urt. v. 20.01.2016 — VIII ZR 26/15, NJW 2016, 1230 Rn. 14: Herabsetzungsantrag § 343 BGB — Masstab ist das Interesse des Glaubigers am Versprechen zum Zeitpunkt der Entstehung; Leistungsinteresse und Abschreckungsinteresse zu gewichten.
+
+## Zentrale Normen (Paragrafenkette)
+- § 339 BGB — Verwirkung der Vertragsstrafe bei Verschulden
+- § 340 BGB — Strafe statt Erfuellung
+- § 341 BGB — Strafe neben Erfuellung; Abs. 3 Vorbehalt bei Annahme
+- § 343 BGB — richterliche Herabsetzung (auszer § 348 HGB)
+- § 348 HGB — Ausschluss Herabsetzung bei beidseitigem Handelsgeschaeft
+- § 307 Abs. 1 Satz 2 BGB — Transparenzgebot AGB
+- § 309 Nr. 6 BGB — Klauselverbote ohne Wertungsspielraum (Vertragsstrafe im B2C-Bereich)
+
+## Kommentarliteratur
+- Grüneberg, in: Grüneberg BGB, 83. Aufl. 2024, §§ 339–345 Rn. 1 ff.: Grundstruktur Vertragsstrafe im IT-Recht.
+- Ulmer/Brandner/Hensen, AGB-Recht, 13. Aufl. 2022, § 307 BGB Rn. 540 ff.: Hoechstgrenze als AGB-Wirksamkeitsvoraussetzung.
+- Marly, Praxishandbuch Softwarerecht, 8. Aufl. 2023, Rn. 720 ff.: Vertragsstrafe in Software- und IT-Vertraegen.
+
+## Triage zu Beginn
+1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
+2. Ist die strafbewehrte Pflicht hinreichend konkret beschrieben (Transparenzgebot)?
+3. Existiert eine Hoechtgrenze bei Tagessatz-Struktur?
+4. Wurden beide Parteien als Kaufleute im HGB-Sinne eingestuft (§ 348 HGB relevant)?
+5. Wurde der Vorbehalt bei Annahme der Hauptleistung erklaert (§ 341 Abs. 3 BGB)?
+
+## Output-Template — Geltendmachung Vertragsstrafe
+**Adressat:** Vertragspartner (Auftragnehmer / Schuldner) — Tonfall: sachlich-juristisch
+```
+[KANZLEI]
+[ADRESSE]
+[DATUM]
+
+[NAME MANDANT] ./. [GEGNER]
+[AKTENZEICHEN]
+
+Betreff: Geltendmachung Vertragsstrafe gemaess § 339 BGB
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten [NAME MANDANT]. In der oben bezeichneten Sache machen wir
+die in Ziffer [X] des Vertrages vom [DATUM VERTRAG] vereinbarte
+Vertragsstrafe geltend.
+
+Ihre Pflichtverletzung: [BESCHREIBUNG PFLICHTVERLETZUNG MIT DATUM UND ORT].
+
+Verwirkte Strafe: EUR [BETRAG] ([BERECHNUNGSGRUNDLAGE: z.B. 5 Werktage
+à EUR [TAGESSATZ]]).
+
+Vorbehalt bei Annahme: Mit Annahme der Hauptleistung am [DATUM] haben
+wir uns die Vertragsstrafe ausdruecklich vorbehalten (§ 341 Abs. 3 BGB).
+
+Wir fordern Sie auf, bis zum [DATUM FRIST] EUR [BETRAG] auf IBAN [IBAN]
+zu ueberweisen.
+
+Weitergehende Schadensersatzansprueche bleiben vorbehalten (§ 340 Abs. 2 BGB).
+
+Mit freundlichen Gruessen
+[KANZLEI]
+```

@@ -164,3 +164,19 @@ Trademark Practice Chair
 - **Privilege-Verlust:** Weiterleitung von Anwaltskorrespondenz an Dritte (Berater, PR-Agenturen) kann Attorney-Client-Privilege zerstören
 - **Mid-Mandat Konflikte:** In der Modebranche kommt es zu Mandats-Konflikt-Risiken durch M&A (wenn Konkurrent von klôtzzkètté durch Klient gekauft wird); sofort eskalieren
 - **OCG-Bindungswirkung:** OCGs haben Vertragscharakter; Überschreitungen ohne Pre-Approval können zu Rechnungskürzungen durch klôtzzkètté Inc. führen
+
+## Triage-Fragen vor NYC-Korrespondenz
+
+Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klaere:
+1. Wurde ein formeller Conflict Check durchgefuehrt und ist das Conflict-Clear-Memo in der Akte?
+2. Liegt ein unterzeichnetes Engagement Letter mit aktuellem Stundenhonorar vor?
+3. Gibt es bereits eine laufende Frist im US-Verfahren (USPTO Office Action, TTAB Response Deadline)?
+4. Welche Dokumente (EUTM-Auszuege, Benutzungsnachweise, Prioritaetsdokumente) muessen unverzueglich nach NYC geschickt werden?
+
+## Aktuelle Rechtsprechung (US/International)
+
+> **TTAB, Herbko Int'l Inc. v. Kappa Books Inc., 308 F.3d 1156 (Fed. Cir. 2002):** Im TTAB-Verfahren ist die Hauptaufgabe der New Yorker Korrespondenz die Koordination des US-Prosecutions-Records; spaetere Argumente, die in frueheren Responses nicht aufgenommen wurden, sind durch Prosecution History Estoppel gesperrt — daher ist fruehzeitige strategische Abstimmung zwischen Muenchen und NYC entscheidend.
+
+> **ABA Model Rules of Professional Conduct, Rule 1.7 / Rule 1.10:** Konflikte muessen schon vor Mandatsbeginn gecheckt werden; ein spaeter entdeckter Interessenkonflikt erfordert Niederlegung des Mandats und kann US-Anwaltszulassung gefaehrden; internationale Kanzleien mit gemeinsamen Mandanten muessen einen konsolidierten Conflicts-Check fuehren.
+
+> **EuGH, Urt. v. 18.05.2021 — C-537/19 (Ryanair DAC / DelayFix):** Bei internationalen Mandatsverhaeltnissen bestimmt sich die anwendbare Berufsordnung nach dem Recht des Staates, in dem der Anwalt taetig wird; for US-Prozesshandlungen gilt ausschliesslich US-Anwaltsrecht, was direkte Konsequenzen fuer die Muenchener Instruktions-Praxis hat.

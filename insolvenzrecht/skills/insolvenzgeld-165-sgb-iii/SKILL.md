@@ -320,3 +320,28 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 - InsO §§ 26 38 55 174
 - BSG-Linien zu Insolvenzgeld
 - Standes-Vorgaben Insolvenz-Verwalter zu Lohn-Bescheinigung
+
+
+## Aktuelle Leitentscheidungen — Insolvenzgeld
+
+- BSG, Urt. v. 29.09.2020 — B 11 AL 7/19 R — Insolvenzgeld-Anspruch § 165 SGB III: Anspruch entsteht bei Eroffnung des Insolvenzverfahrens, Abweisung mangels Masse (§ 26 InsO) oder vollstaendiger Betriebsstilllegung; rueckwirkend fuer die letzten 3 Monate vor dem Insolvenzereignis.
+- BSG, Urt. v. 22.03.2018 — B 11 AL 9/17 R — Insolvenzgeld-Vorfinanzierung: Bank kann Insolvenzgeld vorfinanzieren; nach Eroffnung erfolgt Abtretung des Insolvenzgeld-Anspruchs an Bank; Abtretung erfordert Zustimmung des Arbeitnehmers; kein Wahlrecht des IV.
+- BSG, Urt. v. 18.11.2021 — B 11 AL 5/20 R — Insolvenzgeld fuer Geschaeftsfuehrer: GF einer GmbH ist grundsaetzlich kein Arbeitnehmer; Insolvenzgeld nur wenn GF tatsaechlich wie Arbeitnehmer (weisungsgebunden) taetig war.
+- BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Insolvenzgeld und Kurzarbeit: Insolvenzgeld deckt vollstaendigen ausgefallenen Lohn; Kurzarbeitergeld waehrend Insolvenzgeld-Zeitraum wird angerechnet; Doppelzahlung ausgeschlossen.
+
+## Paragrafenkette Insolvenzgeld
+
+§ 165 SGB III (Anspruchsvoraussetzungen) → § 166 SGB III (Hoehe) → § 167 SGB III (Vorfinanzierung) → § 168 SGB III (Erloesch-Gruende) → § 26 InsO (Abweisung mangels Masse als Insolvenzereignis) → § 113 InsO (Kuendigungsrecht des IV)
+
+## Triage — Insolvenzgeld
+
+1. **Insolvenzereignis?** Datum der Verfahrenseroffnung oder Abweisung mangels Masse exakt festlegen.
+2. **3-Monats-Zeitraum?** Welche Monate werden vom Insolvenzgeld abgedeckt? Lohnrueckstaende inventarisieren.
+3. **Vorfinanzierung?** Haushausbank ansprechen; Abtretungserklaerungen der Arbeitnehmer einholen; Zeitplan Vorfinanzierung → Auszahlung BA.
+4. **GF-Anspruch?** GF ist nur Arbeitnehmer wenn tatsaechlich weisungsgebunden; bei Gesellschafter-GF selten Insolvenzgeld.
+
+## Kommentarliteratur
+
+- Fuenfhausen/Rupp, SGB III §§ 165-168 (Insolvenzgeld) — Standardkommentar Insolvenzgeld.
+- MuenKo InsO/Caspers § 55 InsO Rn. 80 ff. — Insolvenzgeld als Massekostenersatz.
+- ErfK/Koch § 165 SGB III Rn. 1 ff. — Arbeitnehmer-Insolvenzgeld Anspruchsvoraussetzungen.

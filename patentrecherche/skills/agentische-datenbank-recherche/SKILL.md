@@ -154,3 +154,19 @@ Die strukturierte Ergebnisliste geht an den passenden Folge-Skill:
 - `erfinderische-taetigkeit-pruefen` — für Problem-Solution-Approach
 - `freedom-to-operate-recherche` — für FTO-Bewertung
 - `recherchebericht-erstellen` — für formalen Output
+
+## Triage-Fragen vor agentischer Datenbankrecherche
+
+Bevor die Datenbankrecherche gestartet wird, klaere:
+1. Was ist das prioritaere Rechercheziel — Neuheitspruefung, FTO oder Stand-der-Technik?
+2. Sind alle relevanten Datenbanken zugaenglich (Espacenet, USPTO, Patentscope, J-PlatPat)?
+3. Wurden die Schluesselbegriffe und Klassifikationen (CPC/IPC) bereits identifiziert?
+4. Gibt es einen Anmeldetag — der bestimmt den massgeblichen Prioritaetszeitpunkt fuer die Neuheit?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Die Aufgabe-Loesung-Methode des EPA ist bei deutschen Gerichten anerkannt; der naechstliegende Stand der Technik wird durch eine amtliche oder private Recherche ermittelt und bestimmt, welche Loesungsschritte dem Fachmann naheliegend erschienen.
+
+> **BGH, Urt. v. 14.08.2012 — X ZR 3/10 (Rohrverzweigung):** Vorveröffentlichungen, die nach dem Prioritaetsdatum, aber vor dem Anmeldetag veroffentlicht wurden, koennen den Stand der Technik nach § 3 II PatG bilden (aeltere Anmeldungen); eine grindliche Recherche muss auch diese Kategorie abdecken.
+
+> **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.

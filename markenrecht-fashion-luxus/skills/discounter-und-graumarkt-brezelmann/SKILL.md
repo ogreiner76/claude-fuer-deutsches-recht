@@ -100,3 +100,19 @@ Klageanträge:
 - **Beweislast bei § 24 II:** Markeninhaber trägt Beweislast für berechtigte Gründe
 - **Internationale Erschöpfung ausgeschlossen:** EU-Recht kennt nur regionale (EWR-) Erschöpfung — Ware aus Japan/USA/CH ist ohne Weiteres nicht erschöpft
 - **Copad-Nachweis schwierig:** Zu beweisen, dass Händler gegen selektive Vertriebspflichten verstoßen hat, erfordert lückenlose Lieferketten-Dokumentation
+
+## Triage-Fragen bei Graumarkt-Verletzung
+
+Bevor rechtliche Schritte eingeleitet werden, klaere:
+1. Wurden die Waren erstmals im EWR durch den Rechteinhaber oder mit seiner Zustimmung in den Verkehr gebracht (§ 24 MarkenG / Art. 15 UMV — Erschoepfung)?
+2. Ist die Graumarktware unveraendert oder wurde sie umgepackt/neuetikettiert (§ 24 II MarkenG)?
+3. Liegt ein legitimes Interesse des Markeninhabers vor, das dem Erschoepfungseinwand entgegensteht?
+4. Stammen die Waren aus einem Parallel-Import aus Nicht-EWR-Laendern (kein Erschoepfungsschutz)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 11.11.1997 — C-349/95 (Loendersloot / Ballantine):** Ein Markeninhaber darf dem Umpacken von Originalware durch Parallelimporteure nur dann widersprechen, wenn der Widerspruch keine verschleierte Beschraenkung des Handels zwischen Mitgliedstaaten darstellt; das Umpacken muss die Originalqualitaet unveraendert lassen.
+
+> **BGH, Urt. v. 15.02.2007 — I ZR 63/04 (Parfuem-Flaeschchen):** Bei graumarktigen Parallelimporten tragt die Beklagte die Beweislast dafuer, dass die Waren erstmals durch den Rechteinhaber oder mit seiner Zustimmung im EWR in Verkehr gesetzt wurden; blosse Wahrscheinlichkeit genuegt nicht.
+
+> **EuGH, Urt. v. 04.11.1997 — C-337/95 (Parfums Christian Dior / Evora):** Ein Haendler, der Markenware legal erworben hat, darf die Marke in seiner Werbung in einer den Ruf der Marke nicht schadenden Weise benutzen; uebertriebene Diskontierung kann jedoch das exklusive Markenimage schmaelern.

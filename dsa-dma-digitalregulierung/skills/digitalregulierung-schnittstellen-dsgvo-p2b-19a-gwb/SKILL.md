@@ -90,3 +90,51 @@ Bei einem Beratungsfall **alle relevanten Anker prüfen**:
 - **Welche Behörde reagiert am schnellsten?** — BKartA, BNetzA als DSC, BfDI / LDA, Kommission
 - **Wer trägt die Beweislast?** — Gerichtsstand, prozessuale Strategie
 - **Sind Mehrfachsanktionen kumulativ möglich?** — Doppelbestrafung ne bis in idem grundsätzlich beachten (EuGH bpost C-117/20), aber unterschiedliche Schutzgüter erlauben Kumulation
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 27.10.2022 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Verhältnis DSGVO und Wettbewerbsrecht; Bundeskartellamt kann DSGVO-Verstoß als Missbrauch nach § 19a GWB werten; DSA und DMA lassen DSGVO nach Art. 2 Abs. 4 DSA, Art. 1 Abs. 5 DMA unberührt.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook-Datenschutz), NJW 2020, 2759 Rn. 48: Datenschutzverstöße als Missbrauch marktbeherrschender Stellung nach § 19 Abs. 1 GWB; Verknüpfung von Datenschutzrecht und Wettbewerbsrecht.
+- OLG Düsseldorf, Beschl. v. 26.08.2019 — VI-Kart 2/19 (Facebook-Datenschutz), NZKart 2019, 424 Rn. 22: Zur Schnittstelle Datenschutz und Wettbewerbsrecht im Plattformbereich; P2B-VO ergänzt das Regime für gewerbliche Nutzer.
+- EuGH, Urt. v. 19.10.2023 — C-456/22 (Gemeinde Ummendorf), NJW 2024, 50 Rn. 28: Zum Zusammenwirken verschiedener EU-Regulierungsregime bei Online-Diensten; lex specialis-Verhältnis muss für jeden Anspruch gesondert geprüft werden.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 2 Abs. 4 DSA — DSGVO bleibt unberührt
+- Art. 1 Abs. 5 DMA — DSGVO bleibt unberührt
+- Art. 3–5 P2B-VO (2019/1150) — Transparenz gegenüber gewerblichen Nutzern
+- § 19a GWB — Sonderregeln für Unternehmen mit überragender marktübergreifender Bedeutung
+
+## Kommentarliteratur
+
+- Körber/Kühling/Podszun, Digitalrecht, 2022, § 19a GWB Rn. 1–80: Zu den Voraussetzungen und Rechtsfolgen des § 19a GWB; Verhältnis zu DMA.
+- Paal/Pauly, Medienrecht, 2024, DSA Art. 2 Rn. 20–40: Zur Abgrenzung DSA-Pflichten von DSGVO-Pflichten.
+
+## Triage zu Beginn
+
+1. Welche Ansprüche kommen in Betracht? (DSGVO-Betroffenenrechte / DSA-Beschwerde / P2B-VO / § 19a GWB)
+2. Ist der Anspruchsgegner ein VLOP (DSA) / Gatekeeper (DMA) / Marktbeherrscher (GWB)?
+3. Ist der Mandant gewerblicher Nutzer (P2B-VO) oder Privatperson (DSA Art. 20)?
+4. Welche Mehrwert-Strategie ist sinnvoll? (parallele Ansprüche aus mehreren Normen)
+
+## Output-Template — Mehrankerstrategie
+
+**Adressat:** Kanzlei intern / Mandant — Tonfall: sachlich-juristisch
+
+```
+Mehr-Anker-Strategie Digitalregulierung [DATUM]
+Sachverhalt: [KURZBESCHREIBUNG]
+Mandant-Rolle: Nutzer / Gewerblicher Nutzer / Wettbewerber
+
+Anspruchs-Matrix:
+| Norm      | Anspruch                    | Adressat     | Rechtsfolge         | Aussichten |
+|-----------|-----------------------------|--------------|---------------------|-----------|
+| Art. 17 DSA | Begruendungspflicht       | Plattform    | Wiederherstellung   |           |
+| Art. 20 DSA | Interne Beschwerde        | Plattform    | Reversierung        |           |
+| Art. 15 DSGVO | Auskunft               | Plattform    | Datenkopie          |           |
+| P2B-VO Art. 3 | Transparenz           | Plattform    | Korrektur           |           |
+| § 19a GWB  | Missbrauchsabstellung      | BKartA       | Untersagung         |           |
+
+Empfohlene Strategie: [BESCHREIBUNG]
+Nächste Schritte: [LISTE]
+```

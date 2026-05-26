@@ -144,3 +144,48 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 - `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Vorgelagerte DSFA-Pflichtprüfung
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — TIA als Bestandteil der DSFA bei Drittlandbezug
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` — Vorab-Konsultation Art. 36 DSGVO nach negativer DSFA
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Für Art. 82 DSGVO-Schadensersatz ist konkreter Schaden erforderlich; eine unzureichende DSFA (oder fehlende DSFA) begründet jedoch einen eigenständigen Verstoß nach Art. 83 Abs. 4 DSGVO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55–79: Risikobewertung muss tatsächlich und konkret sein; pauschalierte DSFA ohne Einzelfallbewertung genügt Art. 35 DSGVO nicht; EDSA-Leitlinien 09/2022 sind verbindliche Auslegungshilfe.
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Bei Verarbeitungen mit hohem Risiko (die DSFA-Pflicht auslösen) sind entsprechend hohe Anforderungen an die TOMs nach Art. 32 DSGVO zu stellen; fehlende oder mangelhafte DSFA erhöht Haftungsrisiko.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: Zur DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus.
+
+## Triage zu Beginn
+
+1. Liegt bereits ein Ergebnis aus `anwendungsfall-triage` vor (DSFA PFLICHT)?
+2. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
+3. Ist die Verarbeitung auf der BfDI-Blacklist?
+4. Gibt es ein Hausformat in CLAUDE.md?
+
+## Output-Template — DSFA-Zusammenfassung
+
+**Adressat:** DSB / Geschäftsführung / Aufsichtsbehörde — Tonfall: sachlich-juristisch
+
+```
+DSFA-Zusammenfassung [DATUM]
+Verarbeitungsvorgang: [BEZEICHNUNG]
+Verantwortlicher: [NAME]
+
+Schwellwertanalyse: DSFA erforderlich: JA / NEIN
+EDSA-Kriterien erfüllt: [X] von 9 ([LISTE])
+BfDI-Blacklist: ja / nein
+
+Rechtsgrundlage: Art. [X] DSGVO [§ BDSG]
+Datenkategorien: [LISTE]
+Betroffene: [GRUPPEN]
+
+Risikobewertung (Vor Massnahmen):
+- Wahrscheinlichkeit: hoch / mittel / gering
+- Schwere: hoch / mittel / gering
+- Gesamtrisiko: HOCH / MITTEL / GERING
+
+Vorgesehene Massnahmen: [LISTE]
+
+Restrisiko (Nach Massnahmen): AKZEPTABEL / NICHT AKZEPTABEL
+
+Entscheidung: Freigabe / Vorab-Konsultation Art. 36 DSGVO erforderlich
+Genehmigende Person: [NAME, FUNKTION]
+Datum: [DATUM]
+```

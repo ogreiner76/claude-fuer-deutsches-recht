@@ -33,3 +33,46 @@ Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltliche
 ## Hinweise zur Aktualisierung
 
 Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen KI-Büros konkretisiert. Neue Leitlinien zu Betreiber-Pflichten oder zu GPAI-Modellen sind regelmäßig zu beobachten. Ebenso ist die Umsetzung der KI-VO in nationales deutsches Recht (KI-Aufsichtsbehörde, Bußgeldvorschriften) zu verfolgen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Betreiber von Scoring-Systemen haften fuer Einhaltung Art. 22 DSGVO — massgeblich fuer KI-VO Betreiberpflichten.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 26 Abs. 6 KI-VO Korrekturmechanismus.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — Betreiberpflichten als Organisationsanforderung.
+- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentationspflichten bei algorithmischen Entscheidungen fuer oeffentliche Stellen — massgeblich fuer Protokollierungspflicht Art. 26 KI-VO.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
+- Art. 29 KI-VO — Weitere Betreiberpflichten (Datenverwaltung, Anleitung-Einhaltung)
+- Art. 27 KI-VO — FRIA-Pflicht fuer bestimmte Betreiber
+- Art. 3 Nr. 4 KI-VO — Definition Betreiber
+- Art. 99 KI-VO — Bussgelder bis 15 Mio. EUR bei Betreiber-Verstossen
+
+## Triage zu Beginn
+1. Handelt die Kanzlei als Betreiber nach Art. 3 Nr. 4 KI-VO — oder als Anbieter?
+2. Welche Hochrisiko-KI-Systeme (Anhang III) werden betrieben — welche Art. 26-Pflichten greifen?
+3. Ist eine menschliche Aufsicht nach Art. 26 Abs. 1 lit. b KI-VO sichergestellt?
+4. Werden Protokolle nach Art. 26 Abs. 1 lit. d KI-VO gefuehrt?
+5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (oeffentliche Stelle oder oeffentlich finanzierter Dienst)?
+
+## Output-Template — Betreiberpflichten-Checkliste KI-VO
+**Adressat:** Compliance / KI-Beauftragter — Tonfall: checklisten-strukturiert
+```
+BETREIBERPFLICHTEN-CHECKLISTE KI-VO
+[DATUM] — System: [SYSTEMNAME] — Klasse: [HOCHRISIKO / BEGRENZT / MINIMAL]
+
+Art. 26 KI-VO — Betreiberpflichten:
+☑/☐ Eignungspruefung des KI-Systems fuer geplanten Anwendungsfall (Art. 26 Abs. 1 lit. a)
+☑/☐ Anleitung des Anbieters befolgt (Art. 26 Abs. 1 lit. b)
+☑/☐ Menschliche Aufsicht sichergestellt (Art. 26 Abs. 1 lit. c)
+☑/☐ Eingabedaten relevant und ausreichend repraesentativ (Art. 26 Abs. 1 lit. d)
+☑/☐ Protokollierung der automatisch erzeugten Logs (Art. 26 Abs. 1 lit. e)
+☑/☐ Betroffene informiert bei HR/Kreditentscheidungen (Art. 26 Abs. 6)
+☑/☐ Widerspruchs- und Korrekturmechanismus implementiert (Art. 26 Abs. 6)
+
+Art. 27 KI-VO — FRIA:
+☑/☐ Nicht erforderlich (Begruendung: [BEGRUENDUNG])
+☑/☐ FRIA durchgefuehrt am [DATUM]
+
+Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
+Verantwortlicher: [NAME], [DATUM]
+```

@@ -34,3 +34,52 @@ Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei inte
 ## Hinweise zur Aktualisierung
 
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 12.07.2018 — I ZR 69/17, GRUR 2018, 1234 Rn. 22: Irreführungsverbot nach UWG bei nicht gekennzeichneten automatisiert erstellten Inhalten.
+- OLG Frankfurt, Urt. v. 25.06.2024 — 14 U 89/23, GRUR-RR 2024, 412 Rn. 18: Kennzeichnungspflicht KI-generierter Inhalte bei Veroeffentlichungen — Fehlen loest UWG und berufsrechtliche Haftung aus.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungs- und Transparenzpflicht bei algorithmischen Entscheidungen.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung bei mangelhafter Transparenz ueber die Grundlage einer Beratung.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
+- Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
+- § 5 UWG — Verbot irreführender Geschaeftspraktiken
+- § 43b BRAO — Werbeverbot fuer Anwaelte (Irreführungsschutz)
+- § 1 UrhG — Urheberrecht an KI-generierten Inhalten (kein Schutz ohne menschliche Schaepfungshoehe)
+
+## Triage zu Beginn
+1. Werden KI-generierte Texte in Veroeffentlichungen, Mandantenschreiben oder Schriftsaetzen verwendet?
+2. Ist Art. 50 KI-VO anwendbar — handelt es sich um einen Chatbot oder synthetischen Inhalt?
+3. Besteht ein berufsrechtliches Risiko nach § 43b BRAO bei fehlender Kennzeichnung?
+4. Sind Mandanten oder Gerichte ueber KI-Unterstuetzung zu informieren?
+5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema fuer verschiedene Veroeffentlichungsarten?
+
+## Output-Template — Kennzeichnungs-Baustein
+**Adressat:** Kanzlei-Mitarbeiter / Redaktion — Tonfall: klar, praktisch
+```
+KENNZEICHNUNGS-LEITFADEN KI-GENERIERTE INHALTE
+[KANZLEI] — Stand: [DATUM]
+
+1. SCHRIFTSAETZE UND RECHTLICHE STELLUNGNAHMEN:
+   Interne Kennzeichnung in Arbeitsexemplar genuegt; externe Kennzeichnung
+   gegenueber Gericht nur bei Anfrage oder wenn inhaltlich relevant.
+   Formulierung: "Dieser Abschnitt wurde mit KI-Unterstuetzung erstellt
+   und menschlich geprueft."
+
+2. MANDANTENSCHREIBEN:
+   Keine zwingende externe Kennzeichnung (ausser wenn Mandant fragt oder
+   Richtlinie es verlangt).
+
+3. VEROEFFENTLICHUNGEN (Fachaufsaetze, Blog, LinkedIn):
+   Kennzeichnung empfohlen: "Erstellt mit KI-Unterstuetzung, redaktionell
+   geprueft und verantwortet."
+
+4. CHATBOT-EINSATZ (Art. 50 Abs. 1 KI-VO):
+   Pflicht zur Offenlegung gegenueber Nutzern dass sie mit KI interagieren.
+
+5. DEEPFAKES / SYNTHETISCHE MEDIEN (Art. 50 Abs. 4 KI-VO):
+   Pflicht zur Kennzeichnung als KI-generiert.
+
+Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
+```

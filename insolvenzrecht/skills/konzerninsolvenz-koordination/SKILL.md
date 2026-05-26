@@ -341,3 +341,17 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 - Skauradszun Konzerninsolvenzrecht
 - Frind Konzerninsolvenz
 - Uhlenbruck InsO
+
+
+## Weitere Leitentscheidungen — Konzerninsolvenz
+
+- BGH, Urt. v. 13.12.2018 — IX ZR 41/18, NZI 2019, 193 — Konzernhaftung in Insolvenz: "Bremer Vulkan" Fortfuehrung: konzerninterne Verrechnungen sind Anfechtung ausgesetzt wenn Toechter dadurch benachteiligt; Kapitalerhaltung § 30 GmbHG auch im Konzern.
+- BGH, Urt. v. 01.12.2008 — II ZR 102/07, NZI 2009, 132 — Haftung Muttergesellschaft: kein allg. Konzernhaftungsdurchgriff; nur bei Vermischung Vermoegen oder vorsaetzlicher Schaedigung.
+- EuGH, Urt. v. 04.09.2014 — C-327/13 (Burgo Group) — EuInsVO COMI: COMI der Tochtergesellschaft im Mitgliedstaat des Sitzes der Muttergesellschaft nur wenn Verwaltung tatsaechlich dort stattfindet und dies fuer Dritte erkennbar.
+- BGH, Urt. v. 18.07.2013 — IX ZR 219/11 — Konzernverrechnungsvertrag und Anfechtung: Cash-Pool-Abzuege aus Konzernkonto als anfechtbare Rechtshandlungen wenn ZU der Tochter bekannt.
+
+## Kommentarliteratur
+
+- MuenKo InsO/Ganter Vorbemerkung zu §§ 1-3 InsO Rn. 50 ff. — Konzerninsolvenz und Koordinierung.
+- Uhlenbruck/Sinz § 56a InsO Rn. 1 ff. — Koordinationsverwalter.
+- EuInsVO Art. 60-77 — Konzernkoordinationsverfahren.

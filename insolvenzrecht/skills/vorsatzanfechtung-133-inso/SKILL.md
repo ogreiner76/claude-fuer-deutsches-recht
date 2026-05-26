@@ -337,3 +337,47 @@ Schuldner zahlt sofort bei Lieferung.
 - IDW S 6
 - Uhlenbruck/Hirte InsO
 - MüKo InsO
+
+
+## Output-Template Anfechtungsschreiben § 133 InsO
+
+**Adressat:** Anfechtungsgegner — Tonfall: scharf-fristsetzend
+
+```
+[KANZLEI]    [DATUM]
+
+Insolvenzverfahren [FIRMA]
+Amtsgericht [ORT], Az. [XX IN YY/ZZ]
+
+Insolvenzanfechtung nach § 133 Abs. 1 InsO
+
+Sehr geehrte Damen und Herren,
+
+ich bin als Insolvenzverwalter im obengenannten Verfahren bestellt.
+
+Hiermit fechte ich folgende Zahlungen nach § 133 Abs. 1 InsO an:
+
+Datum          Betrag          Verwendungszweck
+[DATUM]        EUR [BETRAG]    [ZWECK]
+[...]
+
+Begruendung Benachteiligungsvorsatz:
+Die Schuldnerin war zum Zeitpunkt der Zahlungen zahlungsunfaehig. Dies ergibt sich aus:
+[Konkrete Bedrohungslage: Ratenzahlungsangebote, Mahnungen, Vollstreckungen, Zahlungseinstellungen]
+
+Begruendung Kenntnis des Anfechtungsgegners:
+[Indizien: Stundungsanfragen, Mahnstufen, Kenntnis ZU-Anzeichen]
+
+Ich fordere Sie auf, den Gesamtbetrag von EUR [BETRAG] zzgl. Zinsen
+(§ 143 Abs. 1 i.V.m. § 819 BGB) bis zum [DATUM, 14 Tage] auf das
+Massekonto [IBAN] zurueckzuueberweisen.
+
+Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
+
+[UNTERSCHRIFT INSOLVENZVERWALTER]
+```
+
+## Kommentarliteratur (Ergaenzung)
+
+- Jaeger/Henckel § 133 InsO Rn. 1 ff. — Vorsatzanfechtung Detailkommentierung.
+- MuenKo InsO/Kirchhof § 133 InsO Rn. 1 ff. — Reform SanInsFoG und neue Anforderungen.

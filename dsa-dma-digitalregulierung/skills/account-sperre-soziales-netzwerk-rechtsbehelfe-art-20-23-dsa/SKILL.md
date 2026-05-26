@@ -88,3 +88,55 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 ## Schnittstelle Strafrecht
 
 Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfüllt (§§ 185 ff., 86, 86a, 130 StGB, § 33 BDSG). Anwaltsstrategie: Sperre angreifen, ohne dem Mandanten neuen Strafvorwurf zu generieren.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 29.07.2021 — III ZR 179/20, NJW 2021, 3179 Rn. 38–55: Soziale Netzwerke sind an Grundrechte (mittelbar) gebunden; Account-Sperrungen ohne hinreichende Begründung verstoßen gegen das Gebot fairer Vertragsabwicklung (§ 241 Abs. 2 BGB); Betroffene haben Anspruch auf Anhörung vor Sperrung.
+- BGH, Urt. v. 29.07.2021 — III ZR 192/20, NJW 2021, 3185 Rn. 28: Inhaltsbasierte Sperrungen durch soziale Netzwerke unterliegen AGB-Inhaltskontrolle nach § 307 BGB; unangemessen benachteiligende AGB-Klauseln sind unwirksam.
+- OLG München, Urt. v. 18.02.2020 — 18 U 3465/19 Pre, NJW 2020, 1441 Rn. 22: Vorläufiger Rechtsschutz bei Account-Sperre; Verfügungsanspruch aus § 241 Abs. 2 BGB iVm Grundrechtsbindung sozialer Netzwerke; Irreparabilität des Schadens bei Kommunikationssperrung begründet Verfügungsgrund.
+- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige/Polismyndigheten), NJW 2023, 2800 Rn. 42: Zur Verhältnismäßigkeit von Inhaltssperrungen; Art. 11 GRCh (Meinungsfreiheit) muss bei Sperrungen gegen illegale Inhalte berücksichtigt werden.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 17, 20, 21, 23 DSA (VO 2022/2065) — Begründungspflicht, internes Beschwerdesystem, außergerichtliche Streitbeilegung, Transparenzberichte
+- §§ 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten
+- §§ 935, 940 ZPO — Einstweilige Verfügung
+- Art. 11 GRCh — Meinungsfreiheit
+
+## Kommentarliteratur
+
+- Spindler/Schmitz, TMG, 2. Aufl. 2018 (demnächst DSA-Kommentar): Zur AGB-Kontrolle bei sozialen Netzwerken und den Anforderungen des DSA-Beschwerdeverfahrens.
+- MüKo BGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 1–80: Zur Inhaltskontrolle von Nutzungsbedingungen sozialer Netzwerke.
+
+## Triage zu Beginn
+
+1. Art der Maßnahme: Account-Sperrung / Inhaltsdeaktivierung / Einschränkung?
+2. Plattform VLOP/VLOSE (Art. 33 DSA) → erweiterte Pflichten Art. 20, 21, 22 DSA?
+3. Begründung durch Plattform erhalten (Art. 17 DSA)?
+4. Frist für internes Beschwerdeverfahren noch offen (Art. 20 DSA: 6 Monate ab Maßnahme)?
+
+## Output-Template — Account-Sperre-Mandat
+
+**Adressat:** Gericht / Plattform — Tonfall: sachlich-juristisch
+
+```
+Verfügungsantrag / Klage wegen Account-Sperre [DATUM]
+Antragsteller/Klaeger: [NAME MANDANT, ANSCHRIFT]
+Antragsgegnerin/Beklagte: [PLATTFORM, EU-VERTRETER]
+Az.: [AKTENZEICHEN]
+
+Sachverhalt:
+[KURZBESCHREIBUNG SPERRE, DATUM, BEGRUENDUNG PLATTFORM]
+
+DSA-Beschwerdeverfahren:
+Interne Beschwerde eingereicht am: [DATUM] / nicht moeglich
+Ergebnis: [BESCHREIBUNG] / ausstehend
+
+Rechtliche Wuerdigung:
+1. AGB-Kontrolle § 307 BGB: [ARGUMENT]
+2. Begründungspflicht Art. 17 DSA: [ARGUMENT]
+3. Verhältnismäßigkeit / Art. 11 GRCh: [ARGUMENT]
+
+Antrag: Wiederherstellung des Accounts / Inhalts unverzüglich
+Streitwert: [BETRAG EUR]
+```

@@ -132,3 +132,19 @@ Nach Brexit mussten UK-Schutze neu beantragt werden (UKIPO). Subsequent Designat
 - **SOU US-Nachweis:** Section 66(a)-Designation verfällt ohne SOU; klôtzzkètté Inc. muss US-Benutzung sicherstellen
 - **JP/CN-Übersetzung:** Waren-/Dienstleistungsbeschreibung wird von JPTO/CNIPA auf Plausibilität in Landessprache geprüft; Whitman Brennan mit JP/CN-Korrespondenz beauftragen
 - **UK post-Brexit:** Übergangsfrist für UK-Schutz aus Madrid-IRs ist abgelaufen — fehlender UK-Schutz muss via Subsequent Designation oder direkte UKIPO-Anmeldung nachgeholt werden
+
+## Triage-Fragen vor Madrid-IR-Anmeldung
+
+Bevor die internationale Registrierung beantragt wird, klaere:
+1. Ist die Basismarke eingetragen (nicht nur angemeldet) und unangreifbar fuer die naechsten 5 Jahre (Central Attack Period)?
+2. Sind die Ziellaender alle Madrid-Protokoll-Mitglieder (WIPO-Liste pruefen)?
+3. Ist das Warenverzeichnis der Basismarke mit den Ziellaendern kompatibel (insb. USA: SOU-Erfordernis)?
+4. Gibt es eine Section 66(a)-Designation fuer die USA — und ist US-Gebrauch belegt oder geplant?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 23.10.2014 — I ZR 133/13 (Combit / Commit):** Bei internationalen Markenregistrierungen richtet sich die Verwechslungsgefahr in Deutschland nach dem inlaendischen Klang- und Schriftbildvergleich; die Abkuerzung eines englischen Begriffs, der im Deutschen anders ausgesprochen wird, kann dennoch Verwechslungsgefahr ausloesen.
+
+> **EuGH, Urt. v. 19.12.2019 — C-241/18 (RSD / R.S.D.):** Die Benutzungspflicht einer IR-Marke nach Art. 58 I lit. a UMV richtet sich nach den gleichen Maßstaeben wie bei EUTM-Direktanmeldungen; blosse Vorbereitungshandlungen genuegen nicht als Benutzungsnachweis.
+
+> **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemaess Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.

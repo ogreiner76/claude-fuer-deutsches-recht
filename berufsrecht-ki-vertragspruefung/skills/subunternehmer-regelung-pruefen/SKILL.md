@@ -87,3 +87,56 @@ Der häufige Aufbau "Frontend-Anbieter — Azure-Mietservice für OpenAI-Modelle
 ## Output
 
 Tabellarische Bewertung. Lücken fließen in den Rückfragebrief ein (etwa: "Bitte legen Sie die aktuelle, abschließende Subunternehmerliste mit Sitz und Funktion vor").
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 14.01.2020 — II ZR 5/18, NJW 2020, 1233 Rn. 38: Zur Übertragung von Pflichten auf Subunternehmer; der Hauptauftragnehmer bleibt gegenüber dem Auftraggeber für die Erfüllung verantwortlich, soweit er Dritte einschaltet.
+- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Berufshelfer nach § 53a StPO können auch Subunternehmer des Dienstleisters sein — die Kette der Verschwiegenheitsverpflichtung muss bis zum letzten Glied reichen.
+- EuGH, Urt. v. 12.06.2014 — C-293/12 (Digital Rights Ireland), NJW 2014, 2169 Rn. 43: Zur Verhältnismäßigkeit der Datenweitergabe an Dritte; je mehr Dritte Zugriff haben, desto höher das Risiko für Geheimnisschutz.
+- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 25: Zur Pflicht des Dienstleisters, über den Einsatz von Subunternehmern aufzuklären; Verstöße gegen Informationspflichten können Schadensersatz begründen.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 43e Abs. 3 Nr. 3 BRAO, 62a Abs. 3 Nr. 3 StBerG, 50a Abs. 3 Nr. 3 WPO, 39c Abs. 3 Nr. 3 PAO, 26a Abs. 3 Nr. 3 BNotO — Subunternehmer-Weiterverpflichtung
+- Art. 28 Abs. 4 DSGVO — Unterauftragnehmer in der AVV
+- § 203 Abs. 4 Satz 2 Nr. 1 StGB — Sekundärpflicht des Dienstleisters
+
+## Kommentarliteratur
+
+- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 35–50: Zu den Anforderungen an die Subunternehmer-Klausel; Weiterverpflichtung in Textform; Zustimmungsvorbehalt der Kanzlei.
+- Hartung, in: Kühling/Buchner DSGVO/BDSG, 4. Aufl. 2024, Art. 28 DSGVO Rn. 80–100: Zur Unterauftragnehmer-Kette nach Art. 28 Abs. 4 DSGVO; Parallelität zur berufsrechtlichen Subunternehmer-Regelung.
+
+## Triage zu Beginn
+
+1. Enthält der Vertrag eine Liste aller aktuellen Subunternehmer?
+2. Ist ein Zustimmungsvorbehalt oder Widerspruchsrecht der Kanzlei geregelt?
+3. Verpflichtet der Vertrag den Dienstleister, Subunternehmer in Textform auf §§ 203/204 StGB zu belehren?
+4. Sind Modellanbieter (z.B. OpenAI als API-Lieferant) und Hoster als separate Subunternehmer benannt?
+
+## Output-Template — Subunternehmer-Prüfvermerk
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-juristisch
+
+```
+Subunternehmer-Prüfvermerk [DATUM]
+Anbieter: [NAME] | Vertrag: [DOKUMENT, VERSION]
+
+Prüfpunkt 1: Subunternehmerliste
+Vorhanden (als Anlage): ja / nein
+Subunternehmer:
+- [NAME], [SITZ], [FUNKTION], [VERARBEITUNGSSTANDORT]
+- [NAME], [SITZ], [FUNKTION], [VERARBEITUNGSSTANDORT]
+
+Prüfpunkt 2: Zustimmungsvorbehalt / Widerspruchsrecht
+Zustimmungsvorbehalt geregelt: ja / nein
+Widerspruchsrecht geregelt: ja / nein
+Frist: [X TAGE]
+
+Prüfpunkt 3: Weiterverpflichtung Subunternehmer
+In Textform: ja / nein
+Belehrung §§ 203/204 StGB: ja / nein
+
+Ergebnis
+Ampel Subunternehmer-Regelung: GRUEN / GELB / ROT
+Luecken: [BESCHREIBUNG]
+```

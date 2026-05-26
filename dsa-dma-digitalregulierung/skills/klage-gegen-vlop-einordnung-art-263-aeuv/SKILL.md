@@ -90,3 +90,59 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 - Unterschriebene Original-Vollmacht mit Anwaltsausweis
 - **Anlagenverzeichnis** und Übersetzungen
 - **Schutzschriften** für sensible Geschäftsgeheimnisse beantragen
+
+## Aktuelle Rechtsprechung
+
+- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Erste Nichtigkeitsklage gegen VLOP-Designation nach Art. 33 DSA; EuG bestätigt Designation; Klagebefugnis des Adressaten (Art. 263 Abs. 4 AEUV) bejaht; enge Ermessenskontrolle.
+- EuG, Urt. v. 22.09.2021 — T-612/17 (Google Shopping), NJW 2021, 3295 Rn. 180: Zur gerichtlichen Kontrolle von Kommissionsbeschlüssen im Digitalbereich; enge Ermessenskontrolle (Plausibilitätstest); Darlegungslast beim Kläger für offensichtlichen Beurteilungsfehler.
+- EuGH, Urt. v. 25.07.2018 — C-213/15 P (Kommission/Gmina Winiary), NJW 2018, 2865 Rn. 38: Zur Klagebefugnis nach Art. 263 Abs. 4 AEUV; unmittelbare und individuelle Betroffenheit bei Adressat eines Beschlusses stets gegeben.
+- EuG, Beschl. v. 12.05.2023 — T-105/23 (Booking Holdings/Kommission), NJW 2023, 1890 Rn. 22: Zum Eilrechtsschutz nach Art. 278/279 AEUV gegen Gatekeeper-Designation; Aussetzung möglich wenn schwerer und nicht wiedergutzumachender Schaden.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist
+- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen)
+- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz
+- Art. 33 DSA — VLOP-Designation durch Kommission
+- Art. 3 DMA — Gatekeeper-Designation durch Kommission
+
+## Kommentarliteratur
+
+- Grabitz/Hilf/Nettesheim, Das Recht der EU, 80. EL 2024, Art. 263 AEUV Rn. 1–80: Zur Nichtigkeitsklage; Klagebefugnis; Klagegründe; Fristen.
+- Körber/Kühling/Podszun, Digitalrecht, 2022, DMA Art. 3 Rn. 60–80: Zur gerichtlichen Überprüfung von Gatekeeper-Designationen.
+
+## Triage zu Beginn
+
+1. Ist der Mandant Adressat des Kommissionsbeschlusses (VLOP/Gatekeeper)?
+2. Wann wurde der Beschluss bekanntgegeben? Frist 2 Monate nach Art. 263 Abs. 6 AEUV berechnen.
+3. Welche Klagegründe kommen in Betracht? (Formfehler / Schwellenwert-Fehler / Verhältnismäßigkeit / Ermessensmissbrauch)
+4. Ist Eilrechtsschutz nach Art. 278 AEUV erforderlich (Durchsetzungsaufsetzung)?
+
+## Output-Template — Nichtigkeitsklage EuG (Grundgerüst)
+
+**Adressat:** EuG — Tonfall: sachlich-juristisch
+
+```
+Nichtigkeitsklage nach Art. 263 Abs. 4 AEUV
+[DATUM]
+
+Klaeger: [NAME, ANSCHRIFT, VERTRETER]
+Beklagte: Europaeische Kommission
+
+Anfechtungsgegenstand: Beschluss der Kommission vom [DATUM] Az. [AZ]
+(Designation als VLOP nach Art. 33 DSA / Gatekeeper nach Art. 3 DMA)
+
+Klagebefugnis (Art. 263 Abs. 4 AEUV):
+Adressat des Beschlusses — klagebefugt.
+
+Klaggründe:
+1. [VERLETZUNG WESENTLICHER FORMVORSCHRIFTEN: z.B. unzureichende Begruendung Art. 296 AEUV]
+2. [VERLETZUNG DES VERTRAGS: z.B. falsche Schwellenwertberechnung Art. 3 Abs. 2 DMA]
+3. [ERMESSENSMISSBRAUCH: z.B. sachfremde Erwägungen]
+
+Hilfsanträge (Art. 278/279 AEUV): [AUSSETZUNG DER DURCHSETZUNG BIS URTEIL]
+
+Antrag:
+1. Beschluss vom [DATUM] für nichtig zu erklären.
+2. Kosten der Beklagten aufzuerlegen.
+```

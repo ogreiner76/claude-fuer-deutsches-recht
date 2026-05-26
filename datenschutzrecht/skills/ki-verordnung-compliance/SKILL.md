@@ -268,3 +268,46 @@ Verbote (Auswahl):
 - EDSA Empfehlungen zu KI und Datenschutz
 - EU-Kommission KI-Leitlinien
 - Lambrecht/Stürner KI-Verordnung
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring (Bonität, Kreditwürdigkeit) durch eine Auskunftei kann eine automatisierte Entscheidung im Sinne von Art. 22 DSGVO darstellen, wenn der Kredit-Score der bestimmende Faktor für die Entscheidung des Dritten (Bank) ist; DSGVO-Compliance muss auch für KI-Scoring-Systeme geprüft werden; Schnittstelle AI Act.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verarbeitungen, die auf der SCHUFA-Entscheidungslinie liegen (automatisiert, schwerwiegende Folgen), erfordern auch AI Act-Risikoklassifikation nach Anhang III (Hochrisiko: Kreditbewilligung Nr. 5 lit. b).
+- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Zur DSGVO-Haftung bei KI-gestützten Verarbeitungen; mangelhafte Risikoabschätzung bei KI-Systemen erhöht Haftungsrisiko nach Art. 82 DSGVO.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht nach Art. 35 DSGVO für KI-Entscheidungssysteme; neue KI-Technologien lösen nach EDSA-Leitlinien regelmäßig DSFA-Pflicht aus; parallel dazu FRIA nach Art. 27 KI-VO.
+
+## Triage zu Beginn
+
+1. Ist das System ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO?
+2. Welche Risikoklasse liegt vor? (Verboten Art. 5 / Hochrisiko Art. 6 iVm Anhang III / Begrenzt Art. 50 / Minimal)
+3. Wer ist der Mandant: Anbieter / Betreiber / Importeur / Händler?
+4. Geltungsbereich: Übergangsfrist beachten (Verbotene Praktiken ab 02.02.2025; Hochrisiko ab 02.08.2026)?
+
+## Output-Template — KI-VO-Compliance-Check
+
+**Adressat:** Compliance-Abteilung / Management — Tonfall: sachlich-juristisch
+
+```
+KI-VO Compliance-Check [DATUM]
+System: [SYSTEMNAME]
+Mandant-Rolle: Anbieter / Betreiber / Importeur / Haendler
+
+Einstufung:
+Ist KI-System (Art. 3 Nr. 1 KI-VO): ja / nein
+Risikoklasse: Verboten / Hochrisiko / Begrenzt / Minimal
+Rechtsgrundlage: Art. [X] KI-VO [Anhang I/III/...Nr. X]
+
+Anwendbarer Zeitplan:
+Erste Pflichten ab: [DATUM]
+
+Kernpflichten:
+| Pflicht                        | Norm        | Status     |
+|-------------------------------|-------------|------------|
+| Konformitaetsbewertung        | Art. 43 ff. |            |
+| Technische Dokumentation      | Art. 11     |            |
+| Menschliche Aufsicht          | Art. 14     |            |
+| Transparenz gegenueber Nutzern| Art. 13/50  |            |
+| DSGVO/DSFA (Schnittstelle)    | Art. 35 DSGVO|           |
+
+Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
+```

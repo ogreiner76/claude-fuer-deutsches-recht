@@ -202,3 +202,12 @@ Unterschrift Geschäftsführer
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierungspflichten
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Dreiwochen-Frist
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftung
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

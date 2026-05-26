@@ -244,3 +244,19 @@ erstatten. Andernfalls werden wir Klage erheben.
 ## Quellen
 
 UrhG §§ 2, 7, 16–17, 19a, 31, 51–59, 69a, 72, 97, 97a, 101, 102. UWG § 8c. BGB § 242. ZPO §§ 256, 945a. BGH I ZR 75/14 (Tauschbörse III). BGH GRUR 2010, 911 (Vorschaubilder). BGH I ZR 187/12 (Lizenzbetrag Foto). BGH I ZR 73/17 (Verletzeraufschlag). OLG München 29 U 2911/19 (Massenabmahnung). LG Berlin 15 O 472/21 (§ 97a Abs. 3 UrhG). Dreier/Schulze UrhG, aktuelle Auflage. Wandtke/Bullinger UrhG. Stand: 05/2026.
+
+## Triage-Fragen bei Urheberrechts-Abmahnungs-Mandat
+
+Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
+1. Ist die Verletzungshandlung konkret beschrieben (§ 97a I 2 UrhG — Pflichtinhalt der Abmahnung)?
+2. Handelt es sich um eine Privatperson als Verletzer — greift die Kostendeckelung § 97a III UrhG (EUR 1.000)?
+3. Besteht ein Erlaubnissachverhalt (Zitat § 51 UrhG, Parodie § 24 UrhG, Gemeinfreiheit)?
+4. Liegt Massenabmahnung vor (§ 8c UWG analog — Missbrauchseinwand)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.05.2016 — I ZR 1/15 (Tauschboerse III):** Die sekundaere Darlegungslast des Anschlussinhabers bei Filesharing erfordert, dass er konkret vortraegt, welche anderen Personen Zugang zum Anschluss hatten und wer als Taeter in Betracht kommt; pauschales Bestreiten genuegt nicht; der Inhaber haftet ansonsten als Taeter.
+
+> **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Die EUR 1.000-Kostendeckelung des § 97a III UrhG gilt nur fuer erstmalige Abmahnungen von Privatpersonen bei einfachen Verletzungshandlungen; bei Wiederholungsverletzer oder gewerblichem Handeln entfaellt die Deckelung, und der Streitwert kann auf EUR 10.000 und mehr angehoben werden.
+
+> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Wer als Abmahnender die Unterlassungserklaerung des Verletzers nicht annimmt, obwohl sie die geltend gemachte Verletzungsform vollstaendig abdeckt, kann seinem Kostenerstattungsanspruch verlustig gehen; eine „modifizierte Unterlassungserklaerung" beseitigt die Wiederholungsgefahr nur, wenn sie die abgemahnte Handlung klar abdeckt.

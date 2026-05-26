@@ -262,3 +262,19 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 - WIPO Madrid: https://www.wipo.int/madrid/en/
 - BGH I ZB 59/12 (smartbook): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZB%2059/12
 - EuGH C-307/10 (IP Translator): https://curia.europa.eu/juris/liste.jsf?num=C-307/10
+
+## Triage-Fragen vor Markenanmeldungs-Mandat
+
+Bevor die Anmeldestrategie festgelegt wird, klaere:
+1. Wurde eine umfassende Kollisionsrecherche (DPMA, EUIPO, WIPO) auf identische und aehnliche Zeichen durchgefuehrt?
+2. Welche Schutzziele verfolgt der Mandant — nationaler DE-Schutz, EU-Schutz oder internationale Schutzausdehnung (Madrid-Protokoll)?
+3. Gibt es benutzungsgeschuetzte Zeichen (§ 4 Nr. 2 MarkenG), die als Prioritaet vorrangig sind und Eintragung entbehrlich machen?
+4. Wurden Umlaute und Sonderzeichen im Markenwort geprueft (DPMA-Kodierungsanforderungen)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 12.11.2002 — C-206/01 (Arsenal / Matthew Reed):** Das Markenrecht schuetzt die herkunftshinweisende Funktion des Zeichens; eine markenmaeßige Benutzung liegt vor, wenn das angegriffene Zeichen im Wirtschaftsverkehr als Hinweis auf die betriebliche Herkunft der Waren wahrgenommen wird.
+
+> **BGH, Beschl. v. 24.06.2010 — I ZB 115/08 (Tooor!):** Marken mit offensichtlich anpreisender Bedeutung ohne zurechenbaren Herkunftshinweis sind nicht eintragungsfaehig; das Zeichen muss fuer den Verbraucher als betrieblicher Identifikator wahrnehmbar sein, nicht nur als Qualitaetsversprechen.
+
+> **BGH, Urt. v. 06.11.2013 — I ZR 61/13 (Mescher vs. mexxer):** Beim Klangvergleich zweier Wortmarken ist der Gesamteindruck massgeblich; phonetische Aehnlichkeit allein kann Verwechslungsgefahr begruenden, wenn die Waren identisch oder aehnlich sind — daher ist die akustische Vorrecherche unverzichtbarer Teil der Kollisionsrecherche.
