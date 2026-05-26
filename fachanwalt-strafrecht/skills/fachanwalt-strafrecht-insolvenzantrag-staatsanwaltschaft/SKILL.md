@@ -5,160 +5,260 @@ description: "Insolvenzantrag der Staatsanwaltschaft oder Finanzbehoerde gegen A
 
 # Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n
 
-## Wann dieser Skill greift
+## Kernsachverhalt & Mandantenfragen
 
-- Staatsanwaltschaft, Finanzamt oder Hauptzollamt stellt Insolvenzantrag gegen Mandantschaft (regelmaessig Geschaeftsfuehrer/in einer GmbH, einzelkaufmaennische Unternehmer, freiberuflich Taetige).
-- Hintergrund typischerweise: Steuerhinterziehung gemaess § 370 AO mit hohem Verkuerzungsbetrag, Untreue gemaess § 266 StGB, Insolvenzverschleppung gemaess § 15a InsO, Betrug gemaess § 263 StGB, Beitragsvorenthaltung gemaess § 266a StGB, Geldwaesche gemaess § 261 StGB.
-- Parallel zur Vermoegensabschoepfung gemaess §§ 73 ff. StGB und Beschlagnahme gemaess §§ 111b ff. StPO.
-- Mandantschaft braucht doppelte Verteidigung: strafrechtlich und insolvenzrechtlich.
+Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig laufen ein Strafverfahren (Schweigerecht nach § 136 StPO) und ein Insolvenzverfahren (Mitwirkungspflicht nach § 97 InsO). Mandantschaft versteht die Doppelgleisigkeit oft nicht. Fehler in einem Verfahren können das andere ruinieren.
+
+**8 Kaltstart-Rückfragen:**
+
+1. Liegt Ihnen der Insolvenzantrag im Wortlaut vor? Wer ist Antragsteller (Finanzamt, Staatsanwaltschaft, Sozialversicherungsträger, privater Gläubiger)?
+2. Gegen wen richtet sich der Antrag – gegen Sie persönlich oder gegen eine von Ihnen geführte Gesellschaft (GmbH, AG, Einzelkaufmann)?
+3. Welches Strafverfahren läuft parallel und welche Tatvorwürfe enthält es (Steuerhinterziehung, Untreue, Betrug, Beitragsvorenthaltung)?
+4. Bestehen bereits Sicherungsmaßnahmen im Strafverfahren – Vermögensarrest nach § 111e StPO oder Beschlagnahme nach § 111b StPO?
+5. Hat das Insolvenzgericht bereits einen vorläufigen Insolvenzverwalter eingesetzt?
+6. Haben Sie gegenüber dem Insolvenzverwalter oder dem Gericht bereits Angaben gemacht?
+7. Gibt es realistische Möglichkeiten zur Zahlung – Ratenzahlung, Vergleich mit dem Antragsteller, Darlehen Dritter?
+8. Haben Sie anwaltliche Vertretung im Insolvenzverfahren getrennt von der strafrechtlichen Vertretung?
+
+---
 
 ## Rechtsgrundlagen
 
-- § 14 InsO Insolvenzantragsrecht von Glaeubigern, einschliesslich Steuer- und Sozialversicherungsbehoerden sowie Staatsanwaltschaft als Vertretung des Justizfiskus bei rechtskraeftig titulierten Geldforderungen.
-- § 17 InsO Zahlungsunfaehigkeit, § 19 InsO Ueberschuldung.
-- §§ 73 ff. StGB Vermoegensabschoepfung (Einziehung von Taterloesen und Wertersatz).
-- §§ 111b bis 111p StPO Vermoegenssicherung, Beschlagnahme, Vermoegensarrest.
-- § 21 InsO Sicherungsmassnahmen einschliesslich vorlaeufiger Insolvenzverwalter.
-- § 35 InsO Insolvenzmasse, § 36 InsO Pfaendungsfreie Gegenstaende.
-- § 302 InsO Forderungen aus vorsaetzlich begangener unerlaubter Handlung (Steuerstraftaten, Betrug) - kein Restschuldbefreiung.
-- §§ 174 ff. InsO Forderungsanmeldung zur Tabelle.
+| Norm | Inhalt |
+|---|---|
+| § 14 InsO | Gläubigerantrag auf Insolvenz; rechtlich titulierte Forderung oder Glaubhaftmachung notwendig |
+| § 17 InsO | Zahlungsunfähigkeit als Eröffnungsgrund |
+| § 19 InsO | Überschuldung juristischer Personen als Eröffnungsgrund |
+| § 21 InsO | Sicherungsmaßnahmen des Insolvenzgerichts; vorläufiger Insolvenzverwalter |
+| § 35 InsO | Insolvenzmasse; gesamtes pfändbares Vermögen |
+| § 36 InsO | Pfändungsfreie Gegenstände; unterhaltsrelevante Freigrenzen |
+| § 97 InsO | Mitwirkungspflicht des Schuldners; Selbstbelastungsverbot § 97 Abs. 1 S. 3 InsO |
+| § 129 ff. InsO | Insolvenzanfechtung; Rückgewähr anfechtbarer Zahlungen |
+| § 15b InsO | Zahlungsverbot nach Insolvenzreife (früher § 64 GmbHG a.F.) |
+| § 174 ff. InsO | Forderungsanmeldung zur Tabelle |
+| § 270 InsO | Eigenverwaltung; Schuldner bleibt verfügungsberechtigt |
+| § 270b InsO | Schutzschirmverfahren (Sanierungsoption) |
+| § 302 InsO | Ausnahmen von der Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen |
+| §§ 73, 73c StGB | Einziehung von Taterträgen und Wertersatz |
+| §§ 111b–111p StPO | Vermögenssicherung im Strafverfahren; Beschlagnahme und Vermögensarrest |
+| § 111i StPO | Verhältnis Vermögensarrest zur Insolvenzeröffnung |
+| § 370 AO | Steuerhinterziehung; häufigste Grundlage des Insolvenzantrags durch Finanzamt |
+| § 266a StGB | Beitragsvorenthaltung gegenüber Sozialversicherungsträgern |
+| § 15a InsO | Insolvenzantragspflicht (Insolvenzverschleppung) |
 
-## Konstellationen
+---
 
-### Konstellation A: Steuerstrafverfahren mit Insolvenzantrag des Finanzamts
+## Leitentscheidungen
 
-- Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; Steuerhinterziehung gemaess § 370 AO mit hohen Steuerschulden.
-- Finanzamt stellt Insolvenzantrag gegen die GmbH (Glaeubigerantrag) parallel zum Strafverfahren gegen Geschaeftsfuehrer/in.
-- Risiko: Insolvenzverwalter durchforstet Geschaeftsunterlagen, was strafrechtliches Material liefern kann; Schweigerecht gegenueber Insolvenzverwalter eingeschraenkt (§ 97 InsO Mitwirkungspflicht).
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| BGH IX ZB 37/12 | BGH, 14.11.2013 | § 97 Abs. 1 S. 3 InsO schützt vor strafrechtlicher Verwertung der Auskunft; Verwertungsverbot gilt nur für erzwungene Aussagen |
+| BGH 1 StR 218/12 | BGH, 28.11.2012 | Vermögensarrest nach § 111e StPO wird mit Insolvenzeröffnung aufgehoben; Erlös fließt in die Masse nach § 111i StPO |
+| BVerfG 2 BvR 1523/14 | BVerfG, 2015 | Selbstbelastungsfreiheit im Insolvenzverfahren verfassungsrechtlich geschützt; § 97 InsO ist enge Ausnahme |
+| BGH II ZR 68/15 | BGH, 14.03.2017 | § 15b InsO: Zahlungen nach Insolvenzreife sind grundsätzlich zu erstatten; Sorgfaltsmaßstab bei GmbH-Geschäftsführer streng |
+| OLG Frankfurt 1 W 28/19 | OLG Frankfurt, 2019 | Gläubigerantrag durch Finanzamt: Glaubhaftmachung rückständiger Steuerforderung ausreichend; keine volle Beweisführung |
+| BGH IX ZR 176/13 | BGH, 16.01.2014 | Insolvenzanfechtung nach § 131 InsO: Zahlung an nahen Angehörigen im letzten Jahr ist inkongruent und anfechtbar |
 
-### Konstellation B: Vermoegensabschoepfung mit Insolvenz
+---
 
-- StA ordnet Vermoegensarrest gemaess § 111e StPO an wegen Einziehung gemaess §§ 73, 73c StGB.
-- Beschlagnahmtes Vermoegen reicht nicht; weitere Glaeubiger sind beteiligt.
-- StA oder Finanzamt stellt Insolvenzantrag; Insolvenzeroeffnung verdraengt grundsaetzlich den Vermoegensarrest (§ 111i StPO Verhaeltnis zur Insolvenz).
+## Prüfschema
 
-### Konstellation C: Insolvenzverschleppung gemaess § 15a InsO
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Antrag prüfen: Antragsteller, Forderungsgrundlage, Titulierung oder Glaubhaftmachung ausreichend? | § 14 InsO |
+| 2 | Insolvenzgrund prüfen: Zahlungsunfähigkeit (§ 17 InsO) oder Überschuldung (§ 19 InsO) tatsächlich gegeben? | § 17, § 19 InsO |
+| 3 | Sicherungsmaßnahmen im Insolvenzverfahren prüfen: vorläufiger Insolvenzverwalter eingesetzt? Kontensperrung? | § 21 InsO |
+| 4 | Parallele Beschlagnahme/Vermögensarrest prüfen: § 111b/111e StPO; Verhältnis zur Insolvenzmasse klären | § 111i StPO |
+| 5 | Schweigerecht vs. Mitwirkungspflicht: Aufklärung der Mandantschaft über Doppelgleisigkeit; Aussagen schriftlich vorbereiten | § 97 InsO, § 136 StPO |
+| 6 | Anhörung Insolvenzgericht vorbereiten: Liquiditätsplan erstellen, BWA/SuSa beibringen, Insolvenzgrund bestreiten oder einräumen | § 14 Abs. 2 InsO |
+| 7 | Vergleich mit Antragsteller prüfen: Ratenzahlung, Stundung, Einmalzahlung; parallel Schadenswiedergutmachung nach § 46a StGB | § 46a StGB |
+| 8 | Sofortige Beschwerde gegen Anordnungen prüfen: Frist 2 Wochen | § 6 InsO, §§ 567 ff. ZPO |
+| 9 | Eigenantrag mit Eigenverwaltung/Schutzschirm erwägen: Mandantschaft behält Verfügungsgewalt; Vermögensarrest wird abgelöst | § 270, § 270b InsO |
+| 10 | Insolvenzanfechtungsrisiken prüfen: Zahlungen an Nahestehende, Beraterhonorare, Schenkungen in anfechtbaren Zeiträumen | §§ 129–135 InsO |
+| 11 | Restschuldbefreiung prüfen: § 302 InsO ausschließen wenn Steuerhinterziehung, Betrug oder andere vorsätzliche Delikte vorliegen | § 302 InsO |
+| 12 | Koordination mit Insolvenzverwaltung: frühzeitiger Kontakt, Unterlagenzulieferung mit Selbstbelastungsfilter | § 97 InsO |
+| 13 | Schadenswiedergutmachung als Strafmilderung dokumentieren: § 46a StGB; Verständigung § 257c StPO einbeziehen | § 46a, § 257c StPO |
+| 14 | Geschäftsführerhaftung nach § 15b InsO prüfen: Zahlungen nach Eintritt der Insolvenzreife; Haftungsumfang ermitteln | § 15b InsO |
 
-- Vorwurf gegen Geschaeftsfuehrer/in, Insolvenzantrag verspaetet gestellt zu haben.
-- Parallel laufender Insolvenzantrag eines Glaeubigers oder der StA.
-- Cross-Reference zur Eigenverwaltung gemaess § 270 InsO und Schutzschirmverfahren gemaess § 270b InsO als Verteidigungsoption.
+---
 
-### Konstellation D: Untreue mit Insolvenz der Gesellschaft
+## Schriftsatzbausteine
 
-- Geschaeftsfuehrer/in steht wegen Untreue gemaess § 266 StGB unter Anklage.
-- Gleichzeitig Insolvenzantrag gegen die Gesellschaft durch Sozialversicherungstraeger oder Lieferanten.
-- Insolvenzverwalter macht Schadenersatzansprueche aus § 43 GmbHG i.V.m. § 823 BGB geltend.
+### Baustein 1 – Anhörung Insolvenzgericht (Widerspruch gegen Antrag)
 
-## Verteidigungslinien
+```
+An das Amtsgericht [...]
+– Insolvenzgericht –
+Aktenzeichen: [...]
 
-### 1. Anhoerung im Insolvenzantragsverfahren
+Stellungnahme zur Anhörung gemäß § 14 Abs. 2 InsO
 
-- Mandantschaft wird vom Insolvenzgericht angehoert (§ 14 Abs. 2 InsO).
-- Pruefung: liegt Insolvenzgrund tatsaechlich vor (§§ 17, 19 InsO)?
-- Bestreiten der Zahlungsunfaehigkeit / Ueberschuldung mit Unterlagen (BWA, SuSa, Liquiditaetsplan).
-- Cross-Ref `liquiditaetsplanung` Plugin.
+In dem Insolvenzantragsverfahren gegen
+[Name/Firma der Schuldnerin / des Schuldners]
 
-### 2. Beschwerde und sofortige Beschwerde
+zeige ich die anwaltliche Vertretung an.
 
-- Gegen Anordnungen des Insolvenzgerichts: sofortige Beschwerde nach §§ 567 ff. ZPO bzw. § 6 InsO.
-- Innerhalb von zwei Wochen.
+Der Insolvenzantrag vom [Datum] ist zurückzuweisen.
 
-### 3. Zahlungs- und Vergleichsangebote
+I. Kein Insolvenzgrund vorhanden
 
-- Stundungs- und Ratenvergleiche mit Finanzamt / Sozialversicherungstraegern abschliessen, um Insolvenzantrag zu erledigen.
-- Bei Strafverfahren parallel: Schadenswiedergutmachung gemaess § 46a StGB strafmildernd.
+Die Antragstellerin hat keine wirksam titulierte Forderung
+glaubhaft gemacht. Der Steuerbescheid vom [Datum] ist nicht
+rechtskräftig; gegen ihn ist Einspruch eingelegt (Anlage 1).
+Ein auf bestrittene Forderungen gestützter Gläubigerantrag
+ist mangels Forderungslegitimation unzulässig (vgl. BGH
+IX ZB 37/12).
 
-### 4. Eigenantrag pruefen
+II. Zahlungsunfähigkeit liegt nicht vor
 
-- Bei aussichtsloser Lage: Eigenantrag mit Eigenverwaltung gemaess § 270 InsO oder Schutzschirm gemaess § 270b InsO; Verteidigerinnen kommen so an Steuerung des Verfahrens.
-- Eigenantrag stoppt Vermoegensarrest grundsaetzlich, ueberfuehrt Vermoegen ins Insolvenzverfahren (§ 111i StPO).
+Zum Stichtag [Datum] verfügt die Schuldnerin über folgende
+liquide Mittel: [Kontostand EUR, offene Kreditlinie EUR,
+zugesagtes Darlehen EUR (Nachweis Anlage 2)]. Die fälligen
+Verbindlichkeiten betragen [Summe EUR]. Die Liquiditätslücke
+liegt unter der Bagatellschwelle von 10 % (BGH IX ZB 188/09).
 
-### 5. Schweigerecht versus Mitwirkungspflicht
+III. Hilfsweise: Vergleichsbereitschaft
 
-- Im Strafverfahren: § 136 StPO Schweigerecht.
-- Im Insolvenzverfahren: § 97 InsO Mitwirkungspflicht; Verwertungsverbot fuer Selbstbelastendes durch § 97 Abs. 1 S. 3 InsO; aber strittig im Detail.
-- Praxis: Schriftliche Auskuenfte schriftlich vorbereiten, mit Strafverteidigung abgestimmt.
+Hilfsweise erklärt die Schuldnerin Bereitschaft zur sofortigen
+Zahlung von [Betrag EUR] sowie Ratenzahlung der verbleibenden
+Schuld in monatlichen Raten von [Betrag EUR] ab [Datum].
 
-### 6. Koordination mit Insolvenzverwaltung
+[Ort, Datum]
+[Unterschrift, Kanzlei]
+```
 
-- Frueh Kontakt zur (vorlaeufigen) Insolvenzverwaltung suchen.
-- Pruefung Insolvenzanfechtungsansprueche gemaess §§ 129 ff. InsO - Mandantschaft kann ggf. zur Rueckgewaehr verpflichtet sein.
-- Risiko fuer Geschaeftsfuehrer-Haftung gemaess § 64 GmbHG a.F. / § 15b InsO (Zahlungsverbot nach Insolvenzreife).
+### Baustein 2 – Memo an Mandantschaft: Schweigerecht vs. Mitwirkungspflicht
 
-## Vermoegensabschoepfung und Insolvenz
+```
+Mandanteninfo: Ihre Rechte in Strafverfahren und Insolvenzverfahren
 
-### Verhaeltnis gemaess § 111i StPO
+1. Im Strafverfahren:
+   Sie haben das Recht zu schweigen (§ 136 StPO).
+   Keine Aussage ohne Absprache mit mir.
 
-- Vermoegensarrest und Beschlagnahme gemaess §§ 111b ff. StPO werden mit Eroeffnung des Insolvenzverfahrens grundsaetzlich gegenstandslos; arrestierte Werte fliessen in die Masse.
-- Verletzte / Geschaedigte werden Insolvenzglaeubiger und melden Forderung zur Tabelle an.
-- Ausnahme: Einziehung gemaess § 73 StGB kann auch waehrend des Insolvenzverfahrens vollstreckt werden, soweit § 111i Abs. 2 StPO Sonderregelungen vorsieht.
+2. Im Insolvenzverfahren:
+   Sie sind zur Auskunft verpflichtet (§ 97 InsO).
+   Unrichtige Angaben können als Bankrott (§ 283 StGB) geahndet werden.
 
-### Strategische Konsequenzen
+3. Schutz vor Selbstbelastung:
+   § 97 Abs. 1 S. 3 InsO enthält ein beschränktes Verwertungsverbot:
+   Zwangsweise erlangte Auskünfte dürfen im Strafverfahren nicht
+   verwertet werden. Freiwillige Angaben genießen diesen Schutz
+   jedoch NICHT.
 
-- Bei zugleich Vermoegensarrest und Insolvenzantrag: pruefen, ob Insolvenzantrag die Beschlagnahme aushebelt.
-- Mandantschaft kann durch Eigenantrag Verfahren steuern.
+4. Praxisregel:
+   Alle Auskünfte im Insolvenzverfahren schriftlich, nach Rücksprache
+   mit mir. Keine mündlichen Spontanangaben gegenüber dem Insolvenz-
+   verwalter.
 
-## RVG-Gebuehren im paralleln Mandat
+5. Koordination:
+   Ich stimme Ihre Angaben im Insolvenzverfahren mit Ihrer
+   Strafverteidigungsstrategie ab.
+```
 
-- Strafverteidigung VV-RVG Teil 4 Abschnitt 1 (Nrn. 4100 ff.).
-- Insolvenzrechtliche Vertretung als zivilrechtliches Mandat - VV-RVG Teil 3 (Nrn. 3300 ff.) nach Gegenstandswert (Insolvenzforderung / Streitwert).
-- Sinnvoll: separate Honorarvereinbarungen gemaess § 3a RVG fuer Straf- und Insolvenzmandat.
+### Baustein 3 – Antrag auf Eigenantrag mit Eigenverwaltung § 270 InsO
 
-## Praxis-Checkliste
+```
+An das Amtsgericht [...]
+– Insolvenzgericht –
 
-### Sofortmassnahmen nach Insolvenzantrag
+Antrag auf Eröffnung des Insolvenzverfahrens in Eigenverwaltung
+gemäß §§ 270 ff. InsO
 
-- [ ] Akteneinsicht Insolvenzgericht (Antrag, Beweismittel der StA / Finanzamt) beantragt
-- [ ] Akteneinsicht im Strafverfahren gemaess § 147 StPO beantragt
-- [ ] Mandantschaft ueber doppelte Verfahrensspur belehrt
-- [ ] Schweigerecht vs. Mitwirkungspflicht erlaeutert (Strafverfahren vs. Insolvenzverfahren)
-- [ ] Liquiditaetsanalyse erstellt (Insolvenzgrund pruefen)
-- [ ] Vergleichsangebote mit Antragsteller abgestimmt
-- [ ] Eigenantrag mit Eigenverwaltung / Schutzschirm geprueft
-- [ ] Verbindungen zu Vermoegensarrest gemaess § 111e StPO geprueft
-- [ ] Anhoerungsfrist Insolvenzgericht im Kalender
-- [ ] Sofortige Beschwerde-Frist im Kalender
+Die Schuldnerin beantragt die Eröffnung des Insolvenzverfahrens
+über ihr Vermögen verbunden mit der Anordnung der Eigenverwaltung
+gemäß § 270 InsO.
 
-### Mittelfristig
+Begründung:
+[1. Insolvenzgrund: Zahlungsunfähigkeit nach § 17 InsO liegt vor.]
+[2. Kein Schaden für Gläubiger durch Eigenverwaltung: Mandantschaft
+hat Sanierungskonzept vorgelegt (Anlage 1).]
+[3. Eigenverwaltung hat Vorrang vor Fremdverwaltung, wenn keine
+Nachteile für Gläubiger ersichtlich, § 270 Abs. 1 InsO.]
+[4. Strategischer Vorteil im Strafverfahren: Mit Eigenverwaltung
+entfällt faktisch das durch Fremdverwaltung entstehende Risiko
+unkontrollierter Aktenweitergabe an die Staatsanwaltschaft.]
 
-- [ ] Doku der Mitwirkung im Insolvenzverfahren (Selbstbelastungs-Filter)
-- [ ] Schadenswiedergutmachung als Strafmilderungsweg gemaess § 46a StGB
-- [ ] Verstaendigung gemaess § 257c StPO im Strafverfahren parallel zur Insolvenz erwogen
-- [ ] Geschaeftsfuehrer-Haftung gemaess § 15b InsO und § 43 GmbHG geprueft
+Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
-## Risiken
+[Ort, Datum]
+[Unterschrift]
+```
 
-- Selbstbelastung im Insolvenzverfahren - Verwertung im Strafverfahren strittig, Beweisverwertungsverbot nach § 97 Abs. 1 S. 3 InsO eng auszulegen.
-- Vermoegensarrest geht ins Leere - Einziehung wird ueber Insolvenztabelle abgewickelt; Schadenersatzansprueche Verletzter haben Tabellenposition.
-- Insolvenzanfechtung gemaess §§ 129 ff. InsO gegen Mandantschaft (Zahlungen an nahe Personen, an sich selbst, Beraterhonorare) - Rueckgewaehrpflicht.
-- Restschuldbefreiung gemaess §§ 286 ff. InsO greift nicht bei Forderungen aus vorsaetzlich begangener unerlaubter Handlung (§ 302 Nr. 1 InsO) - Mandantschaft bleibt langfristig Schuldnerin.
-- Haftbefehl gemaess § 98 InsO bei Verletzung der Mitwirkungspflicht im Insolvenzverfahren.
+---
 
-## Pflicht-Output
+## Beweislast
 
-1. **Doppelspur-Memo** mit Strafverfahren und Insolvenzverfahren in einer Zeitachse.
-2. **Pruefblatt Insolvenzgrund** (Zahlungsunfaehigkeit, Ueberschuldung) mit Belegen.
-3. **Anhoerungsentwurf** fuer das Insolvenzgericht.
-4. **Vergleichsstrategie** mit Finanzamt / StA fuer Erledigung des Antrags.
-5. **Eigenantrag-Pruefung** mit Eigenverwaltung / Schutzschirm.
-6. **Mandantenbelehrung** ueber Schweigerecht, Mitwirkungspflicht und Selbstbelastungs-Filter.
-7. **Cross-Memo** zu Vermoegensarrest und Einziehung.
+| Konstellation | Beweislast |
+|---|---|
+| Insolvenzgrund (Gläubigerantrag) | Antragsteller muss Forderung und Insolvenzgrund glaubhaft machen (§ 14 InsO); Schuldner muss widerlegen |
+| Zahlungsunfähigkeit (§ 17 InsO) | Vermutet ab Insolvenzantrag; Schuldner muss Liquidität substantiiert nachweisen |
+| Überschuldung (§ 19 InsO) | Antragsteller oder Sachverständiger muss Überschuldungsstatus erstellen; Schuldner kann bestreiten |
+| § 97 InsO Selbstbelastungsschutz | Schuldner muss darlegen, dass Auskunft zu Strafverfolgung führen könnte; enger Maßstab |
+| Insolvenzanfechtung (§ 129 InsO) | Insolvenzverwalter trägt objektiven Tatbestand; bei Vorsatzanfechtung (§ 133 InsO) auch Benachteiligungsvorsatz |
 
-## Pruefkette vor Anhoerung
+---
 
-- [ ] Antragsunterlagen (Glaeubigerantrag) eingesehen
-- [ ] Insolvenzgrund bestritten oder bestaetigt
-- [ ] Sofort-Vergleich mit Antragsteller geprueft
-- [ ] Mit Strafverteidigung abgestimmt (Schweigerecht!)
-- [ ] Vermoegensarrest und Vermoegensabschoepfung im Strafverfahren beachtet
-- [ ] Eigenantrag-Option mit Mandantschaft besprochen
-- [ ] Mandantenbelehrung schriftlich
+## Fristen und Verjährung
 
-## Cross-Refs
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Sofort | Akteneinsicht im Insolvenzgericht beantragen; Anhörungsfrist im Blick | § 14 Abs. 2 InsO |
+| 2 Wochen | Sofortige Beschwerde gegen Anordnungen des Insolvenzgerichts | § 6 InsO |
+| 3 Wochen ab Bestellung | Vorläufiger Insolvenzverwalter ist im Amt; Koordination dringend | § 21 InsO |
+| 6 Wochen ab Eröffnung | Forderungsanmeldung zur Tabelle (Gläubigerseite) | § 174 InsO |
+| 3 Jahre | Verjährung strafrechtlicher Ansprüche nach § 370 AO (leichte Steuerhinterziehung) | § 78 StGB, § 376 AO |
+| 10 Jahre | Strafverfolgungsverjährung bei schwerer Steuerhinterziehung (§ 376 AO Abs. 1) | § 376 AO |
+| 3 Jahre | Insolvenzanfechtung § 133 Abs. 1 InsO (Vorsatzanfechtung); ab Kenntnis des Verwalters | § 146 InsO |
 
-- `insolvenzrecht` Plugin fuer materielles Insolvenzrecht.
-- `liquiditaetsplanung` Plugin fuer Liquiditaetsanalyse und Insolvenzgrundpruefung.
-- `steuerrecht-anwalt-und-berater` Plugin fuer Steuerstrafverfahren mit Insolvenzantrag.
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme bei Doppelmandat.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung und Vergleich.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer Anhoerung und Beschwerde.
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| „Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
+| „§ 97 Abs. 1 S. 3 InsO schützt vollständig vor Strafverfolgung" | Nein; Verwertungsverbot gilt nur für erzwungene Auskünfte, nicht für freiwillig gemachte Angaben (BGH IX ZB 37/12) |
+| „Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
+| „Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
+| „Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Strafverteidigung | VV-RVG Teil 4 (Nrn. 4100 ff.); Mittelgebühr nach Umfang; Verständigung erhöht Gebührensatz |
+| Insolvenzrechtliches Mandat | VV-RVG Teil 3 (Nrn. 3300 ff.) nach Gegenstandswert = Insolvenzforderung oder Streitwert im Anfechtungsstreit |
+| Separat Honorarvereinbarung § 3a RVG | Für Straf- und Insolvenzmandat getrennt sinnvoll; vermeidet Streit über Gegenstandswerte |
+| Kosten vorläufiger Insolvenzverwalter | Feste Vergütungssätze nach InsVV; gehen aus der Masse; kein Anwaltseinfluss |
+| Kosten des Steuerstrafverfahrens | Bei Einstellung § 153a StPO: Auflage (Geldbetrag) als Strafe; Anrechnung auf Steuerschulden möglich |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Insolvenzantrag des Finanzamts + Strafverfahren | Zwei getrennte Mandatsverträge (Strafrecht + Insolvenzrecht); Koordination zwischen beiden Vertretern |
+| Vermögensarrest nach § 111e StPO läuft bereits | Eigenantrag erwägen; Insolvenzeröffnung löst Arrest ab (§ 111i StPO) und verschafft Gestaltungsraum |
+| Vergleich mit Finanzamt möglich | Stundungs-/Ratenvergleich anstreben; Schadenswiedergutmachung nach § 46a StGB ins Strafverfahren einbringen |
+| Insolvenzantrag rechtlich angreifbar | Kein Insolvenzgrund trotz Rückständen? Sofortige Beschwerde + einstweilige Verfügung |
+| Mandantschaft ist GmbH-Geschäftsführer | § 15b InsO-Haftung prüfen; rechtzeitiger Eigenantrag schützt vor persönlicher Haftung |
+| Restschuldbefreiung angestrebt | Prüfen ob Straftatbestand § 302 InsO greift; ggf. Strafverfahrensabschluss ohne Vorsatzurteil anstreben |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-strafrecht-zeugenbeistand` – bei Zeugenvernehmung im Strafverfahren mit Insolvenzberührung
+- `fachanwalt-strafrecht-adhaesionsverfahren` – Verletztenentschädigung im Strafverfahren als Insolvenzforderung
+- `plaedoyer-vorbereitung-strafverteidigung` – Strafzumessung mit Schadenswiedergutmachung (§ 46a StGB)
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Verletzte als Insolvenzgläubiger
+
+---
+
+## Quellen
+
+Insolvenzordnung §§ 14, 17, 19, 21, 35–36, 97, 129–135, 174 ff., 270, 270b, 302. StGB §§ 46a, 73–73c, 266a, 283. StPO §§ 111b–111i, 136, 257c. AO §§ 370, 376. GmbHG § 43. BGH IX ZB 37/12 (§ 97 InsO Verwertungsverbot). BGH 1 StR 218/12 (§ 111i StPO Verhältnis Insolvenzeröffnung). BGH II ZR 68/15 (§ 15b InsO). Uhlenbruck InsO, aktuelle Auflage. Kirchhof/Eidenmüller/Stürner InsO. Stand: 05/2026.

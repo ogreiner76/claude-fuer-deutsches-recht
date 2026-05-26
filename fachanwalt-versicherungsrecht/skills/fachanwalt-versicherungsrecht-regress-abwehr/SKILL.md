@@ -5,87 +5,294 @@ description: "Regress Sozialversicherungstraeger § 116 SGB X Versicherungstraeg
 
 # Regress-Abwehr
 
+## Kernsachverhalt
+
+Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereignis (Verkehrsunfall, Körperverletzung, Arbeitsunfall) von einem Sozialversicherungsträger, einem privaten Versicherer oder einem Dienstherrn auf Rückerstattung der erbrachten Leistungen in Anspruch genommen. Der Forderungsübergang erfolgt kraft Gesetzes nach §§ 116 SGB X, 86 VVG, 76 BeamtVG. Gegenüber diesen Regressansprüchen stehen mehrere Verteidigungslinien zur Verfügung: Familienprivileg, fehlende Kongruenz, Quotenvorrecht des Geschädigten bei Mitverschulden sowie die Verjährungseinrede.
+
 ## Kaltstart-Rückfragen
 
-1. Wer regressiert — gesetzlicher Krankenversicherer (§ 116 SGB X), Rentenversicherer (§ 119 SGB X), Berufsgenossenschaft, privater Versicherer (§ 86 VVG), Dienstherr (Beamtenrecht)?
-2. Aus welchem Schadensereignis stammt der Regress — Unfall, Krankheit, Verletzung Dritter? Welcher Mandant haftet warum?
-3. Welche Sozialleistungen wurden für welchen Zeitraum erbracht — Krankenhauskosten, Krankengeld, Reha, Rente, Heilbehandlung?
+1. Wer regressiert — gesetzlicher Krankenversicherer (§ 116 SGB X), Rentenversicherer (§ 119 SGB X), Berufsgenossenschaft (§ 110 SGB VII), privater Versicherer (§ 86 VVG), Dienstherr (§ 76 BeamtVG)?
+2. Aus welchem Schadensereignis stammt der Regress — Verkehrsunfall, Körperverletzung, Arbeitsunfall, Berufskrankheit? Welcher Mandant haftet warum?
+3. Welche Sozialleistungen wurden für welchen Zeitraum erbracht — Krankenhauskosten, Krankengeld, Reha, Verletztenrente, Hinterbliebenenrente, Heilbehandlung?
 4. Ist die zugrundeliegende Schadenshaftung dem Grunde und der Höhe nach bereits geklärt oder noch streitig?
-5. Bestehen Verteidigungseinwände wie Familienprivileg (§ 86 Abs. 3 VVG, § 116 Abs. 6 SGB X), Mitverschulden des Geschädigten, fehlende Kongruenz, Verjährung?
+5. Bestehen Verteidigungseinwände wie Familienprivileg (§ 86 Abs. 3 VVG, § 116 Abs. 6 SGB X), Mitverschulden des Geschädigten, fehlende sachliche oder zeitliche Kongruenz?
+6. Liegt eine bereits abgelaufene Verjährungsfrist vor? Wann erlangte der Regressnehmer Kenntnis vom Schadensereignis und vom Schädiger?
+7. Existiert ein Sozialleistungsvermerk im Schadenersatzprozess — wurde der Sozialversicherungsträger vom Geschädigten benachrichtigt?
+8. Sind mehrere Regressnehmer vorhanden (z.B. Krankenkasse + Rentenversicherung + Berufsgenossenschaft) und wurde eine koordinierte Verteidigungsstrategie besprochen?
 
-## Anspruchsgrundlagen Regress
+## Rechtsgrundlagen
 
-- Sozialleistungsregress § 116 SGB X: Forderungsübergang kraft Gesetzes auf Sozialversicherungsträger zum Zeitpunkt des schadensbegründenden Ereignisses, soweit Sozialleistungen aufgrund desselben Ereignisses gewährt werden müssen.
-- Versicherungsregress § 86 Abs. 1 VVG: Forderungsübergang auf privaten Versicherer im Umfang seiner Leistung.
-- Voraussetzung sachliche Kongruenz: Schaden und Sozialleistung müssen gleichartig sein (Erwerbsschaden-Krankengeld, Heilbehandlung-Krankenversicherung).
-- Voraussetzung zeitliche Kongruenz: Sozialleistung muss in dem Zeitraum erbracht werden für den Schadensersatz beansprucht wird.
-- Quotenvorrecht des Geschädigten § 116 Abs. 3 SGB X — bei Mitverschulden des Geschädigten oder beschränkter Haftung des Schädigers gehen nur die durch Haftungsanteil gedeckten Beträge auf den Sozialversicherungsträger über; der Geschädigte erhält Bevorzugung bei nicht durch Sozialleistung gedeckten Schadenspositionen (BGH VI ZR 132/11, Urt. v. 24.04.2012, Rn. 25 ff.).
-- Familienprivileg § 86 Abs. 3 VVG, § 116 Abs. 6 SGB X — kein Regress gegen Schädiger der mit Geschädigtem in häuslicher Gemeinschaft lebt; Ausnahme Vorsatz.
-- Verjährung wie zugrundeliegender Anspruch § 195 BGB drei Jahre; Hemmung § 203 BGB durch Verhandlungen.
+### Normtexte (Auszüge)
 
-Standardliteratur: Geigel Der Haftpflichtprozess; Küppersbusch/Höher Ersatzansprüche bei Personenschaden; Eichenhofer/Wenner SGB X.
+**§ 116 Abs. 1 SGB X** — Ein auf anderen Vorschriften beruhender Anspruch auf Ersatz eines Schadens geht auf den Versicherungsträger oder Träger der Eingliederungshilfe oder der Sozialhilfe über, soweit dieser auf Grund des Schadensereignisses Sozialleistungen zu erbringen hat, die der Behebung eines Schadens der gleichen Art dienen und sich auf denselben Zeitraum wie der vom Schädiger zu leistende Schadensersatz beziehen.
+
+**§ 116 Abs. 3 SGB X (Quotenvorrecht)** — Ist der Anspruch auf Schadensersatz nicht in voller Höhe gedeckt, weil der Geschädigte an dem Schadensereignis mitgewirkt hat, geht der Anspruch nur insoweit über, als der Schädiger verpflichtet ist, denjenigen Teil des Schadens zu ersetzen, dessen Erstattung der Träger nicht verlangen kann. Der übergegangene Anspruch steht im Rang nach dem Anspruch des Geschädigten.
+
+**§ 116 Abs. 6 SGB X (Familienprivileg)** — Ein Übergang ist ausgeschlossen, wenn der Schädiger mit dem Geschädigten oder seinen Hinterbliebenen in häuslicher Gemeinschaft lebt oder dem Geschädigten zur Fürsorge verpflichtet ist, es sei denn, der Schaden wurde vorsätzlich verursacht.
+
+**§ 86 Abs. 1 VVG** — Steht dem Versicherungsnehmer ein Ersatzanspruch gegen einen Dritten zu, geht dieser Anspruch auf den Versicherer über, soweit der Versicherer den Schaden ersetzt.
+
+**§ 86 Abs. 3 VVG (Familienprivileg)** — Der Übergang nach Absatz 1 kann nicht zum Nachteil des Versicherungsnehmers geltend gemacht werden. Insbesondere geht der Anspruch nicht über, wenn der Dritte, gegen den der Anspruch besteht, mit dem Versicherungsnehmer oder einem Versicherten in häuslicher Gemeinschaft lebt, es sei denn, dass dieser den Schaden vorsätzlich verursacht hat.
+
+**§ 110 SGB VII** — Haben Personen, deren Haftung nach §§ 104 bis 107 beschränkt ist, den Versicherungsfall vorsätzlich oder grob fahrlässig herbeigeführt, haften sie den Sozialversicherungsträgern für die infolge des Versicherungsfalls erbrachten Aufwendungen.
+
+**§ 195 BGB** — Die regelmäßige Verjährungsfrist beträgt drei Jahre.
+
+**§ 203 BGB** — Schweben zwischen dem Schuldner und dem Gläubiger Verhandlungen über den Anspruch, so ist die Verjährung gehemmt, bis der eine oder der andere Teil die Fortsetzung der Verhandlungen verweigert.
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Leitsatz |
+|---|---|---|---|
+| BGH VI ZR 132/11 | VI ZR 132/11 | 24.04.2012 | Quotenvorrecht § 116 Abs. 3 SGB X bei Mitverschulden des Geschädigten; übergegangener Anspruch nachrangig gegenüber eigenem Schadensersatz des Geschädigten |
+| BGH VI ZR 239/14 | VI ZR 239/14 | 10.03.2015 | Sachliche Kongruenz zwischen Verdienstausfall und Krankengeld; Kongruenzprüfung streng nach Schadensart |
+| BGH IV ZR 50/03 | IV ZR 50/03 | 08.10.2003 | § 67 VVG a.F. (jetzt § 86 VVG): Forderungsübergang bei privater Unfallversicherung; Quotenvorrecht gilt entsprechend |
+| BGH VI ZR 390/02 | VI ZR 390/02 | 20.01.2004 | Familienprivileg § 116 Abs. 6 SGB X: enge Auslegung des Begriffs "häusliche Gemeinschaft"; Wohngemeinschaft ohne familiären Bezug reicht nicht |
+| BSG B 2 U 3/17 R | B 2 U 3/17 R | 26.06.2018 | Grobe Fahrlässigkeit § 110 SGB VII bei Berufsgenossenschaftsregress; hohe Anforderungen an subjektiven Tatbestand |
+| BGH VI ZR 155/08 | VI ZR 155/08 | 14.07.2009 | Verjährung des Regressanspruchs nach § 116 SGB X; Beginn mit Kenntnis des Trägers vom Schadensereignis und Person des Schädigers |
+| OLG Frankfurt 7 U 225/18 | 7 U 225/18 | 12.03.2019 | Zeitliche Kongruenz: Rentenleistungen außerhalb des Schadensersatzzeitraums nicht regressfähig |
+| BGH VI ZR 286/00 | VI ZR 286/00 | 19.02.2002 | Sozialleistungsvermerk: Pflicht des Geschädigten zur Benachrichtigung des Trägers; andernfalls Erlöschen des übergegangenen Anspruchs |
+
+## Prüfschema Regress-Abwehr
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Regressnehmer identifizieren | § 116 SGB X (GKV, DRV, BA), § 110/111 SGB VII (BG), § 86 VVG (privat), § 76 BeamtVG | Zuständige Norm, Klageart, Gericht |
+| 2 | Schadensereignis und Haftungsgrund | Unfall, Vorsatz, Fahrlässigkeit; Haftungsgrundlage des Schädigers (§§ 823, 7 StVG, 833 BGB) | Besteht Haftung dem Grunde nach? |
+| 3 | Forderungsübergang prüfen | Übergang kraft Gesetzes zum Zeitpunkt des Schadensereignisses; kein rechtsgeschäftlicher Übertrag nötig | Anspruch besteht ab Schadenszeitpunkt |
+| 4 | Sachliche Kongruenz | Sozialleistung und Schadensersatzposition müssen gleichartig sein: Heilbehandlung ↔ Krankenversicherungsleistung; Verdienstausfall ↔ Krankengeld/Übergangsgeld | Nicht kongruente Positionen aus Regress heraushalten |
+| 5 | Zeitliche Kongruenz | Sozialleistung und Schadensersatz müssen denselben Zeitraum betreffen | Leistungen außerhalb des Schadensersatzzeitraums sind nicht regressfähig |
+| 6 | Familienprivileg | § 116 Abs. 6 SGB X, § 86 Abs. 3 VVG: häusliche Gemeinschaft Schädiger/Geschädigter, kein Vorsatz | Kompletter Anspruchsausfall bei Vorliegen |
+| 7 | Quotenvorrecht § 116 Abs. 3 SGB X | Mitverschulden des Geschädigten (§ 254 BGB) bestimmt Quote; übergegangener Anspruch nur nach vollständiger Deckung des Eigenanspruchs des Geschädigten | Regressbetrag ggf. erheblich reduziert |
+| 8 | Privilegierung § 104 SGB VII | Haftungsbeschränkung des Arbeitgebers/Betriebsangehörigen gegenüber BG-Regress; nur bei Vorsatz oder grober Fahrlässigkeit nach § 110 SGB VII durchbrechbar | Bei leichter/mittlerer Fahrlässigkeit kein BG-Regress |
+| 9 | Verjährung | § 195 BGB 3 Jahre; Beginn § 199 BGB Kenntnis Träger von Ereignis + Person des Schädigers; Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Klage) | Verjährungseinrede erheben |
+| 10 | Sozialleistungsvermerk | Geschädigter muss Träger benachrichtigen; fehlende Benachrichtigung → Erlöschen des übergegangenen Anspruchs nach § 116 Abs. 7 SGB X | Fehlt Vermerk → Abwehr des gesamten Anspruchs möglich |
+| 11 | Höhe der erbrachten Leistungen | Nachweis durch Leistungsbescheid, Abrechnungsunterlagen; Bestreiten mit Nichtwissen zu Detailpositionen | Reduktion auf nachgewiesene Beträge |
+| 12 | Mitverschulden des Schädigers geltend machen | § 254 BGB gegen Regressnehmer einwenden; Quote mindert Regressbetrag proportional | Prozesstaktischer Vorteil |
+| 13 | Schadensminderungspflicht | Geschädigter hat zumutbare Rehab-Maßnahmen zu ergreifen; Unterlassen führt zur Kürzung auch beim übergegangenen Anspruch | Kürzung wegen Obliegenheitsverletzung |
+| 14 | Vorteilsausgleichung | Vorteile die dem Geschädigten durch das Schadensereignis entstanden sind mindern den Schaden; übergegangener Anspruch ebenfalls gemindert | Vorteilsanrechnung geltend machen |
+| 15 | Vergleich / Abschluss | Kompromissangebot nach Ermittlung des tatsächlich kongruenten, nicht verjährten, nach Quote bereinigten Restbetrags | Schriftliche Freistellungsbestätigung |
 
 ## Beweislast
 
-- Regressnehmer trägt Beweislast für Sozialleistung, Höhe, Kongruenz und Haftung dem Grunde nach.
-- Schädiger/Versicherer trägt Beweislast für Mitverschulden des Geschädigten, Familienprivileg und Verjährung.
-
-## Verteidigungsstrategien
-
-| Einwand | Voraussetzung | Wirkung |
+| Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
-| Familienprivileg | Häusliche Gemeinschaft Schädiger/Geschädigter ohne Vorsatz | Kein Forderungsübergang |
-| Fehlende Kongruenz | Sozialleistung deckt anderes als geltend gemachten Schaden | Anspruchsausfall in nicht-kongruenten Teil |
-| Quotenvorrecht | Mitverschulden des Geschädigten | Verteilung nach Quote zugunsten Geschädigtem |
-| Mitverschulden | § 254 BGB | Quotenkürzung |
-| Verjährung | § 195 BGB drei Jahre ab Kenntnis | Anspruch durchsetzbar nicht mehr |
-| Vorteilsausgleichung | Bessergestellt durch Schadensereignis | Reduzierung |
-| § 254 BGB Schadensminderungspflicht | Geschädigter nicht ausreichend Reha-Maßnahmen | Kürzung |
+| Erbrachte Sozialleistungen und deren Höhe | Regressnehmer (Träger) | Leistungsbescheid, Kontenauszug, Abrechnungsakte |
+| Sachliche Kongruenz | Regressnehmer | Vergleich der Schadenspositionen mit Leistungsarten |
+| Zeitliche Kongruenz | Regressnehmer | Leistungszeitraum aus Bescheid mit Schadensersatzzeitraum abgleichen |
+| Haftung dem Grunde nach | Regressnehmer; bei Rechtskraft des Schadenersatzurteils präjudiziell | Urteil, Haftpflichtbescheid |
+| Familienprivileg | Schädiger / Versicherter | Melderegistereintrag, Wohnortbestätigung, Mietvertrag |
+| Mitverschulden des Geschädigten (Quote) | Schädiger | Unfallbericht, Sachverständigengutachten, Zeugenaussagen |
+| Verjährung | Schädiger (Einredeführer) | Kenntnis des Trägers nachweisen oder glaubhaft machen |
+| Grobe Fahrlässigkeit § 110 SGB VII | BG | Sachverständigengutachten, Arbeitsschutzakten |
+| Fehlen des Sozialleistungsvermerks | Schädiger | Klärung mit Träger ob Benachrichtigung erfolgte |
 
-## Schreibvorlage Regress-Abwehr
+## Fristen und Verjährung
+
+| Frist | Grundlage | Lauf | Hinweis |
+|---|---|---|---|
+| Verjährungsfrist Regressanspruch | § 195 BGB | 3 Jahre ab Kenntnis des Trägers von Schadensereignis und Schädiger (§ 199 BGB) | Kenntnis beginnt regelmäßig mit Erhalt des Unfallberichts oder staatsanwaltschaftlicher Ermittlungsakte |
+| Hemmung durch Verhandlungen | § 203 BGB | Gehemmt solange Verhandlungen schweben; endet einen Monat nach Abbruch | Kein förmliches Anerkenntniserfordernis; jede ernsthafte Erörterung hemmt |
+| Hemmung durch Klage | § 204 BGB | Hemmung ab Zustellung der Klageschrift | |
+| Frist für Sozialleistungsvermerk | § 116 Abs. 7 SGB X | Keine gesetzliche Frist; aber praktisch unverzüglich nach Schadensereignis | Fehlender Vermerk kann Anspruch erlöschen lassen |
+| Anmeldefrist BG-Regress § 110 SGB VII | — | Keine eigene Ausschlussfrist; aber allgemeine Verjährung | Verjährung beginnt mit Kenntnis des Anspruchs |
+| Reaktionsfrist auf Regressschreiben | — | Keine gesetzliche Frist; aber nach § 242 BGB zeitnah abwehren | Zuwarten erzeugt kein Anerkenntnis; Verjährungshemmung durch Verhandlungen aber möglich |
+
+## Typische Gegenargumente
+
+| Gegenargument des Regressnehmers | Gegenstrategie |
+|---|---|
+| "Kongruenz ist evident — Krankenbehandlungskosten für Unfallverletzung" | Einzelpositionen prüfen: Wahlleistungen, Eigenanteile, nicht unfallbedingte Behandlungen herausrechnen |
+| "Verjährung beginnt erst mit Rechtskraft des Haftpflichturteils" | BGH VI ZR 155/08: Kenntnis des Trägers vom Ereignis genügt; keine Abhängigkeit vom Ausgang des Haftpflichtprozesses |
+| "Familienprivileg gilt nicht bei Haftpflichtversicherungsschutz" | BGH VI ZR 390/02: Privileg gilt auch bei bestehender Haftpflichtversicherung; Versicherer kann nicht besser gestellt sein als Schädiger |
+| "Quote mindert Regress nicht, weil Gesamtschaden gedeckt ist" | § 116 Abs. 3 SGB X ist zwingend: Quotenvorrecht des Geschädigten geht vor; Übergang nur soweit Haftungsanteil vorhanden |
+| "Grobe Fahrlässigkeit reicht für § 110 SGB VII" | Hohe Anforderungen BSG B 2 U 3/17 R: subjektive Komponente der groben Fahrlässigkeit muss positiv festgestellt werden |
+| "Hemmung durch Korrespondenz" | Nur echte Verhandlungen hemmen; reine Sachverhaltsaufklärung oder bloße Forderungsübermittlung sind keine Verhandlungen i.S.d. § 203 BGB |
+| "Vorteilsausgleichung ist ausgeschlossen" | Vorteilsausgleichung greift nur bei Vorteilen die kausal durch das Schadensereignis entstanden sind und nicht unzumutbar sind |
+
+## Schriftsatzbausteine
+
+### Baustein 1: Abwehr wegen fehlender sachlicher Kongruenz
 
 ```
-An die [Krankenkasse / Sozialversicherungstraeger]
-Aktenzeichen [Az]
+An [Gesetzliche Krankenkasse / Sozialversicherungsträger]
+Ihr Zeichen: [Az. Träger]
+Unser Zeichen: [Az. Kanzlei]
 
-In der Schadensache
-Ereignis vom [Datum]
-Geschaedigter [Name]
-unser Mandant [Name Schaedigerseite]
+Regress § 116 SGB X — Ereignis vom [Datum]
+Geschädigter: [Name]
+Mandant/Schädiger: [Name]
 
 Sehr geehrte Damen und Herren,
 
-namens und in Vollmacht der Versicherungsnehmerin / des
-Mandanten weisen wir Ihren Regressanspruch zurueck wie folgt.
+wir zeigen an, namens und in Vollmacht [des Mandanten / der
+Haftpflichtversicherung] tätig zu sein.
 
-I. Sachverhalt
-[chronologische Darstellung Unfallhergang]
+Ihren mit Schreiben vom [Datum] geltend gemachten Regressanspruch
+in Höhe von EUR [Betrag] weisen wir dem Grunde und der Höhe nach
+zurück.
 
-II. Anspruchsabwehr
-1. Familienprivileg § 116 Abs. 6 SGB X — Mandant und Geschaedigter
-   lebten zur Zeit des Ereignisses in haeuslicher Gemeinschaft.
-   Vorsatz liegt nicht vor.
-   ODER
-2. Mitverschuldensquote des Geschaedigten von 50 Prozent — keine
-   Vorfahrtbeachtung § 8 StVO. Quotenvorrecht § 116 Abs. 3 SGB X
-   zugunsten des Geschaedigten reduziert Regressanspruch entsprechend.
-3. Sachliche Kongruenz fehlt teilweise — geltend gemachte
-   Krankenhauskosten umfassen Wahlleistungen die durch GKV nicht
-   gedeckt waren.
-4. Verjaehrungseinrede § 214 BGB. Anspruch ist verjaehrt da Kenntnis
-   bereits am [Datum] vorlag.
+1. Fehlende sachliche Kongruenz
 
-III. Bezifferter Vergleich
-Hilfsweise und ohne Anerkennung einer Rechtspflicht
-bieten wir Vergleich ueber EUR ____ zur abschliessenden
-Erledigung an.
+Die von Ihnen erbrachten Leistungen sind nicht in vollem Umfang
+mit den Schadensersatzpositionen unseres Mandanten sachlich
+kongruent. Im Einzelnen:
 
-Mit kollegialen Gruessen
+a) Wahlleistungen (EUR [x]) — Krankenhauszusatzleistungen wie
+   Zweibettzimmer und Chefarztbehandlung stellen keine durch
+   § 116 SGB X regressfähigen Leistungen dar, da sie nicht auf
+   den Kernschaden rückführbar sind und von der GKV im Rahmen
+   des gesetzlichen Leistungskatalogs nicht gedeckt werden.
+
+b) Behandlungskosten ab [Datum] (EUR [x]) — Die Behandlungen
+   nach diesem Zeitpunkt betreffen ausweislich der vorliegenden
+   Atteste eine von der Unfallverletzung unabhängige Vorerkrankung.
+   Die zeitliche und sachliche Kongruenz fehlt insoweit.
+
+2. Quotenvorrecht § 116 Abs. 3 SGB X
+
+Unabhängig vom Vorstehenden weisen wir darauf hin, dass der
+Geschädigte den Unfall zu 40 % mitverursacht hat
+(Sachverständigengutachten [Datum], Anlage [X]). Der
+Forderungsübergang auf Ihren Träger ist damit auf den durch
+den Haftungsanteil unseres Mandanten (60 %) gedeckten Teil
+beschränkt. Das Quotenvorrecht des Geschädigten nach § 116 Abs. 3
+SGB X geht vor.
+
+Regressfähiger Maximalbetrag: EUR [x] × 60 % = EUR [y].
+Davon zunächst der nicht durch Sozialleistungen gedeckte
+Eigenanteil des Geschädigten abzuziehen.
+
+3. Verjährungseinrede
+
+Vorsorglich erheben wir die Einrede der Verjährung (§ 214 BGB).
+Kenntnis von Schadensereignis und Schädiger bestand Ihrem Träger
+nachweislich seit [Datum]. Die Verjährungsfrist von drei Jahren
+(§ 195 BGB) ist damit am [Datum + 3 Jahre] abgelaufen. Hemmende
+Tatbestände sind nicht ersichtlich.
+
+Wir bitten Sie, den Regressanspruch bis [Frist] zurückzunehmen.
+Andernfalls sehen wir uns veranlasst, ein gerichtliches Verfahren
+abzuwarten und dort sämtliche Einwände geltend zu machen.
+
+Mit freundlichen kollegialen Grüßen
+[Kanzlei]
 ```
 
-## Übergabe
+### Baustein 2: Geltendmachung des Familienprivilegs
 
-- Bei Aufrechterhaltung des Regresses Klage des Trägers vor Sozialgericht oder Zivilgericht je nach Anspruchsgrundlage erwarten.
-- Bei mehreren Regressnehmern (KK, BG, Rentenversicherer) koordinierte Verteidigungsstrategie — Schadensaufteilung dokumentieren.
-- Bei Erfolg Bestätigung des Regressverzichts schriftlich einholen.
-- Anschluss: bei zugrundeliegendem Schadensereignis Skill `fachanwalt-verkehrsrecht-regulierungsanforderung` oder Haftpflichtprozess.
+```
+An [Privater Versicherer / Krankenkasse]
+Ihr Zeichen: [Az.]
+
+Regress § 116 Abs. 6 SGB X / § 86 Abs. 3 VVG — Ereignis vom [Datum]
+
+Sehr geehrte Damen und Herren,
+
+der geltend gemachte Regressanspruch ist wegen des gesetzlichen
+Familienprivilegs vollständig ausgeschlossen.
+
+1. Häusliche Gemeinschaft
+
+Der Schädiger [Name] und die Geschädigte [Name] lebten zum
+Zeitpunkt des Schadensereignisses am [Datum] in häuslicher
+Gemeinschaft unter der Anschrift [Adresse]. Wir überreichen als
+Anlage A die gemeinsame Melderegisterbescheinigung sowie
+Anlage B den Mietvertrag, der beide Personen als Mieter ausweist.
+
+2. Kein Vorsatz
+
+Das Schadensereignis beruhte auf [kurze Beschreibung Fahrlässigkeit].
+Vorsätzliches Handeln scheidet nach dem Sachverhalt aus.
+
+3. Rechtsfolge
+
+Gemäß § 116 Abs. 6 SGB X geht der Schadensersatzanspruch unter
+diesen Voraussetzungen nicht auf Ihren Träger über. Die gesetzliche
+Forderungsabtretung ist vollständig ausgeschlossen.
+§ 86 Abs. 3 VVG enthält eine inhaltsgleiche Regelung für
+privatrechtliche Versicherungsverhältnisse.
+
+Der Regressanspruch besteht nicht. Wir bitten um schriftliche
+Bestätigung der Rücknahme bis [Frist].
+
+Mit freundlichen kollegialen Grüßen
+[Kanzlei]
+```
+
+### Baustein 3: Vergleichsangebot nach Kongruenzprüfung
+
+```
+An [Sozialversicherungsträger / Versicherer]
+Ihr Zeichen: [Az.]
+
+Regresssache [Geschädigter] / [Schädiger] — Vorläufiges Vergleichsangebot
+
+Sehr geehrte Damen und Herren,
+
+nach eingehender Prüfung Ihres Regressanspruchs ergibt sich
+folgende Berechnung des anerkennungsfähigen Betrags:
+
+Ihrer Forderung: EUR [Gesamtforderung Träger]
+
+Abzüge:
+– Nicht kongruente Positionen (Wahlleistungen, Vorerkrankung): EUR [x]
+– Quotenbereinigung 40 % Mitverschulden des Geschädigten
+  gem. § 116 Abs. 3 SGB X: EUR [y]
+– Verjährte Teilbeträge (Leistungen vor [Datum]): EUR [z]
+Anerkennungsfähiger Betrag: EUR [Restbetrag]
+
+Namens und in Vollmacht unseres Mandanten bieten wir zur
+vollständigen und abschließenden Erledigung aller Ansprüche
+aus dem Ereignis vom [Datum] einen Vergleich über EUR [Betrag]
+an. Dies entspricht dem nach vorstehender Berechnung
+anerkennungsfähigen Betrag zuzüglich eines Risikozuschlags von
+10 % zur Vermeidung weiterer Rechtskosten.
+
+Das Angebot gilt bis zum [Frist] und erlischt danach ersatzlos.
+
+Mit freundlichen kollegialen Grüßen
+[Kanzlei]
+```
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| Streitwert | Regressforderung des Trägers netto nach Abzug unstreitiger Positionen | Keine Erhöhung durch Mitverschuldensquote; diese wirkt auf Hauptsache |
+| Gerichtskosten | Nach GKG Anlage 1 Nr. 1210 (Zivilklage): z.B. bei EUR 50.000 Streitwert ca. EUR 3 nach GKG | Beim LG Kammer für Handelssachen bei Versicherern; beim SG bei öffentlich-rechtlichen Trägern |
+| Anwaltskosten | RVG nach Streitwert; bei 50.000 EUR Gegenstandswert 1,3 Verfahrensgebühr ca. EUR 1.564 zzgl. MwSt. | Kostenerstattung bei Obsiegen |
+| Sachverständigenkosten | Kongruenzgutachten ca. EUR 1.500–3.500 je nach Umfang | Investition lohnt bei Regressforderung über EUR 10.000 |
+| Zuständiges Gericht | Zivilklage: AG/LG nach Streitwert; BG-Regress § 110 SGB VII: Arbeitsgericht; GKV/RV-Regress § 116 SGB X: Zivilgericht (BGH ZIP 2019, 1234) | Zuständigkeit prüfen vor Einlassung |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Familienprivileg eindeutig gegeben | Sofortige schriftliche Abwehr mit Melderegisterbescheinigung; kein Vergleich nötig |
+| Kongruenz teilweise strittig, Verjährung unklar | Detaillierte Kongruenzanalyse vor Verhandlungseinstieg; Verjährungseinrede hilfsweise erheben |
+| Mitverschulden des Geschädigten hoch (>30 %) | Quotenvorrecht offensiv einwenden; Berechnung des Quotendeckelbetrags schriftlich vorlegen |
+| Regressforderung über EUR 50.000 | Sachverständigengutachten zur Kongruenz beauftragen; wirtschaftlich sinnvoll |
+| BG-Regress § 110 SGB VII | Subjektiven Tatbestand der groben Fahrlässigkeit streng angreifen; BSG-Rechtsprechung nutzen |
+| Mehrere Regressnehmer gleichzeitig | Koordination zwischen Haftpflichtversicherer und Fachanwalt; einheitliche Linie zu Mitverschulden und Kongruenz |
+| Verjährung klar eingetreten | Reine Einredeschrift; keine inhaltliche Einlassung zur Haftung (würde Hemmung riskieren) |
+| Vergleich angestrebt | Erst eigene Maximalposition berechnen; Vergleich nur mit schriftlichem Abfindungserlass ohne weiteren Regress |
+
+## Anschluss-Skills
+
+- `fachanwalt-verkehrsrecht-regulierungsanforderung` — bei zugrundeliegendem Verkehrsunfall Haftungsquote und Schadensabwicklung
+- `fachanwalt-versicherungsrecht-deckungsklage` — wenn Haftpflichtversicherer Deckung für Regressfall verweigert
+- `unfall-haftungsquote-berechnen` — Berechnung der Mitverschuldensquote als Grundlage für Quotenvorrecht
+- `klage-versicherer-strategie` — wenn Regressnehmer Klage erhebt und Prozessstrategie erforderlich ist
+
+## Quellen
+
+- BGH VI ZR 132/11, Urt. v. 24.04.2012 — Quotenvorrecht § 116 Abs. 3 SGB X
+- BGH VI ZR 239/14, Urt. v. 10.03.2015 — sachliche Kongruenz Verdienstausfall/Krankengeld
+- BGH VI ZR 390/02, Urt. v. 20.01.2004 — Familienprivileg § 116 Abs. 6 SGB X
+- BGH IV ZR 50/03, Urt. v. 08.10.2003 — Forderungsübergang § 86 VVG
+- BGH VI ZR 155/08, Urt. v. 14.07.2009 — Verjährungsbeginn Regressanspruch § 116 SGB X
+- BSG B 2 U 3/17 R, Urt. v. 26.06.2018 — grobe Fahrlässigkeit § 110 SGB VII
+- Geigel, Der Haftpflichtprozess, 28. Aufl. 2022
+- Küppersbusch/Höher, Ersatzansprüche bei Personenschaden, 13. Aufl. 2021
+- Eichenhofer/Wenner, SGB X, 3. Aufl. 2022

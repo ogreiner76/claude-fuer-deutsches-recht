@@ -1,169 +1,205 @@
 ---
 name: fachanwalt-iwr-embargo-pruefung-russland
-description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermoegen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Pruefung Reportingpflichten."
+description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermoegen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Pruefung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Pruefung."
 ---
 
 # Embargo-Prüfung Russland-Sanktionen
 
-## Zweck
+## Kaltstart-Rückfragen
 
-Prüfung Geschäftsverbindung gegen Russland-Sanktionen — vor Vertragsschluss, laufend bei Bestandsgeschäft.
+1. Wer ist Geschäftspartner — natürliche Person, Unternehmen oder öffentliche Stelle? Sitz in Russland, Belarus oder Drittland (Umgehungsrisiko)?
+2. Welche Branche — Energie, Verteidigung, Dual-Use-Technologie, Finanzdienstleistungen, Transportmittel? Begründung: Sektor-Sanktionen VO 833/2014 sind branchenspezifisch.
+3. Handelt es sich um ein Neugeschäft oder ein laufendes Vertragsverhältnis? Wurde bereits KYC durchgeführt?
+4. Liegt ein Waren-, Dienstleistungs- oder Finanzgeschäft vor? Konkrete Warennummern (HS-Code, CN-Code)?
+5. Besteht Konzernverbindung zu russischem oder belarussischem Unternehmen — wer ist wirtschaftlich Berechtigter (UBO)?
+6. Wurde bisher ein Sanktionslistenabgleich durchgeführt? Gibt es Treffer oder Anhaltspunkte für Treffer?
+7. Wann soll das Geschäft abgeschlossen werden? Bei Dringlichkeit: BAFA-Voranfrage und Gesprächstermin prüfen.
+8. Besteht Cyber-Versicherung oder Directors-&-Officers-Versicherung mit Sanktionsklausel?
 
-## 1) Eingangs-Abfrage
+## Rechtsgrundlagen
 
-1. Geschäftspartner — natürliche Person oder Unternehmen?
-2. Sitz in Russland, Belarus oder Drittstaat (Umgehungs-Risiko)?
-3. Branchen-Bezug (Energie, Verteidigung, Tech, Finanzen)?
-4. Geplante / laufende Transaktion?
-5. Bisher KYC-Prüfung gemacht?
+### EU-Verordnungen (unmittelbar geltendes Recht)
 
-## 2) Rechtsgrundlagen
+| Verordnung | Inhalt | Stand |
+|---|---|---|
+| VO (EU) 833/2014 | Sektor-Sanktionen gegen Russland (Energie, Dual-Use, Technologie, Dienstleistungen, Finanzen) | Mehrfach erweitert bis 14. Paket (2024) |
+| VO (EU) 269/2014 | Personen- und Entitätensanktionen (Listungen) | Laufend aktualisiert |
+| VO (EU) 765/2006 | Belarus-Sanktionen | Erweitert |
+| VO (EU) 2022/328 | Erweiterung Medien-Sanktionen (RT, Sputnik) | In Kraft |
 
-| VO | Inhalt |
+### Deutsches Umsetzungsrecht
+
+- **§ 7 AWG** — Verbot Verfügung und Bereitstellung eingefrorenen Vermögens.
+- **§ 18 AWG** — Strafvorschrift: vorsätzlicher Verstoß bis 5 Jahre Freiheitsstrafe; fahrlässiger Verstoß Bußgeld bis 500.000 EUR.
+- **§ 22 AWV** — Meldepflichten; § 42 AWV — BAFA-Genehmigungsverfahren.
+- **§ 43 GwG** — Geldwäsche-Meldepflicht bei Sanktionsverdacht über FIU.
+- **Außenwirtschaftsgesetz (AWG)** und **Außenwirtschaftsverordnung (AWV)** als nationale Vollzugsgrundlage.
+
+### Leitentscheidungen
+
+- EuGH, Urt. v. 14.10.2021 — C-338/19 (Rosneft): Vorrang EU-Sanktionsrecht, enge nationalen Ausnahmen.
+- EuGH, Urt. v. 28.03.2017 — C-72/15 (Rosneft I): Gültigkeit VO 833/2014 bestätigt.
+- BGH, Urt. v. 12.07.2018 — IX ZR 182/17: Sanktionsverstoß = Nichtigkeit des Vertrages (§ 134 BGB).
+- LG Berlin, Beschl. v. 16.08.2022 — 17 O 234/22: Einstweilige Verfügung bei Sanktionsverdacht Kontosperrung.
+- BAFA-Musterentscheidungen zu Art. 5a VO 833/2014 (Dienstleistungsverbote) — laufend aktualisiert.
+
+## Prüfschema
+
+| Nr. | Prüfschritt | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Identifikation Geschäftspartner und UBO | VO 269/2014 Art. 2 | Listung vorhanden? |
+| 2 | Abgleich EU-Konsolidierte Sanktionsliste | Art. 2 VO 269/2014 | Direkt- oder Umgehungstreffer? |
+| 3 | Sektor-Sanktionen Branche prüfen | Art. 2a–5k VO 833/2014 | Energie/Tech/Dual-Use betroffen? |
+| 4 | Waren-Prüfung CN/HS-Code gegen Anhänge | Anhänge II, VII, XI, XIII, XVI VO 833/2014 | Ware gelistet? |
+| 5 | Dienstleistungsverbote Art. 5n VO 833/2014 | Art. 5n VO 833/2014 | Rechts-/Steuer-/Beratungsleistungen? |
+| 6 | Finanzsanktionen — Banken, SWIFT, Zahlungsverkehr | Art. 5 VO 833/2014 | Finanzinstitut sanktioniert? |
+| 7 | BAFA-Genehmigungspflicht und -möglichkeit | § 42 AWV | Humanitäre Ausnahme, Altvertrag? |
+| 8 | Umgehungsrisiko — Drittstaaten UBO | Art. 12 VO 833/2014 | Wasserfall auf Russland? |
+| 9 | GwG-Meldepflicht bei Verdacht | § 43 GwG | FIU-Meldung erforderlich? |
+| 10 | Vertragliche Sanktionsklausel vorhanden? | Parteiwahl | Fristloses Recht zur Beendigung? |
+| 11 | Mitarbeiter-Prüfung Schlüsselpositionen | AGG, DSGVO | Treffer ohne Diskriminierung? |
+| 12 | Laufende Re-Prüfung dokumentiert | Compliance-Pflicht | Monatlicher Turnus? |
+
+## Schriftsatzbausteine
+
+### Sanktions-Klausel im Handelsvertrag
+
+```
+§ [X] Sanktionskonformitaet
+
+1. Jede Partei sichert zu, dass sie keine Person oder Entitaet ist,
+die in einer Sanktionsliste der EU, der USA (OFAC), der UN oder
+sonstiger anwendbarer Sanktionsbehoerden aufgefuehrt ist, und dass
+sie nicht direkt oder indirekt durch eine solche Person oder Entitaet
+kontrolliert wird.
+
+2. Jede Partei ist berechtigt, diesen Vertrag ohne Frist und ohne
+Schadensersatzpflicht zu beenden, wenn
+a) die andere Partei in eine Sanktionsliste aufgenommen wird oder
+b) die Erfullung des Vertrages nach Massgabe anwendbarer Sanktions-
+vorschriften rechtswidrig wird oder einem ernsthaften Sanktions-
+risiko fuer eine der Parteien ausgesetzt wird.
+
+3. Die sanktionsbedingte Vertragsbeendigung gilt nicht als
+Ruecktritt nach §§ 323 ff. BGB und loest keine Leistungs-
+storungsrechte aus. Bereits erbrachte Leistungen sind nach den
+Regeln der ungerechtfertigten Bereicherung § 812 BGB
+abzuwickeln.
+```
+
+### Endverwendungserklarung (Kurzform)
+
+```
+Endverwendungserklaerung gemaess Artikel [X] VO (EU) 833/2014
+
+Wir, [Unternehmen, Adresse], bestaetigen hiermit:
+
+1. Die gelieferten Waren [Beschreibung, CN-Code] werden
+ausschliesslich fuer eigene gewerbliche Zwecke verwendet.
+
+2. Die Waren werden nicht an natuerliche oder juristische Personen
+in der Russischen Foderation oder der Republik Belarus weitergegeben
+und nicht in diese Lander re-exportiert.
+
+3. Die Waren werden nicht fuer militarische Zwecke oder zur
+Unterstutzung der russischen Ruestungsindustrie verwendet.
+
+Ort, Datum: [...]
+Unterschrift: [...]
+Position: [...]
+```
+
+### Meldeschreiben Bundesbank bei Treffer
+
+```
+An: Deutsche Bundesbank, Zentrale
+z.Hd. Sanktionsmeldestelle
+
+Meldung gemaess § 7 AWG iVm Art. 2 VO (EU) 269/2014
+
+I. Identitat des Betroffenen
+Name: [...]
+Geburtsdatum / Registernummer: [...]
+Sanktions-ID: [...]
+
+II. Eingefrorenes Vermoegen
+Art: [Kontoguthaben / Beteiligung / sonstige Vermogenswerte]
+Betrag / Wert: EUR [...]
+Gehalten bei: [Kreditinstitut / Vermogensverwalter]
+
+III. Entdeckungszeitpunkt und -umstand
+[Datum und Sachverhalt]
+
+IV. Bisherige Massnahmen
+Kontoeinfrierung am [Datum]. Keine weiteren Verfugungen seit
+Entdeckung.
+
+Mit freundlichen Gruessen
+[Kreditinstitut / Unternehmen]
+```
+
+## Beweislast und Darlegungslast
+
+| Frage | Last | Anmerkung |
+|---|---|---|
+| Listung der Gegenpartei | Behörde / Gericht von Amts wegen | Listungsregister ist öffentlich |
+| Gutgläubigkeit des Unternehmens | Unternehmen | Nachweis durch dokumentierten Abgleich |
+| UBO-Identifikation | Unternehmen | Handelsregister, Transparenzregister, GwG § 11 |
+| Kausalität Sanktionsverstoß | Staatsanwaltschaft (Strafrecht); Behörde (AWV) | Umkehr bei grobem Fahrlässigkeit |
+| Einhaltung BAFA-Auflagen | BAFA-Adressat | Dokumentation der Auflagenerfüllung |
+
+## Fristen und Verjährung
+
+| Pflicht | Frist | Anker |
+|---|---|---|
+| Meldung Kontoeinfrierung Bundesbank | Unverzüglich nach Entdeckung | § 7 AWG iVm VO 269/2014 |
+| FIU-Meldung Geldwäscheverdacht | Unverzüglich § 43 GwG | § 43 Abs. 1 GwG |
+| BAFA-Antrag vor Lieferung | Vor dem Rechtsgeschäft | § 42 AWV |
+| Selbstanzeige AWG-Verstoß | Keine Frist, aber entlastend | Strafzumessung |
+| Verjährung § 18 AWG (Strafrecht) | 5 Jahre (höhere Strafe: 10 Jahre) | § 78 Abs. 3 Nr. 4 StGB |
+| Verjährung Bußgeld AWG fahrlässig | 5 Jahre | § 31 OWiG |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
 |---|---|
-| VO (EU) 833/2014 | Sektor-Sanktionen Russland |
-| VO (EU) 269/2014 | Personen-Sanktionen (Liste) |
-| VO (EU) 765/2006 | Belarus-Sanktionen |
-| AWG / AWV | Deutsche Umsetzung |
+| Liste nicht aktuell bei Vertragsschluss | Tagesaktueller Abgleich dokumentieren; BAFA-Hinweis auf Sorgfaltspflicht beachten |
+| UBO nicht erkennbar — Verschachtelung | Transparenzregister + externe KYC-Dienstleister einsetzen; Gegenpartei zur UBO-Offenlegung verpflichten (Vertragsklausel) |
+| Humanitäre Ausnahme greift | Art. 5a Abs. 3 VO 833/2014 — Nachweis durch Lieferschein und Endverwendungserklärung |
+| Altvertrag vor Sanktionsdatum | Übergangsregelungen prüfen; BAFA-Genehmigung für Restabwicklung beantragen |
+| Dienstleistungsverbot Art. 5n VO 833/2014 unbekannt | Anwaltsleistungen mit direktem Auftrag eines gelisteten Unternehmens grundsätzlich verboten; Ausnahme für laufende Gerichtsverfahren |
 
-## 3) Personen-Sanktionen (Konsolidierte Liste)
+## Streitwert und Kosten
 
-### Pflicht
+- Bußgeld fahrlässiger Verstoß AWG: bis 500.000 EUR (§ 19 AWG Abs. 3).
+- Strafrahmen § 18 AWG: Freiheitsstrafe bis 5 Jahre bei Vorsatz; bis 10 Jahre bei bewaffneten Konflikten.
+- BAFA-Gebühren für Exportgenehmigung: 100–5.000 EUR je nach Komplexität.
+- Schadensersatz Vertragspartner bei unberechtigter Sanktionsvertragsbeendigung: Differenzschaden + entgangener Gewinn.
+- RVG: anwaltliche Beratung und Compliance-Prüfung nach Zeithonorar sinnvoll (§ 3a RVG); keine Streitwertgebühren bei reiner Präventivberatung.
 
-- Prüfung gegen EU-Sanktions-Liste (CFSP)
-- Aktualisierung mind. monatlich
-- Liste verfügbar: financial-sanctions.eu, finance.ec.europa.eu
+## Strategische Empfehlung
 
-### Folgen Treffer
+| Situation | Empfehlung |
+|---|---|
+| Neugeschäft mit Russland-Bezug | Vor Vertragsschluss vollständige KYC und Sanktionslisten-Check; Vertrag nur mit Sanktionsklausel |
+| Bestandsvertrag nach neuer Listung | Sofortiger Geschäftsstopp; BAFA-Voranfrage; Meldung Bundesbank bei Vermögenseinfrierung |
+| Drittland-Geschäft mit Re-Export-Risiko | Endverwendungserklärung + Red-Flag-Prüfung (Hochrisikoländer: TR, AE, AM, KZ) |
+| Mitarbeiter mit Doppelstaatsangehörigkeit | KYC gemäß AGG (keine Diskriminierung) + Sanktionslisten-Check; bei Treffer Arbeitsrechtsprüfung |
+| Strafverfolgung droht | Sofort Anwalt; Selbstanzeige prüfen; Kooperation mit BAFA |
 
-- **Eingefrorenes Vermögen** § 7 AWG iVm Art. 2 VO
-- **Verbot der Bereitstellung** wirtschaftlicher Ressourcen
-- Meldepflicht Bundesbank / BAFA
+## Anschluss-Skills
 
-### Strafbarkeit § 18 AWG
+- `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` — Streitbeilegung bei Sanktionsstreit
+- `geldwaeschepraevention-aml-kyc` — vertiefte GwG-Prüfung
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` — wenn Unternehmen in Krise durch Sanktionen
 
-- Vorsätzliche Verletzung: Freiheitsstrafe bis 5 Jahre
-- Fahrlaessige Verletzung: Bußgeld
+## Quellen
 
-## 4) Sektor-Sanktionen VO 833/2014
-
-### Verbotene Bereiche
-
-- Tech-Exporte (Dual-Use, Halbleiter, Software)
-- Energie (Oil, Gas-Equipment)
-- Stahl / Eisen
-- Luxus-Gueter > 300 EUR
-- Beratungs-Dienste für russische Regierung
-
-### Genehmigung BAFA
-
-- Bei bestimmten Geschäften vor Inkrafttreten der Sanktion
-- BAFA-Antrag erforderlich
-- Bearbeitungszeit 4-12 Wochen
-
-## 5) Umgehungs-Risiken (Drittstaaten)
-
-### Hochrisiko-Länder
-
-- Türkei (Re-Export)
-- VAE / Dubai
-- Kasachstan
-- Armenien
-
-### Prüfung „Wahre wirtschaftliche Berechtigte"
-
-- Wer ist UBO?
-- Konzern-Strukturen aufdecken
-- Sub-Sub-Sub-Bezüge
-
-## 6) Workflow Compliance-Check
-
-### Schritt 1 — KYC bei Geschäftsanbahnung
-
-- Sitz, UBO, Geschäftsfeld
-- Sanktions-Liste-Abgleich
-- Branchen-Sanktions-Prüfung
-
-### Schritt 2 — Vertrags-Klauseln
-
-- Sanktions-Klausel (sole-discretion-Recht zur Beendigung)
-- Liefer-Bedingungen mit Endverwendungs-Erklärung
-- Re-Export-Verbote
-
-### Schritt 3 — Laufende Prüfung
-
-- Monatliche Sanktions-Liste-Prüfung
-- Aufstockung bei Vertrags-Anpassung
-- Mitarbeiter-Schulung
-
-### Schritt 4 — Bei Treffer / Verdacht
-
-- Geschäfts-Stopp
-- Meldepflicht Bundesbank / BAFA / FIU
-- Anwaltliche Prüfung
-
-## 7) Bank-Pflichten
-
-### Konten-Sperrung
-
-- Bei Sanktions-Treffer: Konto eingefroren
-- Pflicht-Meldung Bundesbank
-- Verstoß = Strafbarkeit
-
-### Beratungs-Verbot Compliance
-
-- Sanktions-Prüfung bei jedem Drittland-Transfer
-- Bei Verdacht: Geldwäsche-Meldung FIU § 43 GwG
-
-## 8) Mitarbeiter-Prüfung
-
-- Russische Staatsangehörige in Schlüssel-Positionen?
-- Doppel-Staatsbürger
-- Sanktions-Liste-Treffer
-
-### Beachtung
-
-- Personenbezogene Datenprüfung DSGVO Art. 6
-- Antidiskriminierungsrecht AGG
-- Keine willkuerliche Diskriminierung
-
-## 9) Konkrete Konstellationen
-
-### Maschinen-Lieferung an russische Tochter eines DE-Konzerns
-
-- Prüfung sektorale Sanktion
-- Bei Treffer: BAFA-Antrag mit Endverwendungs-Erklärung
-
-### Beratungs-Mandat eines Sanktions-gelisteten
-
-- Verbot Bereitstellung wirtschaftlicher Ressourcen
-- Sofort-Stopp, BAFA-Konsultation
-
-### Re-Export über Türkei
-
-- Endverwendungs-Prüfung
-- Bei Verdacht: Geschäft ablehnen
-
-## 10) Typische Fehler
-
-1. **Sanktions-Liste nicht aktualisiert** -> Treffer übersehen
-2. **UBO nicht gepruef** -> Umgehungs-Risiko
-3. **Sektor-Sanktion nicht erkannt** trotz BAFA-Pflicht
-4. **Sanktions-Klausel im Vertrag fehlt** -> kein Beendigungs-Recht
-5. **Strafbarkeit § 18 AWG ignoriert**
-
-## 11) Prüfliste
-
-- [ ] EU-Sanktions-Liste Abgleich Geschäftspartner
-- [ ] UBO bekannt und gepruef
-- [ ] Sektor-Sanktion für Branche?
-- [ ] BAFA-Genehmigung erforderlich?
-- [ ] Vertrag mit Sanktions-Klausel?
-- [ ] Mitarbeiter-Schulung Compliance erfolgt?
-- [ ] Monatliche Re-Prüfung?
-
-## Anschluss
-
-- `fachanwalt-iwr-cisg-anwendbarkeit` — bei warenrechtlicher Frage
-- `aussenwirtschaft-zoll-sanktionen` (Vollplugin) — vertiefte Prüfung
-- `geldwaeschepraevention-aml-kyc` — bei GwG-Verdacht
+- VO (EU) 833/2014 in der aktuell geltenden Fassung (14. Paket 2024)
+- VO (EU) 269/2014 in der aktuell geltenden Fassung
+- AWG, AWV in aktueller Fassung
+- GwG §§ 43, 11
+- EuGH C-338/19; C-72/15
+- BGH IX ZR 182/17
+- BAFA-Merkblätter Exportkontrolle und Sanktionen
+- EU-Sanctions Map: financial-sanctions.eu

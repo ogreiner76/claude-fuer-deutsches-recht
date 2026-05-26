@@ -5,148 +5,244 @@ description: "Nebenklage und Verletztenvertretung im Strafverfahren: Nebenklageb
 
 # Nebenklage und Opfervertretung im Strafverfahren
 
-## Wann dieser Skill greift
+## Kernsachverhalt & Mandantenfragen
 
-- Mandantin oder Mandant ist Verletzte/r einer Straftat und moechte eigene Rechte im laufenden Strafverfahren wahrnehmen.
-- Typische Konstellationen: Sexualstraftaten, schwere Koerperverletzung, Stalking gemaess § 238 StGB, Beleidigung im engeren Sinne (§ 185 StGB) bei Nebenklagebefugnis, Straftaten gegen das Leben (Hinterbliebenenvertretung), schwere Wirtschaftsstraftaten mit individueller Verletzteneigenschaft (§ 263 StGB, § 266 StGB - eingeschraenkte Nebenklagebefugnis).
-- Auch im Adhaesionsverfahren (zivilrechtliche Anspruche im Strafprozess) und bei psychosozialer Prozessbegleitung gemaess § 406g StPO.
+Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverfahren – mit Rechten, die über bloße Zeugenaussagen weit hinausgehen. Gleichzeitig ist sie keine vollwertige Parteistellung. Die Kunst liegt darin, die Mandantschaft zu schützen, ohne den Prozess zu blockieren.
 
-## Nebenklagebefugnis gemaess § 395 StPO
+**8 Kaltstart-Rückfragen:**
 
-### Katalog (Stand 2026)
+1. Welche konkrete Tat wurde begangen und wann? Liegt eine schriftliche Anzeige oder Strafanzeige vor?
+2. Ist die Staatsanwaltschaft bereits tätig? Liegt ein Aktenzeichen vor?
+3. Wie ist die Beziehung zum/zur Beschuldigten (Fremd, Bekannt, Familie, Arbeitsbeziehung)?
+4. Welche körperlichen, seelischen oder finanziellen Schäden sind entstanden? Ärztliche Dokumentation vorhanden?
+5. Wurde die Mandantschaft bereits als Zeugin/Zeuge vernommen? Protokoll vorhanden?
+6. Besteht akute Gefährdung durch den Täter (Drohungen, Stalking, Wiederholungsgefahr)?
+7. Sind zivilrechtliche Ansprüche geplant (Schmerzensgeld, Schadensersatz, Verdienstausfall)?
+8. Wünscht die Mandantschaft Anonymität oder befürchtet sie Repressalien durch Anschluss als Nebenklägerin?
 
-Nebenklagebefugt ist insbesondere, wer durch die rechtswidrige Tat verletzt ist, die in § 395 Abs. 1 oder Abs. 3 StPO genannt wird:
+---
 
-- Abs. 1 Nr. 1: Versuchte oder vollendete Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184k StGB).
-- Abs. 1 Nr. 2: Versuchter Mord (§§ 211, 212 StGB), versuchter Totschlag - Anschluss durch Hinterbliebene bei vollendetem Toetungsdelikt.
-- Abs. 1 Nr. 3: Koerperverletzungsdelikte gemaess §§ 223 bis 226a, 340 StGB.
-- Abs. 1 Nr. 4: Freiheitsberaubung, Stalking, Noetigung, Bedrohung (§§ 232 bis 241 StGB).
-- Abs. 1 Nr. 5: Verletzung des persoenlichen Lebens- und Geheimbereichs (§§ 201 bis 201a StGB).
-- Abs. 3: weitere Personen bei besonderen Schutzbeduerftigkeitsgruenden (z.B. schwere Folgen, hilflose Lage).
+## Rechtsgrundlagen
 
-### Hinterbliebenenvertretung
+| Norm | Inhalt |
+|---|---|
+| § 395 StPO | Nebenklagebefugnis; Katalog der berechtigenden Straftaten (Abs. 1–3) |
+| § 396 StPO | Anschlussverfahren; Erklärung beim Gericht; Form und Frist |
+| § 397 StPO | Befugnisse der Nebenklage: Anwesenheit, Fragerecht, Beweisantragsrecht, Schlussvortragsrecht |
+| § 397a StPO | Beiordnung des Opferanwalts; von Amts wegen (Abs. 1) oder nach PKH-Maßstab (Abs. 2) |
+| § 400 StPO | Rechtsmittelbefugnis der Nebenklage (eingeschränkt auf Strafzumessung) |
+| § 401 StPO | Revision der Nebenklage |
+| § 403 StPO | Adhäsionsantrag: Geltendmachung zivilrechtlicher Ansprüche im Strafverfahren |
+| § 406e StPO | Akteneinsicht der verletzten Person durch anwaltliche Vertretung |
+| § 406g StPO | Psychosoziale Prozessbegleitung; Beiordnung durch das Gericht |
+| § 68 Abs. 2/3 StPO | Adressanonymisierung für gefährdete Zeugen und Nebenklägerinnen |
+| § 172 StPO | Klageerzwingungsverfahren bei Einstellungsentscheidung der StA |
+| § 238 StGB | Stalking; häufige Grundlage der Nebenklage |
+| §§ 174–184k StGB | Sexualstraftaten; Katalog für Nebenklagebefugnis § 395 Abs. 1 Nr. 1 |
+| §§ 223–226a StGB | Körperverletzungsdelikte; Katalog § 395 Abs. 1 Nr. 3 |
+| §§ 211, 212 StGB | Tötungsdelikte; Hinterbliebene sind nebenklageberechtigt |
 
-- Bei Toetungsdelikten (§§ 211, 212 StGB) sind die in § 395 Abs. 2 Nr. 1 StPO genannten Angehoerigen nebenklagebefugt: Eltern, Kinder, Geschwister, Ehegatten, Lebenspartnerinnen oder Lebenspartner.
+---
 
-### Pruefkette
+## Leitentscheidungen
 
-1. Tatbestand der Anklage / des Eroeffnungsbeschlusses pruefen - faellt er in den Katalog?
-2. Mandantschaft ist persoenlich Verletzte/r? Sachenrechtliche oder rein wirtschaftliche Beeintraechtigung reicht nicht aus.
-3. Vorgaengige Verfahren / parallele Straftaten beachten.
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| BGH 2 StR 359/14 | BGH, 17.12.2014 | Nebenklage ist nach Anschluss auch noch nach Abschluss der Beweisaufnahme zulässig, solange Schlussvorträge nicht begonnen haben |
+| BGH 4 StR 213/19 | BGH, 10.10.2019 | § 397a Abs. 1 StPO: Beiordnung von Amts wegen setzt voraus, dass Nebenklage zulässig; Prüfung muss das Gericht vornehmen |
+| BVerfG 2 BvR 2177/14 | BVerfG, 21.11.2014 | Akteneinsichtsrecht der Verletzten gem. § 406e StPO kann nur aus gewichtigen Gründen versagt werden; Verhältnismäßigkeit |
+| BGH 2 StR 195/18 | BGH, 19.09.2018 | Rechtsmittelbefugnis der Nebenklage nach § 400 StPO: Nebenklage kann Verurteilung wegen schwereren Delikts erstreiten |
+| OLG Hamburg 2 Ss 217/16 | OLG Hamburg, 2017 | Psychosoziale Prozessbegleitung nach § 406g StPO kein Anrecht auf Anwalt; Trennung von § 397a StPO beachten |
+| BGH 5 StR 486/20 | BGH, 24.02.2021 | Fragerecht der Nebenklage nach § 397 Abs. 1 StPO: Fragen die ausschließlich der Belastung des Angeklagten dienen, sind zu unterbinden |
 
-## Anschluss gemaess § 396 StPO
+---
 
-- Anschluss durch Erklaerung gegenueber dem Gericht (schriftlich beim Gericht der Hauptsache).
-- Auch im Ermittlungsverfahren (§ 395 Abs. 4 StPO) bereits moeglich.
-- Anschluss ist auch im laufenden Hauptverfahren bis zum Schluss der Beweisaufnahme noch moeglich.
-- Wirkung: Stellung als Nebenklagevertretung mit eigenen Befugnissen.
+## Prüfschema Nebenklage
 
-### Mustertext Anschlusserklaerung
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Tatbestand der Anklage/Eröffnungsbeschluss: Fällt er in den Katalog § 395 StPO? | § 395 Abs. 1–3 StPO |
+| 2 | Verletzteneigenschaft: Ist Mandantschaft persönlich und unmittelbar durch die Tat verletzt? Sachenrechtliche oder rein wirtschaftliche Beeinträchtigung reicht nicht | § 395 StPO |
+| 3 | Hinterbliebenenstellung bei Tötungsdelikt: Verwandtschaftsbeziehung prüfen (§ 395 Abs. 2 Nr. 1 StPO) | § 395 Abs. 2 StPO |
+| 4 | Akteneinsichtsantrag gemäß § 406e StPO: Berechtigtes Interesse darlegen; Ablehnung anfechten | § 406e StPO |
+| 5 | Beiordnungsantrag § 397a StPO: Voraussetzungen von Amts wegen (Abs. 1) oder nach PKH-Maßstab (Abs. 2) prüfen | § 397a StPO |
+| 6 | Anschlusserkärung formulieren und einreichen: schriftlich beim Gericht, mit Vollmacht | § 396 StPO |
+| 7 | Psychosoziale Prozessbegleitung § 406g StPO prüfen: Schutzbedürftigkeit bei Sexualdelikten, Minderjährigkeit, schwerer Gewalt | § 406g StPO |
+| 8 | Adhäsionsantrag erwägen: Schmerzensgeld, Schadensersatz, Feststellungsantrag für Zukunftsschäden | §§ 403–406c StPO |
+| 9 | Adressanonymisierung beantragen wenn Gefährdung: § 68 Abs. 2/3 StPO | § 68 StPO |
+| 10 | Hauptverhandlungsvorbereitung: Fragerecht, Beweisantragsrecht, Erklärungsrecht nach § 257 StPO | § 397 StPO |
+| 11 | Schlussplädoyer vorbereiten: Schuldspruchantrag, Strafzumessungsargumente, Adhäsionsantrag | § 397 Abs. 1 StPO |
+| 12 | Rechtsmittelprüfung nach Urteil: Berufung/Revision nach § 400/§ 401 StPO – nur zu Lasten Angeklagter | §§ 400, 401 StPO |
 
-> Im Strafverfahren gegen [Name Angeklagte/r] wegen [Tatvorwurf] (Aktenzeichen [...] Gericht [...]) zeige ich die Vertretung der Verletzten [Name] an und erklaere hiermit den Anschluss als Nebenklage gemaess §§ 395 Abs. 1 Nr. [...], 396 Abs. 1 StPO. Eine schriftliche Vollmacht liegt in Kopie bei.
+---
 
-## Opferanwaltsbeiordnung gemaess § 397a StPO
+## Schriftsatzbausteine
 
-### Beiordnung von Amts wegen (§ 397a Abs. 1 StPO)
+### Baustein 1 – Anschlusserkärung als Nebenklage
 
-Wenn Verletzte:
+```
+An das [Gericht]
+Aktenzeichen: [...]
 
-- Opfer eines versuchten Toetungsdelikts oder einer Sexualstraftat sind.
-- Opfer einer Tat nach § 226 StGB (schwere Koerperverletzung) sind.
-- Hinterbliebene eines getoeteten Angehoerigen sind.
-- Minderjaehrig sind.
+Anschlusserklärung als Nebenklage gemäß §§ 395, 396 StPO
 
-Beiordnung kostenlos, ohne Einkommenspruefung.
+In der Strafsache gegen [Name Beschuldigte/r]
+wegen [Tatvorwurf, z.B. schwere Körperverletzung gemäß § 226 StGB]
 
-### Beiordnung nach PKH-Kriterien (§ 397a Abs. 2 StPO)
+zeige ich die anwaltliche Vertretung der Verletzten
+[Name, Geburtsdatum, Anschrift]
+an.
 
-- Bei sonstigen Nebenklagebefugten, die ihre Interessen nicht selbst wahrnehmen koennen.
-- Voraussetzung: hinreichende Erfolgsaussicht und PKH-Bedingungen (§ 114 ZPO entsprechend).
+Ich erkläre hiermit den Anschluss als Nebenklage gemäß
+§§ 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO.
 
-### Antrag
+Begründung der Nebenklagebefugnis:
+Die Verletzte hat durch die Tat vom [Datum] schwere
+Körperverletzung im Sinne des § 226 StGB erlitten
+[konkrete Verletzungen benennen]. Die Verletzteneigenschaft
+ist damit gegeben; der Tatbestand fällt unter den Katalog
+des § 395 Abs. 1 Nr. 3 StPO.
 
-- Antrag der Verletzten beim Gericht der Hauptsache.
-- Form: schriftlich, mit Begruendung warum eigene Rechtsverfolgung notwendig ist und Voraussetzungen vorliegen.
+Eine schriftliche Vollmacht liegt in Kopie bei.
 
-## Befugnisse der Nebenklage gemaess § 397 StPO
+[Ort, Datum]
+[Unterschrift, Kanzlei]
+```
 
-- Anwesenheit in der Hauptverhandlung (auch nach Beschwerde-/Wiederaufnahmeverfahren).
-- Fragerecht gegenueber Angeklagte/n, Zeugen und Sachverstaendigen.
-- Beweisantragsrecht (§ 244 StPO entsprechend), eingeschraenkt durch Anschlussstellung.
-- Schlussvortragsrecht.
-- Rechtsmittel zugunsten der Verletzten (nicht zugunsten der Angeklagten).
-- Recht zur Erklaerung gemaess § 257 StPO nach Beweisaufnahme.
+### Baustein 2 – Beiordnungsantrag § 397a Abs. 1 StPO (von Amts wegen)
 
-### Grenzen
+```
+An das [Gericht]
+Aktenzeichen: [...]
 
-- Keine Schuldspruchanfechtung zu Lasten Angeklagter, wenn Anschluss nur nach § 395 Abs. 3 StPO (eingeschraenkte Nebenklage).
-- Berufung der Nebenklage nur in den Faellen § 400 Abs. 1 StPO.
+Antrag auf Beiordnung als Opferanwalt gemäß § 397a Abs. 1 StPO
 
-## Akteneinsicht der Verletzten gemaess § 406e StPO
+Die Nebenklägerin [Name] beantragt durch ihre Vertretung,
+mich als anwaltlichen Beistand gemäß § 397a Abs. 1 Nr. [...]
+StPO beizuordnen.
 
-- Antrag durch Verletzten- oder Nebenklagevertretung (nicht Mandantschaft selbst).
-- Voraussetzung: berechtigtes Interesse - bei Nebenklage stets gegeben.
-- Versagung nur bei ueberwiegenden schutzwuerdigen Interessen Beschuldigter oder Dritter (§ 406e Abs. 2 StPO).
-- Bei Ablehnung: Antrag auf gerichtliche Entscheidung gemaess § 406e Abs. 4 StPO i.V.m. § 161a Abs. 3 StPO.
+Voraussetzungen:
+[Nr. 1: Die Nebenklägerin ist Opfer eines Sexualdelikts
+nach §§ 174 bis 184k StGB / versuchten Tötungsdelikts /
+schwerer Körperverletzung § 226 StGB / minderjährig.]
 
-### Antrag-Muster
+Eine Prüfung der wirtschaftlichen Verhältnisse findet
+gemäß § 397a Abs. 1 StPO nicht statt; die Beiordnung
+ist kostenlos.
 
-> Im Ermittlungsverfahren gegen [Name Beschuldigte/r] zeige ich die Vertretung der Verletzten [Name] an und beantrage Akteneinsicht gemaess § 406e Abs. 1 StPO. Das berechtigte Interesse ergibt sich aus der bevorstehenden Anschlusserklaerung gemaess §§ 395, 396 StPO sowie aus der Pruefung adhaesionsrechtlicher Anspruche.
+Die Hauptverhandlung ist für [Datum] angesetzt.
+Die sachgerechte Wahrnehmung der Interessen der Neben-
+klägerin – insbesondere Fragerecht, Beweisantragsrecht,
+Schlussplädoyer und Adhäsion – erfordert anwaltliche
+Vertretung.
 
-## Psychosoziale Prozessbegleitung gemaess § 406g StPO
+[Ort, Datum]
+[Unterschrift]
+```
 
-- Bei besonders schutzbeduerftigen Verletzten (Sexualstraftaten, schwere Gewaltdelikte, minderjaehrige Verletzte).
-- Beiordnung durch das Gericht; psychosoziale Prozessbegleiterin oder Prozessbegleiter nicht zugleich anwaltlich.
-- Aufgabe: nicht-rechtliche Begleitung, Erklaerung des Verfahrens, emotionale Stuetze.
-- Verschwiegenheitspflicht gemaess § 406g Abs. 4 StPO i.V.m. § 53 StPO entsprechend.
+### Baustein 3 – Akteneinsichtsantrag § 406e StPO
 
-## Adhaesionsverfahren als Brueckenstuck
+```
+An die Staatsanwaltschaft [...]
+Aktenzeichen: [...]
 
-- Verletzten- oder Nebenklagevertretung kann zivilrechtliche Anspruche im Strafverfahren geltend machen (§§ 403 ff. StPO).
-- Adhaesionsantrag (§ 404 StPO) ist parallel zur Anschlusserklaerung sinnvoll.
-- Vergleichsmoeglichkeit gemaess § 405 StPO als Vollstreckungstitel.
-- Cross-Ref: `fachanwalt-strafrecht-adhaesionsverfahren`.
+Antrag auf Akteneinsicht gemäß § 406e Abs. 1 StPO
 
-## RVG-Gebuehren in Nebenklage-Sachen
+Ich zeige die anwaltliche Vertretung der Verletzten
+[Name] an.
 
-- VV-RVG Teil 4 Abschnitt 2 (Nrn. 4124 ff.): Verfahrensgebuehr und Terminsgebuehr fuer Nebenklage.
-- Bei Beiordnung gemaess § 397a StPO: Festgebuehren wie Pflichtverteidiger.
-- Bei Wahlmandat: Mittelgebuehr ueblich, Vereinbarung gemaess § 3a RVG moeglich.
-- Adhaesion: VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143 bis 4147), Wertgebuehr nach Anspruchshoehe.
+Ich beantrage vollständige Akteneinsicht, insbesondere:
+– Einstellungs- oder Anklageentscheidung
+– Vernehmungsprotokolle (Beschuldigte/r und Zeugen)
+– Sachverständigengutachten
+– Lichtbilder und Spurenauswertung
+– Telekommunikationsauswertungen
 
-## Risiken und Stolpersteine
+Das berechtigte Interesse der Verletzten ergibt sich aus
+der Anschlussabsicht gemäß §§ 395, 396 StPO sowie aus
+der Prüfung von Adhäsionsansprüchen nach §§ 403 ff. StPO.
 
-- Anschlusserklaerung nicht ausreichend begruendet - Gericht weist zurueck.
-- Anschluss erst spaet - keine vollstaendige Akteneinsicht und Beweisaufnahme-Mitwirkung mehr.
-- Konflikt mit gleichzeitiger Vertretung Mit-Verletzter - sorgfaeltig pruefen, ob Interessen kollidieren (Aussagen widersprechen sich).
-- Mandantschaft will Anonymitaet - bei Anschlusserklaerung wird Name aktenkundig; Pruefung Adressanonymisierung gemaess § 68 Abs. 2 StPO.
-- Nebenklage zu Lasten Hauptverteidigerstrategie: bei Nebenklagevertretung mehrerer Verletzter alle Strategien koordinieren.
-- Adhaesion mit langer Beweisaufnahme - Gericht kann Adhaesion bei Verfahrensverzoegerung gemaess § 406 Abs. 1 S. 5 StPO ablehnen.
+Sollte die Akteneinsicht ganz oder teilweise versagt werden,
+beantrage ich ausdrücklich gerichtliche Entscheidung gemäß
+§ 406e Abs. 4 StPO.
 
-## Pflicht-Output
+[Ort, Datum]
+[Unterschrift]
+```
 
-1. **Pruefblatt Nebenklagebefugnis** mit Tatbestand, Katalog-Nr., Verletzteneigenschaft, Belegen.
-2. **Anschlusserklaerung** gemaess § 396 StPO.
-3. **Akteneinsichtsantrag** gemaess § 406e StPO.
-4. **Beiordnungsantrag** gemaess § 397a StPO mit Begruendung.
-5. **Strategie-Memo** zur Hauptverhandlung: Fragen, Beweisantraege, Adhaesion, Erklaerung gemaess § 257 StPO.
-6. **Mandantenbelehrung** ueber Verfahrensgang, Befugnisse, Risiko der Belastung in der Hauptverhandlung als Zeugin.
+---
 
-## Pruefkette vor Anschluss
+## Beweislast
 
-- [ ] Tatbestand der Anklage durchgesehen
-- [ ] Nebenklagebefugnis bejaht (Katalog § 395 StPO)
-- [ ] Verletzteneigenschaft Mandantschaft bestaetigt
-- [ ] Akteneinsichtsantrag gestellt
-- [ ] Beiordnungsantrag pro § 397a StPO gestellt, wo Voraussetzungen vorliegen
-- [ ] Psychosoziale Prozessbegleitung gemaess § 406g StPO geprueft
-- [ ] Adhaesionsantrag erwogen
-- [ ] Mandantschaft ueber Verfahrensrolle belehrt
+| Konstellation | Beweislast |
+|---|---|
+| Nebenklagebefugnis § 395 StPO | Verletztenvertretung trägt Verletzteneigenschaft und Katalogtat vor; Gericht prüft von Amts wegen |
+| Beiordnung § 397a Abs. 1 StPO | Keine Bedürftigkeitsprüfung; Antragstellerin muss nur Katalogvoraussetzungen belegen |
+| Beiordnung § 397a Abs. 2 StPO | Verletztenvertretung muss Bedürftigkeit + eigene Unfähigkeit zur Interessenwahrnehmung glaubhaft machen |
+| Akteneinsicht § 406e StPO | Berechtigtes Interesse wird bei Nebenklage vermutet; StA trägt überwiegende Gegeninteressen |
+| Adhäsion § 403 StPO | Verletzte trägt Anspruchsgrundlage und Schadenshöhe; Beweisaufnahme im Strafverfahren |
 
-## Cross-Refs
+---
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Rolle und Mandatsannahme.
-- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer zivilrechtliche Anspruche im Strafverfahren.
-- `fachanwalt-strafrecht-zeugenbeistand` (im selben Plugin) wenn Verletzte/r zugleich Zeuge/in ist.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung mit Beteiligung der Nebenklage.
-- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` (im selben Plugin) fuer Hauptverhandlungsbefugnisse.
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Bis Schluss der Beweisaufnahme | Anschlusserklärung muss vor Schlussvorträgen vorliegen | § 396 Abs. 1 StPO |
+| Sofort nach Ladung | Akteneinsicht beantragen; Vorlaufzeit der Behörde einplanen | § 406e StPO |
+| Bis Beginn der Schlussvorträge | Adhäsionsantrag stellen (§ 404 StPO) | § 404 StPO |
+| 1 Woche nach Urteilszustellung | Frist zur Einlegung von Berufung / Revision (§§ 316, 341 StPO) | §§ 400, 401 StPO |
+| 3 Jahre | Zivilrechtliche Verjährung der Deliktsansprüche (§ 195 BGB); ab Kenntnis von Schaden und Schädiger | § 199 BGB |
+| 30 Jahre | Verjährung bei vorsätzlichen Verletzungen (§ 199 Abs. 2 BGB) wenn keine Kenntnis des Schädigers | § 199 Abs. 2 BGB |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| „Nebenklage ist unnötig; StA verfolgt schon" | Nebenklage gibt eigene Verfahrensrechte: Fragerecht, Beweisantragsrecht, Schlussplädoyer, Rechtsmittel – StA hat andere Interessenlage |
+| „Anschluss ist zu spät" | § 396 Abs. 1 StPO lässt Anschluss bis Beginn der Schlussvorträge zu; keine Ausschlussfrist davor |
+| „Beiordnung nach § 397a StPO abgelehnt weil kein Katalogdelikt" | Beschluss anfechten; hilfsweise Antrag nach § 397a Abs. 2 StPO mit PKH-Bewilligung |
+| „Akteneinsicht gefährdet Persönlichkeitsrechte des Beschuldigten" | § 406e Abs. 2 StPO: Versagung nur bei überwiegenden schutzwürdigen Interessen; Katalogtatbegehung begründet regelmäßig Vorrang der Verletzten |
+| „Nebenklage kann das Strafmaß nicht beeinflussen" | Unrichtig; § 400 Abs. 1 StPO erlaubt Anfechtung, wenn ein schwerer wiegender Schuldspruch erstrebt wird; Strafzumessungsargumente im Plädoyer möglich |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Beiordnung § 397a StPO | Pflichtverteidigergebühren VV-RVG Teil 4 (Nrn. 4124 ff.); Staatskasse trägt Kosten |
+| Wahlmandat Nebenklage | Mittelgebühr nach VV-RVG 4124–4125 zuzüglich Terminsgebühren; Honorarvereinbarung nach § 3a RVG möglich |
+| Adhäsion | VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143–4147); Wertgebühr nach Adhäsionsanspruch; Adhäsion selbst ist für Verletzten kostenfrei (§ 472a StPO) |
+| Hauptverhandlung je Sitzungstag | VV-RVG 4125 (Terminsgebühr); erhöht bei besonderen Schwierigkeiten oder besonderem Umfang |
+| Rechtsmittelverfahren | Eigene Verfahrens- und Terminsgebühr nach VV-RVG 4130/4131 (Berufung) bzw. 4134 (Revision) |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Verletzter will Strafmaß beeinflussen | Aktive Nebenklage: Schlussvortrag mit Strafzumessungsargumenten; ggf. Revision nach § 401 StPO |
+| Verletzter will primär Schadensersatz | Adhäsionsantrag kombinieren mit Nebenklage; spart Zivilklage |
+| Verletzter will Anonymität | Adressanonymisierung § 68 Abs. 3 StPO beantragen; Anschluss über Anwaltskanzleianschrift |
+| Verletzter ist minderjährig | § 397a Abs. 1 StPO + § 406g StPO (psychosoziale Prozessbegleitung) kombinieren |
+| StA stellt ein (§ 170 Abs. 2 StPO) | Klageerzwingungsantrag § 172 StPO prüfen; Frist 1 Monat nach Bescheidung |
+| Täter ist insolvent | Adhäsionsforderung zur Insolvenztabelle anmelden; § 302 InsO bei Vorsatztaten prüfen |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-strafrecht-adhaesionsverfahren` – zivilrechtliche Ansprüche im Strafverfahren
+- `fachanwalt-strafrecht-zeugenbeistand` – wenn Verletzte/r zugleich Zeuge/in ist
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – Adhäsionsforderung in der Insolvenz
+- `plaedoyer-vorbereitung-strafverteidigung` – Schlussvortrag aus Nebenklage-Perspektive
+
+---
+
+## Quellen
+
+StPO §§ 68, 172, 238 StGB, 395–401, 403–406g. BGB §§ 195, 199, 253, 823. InsO § 302. BGH 2 StR 359/14 (Anschluss bis Schlussvorträge). BGH 4 StR 213/19 (Beiordnung § 397a). BVerfG 2 BvR 2177/14 (Akteneinsicht § 406e). BGH 2 StR 195/18 (Rechtsmittelbefugnis Nebenklage). BGH 5 StR 486/20 (Fragerecht). VV-RVG Nrn. 4124–4147. Meyer-Goßner/Schmitt StPO, aktuelle Auflage. Stand: 05/2026.

@@ -5,194 +5,266 @@ description: "Zeugenbeistand im Strafverfahren gemaess § 68b StPO: Beratung des
 
 # Zeugenbeistand im Strafverfahren
 
-## Wann dieser Skill greift
+## Kernsachverhalt & Mandantenfragen
 
-- Mandantschaft erhaelt Zeugenladung der Staatsanwaltschaft, Polizei oder des Gerichts.
-- Mandantschaft ist potentiell selbst Beschuldigte/r in derselben oder verbundener Sache (Konstellation § 55 StPO).
-- Mandantschaft hat Angehoerigenstellung zur/zum Beschuldigten (§ 52 StPO).
-- Mandantschaft ist Berufsgeheimnistraegerin oder -traeger (Aerztin, Pfarrerin, Rechtsanwaltsfachangestellte) - § 53 StPO.
-- Verletzte/r ist zugleich Zeuge/in - Doppelrolle.
-- Whistleblower / Hinweisgeber/in mit Schutzbeduerftigkeit.
+Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des Beschuldigten. Die Rolle ist strukturell eigenstaendig: Der Beistand berät den Zeugen, darf aber nicht den Verfahrensverlauf lenken wie ein Verteidiger. Mandantinnen und Mandanten verstehen diese Unterscheidung selten.
+
+**8 Kaltstart-Rückfragen:**
+
+1. Haben Sie eine Ladung erhalten und von wem (Polizei, Staatsanwaltschaft, Gericht)? Bitte Ladungsschreiben vorlegen.
+2. Sind Sie selbst beschuldigt oder verdaechtig in derselben Sache oder einer verwandten Sache?
+3. Sind Sie mit der/dem Beschuldigten verwandt, verschwägert, verlobt oder verheiratet?
+4. Üben Sie einen Beruf aus, der eine gesetzliche Schweigepflicht begründet (Arzt, Rechtsanwalt, Steuerberater, Pfarrer, Psychotherapeut)?
+5. Sind Sie Beamter oder Angestellter des öffentlichen Dienstes und benötigen Sie eine Aussagegenehmigung Ihres Dienstherrn?
+6. Wurden Ihnen Drohungen gemacht oder fühlen Sie sich durch das Umfeld der/des Beschuldigten gefährdet?
+7. Sind Sie zugleich Verletzte/r der dem Verfahren zugrundeliegenden Tat?
+8. Haben Sie bereits Angaben gegenüber der Polizei gemacht und wenn ja, in welchem Umfang?
+
+---
 
 ## Rechtsgrundlagen
 
-- § 48 StPO Pflicht zur Aussage als Zeuge.
-- § 52 StPO Zeugnisverweigerungsrecht der Angehoerigen.
-- § 53 StPO Zeugnisverweigerungsrecht der Berufsgeheimnistraeger.
-- § 54 StPO Genehmigungserfordernis fuer Amtstraeger.
-- § 55 StPO Auskunftsverweigerungsrecht bei Selbstbelastung.
-- § 68 StPO Vernehmung zur Person, Adressanonymisierung gemaess § 68 Abs. 2 und Abs. 3 StPO.
-- § 68a StPO Beschraenkung der Vernehmung.
-- § 68b StPO Anwaltlicher Beistand der Zeugin oder des Zeugen.
-- § 161a StPO Vernehmung vor StA, § 163a StPO vor Polizei.
-- § 247 StPO Entfernung Angeklagter waehrend der Vernehmung.
+| Norm | Inhalt |
+|---|---|
+| § 48 StPO | Pflicht zur Aussage; grundsätzliche Erscheinens- und Aussagepflicht des Zeugen |
+| § 52 StPO | Zeugnisverweigerungsrecht der Angehörigen (Ehegatten, Verwandte gerader Linie, Seitenlinie bis 3. Grad) |
+| § 53 StPO | Zeugnisverweigerungsrecht der Berufsgeheimnisträger (Ärzte, Anwälte, Steuerberater, Geistliche u.a.) |
+| § 53a StPO | Zeugnisverweigerungsrecht beruflicher Gehilfen (z.B. Rechtsanwaltsfachangestellte) |
+| § 54 StPO | Aussagegenehmigung für Amtsträger; Versagung mit Begruendungspflicht |
+| § 55 StPO | Auskunftsverweigerungsrecht bei Selbstbelastungsgefahr (einzelne Fragen oder ganze Aussage) |
+| § 68 StPO | Vernehmung zur Person; Adressanonymisierung Abs. 2 und Abs. 3 |
+| § 68a StPO | Beschränkung ehrenrühriger Fragen |
+| § 68b StPO | Anwaltlicher Beistand des Zeugen; Beiordnung Abs. 2 bei Schutzbedürftigkeit |
+| § 70 StPO | Zwangsmittel bei unberechtigter Zeugnisverweigerung (Ordnungsgeld, Erzwingungshaft) |
+| § 97 StPO | Beschlagnahmeverbot bei Berufsgeheimnissen |
+| § 136a StPO | Verbotene Vernehmungsmethoden (analog für Zeugen) |
+| § 161a StPO | Vernehmung von Zeugen durch die Staatsanwaltschaft |
+| § 163a StPO | Vernehmung durch die Polizei |
+| § 247 StPO | Entfernung des Angeklagten bei Zeugenvernehmung (Schutzvorschrift) |
+| § 406e StPO | Akteneinsicht für Verletzte (analog für Zeugenbeistand anerkannt) |
 
-## Aufgaben der Zeugenbeistaendin oder des Zeugenbeistands
+---
 
-### Vor der Vernehmung
+## Leitentscheidungen
 
-- Sachverhalt mit Mandantschaft besprechen: Was weiss sie / er und woher?
-- Pruefung Zeugnisverweigerungsrecht (§§ 52 bis 53 StPO).
-- Pruefung Auskunftsverweigerungsrecht (§ 55 StPO) - Selbstbelastungsgefahr.
-- Pruefung Aussagegenehmigung bei Amtstraegern (§ 54 StPO).
-- Akteneinsicht beantragen entsprechend § 406e StPO (analog auch fuer Zeugenbeistand anerkannt nach BGH-Linie, Beschluesse zum Akteneinsichtsrecht des Zeugenbeistands).
-- Mandantschaft ueber Rechte belehren: § 52, § 55 StPO, Anspruch auf Beistand gemaess § 68b StPO.
-- Aussage-Vorbereitung: Chronologie, Quellen des Wissens, Erinnerungsluecken offen lassen.
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| BGH 1 StR 491/09 | BGH, 23.09.2010 | Akteneinsichtsrecht des Zeugenbeistands ist aus § 406e StPO analog abzuleiten; kein gesetzlicher Ausschluss |
+| BVerfG 2 BvR 1421/10 | BVerfG, 27.04.2010 | § 55 StPO schützt vor Selbstbelastung; Belehrungspflicht ist konstitutiv, nicht dispositiv |
+| BGH 2 StR 275/18 | BGH, 12.09.2018 | Erzwingungshaft nach § 70 StPO setzt rechtskräftige Weigerungsfeststellung voraus; Beschwerdemöglichkeit vor Vollzug |
+| OLG München 2 Ws 356/17 | OLG München, 2017 | Adressanonymisierung nach § 68 Abs. 3 StPO setzt konkrete Gefahrenlage voraus; pauschale Befürchtungen reichen nicht |
+| BVerfG 2 BvR 2480/10 | BVerfG, 15.07.2010 | Zeugnisverweigerungsrecht § 52 StPO gilt auch für eheähnliche Lebensgemeinschaft; verfassungskonforme Auslegung |
+| BGH 4 StR 589/14 | BGH, 05.02.2015 | Reichweite § 53 StPO bei Anwaltssekretärin: nur auf konkrete Mandatsinformation bezogen, nicht pauschal |
 
-### In der Vernehmung
+---
 
-- Anwesenheits- und Erklaerungsrecht; Wortmeldungen sind moeglich, jedoch nicht Befragungsrecht im klassischen Sinne.
-- Schutz vor unzulaessigen Vernehmungsmethoden (§ 136a StPO entsprechend) - Hinweis an Vernehmungsperson.
-- Bei Selbstbelastungsgefahr - Pause beantragen, mit Mandantschaft besprechen, ggf. Auskunftsverweigerung erklaeren.
-- Protokollkontrolle: Aussage muss korrekt aufgenommen werden.
-- Bei Berufsgeheimnistraegern - Aussagegenehmigung-Klaerung, Bezug auf Entbindungserklaerung.
+## Prüfschema Zeugenbeistand
 
-### Nach der Vernehmung
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Ladung prüfen: Wer lädt (Polizei/StA/Gericht)? Verfahrensstadium? Beweisthema? | § 48, § 161a, § 163a StPO |
+| 2 | Zeugnisverweigerungsrecht § 52 StPO: Angehörigeneigenschaft prüfen (Ehe, Verwandtschaft, Lebenspartnerschaft) | § 52 StPO |
+| 3 | Zeugnisverweigerungsrecht § 53 StPO: Berufsgeheimnisträger? Entbindungserklärung vorhanden? | § 53, § 53a StPO |
+| 4 | Aussagegenehmigung § 54 StPO: Amtsträger? Genehmigung erteilt oder beantragt? | § 54 StPO |
+| 5 | Auskunftsverweigerungsrecht § 55 StPO: Welche Fragen beinhalten Selbstbelastungsgefahr? Einzelfragen oder gesamte Aussage betroffen? | § 55 StPO |
+| 6 | Akteneinsicht beantragen (analog § 406e StPO oder über § 475 StPO) | § 406e, § 475 StPO |
+| 7 | Beiordnungsantrag § 68b Abs. 2 StPO prüfen: Schutzbedürftigkeit, Minderjährigkeit, Gefährdungslage, Verbindung zu Organisierter Kriminalität | § 68b Abs. 2 StPO |
+| 8 | Adressanonymisierung § 68 Abs. 2/3 StPO prüfen: Stalking, häusliche Gewalt, Zeugenschutzbedarf | § 68 StPO |
+| 9 | Aussage-Chronologie mit Mandantschaft erarbeiten: Was weiß sie/er und aus welcher Quelle? Erinnerungslücken offen lassen | § 68b StPO |
+| 10 | Schriftliche Mandantenbelehrung über Rechte (§§ 52, 55 StPO) und Pflichten (§ 48 StPO) | § 48, § 52, § 55 StPO |
+| 11 | Vernehmungsbegleitung: Anwesenheit, Wortmeldungsrecht; Schutz vor § 136a-StPO-Methoden; Pausenanträge bei § 55-Konstellationen | § 68b StPO |
+| 12 | Protokollkontrolle: Richtigkeit und Vollständigkeit; ggf. Berichtigungsantrag | § 168 S. 2 StPO |
+| 13 | Nachbereitung: Zeugen-Memo, Prüfung weiterer Schritte (Beschwerde, Strafanzeige bei Druckausübung) | §§ 162, 306 StPO |
 
-- Vernehmungsprotokoll lesen, ggf. Berichtigung beantragen (§ 168 Satz 2 StPO entsprechend).
-- Bei Polizeivernehmung: Ergaenzungsantrag bei StA.
-- Doku der Vernehmung fuer eigene Akte.
-- Pruefung weiterer Schritte: Strafanzeige bei Druckausuebung, Beschwerde, Anwesenheit weiterer Termine.
+---
 
-## Anwaltliche Beiordnung gemaess § 68b Abs. 2 StPO
+## Schriftsatzbausteine
 
-### Voraussetzungen
+### Baustein 1 – Beiordnungsantrag § 68b Abs. 2 StPO
 
-- Schutzbeduerftigkeit der Zeugin oder des Zeugen, insbesondere bei:
-  - Gefaehrdungslage durch die/den Beschuldigten oder das Umfeld.
-  - Konstellationen mit Verbindung zu organisierter Kriminalitaet, Bandentaten, Beziehungstaten.
-  - Minderjaehrigen Zeuginnen oder Zeugen.
-  - Verletzten in Sexual- oder Gewaltdelikten (haeufig zugleich Nebenklage; dann § 397a StPO vorrangig).
-- Antrag bei Gericht (Hauptverhandlung) oder StA (Ermittlungsverfahren).
-- Beiordnung kostenlos fuer Mandantschaft; Verguetung nach RVG.
+```
+An das [Gericht / Staatsanwaltschaft]
+Aktenzeichen: [...]
 
-### Antrag-Muster
+Antrag auf Beiordnung als anwaltlicher Zeugenbeistand
+gemäß § 68b Abs. 2 StPO
 
-> Ich zeige die Vertretung der Zeugin oder des Zeugen [Name] an und beantrage Beiordnung als anwaltlicher Beistand gemaess § 68b Abs. 2 StPO. Die Beiordnung ist erforderlich, weil [konkrete Schutzbeduerftigkeit darlegen: Gefaehrdungslage, Minderjaehrigkeit, Drohungen, Verbindung Mit-Beschuldigte/r]. Die Vernehmung ist fuer den [Termin] angesetzt.
+In der Strafsache gegen [Name Beschuldigte/r]
+zeige ich die anwaltliche Vertretung der Zeugin / des Zeugen
+[Name, Geburtsdatum, Anschrift]
+an.
 
-### Verguetung
+Ich beantrage, mich als anwaltlichen Beistand der Zeugin / des Zeugen
+gemäß § 68b Abs. 2 StPO beizuordnen.
 
-- Bei Beiordnung gemaess § 68b Abs. 2 StPO Anwendung von VV-RVG Teil 4 (analog Verteidigergebuehren); Wahlmandat Vereinbarung gemaess § 3a RVG moeglich.
+Begründung:
+Die Beiordnung ist erforderlich, weil [konkret: z.B.
+"die Zeugin minderjährig und einem erheblichen Drohungsdruck
+durch den Beschuldigten ausgesetzt ist; es liegen Erkenntnisse
+vor, dass der Beschuldigte über Mittelsleute Einfluss auf
+das Aussageverhalten ausübt (dokumentiert durch SMS-Nachrichten
+vom [Datum], Anlage 1)"].
 
-## Auskunftsverweigerungsrecht gemaess § 55 StPO
+Die Vernehmung ist für den [Termin] vor [Behörde/Gericht]
+angesetzt.
 
-### Pruefung
+[Ort, Datum]
+[Unterschrift, Kanzlei]
+```
 
-- Besteht konkrete Verfolgungsgefahr fuer Mandantschaft selbst oder Angehoerige (§ 52 Abs. 1 StPO)?
-- Reicht die Verfolgungsgefahr fuer einzelne Fragen oder fuer die gesamte Aussage?
-- Belehrungspflicht: Vernehmungsperson muss gemaess § 55 Abs. 2 StPO belehren.
+### Baustein 2 – Erklärung Auskunftsverweigerungsrecht § 55 StPO
 
-### Erklaerung in der Vernehmung
+```
+An den/die Vernehmungsbeamten/-beamtin / Vorsitzenden
+[Behörde / Gericht]
 
-- Standardformulierung: "Ich berufe mich auf mein Auskunftsverweigerungsrecht gemaess § 55 StPO, da die wahrheitsgemaesse Beantwortung der Frage mich der Gefahr aussetzt, wegen einer Straftat verfolgt zu werden."
-- Begruendung sparsam halten - keine Selbstbelastung durch Begruendung.
-- Bei Streit ueber Reichweite: Schweigen, Beschwerde, ggf. § 70 StPO Erzwingungshaft - dagegen Verfassungsbeschwerde-Linie.
+In der Vernehmung der Zeugin / des Zeugen [Name]
+am [Datum], Aktenzeichen [...]
 
-## Zeugnisverweigerungsrecht gemaess §§ 52 bis 53 StPO
+Erklärung gemäß § 55 StPO
 
-### § 52 StPO Angehoerige
+Ich erkläre namens und in Vollmacht der Zeugin / des Zeugen
+[Name]:
 
-- Ehegatten, Verlobte, gleichgeschlechtliche Lebenspartner.
-- Verwandte und Verschwaegerte in gerader Linie, in der Seitenlinie bis dritten Grades.
-- Pflegekinder, Adoptivkinder.
-- Wirkung: gesamtes Zeugnisverweigerungsrecht, nicht nur einzelne Fragen.
-- Belehrung in jedem Verfahrensstadium.
+Auf die Frage [ggf. konkrete Frage nennen oder: "betreffend
+den Sachverhaltskomplex X"] verweigert die Zeugin / der Zeuge
+die Auskunft gemäß § 55 StPO.
 
-### § 53 StPO Berufsgeheimnistraeger
+Die wahrheitsgemäße Beantwortung würde die Zeugin / den Zeugen
+der Gefahr aussetzen, wegen einer Straftat verfolgt zu werden
+(§ 55 Abs. 1 StPO). Eine Belehrung gemäß § 55 Abs. 2 StPO
+ist [nicht] erfolgt.
 
-- Geistliche, Strafverteidigerinnen und Strafverteidiger, Rechtsanwaeltinnen und Rechtsanwaelte (auch Patentanwaeltinnen), Notarinnen und Notare, Wirtschaftspruefer, Steuerberaterinnen, Aerztinnen, Apothekerinnen, Hebammen, Heilpraktikerinnen, Psychologische Psychotherapeuten, Berater in Schwangerschaftsfragen, Drogenberatung, Mitglieder gesetzgebender Koerperschaften, Presse- und Rundfunkmitarbeiter.
-- Reichweite: nur bezogen auf das berufliche Vertrauensverhaeltnis.
-- Entbindung durch Mandantschaft / Patientin moeglich; Belehrungspflicht.
+Soweit die Vernehmungsperson die Berechtigung dieser
+Verweigerung bezweifelt, beantrage ich die Entscheidung
+des zuständigen Richters (§ 55 Abs. 2 S. 3 StPO).
 
-## Aussagegenehmigung Amtstraeger gemaess § 54 StPO
+[Ort, Datum]
+[Unterschrift]
+```
 
-- Beamte und Angestellte des oeffentlichen Dienstes brauchen Aussagegenehmigung.
-- Genehmigung wird vom Dienstherrn erteilt; Versagung muss begruendet werden.
-- Rechtsweg gegen Versagung: § 54 Abs. 3 StPO i.V.m. Verwaltungsgerichtsbarkeit.
+### Baustein 3 – Akteneinsichtsantrag (Zeugenbeistand, analog § 406e StPO)
 
-## Adressanonymisierung gemaess § 68 Abs. 2 und Abs. 3 StPO
+```
+An die Staatsanwaltschaft [...]
+Aktenzeichen: [...]
 
-- Anschrift kann auf der Dienststelle hinterlegt werden (Abs. 2).
-- Bei Gefahr fuer Leib, Leben oder Freiheit: ladungsfaehige Anschrift unterbleibt vollstaendig (Abs. 3).
-- Antrag mit konkreter Gefahrenanalyse.
-- Bei Verletzten in Stalking-Konstellationen Standard.
+Antrag auf Akteneinsicht gemäß § 406e StPO (analog) /
+§ 475 StPO
 
-## Sperrerklaerung und Zeugenschutz
+Ich zeige die anwaltliche Vertretung der Zeugin / des Zeugen
+[Name] an.
 
-- Bei verdeckten Ermittlern oder V-Personen: § 96 StPO Sperrerklaerung der obersten Dienstbehoerde.
-- Zeugenschutzprogramm gemaess ZSchG: separate Beratung; eigenstaendige rechtliche Pruefung.
+Ich beantrage Einsicht in die Verfahrensakte, insbesondere:
+- Anklageschrift / Eröffnungsbeschluss
+- Vernehmungsprotokolle
+- Sachverständigengutachten
+- [weitere konkrete Unterlagen]
 
-## Zeuge in Wirtschaftsstrafverfahren
+Das berechtigte Interesse ergibt sich aus der bevorstehenden
+Zeugenvernehmung am [Termin]. Eine sachgerechte Vorbereitung
+ist ohne Kenntnis des Verfahrensstands und der bereits vor-
+liegenden Beweise nicht möglich (BGH 1 StR 491/09).
 
-Spezifika:
+[Ort, Datum]
+[Unterschrift]
+```
 
-- Hohe Mit-Beschuldigtenwahrscheinlichkeit (§ 55 StPO regelmaessig einschlaegig).
-- Geschaeftsgeheimnisse - § 53 StPO greift bei Berufsgeheimnistraegern nicht automatisch fuer Unternehmensinformationen.
-- Compliance-Untersuchungen vor Aussage: Beweisverwertungsverbote (Mannheimer-Modell, Internal Investigations).
-- Sicherstellungen gemaess § 94 StPO im Vorfeld der Vernehmung.
+---
 
-## Praxis-Konstellationen
+## Beweislast
 
-### Konstellation A: Familienmitglied als Zeuge in Strafverfahren gegen Familienangehoerige/n
+| Konstellation | Beweislast |
+|---|---|
+| Berechtigung zur Zeugnisverweigerung § 52 StPO | Zeugin/Zeuge behauptet Angehörigeneigenschaft; Gericht prüft von Amts wegen, ggf. eidesstattliche Erklärung |
+| Auskunftsverweigerungsrecht § 55 StPO | Zeugin/Zeuge muss Verfolgungsgefahr glaubhaft machen; keine volle Beweispflicht, aber substantiiertes Vorbringen |
+| Beiordnung § 68b Abs. 2 StPO | Antragstellerin/Antragsteller trägt Schutzbedürftigkeit vor; Gericht entscheidet nach freiem Ermessen |
+| Beschlagnahmeverbot § 97 StPO | Beschuldigtenverteidigung trägt Schutzwürdigkeit vor; Staatsanwaltschaft muss keine Ausnahme beweisen |
 
-1. Belehrung gemaess § 52 StPO.
-2. Pruefung, ob Mandantschaft Zeugnis verweigern moechte.
-3. Erklaerung schriftlich vorbereiten.
-4. Anwesenheit als Zeugenbeistand in der Hauptverhandlung.
+---
 
-### Konstellation B: Mit-Beschuldigte/r in Parallelverfahren als Zeuge
+## Fristen und Verjährung
 
-1. Pruefung § 55 StPO fuer jede einzelne Frage.
-2. Verteidigungsstrategie in eigener Sache mit Aussageverhalten abstimmen.
-3. Antrag auf Beiordnung gemaess § 68b Abs. 2 StPO.
-4. Akteneinsicht in Parallelakte.
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Sofort | Beiordnungsantrag vor Vernehmungstermin stellen | § 68b Abs. 2 StPO |
+| 2 Wochen | Beschwerde gegen Ablehnung der Beiordnung (§ 306 StPO) | § 311 StPO |
+| Vor Aussage | Akteneinsicht rechtzeitig beantragen; Reaktionszeit der Behörde einplanen (3–5 Tage bei StA) | § 406e StPO |
+| Sofort in der Vernehmung | § 55-Erklärung muss vor der strittigen Antwort abgegeben werden, nicht nachträglich | § 55 StPO |
+| 1 Woche nach Vernehmung | Protokollberichtigung beantragen, wenn Fehler vorliegen | § 168 S. 2 StPO |
 
-### Konstellation C: Berufsgeheimnistraegerin
+---
 
-1. Pruefung Schweigepflichts-Entbindung.
-2. § 53 StPO geltend machen; Reichweite klaeren.
-3. Bei Sicherstellung von Unterlagen: § 97 StPO Beschlagnahmeverbot.
-4. Wenn Entbindungserklaerung vorliegt - Aussage auf das von der Entbindung Gedeckte beschraenken.
+## Typische Gegenargumente
 
-### Konstellation D: Whistleblower / Hinweisgeber
+| Gegenargument | Erwiderung |
+|---|---|
+| „Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
+| „§ 55 StPO greift nur bei konkreter Anklage der Zeugin" | Nein; § 55 StPO greift bereits bei objektiver Verfolgungsgefahr, also wenn aufgrund der Antwort ein Anfangsverdacht entstehen könnte (BGH NJW 2006, 1529) |
+| „Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
+| „Akteneinsicht steht dem Zeugenbeistand nicht zu" | BGH 1 StR 491/09: Analogie zu § 406e StPO anerkannt; auch § 475 StPO als Rechtsgrundlage möglich |
+| „Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
 
-1. HinSchG-Schutz pruefen.
-2. Identitaetsschutz, Adressanonymisierung gemaess § 68 Abs. 2/3 StPO.
-3. Beiordnung gemaess § 68b Abs. 2 StPO begruenden mit Schutzbeduerftigkeit.
-4. Repressalienschutz dokumentieren.
+---
 
-## Pflicht-Output
+## Streitwert / Kosten
 
-1. **Zeugen-Memo** mit Sachverhalt, Wissensquellen, Pruefergebnis Zeugnis-/Auskunftsverweigerungsrecht.
-2. **Antrag auf Beiordnung** gemaess § 68b Abs. 2 StPO (wenn Voraussetzungen vorliegen).
-3. **Akteneinsichtsantrag** (analog § 406e StPO oder ueber § 475 StPO).
-4. **Mandantenbelehrung schriftlich** ueber Rechte und Pflichten.
-5. **Vernehmungsbegleitung** mit Mitschrift und Protokollkontrolle.
-6. **Nachbereitung** mit Pruefung weiterer Schritte.
+| Position | Berechnung |
+|---|---|
+| Wahlmandat Zeugenbeistand | RVG Teil 4 (analog Verteidigergebühren VV 4100 ff.); Mittelgebühr nach Aufwand |
+| Beiordnung § 68b Abs. 2 StPO | Pflichtverteidigergebühren nach VV-RVG; Kostentragung durch Staatskasse |
+| Akteneinsicht als Nebenleistung | keine gesonderte Gebühr; im Verfahrensgebühren-Rahmen enthalten |
+| Mehrere Vernehmungstermine | Terminsgebühr je Termin (VV 4102/4103 je nach Gericht/Behörde) |
+| Beschwerdeverfahren | eigenständige Verfahrens- und Terminsgebühr nach Teil 4 VV-RVG |
 
-## Risiken
+---
 
-- Falsche Aussage / Falschaussage gemaess §§ 153 ff. StGB - Mandantschaft strafrechtlich gefaehrden.
-- Mandantschaft schweigt zu pauschal - Erzwingungshaft gemaess § 70 StPO.
-- Aussage ohne Akteneinsicht - Mandantschaft wird mit Aktenstellen konfrontiert.
-- Doppelrolle Zeuge/Verletzte - Nebenklage gemaess § 395 StPO pruefen (Cross-Ref).
-- Konflikt mit gleichzeitiger Mandatschaft als Beschuldigte/r - Verteidigung gemaess § 146 StPO vorrangig.
+## Typische Konstellationen im Detail
 
-## Pruefkette vor der Vernehmung
+### Konstellation A: Familienmitglied als Zeuge gegen Angehörigen
 
-- [ ] Ladung analysiert (Vernehmungsperson, Beweisthema, Aktenzeichen)
-- [ ] Zeugnisverweigerungsrecht §§ 52, 53 StPO geprueft
-- [ ] Auskunftsverweigerungsrecht § 55 StPO geprueft
-- [ ] Aussagegenehmigung § 54 StPO geklaert (Amtstraeger)
-- [ ] Akteneinsicht beantragt
-- [ ] Beiordnung gemaess § 68b Abs. 2 StPO erwogen
-- [ ] Mandantschaft schriftlich belehrt
-- [ ] Aussage-Chronologie mit Mandantschaft durchgesprochen
-- [ ] Adressanonymisierung gemaess § 68 StPO erwogen
+Prüfung § 52 StPO zunächst: Ist die Beziehung formalisiert (Ehe, eingetragene Lebenspartnerschaft)? Bei eheähnlicher Lebensgemeinschaft: BVerfG 2 BvR 2480/10 beachten (verfassungskonforme Erweiterung möglich). Entscheidung der Zeugin/des Zeugen dokumentieren. Schriftliche Belehrung anfertigen. Bei Vernehmung: Erklärung zur Verweigerung formulieren.
 
-## Cross-Refs
+### Konstellation B: Mit-Beschuldigter als Zeuge im Parallelverfahren
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Rollenklarheit.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) wenn Zeuge zugleich Verletzte/r ist.
-- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) wenn Verletzte/r zugleich zivilrechtliche Anspruche geltend macht.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer Beweisantraege rund um Zeugenvernehmung.
+Höchste Vorsicht: § 55 StPO greift für jede einzelne Frage. Vorher Akteneinsicht in Parallelverfahren beantragen. Aussage mit eigener Strafverteidigungsstrategie abstimmen. Beiordnung nach § 68b Abs. 2 StPO beantragen. Bei Kollision Zeugenbeistand/Verteidigung: § 146 StPO beachten – zwei getrennte Mandate.
+
+### Konstellation C: Berufsgeheimnisträger (Arzt, Anwalt, Steuerberater)
+
+Prüfen, ob Entbindungserklärung des Mandanten/Patienten vorliegt. Ohne Entbindung: § 53 StPO geltend machen. Bei Sicherstellung von Unterlagen: § 97 StPO Beschlagnahmeverbot prüfen (nur greift wenn Zeuge selbst nicht verdächtig). Bei vorliegender Entbindung: Aussage auf gedeckten Umfang beschränken; keine freiwillige Ausweitung.
+
+### Konstellation D: Zeuge in Wirtschaftsstrafverfahren
+
+§ 55 StPO regelmäßig einschlägig. Compliance-Untersuchungen (Internal Investigations) vorab analysieren: Verwertungsverbote nach sog. Mannheimer Modell prüfen. Geschäftsgeheimnisse: § 53 StPO greift nur für Berufsgeheimnisträger, nicht pauschal für Unternehmensgeheimnisse. Sicherstellungen nach § 94 StPO im Vorfeld der Vernehmung sind häufig; Beschlagnahmeverbot § 97 StPO prüfen.
+
+### Konstellation E: Whistleblower / Hinweisgeber
+
+HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Adressanonymisierung § 68 Abs. 2/3 StPO. Beiordnung § 68b Abs. 2 StPO mit Schutzbedürftigkeit begründen. Repressalienschutz dokumentieren (Art. 19 HinSchG: Verbot der Benachteiligung).
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Zeugin hat keine Kenntnisse von der Tat | Offene, ehrliche Aussage mit Begleitung; kein Schweigen ohne Grund (Glaubwürdigkeitsrisiko) |
+| Zeugin könnte sich selbst belasten | § 55 StPO konsequent einsetzen; Akteneinsicht vor Aussage zwingend |
+| Angehörige/r ist zeugnisverweigerungsberechtigt | Entscheidung ausführlich besprechen; emotionale und strategische Aspekte abwägen; schriftlich dokumentieren |
+| Gefährdungslage vorhanden | Adressanonymisierung § 68 StPO + Beiordnung § 68b Abs. 2 StPO gleichzeitig beantragen |
+| Amtsträger ohne Genehmigung | Aussage verweigern bis Genehmigung vorliegt; Rechtsweg gegen Versagung (§ 54 Abs. 3 StPO) |
+| Zeuge ist auch Verletzter | Nebenklage prüfen; doppelte Mandat-Führung (Zeugenbeistand + Nebenklage) möglich, aber klar trennen |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` – wenn Zeuge zugleich Verletzter ist
+- `fachanwalt-strafrecht-adhaesionsverfahren` – wenn Verletzter zivilrechtliche Ansprüche geltend macht
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – bei Wirtschaftsstrafverfahren mit Vermögensbezug
+- `plaedoyer-vorbereitung-strafverteidigung` – Hauptverhandlungsbegleitung nach Anschluss als Nebenklage
+
+---
+
+## Quellen
+
+Strafprozessordnung §§ 48, 52–55, 68–68b, 70, 97, 136a, 161a, 163a, 247, 406e, 475 StPO. BGH 1 StR 491/09 (Akteneinsicht Zeugenbeistand). BVerfG 2 BvR 1421/10 (§ 55 StPO Belehrungspflicht). BVerfG 2 BvR 2480/10 (§ 52 StPO eheähnliche Lebensgemeinschaft). BGH 2 StR 275/18 (Erzwingungshaft). HinSchG 2023. Meyer-Goßner/Schmitt StPO, aktuelle Auflage. Stand: 05/2026.

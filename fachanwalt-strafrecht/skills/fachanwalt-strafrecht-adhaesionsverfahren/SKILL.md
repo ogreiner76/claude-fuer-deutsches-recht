@@ -3,165 +3,255 @@ name: fachanwalt-strafrecht-adhaesionsverfahren
 description: "Adhaesionsverfahren im Strafverfahren gemaess §§ 403 bis 406c StPO: Geltendmachung zivilrechtlicher Anspruche der Verletzten im Strafprozess, Schmerzensgeld, Schadenersatz, Antragstellung gemaess § 404 StPO, Vergleich gemaess § 405 StPO als Vollstreckungstitel, Grundurteil gemaess § 406 StPO, Verzicht durch Gericht, RVG-Gebuehren Nrn. 4143 bis 4147 VV-RVG, Vollstreckung."
 ---
 
-# Adhaesionsverfahren im Strafverfahren
+# Adhäsionsverfahren im Strafverfahren
 
-## Wann dieser Skill greift
+## Kernsachverhalt & Mandantenfragen
 
-- Verletzte/r will zivilrechtliche Anspruche (Schmerzensgeld, Schadenersatz, Herausgabe) gegen Angeklagte/n im laufenden Strafverfahren geltend machen, statt Zivilklage zu erheben.
-- Typisch bei: Koerperverletzungsdelikten (Schmerzensgeld § 253 Abs. 2 BGB), Sexualdelikten, Vermoegensdelikten (Schadenersatz § 823 BGB, § 263 StGB Bezugsfall), Beleidigung mit immateriellem Schaden, Stalking.
-- Auch fuer Angeklagte/n relevant: Adhaesionsvergleich kann strafmildernd wirken (§ 46a StGB, § 46 Abs. 2 StGB Schadenswiedergutmachung) und Zivilrechtsstreit vermeiden.
+Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verletzten Person eine eigenständige Zivilklage. Gleichzeitig ist es für die Verteidigung ein Instrument zur Schadensminimierung: Ein Adhäsionsvergleich kann das Strafmaß erheblich beeinflussen (§ 46a StGB).
+
+**8 Kaltstart-Rückfragen:**
+
+1. Was ist die konkrete Straftat und wann wurde sie begangen? Liegt ein Aktenzeichen vor?
+2. Welche zivilrechtlichen Schäden sind entstanden: Körperverletzung (Schmerzensgeld), Vermögensschaden (Betrug, Diebstahl), Sachschäden, Verdienstausfall?
+3. Liegen ärztliche Atteste, Behandlungsberichte oder Gutachten zur Schadenshöhe vor?
+4. Hat die Versicherung (z.B. Krankenversicherung, Unfallversicherung) bereits Leistungen erbracht? Forderungsübergang nach § 116 SGB X prüfen.
+5. Ist der/die Angeklagte zahlungsfähig? Pfändbare Vermögenswerte vorhanden oder Insolvenz droht?
+6. Besteht parallele Nebenklage oder soll der Adhäsionsantrag ohne Nebenklage gestellt werden?
+7. Ist ein außergerichtlicher Vergleich mit dem/der Angeklagten bereits diskutiert oder gescheitert?
+8. Welcher Betrag soll konkret geltend gemacht werden, oder soll das Schmerzensgeld dem Ermessen des Gerichts überlassen bleiben?
+
+---
 
 ## Rechtsgrundlagen
 
-- §§ 403 bis 406c StPO Adhaesionsverfahren.
-- § 46a StGB Taeter-Opfer-Ausgleich und Schadenswiedergutmachung als Strafmilderungsgrund.
-- § 46 Abs. 2 StGB Strafzumessung.
-- §§ 249 ff. BGB Schadensersatz, § 253 Abs. 2 BGB Schmerzensgeld.
-- §§ 823 ff. BGB Deliktsrecht.
-- § 79 ZPO entsprechend Vertretungszwang vor Landgericht / Strafkammer.
-- VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143 bis 4147).
+| Norm | Inhalt |
+|---|---|
+| § 403 StPO | Adhäsionsrecht: Verletzte kann vermögensrechtliche Ansprüche aus der Tat im Strafverfahren geltend machen |
+| § 404 StPO | Form und Inhalt des Adhäsionsantrags; schriftlich oder zu Protokoll; bis Schluss der Beweisaufnahme |
+| § 405 StPO | Adhäsionsvergleich als Vollstreckungstitel; Protokollierung in der Hauptverhandlung |
+| § 406 StPO | Entscheidung durch Strafgericht; Grundurteil; Absehen von Entscheidung bei Verfahrensverzögerung |
+| § 406a StPO | Rechtsmittel gegen Adhäsionsentscheidung; eingeschränkte Berufungsmöglichkeit |
+| § 406b StPO | Vorläufige Vollstreckbarkeit des Adhäsionsurteils |
+| § 406c StPO | Vollstreckbarerklärung des Vergleichs |
+| § 472a StPO | Kosten des Adhäsionsverfahrens für Verletzte: grundsätzlich kostenfrei |
+| § 46a StGB | Täter-Opfer-Ausgleich und Schadenswiedergutmachung als Strafmilderungsgrund |
+| § 46 Abs. 2 StGB | Strafzumessung: Schadenswiedergutmachung berücksichtigungsfähig |
+| § 253 Abs. 2 BGB | Schmerzensgeld bei Körper-, Gesundheits-, Freiheitsverletzung oder sexueller Selbstbestimmung |
+| §§ 249–252 BGB | Art und Umfang des Schadensersatzes; Naturalrestitution, Wertersatz |
+| §§ 823–826 BGB | Deliktsrecht: Grundlagen der Schadensersatzpflicht |
+| § 830 BGB | Mittäter und Beteiligte haften als Gesamtschuldner |
+| § 116 SGB X | Forderungsübergang bei Sozialleistungsträgern (Krankenkasse, Rentenversicherung) |
 
-## Voraussetzungen gemaess § 403 StPO
+---
 
-- Verletzte/r oder Erbinnen / Erben als Antragstellende.
-- Vermoegensrechtlicher Anspruch aus der Straftat.
-- Anspruch zur Zustaendigkeit der ordentlichen Gerichte (kein Sozial-, Arbeits-, Verwaltungs- oder Finanzanspruch).
-- Anspruch ist bezifferbar oder zumindest dem Grunde nach feststellbar.
+## Leitentscheidungen
 
-## Antrag gemaess § 404 StPO
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| BGH 2 StR 120/20 | BGH, 11.11.2020 | Absehen von Entscheidung im Adhäsionsverfahren (§ 406 Abs. 1 S. 3 StPO) erfordert konkrete Darlegung, warum Entscheidung das Strafverfahren wesentlich verzögern würde |
+| BGH 4 StR 393/17 | BGH, 07.12.2017 | Adhäsionsvergleich nach § 405 StPO ist tauglicher Vollstreckungstitel nach § 794 Abs. 1 Nr. 1 ZPO auch wenn Angeklagter nach Protokoll nur „Vergleich schlossen" |
+| BGH 2 StR 304/15 | BGH, 18.11.2015 | Schmerzensgeldhoehe im Adhäsionsverfahren: Strafgericht ist an Zivilrechtsprechung nicht gebunden; Tendenz zu niedrigeren Beträgen |
+| OLG Köln 2 Ws 440/18 | OLG Köln, 2018 | Berufung im Adhäsionsverfahren (§ 406a StPO): auf den Adhäsionsausspruch beschränkte Berufung ist zulässig |
+| BGH 1 StR 587/14 | BGH, 07.05.2015 | § 46a StGB setzt auf Seiten des Täters ernsthafte Bemühung um Ausgleich voraus; reine Zahlung genügt nicht immer |
+| BGH 6 StR 382/21 | BGH, 08.02.2022 | Bei Gesamtschuldnern im Strafverfahren ist Adhäsionsantrag gegen jeden Mittäter gesondert zu richten; § 830 BGB gilt |
 
-### Form und Inhalt
+---
 
-- Schriftlich oder muendlich zu Protokoll der Geschaeftsstelle.
-- Spaetestens bis zum Beginn der Schlussvortraege.
-- Inhalt:
-  - Bezeichnung Antragstellende und Antragsgegnerin / Antragsgegner (Angeklagte/r).
-  - Bestimmter Antrag (Zahlung, Feststellung, Herausgabe).
-  - Tatsachen, aus denen sich der Anspruch ergibt.
-  - Beweismittel.
-  - Bei Schmerzensgeld: konkrete Verletzungen, Behandlungsdauer, Folgen.
-- Anwaltliche Vertretung empfohlen, vor Landgericht teils zwingend (§ 78 ZPO entsprechend).
+## Prüfschema Adhäsionsverfahren
 
-### Antragsmuster Schmerzensgeld
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Anspruchsgrundlage prüfen: § 823 BGB (Körperverletzung, Sachschaden), § 826 BGB (sittenwidrige Schädigung bei Betrug), § 249/253 BGB (Schaden und Schmerzensgeld) | §§ 249, 253, 823 BGB |
+| 2 | Verletzteneigenschaft prüfen: Nur unmittelbar Verletzte (§ 403 StPO); mittelbar Betroffene ausgeschlossen | § 403 StPO |
+| 3 | Forderungsübergang prüfen: § 116 SGB X bei Krankenkassenleistungen; Eigenanteil ermitteln | § 116 SGB X |
+| 4 | Schadenshöhe ermitteln: Schmerzensgeld nach Tabellen (Hacks/Slizyk); materieller Schaden beziffern; Feststellungsantrag für Zukunftsschäden | § 253 Abs. 2 BGB |
+| 5 | Vollstreckungsperspektive prüfen: Zahlungsfähigkeit des/der Angeklagten; Insolvenzsituation; pfändbares Vermögen | §§ 704, 794 ZPO |
+| 6 | Adhäsionsantrag formulieren: bestimmter Antrag (Zahlung, Feststellung, Herausgabe); Sachverhalt; Beweismittel | § 404 StPO |
+| 7 | Fristwahrung: Antrag bis Beginn der Schlussvorträge (spätestens); frühzeitig einreichen | § 404 Abs. 1 StPO |
+| 8 | Vergleichsstrategie aus Verteidigung: § 46a StGB als Strafmilderungsargument; Ratenvereinbarung vorbereiten | § 46a StGB |
+| 9 | Vergleich nach § 405 StPO: In Hauptverhandlung protokollieren lassen; wird Vollstreckungstitel | § 405 StPO |
+| 10 | Grundurteil und Folgeentscheidung: Bei Bezifferungsproblemen Grundurteil nach § 406 Abs. 1 S. 2 StPO; Quantifizierung im Zivilverfahren | § 406 Abs. 1 S. 2 StPO |
+| 11 | Absehen-Antrag der Verteidigung: § 406 Abs. 1 S. 3–6 StPO – wenn Adhäsion Verfahren wesentlich verzögert | § 406 StPO |
+| 12 | Vollstreckung: Titel nach § 794 ZPO; Gerichtsvollzieher, Forderungspfändung; bei Insolvenz: Tabellenanmeldung | § 794 ZPO |
 
-> In der Strafsache gegen [Name Angeklagte/r] (Aktenzeichen [...]) beantragt die Verletzte [Name] im Adhaesionsverfahren gemaess §§ 403 ff. StPO:
->
-> Die/Den Angeklagte/n zu verurteilen, an die Verletzte ein angemessenes Schmerzensgeld, dessen Hoehe in das Ermessen des Gerichts gestellt wird, jedoch [Betrag] Euro nicht unterschreiten sollte, nebst Zinsen in Hoehe von fuenf Prozentpunkten ueber dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
->
-> Festzustellen, dass die/der Angeklagte verpflichtet ist, der Verletzten alle weiteren materiellen und immateriellen Schaeden zu ersetzen, die aus der Tat vom [Datum] zukuenftig noch entstehen werden, soweit die Anspruche nicht auf Dritte oder Sozialversicherungstraeger uebergehen.
+---
 
-## Entscheidung des Gerichts
+## Schriftsatzbausteine
 
-### Stattgabe (§ 406 Abs. 1 StPO)
+### Baustein 1 – Adhäsionsantrag auf Schmerzensgeld
 
-- Gericht entscheidet im Strafurteil zugleich ueber Adhaesionsantrag.
-- Verurteilung der/des Angeklagten zur Zahlung / Feststellung.
-- Bei Bestimmungs- oder Beweisschwierigkeiten: Grundurteil gemaess § 406 Abs. 1 S. 2 StPO.
+```
+An das [Gericht]
+Aktenzeichen: [...]
 
-### Absehen von Entscheidung (§ 406 Abs. 1 S. 3 bis 6 StPO)
+Adhäsionsantrag gemäß §§ 403 ff. StPO
 
-- Wenn Antrag unzulaessig oder unbegruendet erscheint und sofortige Entscheidung Verfahren wesentlich verzoegern wuerde.
-- Verletzte/r kann dann Zivilklage erheben; Rechtskraft des Strafurteils zur Tat bleibt bindend (§ 406 Abs. 3 StPO entsprechend).
+In der Strafsache gegen [Name Angeklagte/r]
+wegen [Tatvorwurf]
 
-### Vergleich gemaess § 405 StPO
+beantragt die Verletzte [Name] durch ihre anwaltliche Vertretung:
 
-- Adhaesionsvergleich in der Hauptverhandlung; Protokollierung als Prozessvergleich.
-- Vollstreckungstitel gemaess § 794 Abs. 1 Nr. 1 ZPO.
-- Strafmildernd fuer Angeklagte/n (Schadenswiedergutmachung).
+1. Die/den Angeklagte/n wird verurteilt, an die Verletzte
+   ein angemessenes Schmerzensgeld zu zahlen, dessen Höhe
+   in das Ermessen des Gerichts gestellt wird, jedoch den
+   Betrag von [z.B. 15.000 Euro] nicht unterschreiten sollte,
+   nebst Zinsen in Höhe von fünf Prozentpunkten über dem
+   Basiszinssatz seit Rechtshängigkeit dieses Antrags.
 
-## Strategie aus Sicht der Nebenklage / Verletztenvertretung
+2. Es wird festgestellt, dass die/der Angeklagte verpflichtet
+   ist, der Verletzten alle weiteren materiellen und immateriellen
+   Schäden zu ersetzen, die aus der Tat vom [Datum] künftig noch
+   entstehen, soweit Ansprüche nicht auf Dritte oder Sozial-
+   versicherungsträger übergegangen sind.
 
-### Vorteile
+Begründung:
+Die Verletzte erlitt durch die Tat vom [Datum] folgende
+Verletzungen: [konkret aufzählen]. Sie wurde [X Tage]
+stationär behandelt und befand sich [X Wochen] in ambulanter
+Therapie. Behandlungsunterlagen werden als Anlage 1 bis 3
+beigefügt.
 
-- Schneller Vollstreckungstitel ohne Zivilklage.
-- Kein Zivilkostenrisiko (Adhaesion ist kostenfrei fuer Verletzte/n, § 472a StPO).
-- Strafmaßspielraum: Vergleich oder Adhaesion sind Schadenswiedergutmachung gemaess § 46 Abs. 2 StGB.
-- Beweiserleichterung: Strafurteil ist verbindlich.
-- Erbeneintritt moeglich.
+Das Schmerzensgeld ist nach den Grundsätzen der Ausgleichs-
+und Genugtuungsfunktion (§ 253 Abs. 2 BGB) zu bemessen.
+Vergleichbare Verletzungen werden in der Rechtsprechung mit
+[Betragsbereich] bewertet (Slizyk, Beck'sche Schmerzensgeld-
+tabelle, [aktuelle Auflage], Nr. [XX]).
 
-### Risiken
+[Ort, Datum]
+[Unterschrift]
+```
 
-- Bei laufender Beweisaufnahme: Adhaesion kann Verfahren verzoegern und vom Gericht zurueckgewiesen werden.
-- Schmerzensgeldhoehe oft unter Zivilgerichtsniveau.
-- Berufung gegen Adhaesionsausspruch nur eingeschraenkt (§ 406a StPO).
-- Bei Insolvenz Angeklagter ist Titel zwar da, aber Vollstreckung schwierig.
+### Baustein 2 – Adhäsionsvergleich (Protokollvorlage)
 
-## Strategie aus Sicht der Verteidigung
+```
+In der Hauptverhandlung am [Datum]
+Aktenzeichen: [...]
 
-- Adhaesionsantrag der Nebenklage frueh erkennen und mit Mandantschaft besprechen.
-- Adhaesionsvergleich gemaess § 405 StPO als strafmilderndes Argument einsetzen - Schadenswiedergutmachung gemaess § 46a StGB.
-- Strafzumessungs-Verbesserung durch Wiedergutmachung quantifizieren.
-- Bei wirtschaftlich beschraenkter Mandantschaft: Ratenzahlung im Vergleich vereinbaren.
-- Adhaesionsabwehr: Antrag mit § 406 Abs. 1 S. 3 bis 6 StPO zurueckweisen lassen, wenn Verfahren stark verzoegert.
+schließen die Parteien folgenden Vergleich gemäß § 405 StPO:
 
-## Vollstreckung aus dem Adhaesionsurteil
+1. Die/der Angeklagte zahlt an die Verletzte [Name]
+   zur Abgeltung sämtlicher Schmerzensgeld- und Schadens-
+   ersatzansprüche aus der Tat vom [Datum] einen Betrag
+   von [X Euro].
 
-- Adhaesionsausspruch ist Titel gemaess § 794 Abs. 1 Nr. 1 ZPO (Vergleich) bzw. § 704 ZPO (Urteil).
-- Vollstreckung nach ZPO durch Gerichtsvollzieher, Forderungspfaendung, Sachpfaendung.
-- Bei Insolvenz Angeklagter: Anmeldung zur Tabelle (§§ 174 ff. InsO), bei Tatschulden ggf. § 302 InsO (keine Restschuldbefreiung bei vorsaetzlich begangener unerlaubter Handlung).
+2. Zahlung erfolgt in monatlichen Raten von [X Euro]
+   erstmals zum [Datum]; Gesamtfälligkeit bei Zahlungs-
+   verzug mit einer Rate.
 
-## RVG-Gebuehren
+3. Mit Zahlung des Gesamtbetrags sind alle Ansprüche der
+   Verletzten aus der Tat vom [Datum] abgegolten.
 
-- VV-RVG Teil 4 Abschnitt 6:
-  - Nr. 4143 Verfahrensgebuehr Adhaesionsverfahren.
-  - Nr. 4144 Erhoehung bei mehreren Auftraggebern.
-  - Nr. 4145 Terminsgebuehr.
-  - Nr. 4146 Vergleichsgebuehr.
-- Gegenstandswert: Adhaesionsanspruch.
-- Bei Beiordnung gemaess § 397a StPO: Adhaesionsgebuehren wie bei Nebenklage durch Staatskasse.
+4. Die Gerichtskosten des Adhäsionsverfahrens trägt
+   [je nach Vereinbarung].
 
-## Praxis-Konstellationen
+Dieser Vergleich wird als Prozessvergleich nach § 794 Abs. 1
+Nr. 1 ZPO protokolliert.
 
-### Konstellation A: Schmerzensgeld nach Koerperverletzung
+[Unterschriften beider Seiten und Gericht]
+```
 
-1. Adhaesionsantrag schriftlich mit Behandlungsbelegen.
-2. Bezifferung anhand BGB-Schmerzensgeldtabelle (Hacks, Beck'sche, Slizyk).
-3. Feststellungsantrag fuer zukuenftige Schaeden.
-4. Beweise: medizinische Atteste, Reha-Berichte, Verdienstausfall.
+### Baustein 3 – Verteidigung: Antrag auf Absehen von Entscheidung § 406 Abs. 1 S. 3 StPO
 
-### Konstellation B: Vermoegensschaden bei Betrug
+```
+An das [Gericht]
+Aktenzeichen: [...]
 
-1. Adhaesionsantrag auf Zahlung des Verlustbetrags.
-2. Verzugszinsen ab Tatzeitpunkt geltend machen.
-3. Vermoegensabschoepfung gemaess §§ 73 ff. StGB beachten (Abzug bei Doppelzahlung).
-4. Bei Mit-Taetern: gesamtschuldnerische Haftung gemaess § 830 BGB.
+Antrag auf Absehen von der Entscheidung im Adhäsionsverfahren
+gemäß § 406 Abs. 1 S. 3 StPO
 
-### Konstellation C: Adhaesionsvergleich als Teil der Verstaendigung
+In der Strafsache gegen [Name Angeklagte/r]
 
-1. Vorgespraech mit Gericht und StA gemaess § 257b StPO.
-2. Adhaesionsvergleich vorbereiten und mit Nebenklage abstimmen.
-3. In Hauptverhandlung Vergleich gemaess § 405 StPO protokollieren.
-4. Verstaendigung gemaess § 257c StPO mit Strafmilderung wegen Schadenswiedergutmachung.
+beantragt die Verteidigung,
 
-### Konstellation D: Adhaesionsabwehr durch Verteidigung
+von einer Entscheidung über den Adhäsionsantrag der Verletzten
+abzusehen, da die Entscheidung eine dem Strafverfahren nicht
+angemessene Beweisaufnahme erfordern würde und das Strafver-
+fahren wesentlich verzögern würde (§ 406 Abs. 1 S. 5 StPO).
 
-1. Pruefung Antrag auf formelle Maengel.
-2. Beweisangriff: Tatbegehung oder Schadenshoehe bestreiten.
-3. Hilfsweise Antrag gemaess § 406 Abs. 1 S. 3 StPO (Absehen wegen Verzoegerung).
-4. Bei Stattgabe: Berufung / Revision pruefen (§ 406a StPO).
+Begründung:
+Zur Klärung der Schadenshöhe wäre ein medizinisches Sach-
+verständigengutachten einzuholen. Der Adhäsionsantrag bezieht
+sich auf Schäden in Höhe von [Betrag EUR]. Die Klärung der
+Kausalität zwischen Tat und behaupteten Folgeschäden bedarf
+einer umfangreichen medizinischen Beurteilung, die den Rahmen
+des Strafprozesses sprengt.
 
-## Pflicht-Output
+[Ort, Datum]
+[Unterschrift Verteidigung]
+```
 
-1. **Anspruchspruefblatt** mit BGB-Anspruchsgrundlage, Hoehe, Beweismitteln.
-2. **Adhaesionsantrag** mit bestimmtem Antrag, Sachverhalt, Beweisangebot.
-3. **Schmerzensgeld-Kalkulation** anhand Tabellen.
-4. **Vergleichsvorschlag** fuer § 405 StPO (Ratenplan, Zinslauf).
-5. **Vollstreckungs-Memo** mit Schritten nach Rechtskraft.
-6. **Bei Verteidigung:** Memo Adhaesionsabwehr / Vergleich als Strafmilderungsweg.
+---
 
-## Pruefkette
+## Beweislast
 
-- [ ] Anspruchsgrundlage BGB klar (§ 823, § 253 Abs. 2, § 280 BGB)
-- [ ] Anspruch bezifferbar oder Feststellungsantrag formuliert
-- [ ] Beweismittel beigefuegt
-- [ ] Antrag fristgerecht vor Schlussvortrag
-- [ ] Vergleichs-Strategie mit Mandantschaft abgesprochen
-- [ ] Vollstreckungsperspektive geprueft (Vermoegen Angeklagte/r, Insolvenz)
+| Konstellation | Beweislast |
+|---|---|
+| Anspruchsgrundlage (§ 823 BGB) | Verletzte trägt Tatbegehung, Verletzung, Kausalität; im Adhäsionsverfahren erleichtert durch Bindungswirkung des Strafurteils zur Tat |
+| Schadenshöhe (Schmerzensgeld) | Verletzte muss Mindestbetrag darlegen; Gericht schätzt nach § 287 ZPO (analog) |
+| Forderungsübergang § 116 SGB X | Sozialleistungsträger zeigt Übergang an; Verletzte muss nur Eigenanteil nachweisen |
+| Adhäsionsvergleich | Einigung trägt sich selbst; Vollstreckungstitel durch Protokollierung |
+| Absehen wegen Verfahrensverzögerung | Gericht entscheidet von Amts wegen; Verteidigung kann Sachverhalt darlegen |
 
-## Cross-Refs
+---
 
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) fuer Anschluss und Adhaesion zusammen.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Adhaesionsvergleich gemaess § 405 StPO.
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme bei Verletzten.
-- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) bei Insolvenzaspekten.
-- `forderungsmanagement-klagewerkstatt` fuer Vollstreckung aus dem Adhaesionstitel.
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Bis Schluss der Beweisaufnahme | Adhäsionsantrag muss vor Schlussvorträgen gestellt sein | § 404 StPO |
+| Ab Urteilszustellung: 1 Woche | Berufung/Revision gegen Adhäsionsausspruch | § 406a StPO |
+| Ab Urteilsrechtskraft | Vollstreckung aus Adhäsionsurteil beginnt | § 704, § 794 ZPO |
+| 3 Jahre | Verjährung deliktsrechtlicher Ansprüche (§ 195 BGB) ab Kenntnis | § 199 BGB |
+| 30 Jahre | Verjährung des titulierten Anspruchs nach § 197 BGB | § 197 BGB |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| „Adhäsion verzögert das Strafverfahren" | § 406 Abs. 1 S. 3 StPO erlaubt Absehen nur wenn wesentliche Verzögerung nachgewiesen; BGH 2 StR 120/20: bloße Komplexität reicht nicht |
+| „Schmerzensgeldtabellen gelten nicht im Strafgericht" | Strafgerichte orientieren sich an Zivilrechtsprechung; BGH 2 StR 304/15: keine Bindung, aber vergleichbare Maßstäbe sind sachgerecht |
+| „Vergleich nach § 405 StPO ist kein rechtssicherer Titel" | BGH 4 StR 393/17 bestätigt Vollstreckbarkeit nach § 794 Abs. 1 Nr. 1 ZPO; Protokollierung entscheidend |
+| „Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
+| „Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Adhäsionsantrag kostenfrei für Verletzte | § 472a StPO: keine Gerichtskosten für Verletzte im Adhäsionsverfahren |
+| Anwaltsgebühren (Verletztenvertretung) | VV-RVG Nr. 4143 (Verfahrensgebühr), Nr. 4145 (Terminsgebühr), Nr. 4146 (Vergleichsgebühr); Streitwert = Adhäsionsforderung |
+| Bei Beiordnung § 397a StPO | Adhäsionsgebühren zusätzlich zur Nebenklagegebühr aus Staatskasse |
+| Angeklagter zahlt Kosten bei Adhäsionsverurteilung | Kosten des Adhäsionsverfahrens als Nebenfolge im Strafurteil |
+| Angeklagter bei Vergleich § 405 StPO | Kostenregelung im Vergleich frei vereinbar |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Schneller Vollstreckungstitel gewünscht | Adhäsionsantrag frühzeitig stellen; Vergleich nach § 405 StPO anstreben |
+| Angeklagter will Strafmilderung | Schadenswiedergutmachung proaktiv anbieten; § 46a StGB nutzen; Vergleich vor Urteil |
+| Hohe Schadensummen in Betrugsfall | Adhäsion kombinieren mit Verbleib im Strafverfahren für Bindungswirkung zur Tatbegehung |
+| Angeklagter ist insolvent | Adhäsion trotzdem beantragen; § 302 InsO schließt Restschuldbefreiung aus; Titel 30 Jahre vollstreckbar |
+| Gericht neigt zu § 406-Absehen | Beweise vorab vollständig vorlegen; Komplexität minimieren; Schmerzensgeld pauschal schätzen lassen |
+| Mittäter haften gesamtschuldnerisch | Adhäsionsanträge gegen jeden Mittäter separat (§ 830 BGB); BGH 6 StR 382/21 beachten |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage und Adhäsion kombiniert führen
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – Adhäsionsforderung in der Insolvenz des Angeklagten
+- `plaedoyer-vorbereitung-strafverteidigung` – Schadenswiedergutmachung als Strafmilderungsargument
+- `fachanwalt-strafrecht-zeugenbeistand` – Begleitung der Verletzten als Zeugin
+
+---
+
+## Quellen
+
+StPO §§ 403–406c, 472a. StGB §§ 46, 46a. BGB §§ 249–253, 823–826, 830. ZPO §§ 287, 704, 794. InsO § 302. SGB X § 116. BGH 2 StR 120/20 (Absehen § 406). BGH 4 StR 393/17 (Vollstreckungstitel § 405). BGH 2 StR 304/15 (Schmerzensgeld Adhäsion). BGH 1 StR 587/14 (§ 46a StGB). BGH 6 StR 382/21 (Gesamtschuldner). Hacks/Wellner/Häcker, Schmerzensgeldbeträge (aktuelle Auflage). Slizyk, Beck'sche Schmerzensgeldtabelle. Stand: 05/2026.

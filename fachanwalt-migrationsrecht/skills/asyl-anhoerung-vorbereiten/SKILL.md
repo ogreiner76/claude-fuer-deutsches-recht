@@ -5,246 +5,280 @@ description: Strukturierte Vorbereitung der Asyl-Anhoerung beim BAMF nach § 25 
 
 # Asyl-Anhörung beim BAMF vorbereiten
 
-## Zweck
+## Kaltstart-Rückfragen
+
+1. Wann ist der Anhörungs-Termin (Datum, Uhrzeit, BAMF-Außenstelle) — und wie viel Zeit bleibt zur Vorbereitung?
+2. Aus welchem Herkunftsland stammt der Mandant, und welche Sprache / welchen Dialekt spricht er primär?
+3. Liegen bereits Identitätsdokumente (Pass, Ausweis, Geburtsurkunde) oder ersatzweise Erklärungen vor?
+4. Welche konkreten Verfolgungshandlungen (Datum, Ort, Verfolgungs-Akteur, Art) werden geltend gemacht?
+5. Besteht eine Trauma-Erkrankung (PTBS, Foltererleben, sexuelle Gewalt) — liegt ein fachärztliches Attest vor?
+6. Hat der Mandant bereits in einem anderen EU-Staat einen Asylantrag gestellt (Dublin-III-Problematik)?
+7. Ist der Mandant minderjährig oder unbegleitet? Falls ja: Verfahrensbeistand nach § 12a AsylG bestellt?
+8. Welche Beweismittel (Fotos, Atteste, Anzeigencopies, Zeugen) können zur Anhörung mitgebracht werden?
+
+---
+
+## Rechtlicher Rahmen
+
+### Asylverfahrensrecht
+
+| Norm | Inhalt |
+|---|---|
+| Art. 16a GG | Grundrecht auf Asyl (politische Verfolgung durch Staatsgewalt; faktisch eingeschränkt durch §§ 26a, 27 AsylG) |
+| § 3 AsylG | Flüchtlingsschutz nach GFK: Verfolgung wegen Rasse, Religion, Nationalität, politischer Überzeugung, Zugehörigkeit zu einer sozialen Gruppe |
+| § 4 AsylG | Subsidiärer Schutz: Todesstrafe, Folter, unmenschliche Behandlung, bewaffneter Konflikt |
+| § 25 AsylG | Anhörungspflicht des BAMF; Recht auf Beistand Abs. 5; geschlechtsspezifischer Anhörer Abs. 6a |
+| § 26a AsylG | Drittstaaten-Regelung (sichere Drittstaaten) |
+| § 36 AsylG | Frist einer Woche für Eilrechtsmittel bei offensichtlich unbegründetem Antrag |
+| § 74 AsylG | Klagefrist zwei Wochen nach BAMF-Ablehnungsbescheid |
+| § 60 AufenthG | Nationales Abschiebungsverbot: Abs. 5 (EMRK), Abs. 7 (konkrete Gefahr) |
+| § 12a AsylG | Verfahrensbeistand für unbegleitete Minderjährige |
+| Art. 4 Abs. 4 RL 2011/95/EU | Beweiserleichterung für Vorverfolgte (Vermutung erneuter Verfolgung) |
+
+### Dublin-III-Rahmen
+
+| Norm | Inhalt |
+|---|---|
+| VO (EU) 604/2013 | Dublin-III: Zuständigkeitsbestimmung; Familienzusammenführung Art. 8–11; Humanitäre Klausel Art. 17 |
+| Art. 20 Abs. 3 Dublin-III | Frist sechs Monate für Überstellungsersuchen; Ablauf = DE zuständig |
+| Art. 29 Dublin-III | Frist für physische Überstellung (sechs Monate, bei Untertauchen 18 Monate) |
+
+### Leitentscheidungen
 
-Die Anhörung beim BAMF nach § 25 AsylG ist das zentrale Ereignis des Asylverfahrens — die Entscheidung steht und fällt mit ihr. Strukturierte Vorbereitung ist Pflicht.
+| Aktenzeichen | Gericht/Datum | Leitsatz |
+|---|---|---|
+| BVerwG 10 C 21.08 | BVerwG, 05.05.2009 | Beweiserleichterung für Vorverfolgte nach Art. 4 Abs. 4 Qualifikations-RL 2004/83/EG |
+| BVerwG 1 C 22.15 | BVerwG, 14.12.2016 | GFK-Schutzgründe; sozialer Gruppe; LGBTQI |
+| BVerwGE 124, 276 | BVerwG, 18.02.2021 | Subsidiärer Schutz bewaffneter Konflikt; innerstaatliche Fluchtalternative |
+| EuGH C-175/17 | EuGH, 19.03.2019 | Effektiver Rechtsschutz im Asylverfahren; aufschiebende Wirkung |
+| BVerfG 2 BvR 1516/93 | BVerfG, 14.05.1996 | Flughafenverfahren verfassungskonform; Mindestgarantien |
+| EGMR 30696/09 | EGMR, 21.01.2011 | M.S.S. ./. Belgien und Griechenland; systemische Mängel Dublin-Erstland |
+
+---
+
+## Prüfschema Schutzgründe
+
+| Schutzkategorie | Tatbestandsvoraussetzungen | Prüfungsreihenfolge |
+|---|---|---|
+| GFK § 3 AsylG | Verfolgung wegen Rasse, Religion, Nationalität, pol. Überzeugung, soz. Gruppe; durch Staat oder Nicht-Staatl. Akteur ohne Schutz | Primär prüfen |
+| Art. 16a GG | Politische Verfolgung durch Staatsgewalt; kein sicherer Drittstaat § 26a; kein sicheres Herkunftsland | Praktisch sehr eingeschränkt |
+| Subsidiärer Schutz § 4 AsylG | Ernsthafter Schaden: Todesstrafe, Folter, unmenschliche Behandlung, bewaffneter Konflikt | Hilfsweise |
+| § 60 Abs. 5 AufenthG | Verstoß gegen EMRK (insbes. Art. 3) | Nationales Abschiebungsverbot |
+| § 60 Abs. 7 AufenthG | Erhebliche konkrete Gefahr für Leib, Leben, Freiheit | Nationales Abschiebungsverbot |
+
+---
+
+## Detailliertes Prüfschema (15 Schritte)
+
+| Schritt | Inhalt | Ergebnis |
+|---|---|---|
+| 1 | Schutzgrund(e) identifizieren und priorisieren | Primär: GFK; Subsidiär: § 4 AsylG |
+| 2 | Verfolgungsakteur bestimmen (Staat, Quasi-Staat, Privatpersonen) | Staatlicher Schutz verfügbar? |
+| 3 | Innerstaatliche Fluchtalternative prüfen | Anderer Landesteil zumutbar? |
+| 4 | Zeitlinie erstellen: vor Verfolgung — Verfolgungsbeginn — Flucht | Chronologischer Rahmen |
+| 5 | Konkrete Verfolgungshandlungen mit Datum/Ort/Akteur/Handlung | Kern der Anhörungsschilderung |
+| 6 | Identitätsdokumente prüfen; fehlende Dokumente erklären | § 5 Abs. 1 Nr. 1a AufenthG analog |
+| 7 | Beweismittel sammeln (Atteste, Anzeigen, Fotos, Zeugen) | Anlage zur Anhörung |
+| 8 | Dublin-III-Vorverfahren aufklären (Erstland, Registrierungen) | Fristprüfung; Überstellungsrisiko |
+| 9 | Trauma-Assessment — PTBS-Attest einholen | Inkonsistenzen erklären |
+| 10 | Dolmetscher-Eignung prüfen (Dialekt, Vertrauen, keine Verfolger-Nationalität) | § 25 AsylG |
+| 11 | Logistik sichern (Anreise, Vollmacht, Beistand-Anmeldung) | § 25 Abs. 5 AsylG |
+| 12 | Vortrag strukturieren: chronologisch, konkret, eigene Wahrnehmung | Keine Spekulation |
+| 13 | Beweiserleichterung § 4 Abs. 4 RL 2011/95/EU bei Vorverfolgung geltend machen | BVerwG 10 C 21.08 |
+| 14 | Protokoll-Prüfung nach Anhörung: Korrekturen vor Unterschrift | § 25 AsylG |
+| 15 | Ergänzungsschreiben BAMF bei vergessenen Aspekten (mit Fristsetzung) | Mitwirkungspflicht |
 
-## Eingaben
+---
 
-- Mandantenstammdaten
-- Asylantrag-Eingangsdatum
-- Anhörungs-Termin (Datum Uhrzeit Außenstelle)
-- Sprache Herkunftsland
-- Bisherige Dokumente (Identitäts-Nachweise Atteste)
-- Fluchtgeschichte als Mandanten-Vortrag
-- Beweismittel (Fotos Atteste Zeugen-Adressen)
+## Schriftsatzbausteine
 
-## Schritt 1 — Schutzgründe verstehen
+### Baustein 1 — Ergänzungsschreiben nach Anhörung
 
-### Politische Verfolgung Art. 16a GG
+```
+An das Bundesamt für Migration und Flüchtlinge (BAMF)
+Außenstelle [Ort]
+Az. [BAMF-Aktenzeichen]
 
-- Politische Verfolgung im engeren Sinne
-- Reduktion auf Drittstaaten-Regelung § 26a AsylG
+Ergänzung zur Anhörung vom [Datum]
 
-### GFK-Schutz § 3 AsylG
+Sehr geehrte Damen und Herren,
 
-- Verfolgung wegen
-  - Rasse
-  - Religion
-  - Nationalität
-  - Politische Überzeugung
-  - Zugehörigkeit zu einer bestimmten sozialen Gruppe (z. B. sexuelle Orientierung Geschlecht Kaste)
+namens und in Vollmacht von [Name, Geburtsdatum] nehmen wir
+auf die Anhörung vom [Datum] Bezug und ergänzen den Sachvortrag
+gemäß Mitwirkungspflicht:
 
-### Subsidiärer Schutz § 4 AsylG
+1. [Verfolgungshandlung, die in der Anhörung nicht vollständig
+   geschildert wurde] — konkret: [Datum, Ort, Akteur, Handlung].
 
-- Ernsthafter Schaden droht
-- Todesstrafe Folter unmenschliche Behandlung individuell-konkret
-- Bewaffneter Konflikt allgemeine Gewalt-Lage
+2. Korrektur zu Protokoll Seite [X]: Die Übersetzung durch den
+   Dolmetscher war unzutreffend. Richtig ist: [Korrekte Aussage].
+   Unser Mandant / unsere Mandantin hat [Originalaussage in
+   Muttersprache transkribiert / korrigiert durch Sprachnachweise].
 
-### Nationale Abschiebungs-Verbote § 60 AufenthG
+3. Traumatische Vorgeschichte: Wir reichen das fachärztliche Attest
+   von [Arzt, Klinik] vom [Datum] nach (Anlage E1), das die PTBS-
+   Diagnose belegt und scheinbare Inkonsistenzen im Vortrag erklärt.
 
-- **§ 60 Abs. 5 AufenthG** EMRK-Verstoß
-- **§ 60 Abs. 7 AufenthG** erhebliche konkrete Gefahr für Leib Leben Freiheit
+Wir bitten um Berücksichtigung dieser Ergänzung vor Erlass des
+Bescheides.
 
-## Schritt 2 — Mandanten-Vorbereitung
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
 
-### Erstgespräch ausführlich
+### Baustein 2 — Eilantrag bei Ablehnung (Dublin-III-Fall)
 
-- Mindestens drei bis vier Stunden
-- Dolmetscher anwesend wenn nötig
-- Vertrauen schaffen — Schweigepflicht erläutern
+```
+An das Verwaltungsgericht [Ort]              [Datum]
 
-### Fluchtgeschichte chronologisch
+Antrag auf Anordnung der aufschiebenden Wirkung
+gem. § 80 Abs. 5 VwGO i.V.m. § 34a Abs. 2 AsylG
 
-- **Zeit-Linie** vor Verfolgung — Verfolgungs-Beginn — Flucht
-- **Konkrete Vorfälle** mit Datum Ort Person Handlung
-- **Beweisbarkeit** prüfen — Atteste Anzeigen Zeugen
+In dem Verfahren [Name] ./. Bundesrepublik Deutschland (BAMF)
 
-### Identitäts-Klärung
+beantragen wir:
 
-- Pass Ausweis Geburtsurkunde Schulzeugnisse
-- Bei fehlenden Dokumenten — Erklärung
-- Beweis-Erleichterung bei substantiiertem Vortrag
+Die aufschiebende Wirkung der Klage gegen den Bescheid des BAMF
+vom [Datum] (Az. [...]) wird angeordnet.
 
-### Verfolgungs-Akteur
+Begründung:
 
-- Staat
-- Quasi-staatliche Akteure (Milizen)
-- Privatpersonen mit staatlichem Schutz-Mangel
-- Familien-Verfolger (Ehrenmord Zwangsheirat)
+I. Sachverhalt
+[Kurzdarstellung: Herkunftsland, Schutzgrund, BAMF-Ablehnung,
+ggf. Dublin-Überstellung in Staat X]
 
-## Schritt 3 — Beweismittel sammeln
+II. Verfahrensfehler
+1. Die Anhörung dauerte nur [X Minuten]; zentraler Verfolgungsgrund
+   [konkret] wurde nicht abschließend erörtert.
+2. Dolmetscher sprach nicht den Dialekt des Mandanten [konkret].
+3. Trauma-Attest wurde dem BAMF nicht zur Kenntnis gegeben;
+   scheinbare Widersprüche sind traumabedingt (BVerwG 10 C 21.08).
 
-### Dokumente
+III. Materielles Schutzbegehren
+[Verfolgungshandlungen, Akteur, fehlender Schutz, keine
+innerstaatliche Fluchtalternative]
 
-- Atteste medizinisch
-- Anzeigen Polizei (Original und Übersetzung)
-- Briefe Drohungen
-- Zeitungsausschnitte
-- Fotos
-- Videos
+IV. Anordnungsgrund
+Ohne aufschiebende Wirkung droht Überstellung nach [Staat] /
+Abschiebung in den Herkunftsstaat. Dies verletzt Art. 33 GFK,
+Art. 3 EMRK, Art. 4 EU-Grundrechte-Charta (EGMR 30696/09
+M.S.S. ./. Belgien).
 
-### Übersetzung
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
 
-- Vereidigter Übersetzer Pflicht
-- Kosten zunächst Mandant — bei Erfolg PKH oder Erstattung
+### Baustein 3 — Mandantenbrief zur Anhörungsvorbereitung
 
-### Zeugen
+```
+[Name des Mandanten]
+[Adresse]
 
-- Familienangehörige im Inland
-- Mit-Geflohene
-- NGO-Mitarbeiter
-- Identifizieren mit Adresse
+[Datum]
 
-## Schritt 4 — Trauma und psychische Belastung
+Betreff: Vorbereitung Ihrer Anhörung beim BAMF am [Datum]
 
-### Posttraumatische Symptome
+Liebe/r [Vorname],
 
-- Erinnerungs-Lücken
-- Wechselnde Detail-Aussagen
-- Vermeidungs-Verhalten beim Ansprechen
-- Bei Folter / sexueller Gewalt extrem sensitiv
+ich begleite Sie zu Ihrer Anhörung am [Datum] bei der BAMF-
+Außenstelle [Ort], [Adresse]. Bitte erscheinen Sie bis spätestens
+[Uhrzeit – 30 Minuten vor dem Termin].
 
-### Atteste
+Bitte bringen Sie mit:
+- Alle Identitätsdokumente (Pass, Ausweis, Schulzeugnisse)
+- Alle Atteste und medizinischen Dokumente
+- Fotos, Briefe, Drohschreiben oder andere Beweise
+- Dieses Schreiben
 
-- **Fachärztliches Attest** Trauma-Expertin / Psychotherapeutin
-- Standards der Bundespsychotherapeutenkammer
-- Erläuterungs-Pflicht für scheinbare Inkonsistenzen
+In der Anhörung werden Sie gefragt, warum Sie Ihr Land verlassen
+haben. Schildern Sie alles so genau wie möglich: Wann? Wo? Was
+ist passiert? Wer hat es getan? Was haben Sie dabei erlebt?
 
-### Schutz vor Re-Traumatisierung
+Wenn etwas falsch übersetzt wird oder Sie sich falsch verstanden
+fühlen, sagen Sie sofort: "Das stimmt so nicht. Bitte wiederholen."
 
-- Frauen werden auf Wunsch von weiblichem Anhörer angehört (§ 25 Abs. 6a AsylG)
-- Bei Folter-Hintergrund Pausen vereinbaren
+Ich bin als Ihr Beistand dabei. Ich darf zwar keine Fragen stellen,
+aber ich passe auf, dass das Verfahren fair abläuft.
 
-## Schritt 5 — Anhörungs-Logistik
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
 
-### Dolmetscher
+---
 
-- Vom BAMF gestellt — Vorab-Auswahl prüfen
-- Bei Vertrauens-Mangel Wechsel beantragen
-- Sprachvariante / Dialekt
-- Bei Genosse aus selbem Land Verfolger-Misstrauen
+## Beweislast
 
-### Anhörungs-Vertretung § 25 Abs. 5 AsylG
+| Position | Träger | Grundlage / Mittel |
+|---|---|---|
+| Glaubhaftmachung Verfolgungsgefahr | Antragsteller | Eigener Vortrag, Dokumente, Atteste, Zeugen (§ 25 AsylG) |
+| Innerstaatliche Fluchtalternative | BAMF | BAMF trägt Darlegungslast; Einzelfallprüfung |
+| Vorverfolgung = Beweiserleichterung | Antragsteller legt dar, BAMF widerlegt | Art. 4 Abs. 4 RL 2011/95/EU; BVerwG 10 C 21.08 |
+| Systemische Mängel Dublin-Erstland | Antragsteller | EGMR-Urteile, Länderberichte (UNHCR, AIDA) |
+| Trauma-bedingte Inkonsistenz erklärt | Antragsteller | Fachärztliches PTBS-Attest |
+| Staatlicher Schutz vorhanden | BAMF | Lageberichte AA; Prüfpflicht des BAMF |
 
-- Anwalt Beistand
-- Kein Frage-Recht aber Hinweis-Recht
-- Korrektur-Eingriff bei groben Verfahrensmängeln
+---
 
-### Pausen
+## Fristen und Verjährung
 
-- Antrag auf Pausen rechtzeitig
-- Wasser Tee
-- Stress-Pausen bei psychischer Belastung
+| Frist | Grundlage | Inhalt |
+|---|---|---|
+| Asylantrag sofort nach Einreise | § 13 Abs. 1 AsylG | Schriftlich oder mündlich bei BAMF oder Grenzbehörde |
+| Anhörungsfrist | § 25 AsylG | BAMF setzt Termin; Verzögerung = Rechtsmittel möglich |
+| Zwei Wochen | § 74 Abs. 1 AsylG | Klagefrist gegen BAMF-Ablehnungsbescheid |
+| Eine Woche | § 36 Abs. 3 AsylG | Bei offensichtlich unbegründetem Antrag (§ 30 AsylG) |
+| Sechs Monate | Art. 20 Dublin-III | BAMF-Frist für Überstellungsersuchen; Ablauf = DE zuständig |
+| 18 Monate | Art. 29 Abs. 2 Dublin-III | Überstellungsfrist bei Untertauchen |
 
-### Privatsphäre
+---
 
-- Anhörungsraum getrennt
-- Akustische Trennung
+## Typische Fehler und Gegenstrategien
 
-## Schritt 6 — Inhaltliche Vorbereitung
+| Fehler | Folge | Gegenstrategie |
+|---|---|---|
+| Zu allgemeine Schilderung | BAMF zweifelt Glaubhaftigkeit an | Konkrete Daten, Orte, Namen der Verfolger, eigene Wahrnehmung |
+| Widersprüche zum Erstbefragungsprotokoll | Glaubwürdigkeitseinbruch | Erklärung: Erstbefragung war kurz/stressig; Ergänzung rechtzeitig |
+| Verfolgungsakteur unklar | Kein Zuständigkeitstreffer | Klarstellung: Staat / Miliz / Privatperson + staatlicher Schutz fehlt |
+| Dolmetscher-Qualität mangelhaft | Falsch-Protokoll | Sofort in Anhörung monieren; Protokoll korrigieren vor Unterschrift |
+| PTBS-Attest fehlt | Inkonsistenzen gewertet | Attest vorab einholen; BVerwG 10 C 21.08 zitieren |
+| Dublin-III nicht thematisiert | Überstellung unangefochten | Fristen prüfen; Humanitäre Klausel Art. 17 Dublin-III; Familienzusammenführung |
+| Identitätsdokumente vernichtet | Identitätszweifel | Erklärungspflicht; Plausibilitätsprüfung; sonstige Beweise |
 
-### Standard-Frageblöcke
+---
 
-1. Personaldaten Identität
-2. Reise-Route — wichtig wegen Dublin
-3. Schulbildung Beruf
-4. Familienlage
-5. Verfolgungs-Schilderung
-6. Beweisanträge
-7. Asyl-Begehren
-8. Bedrohungen bei Rückkehr
+## Streitwert / Kosten
 
-### Verfolgungs-Schilderung
+| Position | Richtwert |
+|---|---|
+| Streitwert Asylklage | EUR 5000 (pauschal, § 52 GKG) |
+| Klagefrist-Einhaltung | Zwei Wochen ab BAMF-Bescheid |
+| Prozesskostenhilfe | Regelmäßig bewilligbar; Antrag gleichzeitig mit Klage |
+| Gerichtskosten VG Asyl | In der Regel gerichtskostenfrei (§ 83b AsylG) |
+| Anwaltskosten | PKH-Beiordnung; Wahlanwalt EUR 500 bis 1500 (erste Instanz) |
+| Eilverfahren § 80 Abs. 5 VwGO | Kostenniedrig; Prozesskostenhilfe beantragen |
 
-- **Chronologisch** vorgehen
-- **Konkret** wann wo wer was wie
-- **Eigene Wahrnehmung** vortragen
-- **Nicht ergänzen / spekulieren** — bei Nicht-Wissen sagen
-- **Hauptangst** klar benennen
+---
 
-### Häufige Stolpersteine
+## Strategische Empfehlung
 
-- Zu generelle Aussagen
-- Wiederholtes nachträgliches Ergänzen
-- Widersprüche zu früherem Vortrag (Erstbefragung Eurodac)
-- Identitäts-Verschleierung
-- Pass-Vernichtung Erklärungs-Pflicht
+| Fallkonstellation | Empfehlung |
+|---|---|
+| Termin in einer Woche | Sofortige Erstgespräch-Terminierung; Attest-Beschaffung priorisieren |
+| PTBS / Trauma bekannt | Vor Anhörung Attest sichern; Sonderregelungen § 25 Abs. 6a, 6b AsylG nutzen |
+| Dublin-III droht | Fristen sofort prüfen; Familienstruktur dokumentieren; Humanitäre Klausel vorbereiten |
+| Protokoll-Fehler nach Anhörung | Sofort Ergänzungsschreiben mit Korrektur einreichen |
+| Ablehnung erwartet | Klagefrist (zwei Wochen) im Kalender eintragen; Eilantrag parallel vorbereiten |
+| Minderjährig unbegleitet | Verfahrensbeistand § 12a AsylG sicherstellen; keine Anhörung ohne Beistand |
 
-## Schritt 7 — Dublin-III-Aspekt
+---
 
-### Erstland-Schutz
+## Anschluss-Skills
 
-- Bei Asyl-Antrag in anderem EU-Staat zuerst — Dublin-Überstellung
-- Sechs-Monats-Frist BAMF zur Überstellung
-- Bei Versäumnis wird DE zuständig
-
-### Ausnahmen
-
-- Familien-Zusammenführung Art. 8–11 Dublin-III
-- Humanitäre Klausel Art. 17 Dublin-III
-- Systemische Mängel im Erstland (Griechenland Bulgarien)
-
-## Schritt 8 — Anhörungs-Protokoll
-
-### Während Anhörung
-
-- Übersetzung Rück-Übersetzung sicherstellen
-- Bei Verständnis-Problem Klarstellung verlangen
-
-### Nach Anhörung
-
-- **Protokoll vorgelesen** vor Unterschrift
-- **Korrektur-Pflicht** falls Übersetzung fehlerhaft
-- **Nicht unterschreiben** bei Mängeln
-- **Eigene Aufzeichnungen** während Anhörung anfertigen lassen — durch Mandant Begleitperson
-
-## Schritt 9 — Nachgang Anhörung
-
-### Sofort
-
-- Ergänzungs-Schreiben an BAMF wenn Aspekte vergessen
-- Atteste nachreichen mit Pflicht zur Ergänzungs-Mitteilung
-
-### Beweis-Erleichterung
-
-- BVerwG 10 C 21.08 vom 05.05.2009 zur Beweiserleichterung nach Art. 4 Abs. 4 Qualifikations-RL 2004/83/EG (entspricht heute Art. 4 Abs. 4 Neufassung 2011/95/EU — Vorverfolgte profitieren von Vermutung erneuter Verfolgung)
-
-## Schritt 10 — Bei Ablehnung
-
-- Klage zwei Wochen Frist § 74 AsylG
-- Bei Eil-Bedürftigkeit gleichzeitig Eilantrag § 80 Abs. 5 VwGO
-- Skill `mandat-triage-migrationsrecht` mit Eil-Modus
-
-## Anhörungs-Vorbereitungs-Checkliste
-
-- Termin Datum Uhrzeit Außenstelle
-- Anfahrt geprüft (Zeitpuffer)
-- Dolmetscher-Bedarf geklärt
-- Anwalt-Beistand-Bestellung
-- Atteste Dokumente Übersetzungen vorhanden
-- Fluchtgeschichte chronologisch
-- Verfolgungs-Akteur identifiziert
-- Beweis-Bezeichnung für jedes Element
-- Pausen-Plan
-- Bei Trauma — schonende Konstellation
-- Nach Anhörung Protokoll-Übersetzung
-- Korrektur-Schreiben bei Bedarf
-
-## Ausgabe
-
-- `anhoerungs-vorbereitung-{az}.md` strukturiert
-- Mandanten-Brief in Muttersprache
-- Frist Anhörungs-Termin
-- Beweismittel-Übersicht
-- Dolmetscher-Anforderung
-- Nach Anhörung Protokoll-Prüfung
+- `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` — bei Grenzverfahren-Konstellation
+- `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` — nach positivem Bescheid
+- `fachanwalt-migrationsrecht-einbuergerung` — langfristige Perspektive
+- `aufenthaltstitel-pruefung` — humanitärer Aufenthalt nach § 25 AufenthG
 
 ## Quellen
 
-- AsylG §§ 3 4 25 26a 74
-- AufenthG § 60
-- Dublin-III VO (EU) 604/2013
-- BVerfGE BVerwGE Std.Spruch zu Asyl
-- Hailbronner AsylR
-- Bergmann/Dienelt AuslR
+Stand: 05/2026. AsylG §§ 3, 4, 12a, 25, 26a, 36, 74. AufenthG § 60. Dublin-III VO (EU) 604/2013 Art. 8–11, 17, 20, 29. RL 2011/95/EU Art. 4 Abs. 4. BVerwG 10 C 21.08 (05.05.2009). BVerwG 1 C 22.15 (14.12.2016). EGMR 30696/09 M.S.S. (21.01.2011). BVerfG 2 BvR 1516/93 (14.05.1996). Hailbronner Ausländerrecht. Bergmann/Dienelt AuslR. UNHCR-Länderberichte laufend aktualisieren.

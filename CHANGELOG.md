@@ -1,3 +1,50 @@
+# v14.1.0 — Grosser Inhalts-Boost (145 Top-Skills auf dreifache Tiefe)
+
+Inhaltliche Verdreifachung der 145 fachlich wichtigsten Skills in allen 24 Fachanwalt-Plugins sowie in `steuerrecht-anwalt-und-berater` und den fuenf Corporate-Plugins (`corporate-kanzlei`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `gesellschaftsrecht`, `gesellschaftsgruender`). Generische Boilerplate-Skills (Erstgespraech, Vergleichsverhandlung, Mandantenkommunikation) sind aus dem Boost ausgenommen — der Fokus liegt auf der fachlichen Substanz.
+
+## Was sich pro geboostetem Skill geaendert hat
+
+Jeder der 145 ausgewaehlten Skills wurde von einer Knappformulierung in eine voll ausgearbeitete Arbeitsanleitung umgeschrieben. Erweitert wurden, wo passend:
+
+- **Kaltstart-Mandantenfragen** — sechs bis zehn konkrete Fragen mit Begruendung
+- **Rechtsgrundlagen** — Wortlaut der zentralen Tatbestandsmerkmale, nicht nur Paragrafnummer
+- **Pruefschemata in Tabellenform** — acht bis fuenfzehn Schritte
+- **Schriftsatzbausteine und Klauselvorlagen** — vollstaendige Formulierungen
+- **Beweislast und Darlegungslast** — klar zugeordnet
+- **Fristen und Verjaehrung** — konkret kalendermaessig
+- **Typische Gegenargumente und Reaktion** — Tabellenform
+- **Streitwert und RVG-Hinweise** — beziffert
+- **Strategische Empfehlung** — aussergerichtlich, Klage, Vergleich
+- **Anschluss-Skills** — Querverweise zu anderen Skills im Plugin
+- **Aktuelle Aktenzeichen** — BGH, BAG, BFH, BVerwG, BVerfG, OLG, FG
+
+## Cluster-Aufteilung
+
+| Cluster | Plugins | Geboostete Skills |
+| --- | --- | --- |
+| Cluster A — 24 Fachanwalt-Plugins | siehe Plugin-Liste unten | 120 |
+| Cluster B — Steuerrecht | `steuerrecht-anwalt-und-berater` | 5 |
+| Cluster C — Corporate | `corporate-kanzlei`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `gesellschaftsrecht`, `gesellschaftsgruender` | 25 (5 pro Plugin) |
+
+## Fachanwalt-Plugins im Boost (alle 24)
+
+`agrarrecht`, `arbeitsrecht`, `bank-kapitalmarktrecht`, `bau-architektenrecht`, `erbrecht`, `familienrecht`, `gewerblicher-rechtsschutz`, `handels-gesellschaftsrecht`, `insolvenz-sanierungsrecht`, `internationales-wirtschaftsrecht`, `it-recht`, `medizinrecht`, `miet-wohnungseigentumsrecht`, `migrationsrecht`, `sozialrecht`, `sportrecht`, `strafrecht`, `transport-speditionsrecht`, `urheber-medienrecht`, `vergaberecht`, `verkehrsrecht`, `versicherungsrecht`, `verwaltungsrecht`.
+
+## Nebenbei behoben
+
+Zwei alte Validator-Fehler in nicht-geboosteten Skills (Komma-in-Zahlen-Pattern in `description`):
+
+- `fachanwalt-gewerblicher-rechtsschutz/.../SKILL.md`: `§§ 5, 32 HinSchG` zu `§§ 5 und 32 HinSchG`
+- `fachanwalt-insolvenz-sanierungsrecht/.../SKILL.md`: `§ 9, 3/4-Mehrheit` zu `§ 9 mit 3/4-Mehrheit`
+
+## Globaler Versionsbump
+
+- Alle 98 `plugin.json` auf 14.1.0.
+- `marketplace.json` (Top-Level und alle Plugin-Eintraege) auf 14.1.0.
+- Validator OK.
+
+---
+
 # v14.0.0 — Frischer Major-Release
 
 Frischer Sammelrelease ueber alle 98 Plugins. Der Versionssprung von 12.x auf 14.0 markiert das Ende des 12er-Inkrement-Zyklus und buendelt den aktuellen Stand der Skill-Familie als einheitliches Major-Release.
