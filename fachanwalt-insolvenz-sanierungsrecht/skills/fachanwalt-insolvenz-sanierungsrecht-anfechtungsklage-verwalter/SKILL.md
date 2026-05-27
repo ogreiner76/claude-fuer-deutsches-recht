@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter
-description: "Anfechtungsklage des Insolvenzverwalters §§ 129–137 InsO: Tatbestandstabelle §§ 130–135 und Bargeschäft § 142. 4-Schritte-Workflow. Gegner-Verteidigung (Bargeschäft/Bona fide/Saldotheorie/Verjährung). Nahestehende Personen § 138 InsO. BGH IX ZR 72/20 und IX ZR 145/20 und IX ZR 213/19."
+description: "Anfechtungsklage des Insolvenzverwalters nach §§ 129-137 InsO gegen Zahlungsempfaenger. Anwendungsfall Insolvenzverwalter will Zahlung oder Rechtshandlung vor Insolvenz anfechten. Normen §§ 130-135 InsO Anfechtungstatbestaende § 142 InsO Bargeschaeft § 143 InsO Rueckgewaehr § 146 InsO Verjaehrung § 138 InsO nahestehende Personen. Pruefraster Tatbestandstabelle §§ 130-135 Bargeschaeft-Ausnahme Gegner-Verteidigung Saldotheorie Verjaehrung BGH IX ZR 72/20 IX ZR 145/20. Output Anfechtungsklage-Entwurf mit Tatbestandspruefung Rueckgewaehr-Antrag und Gegner-Abwehroptionen. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung und fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag."
 ---
 
 ## Mandantenfragen beim Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-gemischte-noten
-description: "Anonymisiertes Schulungszeugnis mit dem klassischen Schaufenster-Pattern: einzelne Saetze tragen Note eins, benachbarte Saetze zum selben Themenbereich tragen Note drei. Vollstaendige Satz-fuer-Satz-Notenmatrix plus Bereichs-Drift-Analyse als Lernbeispiel."
+description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern fuer Training und Demonstration. Anwendungsfall Rechtsanwalt oder Mitarbeiter will Zeugnisanalyse-Skills an einem Musterfall trainieren. Zeigt klassisches Drift-Muster einzelne Saetze Note eins benachbarte Saetze Note drei gleicher Themenbereich. Output vollstaendige Satz-fuer-Satz-Notenmatrix mit Bereichs-Drift-Analyse als kommentiertes Lernbeispiel. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und muster-arbeitszeugnis-note-1."
 ---
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)

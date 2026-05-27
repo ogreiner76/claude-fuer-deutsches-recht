@@ -1,6 +1,6 @@
 ---
 name: ssnip-test-anwendung
-description: Wendet den SSNIP-Test (Small but Significant Non-transitory Increase in Price / Hypothetischer-Monopolisten-Test) an. Prueft Preiserhoehung von 5 bis 10 Prozent Profitabilitaet fuer hypothetischen Monopolisten kritische Verlustanalyse und Cellophane-Fallacy-Risiko nach EU-Bekanntmachung zur Marktdefinition 2024.
+description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Pruefraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios fuer vertiefte oekonometrische Analyse."
 ---
 
 # SSNIP-Test — Anwendung

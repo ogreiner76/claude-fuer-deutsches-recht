@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-mit-roten-flaggen
-description: "Anonymisiertes Beispielzeugnis mit gemischten roten, orangen und grünen Bewertungen als Schulungsmaterial. Vollständige Ampel-Analysetabelle als Lernbeispiel für Zeugnissprache und Geheimcode-Erkennung."
+description: "Anonymisiertes Beispielzeugnis mit roten orangen und gruenen Bewertungen als Schulungsmaterial. Anwendungsfall Training fuer Zeugnissprache und Geheimcode-Erkennung. Enthalt gemischte Ampelsignale mit vollstaendiger Analysetabelle. Output Ampel-Analysetabelle als kommentiertes Lernbeispiel mit Note-4- und Note-5-Signalen. Abgrenzung zu muster-arbeitszeugnis-gemischte-noten (Drift-Schwerpunkt) und muster-arbeitszeugnis-note-1 (Positivreferenz)."
 ---
 
 # Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)

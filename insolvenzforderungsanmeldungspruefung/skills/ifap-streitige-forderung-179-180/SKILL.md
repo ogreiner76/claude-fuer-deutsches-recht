@@ -1,6 +1,6 @@
 ---
 name: ifap-streitige-forderung-179-180
-description: "Führt den Nachlauf streitiger Forderungen nach §§ 179 und 180 InsO einschließlich Titelumkehr, Feststellungsklage und Aufnahme anhängiger Verfahren."
+description: "Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Glaeubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Pruefraster Bestreitungsprotokoll, Klagefrist, Zustaendiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll fuer bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189."
 ---
 
 # Streitige Forderung und Feststellungsklage
@@ -65,6 +65,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

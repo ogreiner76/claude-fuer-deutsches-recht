@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-zeugen-befragungsstrategie
-description: "Zeugen-Befragung in der Hauptverhandlung nach Strafbefehl-Einspruch. Glaubwuerdigkeitsanalyse. Aussage-Konstanz. § 68 StPO Zeugenpflichten. Zeugnisverweigerungsrecht § 52 StPO. Fragerecht § 240 StPO. Vorhalt fruehere Aussage. Erschuetterung Belastungszeuge."
+description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Pruefraster Glaubwuerdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisantraege. Output Befragungsstrategie-Memo Fragenkatalog fuer Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung fuer allgemeine HV-Vorbereitung."
 ---
 
 # Zeugen-Befragungsstrategie in der Hauptverhandlung

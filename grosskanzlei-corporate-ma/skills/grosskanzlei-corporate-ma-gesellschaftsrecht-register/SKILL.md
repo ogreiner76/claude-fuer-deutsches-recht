@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-gesellschaftsrecht-register
-description: "Corporate Housekeeping und Register: prueft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals fuer M&A."
+description: "Corporate Housekeeping und Register-Pruefung im M&A-Kontext: Anwendungsfall Anwalt prueft fuer Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Pruefraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals fuer Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill fuer Recherche und zu Signing-Closing-CPs."
 ---
 
 # Corporate Housekeeping und Register

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionen-embargos
-description: "Prüft Länderembargos, personenbezogene Sanktionen, Eigentum, Kontrolle, Umgehungsrisiken, Finanzmittel, Dienstleistungen, IP-Rechte und Zahlungsströme."
+description: "Pruefung von Laenderembargos personenbezogenen Sanktionen und Umgehungsrisiken im Aussenhandel. Anwendungsfall Handelspartner koennte Sanktionslistentreffer haben oder Lieferung in Sanktionsland geht. Normen EU-Sanktionsverordnungen Art. 215 AEUV OFAC SDN-Liste AWG § 4 Genehmigungspflicht. Pruefraster Laenderembargos Personenscreening Eigentuems-Kontrolle Umgehungsrisiken Finanzmittel Dienstleistungen IP-Rechte Zahlungsstroeme. Output Sanktions-Pruefprotokoll mit Screening-Ergebnis Risikobewertung und Handlungsempfehlung Transaktion durchfuehren oder stoppen. Abgrenzung zu geldwaesche-sanktionsscreening und aussenwirtschaft-exportkontrolle-dual-use."
 ---
 
 # Sanktionen, Embargos und Bereitstellungsverbote

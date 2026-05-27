@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsvertrag-630a
-description: "Behandlungsvertrag §§ 630a-h BGB Pflichten Aufklaerung Dokumentation Einwilligung Beweislastumkehr bei groben Behandlungsfehlern. Patientenrechte Aktenherausgabe § 630g BGB. Workflow Behandlungsvertrag Mangel Klage Schaden."
+description: "Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklaerungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Pruefraster Behandlungsstandard § 630a Abs. 2, Aufklaerungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Pruefprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Pruefen und zu Gutachterkommission."
 ---
 
 # Behandlungsvertrag §§ 630a-h BGB

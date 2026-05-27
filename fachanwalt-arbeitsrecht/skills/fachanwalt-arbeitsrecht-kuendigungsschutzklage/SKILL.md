@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-kuendigungsschutzklage
-description: Kuendigungsschutzklage nach § 4 KSchG. Frist drei Wochen ab Zugang der schriftlichen Kuendigung. Schriftform § 623 BGB. Anwendbarkeit KSchG § 1 § 23. Soziale Rechtfertigung § 1 Abs. 2 betriebsbedingt verhaltensbedingt personenbedingt. Sonderkuendigungsschutz MuSchG BEEG SGB IX. Anhoerung Betriebsrat § 102 BetrVG. Schreibvorlage Klage Arbeitsgericht.
+description: "Kuendigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kuendigung. Anwendungsfall Arbeitnehmer erhaelt Kuendigung und will Klage erheben oder Arbeitgeber prueft Kuendigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Pruefraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kuendigungsgruende Sonderkuendigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Kündigungsschutzklage (§ 4 KSchG)
@@ -19,6 +19,7 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 6. **Wurde Betriebsrat angehört?** — § 102 BetrVG: ohne ordnungsgemäße Anhörung = Unwirksamkeit; Anhörungsschreiben anfordern.
 7. **Wurde eine Massenentlassung gemeldet?** — § 17 KSchG bei gleichzeitiger Entlassung von Schwellenwert-Anzahl; Anzeige an Agentur für Arbeit vor Ausspruch zwingend.
 8. **Welche Abfindung ist im Ergebnis erreichbar?** — Orientierung: ½ Bruttomonatslohn je Beschäftigungsjahr (Praxis-Faustformel); Streitwert nach § 42 GKG.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -84,6 +85,8 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 
 ## Prüfschema Kündigung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schriftliche Kündigung + Zugang | § 623 BGB | Nichtigkeit; Kündigung inexistent |
@@ -108,6 +111,19 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 | Massenentlassungsanzeige § 17 KSchG | Arbeitgeber |
 | Sonderkündigungsschutz (Schwangerschaft) | Arbeitnehmer (Mitteilung binnen 2 Wochen nach Kenntnis) |
 | Verspätete Zulassung § 5 KSchG | Arbeitnehmer (unverschuldetes Hindernis) |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will Kündigung anfechten | KSchG-Klage nach § 4 KSchG; Template unten |
+| Variante A — Mandant will Streit vermeiden | Aufhebungsvertrag mit Anwaltsbestätigung statt Klage |
+| Variante B — Arbeitgeber ist verhandlungsbereit | Reine Abfindungsverhandlung vor Klageerhebung — Klage nur als Druckmittel vorbereiten |
+| Variante C — Toxic Workplace / Gesundheitsrisiko | Eigenkündigung mit Sperrzeit-Vermeidungsstrategie (§ 159 SGB III wichtiger Grund prüfen) |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbaustein — Klageschrift
 
@@ -142,14 +158,20 @@ und beantragen:
    unveränderten Bedingungen als [Tätigkeit] weiterzu-
    beschäftigen, hilfsweise bis zur rechtskräftigen
    Entscheidung.
+   [ggf. Antrag 2 weglassen wenn Mandant Aufhebung statt
+   Weiterbeschäftigung wünscht]
 
 3. Hilfsweise wird das Arbeitsverhältnis nach § 9 KSchG
    gegen Zahlung einer Abfindung aufgelöst, deren Höhe
    in das gerichtliche Ermessen gestellt wird.
+   [Hilfsantrag § 9 KSchG entfällt wenn Mandant ausdrücklich
+   Weiterbeschäftigung will]
 
 4. Die Kosten trägt die Beklagte.
 
 Streitwert: [3 × Bruttomonat] EUR (§ 42 Abs. 2 GKG).
+[Streitwert-Variante: 3 × Bruttomonat nach § 42 Abs. 2 GKG
+ODER abweichend wenn Sondervereinbarung oder ao. Kündigung]
 
 Sachverhalt:
 [Anstellungsdaten, Lohn, Art der Kündigung, Zugang,
@@ -168,8 +190,26 @@ Zur Unwirksamkeit:
 
 Anlagen: AV, Kündigungsschreiben, ggf. Schwerb.-Ausweis
 
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine gütliche Lösung vor dem Gütetermin an und
+sind zu einem konstruktiven Gespräch bereit. Eine
+außergerichtliche Einigung spart beiden Seiten Zeit und
+Kosten und kann für die Klagepartei wirtschaftlich
+attraktiver sein als ein streitiges Verfahren.
+
+Schlussabsatz Variante B (formal-streng):
+Eine außergerichtliche Einigung kommt nur in Betracht,
+wenn ein angemessenes Abfindungsangebot innerhalb von
+7 Tagen vorgelegt wird. Andernfalls werden sämtliche
+rechtlichen Möglichkeiten konsequent ausgeschöpft.
+
 [Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Fristen — Überblick
 

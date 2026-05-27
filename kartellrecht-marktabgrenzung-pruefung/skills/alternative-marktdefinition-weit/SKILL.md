@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-weit
-description: Generiert eine weitere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Benennt einzuschliessende Produkte und Regionen begruendet den Einschluss mit Nachfragesubstitution Supply-Side-Faktoren und oekonomischen Kriterien und zeigt Auswirkung auf Marktanteil und Marktbeherrschungsvermutung.
+description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behoerden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Pruefraster einzuschliessende Produkte Regionen Supply-Side-Faktoren Nachfragesubstitution. Auswirkung auf Marktanteil und Widerlegung Marktbeherrschungsvermutung. Output Argumentationsmemo mit Begruendung und Angreifbarkeits-Analyse. Abgrenzung: alternative-marktdefinition-eng fuer engere Abgrenzung."
 ---
 
 # Alternative Marktdefinition — Weiter

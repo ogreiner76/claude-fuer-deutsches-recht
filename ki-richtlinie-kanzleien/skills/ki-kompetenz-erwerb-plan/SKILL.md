@@ -1,6 +1,6 @@
 ---
 name: ki-kompetenz-erwerb-plan
-description: "Schulungsplan nach Art. 4 KI-VO für Kanzleien: technisches Grundwissen, praktische Anwendung in einer Sandbox-Umgebung, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation der Schulungsteilnahme sowie jährliche Aktualisierung."
+description: "KI-Kompetenz-Schulungsplan fuer Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Pruefraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz."
 ---
 
 # KI-Kompetenz Erwerb Plan

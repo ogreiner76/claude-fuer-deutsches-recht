@@ -1,6 +1,6 @@
 ---
 name: elsj-einfache-sprache
-description: "Überträgt juristische Texte in Einfache Sprache: zielgruppenorientiert, klar gegliedert, nah an Standardsprache, mit erklärten Rechtsbegriffen und gesicherten Fristen."
+description: "Kanzlei oder Behoerde will juristischen Text fuer normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklaerte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Pruefraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollstaendigkeit. Output Einfache-Sprache-Version mit Erklaerungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Pruefung)."
 ---
 
 # Einfache Sprache

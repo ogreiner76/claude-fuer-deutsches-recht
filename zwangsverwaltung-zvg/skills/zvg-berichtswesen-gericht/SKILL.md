@@ -1,6 +1,6 @@
 ---
 name: zvg-berichtswesen-gericht
-description: "Berichtswesen an das Vollstreckungsgericht in der Zwangsverwaltung. Erstellt Besitzerlangungsbericht Sachstandsbericht Monatsbericht und Entscheidungsvorlage."
+description: "Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach §§ 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen § 153 ZVG Pflichten § 155 ZVG Einnahmen Ausgaben § 161 ZVG Rechnungslegung. Pruefraster Besitzerlangung Sachstand Einnahmen Ausgaben Mieter offene Fragen Gerichtsbeschluss-Bedarf. Output Gerichtskonformer Bericht mit Darstellung Einnahmen Ausgaben Mietsituation und Handlungsempfehlungen. Abgrenzung zu zvg-rechnungslegung (Jahresrechnung) und zvg-glaeubiger-schuldner-kommunikation."
 ---
 
 # Berichtswesen an das Vollstreckungsgericht

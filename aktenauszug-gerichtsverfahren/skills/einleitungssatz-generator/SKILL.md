@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-generator
-description: "Verfasst einen praegnanten ein- bis zweiSatz-Kern des Rechtsstreits: Wer streitet mit wem worüber und welche Hauptnorm ist einschlaegig. Juristisch praezise neutrale Sprache ohne Wertung und ohne Erfolgsprognose. Geeignet fuer alle Verfahrensarten nach ZPO StPO VwGO ArbGG und SGG. Normen §§ 253 304 ZPO."
+description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Pruefraster Praegnanz Vollstaendigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Ueberblick) und verfahrensidentifikation (Stammdaten)."
 ---
 
 # Einleitungssatz-Generator

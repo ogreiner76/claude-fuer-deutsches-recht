@@ -220,5 +220,5 @@ ANLAGEN
 ## Kommentarliteratur
 
 - Braun/Herzig, StaRUG §§ 7-12 — Plan-Architektur im Detail.
-- MuenKo InsO/Gehrlein, StaRUG §§ 8-11 Rn. 1 ff.
+- MüKo InsO/Gehrlein, StaRUG §§ 8-11 Rn. 1 ff.
 - Uhlenbruck/App, StaRUG §§ 7-39 Rn. 1 ff.

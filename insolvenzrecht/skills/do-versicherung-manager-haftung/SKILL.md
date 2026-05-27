@@ -1,6 +1,6 @@
 ---
 name: do-versicherung-manager-haftung
-description: Pruefraster D&O-Versicherung bei Manager-Haftung in Insolvenz-Lage. Versicherungs-Verhaeltnis Versicherer Versicherter Versicherungs-Nehmer typisch Gesellschaft. Versicherungs-Fall Schadensereignis vs. Anspruchserhebung Claims-made-Prinzip. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Anspruchsverteidiger gegen Insolvenz-Verwalter-Klage. Versicherer-Pflicht Verteidigung Schadensregulierung. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. Aktuelle BGH-Linie zur Insolvenz-Anfechtung Praemienzahlung. Pflichten Versicherter rechtzeitige Meldung Mitwirkungs-Pflichten. Selbstbehalt Hoechstdeckungssumme.
+description: "Insolvenzverwalter verklagt Geschaeftsfuehrer und D&O-Versicherung soll Deckung pruefen oder Manager fragt nach Versicherungsschutz in der Krise. Pruefraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso fuer die Haftung selbst."
 ---
 
 # D&O-Versicherung bei Manager-Haftung

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bussgeld-reputation
-description: "Strukturiert Bußgeldrisiken, Geschäftsleiterverantwortung, Presse, Kundenkommunikation, Remediation und Schadensbegrenzung."
+description: "Strukturierung von Bussgeldriskien Geschaeftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bussgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bussgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Pruefraster Bussgeldrisko Geschaeftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwaesche-behoerdenverfahren und geldwaesche-audit-internal-revision."
 ---
 
 # Bußgeld, Haftung und Reputation

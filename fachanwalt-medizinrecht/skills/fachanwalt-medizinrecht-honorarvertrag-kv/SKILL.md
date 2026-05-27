@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-honorarvertrag-kv
-description: "Honorarvertrag Kassenaerztliche Vereinigung EBM-Punkte Regelleistungsvolumen RLV qualifikationsgebundene Zusatzleistungen QZV. Plausibilitaetspruefungen Wirtschaftlichkeitspruefung. Widerspruch Klage. Workflow Pruefraster Vorbereitung Schriftsatz."
+description: "Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetspruefung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitspruefung. Pruefraster Honorar-Bescheid prüfen, Wirtschaftlichkeitspruefung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begruendung fuer KV-Honorarstreit. Abgrenzung zu Kassenarztrecht fuer allgemeine Vertragsarztzulassung und zu Schriftsatzkern."
 ---
 
 # Honorarvertrag Kassenärztliche Vereinigung

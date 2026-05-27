@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich fuer aussergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Pruefraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern."
 ---
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht

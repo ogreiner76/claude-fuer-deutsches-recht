@@ -1,6 +1,6 @@
 ---
 name: common-law-governing-law-jurisdiction
-description: "Prüft Rechtswahl, Gerichtsstand, forum, venue, service, arbitration und Durchsetzbarkeit aus deutscher UK US Perspektive."
+description: "Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit fuer grenzueberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Pruefraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess)."
 ---
 
 # Governing Law, Jurisdiction und Forum

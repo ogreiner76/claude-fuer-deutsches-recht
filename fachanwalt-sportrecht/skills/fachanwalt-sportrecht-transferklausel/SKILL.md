@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-transferklausel
-description: "Profi-Sportler Transfervertraege Ausstiegs-Klauseln Transfer-Periode. FIFA/UEFA-Statuten. Wechselgebuehr Standardvertraege. Eigenrechte Spielerrechte. Workflow Vertragspruefung Verhandlung Klage."
+description: "Profi-Sportler will Verein wechseln und braucht Pruefung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebuehr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Pruefraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Pruefungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht)."
 ---
 
 # Spieler-Transfer-Klausel

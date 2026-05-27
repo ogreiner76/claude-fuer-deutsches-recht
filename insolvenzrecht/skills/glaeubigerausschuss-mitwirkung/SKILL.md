@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-mitwirkung
-description: Mitwirkung im Glaeubigerausschuss nach §§ 67 ff. InsO und vorlaeufigen Glaeubigerausschuss § 22a InsO. Aufgaben Ueberwachung Insolvenzverwalter Berichtspflichten Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung Glaeubigerinteressen. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung. Pflichten Pflichten gewissenhafte Aufgabenwahrnehmung Haftung § 71 InsO. Vorlaeufiger Glaeubigerausschuss § 22a InsO Bestellung schon im Eroeffnungsverfahren bei pflichtigem Unternehmen § 22a Abs. 1 InsO Schwellenwerte. Schutzschirm StaRUG Sonderrolle.
+description: "Mandant ist Mitglied des Glaeubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Pruefraster §§ 67 ff. InsO Glaeubigerausschuss vorlaeufiger Glaeubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Ueberwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: glaeubigerantrag-pruefung fuer Eroefffnungsantrag des Glaeubiger."
 ---
 
 # Gläubigerausschuss-Mitwirkung
@@ -233,6 +233,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Schmid-Burgk §§ 67-73 InsO Rn. 1 ff. — Glaeubigerausschuss umfassend.
+- MüKo InsO/Schmid-Burgk §§ 67-73 InsO Rn. 1 ff. — Glaeubigerausschuss umfassend.
 - Uhlenbruck/Zipperer §§ 67-73 InsO Rn. 1 ff. — Ausschuss-Pflichten und Haftung.
 - Jaeger/Gerhardt § 69 InsO — Informationsrechte und Zustimmungspflichten.

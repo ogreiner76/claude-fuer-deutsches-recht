@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-qualitaetsgate-hardening
-description: "Härtet Kanzlei-Outputs mit Qualitätsgates für Anfänger und Profis. Prüft Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versand Rechnung und offene Risiken vor Ausgabe."
+description: "Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates fuer Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollstaendigkeit und Haftungsrisiken geprueft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Pruefraster Substanz Beweise Anlagen Fristen Zustaendigkeit Antraege Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas."
 ---
 
 # Qualitätsgate und Hardening

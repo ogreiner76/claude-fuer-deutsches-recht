@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-bamf-anhoerung-strategie
-description: "Migrationsrechtliche Kommunikation BAMF-Anhoerung Vorbereitung Mandant. Korrespondenz Auslaenderbehoerde § 25 AufenthG. Botschaftsanfragen-Strategie Familiennachzug. Verstaendigung im Visumverfahren. Kein klassisches ADR aber Verfahrenskommunikation und vorgerichtliche Verstaendigung Behoerde. Workflow Anhoerung Vorbereitung Behoerdenkorrespondenz Klage VG."
+description: "Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Pruefraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten fuer Mandanten-Vorbereitung selbst."
 ---
 
 # BAMF-Anhörung / Ausländerbehörde-Kommunikation

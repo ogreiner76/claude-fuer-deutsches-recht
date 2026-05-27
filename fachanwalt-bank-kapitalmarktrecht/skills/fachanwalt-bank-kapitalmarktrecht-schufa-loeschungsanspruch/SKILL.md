@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch
-description: "SCHUFA-Loeschungsanspruch Art. 17 DSGVO bei unrechtmaessiger Eintragung. Negativeintrag Voraussetzungen Forderung unstreitig faellig BGH VI ZR 1213/22 Schadensersatz Art. 82 DSGVO. Drei-Jahres-Frist Restschuldbefreiung. SCHUFA-Score-Berechnung intransparent EuGH C-634/21. Workflow Auskunftsanspruch Widerspruch Loeschung Schadensersatz Klage."
+description: "Mandant verlangt Loeschung eines unrechtmaessigen SCHUFA-Eintrags: Art. 17 DSGVO Voraussetzungen EuGH C-634/21 Scoring BGH VI ZR 1213/22. Normen Art. 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Loeschungsanspruch-Voraussetzungen Schadensersatz Kausalitaet Restschuldbefreiung Drei-Jahres-Frist. Output Loeschungs-Schreiben Schadensersatz-Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-eintrag (allg. Eintrag) und datenschutzrecht-Skills."
 ---
 
 # SCHUFA-Löschungsanspruch

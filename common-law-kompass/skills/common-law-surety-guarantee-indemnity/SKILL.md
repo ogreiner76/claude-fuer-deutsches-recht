@@ -1,6 +1,6 @@
 ---
 name: common-law-surety-guarantee-indemnity
-description: "Unterscheidet Bürgschaft, Garantie, suretyship, guarantee, indemnity, primary obligation und accessory liability sauber."
+description: "Anwalt prueft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Pruefraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen)."
 ---
 
 # Surety, Guarantee und Indemnity

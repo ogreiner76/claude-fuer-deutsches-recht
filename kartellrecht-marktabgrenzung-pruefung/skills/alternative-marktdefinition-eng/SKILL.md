@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-eng
-description: Generiert eine engere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Benennt ausgeschlossene Produkte und Regionen begruendet den Ausschluss mit Nachfragesubstitution und oekonomischen Kriterien und zeigt Auswirkung auf Marktanteil und Marktbeherrschungsvermutung.
+description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begruendung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begruendungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit fuer die andere Richtung."
 ---
 
 # Alternative Marktdefinition — Enger

@@ -1,6 +1,6 @@
 ---
 name: tatbestaende-lernen
-description: "Lernt Tatbestände systematisch — Tatbestandsmerkmale zerlegen, Definitionen abrufbar machen, Streitstände im Kontext der Merkmale verorten, Schemata als Hilfsgerüst, häufige Tatbestände BGB/StGB/VwR im Drillformat. Lädt, wenn der Nutzer „Tatbestand lernen\", „Definitionen lernen\", „TBM-Karteikarten\", „§ XYZ üben\" oder „wie lerne ich BGB-Tatbestände\" sagt."
+description: "Tatbestaende lernen fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen fuer Klausuren und Examen. Loesungsschemata Tatbestandsmerkmale BGB Strafrecht oeffentliches Recht, Subsumtion, Methodenlehre. Pruefraster Tatbestandsmerkmale vollstaendig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Loesungsschemata fuer Klausuraufbau und zu Karteikarten fuer allgemeines Lernen."
 ---
 
 # Tatbestände lernen

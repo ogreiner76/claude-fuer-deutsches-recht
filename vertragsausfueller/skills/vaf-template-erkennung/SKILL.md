@@ -1,6 +1,6 @@
 ---
 name: vaf-template-erkennung
-description: "Erkennt Vertragstyp, Klauselstruktur, Pflichtfelder, variable Felder, feste Corporate-Daten und Wahlklauseln aus Vorlagen und Altverträgen."
+description: "Vertragsvorlage und Altvertrag erkennen und analysieren: Anwendungsfall Anwalt oder Mandant gibt unbekannte Vorlage oder alten Vertrag ein und Skill soll Vertragstyp Klauselstruktur Pflichtfelder und Wahlklauseln identifizieren. §§ 433 ff. BGB Kaufvertrag, §§ 535 ff. BGB Mietvertrag, §§ 611a ff. BGB Arbeitsvertrag. Pruefraster AGB vs. Individualvertrag, Sprache, strukturierte vs. unstrukturierte Platzhalter, Vertragstyp-Einordnung. Output Vorlage-Analyse mit Vertragstyp, Klauselliste und Pflichtfeld-Map. Abgrenzung zu DOCX-Stripper fuer rohe Textzerlegung und zu Feldinventar."
 ---
 
 # Template-Erkennung

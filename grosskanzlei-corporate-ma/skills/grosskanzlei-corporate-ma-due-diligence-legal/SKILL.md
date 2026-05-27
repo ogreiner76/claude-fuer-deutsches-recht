@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-due-diligence-legal
-description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report fuer Share Deal und Asset Deal."
+description: "Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prueft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Pruefraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting."
 ---
 
 # Legal Due Diligence

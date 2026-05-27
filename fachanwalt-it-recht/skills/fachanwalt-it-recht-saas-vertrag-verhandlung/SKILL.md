@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-saas-vertrag-verhandlung
-description: "SaaS-Vertragsverhandlung Pflicht-Klauseln SLA Verfuegbarkeit Datenschutz AVV Art. 28 DSGVO Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration. Haftung Schadensbegrenzung AGB-Kontrolle § 309 BGB. Verbraucher-vs-B2B §§ 327 ff. BGB Digitale Produkte. Workflow Vertragspruefung Verhandlungs-Strategie. Datenlokation EU Schrems II SCC CLOUD Act."
+description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprueft werden und IT-rechtliche Pflicht-Klauseln muessen geprueft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Pruefraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-pruefen."
 ---
 
 # SaaS-Vertrag — Prüfung und Verhandlung

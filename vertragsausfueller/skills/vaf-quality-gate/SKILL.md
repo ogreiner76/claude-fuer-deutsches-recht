@@ -1,6 +1,6 @@
 ---
 name: vaf-quality-gate
-description: "Letzte Pruefschleuse vor Ausgabe eines Vertragsentwurfs. Sucht fehlende Werte, ungeklaerte Wahlklauseln, Rechenfehler, Normierungsprobleme, Anlagenluecken, Freigabehindernisse, Track-Changes-Konflikte. Mit Pruefraster Stop-Kriterien Eskalations-Matrix Beispielprotokollen. Originaldateien nie ueberschrieben. Track Changes nur nach ausdruecklicher Bestaetigung."
+description: "Quality Gate vor Vertragsausgabe: Vollstaendigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtpruefung auf Fehler Luecken und unzulaessige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Pruefraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollstaendig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck fuer Teilpruefung und zu Clean-Output."
 ---
 
 # Quality Gate — Vertragsausfueller

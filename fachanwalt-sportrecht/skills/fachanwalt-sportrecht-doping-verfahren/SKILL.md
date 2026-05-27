@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-doping-verfahren
-description: "Dopingverfahren nach NADA-Code und WADA-Code verteidigen. Strict-Liability Art. 2 1 WADA-Code Anwesenheit der verbotenen Substanz im Probematerial. Beweislastumkehr Athlet kann Sperre mindern bei Nachweis no fault Art. 10 5 no significant fault Art. 10 6. Verfahren NADA Disziplinarkommission Sportschiedsgericht DIS-Sportschiedsgerichtsbarkeit CAS Berufung 21 Tage. AntiDopG strafrechtliche Parallele § 4 AntiDopG. BVerfG zum Anti-Doping-System."
+description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Pruefraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein)."
 ---
 
 # Doping-Verfahren

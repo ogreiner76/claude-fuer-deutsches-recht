@@ -1,6 +1,6 @@
 ---
 name: annahmen-belastbarkeit-plausibilisieren
-description: Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten Annahmen. Pruefraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband fuer jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet.
+description: "Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten Annahmen. Pruefraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband fuer jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet."
 ---
 
 # Annahmen plausibilisieren
@@ -148,4 +148,4 @@ Bevor losgelegt wird, klaere:
 
 - IDW S 11, Stand 11/2022 — Beurteilung des Vorliegens von Insolvenzgruenden; Prognosehorizont und Annahmen-Qualitaet.
 - IDW S 6, Stand 06/2022 — Sanierungskonzept-Standard; Annahmen-Plausibilitaet als Kernpruefung.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 50-80 — Fortbestehensprognose und ihre Anforderungen.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 50-80 — Fortbestehensprognose und ihre Anforderungen.

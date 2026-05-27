@@ -1,6 +1,6 @@
 ---
 name: common-law-kommandocenter
-description: "Startet Common-Law-, UK-, US- und bilingual-drafting-Mandate mit Jurisdiktionscheck, False-Friends-Scan und Arbeitsplan."
+description: "Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Pruefraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion)."
 ---
 
 # Common-Law-Kommandocenter

@@ -1,6 +1,6 @@
 ---
 name: zvg-rechnungslegung
-description: "Rechnungslegung der Zwangsverwaltung. Erstellt Jahresrechnung Schlussrechnung Endabrechnung Einnahmenueberschussrechnung Soll Ist Belege und Salden."
+description: "Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss fuer Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 155 ZVG Einnahmen Ausgaben § 10 ZVG Rangklassen. Pruefraster Jahresrechnung Schlussrechnung Endabrechnung Einnahme-Ausgaben-Rechnung Soll-Ist Belege Salden Verteilung. Output Gerichtsfaehige Rechnungslegung mit Saldouebersicht Belegverzeichnis und Verteilungsnachweis. Abgrenzung zu zvg-konten-kassenfuehrung (laufend) und zvg-verteilungsplan-155."
 ---
 
 # Rechnungslegung

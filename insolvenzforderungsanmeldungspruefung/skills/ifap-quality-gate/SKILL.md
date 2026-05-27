@@ -1,6 +1,6 @@
 ---
 name: ifap-quality-gate
-description: "Prüft vor Tabelle, Prüfungstermin, Bestreiten, Feststellung und Verteilung die Vollständigkeit, Plausibilität, Quellen und roten Risiken."
+description: "Qualitätsgate vor Tabelleneintrag Prüfungstermin und Verteilung: Anwendungsfall alle Prüfschritte wurden durchgeführt und jetzt muss vor Versand oder Eintrag nochmals Vollstaendigkeit Plausibilitaet und Risiken geprüft werden. § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 189 InsO Verteilung. Pruefraster alle Pflichtfelder befüllt, Berechnungen plausibel, rote Risiken identifiziert, Quellen belegt. Output Qualitaetsprotokoll mit Ampelstatus und Freigabeentscheidung. Abgrenzung zu Kommandocenter als Einstieg und zu Pruefentscheidung."
 ---
 
 # Qualitätsgate und Plausibilitätskontrolle
@@ -66,6 +66,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

@@ -1,6 +1,6 @@
 ---
 name: zeugnis-ueberblick-extraktion
-description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen: Arbeitgeber, Arbeitnehmer, Beschäftigungszeitraum, Position, Ausstellungsdatum und Unterschriftsberechtigte. Prüft Vollständigkeit und unterscheidet qualifiziertes von einfachem Zeugnis."
+description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen fuer Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen fuer Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Pruefraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollstaendigkeit. Output Strukturiertes Kopfdatenblatt mit Vollstaendigkeitspruefung und Zeugnisart-Einordnung als Eingabe fuer alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren."
 ---
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion

@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-abfall-circular-economy
-description: Prueft Abfallstatus, Entsorgungspflichten, Nebenprodukt-Einstufung, Ende der Abfalleigenschaft, Nachweise, Genehmigungen und Circular-Economy-Anforderungen. Normen KrWG §§ 3 4 5 7 14 17 LAGA EBV. EU-Abfallrahmenrichtlinie 2008/98/EG und Green-Deal-Folgerecht. Workflow Abfalleigenschaftspruefung Entsorgungsnachweis Behoerdenkontakt.
+description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Pruefraster Abfalleigenschaftspruefung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bussgeld-sanktionen (Ordnungsrecht)."
 ---
 
 # Abfallrecht und Circular Economy

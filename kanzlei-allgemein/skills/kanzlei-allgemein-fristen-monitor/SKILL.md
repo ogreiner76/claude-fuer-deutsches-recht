@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-fristen-monitor
-description: "Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen Empfangsbekenntnisse Zustellungen und Antwortbedarf. Erstellt ein Fristen- und Action-Register mit Vorfrist Verantwortlichem Quelle und Übertragungsvermerk. Betont immer die anwaltliche Fristenkontrolle."
+description: "Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Pruefraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Uebertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-fuehren (zentrales Buchfuehren) und kanzlei-allgemein-fristen-monitor."
 ---
 
 # Fristen- und Action-Monitor

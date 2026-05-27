@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-zeitnarrative
-description: "Erzeugt stündliche oder manuelle Zeiterfassungsabfragen mit abrechenbaren Narrativen. Erfasst Akte Dauer Takt Bearbeiter Tätigkeit Quelle Honorargrundlage Abrechenbarkeit Rechnungsfähigkeit und Datenschutzreduktion."
+description: "Zeiterfassung mit abrechenbaren Narrativen fuer Kanzlei-Mandate. Anwendungsfall Anwalt hat Taetigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen fuer spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Pruefraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Taetigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung."
 ---
 
 # Zeitnarrative und Timesheet

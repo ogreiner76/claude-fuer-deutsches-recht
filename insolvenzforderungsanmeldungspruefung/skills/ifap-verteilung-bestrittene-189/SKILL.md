@@ -1,6 +1,6 @@
 ---
 name: ifap-verteilung-bestrittene-189
-description: "Überwacht § 189 InsO für bestrittene Forderungen bei Abschlags- oder Schlussverteilung mit Nachweis, Rückbehalt und Nichtberücksichtigung."
+description: "Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurueckbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, § 188 InsO Abschlagsverteilung. Pruefraster Nachweiserbringung Gläubiger, Rückbehalt-Berechnung, Nichtberücksichtigung bei fehlendem Nachweis. Output Verteilungsprotokoll fuer bestrittene Forderungen mit Rueckbehalt-Berechnung. Abgrenzung zu Tabellenauszug-178 und zu Streitige-Forderung-179-180."
 ---
 
 # Verteilung bei bestrittenen Forderungen
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

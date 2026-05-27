@@ -1,6 +1,6 @@
 ---
 name: elsj-qualitaetsgate
-description: "Prüft Fassungen in Einfacher Sprache oder Leichter Sprache auf Verständlichkeit, Gliederung, Glossar, Zielgruppenpassung, juristische Vollständigkeit und offene Nutzerprüfung."
+description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veroeffentlichung pruefen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollstaendigkeit offene Nutzergruppen-Pruefung. Normen BITV 2.0 BGG § 11 Netzwerk Leichte Sprache. Pruefraster Verstaendlichkeits-Score Gliederungs-Check Glossar-Vollstaendigkeit Rechtsinhalt-Sicherung. Output Pruefergebnis-Bericht Verbesserungshinweise. Abgrenzung zu elsj-juristische-sicherung (Inhalt) und elsj-einfache-sprache/elsj-leichte-sprache (Uebertragung)."
 ---
 
 # Qualitätsgate

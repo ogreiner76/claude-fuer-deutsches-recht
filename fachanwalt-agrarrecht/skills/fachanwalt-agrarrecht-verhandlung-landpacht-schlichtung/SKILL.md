@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung
-description: "Vorgerichtliche Verhandlungs- und Kommunikationsstrategie im Agrarrecht. Pachtvertrags-Vergleich nach LPachtVG Anpassung § 593 BGB. Landwirtschaftskammer-Schlichtung. Foerder-Korrespondenz BLE / Landwirtschaftsamt. Schlichtungsformate bei Hofstreitigkeiten. ADR-Wege im Pachtgewerbe Hofuebergabe-Mediation. Workflow Eingangskommunikation Vergleichs-Strategie Schlichtungsantrag."
+description: "Landwirt und Verpaechter streiten ueber Pacht oder Hof-Erbe und muessen Einigung aussergerichtlich versuchen. Pruefraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig fuer streitiges Gerichtsverfahren."
 ---
 
 # Verhandlung und Schlichtung im Agrarrecht

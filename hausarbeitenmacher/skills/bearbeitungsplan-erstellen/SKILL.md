@@ -1,6 +1,6 @@
 ---
 name: bearbeitungsplan-erstellen
-description: Bearbeitungsplan fuer eine Hausarbeit mit Zeitplan Stoff-Aufteilung Lernzielen. Differenziert nach Art der Hausarbeit GuP Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Empfohlene Zeit-Aufteilung Recherche Literatur Gliederung Rohfassung Endfassung Korrektur. Hilft Studierenden konkretes Plan-Bild zu entwickeln und Prokrastination zu vermeiden.
+description: "Student erstellt Zeitplan und Arbeitsplan fuer juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Pruefungsordnungen Abgabetermin. Pruefraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss)."
 ---
 
 # Bearbeitungs-Plan erstellen

@@ -1,6 +1,6 @@
 ---
 name: ifap-dubletten-serienforderungen
-description: "Erkennt doppelte Forderungsanmeldungen, Serienrechnungen, Vertreterwechsel, Konzernforderungen und mehrfach eingereichte Titel."
+description: "Dubletten und Serienforderungen in Insolvenzanmeldungen erkennen: Anwendungsfall mehrere Gläubiger melden gleichartige oder identische Forderungen an; Inkassounternehmen und Originalglaeubiger reichen parallel ein. § 174 InsO Forderungsanmeldung, § 178 InsO Tabelle Bestreiten. Pruefraster Doppelerfassung gleicher Rechnung, Serienrechnungen mit laufenden Nummern, Konzernforderungen und Vertreterwechsel, mehrfach eingereichte Titel. Output Dublettenprotokoll mit Unterscheidung echte Dublette vs. Serienforderung. Abgrenzung zu Aktenanlage-Batchregister und zu Formalprüfung."
 ---
 
 # Dubletten und Serienforderungen
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

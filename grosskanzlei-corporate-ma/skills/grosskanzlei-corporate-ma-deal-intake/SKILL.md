@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-deal-intake
-description: "Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message, Screenshot oder Datenraum-Einladung."
+description: "Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Pruefraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgesellschaft, Transaktionsstruktur, Zeitplan, Budget-Ersteinschaetzung, Annahme-Check. Output Deal-Intake-Sheet mit Parteienregister, Dealtyp, Workstreams, initiales Budget und Fristen-Erstliste. Abgrenzung zu Kaltstart-Skill fuer Kanzleipraeferenzen und zu Matter-File fuer laufende Akte."
 ---
 
 # Deal-Intake

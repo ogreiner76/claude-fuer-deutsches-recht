@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-12-monate
-description: Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate.
+description: "Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate."
 ---
 
 # Zwölf-Monats-Liquidität
@@ -146,5 +146,5 @@ Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf 
 ## Kommentarliteratur
 
 - IDW S 11, Stand 11/2022 Rn. 50-65 — Liquiditaetsvorschau als Kernbaustein der Fortbestehensprognose.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 65-80 — Liquiditaetsplanung und insolvenzrechtliche Beurteilung.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 65-80 — Liquiditaetsplanung und insolvenzrechtliche Beurteilung.
 - Uhlenbruck/Mock § 17 InsO Rn. 15-30 — Zahlungsunfaehigkeit und Liquiditaetslueecken-Berechnung.

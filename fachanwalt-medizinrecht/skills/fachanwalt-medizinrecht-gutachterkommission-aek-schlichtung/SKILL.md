@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
-description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung § 630a BGB. MDK-Pruefung. Korrespondenzstrategie mit Versicherer Berufshaftpflicht. Mediation Patient-Arzt-Streit. Aufklaerungsvergleich Therapie-Schaden. Workflow Akteneinsicht Gutachten Vergleichsverhandlung."
+description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Pruefung. Pruefraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie."
 ---
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen

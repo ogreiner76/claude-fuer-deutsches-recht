@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage: eröffnet Deal-Akte, Aktenzeichen, Parteienregister, Ordnerstruktur, Datenraumspiegel, Vertraulichkeitsstufen und Closing-Bible-Grundgerüst mit vollständig interner Arbeitslogik."
+description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Pruefraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollstaendig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter."
 ---
 
 # Freistehende M&A-Aktenanlage

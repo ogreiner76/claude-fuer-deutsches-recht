@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-migrationsrecht
-description: Strukturierte Eingangs-Abfrage fuer migrationsrechtliche Mandate. Klaert Vorgang (Asylantrag Visum-Erteilung Aufenthaltstitel-Verlaengerung Niederlassungserlaubnis Familiennachzug Abschiebungsandrohung Ausweisung Einbuergerung Schutz vor Abschiebung Dublin-III Asyl-Folgeantrag) Mandantenstatus Asylsuchender Geduldeter Anerkannter unerlaubt eingereist EU-Buerger Drittstaatsangehoeriger. Sofort-Fristen Asylklage zwei Wochen § 74 AsylG Abschiebungsandrohung einstweiliger Rechtsschutz § 80 Abs. 5 VwGO. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Hafterhalt Ueberstellung Dublin. Routing zu aufenthaltstitel-pruefung.
+description: "Eingangs-Abfrage fuer migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Ueberstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-pruefung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Migrationsrecht

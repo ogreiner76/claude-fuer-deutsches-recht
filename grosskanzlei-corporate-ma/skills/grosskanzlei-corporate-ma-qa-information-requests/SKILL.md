@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-qa-information-requests
-description: "Q&A und Information Requests: Erzeugt und verwaltet Q&A-Prozess, Information Request Lists, Follow-ups und Antwortqualität."
+description: "Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege pruefen. SPA Due Diligence Prozess, MAR Vertraulichkeit. Pruefraster Fragen nach Workstream und Prioritaet kategorisieren, Antworten-Qualitaet bewerten, unzureichende Antworten nachfassen, Strategieschutz bei Frageformulierung. Output Q&A-Tracker mit offenen, beantworteten und eskalationsbeduerftigen Fragen. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Reporting."
 ---
 
 # Q&A und Information Requests

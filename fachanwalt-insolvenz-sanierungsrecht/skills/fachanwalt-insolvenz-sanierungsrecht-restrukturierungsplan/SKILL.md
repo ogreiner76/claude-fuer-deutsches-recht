@@ -203,5 +203,5 @@ Bevor losgelegt wird, klaere:
 ## Kommentarliteratur StaRUG
 
 - Braun/Herzig, StaRUG, §§ 7-39 StaRUG — Plan-Architektur, darstellender und gestaltender Teil.
-- MuenKo InsO/Gehrlein, StaRUG Anhang — Klassenbildung und Mehrheiten.
+- MüKo InsO/Gehrlein, StaRUG Anhang — Klassenbildung und Mehrheiten.
 - Uhlenbruck/App, StaRUG §§ 25-27 Rn. 1 ff. — Cramdown und Minderheitenschutz.

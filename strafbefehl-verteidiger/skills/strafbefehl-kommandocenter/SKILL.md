@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-kommandocenter
-description: "Zentrales Steuerungsmodul des Strafbefehl-Verteidiger-Plugins. Routed auf Subskills: Frist (§ 410 StPO) Akteneinsicht (§ 147 StPO) Inhaltspruefung (§ 409 StPO) Beweis Einlassung Verstaendigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Ampel-Schnelldiagnose fuer das gesamte Mandat."
+description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltspruefung § 409 StPO Beweis Einlassung Verstaendigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch fuer die isolierte Fristpruefung."
 ---
 
 # Strafbefehl-Verteidiger — Kommandocenter

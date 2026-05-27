@@ -1,6 +1,6 @@
 ---
 name: dsgvo-compliance-bausteine
-description: "Stellt datenschutzrechtliche Textbausteine für KI-Nutzungsrichtlinien bereit: Art. 2 Abs. 1, Art. 6, Art. 9, Art. 15, Art. 28 DSGVO; Auftragsverarbeitungsvertrag, Drittlandstransfer, Datenminimierung, Zweckbindung sowie Anonymisierung und Pseudonymisierung."
+description: "DSGVO-Textbausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Pruefraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Loeschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar fuer Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Anonymisierung-Pseudonymisierung."
 ---
 
 # DSGVO-Compliance-Bausteine

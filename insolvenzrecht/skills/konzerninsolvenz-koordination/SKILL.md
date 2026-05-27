@@ -1,6 +1,6 @@
 ---
 name: konzerninsolvenz-koordination
-description: Pruefraster Konzerninsolvenz nach §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO Koordinations-Verfahren § 269d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenz-rechtliche Unternehmens-Gruppe § 3e InsO. Antrag des herrschenden Unternehmens oder der Mehrheit der Schuldner-Verfahren. Konzern-Verwalter § 269e InsO mit Koordinations-Funktion ohne Verwalter-Pflichten einzelner Verfahren. Konzern-Glaeubigerausschuss. Koordinations-Plan § 269h InsO bindet nur zustimmende Verwalter kein Mehrheits-Zwang. Schnittstelle Eigenverwaltung StaRUG. EuInsVO bei grenz-ueberschreitender Konzern-Insolvenz Art. 56 ff. Hauptverfahren und Sekundaerverfahren-Kooperation.
+description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Pruefraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzueberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zustaendigkeitspruefung und Verfahrensplan. Abgrenzung: anfechtungsrechte-pruefen fuer konzerninternen Zahlungsverkehr."
 ---
 
 # Konzerninsolvenz — Koordination
@@ -352,6 +352,6 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Ganter Vorbemerkung zu §§ 1-3 InsO Rn. 50 ff. — Konzerninsolvenz und Koordinierung.
+- MüKo InsO/Ganter Vorbemerkung zu §§ 1-3 InsO Rn. 50 ff. — Konzerninsolvenz und Koordinierung.
 - Uhlenbruck/Sinz § 56a InsO Rn. 1 ff. — Koordinationsverwalter.
 - EuInsVO Art. 60-77 — Konzernkoordinationsverfahren.

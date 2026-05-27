@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-kaltstart-interview
-description: "Einmalige Ersteinrichtung der Beratungsstelle. Führt den anleitenden Volljuristen durch ein strukturiertes Interview zur Konfiguration des Plugins: Beratungsstellentyp, Rechtsgrundlage, Fachbereiche, Aufsichtsmodell, Verschwiegenheitshinweise, Pädagogikhaltung. Ergebnis wird in CLAUDE.md gespeichert. Aufrufen bei Neugründung oder grundlegender Neuausrichtung der Beratungsstelle."
+description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Pruefraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollstaendiges Konfigurations-Profil fuer Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen fuer spaetere Aenderungen und zu Einarbeitung."
 ---
 
 # /kaltstart-interview

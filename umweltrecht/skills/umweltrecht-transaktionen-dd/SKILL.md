@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-transaktionen-dd
-description: Prueft Dataraeume auf Genehmigungen, Altlasten, Emissionen, Abfall, Wasser, Naturschutz, Betreiberpflichten und Capex-Risiken fuer M&A-Transaktionen. BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Red Flags Closing-Conditions Wert-Adjustierung. Workflow DD-Report Kaufvertrags-Klauseln.
+description: "M&A-Transaktion und Anwalt prueft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Pruefraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD)."
 ---
 
 # Umweltrechtliche Transaktions-Due-Diligence

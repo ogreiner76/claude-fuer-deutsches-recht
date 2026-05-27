@@ -1,6 +1,6 @@
 ---
 name: common-law-bilingual-contract-review
-description: "Vergleicht deutsche und englische Vertragsfassungen auf Bedeutungsdrift, Rangfolge, Definitionskonflikte und Haftungsrisiken."
+description: "Anwalt prueft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Pruefraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting)."
 ---
 
 # Bilingual Contract Review

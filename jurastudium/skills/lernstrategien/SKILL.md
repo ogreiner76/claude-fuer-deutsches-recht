@@ -1,6 +1,6 @@
 ---
 name: lernstrategien
-description: "Übt evidenzbasierte Lernstrategien für das Jurastudium — Spaced Repetition, aktiver Abruf (Retrieval Practice), Interleaving, Elaboration, sokratisches Selbstabfragen, Pomodoro mit Recht-spezifischer Anpassung, Lernteam-Hygiene, Klausurtaktik unter Zeitdruck. Lädt, wenn der Nutzer „Lernstrategie\", „wie soll ich lernen\", „Spaced Repetition\", „aktiver Abruf\" oder „Lernteam organisieren\" sagt."
+description: "Lernstrategien fuer Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden fuer Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Pruefraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Pruefungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan fuer Zeitmanagement und zu Examens-Prognose fuer Themengewichtung."
 ---
 
 # Lernstrategien für Jura

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: Strategie bei Gesellschafterstreit insbesondere GmbH-Two-Tier-Konflikten. Mediation Gespraechskonzept Beschluss-Anfechtungsklage 246 AktG analog Abberufungs-Klage Geschaeftsfuehrer 38 GmbHG Hinauskuendigungs-Verfahren Anteilseinziehung 34 GmbHG Ausschluss-Klage 140 HGB analog. Praxisorientierte Verhandlungsstrategie Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert nicht Buchwert. Schiedsklausel-Pruefung DIS-Schiedsgerichtsordnung.
+description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kuendigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschaeftsfuehrer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Pruefraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss fuer Beschlussfassung mandat-triage fuer Erst-Abfrage."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie

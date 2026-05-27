@@ -1,6 +1,6 @@
 ---
 name: verwaltungsprozess-modus
-description: "Modus-Skill fuer VwGO-Verfahren: Anfechtungs- und Verpflichtungsklage Berufung nach Paragraph 124 VwGO Revision nach Paragraph 132 VwGO. Beruecksichtigt Vorverfahren Widerspruchsbescheid aufschiebende Wirkung nach Paragraph 80 VwGO und Eilrechtsschutz nach Paragraph 123 VwGO. BVerwG-Leitsaetze enthalten."
+description: "Aktenauszug fuer VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Pruefraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO)."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)

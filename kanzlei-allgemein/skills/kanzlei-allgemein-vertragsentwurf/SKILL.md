@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-vertragsentwurf
-description: "Erstellt Vertragsentwürfe aus Term Sheet Mandantenangaben oder Vorlagen. Prüft Parteien Vertretung Handelsregister Leistungsbild Vergütung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte und Qualitätsgate."
+description: "Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen fuer jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Pruefraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo."
 ---
 
 # Vertragsentwurf und Vertrags-Canvas

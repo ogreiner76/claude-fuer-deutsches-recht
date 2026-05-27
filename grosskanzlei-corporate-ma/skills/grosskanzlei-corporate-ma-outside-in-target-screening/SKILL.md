@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-outside-in-target-screening
-description: "Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus oeffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen."
+description: "Zielobjekt-Screening und Pipeline-Analyse aus oeffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und Branchenhinweisen erstellen. §§ 14-17 GWB Marktabgrenzung, MAR Insiderinformationen. Pruefraster Anforderungsprofil, Markt-Fit, IP-Status, Compliance-Risiken, Synergien, Warnsignale. Output Ziel-Screening-Report mit Scorecard, Pipeline-Rangliste und DD-Vorabhinweisen. Abgrenzung zu DD-Legal/Commercial fuer formale Due Diligence und zu Transaktionsstruktur."
 ---
 
 # Outside-in Target Screening

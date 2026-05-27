@@ -1,6 +1,6 @@
 ---
 name: zvg-insolvenz-schnittstelle
-description: "Schnittstelle Zwangsverwaltung und Insolvenz. Prüft Insolvenz des Schuldners Absonderung Verwalterkommunikation § 165 InsO Forderungen und Verteilung."
+description: "Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz des Schuldners. Anwendungsfall Schuldner wird insolvent waehrend Zwangsverwaltung laeuft und Verwalter muss Koordination mit Insolvenzverwalter klaeren. Normen § 165 InsO Absonderungsrecht § 49 InsO Grundpfandglaeubiger § 155 ZVG Einnahmen. Pruefraster Insolvenzeroeffnung Absonderung Verwalterkommunikation Forderungsanmeldung Verteilungsauswirkungen. Output Koordinationsprotokoll mit Absonderungsnachweis Forderungsanmeldungsunterlagen und Abstimmungsprotokoll Insolvenzverwalter. Abgrenzung zu zvg-verteilungsplan-155 und zvg-rechnungslegung."
 ---
 
 # Schnittstelle zur Insolvenz

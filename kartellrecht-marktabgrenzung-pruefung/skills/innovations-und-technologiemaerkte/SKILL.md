@@ -1,6 +1,6 @@
 ---
 name: innovations-und-technologiemaerkte
-description: Prueft Marktabgrenzung in dynamischen Technologiemaerkten und Innovationsmaerkten. Behandelt technologische Substitution Patent-Pools Standard-Essential-Patents Innovation-Markets-Doktrin und die Frage ob Innovationswettbewerb Produktmarktmacht ausgleicht. Einschluss von FuE-Maerkten in Fusionskontrolle.
+description: "Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prueft Innovationsmaerkte technologische Substitution Standard-Essential-Patents FuE-Maerkte. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Pruefraster Innovation-Markets-Doktrin Patent-Pool-Effekte Innovationswettbewerb als Ausgleich. Output Marktdefinitions-Memo Innovationsmarkt-Analyse Risikobewertung fuer Fusionskontrolle. Abgrenzung: fusionskontrolle-modus fuer allgemeine Fusionskontroll-Marktabgrenzung."
 ---
 
 # Innovations- und Technologiemärkte

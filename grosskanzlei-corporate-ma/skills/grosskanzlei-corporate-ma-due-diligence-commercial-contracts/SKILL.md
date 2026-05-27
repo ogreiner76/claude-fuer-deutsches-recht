@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-due-diligence-commercial-contracts
-description: "Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken."
+description: "Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prueft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kuendigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Pruefraster Change-of-Control-Klauseln, Kuendigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules."
 ---
 
 # Kommerzielle Vertrags-DD

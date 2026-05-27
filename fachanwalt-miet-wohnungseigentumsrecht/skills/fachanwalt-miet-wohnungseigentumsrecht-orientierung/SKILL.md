@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-orientierung
-description: Orientierung im Miet- und Wohnungseigentumsrecht. FAO § 14e Voraussetzungen 120 Faelle davon 30 rechtsfoermlich. Normen BGB §§ 535 ff. Wohnraummiete Gewerberaummiete BetrKV HeizkostenV WEG. Typische Mandate Mieterhoehung Kuendigung Betriebskostenabrechnung Mietminderung Schoenheitsreparaturen Eigentuemerversammlung Beschlussanfechtung Hausgeld. Standardliteratur Schmidt-Futterer Schmidt Bub Wenzel Praxis BGH-Mietrechtssenat VIII ZR Vorrang. Schnittstellen kanzlei-allgemein.
+description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat bearbeiten: FAO § 14e 120 Faelle 30 rechtsfoermlich. Normen §§ 535 ff. BGB WEG §§ 1-49 BetrKV HeizkostenV. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte BGH VIII ZR Mietrechtssenat. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
 ---
 
 # Orientierung Miet- und Wohnungseigentumsrecht

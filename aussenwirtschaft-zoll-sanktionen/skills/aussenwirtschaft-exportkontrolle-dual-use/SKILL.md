@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Prüft Güter, Software, Technologie, technische Unterstützung, Vermittlung, Endverwendung, Endverwender und Genehmigungspflichten."
+description: "Exportkontrolle Dual-Use-Pruefung fuer Gueter Software Technologie und Dienstleistungen mit Doppelverwendungszweck. Anwendungsfall Exporteur prueft ob Ware oder Software unter Dual-Use-Regulierung faellt und Genehmigung benoetigt. Normen EU-Dual-Use-Verordnung 2021/821 AWG § 8 AWV §§ 8 ff. Anhang I Liste Dual-Use. Pruefraster Gueterklassifizierung Endverwendung Endverwender Bestimmungsland Technologietransfer Genehmigungspflicht. Output Exportkontroll-Klassifizierungsdossier mit Listenpruefung Genehmigungspfad und Dokumentation fuer BAFA. Abgrenzung zu aussenwirtschaft-gueterlisten-klassifizierung (technische Klassifizierung) und aussenwirtschaft-bafa-genehmigungen."
 ---
 
 # Exportkontrolle und Dual-Use

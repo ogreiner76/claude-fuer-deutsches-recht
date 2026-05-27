@@ -1,6 +1,6 @@
 ---
 name: compliance-regelsatz-erstellen
-description: "Erzeugt einen standardisierten Compliance-Regelsatz für den KI-Einsatz in Kanzleien mit zehn konkreten Geboten: kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, keine PDF-Uploads ohne AVV, Korrekturlesung als Pflicht sowie Kennzeichnung KI-generierter Inhalte."
+description: "Compliance-Regelsatz Zehn Gebote fuer KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln fuer alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett fuer vollstaendige Richtlinie und zu Berufsrecht-Bausteine."
 ---
 
 # Compliance-Regelsatz erstellen

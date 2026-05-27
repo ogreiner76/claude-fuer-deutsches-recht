@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung
-description: Mieterhoehung bis zur ortsueblichen Vergleichsmiete § 558 BGB. Wartefrist 15 Monate. Kappungsgrenze § 558 Abs. 3 grundsaetzlich 20 Prozent angespannte Wohnungsmaerkte 15 Prozent. Begruendungsmittel § 558a Mietspiegel Sachverstaendigengutachten drei Vergleichswohnungen. Zustimmungsklage § 558b. Modernisierungsmieterhoehung § 559 ff. mit Ankuendigung § 555c. Mietpreisbremse §§ 556d ff.
+description: "Vermieter will Miete erhoehen oder Mieter prueft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Pruefraster Wartefrist 15 Monate Begruendungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskuendigung (Kuendigung) und mietminderung-schimmel (Maengelrecht)."
 ---
 
 # Mieterhöhung bis zur ortsüblichen Vergleichsmiete

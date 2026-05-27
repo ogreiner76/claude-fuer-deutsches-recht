@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Führt grenzüberschreitende Handels-, Zoll-, Sanktions-, CBAM- und Ermittlungsmandate von Intake bis Handlungsvorschlag."
+description: "Kommandocenter fuer alle Aussenhandels- Zoll- Sanktions- CBAM- und Ermittlungsmandate vom Intake bis zum Handlungsvorschlag. Anwendungsfall Anwalt oder Compliance-Beauftragter will grenzueberschreitendes Mandat schnell triagieren. Normen AWG AWV UZK EU-Sanktionsverordnungen CBAM-Verordnung GwG. Pruefraster Sachgebiet Mandantenrolle Fristen Eskalationsbedarf Zustaendigkeit. Output Routing-Ergebnis mit Statusampel Handlungspriorisierung und Weiterleitung zum passenden Skill. Abgrenzung zu aussenwirtschaft-icp-kontrollsystem und aussenwirtschaft-pruefung-ermittlung."
 ---
 
 # Außenwirtschaft-Kommandocenter

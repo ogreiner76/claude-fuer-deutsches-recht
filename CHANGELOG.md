@@ -34,14 +34,14 @@ Der Boost erfolgte in 12 Wellen mit jeweils 90 bis 250 Skills.
 
 ## Wichtigste Kommentarliteratur die jetzt zitiert wird
 
-- **Zivilrecht** — Gruenneberg MuenKo BGB BeckOK BGB Erman BGB
+- **Zivilrecht** — Gruenneberg MüKo BGB BeckOK BGB Erman BGB
 - **Arbeitsrecht** — ErfK Schaub HWK
-- **Handels- und Gesellschaftsrecht** — MuenKo HGB MuenKo GmbHG MuenKo AktG Baumbach Hueck Scholz Hueffer Koch
-- **Strafrecht** — Schoenke Schroeder MuenKo StGB NK-StGB Fischer
-- **Insolvenz** — MuenKo InsO Uhlenbruck Jaeger K. Schmidt Uhlenbruck
-- **Familienrecht** — MuenKoBGB Band 9 und 10 Wendl Dose
+- **Handels- und Gesellschaftsrecht** — MüKo HGB MüKo GmbHG MüKo AktG Baumbach Hueck Scholz Hueffer Koch
+- **Strafrecht** — Schoenke Schroeder MüKo StGB NK-StGB Fischer
+- **Insolvenz** — MüKo InsO Uhlenbruck Jaeger K. Schmidt Uhlenbruck
+- **Familienrecht** — MüKoBGB Band 9 und 10 Wendl Dose
 - **Mietrecht** — Schmidt-Futterer Staudinger BeckOK Mietrecht
-- **Steuerrecht** — Tipke Lang MuenKo AO BeckOK Steuerrecht
+- **Steuerrecht** — Tipke Lang MüKo AO BeckOK Steuerrecht
 - **Verwaltungsrecht** — Maurer Waldhoff Kopp Schenke Stelkens Bonk Sachs
 - **Verfassungsrecht** — Maunz Duerig Jarass Pieroth Sachs GG
 - **IT- und Datenschutzrecht** — Sydow Marsch Kuehling Buchner Paal Pauly Wendehorst Grinzinger

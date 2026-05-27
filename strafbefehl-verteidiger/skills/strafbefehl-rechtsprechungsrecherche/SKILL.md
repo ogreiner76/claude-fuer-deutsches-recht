@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-rechtsprechungsrecherche
-description: "Rechtsprechungsrecherche fuer das Strafbefehlsverfahren. Datenbanken juris beck-online OpenJur. Suchstrategien. Normenkette §§ 407-412 StPO. BGH OLG-Rspr zu Strafbefehl Einspruch Wiedereinsetzung Strafzumessung. Kernzitate aufbereiten fuer Schriftsaetze."
+description: "Rechtsprechung zum Strafbefehlsverfahren recherchieren fuer Schriftsaetze oder Argumentation in der Hauptverhandlung. Pruefraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Workflow Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate fuer Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung fuer die inhaltliche Verteidigungsstrategie."
 ---
 
 # Rechtsprechungsrecherche im Strafbefehlsverfahren

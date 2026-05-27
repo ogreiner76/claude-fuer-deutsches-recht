@@ -1,6 +1,6 @@
 ---
 name: ampelsystem-tabellenausgabe
-description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte Arbeitszeugnisse. Spalten: Satz, Ampel, Bewertung, Notentendenz, Begründung. Vereinheitlicht die Ausgabe aller Analyse-Skills in einem lesbaren Gesamtformat."
+description: "Erstellt die standardisierte Ampel-Ausgabetabelle fuer analysierte Arbeitszeugnisse. Anwendungsfall Zeugnisanalyse ist abgeschlossen und Ergebnis soll in einheitlicher Tabelle mit Satz Ampel Bewertung Notentendenz und Begruendung dargestellt werden. Vereinheitlicht Output aller Analyse-Skills fuer Mandantenbericht und Klagebegruendung. Output strukturierte Ampeltabelle als Grundlage fuer mandantenbericht-zeugnisanalyse und klage-strategie-zeugnisberichtigung."
 ---
 
 # Ampelsystem-Tabellenausgabe

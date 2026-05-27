@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-hr-personal
-description: "Verwaltet Kanzlei-Personal freundlich und strukturiert: Mitarbeiterstamm Arbeitsverträge Onboarding Offboarding Rollen Datenschutz Fortbildung Zielvereinbarungen Gratifikation Bonus und interne Abstimmungen."
+description: "Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kuendigungsfrist BRAO-Standesrecht Fortbildungspflicht. Pruefraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub."
 ---
 
 # HR und Personalverwaltung

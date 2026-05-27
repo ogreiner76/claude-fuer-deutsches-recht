@@ -1,6 +1,6 @@
 ---
 name: cluster-und-systemmaerkte
-description: Prueft Cluster-Maerkte (Buendelung nicht substitutiver Produkte zu einem Markt wegen gemeinsamer Nachfragemuster) und Systemmaerkte (Primaermarkt plus Aftermarkt). Behandelt Pelikan-Doktrin Kyocera-Doktrin und Bedingungen fuer eigenstaendigen Aftermarkt nach EuGH-Rechtsprechung und EU-Kommissions-Praxis.
+description: "Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prueft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Pruefraster Pelikan-Doktrin Kyocera-Doktrin eigenstaendiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen fuer Plattform-Spezifika."
 ---
 
 # Cluster- und Systemmärkte

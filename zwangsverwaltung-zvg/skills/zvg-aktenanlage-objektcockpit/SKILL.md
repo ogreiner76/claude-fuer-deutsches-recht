@@ -1,6 +1,6 @@
 ---
 name: zvg-aktenanlage-objektcockpit
-description: "Aktenanlage und Objektcockpit für Zwangsverwaltung. Erstellt Objektkarte Beteiligtenregister Mieterliste Lasten Konto Fristen Berichte und Wiedervorlagen."
+description: "Aktenanlage und Objektcockpit fuer den Zwangsverwalter nach §§ 146 ff. ZVG. Anwendungsfall Zwangsverwaltungsauftrag geht ein und Objekt muss komplett erfasst werden. Normen §§ 146 152 ZVG Bestellung § 154 ZVG Pflichten § 155 ZVG Einnahmen Ausgaben. Pruefraster Objektkarte Beteiligtenregister Mieterliste Lasten Treuhandkonto Fristen Berichte Wiedervorlagen. Output Vollstaendiges Objektcockpit als Arbeitsbasis fuer alle Folge-Skills der Zwangsverwaltung. Abgrenzung zu zvg-bestellung-beschlagnahme (rechtlicher Bestellvorgang) und zvg-miet-und-pachtverwaltung."
 ---
 
 # Aktenanlage und Objektcockpit

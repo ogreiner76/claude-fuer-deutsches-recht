@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-zahlungsdienstleister
-description: "Prüft Wallets, Travel Rule, Mittelherkunft, Krypto-Red-Flags, Zahlungsdienstleister, E-Geld, Kryptowerte und technische Kontrollpunkte."
+description: "AML/KYC-Pruefung fuer Krypto-Assets Wallets Travel Rule und Zahlungsdienstleister. Anwendungsfall Krypto-Transaktion soll bewertet oder Krypto-Dienstleister muss KYC-Prozess aufsetzen. Normen § 2 Abs. 1 Nr. 10b GwG Kryptowertehandel Verordnung 2023/1113 Travel Rule MiCAR Art. 59. Pruefraster Wallets Travel Rule Mittelherkunft Krypto-Red-Flags Zahlungsdienstleister E-Geld technische Kontrollpunkte. Output KYC-Pruefprotokoll mit Wallet-Analyse Red-Flag-Liste Travel-Rule-Nachweis und Verdachtspruefung. Abgrenzung zu geldwaesche-transaktionsmonitoring und geldwaesche-sanktionsscreening."
 ---
 
 # Krypto, Zahlungsdienste und FinTech

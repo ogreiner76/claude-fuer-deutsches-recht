@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-agrarrecht
-description: Strukturierte Eingangs-Abfrage fuer agrarrechtliche Mandate. Klaert Sachgebiet (Landpacht Hoefeerbfolge Foerderrecht ELER GAP Tierhaltung Pflanzenschutz Duenge-VO Bio-Zertifizierung Direktvermarktung Hofnachfolge Genossenschaft Agrarstrukturrecht Jagdpacht Fischerei) Mandantenrolle (Landwirt Verpaechter Paechter Erbe weichender Erbe Genossenschaft Foerderbescheid-Adressat Verband Behoerde) Sofort-Fristen Sammelantrag-Termin Pachtvertragsanzeige § 2 LPachtVG Erbschaftsanzeige Hoefeerbschaft Verjaehrungen. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuchen-Vorfall Behoerdliche Untersagung. Routing zu landpacht-und-hoferbfolge-pruefen.
+description: "Eingangs-Abfrage fuer agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bussgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-pruefen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Agrarrecht

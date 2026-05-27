@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-emissionshandel-tehg
-description: Begutachtet Zuteilungsantraege, Monitoring, Abgabepflichten, DEHSt-Verfahren, Mehrzuteilung, Sanktionen und Bussgeld nach TEHG und BEHG. Normen TEHG §§ 4 5 7 8 9 26 ZuV 2020. Abgabe bis 30. April jedes Jahres. Sanktion 100 EUR je fehlende Tonne CO2. Workflow Zuteilungsantrag DEHSt Klageverfahren VG Berlin.
+description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Pruefraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht)."
 ---
 
 # Emissionshandel und TEHG

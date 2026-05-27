@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-aktenzeichen
-description: "Erkennt und verknüpft eigene Aktenzeichen mit Gericht Behörde Gegner Versicherung Mandant Rechtsschutz und Altakten. Normalisiert Varianten findet Kollisionen und schlägt eindeutige Verknüpfungen vor. Nutzt nie unsichere Zuordnung ohne Rückfrage."
+description: "Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht § 253 Abs. 2 Nr. 1 ZPO § 130a ZPO. Pruefraster Typen (eigenes gerichtliches behoerdliches gegnerisches) Normalisierung Varianten Kollisionen Kontext. Output Verknuepfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rueckfragen bei Unsicherheit. Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake."
 ---
 
 # Aktenzeichen und Verknüpfungen

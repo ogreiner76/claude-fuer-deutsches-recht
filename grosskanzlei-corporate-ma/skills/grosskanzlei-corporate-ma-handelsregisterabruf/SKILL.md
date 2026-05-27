@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-handelsregisterabruf
-description: "Handelsregister- und Registerabruf: offizielle Registerabrufe fuer Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff."
+description: "Handelsregister-Abruf und Registerrecherche fuer M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand fuer Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. §§ 8-10 GmbHG, §§ 29 ff. HGB, § 15 HGB Registerpublizitaet. Pruefraster Eintragungsstand, Vertretungsmacht, Satzungsversion, Eintragungsdatum, aktuell laufende Registerverfahren. Output Registerauszug-Auswertung mit gesellschaftsrechtlichem Status und Handlungsempfehlungen. Abgrenzung zu Corporate-Housekeeping fuer interne Pruefung und zu Gesellschaftsrecht-Register."
 ---
 
 # Handelsregister- und Registerabruf

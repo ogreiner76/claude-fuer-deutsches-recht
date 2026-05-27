@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-billing-narratives
-description: "Mittelstandsmandat Billing Narratives: erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling."
+description: "Kanzlei erstellt Rechnung fuer M&A-Mandat und braucht praezise zeitgerechte Leistungsbeschreibungen: Time Narratives Phasenbudgets Workstream-Rechnungen Cap/Success-Fee-Berechnung. Normen RVG §§ 1 ff. BRAO § 49b AO-Steuerrecht. Pruefraster Workstream-Zeiterfassung Phasenzuordnung Korrektur Mandantsfreigabe. Output Narratives-Dokument Workstream-Abrechnung Rechnungsentwurf. Abgrenzung zu mittelstand-ma-erechnung-gobd (GoBD/XRechnung-Format)."
 ---
 
 # Mittelstandsmandat Billing Narratives

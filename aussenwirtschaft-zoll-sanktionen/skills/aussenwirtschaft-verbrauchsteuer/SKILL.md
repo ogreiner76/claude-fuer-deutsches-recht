@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Prüft Energieerzeugnisse, Strom, Tabak, Alkohol, Bier, Schaumwein, Kaffee, Steuerlager, Steueraussetzung, EMCS, Entlastung und Steuerentstehung."
+description: "Verbrauchsteuerrecht fuer Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prueft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG StromStG TabakStG BierStG §§ 1-39 Steuerlager EMCS-Verfahren UZK Art. 189 ff. Pruefraster Energieerzeugnisse Strom Tabak Alkohol Steuerlager Steueraussetzung EMCS Entlastung Steuerentstehung. Output Verbrauchsteuer-Pruefprotokoll mit Steuerlagerkonzept EMCS-Begleitung und Entlastungsantrag. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Verbrauchsteuer

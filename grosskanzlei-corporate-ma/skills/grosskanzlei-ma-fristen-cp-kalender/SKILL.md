@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-fristen-cp-kalender
-description: "Freistehender Deal-Fristen- und CP-Kalender: führt Signing-, Closing-, Q&A-, Regulatory-, Register-, Board-, Ordinary-Course- und Restrukturierungsfristen im M&A-Mandat."
+description: "Freistehender Deal-Fristen- und CP-Kalender fuer M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengefuehrt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Pruefraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenfuehren, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO fuer Aufgabenmanagement und zu Automation-Monitoring."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender

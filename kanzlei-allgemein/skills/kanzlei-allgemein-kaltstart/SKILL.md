@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-kaltstart
-description: "Startet Kanzlei-Allgemein-Plugin. Erfragt Kanzleiprofil Kommandocenter Aktenzeichen Eingangskanäle Integrationen Simulation Fristen HR Lohn Urlaub Kanzleikalender Honorar Rechnung UStVA und freundliche Menüführung."
+description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleiprofils. Anwendungsfall erstes Oeffnen des Plugins oder Kanzlei will Stammprofil neu einrichten. Abfrageraster Kanzleiprofil Aktenzeichen-Konvention Eingangskanale Integrationen Fristen HR Honorarpraxis UStVA Kanzleikalender Simulationsmodus. Output Kanzleiprofil-Datei Konfigurationsprotokoll und Weiterleitung zum passenden Workflow. Abgrenzung zu kanzlei-cowork-kaltstart-interview (erweitertes Profilinterview) und kanzlei-allgemein-kommandocenter."
 ---
 
 # Kanzlei-Allgemein-Plugin Kaltstart

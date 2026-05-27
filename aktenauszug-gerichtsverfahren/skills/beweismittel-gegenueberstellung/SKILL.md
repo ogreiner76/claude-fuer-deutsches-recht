@@ -1,6 +1,6 @@
 ---
 name: beweismittel-gegenueberstellung
-description: "Erstellt eine tabellarische Uebersicht aller Beweisangebote: Zeugen Urkunden Sachverstaendige Parteivernehmung und Augenschein getrennt nach Partei und streitigem Punkt. Fundstellen in Schriftsaetzen werden angegeben. Keine Bewertung der Beweiskraft. Normen §§ 355-455 ZPO Sachverstaendigenbeweis Zeugenbeweis."
+description: "Anwalt will Beweisangebote aller Parteien uebersichtlich gegenueberstellen: Zeugen Urkunden Sachverstaendige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverstaendigenbeweis Zeugenbeweis. Pruefraster Vollstaendigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Uebersicht. Abgrenzung zu parteivortrag-gegenueberstellung (Sachverhalt) und rechtsargumente-gegenueberstellung (Recht)."
 ---
 
 # Beweismittel — Gegenüberstellung

@@ -1,6 +1,6 @@
 ---
 name: geschgehg-bausteine
-description: "Bausteine zum Geschäftsgeheimnisschutzgesetz für KI-Nutzungsrichtlinien: § 1 Abs. 3 Nr. 1 GeschGehG, angemessene Geheimhaltungsmaßnahmen beim KI-Einsatz, Verhältnis zu § 203 StGB und §§ 43a, 43e BRAO."
+description: "GeschGehG-Bausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schuetzen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Pruefraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten fuer KI-Dienstleister. Output GeschGehG-Bausteine fuer KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT."
 ---
 
 # GeschGehG-Bausteine

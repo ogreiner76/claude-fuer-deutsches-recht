@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kaltstart
-description: "Deal-Kaltstart: Nimmt Kanzlei- und Mandantenpraeferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln."
+description: "Kanzlei- und Mandantenpraeferenzen fuer Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards, Abrechnungsmodell und KI-Governance. § 3a RVG Honorarvereinbarung, BRAO Berufsrecht. Pruefraster Dealtypen-Profil, Buy-side/Sell-side-Praeferenz, Standardschwellen, Datenraum-Praeferenzen, Berichtsformate, Sicherheitsregeln. Output konfiguriertes Kanzlei-Profil mit Playbook-Grundeinstellungen. Abgrenzung zu Deal-Intake fuer konkrete neue Mandate und zu KI-Governance-Berufsrecht."
 ---
 
 # Deal-Kaltstart

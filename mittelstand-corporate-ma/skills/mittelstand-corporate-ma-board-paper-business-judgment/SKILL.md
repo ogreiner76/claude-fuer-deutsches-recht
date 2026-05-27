@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-board-paper-business-judgment
-description: "Board Paper und Business Judgment: Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat mit Informationsgrundlage, Alternativen, Risiken und KI-Einsatztransparenz."
+description: "Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage fuer M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Pruefraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht)."
 ---
 
 # Board Paper und Business Judgment

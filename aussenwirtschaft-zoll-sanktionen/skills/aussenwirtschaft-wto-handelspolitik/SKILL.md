@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "Ordnet GATT, GATS, TRIPS, WTO-Streitbeilegung, Schutzmaßnahmen, Quoten und handelspolitische Konflikte ein."
+description: "WTO Handelspolitik GATT GATS TRIPS und Streitbeilegung fuer Aussenhandelsmandate. Anwendungsfall Handelspartner klagt WTO-Verstoss oder Unternehmen ist von Schutzmassnahmen betroffen. Normen GATT 1994 GATS TRIPS DSU Streitbeilegungsvereinbarung WTO Schutzmassnahmen-Abkommen. Pruefraster GATT-Grundsaetze GATS-Verpflichtungen TRIPS-Schutz WTO-Streitbeilegungsweg Schutzmassnahmen Quoten handelspolitische Konflikte. Output Handelsrechtliche Einordnung mit WTO-Pruefschema Streitbeilegungsoptionen und Risikoabschaetzung. Abgrenzung zu aussenwirtschaft-antidumping-ausgleich und aussenwirtschaft-sanktionen-embargos."
 ---
 
 # WTO und handelspolitische Maßnahmen

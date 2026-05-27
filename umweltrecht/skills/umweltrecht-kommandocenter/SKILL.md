@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-kommandocenter
-description: Fuehrt Umweltmandate mit Intake, Anlagenkarte, Behoerdenkarte, Fristen, Risiken und naechstem Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Spezial-Skills. Triage-Matrix Mandant-Typ Drittanfechtung Transaktion Verfahren Beratung. Leitentscheidungen BVerwG OVG Umwelt. Kommentarliteratur Kloepfer.
+description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Pruefraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing)."
 ---
 
 # Umweltrecht-Kommandocenter

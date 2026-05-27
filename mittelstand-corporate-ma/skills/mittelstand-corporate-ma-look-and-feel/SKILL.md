@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-look-and-feel
-description: "Corporate-Cowork-Look: Definiert die sichtbare Oberfläche: sehr ruhig, edel, bläulich-silbern mit warmem Orange für Entscheidungspunkte, dichte Deal-Information statt Marketing."
+description: "Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange fuer Entscheidungspunkte. Normen keine (UI/UX-Guideline). Pruefraster Farbpalette Typografie Informationsdichte Branding-Konformitaet. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup)."
 ---
 
 # Corporate-Cowork-Look

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bem-verfahren
-description: "Betriebliches Eingliederungs-Management § 167 II SGB IX Pflicht bei 6 Wochen Arbeitsunfaehigkeit Klaerung Behinderungsanpassung Wiedereingliederungsplan Hamburger-Modell. Voraussetzung wirksame personenbedingte Kuendigung BAG-Linie 2 AZR 400/16. Schwerbehindert Zustimmungsverfahren § 168 SGB IX. Workflow Einladung Gespraech Protokoll."
+description: "Betriebliches Eingliederungsmanagement BEM nach § 167 Abs. 2 SGB IX als Voraussetzung wirksamer personenbedingter Kuendigung. Anwendungsfall Arbeitnehmer war laenger als sechs Wochen krank und Arbeitgeber will personenbedingt kuendigen. Normen § 167 Abs. 2 SGB IX BEM-Pflicht § 168 SGB IX Zustimmungsverfahren Schwerbehinderte BAG 2 AZR 400/16. Pruefraster Sechs-Wochen-Schwelle BEM-Einladung Protokoll Wiedereingliederungsplan Hamburger-Modell Schwerbehindertenstatus. Output BEM-Einladungsschreiben Protokollvorlage Pruefbericht Kuendigungsrisiko ohne BEM. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
 ---
 
 # BEM-Verfahren § 167 II SGB IX

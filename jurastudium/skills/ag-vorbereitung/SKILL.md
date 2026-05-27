@@ -1,6 +1,6 @@
 ---
 name: ag-vorbereitung
-description: "Vorbereitung auf das Aufrufen in der Arbeitsgemeinschaft (AG) oder im Seminar. Lade diesen Skill bei Anfragen wie „AG-Vorbereitung\", „Seminar vorbereiten\", „was fragt der Dozent\", „Cold Call\" oder „ich werde morgen drangenommen\"."
+description: "AG-Vorbereitung und Cold-Call-Prep fuer Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und oeffentliches Recht Loesungsschemata, Subsumtion. Pruefraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, moegliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterloesung und Argumentationsstruktur. Abgrenzung zu Pruefungsgespraech-AG fuer laufende AG-Diskussion und zu Examensvorbereitung-Fragen."
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)

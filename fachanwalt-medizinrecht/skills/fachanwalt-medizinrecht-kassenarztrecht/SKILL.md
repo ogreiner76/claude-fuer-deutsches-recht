@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-kassenarztrecht
-description: "Vertragsarztrecht SGB V Zulassung § 95 SGB V Bedarfsplanung § 99 SGB V Honorarverteilungsmassstab § 87b SGB V. Plausibilitaetspruefungen § 106d SGB V sachlich-rechnerische Berichtigung Wirtschaftlichkeitspruefung § 106 SGB V. Disziplinarverfahren § 81 Abs. 5 SGB V Zulassungsentziehung § 95 Abs. 6 SGB V. Sozialgerichtsweg § 51 SGG Widerspruchsverfahren vor Berufungsausschuss."
+description: "Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Pruefraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Pruefungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV fuer reine Honorarstreitigkeiten und zu Approbations-Widerspruch."
 ---
 
 # Kassenarztrecht

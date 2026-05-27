@@ -1,6 +1,6 @@
 ---
 name: richtlinien-update-zyklus
-description: "Festlegung eines Prüfintervalls für KI-Nutzungsrichtlinien — alle sechs Monate oder bei wesentlichen Rechtsentwicklungen — mit Triggerliste: neue BRAK- und DAV-Stellungnahmen, KI-VO-Durchführungsrechtsakte sowie relevante Gerichtsentscheidungen."
+description: "KI-Nutzungsrichtlinie regelmaessig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchfuehrungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Pruefraster Pruefintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prueftermin. Abgrenzung zu Richtlinien-Skelett fuer Neuerstellung und zu Literatur-und-Quellen."
 ---
 
 # Richtlinien-Update-Zyklus

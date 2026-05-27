@@ -1,6 +1,6 @@
 ---
 name: forderungsverzicht-besserungsschein
-description: Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Glaeubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfaehigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im insolvenzrechtlichen Status die verzichtete Forderung wird nicht passiviert. Steuerliche Folge beim Schuldner Ertragsbuchung (Sanierungserloes Sanierungsgewinn § 3a EStG bei Sanierungsbedarf). Beim Glaeubiger Forderungsausfall ggf abzugsfaehig.
+description: "Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Glaeubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfaehigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im insolvenzrechtlichen Status die verzichtete Forderung wird nicht passiviert. Steuerliche Folge beim Schuldner Ertragsbuchung (Sanierungserloes Sanierungsgewinn § 3a EStG bei Sanierungsbedarf). Beim Glaeubiger Forderungsausfall ggf abzugsfaehig."
 ---
 
 # Forderungsverzicht mit Besserungsschein
@@ -163,6 +163,6 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 100 ff. — Passivierungsverbot durch Verzicht.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 100 ff. — Passivierungsverbot durch Verzicht.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.30 — Forderungsverzicht mit Besserungsschein.
 - Uhlenbruck/Mock §§ 129-135 InsO Rn. 50 ff. — Anfechtungsrisiko bei selektivem Glaeubigerverzicht.

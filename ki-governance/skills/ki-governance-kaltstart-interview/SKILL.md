@@ -1,6 +1,6 @@
 ---
 name: ki-governance-kaltstart-interview
-description: "Führt das Erstgespräch zur KI-Governance durch — ermittelt KI-Inventar, Rolle im KI-Lieferkette (Anbieter/Betreiber gem. Art. 3 KI-VO), regulatori- schen Anwendungsbereich und schreibt das Praxisprofil in die Konfiguration. Lädt, wenn der Nutzer „KI-Governance einrichten\", „KI-Inventar erfassen\", „Plugin konfigurieren\", „Erstgespräch KI\" oder „AI Act Anwendungsbereich prüfen\" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält."
+description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich pruefen. Fuehrt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen fuer spaetere Einzelaenderungen ki-inventar fuer laufende Inventar-Pflege."
 ---
 
 # Erstgespräch KI-Governance

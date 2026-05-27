@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung
-description: "Versicherungs-Ombudsmann VVR e.V. außergerichtliche Schlichtung bis 10000 EUR. Ombudsmann private Kranken/Pflegeversicherung PKV. BaFin-Verbraucherbeschwerde. VSBG-Verbraucherstreitbeilegung (EU-ODR-Plattform seit 20.7.2025 abgeschaltet). Sachverständigen-Verfahren § 84 VVG. Workflow Beschwerde Schlichtung Klage."
+description: "Aussergerichtliche Schlichtung ueber Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjaehrung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverstaendigenverfahren. Pruefraster Zustaendigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zustaendigkeitspruefung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie."
 ---
 
 # Versicherungs-Ombudsmann / GDV-Schlichtung

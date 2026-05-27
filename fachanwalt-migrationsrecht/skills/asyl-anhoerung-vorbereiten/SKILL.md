@@ -1,6 +1,6 @@
 ---
 name: asyl-anhoerung-vorbereiten
-description: Strukturierte Vorbereitung der Asyl-Anhoerung beim BAMF nach § 25 AsylG. Bedeutung der Anhoerung als zentrales Entscheidungs-Ereignis. Verfolgungs-Schilderung nach den vier Schutzgruenden Politische Verfolgung Konvention Subsidiaerer Schutz § 60 AufenthG Verbote. Chronologie Logistik-Notizen Beweismittel Atteste Dokumente Zeugen. Vorbereitung Dolmetscher-Wahl Vertrauenswuerdigkeit Sprachvariante Vermeidung Stress-Symptome. Verfahrensrechte § 25 Abs. 5 AsylG Beistand Anwalt Verfahrensbeistand fuer minderjaehrige unbegleitete Anhoerungsprotokoll-Pruefung Korrekturen. Dublin-III-Pruefung Schutzsuche Erstland.
+description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die Schilderung der Fluchtgruende vor. Pruefraster § 25 AsylG Bedeutung der Anhoerung Verfolgungs-Schilderung nach GFK-Schutzgruenden politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Pruefung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand fuer unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhoerungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie fuer behordliche Kommunikation."
 ---
 
 # Asyl-Anhörung beim BAMF vorbereiten

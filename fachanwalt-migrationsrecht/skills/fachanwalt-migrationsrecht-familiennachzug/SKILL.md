@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-familiennachzug
-description: "Familiennachzug §§ 27-36 AufenthG zum Ehegatten Kindern Eltern. Voraussetzungen Lebensunterhaltssicherung Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren BeauftragtenG. Familiennachzug zu Schutzbeduerftigen. Workflow Visum Antrag Aufenthaltstitel Klage."
+description: "Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Pruefraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Familiennachzug zu Schutzbeduerftigen nach § 36a AufenthG. Normen § 27 AufenthG Grundsatz § 28 AufenthG Ehegatten § 32 AufenthG Kinder. Output Nachzugs-Pruef-Memo Antragscheckliste Visum-Entwurf Klage-Option bei Ablehnung. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag fuer eigenstaendige Titelerteilung."
 ---
 
 # Familiennachzug

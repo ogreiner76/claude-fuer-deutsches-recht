@@ -1,6 +1,6 @@
 ---
 name: ifap-formalpruefung-174
-description: "Prüft die Mindestangaben der Forderungsanmeldung nach § 174 InsO einschließlich Grund, Betrag, Urkunden, Nachrang und elektronischer Einreichung."
+description: "Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Pruefungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Pruefungstermin. Pruefraster Glaeubiger mit Anschrift, Forderungsgrund, Betrag, Nachrang, Urkundenvorlage, elektronische Einreichung EGVP. Output Formalprüfungsprotokoll mit gruener oder roter Ampel und Maengelschreiben-Vorlage. Abgrenzung zu Grund-Betrag-Zinsen fuer inhaltliche Pruefung und zu Intake-Kanalcheck."
 ---
 
 # Formalprüfung nach § 174 InsO
@@ -65,6 +65,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

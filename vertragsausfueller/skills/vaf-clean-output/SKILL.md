@@ -1,6 +1,6 @@
 ---
 name: vaf-clean-output
-description: "Erstellt einen sauberen Vertragsentwurf mit Ausfüllprotokoll, Annahmenregister, offenen Punkten und Anlagenliste."
+description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Pruefraster alle Platzhalter aufgelöst, Anlagenverzeichnis vollstaendig, Format-Konsistenz geprueft, Track Changes entfernt. Output Clean-Entwurf mit Ausfüllprotokoll, Annahmenregister und offener-Punkte-Liste. Abgrenzung zu Quality-Gate fuer Vorabpruefung und zu Track-Changes-Skill."
 ---
 
 # Clean-Output

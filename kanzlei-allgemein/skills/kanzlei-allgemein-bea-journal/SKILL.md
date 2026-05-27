@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-bea-journal
-description: "Dokumentiert beA-Verbindungen mit Nachrichtenjournal Screenshots ZIP-Exporten eingegangener und versandter Nachrichten sowie EB-Workflow. Speichert keine PINs Token Zertifikate oder Passwörter und fragt vor jedem EB und Versand ausdrücklich nach Freigabe."
+description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Pruefraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-pruefen (Pruefung Versandweg) und kanzlei-allgemein-output-versand."
 ---
 
 # beA-Nachrichtenjournal und EB-Workflow

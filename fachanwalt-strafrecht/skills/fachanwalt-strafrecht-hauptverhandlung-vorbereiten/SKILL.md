@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-hauptverhandlung-vorbereiten
-description: "Vorbereitung der Hauptverhandlung StPO Beweisantraege § 244 StPO Praeklusion § 244 Abs. 6 StPO Ablehnung Beweisanregung. Verstaendigung § 257c StPO Voraussetzungen Bindung Belehrung § 257c Abs. 4. Befangenheitsantrag § 24 StPO Ablehnungsgrund Glaubhaftmachung. Ablauf § 243 § 244 Vernehmung Beweisaufnahme Schlussvortraege § 258. Strafzumessung §§ 46-49 StGB Verteidigungsplaedoyer."
+description: "Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidiger muss Hauptverhandlung strukturiert vorbereiten mit Einlassung Beweisantraegen und Verfahrenstaktik. § 136 StPO Schweigerecht, § 244 StPO Beweisantraege, § 258 StPO Schlusspledoyer, § 261 StPO freie Beweiswuerdigung. Pruefraster Einlassung erarbeiten, Beweisantrag-Liste erstellen, Zeugenliste prüfen, Sachverstaendigen-Einwendungen vorbereiten, Plaedoyer-Gliederung. Output Vorbereitungschecklist fuer Hauptverhandlung mit Skript und Reaktionsplan. Abgrenzung zu Plaedoyer-Vorbereitung fuer spezifisches Schlusspledoyer und zu Einlassung-Vorbereiten."
 ---
 
 # Hauptverhandlung vorbereiten

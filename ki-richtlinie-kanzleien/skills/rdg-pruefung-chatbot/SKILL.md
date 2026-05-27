@@ -1,6 +1,6 @@
 ---
 name: rdg-pruefung-chatbot
-description: "Prüft, wann KI-Chatbot-Output als Rechtsdienstleistung im Sinne des § 2 RDG qualifiziert, erläutert die Abgrenzung bei Nichtjuristen-Nutzung sowie die BGH-Entscheidung BGH I ZR 113/20 (smartlaw) und deren Bedeutung für KI-gestützte Rechtsberatung."
+description: "RDG-Pruefung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbringt: Anwendungsfall Kanzlei betreibt oder beraet Mandanten bei KI-Chatbot-Service und muss prüfen ob Chatbot-Output als Rechtsdienstleistung nach RDG qualifiziert. § 2 RDG Rechtsdienstleistungs-Begriff, § 3 RDG Erlaubnisvorbehalt, BGH I ZR 113/20 smartlaw-Entscheidung. Pruefraster konkrete Einzelfall-Bezogenheit, erlaubnisfreie Rechtsdienstleistung, Bagatellgrenze, Abgrenzung allgemeine Rechtsinformation. Output RDG-Pruefprotokoll mit Einordnung und Gestaltungsempfehlung. Abgrenzung zu Berufsrecht-Bausteine und zu Transparenz-Mandanten."
 ---
 
 # RDG-Prüfung Chatbot

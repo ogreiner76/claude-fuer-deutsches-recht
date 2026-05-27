@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-pruefung
-description: Pruefraster fuer Aufenthaltstitel nach AufenthG — Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Forschungsaufenthalt § 18d Niederlassungserlaubnis § 9 ff. Erlaubnis zum Daueraufenthalt-EU § 9a Familiennachzug §§ 27 ff. AufenthG Asyl § 25 humanitaere Aufenthaltstitel § 25b § 25a § 23a. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Sicherung Lebensunterhalt Sprachnachweis A1 B1 Identitaetsfeststellung Visumserfordernis § 5 Abs. 2. Versagungsgruende § 11 Einreise- und Aufenthaltsverbot.
+description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Pruefraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identitaet. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Pruef-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag fuer den Antrag selbst."
 ---
 
 # Aufenthaltstitel-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-co2-zoll
-description: "Prüft CBAM-Waren, Anmelderstatus, Emissionsdaten, Standardwerte, Drittland-CO2-Preis, Zertifikate, Register, Lieferantendaten und Zollschnittstellen."
+description: "Carbon Border Adjustment Mechanism CBAM CO2-Grenzausgleich fuer Einfuhren aus Drittlaendern. Anwendungsfall Unternehmen importiert CBAM-pflichtige Waren Stahl Aluminium Zement Duenger Strom und muss CBAM-Pflichten erfuellen. Normen EU-CBAM-Verordnung 2023/956 EU-ETS-Richtlinie 2003/87/EG Zollrecht UZK. Pruefraster CBAM-Waren Anmelderstatus Emissionsdaten Standardwerte Drittland-CO2-Preis Zertifikate Register Lieferantendaten Zollschnittstellen. Output CBAM-Pruefprotokoll mit Emissionsberechnung Zertifikatsbedarf und Meldungsplan. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-vub-einfuhr-ausfuhr."
 ---
 
 # CBAM und CO2-Grenzausgleich

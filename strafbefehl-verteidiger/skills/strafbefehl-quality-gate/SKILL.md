@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-quality-gate
-description: "Quality-Gate-Checkliste fuer das Strafbefehl-Mandat. Abschlusspruefung vor Einspruch-Versand, vor Hauptverhandlung, nach Urteil. Prueft Fristen, Vollmacht, Zulaessigkeit, Einlassung, Beweisantraege, Strafzumessung, Protokoll. Fehlerliste mit Ampel."
+description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlusspruefung durchfuehren. Pruefraster Fristen Vollmacht Zulaessigkeit Einlassung Beweisantraege Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter fuer laufende Mandats-Steuerung."
 ---
 
 # Quality Gate — Strafbefehl-Mandat

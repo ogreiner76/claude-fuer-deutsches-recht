@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Allgemeines und Wirtschaftsstrafrecht: Erfassung der Konstellation (Beschuldigte/r oder Verletzte/r oder Zeuge/in), Konflikt- und GwG-Check, Akteneinsicht, Pflicht-/Wahlverteidigung, RVG-Gebuehrentatbestaende (Nr. 4100 ff. VV-RVG), Fristen-Erstprognose und Handlungsweichen."
+description: "Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen. § 136 StPO Belehrung Schweigerecht, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Pruefraster Konflikt-Check, Schweigerecht kommunizieren, Sachverhalt aufnehmen, Akteneinsicht beantragen, Honorarvereinbarung treffen. Output Mandats-Aufnahmeprotokoll mit Sofortmassnahmen-Liste und Belehrungsprotokoll. Abgrenzung zu Wahlverteidiger-Mandat fuer spezifischen Mandatstyp und zu Mandat-Triage."
 ---
 
 # Erstgespraech und Mandatsannahme im Allgemeines und Wirtschaftsstrafrecht

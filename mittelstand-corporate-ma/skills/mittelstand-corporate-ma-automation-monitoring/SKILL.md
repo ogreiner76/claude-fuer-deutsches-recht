@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-automation-monitoring
-description: "Automationen und Monitoring: Entwirft Monitore für Datenraum-Neuzugaenge, Q&A, CP-Deadlines, Registerupdates, News, MAR-Signale und PMI-Aufgaben."
+description: "Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 §§ 35-44 GWB Insiderlisten. Pruefraster Datenraum-Monitor CP-Deadline-Kalender Register-Update-Check News-Screening PMI-Task-Tracking. Output Monitoring-Protokoll Alert-Regeln Ampel-Dashboard. Abgrenzung zu mittelstand-ma-fristen-cp-kalender (Fristen-only) und mittelstand-corporate-ma-deal-intake (Eingang)."
 ---
 
 # Automationen und Monitoring

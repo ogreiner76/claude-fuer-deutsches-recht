@@ -1,6 +1,6 @@
 ---
 name: zvg-instandhaltung-sicherung
-description: "Instandhaltung Sicherung und Gefahrenabwehr in der Zwangsverwaltung. Führt Verkehrssicherung Notmaßnahmen Reparaturen Zustimmung Budget und Dokumentation."
+description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Laender. Pruefraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begruendung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren."
 ---
 
 # Instandhaltung, Sicherung und Gefahrenabwehr

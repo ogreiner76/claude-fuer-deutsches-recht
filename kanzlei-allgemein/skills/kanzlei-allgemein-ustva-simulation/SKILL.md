@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-ustva-simulation
-description: "Bietet Fallbacks wenn UStVA oder ELSTER nicht funktionieren. Führt durch ELSTER-Simulation manuelle Eingabe XML-Upload-Prüfung Fachsoftware-Export Steuerberater-Paket Fehlerdiagnose und Übertragungsprotokoll ohne echte Abgabe."
+description: "Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang fuer UStVA-Simulation. Anwendungsfall ELSTER-Verbindung funktioniert nicht oder UStVA muss ohne Fachsoftware simuliert werden. Normen § 18 Abs. 1 UStG Abgabefrist § 149 AO Verlaengerungsantrag. Pruefraster ELSTER-Simulation manuelle Eingabe XML-Upload ZUGFeRD-Pruefung Steuerberater-Paket Fehlerdiagnose Uebertragungsprotokoll. Output Simulations-Protokoll mit Fehlerdiagnose Loesungsoptionen und vollstaendigem UStVA-Datenpaket ohne echte Abgabe. Abgrenzung zu kanzlei-allgemein-ustva-buchhaltung (Datensammlung) und kanzlei-allgemein-buchhaltung-konten."
 ---
 
 # UStVA- und ELSTER-Simulation

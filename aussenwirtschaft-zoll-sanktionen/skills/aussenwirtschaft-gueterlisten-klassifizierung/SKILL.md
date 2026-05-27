@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gueterlisten-klassifizierung
-description: "Erstellt ein nachvollziehbares Klassifizierungsdossier mit Produktdaten, Zolltarifnummer, technischen Parametern, Güterlistenbezug und offenen Nachweisen."
+description: "Klassifizierungsdossier fuer Exportkontrolle Zolltarif und Dual-Use-Einordnung. Anwendungsfall Produkt muss fuer Exportkontrolle und Zoll einheitlich klassifiziert werden. Normen EU-Dual-Use-Liste Anhang I Verordnung 2021/821 UZK Art. 33 VzTA Kombinierte Nomenklatur KN. Pruefraster Produktdaten Zolltarifnummer technische Parameter Gueterlistenbezug Dual-Use-Position offene Nachweise. Output Nachvollziehbares Klassifizierungsdossier mit CN-Code Dual-Use-Ergebnis und Begruendungskette fuer BAFA und Zoll. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta."
 ---
 
 # Güterlisten- und Klassifizierungslog

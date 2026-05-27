@@ -1,6 +1,6 @@
 ---
 name: verfahrenszusammenfassung-absatz
-description: "Schreibt einen zusammenfassenden Absatz mit acht bis zehn Saetzen: Hintergrund Streitstand prozessuale Lage und anstehende Verfahrenshandlungen. Neutrale Darstellung ohne Erfolgsprognose fuer alle Verfahrensarten. Dient der raschen Einarbeitung ohne vollstaendige Aktenlektuere. Normen §§ 253 261 ZPO BGH VIII ZR Verfahrensrecht."
+description: "Anwalt will sich schnell in Akte einarbeiten ohne vollstaendige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Pruefraster Vollstaendigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollstaendig) und schwerpunktthemen-identifikation (Streitpunkte)."
 ---
 
 # Verfahrenszusammenfassung — Absatz

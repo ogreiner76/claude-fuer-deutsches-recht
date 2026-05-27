@@ -1,6 +1,6 @@
 ---
 name: ifap-masseverbindlichkeit-abgrenzen
-description: "Grenzt Insolvenzforderungen von Masseverbindlichkeiten, Neumasse, Altmasse und falsch angemeldeten Forderungen ab."
+description: "Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 InsO Insolvenzforderungen. Pruefraster Entstehungszeitpunkt relativ zur Eroeffnung, Verwalterhandeln, Zustimmungsvorbehalt, Neumasse vs. Altmasse. Output Abgrenzungsprotokoll mit rechtlicher Einordnung und Handlungsempfehlung. Abgrenzung zu Formalprüfung-174 und zu Rang-Nachrang."
 ---
 
 # Masseverbindlichkeit abgrenzen
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

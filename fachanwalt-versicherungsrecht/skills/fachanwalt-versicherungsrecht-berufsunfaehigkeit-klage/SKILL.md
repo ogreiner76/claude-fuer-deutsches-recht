@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage
-description: "Berufsunfaehigkeits-Versicherung BUV Klage bei abgelehnter Leistung. Begriff Berufsunfaehigkeit 50 Prozent letzte berufliche Taetigkeit. Verweisung zumutbare andere Taetigkeit. Pruefverfahren Versicherer Gutachten. Workflow Antrag Klage AG."
+description: "Klage bei abgelehnter Berufsunfaehigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Taetigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfaehigkeit 50-Prozent-Grenze. Pruefraster Begriff Berufsunfaehigkeit letzte berufliche Taetigkeit Verweisung zumutbare andere Taetigkeit Gutachtenstreit Pruefverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverstaendigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-pruefen."
 ---
 
 # Berufsunfähigkeit-Klage

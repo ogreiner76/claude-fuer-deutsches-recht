@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: prüft Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung, Antragspflichten und Deal-Auswirkungen intern."
+description: "Unternehmen in M&A-Situation oder Krise und Anwalt prueft ob Insolvenzantragspflicht besteht: Zahlungsunfaehigkeit drohende Zahlungsunfaehigkeit Ueberschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Pruefraster Zahlungsunfaehigkeitstest Ueberschuldungspruefung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell)."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)

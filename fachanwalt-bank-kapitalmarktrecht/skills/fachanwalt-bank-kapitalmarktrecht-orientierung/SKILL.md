@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-orientierung
-description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. KWG (Kreditwesengesetz) ZAG (Zahlungsdiensteaufsichtsgesetz) WpHG (Wertpapierhandelsgesetz) WpIG (Wertpapierinstitutsgesetz) MiFID-II MAR Marktmissbrauchsverordnung MiCAR Markets in Crypto Assets BGB-Verbraucherkredit §§ 491 ff. Beratungspflichten Aufklaerungspflichten Beratungshaftung.
+description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Ueberblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
 ---
 
 # Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung

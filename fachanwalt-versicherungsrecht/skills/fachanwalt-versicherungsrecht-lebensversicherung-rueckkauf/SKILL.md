@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Lebensversicherung Rueckkauf-Recht § 169 VVG Rueckkaufswert Mindestbetrag Stornogebuehr-Verbot BGH IV ZR 73/13. Widerruf langer Frist bei fehlerhafter Belehrung Endlos-Widerrufs-Joker. Bewertungs-Reserve. Workflow Pruefung Vertragsauswertung Rueckforderung."
+description: "Lebensversicherung Rueckkaufswert und Widerruf nach BGH-Rechtsprechung. Anwendungsfall Versicherungsnehmer will Lebensversicherung kuendigen oder fehlerhafte Widerrufsbelehrung ausnutzen. Normen § 169 VVG Rueckkaufswert § 8 VVG Widerrufsrecht BGH IV ZR 73/13 Endlos-Widerrufs-Joker § 153 VVG Bewertungsreserve. Pruefraster Rueckkaufswert-Berechnung Mindestbetrag Stornogebuehr-Verbot Widerrufsbelehrung Fehler Endlos-Joker Bewertungsreserve. Output Rueckforderungsschreiben mit Berechnung Widerrufserklaerung und Klagestrategie. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-pruefen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Lebensversicherung Rückkauf

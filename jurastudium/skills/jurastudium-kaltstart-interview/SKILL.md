@@ -1,6 +1,6 @@
 ---
 name: jurastudium-kaltstart-interview
-description: "Erstes Einrichtungsgespräch: baut das persönliche Lernprofil auf. Läuft genau einmal (oder bei --redo). Lade diesen Skill wenn der Nutzer das Plugin zum ersten Mal startet, wenn CLAUDE.md noch Platzhalter enthält, oder wenn der Nutzer sagt „Neueinrichtung\", „neues Profil\" oder „kaltstart-interview\"."
+description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methodenlehre. Pruefraster Semester und Fortschritt, Bundesland JAG-Anforderungen, Lernstil Theorie oder Praxis, bisherige Schwachpunkte, verfuegbare Zeit und Materialien. Output vollstaendiges Lernprofil als Grundlage fuer alle weiteren Jurastudium-Skills. Abgrenzung zu Jurastudium-Anpassen fuer spaetere Aenderungen."
 ---
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)

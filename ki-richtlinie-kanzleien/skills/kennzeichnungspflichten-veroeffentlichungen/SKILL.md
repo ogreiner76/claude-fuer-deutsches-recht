@@ -1,6 +1,6 @@
 ---
 name: kennzeichnungspflichten-veroeffentlichungen
-description: "Art. 50 Abs. 4 KI-VO und Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Blogs, Pressemitteilungen und Schriftsätzen: redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise für transparente Kommunikation."
+description: "Kennzeichnungspflichten fuer KI-generierte Inhalte in Kanzlei-Veroeffentlichungen prüfen: Anwendungsfall Kanzlei veroeffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Pruefraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden fuer unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten."
 ---
 
 # Kennzeichnungspflichten für Veröffentlichungen

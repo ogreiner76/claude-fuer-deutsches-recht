@@ -1,6 +1,6 @@
 ---
 name: executive-summary-bausteine
-description: "Erstellt die sechs Kern-Eckpunkte des Executive Summary einer KI-Nutzungsrichtlinie: Werkzeugcharakter, Verschwiegenheit, Datenschutz und Geheimnisschutz, Quellenprüfung, Keine Privat-Accounts sowie Kennzeichnungspflichten — als modulare, anpassbare Textbausteine."
+description: "Executive Summary der KI-Nutzungsrichtlinie fuer Kanzleien erstellen: Anwendungsfall Kanzleifuehrung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett fuer vollstaendige Richtlinie und zu Compliance-Regelsatz."
 ---
 
 # Executive Summary Bausteine

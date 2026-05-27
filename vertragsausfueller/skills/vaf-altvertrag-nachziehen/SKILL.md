@@ -1,6 +1,6 @@
 ---
 name: vaf-altvertrag-nachziehen
-description: "Übernimmt Daten aus einem alten Vertrag in eine neue Vorlage, erkennt Altlasten, veraltete Klauseln und abweichende Parteien- oder Objektangaben."
+description: "Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Pruefraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung fuer neue Vorlagen und zu Redline-QA."
 ---
 
 # Altvertrag nachziehen

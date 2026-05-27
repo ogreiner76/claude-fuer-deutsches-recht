@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-betriebsratsanhoerung
-description: Anhoerung des Betriebsrats nach § 102 BetrVG vor jeder Kuendigung. Mitteilung Kuendigungsgruende vollstaendig subjektive Determinationstheorie BAG. Stellungnahmefrist eine Woche ordentlich drei Tage ausserordentlich § 102 Abs. 2 BetrVG. Ohne ordnungsgemaesse Anhoerung Unwirksamkeit § 102 Abs. 1 S. 3 BetrVG. Widerspruchsgruende § 102 Abs. 3 BetrVG. Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG. Schreibvorlage Anhoerungsschreiben.
+description: "Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kuendigung. Anwendungsfall Kuendigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgefuehrt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Pruefraster vollstaendige Mitteilung Kuendigungsgruende subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage ausserordentlich Widerspruchsgruende. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kuendigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Anhörung des Betriebsrats (§ 102 BetrVG)

@@ -1,6 +1,6 @@
 ---
 name: vorsatzanfechtung-133-inso
-description: Pruefraster Vorsatzanfechtung § 133 InsO mit aktueller BGH-Linie nach Reform 2017 und Bestaetigungs-Rechtsprechung IX ZR 250/15 IX ZR 65/14 IX ZR 233/19. Tatbestand vorsaetzliche Glaeubiger-Benachteiligung Kenntnis Glaeubiger des Vorsatzes. Anfechtungs-Frist zehn Jahre seit 2017 vier Jahre. Indizien-Beweis Kenntnis bei Bargeschaeft drohende Zahlungs-Unfaehigkeit deklarierter Sanierungs-Bezug. Bargeschaefts-Privileg § 142 InsO unmittelbarer Leistungs-Austausch innerhalb 30 Tage gleichwertige Gegenleistung. Verteidigungs-Linien Sanierungs-Bemuehung Treuhand Sicherheits-Konstellation. Beweislast Insolvenz-Verwalter. Schnittstelle Inkongruenz-Anfechtung § 131 InsO und Kongruenz-Anfechtung § 130 InsO.
+description: "Insolvenzverwalter will Zahlungen nach § 133 InsO anfechten oder Glaeubiger muss Vorsatzanfechtung abwehren. Pruefraster vorsaetzliche Glaeubiger-Benachteiligung Kenntnis Glaeubiger des Benachteiligungsvorsatzes. BGH-Linie nach Reform 2017 IX ZR 250/15 IX ZR 65/14 IX ZR 233/19 Anfechtungsfrist zehn Jahre bis 2017 vier Jahre. Indizien-Beweis drohende Zahlungsunfaehigkeit deklarierter Sanierungs-Bezug. Bargeschaefts-Privileg § 142 InsO unmittelbarer Leistungs-Austausch innerhalb 30 Tage gleichwertige Gegenleistung. Verteidigungslinien Sanierungs-Bemuehung Treuhand Sicherheits-Konstellation Beweislast Insolvenzverwalter. Output Anfechtungs-Pruef-Memo mit Betrag und Verteidigungsstrategie. Abgrenzung: anfechtungsrechte-pruefen fuer Uebersicht aller Anfechtungstatbestaende."
 ---
 
 # Vorsatzanfechtung § 133 InsO
@@ -380,4 +380,4 @@ Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
 ## Kommentarliteratur (Ergaenzung)
 
 - Jaeger/Henckel § 133 InsO Rn. 1 ff. — Vorsatzanfechtung Detailkommentierung.
-- MuenKo InsO/Kirchhof § 133 InsO Rn. 1 ff. — Reform SanInsFoG und neue Anforderungen.
+- MüKo InsO/Kirchhof § 133 InsO Rn. 1 ff. — Reform SanInsFoG und neue Anforderungen.

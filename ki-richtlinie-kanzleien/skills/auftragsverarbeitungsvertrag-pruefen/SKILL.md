@@ -1,6 +1,6 @@
 ---
 name: auftragsverarbeitungsvertrag-pruefen
-description: "Checkliste zur Prüfung von Auftragsverarbeitungsverträgen nach Art. 28 DSGVO bei KI-Chatbot-Anbietern: Subprozessoren, technisch-organisatorische Maßnahmen, Drittlandtransfer, Auditrechte sowie Löschpflichten."
+description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Pruefraster Subprozessoren-Genehmigung, technisch-organisatorische Massnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Loeschpflichten, Training-Opt-out. Output AVV-Pruefprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence."
 ---
 
 # Auftragsverarbeitungsvertrag prüfen

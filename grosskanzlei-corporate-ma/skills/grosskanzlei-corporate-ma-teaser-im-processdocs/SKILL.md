@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-teaser-im-processdocs
-description: "Teaser, IM und Prozessdokumente: Unterstuetzt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation."
+description: "Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser fuer erste Bieterkontakte, Information Memorandum und Process Letter fuer strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Pruefraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation."
 ---
 
 # Teaser, IM und Prozessdokumente

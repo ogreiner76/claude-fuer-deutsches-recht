@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie
-description: "Verteidigung des Hinweisgebers nach Hinweisgeberschutzgesetz (HinSchG vom 31.5.2023 in Kraft 2.7.2023). Beweislastumkehr § 36 HinSchG Verbot der Repressalie § 35 HinSchG. Tatbestaende Kuendigung Versetzung Mobbing Entzug Aufstiegschancen. Anspruch Schadensersatz auch Schmerzensgeld § 37 HinSchG. EU-Whistleblower-RL 2019/1937. Workflow Beweisaufnahme Klageschrift Eilantrag bei Kuendigung."
+description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekuendigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Pruefraster Hinweisgebertatbestand geschuetzte Meldung Repressalie-Kausalitaet Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Anspruechen Eilantrag bei Kuendigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren."
 ---
 
 # HinSchG-Whistleblower-Schutz gegen Repressalie

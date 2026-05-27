@@ -1,6 +1,6 @@
 ---
 name: auswirkungen-marktanteile-marktbeherrschung
-description: Quantifiziert die Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Zeigt wie eine engere oder weitere Definition den Marktanteil veraendert und welche rechtlichen Konsequenzen daraus fuer Untersagung Missbrauchsverfahren oder Zulassungsentscheidung folgen.
+description: "Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB gemeinsame Beherrschung Art. 102 AEUV. Pruefraster Marktanteilsberechnung je Marktdefinition rechtliche Konsequenzen Untersagung Missbrauch Zulassung. Output Sensitivitaets-Tabelle Marktanteil pro Szenario mit Ampelbewertung. Abgrenzung: gesamtbewertung-tragfaehigkeit fuer das Gesamturteil."
 ---
 
 # Auswirkungen auf Marktanteile und Marktbeherrschung

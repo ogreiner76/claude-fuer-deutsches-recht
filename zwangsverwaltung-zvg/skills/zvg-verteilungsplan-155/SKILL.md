@@ -1,6 +1,6 @@
 ---
 name: zvg-verteilungsplan-155
-description: "Verteilungsplan nach § 155 ZVG. Ordnet Nutzungen Ausgaben Kosten Gläubigerzahlungen Vorschuesse Rang und Auszahlung in der Zwangsverwaltung."
+description: "Verteilungsplan nach § 155 ZVG fuer die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung § 10 ZVG Rangklassen § 154 ZVG Kosten Verwalterverguetung. Pruefraster Nutzungen Ausgaben Kosten Glaeubigerzahlungen Vorschuesse Rang Auszahlung Restbetrag. Output Verteilungsplan mit Rangfolge Betraegen Auszahlungsnachweis und Gerichtsbericht. Abgrenzung zu zvg-rechnungslegung (Gesamtabrechnung) und zvg-konten-kassenfuehrung."
 ---
 
 # Verteilungsplan § 155 ZVG

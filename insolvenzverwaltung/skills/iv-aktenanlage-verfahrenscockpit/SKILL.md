@@ -81,6 +81,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Ganter §§ 56-66 InsO — Insolvenzverwalter-Recht.
+- MüKo InsO/Ganter §§ 56-66 InsO — Insolvenzverwalter-Recht.
 - Uhlenbruck/Zipperer §§ 60-61 InsO — Verwalterhaftung im Detail.
 - Jaeger/Gerhardt § 66 InsO — Rechnungslegung und Schlussrechnung.

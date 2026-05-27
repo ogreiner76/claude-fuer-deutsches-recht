@@ -1,6 +1,6 @@
 ---
 name: anschlussflug-und-reiseplan
-description: Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Pruefraster eine Buchung mit einer PNR oder mehrere Buchungen. Codeshare-Sonderfaelle. Bei Verspaetung am Anschlussflughafen die zu Verpassen des Anschlusses fuehrt — Anspruch wird nach Endziel-Verspaetung berechnet. Bei separaten Buchungen je Strecke Einzelanspruch.
+description: "Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Pruefraster eine Buchung mit einer PNR oder mehrere Buchungen. Codeshare-Sonderfaelle. Bei Verspaetung am Anschlussflughafen die zu Verpassen des Anschlusses fuehrt — Anspruch wird nach Endziel-Verspaetung berechnet. Bei separaten Buchungen je Strecke Einzelanspruch."
 ---
 
 # Anschlussflug und Reiseplan

@@ -1,6 +1,6 @@
 ---
 name: vaf-kommandocenter
-description: "Startet den Vertragsausfüller, erkennt Vorlage, Altvertrag, Term Sheet, Datenlücken, Ausgabeformat und fragt vor Track Changes ausdrücklich nach."
+description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Pruefraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Spezial-Skill. Abgrenzung zu Template-Erkennung fuer Vorlage-Analyse und zu Rückfrageninterview."
 ---
 
 # Kommandocenter

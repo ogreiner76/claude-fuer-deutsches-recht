@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-regulatory-fdi-merger-control
-description: "Fusionskontrolle und FDI: Freigabe-Landkarte fuer Kartellrecht GWB/FKVO, AWV-Investitionspruefung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO."
+description: "Fusionskontrolle und FDI-Investitionspruefung fuer M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prueft ob Kartellrechts-Freigabe oder AWV-Pruefung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Pruefung. Pruefraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

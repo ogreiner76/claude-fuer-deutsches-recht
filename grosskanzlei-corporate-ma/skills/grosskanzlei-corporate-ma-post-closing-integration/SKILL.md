@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-post-closing-integration
-description: "Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprueche, Betriebsuebergang, § 613a BGB."
+description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Pruefraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO fuer Pre-Signing-Phasen und zu Signing-Closing-CPs."
 ---
 
 # Post-Closing Integration

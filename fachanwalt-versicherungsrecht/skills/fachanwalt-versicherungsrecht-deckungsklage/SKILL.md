@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-deckungsklage
-description: "Deckungsklage gegen Versicherer auf Leistung. Sachliche Zustaendigkeit nach Streitwert §§ 23 GVG. Oertliche Zustaendigkeit § 215 VVG Wohnsitz Versicherungsnehmer alternativ Sitz Versicherer § 17 ZPO. Klageantrag bei laufender BU Feststellungsantrag oder Leistungsantrag § 256 ZPO. Beweislast wie ausserprozessual. Sachverstaendigenbeweis im BU-Verfahren. PKH § 114 ZPO bei wirtschaftlicher Beduerftigkeit."
+description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser aussergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG oertliche Zustaendigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Pruefraster Streitwert Zustaendigkeit AG oder LG Klageantrag Beweislast Sachverstaendigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverstaendigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-pruefen."
 ---
 
 # Deckungsklage

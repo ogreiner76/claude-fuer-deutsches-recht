@@ -227,5 +227,5 @@ Die Geschäftsführung beschließt:
 ## Kommentarliteratur
 
 - Braun/Herzig, StaRUG § 1 — Pflicht zur Krisenfrueherkennung.
-- MuenKo InsO/Gehrlein, StaRUG § 1 Rn. 1 ff. — Fruehwarnpflichten.
+- MüKo InsO/Gehrlein, StaRUG § 1 Rn. 1 ff. — Fruehwarnpflichten.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 3 — Krisenfrueherkennung in der GmbH-Praxis.

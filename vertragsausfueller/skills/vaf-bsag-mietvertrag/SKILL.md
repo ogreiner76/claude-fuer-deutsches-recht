@@ -1,6 +1,6 @@
 ---
 name: vaf-bsag-mietvertrag
-description: "Spezialworkflow für den BSAG-Kiosk-Mietvertrag: Term Sheet Huckelriede in die Mietvertragsvorlage übertragen, Lücken markieren und Klauselentscheidungen abfragen."
+description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Pruefraster BSAG-Handelsregisterpruefung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung."
 ---
 
 # BSAG-Mietvertrag

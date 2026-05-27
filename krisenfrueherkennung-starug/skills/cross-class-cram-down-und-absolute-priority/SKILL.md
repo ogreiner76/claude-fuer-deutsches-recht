@@ -205,5 +205,5 @@ ERGEBNIS:
 ## Kommentarliteratur
 
 - Braun/Herzig, StaRUG §§ 26-28 — Cramdown und Minderheitenschutz.
-- MuenKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
+- MüKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
 - Uhlenbruck/Lüer §§ 245-246 InsO Rn. 1 ff. — InsO Cramdown.

@@ -1,6 +1,6 @@
 ---
 name: richtlinien-skelett-erzeugen
-description: "Generiert eine 13-Kapitel-Standardgliederung einer KI-Nutzungsrichtlinie analog der Master-Vorlage: Einleitung, Executive Summary, Potenziale, Rechtsbegriff, Fragen, Handlungsempfehlungen, Spezifische Vorgaben, RDG-Exkurs, KI-Kompetenz, KI-VO-Exkurs, Ausblick, Disclaimer, Literatur sowie Prompting-Anlage."
+description: "KI-Nutzungsrichtlinie Skelett fuer Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollstaendige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Pruefraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine fuer Kurzfassung und zu Compliance-Regelsatz."
 ---
 
 # Richtlinien-Skelett erzeugen

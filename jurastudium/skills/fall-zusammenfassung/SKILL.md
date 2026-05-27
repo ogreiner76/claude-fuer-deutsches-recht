@@ -1,6 +1,6 @@
 ---
 name: fall-zusammenfassung
-description: "Fallbearbeitung im deutschen Gutachtenstil (Obersatz – Definition – Subsumtion – Ergebnis). Lade diesen Skill bei Anfragen wie „bearbeite diesen Fall\", „schreibe ein Gutachten\", „löse den Sachverhalt\", „Fallbearbeitung\", „Klausuraufbau\" oder wenn ein Sachverhalt zur Bearbeitung eingegeben wird."
+description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Pruefraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Uebersicht und Loesungshinweisen. Abgrenzung zu Gutachten-Uebung fuer vollstaendige Bearbeitung und zu Loesungsschemata."
 ---
 
 # Fallbearbeitung im Gutachtenstil

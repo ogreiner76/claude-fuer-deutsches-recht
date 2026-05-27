@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-ursprung
-description: "Prüft Zollwert, Incoterms, Hinzurechnungen, Abzüge, Warenursprung, Präferenznachweise, Lieferantenerklärungen und vUA."
+description: "Zollwert Warenursprung Praeferenznachweise und Lieferantenerklarungen im EU-Zollrecht. Anwendungsfall Zoll bestreitet Zollwert oder Praeferenzursprungsnachweis fehlt und Einfuhrabgaben werden nachgefordert. Normen UZK Art. 69-76 Zollwert Art. 59 ff. Ursprung Delegierte VO 2015/2446 Praefrenzursprungsregeln. Pruefraster Zollwert Incoterms Hinzurechnungen Abzuege Warenursprung Praeferenznachweise Lieferantenerklarungen verbindliche Ursprungsauskunft. Output Zollwert-Bewertungsdossier mit Kalkulationsprotokoll Ursprungsnachweis und Praeeferenzerklaerung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Zollwert, Ursprung und Präferenzen

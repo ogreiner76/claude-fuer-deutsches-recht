@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-orientierung
-description: Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin sozialrecht-kanzlei und kanzlei-allgemein.
+description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin sozialrecht-kanzlei und kanzlei-allgemein."
 ---
 
 # Fachanwalt für Medizinrecht — Orientierung

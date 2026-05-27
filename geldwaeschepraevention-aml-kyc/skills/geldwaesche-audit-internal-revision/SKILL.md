@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-audit-internal-revision
-description: "Prüft AML/KYC-Kontrollen, Stichproben, Fallakten, Screeningqualität, Monitoring, Verdachtsmeldungen und Remediation."
+description: "Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Pruefer will AML-Kontrollsystem auf Wirksamkeit pruefen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement FATF-Empfehlungen BaFin-Rundschreiben. Pruefraster AML-Kontrollen Stichproben Fallakten Screeningqualitaet Monitoring Verdachtsmeldungen Remediation. Output Revisionsbericht mit Befunden Massnahmenplan Priorisierung und Abschluss-Freigabe. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp (Aufbau) und geldwaesche-behoerdenverfahren (externe Pruefung)."
 ---
 
 # Audit und interne Revision

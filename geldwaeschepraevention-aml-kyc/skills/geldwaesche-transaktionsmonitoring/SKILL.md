@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsmonitoring
-description: "Erkennt auffällige Transaktionsmuster, Barzahlungen, Split Payments, Offshore-Strukturen, Durchlaufkonten und ungewöhnliche Geschäftslogik."
+description: "Erkennung auffaelliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwaescherisiko pruefen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Pruefraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschaeftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldepruefung. Abgrenzung zu geldwaesche-sanktionsscreening und geldwaesche-verdachtsmeldung-fiu-goaml."
 ---
 
 # Transaktionsmonitoring und Red Flags

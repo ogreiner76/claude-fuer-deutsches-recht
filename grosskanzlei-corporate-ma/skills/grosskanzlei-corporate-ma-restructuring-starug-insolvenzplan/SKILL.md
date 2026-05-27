@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan
-description: "StaRUG und Insolvenzplan: Restrukturierungsfaelle mit Planoptionen, Glaeubigerklass en, Liquiditaetspruefung, Antragspflichten, Distressed M&A, §§ 1-93 StaRUG, §§ 217-269 InsO."
+description: "StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfaehigkeit prueft Restrukturierungsoptionen einschliesslich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. §§ 1-93 StaRUG, §§ 217-269 InsO Insolvenzplan, § 18 InsO drohende Zahlungsunfaehigkeit. Pruefraster Glaeubiger-Klasseneinteilung, Plananforderungen, Abstimmungsquoren, Distressed-M&A-Optionen. Output Restrukturierungs-Optionsvergleich mit Plan-Entwurf und Zeitplan. Abgrenzung zu Distressed-MA und zu Fortbestehensprognose-Plugin."
 ---
 
 # StaRUG und Insolvenzplan

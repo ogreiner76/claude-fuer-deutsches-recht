@@ -1,6 +1,6 @@
 ---
 name: kanzlei-kontext-analyse
-description: "Erfasst Kanzleigröße, Rechtsgebiete, Mandantenstruktur, Syndikus-Inhouse-Kontext, internationale Mandate und bestehende IT-Dienstleister, um den Tailoring-Bedarf der KI-Nutzungsrichtlinie präzise abzuleiten."
+description: "Kanzlei-Kontext erfassen fuer massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten des Mandanten analysiert werden. § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, DSGVO Datenschutzbeauftragter. Pruefraster Kanzleigroesse, Rechtsgebiete mit Hochrisiko-Potential, internationale Mandate, bestehende Tools, Tailoring-Bedarf. Output Kanzlei-Kontext-Profil als Grundlage fuer Richtlinien-Erstellung. Abgrenzung zu Richtlinien-Skelett-Erzeugen und zu Compliance-Regelsatz."
 ---
 
 # Kanzlei-Kontext-Analyse

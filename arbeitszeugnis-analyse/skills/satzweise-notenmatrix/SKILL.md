@@ -1,6 +1,6 @@
 ---
 name: satzweise-notenmatrix
-description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit einer Schulnote von eins bis fuenf und ordnet ihn einem Themenbereich zu. Ausgabe als geschlossene Matrix mit Satzkurzform, Themenbereich, Note, Steigerungsadverb-Befund und Begruendung — Grundlage fuer Drift-Detektor und Gesamtnoten-Aggregation."
+description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmassstab BAG-Linie zur Zeugnissprache. Pruefraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begruendung. Output Geschlossene Notenmatrix als Grundlage fuer Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)."
 ---
 
 # Satzweise Notenmatrix

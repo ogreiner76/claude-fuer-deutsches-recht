@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-anspruch-pruefen
-description: Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklaerungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjaehrung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB.
+description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklaerungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjaehrung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB."
 ---
 
 # Behandlungsfehler-Anspruch prüfen

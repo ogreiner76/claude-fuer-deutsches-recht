@@ -183,7 +183,7 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Kern §§ 270-270d InsO Rn. 1 ff. (Eigenverwaltung und Schutzschirm im Detail).
+- MüKo InsO/Kern §§ 270-270d InsO Rn. 1 ff. (Eigenverwaltung und Schutzschirm im Detail).
 - Uhlenbruck/Zipperer § 270d InsO Rn. 1-35 (Bescheinigung, Sachwalter, Vollstreckungsschutz).
 - K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, 5. Aufl. 2016, S. 1100 ff.
 

@@ -1,6 +1,6 @@
 ---
 name: ausloesendes-ereignis-erfassen
-description: Erfasst den Anlass der Fortbestehensprognose. Typische Ausloeser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftspruefers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschaeftsfuehrers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig fuer spaeteren Nachweis dass der Geschaeftsfuehrer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO).
+description: "Erfasst den Anlass der Fortbestehensprognose. Typische Ausloeser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftspruefers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschaeftsfuehrers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig fuer spaeteren Nachweis dass der Geschaeftsfuehrer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO)."
 ---
 
 # Auslösendes Ereignis erfassen
@@ -117,6 +117,6 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Haarmeyer § 15a InsO Rn. 1-50 — Antragspflicht und ihr Beginndatum.
+- MüKo InsO/Haarmeyer § 15a InsO Rn. 1-50 — Antragspflicht und ihr Beginndatum.
 - Uhlenbruck/Mock § 19 InsO Rn. 1-40 — Ueberschuldung und Pflicht zur Fortbestehensprognose.
 - K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 4 Rn. 4.1 ff. — Krisenstadien und Handlungspflichten.

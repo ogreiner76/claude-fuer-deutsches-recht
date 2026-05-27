@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-rechtsprechungsrecherche
-description: "Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung."
+description: "Corporate und M\&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht fuer Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und 179a AktG, § 15 AktG Verfahren. Pruefraster amtliche Bundes- und Landesquellen, Aktenzeichen-Verifizierung, Randnummern, Fundstellen-Kette, aktuelle BGH-Senats-Rechtsprechung. Output Rechtsprechungs-Digest mit Datum, Aktenzeichen, Leitsatz und Deal-Relevanz. Abgrenzung zu inhaltlicher Vertragsgestaltung in SPA/APA-Entwurf und zu Board-Paper."
 ---
 
 # Corporate-Rechtsprechungsrecherche

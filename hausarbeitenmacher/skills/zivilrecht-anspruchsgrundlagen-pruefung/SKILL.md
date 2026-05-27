@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-anspruchsgrundlagen-pruefung
-description: Zivilrechtliches Schema Anspruchsgrundlagen-Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Pruefungsschemata je Anspruchsgrundlage. Konkurrenzen Lex specialis. Beispiele BGB Schuldrecht Sachenrecht Familienrecht Erbrecht.
+description: "Student prueft zivilrechtliche Ansprueche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Pruefungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Pruefraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchspruefungs-Schema Begruendung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und oeffentliches-recht-statthaft (Verwaltungsrecht)."
 ---
 
 # Zivilrecht — Anspruchsgrundlagen-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-asyl-folgeantrag-71
-description: "Asyl-Folgeantrag § 71 AsylG Voraussetzungen nach erst ablehnung Wiederaufgreifensgruende Aenderung Sachlage neue Beweismittel. Frist 3 Monate nach Kenntnis. Folge-Folgeantrag. Ueberstellungs-Sperre Dublin-III. Workflow Pruefung Antrag Klage."
+description: "Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Pruefraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgruende Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Ueberstellungs-Sperre. Output Folgeantrag-Entwurf mit Begruendung neuer Umstaende und Sperr-Argument fuer Dublin-Ueberstellung. Abgrenzung: asyl-anhoerung-vorbereiten fuer Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr."
 ---
 
 # Asyl-Folgeantrag § 71 AsylG

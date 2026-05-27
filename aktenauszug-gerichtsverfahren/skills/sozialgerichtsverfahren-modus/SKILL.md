@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren-modus
-description: "Modus-Skill fuer SGG-Verfahren: Klage Berufung nach Paragraph 143 ff. SGG und Eilantrag nach Paragraph 86b SGG. Beruecksichtigt Vorverfahren Widerspruchsfrist Klagefrist Besonderheiten des sozialgerichtlichen Amtsermittlungsgrundsatzes und Leistungsarten der Sozialversicherung. BSG-Leitsaetze enthalten."
+description: "Aktenauszug fuer SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Pruefraster SGG-spezifische Fristen Vorverfahrens-Pruefung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG)."
 ---
 
 # Sozialgerichtsverfahren-Modus (SGG)

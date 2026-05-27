@@ -1,6 +1,6 @@
 ---
 name: avv-grenzpruefung-datenschutz
-description: "Schnittstelle zum Datenschutzrecht. Pruefe ob eine Auftragsverarbeitungsvereinbarung nach Art. 28 DSGVO vorliegt und ob die berufsrechtliche Pruefung durch die AVV nicht ersetzt wird. AVV ist eigenstaendige andere Pruefung. Berufsrecht laeuft parallel und ist strenger. Abgrenzungspunkte Stolperfallen und Output-Template fuer Parallelpruefungs-Vermerk."
+description: "Kanzlei nutzt KI-Dienstleister und prueft ob AVV nach Art. 28 DSGVO die berufsrechtliche Pruefung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Pruefraster AVV-Pruefpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelpruefungs-Vermerk Lueckenliste. Abgrenzung zu verschwiegenheitsklausel-pruefen (Verschwiegenheit-Hauptpruefung) und gutachten-erstellen (Gesamtgutachten)."
 ---
 
 # AVV-Grenzprüfung Datenschutz

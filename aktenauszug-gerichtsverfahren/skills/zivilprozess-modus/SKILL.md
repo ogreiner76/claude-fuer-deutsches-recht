@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-modus
-description: "Modus-Skill fuer ZPO-Verfahren: ordentliche Klage muendliche Verhandlung Berufung nach Paragraph 511 ff. ZPO Revision nach Paragraph 542 ff. ZPO und einstweilige Verfuegung nach Paragraph 935 ff. ZPO. Stellt verfahrensspezifische Besonderheiten und Fristen im Aktenauszug heraus. BGH-Leitsaetze ZPO enthalten."
+description: "Aktenauszug fuer ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Pruefraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Zivilprozess-Modus (ZPO)

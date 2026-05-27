@@ -1,6 +1,6 @@
 ---
 name: behutsame-frech-wertschaetzende-rueckfragen
-description: Stil-Anleitung fuer das Plugin selbst. Behutsam unterhaltsam ketzerisch wertschaetzend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Niemals herablassend niemals besserwisserisch. Macht den Dialog leichter ohne den Lerninhalt zu verwaessern. Nur am Rande einsetzen nicht Dauerton.
+description: "Stil-Anleitung fuer den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Pruefraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rueckfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt)."
 ---
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung

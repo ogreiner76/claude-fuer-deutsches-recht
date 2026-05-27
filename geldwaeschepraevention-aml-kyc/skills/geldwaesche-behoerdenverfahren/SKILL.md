@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitet Auskunftsersuchen, Vor-Ort-Prüfung, BaFin-/Landesaufsicht, FIU-Nachfragen, Maßnahmenbescheide und Widerspruch."
+description: "Begleitung von Behoerdenverfahren BaFin-Pruefungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Pruefung angekuendigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bussgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Pruefraster Auskunftsersuchen Vor-Ort-Pruefung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behoerdenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegruendung und Remediation-Nachweis. Abgrenzung zu geldwaesche-audit-internal-revision und geldwaesche-bussgeld-reputation."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren

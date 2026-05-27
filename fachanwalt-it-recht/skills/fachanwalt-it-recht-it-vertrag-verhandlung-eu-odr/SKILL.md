@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr
-description: "IT-Vertragsverhandlung SaaS Cloud Lizenzvertrag mit Schlichtungsklauseln. EU-ODR-Plattform fuer B2C-Streit. CCITT-Schiedsverfahren Cybersecurity-Streit. AI Act Pflicht zur Beschwerdebearbeitung Art. 85. Mediation IT-Projekt-Streit DGRI. Workflow Klausel-Verhandlung Eskalations-Verfahren Streitbeilegung."
+description: "IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Pruefraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
 ---
 
 # IT-Vertrag-Verhandlung / EU-ODR

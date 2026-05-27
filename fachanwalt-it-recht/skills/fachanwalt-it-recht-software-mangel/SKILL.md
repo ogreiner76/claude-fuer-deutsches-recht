@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-software-mangel
-description: "Mangel an Standard- oder Individualsoftware nach Kauf- oder Werkvertragsrecht pruefen. Sach- und Rechtsmaengel § 434 BGB § 435 BGB beim Kauf; Werkmangel § 633 BGB bei Individualsoftware. Nacherfuellungspflicht § 439 BGB bzw. § 635 BGB Fristsetzung Nachfristablauf danach Ruecktritt § 437 Nr. 2 BGB Minderung § 441 BGB oder Schadensersatz § 437 Nr. 3 BGB § 280 BGB. Garantievertragsklauseln pruefen. BGH-Linie zu SaaS und Cloud."
+description: "Pruefung von Softwaremangelanspruechen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Ruecktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjaehrung. Pruefraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Ruecktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
 ---
 
 # Software-Mangel

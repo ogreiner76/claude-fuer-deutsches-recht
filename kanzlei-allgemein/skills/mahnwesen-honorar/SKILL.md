@@ -1,6 +1,6 @@
 ---
 name: mahnwesen-honorar
-description: Mahnwesen fuer eigene Honorarforderungen der Kanzlei. Stufen erste Zahlungserinnerung (vor Verzug) erste Mahnung mit Verzugsbeginn nach § 286 BGB zweite Mahnung mit konkreter Klagedrohung dritte Mahnung als letztes vorprozessuales Schreiben mit Verzugszinsen Mahnkosten und Aufforderung. Bei weiterhin Nichtzahlung Mandatsuebergabe ans Inkasso oder eigene Klage zum AG (sachliche Zustaendigkeit § 23 Nr. 1 GVG 10000 EUR ab 01.01.2026). Vermeidet kanzlei-interne Eskalationsschwaeche.
+description: "Mahnwesen fuer eigene Honorarforderungen der Kanzlei gegenueber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zustaendigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Pruefraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung."
 ---
 
 # Mahnwesen für Kanzleihonorar

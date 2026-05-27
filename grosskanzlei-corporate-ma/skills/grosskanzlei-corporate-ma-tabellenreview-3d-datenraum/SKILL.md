@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-tabellenreview-3d-datenraum
-description: "3D-Tabellenreview im Datenraum: verbindet M&A-Datenraumprüfung mit interner Review-Matrix für Dokumente, Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft."
+description: "3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prueft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren Workstream-Perspektiven. SPA Due Diligence. Pruefraster Spaltenprompts fuer Datenpunkte, Zeilendefinition als Dokumente oder Cluster, Blaetter fuer Legal/Tax/Finance-Perspektive. Output 3D-Review-Matrix mit workstreamspezifischen Befunden und Luecken. Abgrenzung zum freistehenden Tabellenreview-Skill und zu DD-Reporting."
 ---
 
 # 3D-Tabellenreview im Datenraum

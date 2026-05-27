@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-glaeubigerverhandlung-sanierung
-description: "Sanierungs-Verhandlung mit Glaeubigern vor und in der Insolvenz. Schutzschirm § 270d InsO StaRUG-Restrukturierungsplan. Glaeubigerausschuss-Verhandlungen. Mediation in der Sanierung INSOL-Practice. Doppel-Insolvenz-Plan Vergleich. Workflow Eingangs-Korrespondenz Glaeubigerliste Vergleichsangebot Plan-Annahme."
+description: "Sanierungs-Verhandlung mit Glaeubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will aussergerichtlichen Vergleich oder InsO-Plan mit Glaeubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Pruefraster Glaeubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Glaeubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
 ---
 
 # Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
@@ -142,7 +142,7 @@ Bevor losgelegt wird, klaere:
 ## Kommentarliteratur
 
 - Braun/Herzig, StaRUG, 1. Aufl. 2021, Beck — Plan-Mehrheiten und Cramdown §§ 25-27 StaRUG.
-- MuenKo InsO/Kirchhof §§ 129-147 InsO Rn. 1 ff. — Anfechtungsrisiken bei Sanierungsvergleichen.
+- MüKo InsO/Kirchhof §§ 129-147 InsO Rn. 1 ff. — Anfechtungsrisiken bei Sanierungsvergleichen.
 - Uhlenbruck/Sinz § 39 InsO Rn. 50-80 — Sanierungsprivileg Gesellschafterdarlehen.
 
 ## Workflow — 5-Phasen-Glaeubigerverhandlung

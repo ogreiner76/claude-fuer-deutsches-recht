@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-datenraum-aufbau
-description: "Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse."
+description: "Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum fuer Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Pruefraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial."
 ---
 
 # Datenraum-Aufbau

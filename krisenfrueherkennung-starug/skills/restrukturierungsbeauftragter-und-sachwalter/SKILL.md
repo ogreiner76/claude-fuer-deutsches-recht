@@ -209,6 +209,6 @@ Sonstiges:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Kern §§ 270-285 InsO — Eigenverwaltung und Sachwalter.
+- MüKo InsO/Kern §§ 270-285 InsO — Eigenverwaltung und Sachwalter.
 - Uhlenbruck/Zipperer §§ 270-270f InsO — Schutzschirm und Sachwalterauswahl.
 - Braun/Herzig, StaRUG §§ 73-90 — Restrukturierungsbeauftragter.

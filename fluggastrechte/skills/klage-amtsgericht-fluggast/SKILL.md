@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zustaendigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Oertlich wahlweise Abflughafen oder Zielflughafen nach EuGH C-204/08 (Rehder) oder Sitz / Niederlassung der Airline § 13 ZPO. Kein Anwaltszwang vor dem Amtsgericht. Erzeugt Klageschrift Sachverhalt Antrag Begruendung mit Pinpoint EuGH-Rspr. Anlagen Beweismittel Streitwert Kostenantrag.
+description: "Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zustaendigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Oertlich wahlweise Abflughafen oder Zielflughafen nach EuGH C-204/08 (Rehder) oder Sitz / Niederlassung der Airline § 13 ZPO. Kein Anwaltszwang vor dem Amtsgericht. Erzeugt Klageschrift Sachverhalt Antrag Begruendung mit Pinpoint EuGH-Rspr. Anlagen Beweismittel Streitwert Kostenantrag."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)

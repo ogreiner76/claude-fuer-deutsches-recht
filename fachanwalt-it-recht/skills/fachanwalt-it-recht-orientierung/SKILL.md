@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TDDDG (vormals TTDSG) TKG NIS2-Umsetzungsgesetz BSIG n.F. DDG (vormals TMG) DSA Digital Services Act DMA Digital Markets Act EU-KI-VO Verordnung 2024/1689. Open-Source-Compliance. Schnittstelle Plugin datenschutzrecht ki-governance vertragsrecht.
+description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Pruefraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie Standardliteratur und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung

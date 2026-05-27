@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-erechnung-gobd
-description: "Freistehender Billing-, GoBD- und E-Rechnungsworkflow für M&A-Mandate: erzeugt Narratives, Workstream-Abrechnung, XRechnung-XML, ZUGFeRD-Prüfpaket und revisionssicheren Buchungsnachweis."
+description: "Kanzlei braucht GoBD-konforme E-Rechnung fuer M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Pruefraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenpruefung)."
 ---
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)

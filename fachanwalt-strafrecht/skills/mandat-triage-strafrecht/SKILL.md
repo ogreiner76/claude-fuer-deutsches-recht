@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-strafrecht
-description: Strukturierte Eingangs-Abfrage fuer Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftbeschwerde § 117 StPO Haftpruefung § 117 § 118 StPO Akteneinsicht § 147 StPO. Eskalation Telefon-Sofort bei Untersuchungshaft binnen 24 Stunden. Routing zu akteneinsicht-strafrecht-auswerten.
+description: "Strukturierte Eingangs-Abfrage fuer Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftbeschwerde § 117 StPO Haftpruefung § 117 § 118 StPO Akteneinsicht § 147 StPO. Eskalation Telefon-Sofort bei Untersuchungshaft binnen 24 Stunden. Routing zu akteneinsicht-strafrecht-auswerten."
 ---
 
 # Mandat-Triage Strafrecht

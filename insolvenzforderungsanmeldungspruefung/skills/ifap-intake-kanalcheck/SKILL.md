@@ -1,6 +1,6 @@
 ---
 name: ifap-intake-kanalcheck
-description: "Erfasst Forderungsanmeldungen aus Post, E-Mail, Portal, Tabellenexport und Nachtrag mit Eingangsbuch, Metadaten und Dublettenverdacht."
+description: "Eingehende Forderungsanmeldungen kanalübergreifend erfassen: Anwendungsfall Insolvenzverwalter-Büro erhält Anmeldungen per Post E-Mail Portal Tabellenexport oder Nachtrag und muss einheitliches Eingangsbuch führen. § 174 InsO Forderungsanmeldung, § 177 InsO Nachtragsanmeldung. Pruefraster Kanal-Identifikation, Metadaten-Erfassung, Eingangs-Zeitstempel, Dubletten-Vorabcheck, Prioritaet bei Fristnaehe. Output strukturiertes Eingangsbuch mit Kanal, Datum, Glaeubiger und Status. Abgrenzung zu Aktenanlage-Batchregister fuer Massenerfassung und zu Formalprüfung."
 ---
 
 # Intake und Kanalcheck
@@ -65,6 +65,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

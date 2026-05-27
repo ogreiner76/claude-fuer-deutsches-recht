@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-schreibcanvas
-description: "Freistehender Corporate-Schreibcanvas: begleitet SPA, Replik, Board Paper, Mandatsvereinbarung, DD-Report und Registertext mit freundlichen substanz- und belegorientierten Hinweisen."
+description: "Freistehender Corporate-Schreibcanvas fuer SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Pruefraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel fuer Ausgabeformat und zu Vertragsmarkup-Key-Issues."
 ---
 
 # Freistehender Corporate-Schreibcanvas

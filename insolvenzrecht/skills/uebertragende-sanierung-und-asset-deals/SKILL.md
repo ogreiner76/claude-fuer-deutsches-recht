@@ -1,6 +1,6 @@
 ---
 name: uebertragende-sanierung-und-asset-deals
-description: "Uebertragende Sanierung und Asset Deals: Verkauf des Geschaeftsbetriebs durch Insolvenzverwalter im Regelverfahren mit Zustimmung Glaeubigerausschuss § 160 InsO oder ueber Insolvenzplan § 254a InsO. Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingt. Mit Mustertexten."
+description: "Insolvenzverwalter will Geschaeftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Pruefung des Asset-Deals. Pruefraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Glaeubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO fuer gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Glaeubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt fuer Insolvenzplan-Erstellung (anderes Plugin)."
 ---
 
 # Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans

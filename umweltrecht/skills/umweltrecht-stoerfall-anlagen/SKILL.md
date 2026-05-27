@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-stoerfall-anlagen
-description: Prueft Stoerfallrelevanz, Betreiberpflichten, Sicherheitsdokumentation, DEHSt-Anordnungen und Compliance-Luecken nach BImSchG Stoerfallverordnung 12. BImSchV Seveso-III. Sicherheitsabstaende Bauleitplanung. Stoerfallanzeige Behoerde. Workflow Sicherheitsbericht Anlagenpflichtenmatrix Anordnung abwehren.
+description: "Anlagenbetreiber prueft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Pruefraster Stoerfallrelevanz-Pruefung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bussgeld-sanktionen (Bussgelder)."
 ---
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten

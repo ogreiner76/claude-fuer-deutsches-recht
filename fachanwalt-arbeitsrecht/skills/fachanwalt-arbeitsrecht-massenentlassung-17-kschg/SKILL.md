@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-massenentlassung-17-kschg
-description: "Massenentlassung Anzeige § 17 KSchG Schwellenwerte 5/25/30 Beschaeftigte. Konsultation Betriebsrat zwei Wochen. Anzeige Bundesagentur fuer Arbeit vor Kuendigungsausspruch zwingend EuGH C-188/03. Anzeigepflicht-Verletzung Unwirksamkeit aller Kuendigungen. Sozialplan Interessenausgleich §§ 112 112a BetrVG. Nachteilsausgleich § 113 BetrVG. Paragrafenkette mit Fristen. Klageschrift-Bausteine AN-Strategie AG-Strategie Workflow-Phasen."
+description: "Massenentlassung mit Anzeigepflicht nach § 17 KSchG und Konsultationspflicht des Betriebsrats. Anwendungsfall Unternehmen plant Stellenabbau mit Schwellenwerten 5/25/30 Beschaeftigte. Normen § 17 KSchG Anzeige Bundesagentur fuer Arbeit § 17 Abs. 2 KSchG Konsultation BR zwei Wochen §§ 112 112a BetrVG Interessenausgleich Sozialplan EuGH C-188/03. Pruefraster Schwellenwerte Konsultationsfrist Anzeige-Timing Fehlerfolge Unwirksamkeit Interessenausgleich Nachteilsausgleich § 113 BetrVG. Output Paragrafenkette mit Fristen Klageschrift-Bausteine AN-Strategie AG-Strategie und Workflow-Phasen. Abgrenzung zu fachanwalt-arbeitsrecht-betriebsratsanhoerung und fachanwalt-arbeitsrecht-kuendigungsschutzklage."
 ---
 
 # Massenentlassung § 17 KSchG

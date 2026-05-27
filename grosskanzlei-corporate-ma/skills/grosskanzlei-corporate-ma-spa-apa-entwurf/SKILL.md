@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-spa-apa-entwurf
-description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe fuer Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out."
+description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag fuer Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Pruefraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollstaendiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs."
 ---
 
 # SPA/APA-Entwurf

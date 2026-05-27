@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-krypto-verwertung
-description: "Krypto-Assets in der Insolvenz: Massezugehörigkeit § 35 InsO (BFH IX R 3/22), Aussonderungsrechte § 47 InsO bei Custodial-Exchanges (Treuhand vs. Darlehen), Mitwirkungspflicht § 97 InsO, Erzwingungshaft § 98. Forensische Wallet-Rekonstruktion, Bewertung Eröffnungsstichtag, Verwertungsstrategien, BMF-Schreiben 22.11.2024."
+description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung und Verwertungsstrategien. Anwendungsfall Insolvenzschuldner hat Krypto-Vermoegen und Insolvenzverwalter oder Glaeubiger muss Zugriff klaeren. Normen § 35 InsO Massezugehoerigkeit § 47 InsO Aussonderungsrecht § 97 InsO Auskunftspflicht § 98 InsO Erzwingungshaft BMF-Schreiben 22.11.2024 BFH IX R 3/22. Pruefraster Custodial vs. Non-Custodial Exchange Treuhand vs. Darlehen forensische Wallet-Rekonstruktion Bewertung Eroeffnungsstichtag Verwertungsstrategie. Output Krypto-Insolvenz-Pruefprotokoll mit Massezugehoerigkeitsanalyse Verwertungsplan und Behoedenkoordinierung. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung und fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -220,6 +220,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Peters § 35 InsO Rn. 50 ff. — Massezugehoerigkeit digitaler Vermoegenswerte.
-- MuenKo InsO/Henckel §§ 47-48 InsO Rn. 1 ff. — Aussonderungsrechte und Treuhand bei Custodial-Exchanges.
+- MüKo InsO/Peters § 35 InsO Rn. 50 ff. — Massezugehoerigkeit digitaler Vermoegenswerte.
+- MüKo InsO/Henckel §§ 47-48 InsO Rn. 1 ff. — Aussonderungsrechte und Treuhand bei Custodial-Exchanges.
 - Uhlenbruck/Foerster §§ 97-98 InsO Rn. 1 ff. — Auskunfts- und Mitwirkungspflicht bei digitalen Assets.

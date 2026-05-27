@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-orientierung
-description: Orientierung im Insolvenz- und Sanierungsrecht und Fachanwaltschaft nach FAO § 14. InsO Eroeffnungsgruende Zahlungsunfaehigkeit § 17 drohende Zahlungsunfaehigkeit § 18 Ueberschuldung § 19. Antragspflicht § 15a InsO. Eigenverwaltung § 270. Schutzschirmverfahren § 270d. StaRUG Praevention. EuInsVO. Insolvenzanfechtung §§ 129 ff. Standardliteratur MueKoInsO Uhlenbruck K. Schmidt.
+description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltspruefung vor. Normen §§ 17-19 InsO Eroeffnungsgruende § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Pruefraster Eroeffnungsgruende Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen Standardliteratur. Output Rechtsgebietsuebersicht mit Normenkarte Standardliteratur und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
 ---
 
 # Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
@@ -96,7 +96,7 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur (Primaerquellen Insolvenzrecht)
 
-- MuenKo InsO (Muenchener Kommentar zur Insolvenzordnung), 4. Aufl. 2019 ff., Beck — massgeblich zu §§ 17-19 InsO, §§ 129 ff. InsO, §§ 217 ff. InsO.
+- MüKo InsO (Muenchener Kommentar zur Insolvenzordnung), 4. Aufl. 2019 ff., Beck — massgeblich zu §§ 17-19 InsO, §§ 129 ff. InsO, §§ 217 ff. InsO.
 - Uhlenbruck, InsO, 15. Aufl. 2019, Vahlen — praxisnah, Standardkommentar fuer Anfechtung und Eigenverwaltung.
 - K. Schmidt/Uhlenbruck, Die GmbH in Krise, Sanierung und Insolvenz, 5. Aufl. 2016, Otto Schmidt — unverzichtbar fuer Geschaeftsfuehrerhaftung und GmbH-Insolvenz.
 - Jaeger, InsO, De Gruyter — wissenschaftlicher Grosskommentar zu Anfechtungsrecht.

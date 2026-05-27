@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht
-description: BAG 03.06.2025 9 AZR 104/24 kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhaeltnis. Auch nicht durch gerichtlichen Vergleich. Auch nicht wenn Beendigung feststeht und Urlaub wegen Krankheit nicht in natura genommen werden kann. Ausgleichs- Erledigungs- Abgeltungsklauseln in Aufhebungsvertraegen und Prozessvergleichen muessen sauber trennen zwischen gesetzlichem Mindesturlaub vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung. § 13 Abs. 1 BUrlG § 7 Abs. 4 BUrlG Verjaehrung § 195 BGB.
+description: "BAG 03.06.2025 9 AZR 104/24 kein Verzicht auf gesetzlichen Mindesturlaub auch in Vergleich oder Aufhebungsvertrag. Anwendungsfall Trennungsvereinbarung oder Vergleich soll alle Ansprueche einschliesslich Urlaub abgelten. Normen § 13 Abs. 1 BUrlG § 7 Abs. 4 BUrlG Urlaubsabgeltung § 195 BGB Verjaehrung. Pruefraster Trennung gesetzlicher Mindesturlaub vertraglicher Mehrurlaub bereits entstandene Urlaubsabgeltung Formulierung Erledigungsklausel. Output Aufhebungsvertrags-Klausel mit sauberer Urlaubstrennung und Erledigungsformulierung. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
 ---
 
 # BAG 03.06.2025 — Kein Verzicht auf gesetzlichen Mindesturlaub (9 AZR 104/24)

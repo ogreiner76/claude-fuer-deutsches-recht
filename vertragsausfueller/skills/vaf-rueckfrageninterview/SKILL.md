@@ -1,6 +1,6 @@
 ---
 name: vaf-rueckfrageninterview
-description: "Führt ein verzeihendes Rückfrageninterview für fehlende Vertragsdaten und bietet schnelle Freitext-, Tabellen- oder Ja-Nein-Erfassung an."
+description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Pruefraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar fuer Vorbereitung und zu Kommandocenter."
 ---
 
 # Rückfrageninterview

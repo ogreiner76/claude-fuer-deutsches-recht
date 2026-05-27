@@ -1,6 +1,6 @@
 ---
 name: ticket-und-fluginformationen-erfassen
-description: Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse Passagiernamen ausfuehrendes Luftfahrtunternehmen (Operating Carrier) vermarktendes (Code-Share). Ergaenzt manuell die Ist-Zeiten (taktsaechliche Abflug- und Ankunftszeit) und das Stoerungsereignis (Annullierung Verspaetung Nichtbefoerderung Umbuchung). Erzeugt Fallakte.
+description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse Passagiernamen ausfuehrendes Luftfahrtunternehmen (Operating Carrier) vermarktendes (Code-Share). Ergaenzt manuell die Ist-Zeiten (taktsaechliche Abflug- und Ankunftszeit) und das Stoerungsereignis (Annullierung Verspaetung Nichtbefoerderung Umbuchung). Erzeugt Fallakte."
 ---
 
 # Ticket- und Fluginformationen erfassen

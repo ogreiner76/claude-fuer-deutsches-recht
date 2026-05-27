@@ -1,6 +1,6 @@
 ---
 name: anfechtungsrechte-pruefen
-description: Pruefraster fuer Insolvenzanfechtungs-Rechte §§ 129 ff. InsO. Strukturierte Pruefung der einzelnen Anfechtungstatbestaende kongruente Deckung § 130 inkongruente Deckung § 131 unmittelbar nachteilige Rechtshandlung § 132 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen-Rueckgewaehr § 135. Pruefung Anfechtungs-Frist drei Monate / zehn Jahre Ausschluss bei Bargeschaeft § 142 InsO Mantelmindergebote. Berechnet Anfechtungs-Ansprueche gegen Anfechtungs-Gegner Folge-Beweislast bei Insolvenzverwalter Folge Hin- und Herwirkung Forderungsanmeldung.
+description: "Insolvenzverwalter klagt auf Rueckgewaehr einer Zahlung vor Insolvenz oder Glaeubiger muss Insolvenzanfechtung abwehren. Pruefraster §§ 129 ff. InsO kongruente Deckung § 130 inkongruente Deckung § 131 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen § 135. Anfechtungsfrist drei Monate bis zehn Jahre Bargeschaefts-Privileg § 142 InsO. Berechnung Anfechtungsansprueche Beweislast Hin- und Herwirkung Forderungsanmeldung. Output Anfechtungs-Pruef-Memo mit Tatbestands-Checkliste Betrag und Verteidigungslinien. Abgrenzung: vorsatzanfechtung-133-inso fuer vertiefte § 133-Pruefung."
 ---
 
 # Insolvenzanfechtungsrechte prüfen

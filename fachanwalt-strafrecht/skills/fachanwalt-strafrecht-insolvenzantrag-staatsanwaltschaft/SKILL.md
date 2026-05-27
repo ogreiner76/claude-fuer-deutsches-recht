@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft
-description: "Insolvenzantrag der Staatsanwaltschaft oder Finanzbehoerde gegen Angeklagte gemaess § 14 InsO: Zusammenspiel mit Vermoegensabschoepfung gemaess §§ 73 ff. StGB und §§ 111b bis 111p StPO Beschlagnahme, Doppelgleisigkeit Strafverfahren und Insolvenzverfahren, Anhoerung und Beschwerde, Schutz der Verteidigungsfaehigkeit, Verteidigungslinien und Koordinierung mit Insolvenzverwaltung."
+description: "Insolvenzantrag-Massnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermoegenswerte beschlagnahmt und Verteidiger muss reagieren. § 283 StGB Bankrott, § 15a InsO Antragspflicht, §§ 111b ff. StPO Beschlagnahme. Pruefraster Insolvenzantrag-Berechtigung prüfen, Beschlagnahme anfechten, Insolvenzantragspflichtverletzung als Strafbarkeitsrisiko einordnen. Output Verteidigungs-Strategie-Memo mit Massnahmenliste gegen Staatsanwaltschafts-Insolvenzantrag. Abgrenzung zu Distressed-MA und zu Wirtschaftsstrafrecht."
 ---
 
 # Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n

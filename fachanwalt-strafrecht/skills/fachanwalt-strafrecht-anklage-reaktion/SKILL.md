@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-anklage-reaktion
-description: "Anklage-Erhebung § 199 StPO Eroeffnungs-Verfahren Pruefung hinreichender Tatverdacht. Antrag auf Einstellung § 153 153a StPO bei Geringfuegigkeit. Beweis-Antraege § 244 StPO. Workflow Stellungnahme Vorbereitung Hauptverhandlung."
+description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Pruefraster Anklage auf Vollstaendigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
 ---
 
 # Anklage-Reaktion

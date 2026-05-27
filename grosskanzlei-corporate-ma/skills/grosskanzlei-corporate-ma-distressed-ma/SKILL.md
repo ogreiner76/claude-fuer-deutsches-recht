@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-distressed-ma
-description: "Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG."
+description: "Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prueft Erwerb notleidender Vermoegenswerte. §§ 17-19 InsO Insolvenztatbestaende, § 1 StaRUG Sanierung, §§ 433 ff. BGB Share/Asset Deal. Pruefraster Insolvenzreife-Pruefung, Antragspflicht, Deal-Strukturoptionen Asset Deal vs. Share Deal, MAC-Klausel-Risiko, W&I-Versicherungsausschluesse. Output Distressed-MA-Memo mit Strukturempfehlung, Risikoampel und naechsten Schritten. Abgrenzung zu StaRUG-Insolvenzplan und zu Post-Closing-Integration."
 ---
 
 # Distressed M&A

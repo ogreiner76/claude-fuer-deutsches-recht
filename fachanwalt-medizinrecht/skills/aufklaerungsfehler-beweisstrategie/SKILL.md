@@ -1,6 +1,6 @@
 ---
 name: aufklaerungsfehler-beweisstrategie
-description: Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB. Beweislast fuer ordnungsgemaesse Aufklaerung beim Arzt § 630h Abs. 2 BGB. Inhalts-Anforderungen Risiken Folgen Alternativen Diagnose Prognose wirtschaftliche Aufklaerung § 630c Abs. 3 BGB. Zeitpunkt rechtzeitig Patient soll frei entscheiden koennen. Form muendlich plus schriftliche Unterlagen. Hypothetische Einwilligung als Verteidigung. Substantiierter Entscheidungskonflikt. BGH VI ZR 320/00 VI ZR 87/15 Aufklaerungs-Pflichten-Linie.
+description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB. Beweislast fuer ordnungsgemaesse Aufklaerung beim Arzt § 630h Abs. 2 BGB. Inhalts-Anforderungen Risiken Folgen Alternativen Diagnose Prognose wirtschaftliche Aufklaerung § 630c Abs. 3 BGB. Zeitpunkt rechtzeitig Patient soll frei entscheiden koennen. Form muendlich plus schriftliche Unterlagen. Hypothetische Einwilligung als Verteidigung. Substantiierter Entscheidungskonflikt. BGH VI ZR 320/00 VI ZR 87/15 Aufklaerungs-Pflichten-Linie."
 ---
 
 # Aufklärungsfehler — Beweisstrategie

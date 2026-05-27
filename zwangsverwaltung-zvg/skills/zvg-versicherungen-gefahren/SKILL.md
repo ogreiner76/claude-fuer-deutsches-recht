@@ -1,6 +1,6 @@
 ---
 name: zvg-versicherungen-gefahren
-description: "Versicherungen und Gefahren in der Zwangsverwaltung. Prüft Gebäudeversicherung Haftpflicht Beitragsrückstände Schadenmeldung Deckung und Sicherung."
+description: "Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Pruefraster Gebaeudeversicherung Haftpflicht Beitragsrueckstaende Schadenmeldung Deckungspruefung Notmassnahmen Sicherung. Output Versicherungspruefbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenfuehrung."
 ---
 
 # Versicherungen und Gefahren

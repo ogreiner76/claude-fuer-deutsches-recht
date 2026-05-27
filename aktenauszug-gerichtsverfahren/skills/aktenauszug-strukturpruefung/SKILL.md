@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-strukturpruefung
-description: "Prueft die Vollstaendigkeit eines Aktenauszugs auf Verfahrensidentifikation Einleitung Zusammenfassung Sachverhaltschronologie Verfahrensgeschichte Parteivortrag-Tabelle Beweismittel-Tabelle und Rechtsargumente-Tabelle. Prueft ob Fristen hervorgehoben und Sprache neutral sind. Normen §§ 128-134 253 ZPO."
+description: "Fertig erstellten Aktenauszug auf Vollstaendigkeit pruefen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Pruefraster Bausteine-Vollstaendigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Pruefergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetspruefung (Wertungs-Check)."
 ---
 
 # Aktenauszug — Strukturprüfung

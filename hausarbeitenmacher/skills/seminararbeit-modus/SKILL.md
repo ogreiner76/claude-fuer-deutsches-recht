@@ -1,6 +1,6 @@
 ---
 name: seminararbeit-modus
-description: Spezifika fuer Seminararbeiten im Unterschied zur Hausarbeit. Persoenliche Lekture durch Lehrkraft hoehere wissenschaftliche Eigenstaendigkeit Vortragspflicht. Themenwahl Forschungsfrage Literaturschau eigene These Disputation. Laenge Tiefe Methode. Adressaten-Orientierung mit Argumenten nicht mit Schleim.
+description: "Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenstaendigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Pruefraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit)."
 ---
 
 # Seminararbeit-Modus

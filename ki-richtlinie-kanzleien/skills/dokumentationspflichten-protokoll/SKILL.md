@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflichten-protokoll
-description: "Beweissichere Protokollierung von KI-Inputs und KI-Outputs in Kanzleien: Pruefprotokoll, Versionsstand, Pruefer und Freigabe sowie Aufbewahrungsfristen für die Compliance-Dokumentation."
+description: "Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren fuer Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Pruefraster Pruefprotokoll-Standard, Versionsstand, Pruefer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage fuer KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus."
 ---
 
 # Dokumentationspflichten Protokoll

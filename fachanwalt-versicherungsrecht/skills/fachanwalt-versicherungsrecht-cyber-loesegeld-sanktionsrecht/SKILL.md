@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht
-description: "Cyber-Versicherung bei Ransomware mit Sanktions-Risiko OFAC EU-VO 833/2014 VO 269/2014 Russland-Sanktionen. Deckungs-Abwehr Versicherer bei Loesegeld-Zahlung. § 261 StGB Geldwaesche. OFAC-Advisory Anti-Money-Laundering. BaFin-Aufsicht. § 16 OWiG Sanktionsbruch. Workflow Schadensanalyse Sanktions-Pruefung Versicherungsanspruch."
+description: "Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwaescherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prueft Loesegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwaesche AWG § 34 Aussenwirtschaftsstrafrecht. Pruefraster Deckungsschutz Versicherer Loesegeldzahlung Sanktionspruefung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionspruefung Deckungsanalyse und Handlungsempfehlung fuer oder gegen Loesegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko

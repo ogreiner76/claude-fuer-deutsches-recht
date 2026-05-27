@@ -1,6 +1,6 @@
 ---
 name: zvg-bieterangebot-bewertung
-description: "Bewertet Zwangsversteigerungsobjekte und Bieterangebote aus Investorensicht: Verkehrswert, geringstes Gebot, Sicherheitsleistung, bestehenbleibende Rechte, Mietlage, Sanierungsrisiko und Bietlimit."
+description: "Bewertet Zwangsversteigerungsobjekte aus Investorensicht fuer Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Pruefraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle."
 ---
 
 # Bieterangebot Bewerten

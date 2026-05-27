@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Erstellt eine risikobasierte AML/CFT-Risikoanalyse mit Produkten, Kunden, Ländern, Vertriebskanälen, Transaktionen und Kontrollen."
+description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG fuer Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Pruefraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan fuer Behoerdenvorlage. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp und geldwaesche-audit-internal-revision."
 ---
 
 # Unternehmensweite Risikoanalyse

@@ -1,6 +1,6 @@
 ---
 name: ifap-tabellenauszug-178
-description: "Erstellt Ausgaben zu Tabellenfeststellung und Tabellenauszug nach § 178 InsO mit Wirkung, Widerspruch und Kommunikationslogik."
+description: "Tabellenauszug und Feststellungswirkung nach § 178 InsO: Anwendungsfall Forderung ist festgestellt und Glaeubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. § 178 InsO Feststellungswirkung, § 201 InsO Nachhaftung. Pruefraster Feststellungsstatus, Schuldnerwiderspruch abgrenzen, vollstreckbarer Auszug bei Schuldner-ohne-Widerspruch. Output Tabellenauszug mit Feststellungsprotokoll und Vollstreckungshinweis. Abgrenzung zu Pruefentscheidung und zu Streitige-Forderung."
 ---
 
 # Tabellenauszug und Feststellungswirkung
@@ -73,6 +73,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

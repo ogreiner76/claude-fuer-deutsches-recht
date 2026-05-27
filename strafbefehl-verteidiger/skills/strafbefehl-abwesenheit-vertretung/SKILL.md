@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-abwesenheit-vertretung
-description: "Abwesenheit des Angeklagten in der Hauptverhandlung nach § 411 Abs. 2 StPO. Entbindung von Erscheinungspflicht. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben. Vertretung durch Verteidiger. Wiedereinsetzung nach Verwerfung."
+description: "Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Pruefraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel fuer Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung fuer allgemeine HV-Vorbereitung."
 ---
 
 # Abwesenheit in der Hauptverhandlung — § 411 Abs. 2 StPO

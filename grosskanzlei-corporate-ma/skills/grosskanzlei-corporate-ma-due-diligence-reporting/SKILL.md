@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-due-diligence-reporting
-description: "DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping."
+description: "Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht fuer Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Pruefraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial fuer Einzelanalysen."
 ---
 
 # DD Reporting und Legal Fact Book

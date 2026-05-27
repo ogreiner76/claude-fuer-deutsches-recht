@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-liquiditaetsvorschau
-description: "Freistehende Liquiditätsvorschau für Corporate/M&A und Distressed M&A: prüft 3-Wochen-Liquidität, 13-Wochen-Cash-Bridge, Runway, OPOS, Bankdaten und Insolvenzschwellen intern."
+description: "Freistehende Liquiditaetsvorschau fuer Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfaehigkeits-Uebersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfaehigkeit, § 19 InsO Ueberschuldung, § 1 StaRUG Sanierung. Pruefraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill fuer Antragspflicht-Pruefung und zu Fortbestehensprognose-Plugin."
 ---
 
 # Freistehende Liquiditätsvorschau

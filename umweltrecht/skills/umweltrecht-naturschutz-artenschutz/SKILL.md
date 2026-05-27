@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-naturschutz-artenschutz
-description: Prueft Eingriffe, FFH-Vertraeglichkeit, Artenschutz §§ 44 45 BNatSchG, Kompensationspflichten, Anhoerung Umweltverbande und gerichtliche Risiken. FFH-Richtlinie 92/43/EWG, Vogelschutz-RL 2009/147/EG, BNatSchG §§ 14-19 34-36 44-45. Verbandsklage UmwRG. Workflow Eingriffs-Ausgleichs-Regelung saP-Gutachten OVG Rechtsprechung.
+description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Pruefraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Pruefung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage)."
 ---
 
 # Naturschutz und Artenschutz

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-ubo-wirtschaftlich-berechtigte
-description: "Ermittelt wirtschaftlich Berechtigte, Kontrollketten, Trust-/Stiftungsstrukturen, Nominees und Transparenzregisterdaten."
+description: "Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstrukturen nach GwG. Anwendungsfall neue Geschaeftsbeziehung mit Unternehmen und wirtschaftlich Berechtigte muessen identifiziert werden. Normen § 3 GwG wirtschaftlich Berechtigter § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister. Pruefraster Eigentumsanteile ab 25 Prozent Kontrollketten Trust-Strukturen Stiftungen Nominees Transparenzregisterdaten. Output UBO-Struktur-Diagramm mit Eigentumsanteilen Kontrollrechten und KYC-Dokumentation fuer Akte. Abgrenzung zu geldwaesche-transparenzregister und geldwaesche-pep-hochrisikoland."
 ---
 
 # Wirtschaftlich Berechtigte und UBO

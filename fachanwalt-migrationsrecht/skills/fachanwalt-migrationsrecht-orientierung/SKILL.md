@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-orientierung
-description: Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. AufenthG (Aufenthaltsgesetz) AsylG (Asylgesetz) GFK Genfer Fluechtlingskonvention 1951 EU-Dublin-VO Verfahrens-RL Qualifikationsrichtlinie 2011/95 StAG (Staatsangehoerigkeitsgesetz Einbuergerung) Familiennachzug humanitaere Aufnahme. Notfristen § 36 AsylG (eine Woche). Schnittstelle rechtsberatungsstelle.
+description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate Standardliteratur. Output Orientierungs-Uebersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht fuer konkreten Mandats-Einstieg."
 ---
 
 # Fachanwalt für Migrationsrecht — Orientierung

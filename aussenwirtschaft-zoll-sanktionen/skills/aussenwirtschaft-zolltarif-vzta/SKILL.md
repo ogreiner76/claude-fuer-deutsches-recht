@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zolltarif-vzta
-description: "Prüft Wareneinreihung, TARIC-Maßnahmen, Zusatzcodes, Dokumentencodes und verbindliche Zolltarifauskunft."
+description: "Wareneinreihung TARIC-Massnahmen und verbindliche Zolltarifauskunft VzTA. Anwendungsfall Unternehmen will CN-Code fuer Ware bestimmen oder VzTA-Antrag stellen. Normen UZK Art. 33-37 VzTA Kombinierte Nomenklatur VO 2658/87 Vorabentscheidungsverfahren EuGH. Pruefraster Wareneinreihung Auslegungsregeln TARIC-Massnahmen Zusatzcodes Dokumentencodes VzTA-Antrag. Output Einreihungsdossier mit CN-Code Begruendungskette TARIC-Massnahmen und VzTA-Antragsunterlagen. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Zolltarif, TARIC und vZTA

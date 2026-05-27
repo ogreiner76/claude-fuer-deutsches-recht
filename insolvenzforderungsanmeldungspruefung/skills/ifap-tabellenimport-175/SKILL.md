@@ -1,6 +1,6 @@
 ---
 name: ifap-tabellenimport-175
-description: "Erstellt Tabellenimport und Tabellenarbeitsstand nach § 175 InsO mit Grund, Betrag, Rang, vbuH, Widerspruch und Prüfstatus."
+description: "Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Pruefungstermin, Inso-Table-Standard. Pruefraster Glaeubiger Anspruchsgrund Betrag Rang vbuH Widerspruch Pruefstatus vollstaendig. Output tabellenfähige Ausgabe mit Import-Format und Pruefprotokoll. Abgrenzung zu Pruefentscheidung und zu Tabellenauszug-178."
 ---
 
 # Tabellenimport nach § 175 InsO
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung
-description: "Insolvenzanfechtung nach §§ 129 ff. InsO: Tatbestände (§§ 130–135 InsO), Bargeschäft-Ausnahme § 142 InsO, Rückgewähranspruch § 143 InsO, Verjährung § 146 InsO. Verteidigung von Gläubigern, Anfechtungsstrategie des Verwalters, Fristen, BGH-Rechtsprechung IX ZR 72/20, IX ZR 254/20, IX ZR 3/12. SanInsFoG-Reform 2017: § 133 Abs. 2 Frist 4 Jahre."
+description: "Insolvenzanfechtung nach §§ 129 ff. InsO Tatbestaende Bargeschaeft und Glaeubigerverteidigung. Anwendungsfall Insolvenzverwalter macht Anfechtungsanspruch geltend oder Glaeubiger will sich gegen Rueckforderung verteidigen. Normen §§ 130-135 InsO § 142 InsO Bargeschaeft § 143 InsO Rueckgewaehr § 146 InsO Verjaehrung SanInsFoG § 133 Abs. 2 vier Jahre. Pruefraster Tatbestaende § 133 Vorsatz § 130 kongruente Deckung § 142 Bargeschaeft Glaeubigerverteidigung BGH IX ZR 72/20 IX ZR 254/20 IX ZR 3/12. Output Anfechtungs- oder Abwehrschriftsatz mit Tatbestandspruefung und BGH-Rechtsprechungsnachweis. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter (Verwalter-Perspektive) und fachanwalt-insolvenz-glaeubigerverhandlung-sanierung."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -221,5 +221,5 @@ Bevor losgelegt wird, klaere:
 ## Kommentarliteratur
 
 - Jaeger/Henckel, InsO, §§ 129-147 InsO (De Gruyter) — Standardwerk Anfechtungsrecht.
-- MuenKo InsO/Kirchhof §§ 129-147 InsO — BGH-nahe Kommentierung, laufend aktualisiert.
+- MüKo InsO/Kirchhof §§ 129-147 InsO — BGH-nahe Kommentierung, laufend aktualisiert.
 - Uhlenbruck/Borries/Hirte §§ 129-147 InsO Rn. 1 ff. — praxisnahe Darstellung Bargeschaeft und § 133 InsO-Reform.

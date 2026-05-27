@@ -1,6 +1,6 @@
 ---
 name: professor-erkennen-und-strategie
-description: Fangfrage zu Beginn welcher Professor welche Professorin die Hausarbeit gestellt hat. Kurze Recherche zur Lehrmeinung. Komplizenhafte Frage ob nach dem Munde reden oder mit guten Argumenten ueberzeugen auch bei Widerspruch. Default ist sauberes eigenstaendiges Loesen. Beruecksichtigt Korrekturassistenten bei Hausarbeit und persoenliche Lekture bei Seminararbeit. Fuehrt zu strategischer Klarheit ohne Schleimerei.
+description: "Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenstaendig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Pruefraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master)."
 ---
 
 # Professor erkennen und Strategie wählen

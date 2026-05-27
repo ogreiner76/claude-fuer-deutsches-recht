@@ -1,6 +1,6 @@
 ---
 name: vaf-plausibilitaetscheck
-description: "Prüft Zahlen, Fristen, Querverweise, Anlagen, Parteidaten, Umsatzsteuer, Kaution, Optionen und interne Widersprüche vor Ausgabe."
+description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Pruefraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate fuer Gesamtpruefung und zu Clean-Output."
 ---
 
 # Plausibilitätscheck

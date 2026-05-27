@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-look-and-feel
-description: "Corporate-Cowork-Look: Definiert die sichtbare Oberfläche: sehr ruhig, edel, bläulich-silbern mit warmem Orange für Entscheidungspunkte, dichte Deal-Information statt Marketing."
+description: "Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Pruefraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche fuer Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing fuer tatsaechlichen Versand und zu Schreibcanvas fuer inhaltliche Qualitaet."
 ---
 
 # Corporate-Cowork-Look

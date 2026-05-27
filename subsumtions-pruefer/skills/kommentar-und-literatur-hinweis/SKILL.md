@@ -1,6 +1,6 @@
 ---
 name: kommentar-und-literatur-hinweis
-description: "Weist auf Standardkommentare und Fachliteratur fuer die geprueften Normen hin: Palandt/Grueneberg, MuenKomm, Staudinger, Maunz/Duerig, Calliess/Ruffert, Jarass/Pieroth u. a. Ohne Volltexte; nur Orientierungshilfe fuer die Vertiefungsrecherche."
+description: "Weist auf Standardkommentare und Fachliteratur fuer die geprueften Normen hin: Palandt/Grueneberg, MüKomm, Staudinger, Maunz/Duerig, Calliess/Ruffert, Jarass/Pieroth u. a. Ohne Volltexte; nur Orientierungshilfe fuer die Vertiefungsrecherche."
 ---
 
 # Kommentar- und Literatur-Hinweis

@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-erstellen
-description: "Hauptworkflow Aktenauszug: verarbeitet PDFs Schriftsaetze und Akten und erzeugt einen strukturierten Auszug mit sechs Bausteinen — Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie tabellarische Gegenueber­stellung Parteivortrag Beweis und Rechtsargumente. Output in Markdown. Normen: §§ 128-134 ZPO (Schriftsaetze) §§ 355-455 ZPO (Beweis) §§ 495a 522 ZPO."
+description: "Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturpruefung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Ueberblick)."
 ---
 
 # Aktenauszug Erstellen — Hauptworkflow

@@ -1,6 +1,6 @@
 ---
 name: ki-vo-hochrisiko-personalwesen
-description: "Erläutert die Hochrisiko-Anforderungen der KI-VO für KI-Systeme im Personalwesen: Anhang III Nr. 4 Bewerberauswahl und Personalentscheidungen, Inkrafttreten 2. August 2026, Pflichten bei Einsatz im HR-Bereich der Kanzlei sowie Beratungsmandate im Arbeitsrecht."
+description: "KI-VO Hochrisiko-Anforderungen fuer Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Pruefraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitaetsbewertung, Transparenzpflichten fuer Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan fuer August 2026. Abgrenzung zu Bias-und-Diskriminierung-Pruefung und zu KI-VO-Betreiber-Pflichten."
 ---
 
 # KI-VO Hochrisiko Personalwesen

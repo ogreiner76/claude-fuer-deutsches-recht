@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-automation-monitoring
-description: "Automationen und Monitoring fuer Corporate-M&A: Entwirft Monitore fuer Datenraum-Neuzugaenge, Q&A-Deadlines, CP-Fristen (§§ 35 ff. GWB, §§ 55 ff. AWV), Registerupdates nach § 40 GmbHG, News-Monitoring, MAR-Signale (Art. 17 MAR) und PMI-Aufgaben. Mit Eskalationsregeln, Owner-Matrix und Stop-Schwellen."
+description: "Monitoring und Automatisierungen fuer laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Ueberwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Pruefraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO fuer manuelle Aufgabenlisten und zu Fristen-CP-Kalender."
 ---
 
 # Automationen und Monitoring (Corporate M&A)

@@ -1,6 +1,6 @@
 ---
 name: vaf-docx-stripper
-description: "Strippt DOCX-Vorlagen und Altverträge in Text, Absätze, Tabellen, Platzhalter, Klauseln, Anlagen und Signaturblöcke ohne die Originaldatei zu überschreiben."
+description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Pruefraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung fuer Vertragstyp-Erkennung und zu Feldinventar."
 ---
 
 # DOCX-Stripper

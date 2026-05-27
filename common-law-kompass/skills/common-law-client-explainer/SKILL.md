@@ -1,6 +1,6 @@
 ---
 name: common-law-client-explainer
-description: "Erklärt Common-Law-Risiken für deutsche Business-Teams kurz, freundlich und ohne dogmatische Nebelmaschine."
+description: "Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklaerung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schliessen US-Vertrag ab. Pruefraster Verstaendlichkeit Vollstaendigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklaerungsschreiben oder Memo fuer Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton)."
 ---
 
 # Mandanten-Erklärer

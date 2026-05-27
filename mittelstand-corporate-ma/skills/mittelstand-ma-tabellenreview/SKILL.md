@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-tabellenreview
-description: "Freistehender Tabellenreview für Corporate/M&A: prüft Dokumente, Datenpunkte, Tabellen, Formeln und Perspektiven als interne Review-Matrix mit vollständig interner Review-Logik."
+description: "Kanzlei prueft Dokumente Tabellen Formeln und Datenpunkte fuer Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Pruefraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet)."
 ---
 
 # Freistehender Tabellenreview (Mittelstand)

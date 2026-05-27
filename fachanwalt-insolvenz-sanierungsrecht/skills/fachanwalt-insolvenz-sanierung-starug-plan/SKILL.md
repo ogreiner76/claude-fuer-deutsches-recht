@@ -188,7 +188,7 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur StaRUG
 
-- MuenKo InsO/Gehrlein, Anhang: StaRUG, 4. Aufl. 2019 (Nachtrag 2021) — Grundkommentierung.
+- MüKo InsO/Gehrlein, Anhang: StaRUG, 4. Aufl. 2019 (Nachtrag 2021) — Grundkommentierung.
 - Braun/Herzig, StaRUG, 1. Aufl. 2021, Beck — erstes grosses Spezialkommentarwerk zum StaRUG.
 - Uhlenbruck/App, StaRUG §§ 7-39 Rn. 1 ff. — Plan-Struktur im Detail.
 

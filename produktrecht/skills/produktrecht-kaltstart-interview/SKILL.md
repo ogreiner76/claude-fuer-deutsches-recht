@@ -1,6 +1,6 @@
 ---
 name: produktrecht-kaltstart-interview
-description: "Kaltstart-Interview für das Produktrecht-Plugin – verbindet sich mit dem Launch-Tracker, liest vergangene Reviews, lernt Ihre Risikokalibrierung. Verwenden bei Erstinstallation, beim Onboarding von Produktjuristen oder wenn die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes Interview, mit --check-integrations nur für Konnektoren-Prüfung."
+description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Pruefraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen fuer spaetere Einzelaenderungen."
 ---
 
 # /kaltstart-interview

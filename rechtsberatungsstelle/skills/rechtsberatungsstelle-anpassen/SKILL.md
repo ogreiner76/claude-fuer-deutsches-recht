@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-anpassen
-description: "Passt das Beratungsstellenprofil (CLAUDE.md) oder einen Fachbereichsleitfaden (guides/fachbereich.md) gezielt an – ohne den vollen Kaltstart-Ablauf zu durchlaufen. Für kleinere Aktualisierungen: neuer Fachbereich, geänderte Prüfungsgates, aktualisierte Kontakte, Semesterwechsel. Nur für den anleitenden Volljurist."
+description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Pruefraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows fuer die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview fuer Erst-Einrichtung und zu Einarbeitung-Skill."
 ---
 
 # /anpassen

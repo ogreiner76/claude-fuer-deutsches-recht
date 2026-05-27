@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-strafrecht
-description: Strukturierte Aufbereitung strafrechtlicher Akten fuer die Verteidigung. Erzeugt sechs Uebersichten — Aktenvorblatt mit Blattangaben; Personenverzeichnis mit Rolle und Erstnennung; Tatkomplex- und Vorwurfsverzeichnis mit einschlaegigen Normen; Beziehungsverzeichnis der Beteiligten; Chronologie aller relevanten Ereignisse; Fristen- und Terminverzeichnis. Alle Tabellen Excel-faehig mit Band- und Blattangabe als Fundstelle. Fortlaufend ergaenzbar bei Aktennachlieferungen mit Markierung der Neuzugaenge. Erkennt Widersprueche zwischen Vernehmungen und Kontounterlagen. Nimmt KEINE rechtliche Bewertung vor. OCR auf Scans ist Pflicht. Geeignet fuer Wirtschaftsstrafverfahren BtM-Verfahren Vermoegensdelikte und komplexe Strafverfahren.
+description: "Strafverteidiger erhaelt Strafakte nach § 147 StPO Akteneinsicht und will diese strukturiert aufbereiten. Wirtschaftsstrafverfahren BtM-Verfahren Vermoegensdelikte komplexe Strafverfahren. Sechs Uebersichten: Aktenvorblatt Personenverzeichnis Tatkomplex-Vorwurfsverzeichnis Beziehungsverzeichnis Chronologie Fristen-Terminverzeichnis. Normen § 147 StPO §§ 112 116 StPO Untersuchungshaft §§ 203 207 StPO Eroeffnungsbeschluss. Pruefraster Band-Blatt-Fundstellen Excel-faehige Tabellen Widersprueche zwischen Vernehmungen Neuzugang-Markierung OCR-Pflicht. Output strukturierte Akten-Uebersichten alle Tabellen. Keine rechtliche Bewertung nur Aufbereitung."
 ---
 
 # Aktenaufbereiter Strafrecht

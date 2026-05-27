@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-bussgeld-sanktionen
-description: Begleitet Anhoerung, Bussgeld-Bescheid, Verteidigungsstrategie, Akteneinsicht und gerichtliches Verfahren bei Umweltordnungswidrigkeiten. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a. Bussgeld bis 100000 EUR. Verjaerungs- und Verwertungsverbote. Verteidigungsschrift Muster.
+description: "Unternehmen erhaelt Anhoerung oder Bussgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bussgeld bis 100000 EUR. Pruefraster Tatbestandspruefung Verjaehrung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung)."
 ---
 
 # Bussgeld, Sanktionen und Anhoerung im Umweltrecht

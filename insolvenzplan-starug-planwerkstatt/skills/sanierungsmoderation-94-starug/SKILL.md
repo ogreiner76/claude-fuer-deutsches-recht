@@ -289,4 +289,4 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 ## Kommentarliteratur
 
 - Braun/Herzig, StaRUG § 94 — Restrukturierungsmoderation.
-- MuenKo InsO/Gehrlein, StaRUG § 94 Rn. 1 ff. — Moderationsverfahren und Vergleichsrahmen.
+- MüKo InsO/Gehrlein, StaRUG § 94 Rn. 1 ff. — Moderationsverfahren und Vergleichsrahmen.

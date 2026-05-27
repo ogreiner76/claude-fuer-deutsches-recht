@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin
-description: "MiCA-Verordnung VO (EU) 2023/1114 Art. 16-21 Lizenzierung von Stablecoin-Emittenten (Asset-Referenced Tokens ART und Electronic Money Tokens EMT) bei BaFin. Whitepaper-Pflicht Art. 19. Eigenmittel-Anforderung Art. 35. Reserveaktiva Verwahrungspflichten Art. 36-38. BaFin-Antrag und Pruefverfahren 180 Tage Art. 17. Workflow Emittenten-Lizenz Whitepaper Notifizierung."
+description: "Krypto-Unternehmen beantragt MiCA-Lizenz fuer Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Pruefraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Pruefdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Ueberblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung)."
 ---
 
 # MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)

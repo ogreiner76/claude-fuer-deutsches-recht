@@ -1,6 +1,6 @@
 ---
 name: cyber-incident-response-72h
-description: Strukturierte Sofortmassnahmen bei aktivem Cyber-Vorfall — Hacker-Angriff Ransomware Datenexfiltration Insider-Threat. Phase 1 Sofort-Eindaemmung Netztrennung Forensik-Sicherung. Phase 2 DSGVO-Meldung Art. 33 72 Stunden bei Risiko Betroffenen-Information Art. 34 bei hohem Risiko NIS-2 24-Stunden-Fruehwarnung 72-Stunden-Vorfallsmeldung. Phase 3 Strafanzeige §§ 202a 303a 303b StGB Cybersecurity-Versicherer-Meldung Forensik-Dienstleister. Beweissicherung Chain-of-Custody. NIS2UmsuCG §§ 32 65 BSIG n.F.
+description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Pruefraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
 ---
 
 # Cyber-Incident-Response 72 Stunden

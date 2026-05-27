@@ -1,6 +1,6 @@
 ---
 name: produktmarkt-nachfragesubstitution
-description: Prueft die sachliche Marktabgrenzung aus Nachfragersicht. Bewertet funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck und Bedarfsdeckungsaequivalenz. Prueft Verallgemeinerungsannahmen und fehlende Differenzierungen nach Kundensegmenten gemaess EU-Bekanntmachung zur Marktdefinition 2024 und Paragraf 18 GWB.
+description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prueft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung fuer Supply-Side-Perspektive."
 ---
 
 # Produktmarkt — Nachfragesubstitution

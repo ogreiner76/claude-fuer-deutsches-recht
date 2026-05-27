@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rueckwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG."
+description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rueckwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Pruefraster Buchwertantrag-Voraussetzungen, steuerliche Rueckwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitspruefung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht fuer gesellschaftsrechtliche Seite und zu Transaktionsstruktur."
 ---
 
 # Umwandlungssteuerrecht

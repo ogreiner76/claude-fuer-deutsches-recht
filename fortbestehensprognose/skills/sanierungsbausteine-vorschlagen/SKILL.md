@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-vorschlagen
-description: Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklaerung hart Comfortletter Gesellschafterdarlehen mit Rangruecktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklaerung-extern-hart-erzeugen gesellschafterdarlehen-rangruecktritt stundungsanfrage-glaeubiger).
+description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklaerung hart Comfortletter Gesellschafterdarlehen mit Rangruecktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklaerung-extern-hart-erzeugen gesellschafterdarlehen-rangruecktritt stundungsanfrage-glaeubiger)."
 ---
 
 # Sanierungsbausteine vorschlagen
@@ -153,5 +153,5 @@ empfehlungen:
 ## Kommentarliteratur
 
 - IDW S 6, Stand 06/2022 — Sanierungskonzept-Standard; Massnahmenplanung und Umsetzungscontrolling.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 80-100 — Sanierungsmassnahmen und Prognose-Wirkung.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 80-100 — Sanierungsmassnahmen und Prognose-Wirkung.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 — Sanierungsbausteine in der Praxis.

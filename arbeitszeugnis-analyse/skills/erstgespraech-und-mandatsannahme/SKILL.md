@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-und-mandatsannahme
-description: "Mandatsannahme im Zeugnisrecht. Eingangsbestaetigung an den Mandanten mit Dank fuer das uebersandte Zeugnis, Anforderung der noch fehlenden Unterlagen (Arbeitsvertrag, Aenderungsvereinbarungen, Kuendigungsschreiben, Vorzeugnisse, Aufgabenbeschreibung, Beurteilungen, Krankheits- und Fehlzeitenuebersicht, Abmahnungen, Schriftwechsel zum Zeugnis). Strukturiertes Erstgespraech mit Zielklaerung, Fristen, Vergleichsbereitschaft, Vergueterungsvereinbarung und Hinweis auf Beweislast."
+description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er fuer mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjaehrung drei Jahre § 611a BGB Arbeitsvertrag. Pruefraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Aenderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
 ---
 
 # Erstgespraech und Mandatsannahme im Zeugnisrecht

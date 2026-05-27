@@ -1,6 +1,6 @@
 ---
 name: prompting-leitfaden
-description: "Vier-Elemente-Methode für effektives Prompten in der juristischen Praxis: Zielformulierung, Ausgabeformat, Hintergrundwissen und Beispiel; plus Tipps zu Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration und Zitate-Verifikation."
+description: "Prompting-Leitfaden fuer juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Pruefraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste fuer juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz."
 ---
 
 # Prompting-Leitfaden

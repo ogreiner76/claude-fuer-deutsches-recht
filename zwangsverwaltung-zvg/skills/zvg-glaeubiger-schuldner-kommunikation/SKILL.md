@@ -1,6 +1,6 @@
 ---
 name: zvg-glaeubiger-schuldner-kommunikation
-description: "Kommunikation in der Zwangsverwaltung. Erstellt Schreiben an Schuldner Gläubiger Mieter Paechter Gericht Versicherer Kommune und Dienstleister."
+description: "Schriftwechsel in der Zwangsverwaltung mit Schuldner Glaeubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kuendigung § 535 BGB Mietrecht. Pruefraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen fuer alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung."
 ---
 
 # Gläubiger-, Schuldner- und Drittschuldnerkommunikation

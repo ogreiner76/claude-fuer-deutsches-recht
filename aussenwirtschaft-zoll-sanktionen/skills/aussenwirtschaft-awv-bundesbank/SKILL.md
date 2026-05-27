@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Prüft grenzüberschreitende Zahlungen, Auslandsforderungen, Beteiligungen, Z4/Z8/Z10-15, Freigrenzen, Nachmeldung und Offenlegung."
+description: "Meldepflichten nach Aussenwirtschaftsverordnung AWV gegenueber Bundesbank fuer grenzueberschreitende Zahlungen und Beteiligungen. Anwendungsfall Unternehmen hat Zahlungen ins Ausland oder Auslandsforderungen und prueft AWV-Meldepflichten. Normen §§ 63 ff. AWV Zahlungsmeldungen § 56 AWV Auslandsforderungen BundesbankMerkblatt. Pruefraster grenzueberschreitende Zahlungen Auslandsforderungen Beteiligungen Z4/Z8/Z10-15 Freigrenzen Nachmeldung Offenlegung. Output Meldepflichtencheck mit Ergebnis Formularausfuellung und Fristen fuer Bundesbank-Meldungen. Abgrenzung zu aussenwirtschaft-bafa-genehmigungen und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # AWV- und Bundesbank-Meldepflichten

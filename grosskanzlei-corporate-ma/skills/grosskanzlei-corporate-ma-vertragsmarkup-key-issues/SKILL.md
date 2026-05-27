@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-vertragsmarkup-key-issues
-description: "Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive."
+description: "SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433 ff. BGB Kaufrecht, SPA Reps and Warranties. Pruefraster Aenderungen nach wirtschaftlicher Relevanz clustern, Rote Linien und Konzessionen trennen, Parteiposition Buy-side/Sell-side dokumentieren. Output Key Issues List mit priorisierten Verhandlungspunkten und Gegenmarkup-Vorschlaegen. Abgrenzung zu SPA/APA-Entwurf fuer Erstellung und zu Disclosure-Schedules."
 ---
 
 # Markup und Key Issues

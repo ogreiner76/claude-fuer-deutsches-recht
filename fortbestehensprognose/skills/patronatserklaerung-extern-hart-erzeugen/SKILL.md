@@ -1,6 +1,6 @@
 ---
 name: patronatserklaerung-extern-hart-erzeugen
-description: Erzeugt eine harte externe Patronatserklaerung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklaerung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein.
+description: "Erzeugt eine harte externe Patronatserklaerung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklaerung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein."
 ---
 
 # Externe harte Patronatserklärung
@@ -165,6 +165,6 @@ Eine **weiche** Patronatserklärung (Comfortletter, „Best Effort"-Erklärung) 
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 90-110 — Patronatserklaerung im Ueberschuldungsstatus.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 90-110 — Patronatserklaerung im Ueberschuldungsstatus.
 - Uhlenbruck/Mock § 19 InsO Rn. 55-70 — Abgrenzung harte und weiche Patronatserklaerung.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.28 — Patronatserklaerung als Sanierungsinstrument.

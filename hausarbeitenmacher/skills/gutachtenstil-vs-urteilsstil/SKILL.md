@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-vs-urteilsstil
-description: Unterscheidung Gutachtenstil und Urteilsstil. Gutachtenstil mit Obersatz Definition Subsumtion Ergebnis hypothetisch-pruefend in Konjunktiv und Konjunktiv-aehnlichen Wendungen. Urteilsstil indikativ direkt begruendungs-knapp. Anwendungs-Bereiche Hausarbeit immer Gutachtenstil Schriftsatz vorrangig Urteilsstil. Haeufige Fehler Sprung Subsumtion Ergebnis-Vorausnahme.
+description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch pruefend. Urteilsstil indikativ direkt begruendungsknapp. Normen Methodenlehre Aufsatz-Tradition. Pruefraster Stilauswahl Anwendungsbereiche haeufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau)."
 ---
 
 # Gutachtenstil und Urteilsstil

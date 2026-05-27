@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-sanktionen
-description: "Verknüpft GwG-Risikoanalyse, wirtschaftlich Berechtigte, KYC, Sanktionsscreening, Transaktionsmonitoring, Schulungen und interne Kontrollen."
+description: "Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Exporteur oder Haendler braucht integriertes AML- und Sanktions-Compliance-System fuer grenzueberschreitende Geschaefte. Normen GwG § 5 Risikoanalyse EU-Sanktionsverordnungen AWG § 34 Aussenwirtschaftsstrafrecht. Pruefraster GwG-Risikoanalyse wirtschaftlich Berechtigte KYC Sanktionsscreening Transaktionsmonitoring Schulungen Kontrollen. Output Integriertes Compliance-Handbuch mit Risikomatrix KYC-Prozess Screening-Protokoll und Schulungsplan. Abgrenzung zu aussenwirtschaft-sanktionen-embargos und geldwaesche-praevention-aml-kyc-Plugin."
 ---
 
 # AML, KYC und Sanktions-Compliance

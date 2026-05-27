@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-freundlicher-copilot
-description: "Freundlicher Deal-Copilot: Führt junge Anwender verzeihend durch große Transaktionen, erkennt unausgesprochene Absichten und meldet sich kurz mit hilfreichen Hinweisen."
+description: "Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Pruefraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitspruefung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung)."
 ---
 
 # Freundlicher Deal-Copilot

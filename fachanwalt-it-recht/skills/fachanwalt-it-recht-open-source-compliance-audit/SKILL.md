@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-open-source-compliance-audit
-description: "Open-Source-Software Compliance Lizenz-Pflicht GPL Copyleft MIT BSD Apache. Risiken bei Mischung permissiver mit Copyleft-Lizenzen. SBOM Software-Bill-of-Materials. Compliance-Audit Werkzeuge FOSSology BlackDuck. Workflow Inventarisierung Bewertung Bereinigung Dokumentation."
+description: "Open-Source-Software Compliance Audit fuer GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprueft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Pruefraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
 ---
 
 # Open-Source-Compliance-Audit

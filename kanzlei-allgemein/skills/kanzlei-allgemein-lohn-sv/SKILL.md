@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-lohn-sv
-description: "Bereitet Lohnabrechnung Sozialversicherungsbeiträge Lohnsteuer ELStAM Minijob Meldungen Bonus Gratifikation und Payroll-Übergabe vor. Rechnet nicht verbindlich ab und übermittelt nichts ohne Fachsystem und Freigabe."
+description: "Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-Uebergabe fuer Kanzleimitarbeiter vor. Anwendungsfall monatliche Lohnabrechnung muss vorbereitet oder Daten fuer DATEV-Lohnsoftware oder Steuerkanzlei zusammengestellt werden. Normen SGB IV SGB V SGB VI EStG § 41b EStG Lohnsteuerbescheinigung. Pruefraster Bruttogehalt ELStAM-Steuerklasse SV-Beitraege Minijob Meldungen Bonus Gratifikation Fehlzeiten. Output Payroll-Zusammenfassung mit SV-Beitraegen Lohnsteuer Meldedaten und Uebergabepaket fuer Fachsystem oder Steuerberater. Abgrenzung zu kanzlei-allgemein-hr-personal und kanzlei-allgemein-ustva-buchhaltung."
 ---
 
 # Lohn, Sozialversicherung und Payroll

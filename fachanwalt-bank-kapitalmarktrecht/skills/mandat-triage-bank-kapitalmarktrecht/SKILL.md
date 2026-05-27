@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bank-kapitalmarktrecht
-description: Strukturierte Eingangs-Abfrage fuer bank- und kapitalmarktrechtliche Mandate. Klaert Sachgebiet (Anlageberatungsfehler Kapitalmarktinformationshaftung Prospekthaftung Kreditfinanzierung Verbraucherkredit Bauerfinanzierung Bank-AGB Konto-Sperre Kontopfaendung Bankenrettung BaFin-Aufsicht Geldwaesche § 261 StGB AGB-Banken-Kunde Sparbuch Schwarzgeld) Mandantenrolle (Anleger Kreditnehmer Verbraucher Bank Vorstand Compliance Beauftragter) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB Hoechstfrist zehn Jahre § 199 Abs. 3 BGB. Eskalation Telefon-Sofort bei Kontosperrung BaFin-Anordnung. Routing zu anlageberatungsfehler-pruefen.
+description: "Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjaehrung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Pruefraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Ueberblick)."
 ---
 
 # Mandat-Triage Bank- und Kapitalmarktrecht

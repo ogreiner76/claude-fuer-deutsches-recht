@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-erste-stufe
-description: Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung. Inkludiert die rechtliche Begruendung mit Pinpoint auf VO 261/2004 und EuGH-Urteilen. Erwaehnt Schlichtungsstelle Luftverkehr SOEP als naechste Stufe. Versandweg Einschreiben mit Rueckschein oder Airline-Kundenservice-Portal mit Eingangsbestaetigung.
+description: "Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung. Inkludiert die rechtliche Begruendung mit Pinpoint auf VO 261/2004 und EuGH-Urteilen. Erwaehnt Schlichtungsstelle Luftverkehr SOEP als naechste Stufe. Versandweg Einschreiben mit Rueckschein oder Airline-Kundenservice-Portal mit Eingangsbestaetigung."
 ---
 
 # Forderungsschreiben — Erste Stufe

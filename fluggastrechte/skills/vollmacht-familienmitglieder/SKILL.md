@@ -1,6 +1,6 @@
 ---
 name: vollmacht-familienmitglieder
-description: Erzeugt Vollmachten fuer Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmacht Untervollmacht. Bei minderjaehrigen Kindern Sondervorlage mit Erziehungsberechtigten. Datenschutzhinweis. Versandentwurf an die Mitreisenden zur Unterschrift.
+description: "Erzeugt Vollmachten fuer Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmacht Untervollmacht. Bei minderjaehrigen Kindern Sondervorlage mit Erziehungsberechtigten. Datenschutzhinweis. Versandentwurf an die Mitreisenden zur Unterschrift."
 ---
 
 # Vollmacht für Familienmitglieder und Mitreisende

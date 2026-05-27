@@ -1,6 +1,6 @@
 ---
 name: zvg-konten-kassenfuehrung
-description: "Konten Kassenfuehrung und Buchfuehrung der Zwangsverwaltung. Führt Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss und Auskunft."
+description: "Kontenfuehrung und Buchfuehrung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Pruefraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung."
 ---
 
 # Konten, Kasse und Buchführung

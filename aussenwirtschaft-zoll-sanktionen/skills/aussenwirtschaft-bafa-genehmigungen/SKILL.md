@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen
-description: "Bereitet BAFA-Anträge, Nullbescheide, Auskünfte, ELAN-K2-Vorgänge, Empfängeranfragen und Rückfragen an Behörden vor."
+description: "BAFA-Genehmigungsverfahren fuer Exporte und Dienstleistungen mit Genehmigungspflicht. Anwendungsfall Exporteur braucht BAFA-Ausfuhrgenehmigung fuer gueterlistenpflichtige Ware oder Technologie. Normen § 8 AWG Genehmigungspflicht EU-Dual-Use-Verordnung 2021/821 AWV §§ 8 ff. BAFA-Merkblatt. Pruefraster BAFA-Antraege Nullbescheide Auskuenfte ELAN-K2-Vorgaenge Empfaengeranfragen Rueckfragen. Output Vollstaendige Antragsunterlagen mit Antragsbeschreibung Endverwendungserklaerung und Vorgangsdokumentation. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-gueterlisten-klassifizierung."
 ---
 
 # BAFA-Genehmigungen und Anfragen

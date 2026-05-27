@@ -1,6 +1,6 @@
 ---
 name: notenrelevante-saetze-identifizieren
-description: "Identifiziert notenrelevante Sätze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Kategorisiert jeden Satz als Aufgabenbeschreibung, Leistungsbeurteilung, Verhaltensbeurteilung oder Schlussformel für die Ampelanalyse."
+description: "Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Anwendungsfall Zeugnis liegt vor und muss fuer Ampelanalyse vorbereitet werden. Normen § 109 GewO Inhalte eines qualifizierten Zeugnisses BAG-Anforderungen an Vollstaendigkeit. Kategorisierung Aufgabenbeschreibung Leistungsbeurteilung Verhaltensbeurteilung Schlussformel. Output Kategorisierte Satzliste als Eingabe fuer satzweise-notenmatrix und Bereichs-Drift-Detektor. Abgrenzung zu zeugnis-ueberblick-extraktion (Kopfdaten) und zeugnisart-erkennung."
 ---
 
 # Notenrelevante Sätze identifizieren

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-erechnung
-description: "Bereitet elektronische Kanzleirechnungen in XRechnung und ZUGFeRD vor. Prüft EN 16931 Pflichtdaten GoBD-nahe Aufbewahrung strukturierte XML-Daten PDF-A-3-Hybrid bei ZUGFeRD Validierung Rechnungskorrektur und Freigabe."
+description: "Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder oeffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Pruefraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung."
 ---
 
 # E-Rechnung, XRechnung, ZUGFeRD und GoBD

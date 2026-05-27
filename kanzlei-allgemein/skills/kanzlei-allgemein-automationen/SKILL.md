@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-automationen
-description: "Plant wiederkehrende Kanzlei-Routinen wie Postlauf Zeitabfrage Ordner-Monitoring Fristencheck HR Urlaub Krankheit Payroll UStVA GoBD E-Rechnung Kanzleikalender Simulation und Tagesabschluss."
+description: "Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Pruefraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf."
 ---
 
 # Automationen und Routinen

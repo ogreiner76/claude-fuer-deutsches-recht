@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Stufenmodell der Anonymisierung und Pseudonymisierung für KI-Nutzung in Kanzleien: Schwärzung von Namen, Adressen und Aktenzeichen, Ersetzung durch Platzhalter, Konsistenz bei Mehrfachverwendung sowie Prüfung des Re-Identifikationsrisikos."
+description: "Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schuetzen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Pruefraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine."
 ---
 
 # Anonymisierung und Pseudonymisierung

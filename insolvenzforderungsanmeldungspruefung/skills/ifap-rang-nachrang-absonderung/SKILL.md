@@ -1,6 +1,6 @@
 ---
 name: ifap-rang-nachrang-absonderung
-description: "Prüft Rang, Nachrang, Sicherungsrechte, Absonderung, Aussonderung und Ausfallforderungen ohne Gläubigerangaben ungeprüft zu übernehmen."
+description: "Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Glaeubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungsrecht. Pruefraster einfache Insolvenzforderung vs. Nachrang vs. Absonderung, Glaubhaftmachung Sicherheitsrecht, Ausfallforderung nach Verwertung. Output Rang-Klassifizierungsprotokoll mit Begruendung und Tabellenposition. Abgrenzung zu Formalprüfung und zu Pruefentscheidung."
 ---
 
 # Rang, Nachrang und Sicherungsrechte
@@ -66,6 +66,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

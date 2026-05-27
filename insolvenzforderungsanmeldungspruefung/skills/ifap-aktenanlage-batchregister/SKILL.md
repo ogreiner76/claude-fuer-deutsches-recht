@@ -1,6 +1,6 @@
 ---
 name: ifap-aktenanlage-batchregister
-description: "Legt für Massenprüfungen ein Batchregister mit Gläubigerstamm, Prüfnummern, Status, Wiedervorlagen und Audit-Trail an."
+description: "Batchregister fuer Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Pruefungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Pruefungstermin. Pruefraster Glaeubigerstamm, Prüfnummern, Status je Forderung, Wiedervorlagen, Audit-Trail, Fristen. Output Batchregister mit Eingangsprotokoll, Statusuebersicht und Fristenliste. Abgrenzung zu Intake-Kanalcheck fuer Eingangserfassung und zu Kommandocenter."
 ---
 
 # Aktenanlage und Batchregister

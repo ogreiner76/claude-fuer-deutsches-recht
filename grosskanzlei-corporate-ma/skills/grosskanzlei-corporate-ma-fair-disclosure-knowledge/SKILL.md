@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-fair-disclosure-knowledge
-description: "Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung."
+description: "Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Pruefraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmaessiges Wissen. Output Klauselvorschlaege fuer Knowledge-Qualifikation mit Risikobewertung fuer Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
 ---
 
 # Fair Disclosure und Knowledge

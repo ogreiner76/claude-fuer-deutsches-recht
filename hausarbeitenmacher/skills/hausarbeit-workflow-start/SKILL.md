@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-workflow-start
-description: Master-Workflow-Skill der Studierende durch die gesamte Hausarbeits- oder Seminararbeits-Loesung fuehrt. Sokratisch fragend gentle korrigierend ermutigend. Erst Fangfrage zur Lehrkraft dann Aufgabenstellung erfassen dann Routing dann Methoden dann Fachgebiet-Schemata dann Subsumtion dann Endkontrolle. Bei Hausarbeit Korrekturassistent bei Seminararbeit persoenliche Lekture. Bei falschen Eingaben sensibel umlenken nicht abkanzeln. Bindet Web-Recherche Beck-Online juris Google-Scholar ein. Behutsame frech-wertschaetzende Rueckfragen am Rande. Ziel echte Durchdringung plus fertige Arbeit am Ende.
+description: "Student beginnt Hausarbeit und braucht vollstaendige Begleitung von Anfang bis Abgabe. Master-Workflow-Skill: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Pruefraster Gesamt-Workflow sokratisch fragen gentle korrigieren Beck-Online juris einbinden. Output fertige Hausarbeit Schritt fuer Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination)."
 ---
 
 # Master-Workflow Hausarbeiten- und Seminararbeitenmacher

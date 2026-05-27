@@ -1,6 +1,6 @@
 ---
 name: deckungsanfrage-pruefen
-description: Strukturierte Pruefung von Versicherungsschadenfaellen und Deckungsablehnungen. Erfasst Versicherungsfall-Definition Bedingungswerk vorvertragliche Anzeigepflicht § 19 VVG Obliegenheits-Verletzungen §§ 28 31 VVG Leistungsfreiheit bei grob fahrlaessig herbeigefuehrtem Versicherungsfall § 81 VVG Stichtage Risikoausschluesse. Prueft Antraege auf Abschlagszahlung Frist § 14 VVG Verzug Verzinsung Verzugsschaden Anwaltskosten. Erstellt strukturierte Stellungnahme zur Deckungsablehnung mit Schwerpunkt Bedingungswerk-Auslegung nach §§ 305 ff. BGB AVB-Kontrolle Verbraucherschutz.
+description: "Pruefung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlaessig § 14 VVG Faelligkeit. Pruefraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlaessigkeit Kausalitaet Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-pruefen und klage-versicherer-strategie."
 ---
 
 # Deckungsanfrage prüfen

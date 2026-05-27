@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-deal-team-staffing
-description: "Deal-Team und Staffing: Plant Workstreams, Rollen, Kapazitaeten, Review-Level und Eskalationswege für große Transaktionen."
+description: "Deal-Team-Besetzung und Staffing-Plan fuer Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Pruefraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan fuer Fristen und zu Konflikt-GwG-Sanktions-Check fuer Mandat-Annahme."
 ---
 
 # Deal-Team und Staffing

@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-aufdeckung
-description: "Methoden zur Erkennung und zum Umgang mit verdeckter Chatbot-Nutzung durch Mitarbeitende in Kanzleien: Stilanalyse, Browser-Logs, Mitarbeiterbefragung, freiwillige Selbstauskunft und Einrichtung einer vertraulichen Anlaufstelle."
+description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleifuehrung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Pruefraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett."
 ---
 
 # Schatten-KI Aufdeckung

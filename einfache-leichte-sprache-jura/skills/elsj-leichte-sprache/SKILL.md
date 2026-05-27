@@ -1,6 +1,6 @@
 ---
 name: elsj-leichte-sprache
-description: "Überträgt juristische Texte in Leichte Sprache: starke Vereinfachung, klare Zeilen, erklärte schwere Wörter, sichtbare Schritte, barrierearme Struktur und Hinweis auf Nutzerprüfung."
+description: "Kanzlei oder Behoerde will juristischen Text fuer Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklaerte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Pruefraster Satzlaenge max. 8 Woerter aktive Formulierung Erklaerungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Pruefung)."
 ---
 
 # Leichte Sprache

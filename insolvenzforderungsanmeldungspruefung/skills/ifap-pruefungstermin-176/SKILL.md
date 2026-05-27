@@ -1,6 +1,6 @@
 ---
 name: ifap-pruefungstermin-176
-description: "Bereitet Prüfungstermin oder schriftliches Prüfungsverfahren nach § 176 InsO mit Einzelforderungen, Widersprüchen und Erörterungspunkten vor."
+description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Pruefungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Pruefungstermin, § 178 InsO Tabelle Feststellung. Pruefraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Pruefentscheidung und zu Streitige-Forderung-179-180."
 ---
 
 # Prüfungstermin vorbereiten
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

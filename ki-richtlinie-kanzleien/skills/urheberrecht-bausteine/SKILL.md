@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-bausteine
-description: "Urheberrechtliche Textbausteine für KI-Nutzungsrichtlinien: § 2 Abs. 2 UrhG geistige Schöpfung, § 5 UrhG amtliche Werke, Upload urheberrechtlich geschützter Texte, Anbieter-Trainingsklauseln sowie juris- und beck-online-Lizenzbedingungen."
+description: "Urheberrechtliche Bausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schuetzbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, juris und beck-online Lizenzbedingungen. Pruefraster kein Urheberrechtsschutz fuer reine KI-Outputs, Upload-Verbote urheberrechtlich geschuetzter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine fuer Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence."
 ---
 
 # Urheberrecht-Bausteine

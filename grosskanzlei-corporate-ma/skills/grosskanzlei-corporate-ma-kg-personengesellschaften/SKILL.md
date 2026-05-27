@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kg-personengesellschaften
-description: "KG und Personengesellschaften: KG, GmbH und Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme, Register; §§ 161-177 HGB, MoPeG, BGH-Rechtsprechung."
+description: "KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Pruefraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht fuer Formwechsel und zu Transaktionsstruktur fuer Gesamtstruktur."
 ---
 
 # KG und Personengesellschaften

@@ -1,6 +1,6 @@
 ---
 name: geheimcode-katalog
-description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Sortiert nach Themen: Leistung, Verhalten, Engagement, Belastbarkeit, Teamarbeit, Führung und Schlussformel."
+description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen § 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Fuehrung Schlussformel. Output Ampeltabelle mit Notentendenzen Erlaeuterungen und Alternativformulierungen fuer Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)."
 ---
 
 # Geheimcode-Katalog der Zeugnissprache

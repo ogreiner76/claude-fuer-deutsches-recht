@@ -1,6 +1,6 @@
 ---
 name: aufgabenstellung-erfassen
-description: Sokratische Anleitung zum Lesen und Verstehen eines Hausarbeit-Sachverhalts. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche und unwesentliche Tatsachen Beteiligte Akten-Verlauf Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird gepruft welcher Standpunkt. Erfasst Stoff-Schwerpunkt nicht durch Loesung sondern durch Hilfsfragen.
+description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprueft. Normen §§ 133 157 BGB Auslegungsmethodik. Pruefraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow)."
 ---
 
 # Aufgabenstellung erfassen

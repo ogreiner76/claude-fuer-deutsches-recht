@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-tabellenreview
-description: "Freistehender Tabellenreview für Corporate/M&A: prüft Dokumente, Datenpunkte, Tabellen, Formeln und Perspektiven als interne Review-Matrix mit vollständig interner Review-Logik."
+description: "Freistehender Tabellenreview fuer Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Pruefraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI."
 ---
 
 # Freistehender Tabellenreview

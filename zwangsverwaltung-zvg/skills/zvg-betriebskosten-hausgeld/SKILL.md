@@ -1,6 +1,6 @@
 ---
 name: zvg-betriebskosten-hausgeld
-description: "Betriebskosten Hausgeld und laufende Objektkosten. Prüft Nebenkosten Dienstleister WEG Hausgeld Versorger Wirtschaftlichkeit Abrechnung und Zahlungsplan."
+description: "Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten pruefen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Pruefraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Uebersicht mit Abrechnungsprotokoll und Zahlungsplan fuer Gericht. Abgrenzung zu zvg-konten-kassenfuehrung und zvg-rechnungslegung."
 ---
 
 # Betriebskosten, Hausgeld und laufende Objektkosten

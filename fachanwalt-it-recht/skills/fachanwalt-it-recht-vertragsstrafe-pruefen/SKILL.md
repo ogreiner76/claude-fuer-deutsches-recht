@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-vertragsstrafe-pruefen
-description: "Vertragsstrafenklausel in IT-Vertraegen pruefen. AGB-Kontrolle § 307 BGB Transparenzgebot Hoechstgrenze klar definierte Pflichtverletzung. Individualvereinbarung § 305 BGB. Verschulden grundsaetzlich Voraussetzung § 339 BGB. Herabsetzung § 343 BGB nur ausserhalb beiderseitigen Handelsgeschaefts § 348 HGB. Vorbehalt bei Annahme § 341 Abs. 3 BGB. BGH-Linie zur summenmaessigen Hoechstgrenze und Verhaeltnis zum Schadensersatz."
+description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen pruefen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschaeft § 341 Abs. 3 BGB Vorbehalt. Pruefraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenpruefvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr."
 ---
 
 # Vertragsstrafe prüfen

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-do-deckungsabwehr
-description: "D-und-O-Versicherung Directors and Officers Deckungsabwehr durch Versicherer. Pflichtverletzung § 43 GmbHG Anspruchsgrundlage. Versicherer-Einwaende vorsaetzliche Pflichtverletzung Insider-Trading Verbotener Geschaeftsbereich. Workflow Anspruchs-Pruefung Klage gegen Versicherer."
+description: "D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsanspruechen. Anwendungsfall Versicherung hat Deckung fuer Geschaeftsfuehrerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschaeftsfuehrer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Pruefraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschaeftsbereich AVB-Auslegung. Output Deckungsanfragen-Pruefung mit AVB-Analyse Widerspruchsbegruendung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-pruefen."
 ---
 
 # D&O-Deckungsabwehr

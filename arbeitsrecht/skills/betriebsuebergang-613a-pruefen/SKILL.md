@@ -1,6 +1,6 @@
 ---
 name: betriebsuebergang-613a-pruefen
-description: Strukturierte Pruefung Betriebsuebergang § 613a BGB. Identitaetswahrung wirtschaftliche Einheit EuGH-Suezen Siebenkriterien. Pflicht Unterrichtung § 613a Abs. 5 BGB schriftlich. Widerspruchsrecht § 613a Abs. 6 BGB ein Monat. Haftung § 613a Abs. 2 BGB Erwerber/Veraeusserer. Kuendigungsverbot § 613a Abs. 4 BGB. Betriebsrat § 111 BetrVG Interessenausgleich und Sozialplan.
+description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber ueber und Arbeitnehmer fragen nach Rechten oder Kuendigungsschutz. Pruefraster Identitaetswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollstaendig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kuendigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Pruef-Memo Uebergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan."
 ---
 
 # Betriebsübergang § 613a BGB prüfen

@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-pruefung
-description: "Unterstützt bei Erstellung, Prüfung und Aktualisierung des Vermögensverzeichnisses des Betreuers nach §§ 1835 und 1839 BGB sowie der jährlichen Rechnungslegung nach § 1865 BGB. Lädt, wenn Schlagwörter wie „Vermögensverzeichnis\", „Anfangsvermögen\", „Rechnungslegung\", „§ 1835 BGB\", „§ 1865 BGB\" oder „Sperrvermerk\" auftreten."
+description: "Vermögensverzeichnis fuer Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollstaendigkeit und Richtigkeit prüfen. § 1835 BGB Vermögensverzeichnis, § 1836 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung Vorsorgevollmacht. Pruefraster Vermoegensgegenstaende vollstaendig Konten Immobilien Wertpapiere, Verbindlichkeiten, Vermoegensveraenderungen seit letztem Verzeichnis, Bestandsnachweis Belege. Output vollstaendiges Vermögensverzeichnis mit Prüfprotokoll und Differenzliste. Abgrenzung zu Jahresbericht-Betreuungsgericht und zu Kontodaten-Vertragsverdacht."
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)

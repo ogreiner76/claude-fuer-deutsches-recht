@@ -1,6 +1,6 @@
 ---
 name: schwerpunktthemen-identifikation
-description: "Identifiziert drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten aus Schriftsaetzen und ohne Erfolgsprognose. Jeder Streitpunkt wird mit Relevanz fuer den Verfahrensausgang und einschlaegiger Rechtsprechung dargestellt. Normen §§ 139 286 ZPO BGH-Leitsaetze ZPO Beweisrecht."
+description: "Anwalt braucht schnellen Ueberblick ueber drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Pruefraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Ueberblick) und rechtsargumente-gegenueberstellung (alle Argumente)."
 ---
 
 # Schwerpunktthemen-Identifikation

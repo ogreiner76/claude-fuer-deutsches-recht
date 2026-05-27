@@ -1,6 +1,6 @@
 ---
 name: strafprozess-modus
-description: "Modus-Skill fuer StPO-Verfahren: Anklage Hauptverhandlung Revision nach Paragraph 333 ff. StPO und Wiederaufnahme. Stellt strafprozessuale Besonderheiten im Aktenauszug heraus: Anklageschrift Eroeffnungsbeschluss Hauptverhandlungstermine Beweisantragsrecht und Rechtsmittelfristen. BGH-Leitsaetze StPO enthalten."
+description: "Aktenauszug fuer StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Pruefraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Strafprozess-Modus (StPO)

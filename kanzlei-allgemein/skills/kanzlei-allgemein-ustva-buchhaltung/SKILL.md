@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-ustva-buchhaltung
-description: "Sammelt Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus und Belege für die monatliche UStVA. Übergibt an ELSTER Steuerkanzlei Buchhaltung oder UStVA-Simulation ohne stille Abgabe."
+description: "Sammelt Rechnungsdaten und Belege fuer die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen fuer ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Pruefraster Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus Belegpruefung. Output UStVA-Vorbereitung mit strukturierter Belegsammlung ELSTER-Uebergabepaket oder Steuerkanzlei-Paket ohne stille Abgabe. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-simulation."
 ---
 
 # UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung

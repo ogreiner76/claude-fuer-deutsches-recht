@@ -1,6 +1,6 @@
 ---
 name: leitfaden-erstellen
-description: "Hilft einem anleitenden Volljuristen, einen praxisbereichsspezifischen Leitfaden zu erstellen, der das Verhalten der studierendengerichteten Skills konfiguriert – Intake-Fragen, Pädagogikhaltung (ausführen / anleiten / lehren), Prüfungsgates, RDG-Grenzen und örtliche Besonderheiten. Aufrufen, wenn ein Anleiter einen neuen Leitfaden aufbauen oder einen bestehenden überarbeiten will."
+description: "Leitfaden und Merkblatt fuer Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden fuer haeufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Pruefraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill fuer Ausbilder-Training und zu Recherche-Start."
 ---
 
 # /leitfaden-erstellen

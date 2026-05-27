@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-wasser-bodenschutz
-description: Begutachtet Erlaubnisse, Einleitungen, Altlasten, Grundwasser, Sanierung, Bodenschutzpflichten und Haftungsfragen. WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Sanierungsverantwortliche Kostenerstattung. BVerwG BGH Altlasten-Haftungskette. Workflow Erlaubnisantrag Sanierungsplan Klagestrategie.
+description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Pruefraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A)."
 ---
 
 # Wasser- und Bodenschutzrecht

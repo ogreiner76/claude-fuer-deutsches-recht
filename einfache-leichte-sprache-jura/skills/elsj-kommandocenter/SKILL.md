@@ -1,6 +1,6 @@
 ---
 name: elsj-kommandocenter
-description: "Steuert die Übersetzung juristischer Texte in Einfache Sprache oder Leichte Sprache: Zielgruppe, Modus, Rechtsinhalt, Workflow, Rückfragen, Ausgabe und Qualitätsprüfung."
+description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt fuer juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Pruefraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetspruefung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausfuehrung) und elsj-qualitaetsgate (Pruefung)."
 ---
 
 # Kommandocenter

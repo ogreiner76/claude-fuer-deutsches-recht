@@ -1,6 +1,6 @@
 ---
 name: elastizitaeten-diversion-ratios
-description: Prueft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Hauptinstrumente quantitativer Marktabgrenzung. Bewertet oekonometrische Methodik Datenbasis Endogenitaet und Schwellenwerte. Diversion Ratio als Kerngroesse fuer SSNIP-Test und Merger-Simulation.
+description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu pruefen. Prueft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Pruefraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung fuer den SSNIP-Test selbst."
 ---
 
 # Elastizitäten und Diversion Ratios

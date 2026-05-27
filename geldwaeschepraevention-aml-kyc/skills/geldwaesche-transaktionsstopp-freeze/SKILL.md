@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Prüft Nichtdurchführung, vorläufige Sperre, Vertragsabbruch, Restguthaben, Kontobeendigung und Kommunikationslinie."
+description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchfuehrung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchfuehrung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Pruefraster Nichtdurchfuehrungsbegruendung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begruendung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwaesche-verdachtsmeldung-fiu-goaml und geldwaesche-sanktionsscreening."
 ---
 
 # Transaktionsstopp, Freeze und Exit

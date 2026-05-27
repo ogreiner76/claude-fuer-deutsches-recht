@@ -1,6 +1,6 @@
 ---
 name: bilanzieller-status-aufnehmen
-description: Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Pruefraster bilanzielle Ueberschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und ausserbilanzielle Verpflichtungen (Pensionsrueckstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Ueberschuldung ist nicht automatisch insolvenzrechtliche Ueberschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose).
+description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Pruefraster bilanzielle Ueberschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und ausserbilanzielle Verpflichtungen (Pensionsrueckstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Ueberschuldung ist nicht automatisch insolvenzrechtliche Ueberschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose)."
 ---
 
 # Bilanzieller Status aufnehmen
@@ -156,5 +156,5 @@ Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolve
 ## Kommentarliteratur
 
 - IDW S 11, Stand 11/2022 Rn. 20-42 — Insolvenzstatus und bilanzielle Ueberschuldung.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 1-50 — Zweistufiger Ueberschuldungsbegriff und Bewertung.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 1-50 — Zweistufiger Ueberschuldungsbegriff und Bewertung.
 - Uhlenbruck/Mock § 19 InsO Rn. 1-30 — Bilanzieller Status und Ansatzfragen.

@@ -1,6 +1,6 @@
 ---
 name: common-law-us-vs-uk-drafting
-description: "Trennt British English, English Law, US contract style, Delaware/New York-Konventionen und generisches Business-English."
+description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag fuer UK- oder US-Gegenpartei. Pruefraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl)."
 ---
 
 # UK vs US Drafting

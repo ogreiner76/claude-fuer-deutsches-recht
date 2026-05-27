@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-ki-governance-berufsrecht
-description: "KI-Governance und Berufsrecht: Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Datenschutz, KI-VO, Dienstleistereinsatz und Mandantenfreigabe."
+description: "KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools fuer Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster Datenklassen-Kategorisierung, Need-to-know, Pseudonymisierung, AVV-Pruefung, Mandantenfreigabe, Halluzinations-Kontrolle. Output Berufsrechts-Compliance-Protokoll fuer KI-Nutzung im Mandat. Abgrenzung zu Datenqualitaet-XAI-Qualitaetskontrolle und zu Konflikt-GwG-Check."
 ---
 
 # KI-Governance und Berufsrecht

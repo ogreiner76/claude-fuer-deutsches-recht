@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung
-description: "Kreditkuendigung der Bank pruefen. Ordentliche Kuendigung § 488 Abs. 3 BGB mit dreimonatiger Frist; ausserordentliche Kuendigung § 490 BGB bei wesentlicher Vermoegensverschlechterung oder § 314 BGB aus wichtigem Grund. AGB-Banken Nr. 19 und Nr. 26. Verbraucherdarlehen § 498 BGB qualifizierter Verzug zwei aufeinander folgende Raten mindestens 10/5 Prozent des Nennbetrags. Schadensberechnung Vorfaelligkeitsentschaedigung BGH XI ZR."
+description: "Bank kuendigt Kredit ordentlich oder ausserordentlich und Mandant will Kuendigung anfechten oder verhandeln. §§ 488 490 498 BGB ordentliche Kuendigung ausserordentliche Kuendigung Verbraucherdarlehen. Normen §§ 488 490 498 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Vorfaelligkeitsentschaedigung Schadensberechnung BGH XI ZR. Output Widerspruch Verhandlungs-Strategie Klage. Abgrenzung zu kreditkuendigung-490-bgb (Sofortfall) und widerrufsjoker (Belehrungsfehler)."
 ---
 
 # Kreditkündigung

@@ -1,6 +1,6 @@
 ---
 name: common-law-litigation-discovery
-description: "Erklärt pleadings, discovery, disclosure, depositions, privilege, evidence und settlement aus UK US Sicht."
+description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Pruefraster Verfahrensphasen-Ueberblick Privilege-Pruefung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklaerung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl)."
 ---
 
 # Litigation, Discovery und Evidence

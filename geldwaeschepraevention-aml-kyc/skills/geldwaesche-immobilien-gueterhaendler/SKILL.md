@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-immobilien-gueterhaendler
-description: "Prüft besondere AML/KYC-Risiken für Immobilienmakler, Güterhändler, Kunst, Edelmetalle, Luxusgüter und sonstige Nichtfinanzunternehmen."
+description: "AML/KYC-Pruefung fuer Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will pruefen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen § 2 Abs. 1 Nr. 14 GwG Immobilienmakler § 2 Abs. 1 Nr. 16 GwG Gueterhaendler § 4 GwG interne Sicherungsmassnahmen. Pruefraster Verpflichtetenstatus Risikoanalyse Identifizierung Transaktionsschwellen Barzahlungsverbot. Output KYC-Prozessdesign mit Risikoeinstufung Identifizierungsprotokoll und Barzahlungsregel-Dokumentation. Abgrenzung zu geldwaesche-kyc-onboarding und geldwaesche-risikoanalyse-unternehmen."
 ---
 
 # Immobilien, Güterhandel und Nichtfinanzsektor

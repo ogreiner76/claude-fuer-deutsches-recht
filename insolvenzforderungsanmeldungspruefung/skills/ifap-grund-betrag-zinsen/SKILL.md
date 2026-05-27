@@ -1,6 +1,6 @@
 ---
 name: ifap-grund-betrag-zinsen
-description: "Prüft Anspruchsgrund, Hauptforderung, Teilzahlungen, Gutschriften, Zinsen, Kosten und rechnerische Konsistenz der Anmeldung."
+description: "Anspruchsgrund Betrag und Zinsen der Insolvenzforderung prüfen: Anwendungsfall Insolvenzverwalter prueft ob angemeldeter Betrag rechnerisch korrekt und durch Anspruchsgrundlage gedeckt ist. § 174 InsO Forderungsanmeldung, §§ 38-39 InsO Insolvenzforderungen, BGB Verzugszinsen § 288. Pruefraster Hauptforderung aufschlüsseln, Teilzahlungen und Gutschriften abziehen, Zinsberechnung prüfen, Kostenpositionen prüfen. Output Berechnungsprotokoll mit Sollbetrag, Abweichungsampel und Korrekturbedarf. Abgrenzung zu Formalprüfung-174 und zu Beleg-Urkundencheck."
 ---
 
 # Grund, Betrag und Zinsen
@@ -65,6 +65,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

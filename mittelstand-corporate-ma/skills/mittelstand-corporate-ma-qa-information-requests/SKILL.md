@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-qa-information-requests
-description: "Q&A und Information Requests: Erzeugt und verwaltet Q&A-Prozess, Information Request Lists, Follow-ups und Antwortqualität."
+description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Pruefraster IRL-Vollstaendigkeit Antwortpruefung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung)."
 ---
 
 # Q&A und Information Requests

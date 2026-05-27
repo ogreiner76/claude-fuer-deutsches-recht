@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Einspruch gegen Strafbefehl, Revisionsbegruendung, Klageerzwingung: Tatsachenvortrag-Geruest, Beweisantraege, Verfahrenshindernisse, Sachruegen und Verfahrensruegen, Hilfsantraege zu Strafmass und Einstellung."
+description: "Substantiierter Schriftsatzkern fuer Strafverfahren Einspruch und Revision: Anwendungsfall Strafverteidiger muss Einspruch gegen Strafbefehl Revisionsbegruendung oder Klageerzwingungsantrag verfassen. §§ 410 ff. StPO Einspruch Strafbefehl, § 344 StPO Revisionsbegruendung, § 172 Abs. 2 bis 3 StPO Klageerzwingungsantrag, § 147 StPO Akteneinsicht. Pruefraster Tatsachenvortrag-Geruest, Beweisantrag-Liste, Verfahrenshindernisse, Sachrügen und Verfahrensrügen, Strafmass-Hilfsantrag. Output vollstaendiger Verteidigungs-Schriftsatz mit Antrag Begruendung und Beweisangebot. Abgrenzung zu Plaedoyer-Vorbereitung und zu Hauptverhandlung."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht

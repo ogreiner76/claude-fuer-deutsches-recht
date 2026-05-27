@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-simulation-testlauf
-description: "Simuliert einen Arbeitstag mit Onboarding, Alert, UBO-Lücke, Sanktionshit, Verdachtsprüfung, Schulung und Behördenfrage."
+description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtspruefung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtspruefung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwaesche-kommandocenter (Echtbetrieb) und geldwaesche-audit-internal-revision."
 ---
 
 # AML/KYC-Simulationsmodus

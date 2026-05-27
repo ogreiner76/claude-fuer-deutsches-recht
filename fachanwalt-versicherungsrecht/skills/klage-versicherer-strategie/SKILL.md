@@ -1,6 +1,6 @@
 ---
 name: klage-versicherer-strategie
-description: Klage-Strategie gegen Versicherer nach erfolgloser aussergerichtlicher Phase. Streitwertbemessung Klage am AG bis EUR 10000 LG ab EUR 10000. Strukturierung Klageantrag bezifferter Hauptanspruch hilfsweise Feststellungsantrag. Substantiierung Versicherungsfall Bedingungswerk-Auslegung. Beweisangebot Sachverstaendigen-Gutachten Zeugen Urkundenbeweis Parteivernehmung. Mahnverfahren als Alternative. Verzugsschaden Zinsen seit Faelligkeit § 14 VVG Anwaltskosten Ueberlegung Erklaerung des Versicherers im aussergerichtlichen Schriftwechsel als Anerkenntnis-Wirkung Hemmungswirkung der Ombudsstelle § 204 BGB.
+description: "Klagestrategie gegen Versicherer nach erfolgloser aussergerichtlicher Korrespondenz. Anwendungsfall alle aussergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Faelligkeit Verzug § 215 VVG oertliche Zustaendigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Pruefraster Streitwert Zustaendigkeit Klageantrag Substantiierung Beweisangebote Sachverstaendiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung."
 ---
 
 # Klage gegen Versicherer — Strategie

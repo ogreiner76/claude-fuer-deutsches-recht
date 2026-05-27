@@ -1,6 +1,6 @@
 ---
 name: ifap-schuldnerwiderspruch-184
-description: "Prüft Schuldnerwiderspruch nach § 184 InsO, Monatsfrist bei titulierten Forderungen, Rechtsstreitaufnahme und Kommunikationsbedarf."
+description: "Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist fuer Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Pruefraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Pruefungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Pruefungstermin-176."
 ---
 
 # Schuldnerwiderspruch nach § 184 InsO
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

@@ -1,6 +1,6 @@
 ---
 name: zvg-bestellung-beschlagnahme
-description: "Bestellung Beschlagnahme und Ausweis in der Zwangsverwaltung. Prüft Anordnungsbeschluss Bestallung Objekt Schuldner Gläubiger Rang Umfang und Weisungen."
+description: "Prueft Bestellungsbeschluss und Beschlagnahme am Anfang einer Zwangsverwaltung nach §§ 146-149 ZVG. Anwendungsfall Anordnungsbeschluss des Vollstreckungsgerichts liegt vor und Bestellung muss rechtlich geprueft werden. Normen § 146 ZVG Anordnung § 148 ZVG Beschlagnahme § 149 ZVG Wirkung Umfang. Pruefraster Beschluss Bestallung Objekt Schuldner Glaeubiger Rang Umfang Weisungen des Gerichts. Output Pruefliste Beschluss mit Vollstaendigkeitsvermerk und naechsten Schritten fuer Besitzuebernahme. Abgrenzung zu zvg-besitzuebernahme und zvg-aktenanlage-objektcockpit."
 ---
 
 # Bestellung und Beschlagnahme

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-medizinrecht
-description: Strukturierte Eingangs-Abfrage fuer medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklaerungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-pruefen.
+description: "Strukturierte Eingangs-Abfrage fuer medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklaerungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-pruefen."
 ---
 
 # Mandat-Triage Medizinrecht

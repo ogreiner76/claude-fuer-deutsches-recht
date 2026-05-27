@@ -1,6 +1,6 @@
 ---
 name: wenn-prognose-negativ-naechste-schritte
-description: Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog fuer den Geschaeftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Ueberschuldung drei Wochen bei Zahlungsunfaehigkeit. Zahlungsverbot § 15b InsO. Pruefung der drohenden Zahlungsunfaehigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Pruefung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan.
+description: "Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog fuer den Geschaeftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Ueberschuldung drei Wochen bei Zahlungsunfaehigkeit. Zahlungsverbot § 15b InsO. Pruefung der drohenden Zahlungsunfaehigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Pruefung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan."
 ---
 
 # Wenn die Prognose negativ ist — nächste Schritte
@@ -172,6 +172,6 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Haarmeyer § 15a InsO Rn. 1-80 — Antragspflicht, Fristen, Haftungsfolgen.
+- MüKo InsO/Haarmeyer § 15a InsO Rn. 1-80 — Antragspflicht, Fristen, Haftungsfolgen.
 - Uhlenbruck/Mock § 19 InsO Rn. 75-90 — Negative Prognose und InsO-Folgen.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 4 Rn. 4.30 — Handlungskatalog bei negativer Prognose.

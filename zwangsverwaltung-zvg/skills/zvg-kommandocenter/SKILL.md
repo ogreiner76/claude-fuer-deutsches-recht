@@ -1,6 +1,6 @@
 ---
 name: zvg-kommandocenter
-description: "ZVG Zwangsverwaltungs-Kommandocenter. Triage Bestellung Beschlagnahme Besitz Mieter Konto Bericht Rechnungslegung Verteilung und Risiken freistehend."
+description: "Kommandocenter fuer Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen Workflow starten. Normen §§ 146-161 ZVG Kernvorschriften. Pruefraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Uebersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetspruefung vor Abschluss) und zvg-simulation-training."
 ---
 
 # Zwangsverwaltungs-Kommandocenter

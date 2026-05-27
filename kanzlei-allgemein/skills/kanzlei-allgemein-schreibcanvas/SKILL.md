@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-schreibcanvas
-description: "Bietet ein Padlet-ähnliches Schreib-Canvas für Schriftsätze Briefe Rechnungen beA-Nachrichten Notizen und Mandantenkommunikation. Erkennt schwache Stellen und schlägt freundlich Tatsachen Beweise Anträge Normen und nächste Schritte vor."
+description: "Bietet ein freies Schreib-Canvas fuer Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Pruefraster Tatsachenvortrag Beweisangebote Antraege Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Antraegen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Schreib-Canvas

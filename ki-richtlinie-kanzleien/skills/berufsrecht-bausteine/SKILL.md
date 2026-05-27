@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-bausteine
-description: "Stellt berufsrechtliche Textbausteine bereit: § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB, BRAK-Hinweise 12/2024, DAV-Stellungnahme 32/2025 sowie OLG Koblenz zur Halluzinations-Haftung."
+description: "Berufsrechtliche Textbausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie und braucht praezise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung. § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025. Pruefraster Verschwiegenheitspflicht beim KI-Einsatz, Haftung fuer KI-Output OLG Koblenz, eigenverantwortliche Endkontrolle. Output Bausteine-Sammlung mit konkreten Formulierungen fuer Kanzlei-Richtlinie. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Musterklauseln-IT."
 ---
 
 # Berufsrecht-Bausteine

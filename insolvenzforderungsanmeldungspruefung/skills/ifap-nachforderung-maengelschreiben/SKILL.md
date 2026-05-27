@@ -1,6 +1,6 @@
 ---
 name: ifap-nachforderung-maengelschreiben
-description: "Erstellt freundliche und präzise Mängel- und Belegnachforderungen zu unvollständigen oder widersprüchlichen Forderungsanmeldungen."
+description: "Mängel- und Nachforderungsschreiben bei unvollstaendigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach § 174 InsO hat Mängel und Insolvenzverwalter muss Glaeubiger präzise und freundlich zur Ergänzung auffordern. § 174 InsO Pflichtangaben, § 176 InsO Pruefungstermin. Pruefraster fehlende Belege identifizieren, unklaren Anspruchsgrund präzisieren, Zinsrechnung nachfordern, Frist fuer Reaktion setzen. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist. Abgrenzung zu Formalprüfung-174 und zu Quality-Gate."
 ---
 
 # Nachforderung und Mängelschreiben
@@ -65,6 +65,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

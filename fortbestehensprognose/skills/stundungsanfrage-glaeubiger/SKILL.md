@@ -1,6 +1,6 @@
 ---
 name: stundungsanfrage-glaeubiger
-description: Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung.
+description: "Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung."
 ---
 
 # Stundungsanfrage Gläubiger

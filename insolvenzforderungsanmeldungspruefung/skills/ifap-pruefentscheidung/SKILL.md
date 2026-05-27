@@ -1,6 +1,6 @@
 ---
 name: ifap-pruefentscheidung
-description: "Erstellt nachvollziehbare Prüfentscheidungen für Feststellung, Teilfeststellung, Bestreiten, Teilbestreiten, Rückstellung und Nachforderung."
+description: "Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Pruefungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Pruefraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgruende. Output Pruefentscheidungsprotokoll mit Begruendung und tabellenreifer Status. Abgrenzung zu Quality-Gate fuer Vollstaendigkeitspruefung und zu Pruefungstermin-176."
 ---
 
 # Prüfentscheidung treffen
@@ -64,6 +64,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
+- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
 - Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
 - Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.

@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidungen-art-22-dsgvo
-description: "Erläutert das Verbot ausschließlich automatisierter Einzelentscheidungen nach Art. 22 DSGVO, Ausnahmen, Einwilligungserfordernisse und konkrete Anwendungsfälle in Kanzleien wie Mandatszuordnung, Honorarberechnung und Bonitätsprüfung."
+description: "Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulaessig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Pruefraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Pruefprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance."
 ---
 
 # Automatisierte Entscheidungen Art. 22 DSGVO

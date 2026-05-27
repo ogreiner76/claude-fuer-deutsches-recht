@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Plugin fuer schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) Hauptverhandlung (§§ 213 ff. StPO) Berufung (§ 314 StPO) Revision (§ 341 StPO) Verfassungsbeschwerde. Aktenaufbereitung im Plugin aktenaufbereiter-strafrecht.
+description: "Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Pruefraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht fuer ausfuehrliche Erstaufnahme."
 ---
 
 # Fachanwalt für Strafrecht — Orientierung

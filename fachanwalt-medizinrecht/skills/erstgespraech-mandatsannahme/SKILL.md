@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt meldet sich mit unstrukturiertem Sachverhalt zu Behandlungsfehler Approbationsproblem oder KV-Streit. § 630a BGB Behandlungsvertrag, § 43a BRAO Interessenkonflikte, § 3a RVG Honorar. Pruefraster Konstellation einordnen Arzthaftung Berufsrecht oder Vertragsarztrecht, Interessenkonflikt-Check, Vollmacht einholen, Streitwert und Gebührenvereinbarung, Fristen-Erstprognose. Output Mandats-Aufnahmeprotokoll mit Einordnung Sofortmassnahmen und Handlungsweichen. Abgrenzung zu Mandat-Triage-Medizinrecht und zu Erstgespraeach-Strafrecht."
 ---
 
 # Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht

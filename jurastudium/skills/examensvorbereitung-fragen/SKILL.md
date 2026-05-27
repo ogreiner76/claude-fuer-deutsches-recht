@@ -1,6 +1,6 @@
 ---
 name: examensvorbereitung-fragen
-description: "Examensvorbereitungs-Fragen für das 1. und 2. Juristische Staatsexamen, bundeslandspezifisch nach JAG. Lade diesen Skill, wenn der Nutzer sagt: „Examensklausur\", „Übungsfragen\", „teste mich\", „Examensvorbereitung\", „1. StEx\", „2. StEx\" oder ähnliches."
+description: "Examensvorbereitungs-Fragen fuer 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Pruefraster Fachgebiet Zivilrecht Strafrecht oeffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterloesung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose fuer Themengewichtung und zu Gutachten-Uebung fuer Klausur-Training."
 ---
 
 # Examensvorbereitungs-Fragen

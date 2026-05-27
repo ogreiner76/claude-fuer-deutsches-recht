@@ -1,6 +1,6 @@
 ---
 name: prognose-dokumentation-stichtag
-description: Abschliessende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenueber dem Geschaeftsleiter dass er aktiv geprueft hat (Haftung § 15b InsO § 43 GmbHG) und gegenueber Glaeubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung.
+description: "Abschliessende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenueber dem Geschaeftsleiter dass er aktiv geprueft hat (Haftung § 15b InsO § 43 GmbHG) und gegenueber Glaeubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung."
 ---
 
 # Prognose-Dokumentation Stichtag
@@ -190,5 +190,5 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 ## Kommentarliteratur
 
 - IDW S 11, Stand 11/2022 Rn. 75-90 — Dokumentation der Fortbestehensprognose.
-- MuenKo InsO/Haarmeyer § 15a InsO Rn. 50-70 — Dokumentation als Haftungsschutz.
+- MüKo InsO/Haarmeyer § 15a InsO Rn. 50-70 — Dokumentation als Haftungsschutz.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 4 Rn. 4.25 — Prognose-Dokumentation als GF-Pflicht.

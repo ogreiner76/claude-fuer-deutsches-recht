@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief
-description: "Erstellt Mandantenbriefe in einfacher, verständlicher Sprache – kein Juristenjargon. Übersetzt komplexe Bescheids-, Widerspruchs- oder Klageinhalte in klare, handlungsorientierte Briefe auf Niveau B1/B2. Aufrufen, wenn der Studierende dem Mandanten das Ergebnis einer Prüfung, den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will."
+description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Pruefraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte fuer Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe fuer barrierefreie Kommunikation und zu Entwurf fuer Schriftsaetze."
 ---
 
 # /mandantenbrief

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-matter-file
-description: "Deal-Akte: Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenraumspiegel, Register, Q&A, SPA, Signing, Closing und PMI."
+description: "Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a BRAO Aktenführung, GoBD Aufbewahrung. Pruefraster Ordnerstruktur 00-90-Archive, Deal-Code, Gegenparteien, Notar, Steuerberater, W&I-Versicherer. Output vollstaendig strukturierter Matter-Workspace mit Aktenzeichen, Parteienregister und Workstream-Uebersicht. Abgrenzung zu Deal-Intake fuer erste Erfassung und zu Aktenanlage fuer freistehende Version."
 ---
 
 # Deal-Akte

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-umwandlungsrecht
-description: "Umwandlungsrecht: Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und Vorfeld-Carve-outs nach UmwG mit Normen, BGH-Rechtsprechung und Schritt-Workflow."
+description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschaeftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Pruefraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Glaeubigerschutz steuerliche Rueckwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
 ---
 
 # Umwandlungsrecht

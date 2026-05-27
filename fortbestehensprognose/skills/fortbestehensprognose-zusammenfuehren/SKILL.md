@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zusammenfuehren
-description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt.
+description: "Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt."
 ---
 
 # Fortbestehensprognose zusammenführen
@@ -165,5 +165,5 @@ prognose-zusammenfassung:
 ## Kommentarliteratur
 
 - IDW S 11, Stand 11/2022 — Ergebnis der Prognose und Dokumentationspflichten.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 60-100 — Prognose-Zusammenfassung und Ergebnis.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 60-100 — Prognose-Zusammenfassung und Ergebnis.
 - Uhlenbruck/Mock § 19 InsO Rn. 50-75 — Massstab der Fortbestehensprognose.

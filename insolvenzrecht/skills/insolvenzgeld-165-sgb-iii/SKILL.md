@@ -1,6 +1,6 @@
 ---
 name: insolvenzgeld-165-sgb-iii
-description: Pruefraster Insolvenzgeld § 165 ff. SGB III. Anspruchs-Voraussetzungen Arbeitsentgelt-Forderungen letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Insolvenz-Verfahren Abweisung mangels Masse Vollstreckungs-Aussichts-Losigkeit. Antragsfrist zwei Monate § 324 SGB III Nach-Antragsfrist sechs Monate. Anspruchs-Hoehe brutto bis Beitrags-Bemessungs-Grenze. Antragstellung Agentur fuer Arbeit. Vor-Finanzierung durch Banken bis 75 Prozent Insolvenzgeld. Aufgaben Insolvenzverwalter Lohnabrechnung Bescheinigungen. Schnittstelle Anwartschaft Sozial-Versicherungs-Beitraege.
+description: "Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Pruefraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-glaeubiger fuer allgemeine Forderungsanmeldung."
 ---
 
 # Insolvenzgeld nach § 165 SGB III
@@ -343,5 +343,5 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 ## Kommentarliteratur
 
 - Fuenfhausen/Rupp, SGB III §§ 165-168 (Insolvenzgeld) — Standardkommentar Insolvenzgeld.
-- MuenKo InsO/Caspers § 55 InsO Rn. 80 ff. — Insolvenzgeld als Massekostenersatz.
+- MüKo InsO/Caspers § 55 InsO Rn. 80 ff. — Insolvenzgeld als Massekostenersatz.
 - ErfK/Koch § 165 SGB III Rn. 1 ff. — Arbeitnehmer-Insolvenzgeld Anspruchsvoraussetzungen.

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-expert-calls-transkripte
-description: "Expert Calls und Transkripte: Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-Verhandlung auf."
+description: "Expert Calls und Transkript-Auswertung fuer M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Pruefraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate fuer DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests."
 ---
 
 # Expert Calls und Transkripte

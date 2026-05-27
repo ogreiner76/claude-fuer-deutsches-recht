@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle
-description: "Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab."
+description: "KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Pruefraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetspruefung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Pruefvermerken und Freigabebestaetigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau."
 ---
 
 # Datenqualität und XAI-Qualitätskontrolle

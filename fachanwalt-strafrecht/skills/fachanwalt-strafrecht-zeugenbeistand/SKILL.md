@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-zeugenbeistand
-description: "Zeugenbeistand im Strafverfahren gemaess § 68b StPO: Beratung des Zeugen vor und in der Vernehmung, Pruefung Auskunftsverweigerungsrecht gemaess § 55 StPO und Zeugnisverweigerungsrecht gemaess §§ 52 bis 54 StPO, anwaltliche Beiordnung gemaess § 68b Abs. 2 StPO, Akteneinsicht gemaess § 406e StPO entsprechend, Vorbereitung der Aussage, Schutz vor Selbstbelastung und Druck."
+description: "Zeugenbeistand im Strafverfahren fuer Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Pruefraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo fuer Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach fuer Beschuldigte und zu Nebenklage."
 ---
 
 # Zeugenbeistand im Strafverfahren

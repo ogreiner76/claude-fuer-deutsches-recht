@@ -68,6 +68,6 @@ Bevor losgelegt wird, klaere:
 
 ## Kommentarliteratur
 
-- MuenKo InsO/Eidenmüller §§ 217-269 InsO Rn. 1 ff. — Insolvenzplan-Recht umfassend.
+- MüKo InsO/Eidenmüller §§ 217-269 InsO Rn. 1 ff. — Insolvenzplan-Recht umfassend.
 - Uhlenbruck/Lüer §§ 217-230 InsO Rn. 1 ff. — Plan-Struktur und gestaltender Teil.
 - Braun/Herzig, StaRUG, §§ 7-39 StaRUG — StaRUG-Plan-Architektur im Detail.

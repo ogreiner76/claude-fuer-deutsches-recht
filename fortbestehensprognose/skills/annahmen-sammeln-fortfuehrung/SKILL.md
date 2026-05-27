@@ -1,6 +1,6 @@
 ---
 name: annahmen-sammeln-fortfuehrung
-description: Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`.
+description: "Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`."
 ---
 
 # Annahmen sammeln (Fortführung)
@@ -178,5 +178,5 @@ annahmen:
 ## Kommentarliteratur
 
 - IDW S 11, Stand 11/2022 Rn. 30-65 — Annahmen-Sammlung und Dokumentation.
-- MuenKo InsO/Drukarczyk § 19 InsO Rn. 50 ff. — Prognose-Annahmen und Prognosehorizont.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 50 ff. — Prognose-Annahmen und Prognosehorizont.
 - K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 5 Rn. 5.10 — Fortbestehensprognose in der Praxis.

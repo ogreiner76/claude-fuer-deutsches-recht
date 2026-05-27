@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-transaktionsstruktur
-description: "Transaktionsstrukturierung: Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung."
+description: "Transaktionsstruktur fuer M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur fuer seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Pruefraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht fuer spezifische UmwG-Faelle und zu SPA/APA-Entwurf."
 ---
 
 # Transaktionsstrukturierung

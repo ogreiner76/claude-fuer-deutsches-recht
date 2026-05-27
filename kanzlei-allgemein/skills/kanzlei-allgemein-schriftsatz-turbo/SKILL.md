@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-schriftsatz-turbo
-description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort samt Anlagenlogik. Führt Anfänger durch Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand und Qualitätsgate."
+description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Pruefraster Antrag Sachverhalt Beweise Recht Fristen Zustaendigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begruendung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Schriftsatz-Turbo: Klage, Replik, Antrag

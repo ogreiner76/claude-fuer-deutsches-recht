@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-signing-closing-conditions
-description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible fuer M&A-Transaktionen."
+description: "Signing-to-Closing-Prozess mit Conditions Precedent fuer M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Pruefraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible fuer Archivierung."
 ---
 
 # Signing, Closing und Conditions Precedent

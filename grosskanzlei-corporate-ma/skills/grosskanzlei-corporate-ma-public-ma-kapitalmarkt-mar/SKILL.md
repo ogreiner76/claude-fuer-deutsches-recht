@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar
-description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Pruefung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG."
+description: "Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Uebernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Pruefraster WpUEG-Schwellen, Ad-hoc-Pruefung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Uebersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf."
 ---
 
 # Public M&A, Kapitalmarkt und MAR

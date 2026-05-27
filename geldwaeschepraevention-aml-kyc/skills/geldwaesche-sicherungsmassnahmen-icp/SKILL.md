@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sicherungsmassnahmen-icp
-description: "Baut praxistaugliche interne Sicherungsmaßnahmen, Richtlinien, Kontrollen, Eskalationen, Schulungen und Audit-Trail."
+description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Pruefraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwaesche-risikoanalyse-unternehmen und geldwaesche-audit-internal-revision."
 ---
 
 # Interne Sicherungsmaßnahmen und ICP

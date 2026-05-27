@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-nebenklage-opfervertretung
-description: "Nebenklage und Verletztenvertretung im Strafverfahren: Nebenklagebefugnis gemaess § 395 StPO, Anschluss gemaess § 396 StPO, Opferanwaltsbeiordnung gemaess § 397a StPO, Akteneinsicht der Verletzten gemaess § 406e StPO, Befugnisse gemaess § 397 StPO, psychosoziale Prozessbegleitung gemaess § 406g StPO, Anwesenheits- und Frage-, Beweisantragsrechte, RVG-Gebuehren Nrn. 4124 ff. VV-RVG, Adhaesion."
+description: "Nebenklage und Opfervertretung im Strafverfahren: Anwendungsfall Opfer einer Straftat moechte als Nebenklaeger am Verfahren teilnehmen und anwaltliche Vertretung benoetigen. §§ 395-406h StPO Nebenklage, § 403 StPO Adhaesionsantrag, OEG Opferentschaedigungsgesetz. Pruefraster Nebenklageberechtigung prüfen, Beitrittserklärung formulieren, Akteneinsicht beantragen, taktische Interessen Opfer vs. Strafverfolgung abwaegen. Output Nebenklagebeitrittserklärung mit Antragsliste und Strategie-Memo. Abgrenzung zu Adhaesionsverfahren und zu Erstgespraeach-Mandatsannahme."
 ---
 
 # Nebenklage und Opfervertretung im Strafverfahren

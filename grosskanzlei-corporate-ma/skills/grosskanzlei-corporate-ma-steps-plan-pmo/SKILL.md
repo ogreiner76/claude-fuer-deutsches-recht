@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-steps-plan-pmo
-description: "Deal-PMO und Steps Plan: Extrahiert aus Verträgen, DD und Gremienunterlagen konkrete Steps Plans für Pre-Signing, Signing-to-Closing und Post-Closing."
+description: "Deal-PMO und Steps-Plan fuer Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs Conditions Precedent. Pruefraster Pflichten Fristen Bedingungen und Deliverables aus Dokumenten extrahieren, Owner zuordnen, Eskalation dokumentieren, woechentliche PMO-Ansicht. Output Steps-Plan mit Aufgaben, Owner, Fristen und Statusampel fuer alle Deal-Phasen. Abgrenzung zu Fristen-CP-Kalender fuer Kalender-Ansicht und zu Post-Closing-Integration."
 ---
 
 # Deal-PMO und Steps Plan

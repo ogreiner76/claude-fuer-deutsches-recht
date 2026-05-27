@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-expert-calls-transkripte
-description: "Expert Calls und Transkripte: Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-Verhandlung auf."
+description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte fuer DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Pruefraster Kernaussagen-Extrakt Widerspruechepruefung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtspruefung)."
 ---
 
 # Expert Calls und Transkripte

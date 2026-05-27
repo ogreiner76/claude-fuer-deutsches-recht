@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid
-description: "Off-Label-Use bei Long-COVID und ME/CFS Erstattung durch gesetzliche Krankenversicherung GKV. § 35c SGB V Off-Label-Liste § 92 Abs. 1 SGB V Richtlinie Methodenbewertung. Nikolaus-Beschluss BVerfG 1 BvR 347/98 lebensbedrohliche Erkrankungen ohne Alternative. BSG B 1 KR 19/22 zu Long-COVID. Therapien Low-Dose-Naltrexon Apheresen Immunadsorption. Klage Sozialgericht Verfahrensbeschleunigung."
+description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Pruefraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz fuer GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a."
 ---
 
 # Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS

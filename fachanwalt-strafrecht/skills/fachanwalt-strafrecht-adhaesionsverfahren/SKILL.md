@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-adhaesionsverfahren
-description: "Adhaesionsverfahren im Strafverfahren gemaess §§ 403 bis 406c StPO: Geltendmachung zivilrechtlicher Anspruche der Verletzten im Strafprozess, Schmerzensgeld, Schadenersatz, Antragstellung gemaess § 404 StPO, Vergleich gemaess § 405 StPO als Vollstreckungstitel, Grundurteil gemaess § 406 StPO, Verzicht durch Gericht, RVG-Gebuehren Nrn. 4143 bis 4147 VV-RVG, Vollstreckung."
+description: "Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Pruefraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verstaendigung § 257c StPO."
 ---
 
 # Adhäsionsverfahren im Strafverfahren

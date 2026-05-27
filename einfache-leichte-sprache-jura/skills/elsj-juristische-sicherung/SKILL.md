@@ -1,6 +1,6 @@
 ---
 name: elsj-juristische-sicherung
-description: "Sichert bei verständlichen Fassungen juristischer Texte Rechte, Pflichten, Fristen, Beträge, Rechtsfolgen, Ausnahmen und Unsicherheiten gegen Bedeutungsverlust."
+description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Pruefraster Rechte-Vollstaendigkeit Pflichten-Sicherung Fristen-Erhalt Rechtsfolgen-Klarheit Ausnahmen-Abbildung. Output juristische Sicherungs-Checkliste gesicherte Fassung. Abgrenzung zu elsj-einfache-sprache (Uebertragung) und elsj-qualitaetsgate (Endpruefung)."
 ---
 
 # Juristische Sicherung

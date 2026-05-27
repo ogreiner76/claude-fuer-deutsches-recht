@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit
-description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung § 159 SGB III. Wichtiger Grund Arbeitgeberinitiative drohende betriebsbedingte Kuendigung. Abfindung halbes Brutto pro Beschaeftigungsjahr Faustformel. Steuer Fuenftel-Regelung Krankenversicherung Karenz Wettbewerbsverbot Outplacement Klauseln. Workflow Pruefraster Verhandlungs-Strategie."
+description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kuendigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhaeltnis aufloesen ohne Sperrzeit fuer Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Pruefraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg."
 ---
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung
@@ -18,6 +18,7 @@ Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch
 5. Sonderkündigungsschutz (BR, Schwerbehindert, Schwanger, Eltern)?
 6. Bestehende Krankheit, BEM-Verfahren?
 7. Eltern- / Pflegezeit?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## 2) Sperrzeit-Vermeidung — wichtige Konstellationen
 
@@ -87,7 +88,22 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 - „Betriebsbedingte Kündigung waere ausgesprochen worden" (Sperrzeit-Schutz)
 - Vermeiden: „AN bittet um Aufhebung" (Sperrzeit-Risiko)
 
+### Schlussabsatz Variante A (kooperativ)
+
+Wir sind an einer einvernehmlichen und zügigen Lösung interessiert und stehen für Rückfragen zur Formulierung der Sperrzeit-Klausel zur Verfügung. Eine konstruktive Einigung nutzt beiden Seiten.
+
+### Schlussabsatz Variante B (formal-streng)
+
+Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Sperrzeit-Vermeidung. Abweichungen von der vorgeschlagenen Formulierung bedürfen der ausdrücklichen Zustimmung unserer Kanzlei und werden auf Sperrzeit-Konformität geprüft.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## 7) Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1 — Mandanten-Beratung
 

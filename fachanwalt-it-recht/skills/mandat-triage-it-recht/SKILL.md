@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-it-recht
-description: Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate. Klaert Sachgebiet (Softwareerstellung Lizenzrecht SaaS Cloud Hosting IT-Sicherheit DSGVO IT-Compliance NIS-2 Cyber-Vorfall AI-Act KRITIS Telekommunikationsrecht TMG Provider-Haftung E-Commerce Domain-Recht Plattformrecht DSA TMG abgeloest durch DDG seit 14.05.2024) Mandantenrolle (Auftraggeber Auftragnehmer Plattform Hosting-Provider Nutzer) Vertragstyp Phase (vor Vertrag waehrend Projekt nach Abnahme Streit) Sofort-Fristen Cyber-Vorfall-Meldung 72-Stunden-DSGVO 24-Stunden-NIS-2 Stilllegungs-Anordnungen. Eskalation Telefon-Sofort bei Cyber-Vorfall Hacker-Angriff. Routing zu softwarefehler-mangelhaftung-pruefen.
+description: "Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Pruefraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h."
 ---
 
 # Mandat-Triage IT-Recht

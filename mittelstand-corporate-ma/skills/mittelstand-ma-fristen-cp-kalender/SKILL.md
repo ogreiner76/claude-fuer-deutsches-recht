@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-fristen-cp-kalender
-description: "Freistehender Deal-Fristen- und CP-Kalender: führt Signing-, Closing-, Q&A-, Regulatory-, Register-, Board-, Ordinary-Course- und Restrukturierungsfristen im M&A-Mandat."
+description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender fuer M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Pruefraster CP-Vollstaendigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan)."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender
