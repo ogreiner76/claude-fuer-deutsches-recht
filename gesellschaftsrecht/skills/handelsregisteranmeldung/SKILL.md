@@ -5,6 +5,17 @@ description: "Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR
 
+## Triage zu Beginn
+
+Vor der Anmeldungsvorbereitung klaeren:
+
+1. **Anmeldungsgegenstand:** Was soll angemeldet werden? (Geschaeftsfuehrer-Wechsel, Prokura, Sitzverlegung, Kapitalerhoehung, Satzungsaenderung, Liquidation, Loeschung)
+2. **Registerart:** HRB (GmbH/AG), HRA (OHG/KG), GnR (eG), PartGR (PartG)? Bei GmbH & Co. KG: sowohl HRB als auch HRA betroffen?
+3. **Unterlagen vollstaendig?** Gesellschafterbeschluss (ggf. notariell beurkundet bei Satzungsaenderung § 53 GmbHG), Versicherung GF (§ 8 Abs. 3 GmbHG), Satzung aktuell?
+4. **Notar beauftragt?** § 12 HGB: oeffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
+5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen koennen in einer Anmeldung zusammengefasst werden; Voraussetzungen fuer jede Aenderung separat pruefen.
+6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
+
 ## Zweck
 
 Dieser Skill unterstützt bei der Vorbereitung und Überprüfung von Anmeldungen
@@ -120,12 +131,74 @@ werden kann.
 
 ## Ausgabeformat
 
-- **Anmeldungsschreiben** (Schriftsatz): Adressat Amtsgericht – Handelsregister;
-  Bezeichnung der Gesellschaft mit HRB-Nummer; Gegenstand der Änderung;
-  Rechtsgrundlage; Anlage: notariell beglaubigte Unterschriften.
+- **Anmeldungsschreiben** (Schriftsatz): Adressat Amtsgericht — Handelsregister; Bezeichnung der Gesellschaft mit HRB-Nummer; Gegenstand der Aenderung; Rechtsgrundlage; Anlage: notariell beglaubigte Unterschriften.
 - **Checkliste Unterlagen** (Tabelle): Dokument | Erfordernis | Erledigt.
-- **Memo negative Publizität** (Gutachtenstil): Risiken aus § 15 HGB bei
-  verzögerter Anmeldung.
+- **Memo negative Publizitaet** (Gutachtenstil): Risiken aus § 15 HGB bei verzoegerter Anmeldung.
+
+## Output-Template
+
+**Adressat:** Amtsgericht — Handelsregister — Tonfall: sachlich-juristisch, formbewusst
+
+```
+ANMELDUNG ZUM HANDELSREGISTER
+
+An das
+Amtsgericht [ORT] — Handelsregister
+[ADRESSE]
+
+[ORT], [TT.MM.JJJJ]
+
+Betreff: [FIRMA] — [HRB/HRA-NUMMER] — Anmeldung [GEGENSTAND]
+
+Anmeldende Partei: [KANZLEI / NOTAR] fuer [GESELLSCHAFT]
+
+Hiermit melden wir im Namen der [FIRMA] mit Sitz in [ORT], eingetragen im
+Handelsregister des Amtsgerichts [ORT] unter [HRB/HRA-NUMMER], folgende
+Aenderung zur Eintragung an:
+
+I. ANMELDUNGSGEGENSTAND
+[GENAUE BESCHREIBUNG DER AENDERUNG]
+Rechtsgrundlage: [§ NORM]
+
+II. ANMELDENDE PERSONEN (§ 78 GmbHG / § [NORM])
+[NAME], [FUNKTION], wohnhaft [ADRESSE]
+[Fuer alle anmeldepflichtigen Personen wiederholen]
+
+III. ANLAGEN
+1. Gesellschafterbeschluss vom [DATUM] [notariell beurkundet / oeffentlich beglaubigt]
+2. [Anlage 2]
+3. [Anlage 3 (z.B. Versicherung § 8 Abs. 3 GmbHG)]
+4. Aktueller Gesellschaftsvertrag / Satzung [falls geaendert]
+
+IV. ERKLAERUNGEN
+[Falls GF-Wechsel: Versicherung des neuen Geschaeftsfuehrers nach § 8 Abs. 3 GmbHG
+bei. Die antretenden Personen versichern, dass keine Bestellungshindernisse
+gemaiß § 6 Abs. 2 GmbHG vorliegen.]
+
+Die Unterschriften der Anmeldenden wurden notariell beglaubigt (§ 12 Abs. 1
+HGB) und werden durch Notar [NAME] elektronisch uebermittelt (§ 12 Abs. 2 HGB).
+
+Mit freundlichen Gruessen
+[NOTAR / KANZLEI]
+[NAME]
+[ANSCHRIFT]
+
+--- UNTERLAGEN-CHECKLISTE ---
+| Dokument | Erfordernis | Erledigt |
+|---|---|---|
+| Gesellschafterbeschluss | § 46 GmbHG / [NORM] | [JA / OFFEN] |
+| Versicherung GF | § 8 Abs. 3 GmbHG | [JA / ENTFAELLT] |
+| Beglaubigung Unterschrift | § 12 Abs. 1 HGB | [JA / OFFEN] |
+| Aktueller GV / Satzung | [§ 53 GmbHG] | [JA / ENTFAELLT] |
+| Bekanntmachung vorbereitet | § 10 GmbHG | [JA / ENTFAELLT] |
+```
+
+## Rote Schwellen
+
+- **Formfehler § 12 HGB (fehlende Beglaubigung)** — Registergericht weist Anmeldung zurueck; erneute Vorlage mit Zeitverlust; Notar vor Einreichung pruefen lassen.
+- **Versicherungspflicht § 8 Abs. 3 GmbHG fehlt** — Anmeldung ohne GF-Versicherung wird abgelehnt; Versicherung vor Notartermin einholen.
+- **§ 15 Abs. 1 HGB: Verzoegerung > 2 Wochen** — Ausscheidender GF haftet ggf. weiterhin gegenueber Dritten; neuer GF kann Vertretungsmacht nicht aus Register beweisen; Anmeldung unverzueglich einreichen.
+- **Satzungsaenderung ohne notarielle Beurkundung** — § 53 Abs. 2 GmbHG: Formnichtigkeit; Notar muss beurkunden (nicht nur beglaubigen).
 
 ## Beispiel
 

@@ -132,3 +132,29 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` — vor Antrag
 - `fachanwalt-vergaberecht-de-facto-vergabe-klage` — bei De-facto-Vergabe
 - `fachanwalt-vergaberecht-orientierung` — Triage
+
+## Vertiefung: Output-Template VK-Verfahren
+
+### Output-Template Antrag Zuschlagssperre § 169 GWB
+**Adressat:** Vergabekammer — Tonfall: sachlich-juristisch, eilig
+
+```
+An die Vergabekammer [NAME]
+
+Antrag auf Untersagung des Zuschlags (§ 169 Abs. 2 GWB)
+Az. Verfahren: [AZ.]
+
+Sehr geehrte Damen und Herren,
+
+im Nachpruefungsverfahren beantragen wir zugleich,
+der Antragsgegnerin zu untersagen, den Zuschlag zu erteilen,
+bis ueber den Nachpruefungsantrag entschieden wurde.
+
+Begruendung: § 169 Abs. 1 GWB gilt die Zuschlagssperre
+automatisch bis zur Entscheidung der Vergabekammer.
+Eine ausnahmsweise sofortige Zuschlagserteilung (§ 169 Abs. 2)
+waere hier nicht gerechtfertigt, weil:
+[Begruendung: kein ueberragendes Interesse an sofortigem Zuschlag]
+
+[Rechtsanwalt/-anwaeltin]
+```

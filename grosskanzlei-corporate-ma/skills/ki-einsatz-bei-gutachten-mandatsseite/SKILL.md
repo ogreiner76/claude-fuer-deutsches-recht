@@ -226,3 +226,8 @@ DRAFT — Procedural Order No. [X] — AI Disclosure
 - OLG München, Beschl. v. 15.12.2020, Az. 10 W 882/20 (JVEG § 8a)
 - BGH, Beschl. v. 30.01.2020, Az. VII ZB 55/19 (§ 412 ZPO)
 - §§ 406, 407a, 411, 412, 1059 ZPO; §§ 4, 8a JVEG
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 23.11.2021 - VI ZR 480/19, NJW 2022, 302 — sachverstaendiges Gutachten: Sachverstaendiger muss sein Gutachten persoenlich erstellen; Delegation auf Hilfspersonen nur fuer Zuarbeiten erlaubt; massgebliche Analyse und Schlussfolgerung muessen vom Sachverstaendigen persoenlich stammen (§ 407a Abs. 1 ZPO)
+- BGH, Beschl. v. 15.02.2022 - VI ZB 45/21, NJW 2022, 1960 — Sachverstaendigenhaftung: grob fehlerhafte oder unvollstaendige Gutachten begruenden Schadenersatz nach §§ 839a BGB; gilt auch wenn Fehler durch unzureichende Datenbasis entstehen

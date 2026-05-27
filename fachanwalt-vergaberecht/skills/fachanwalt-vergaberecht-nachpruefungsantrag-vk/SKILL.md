@@ -249,3 +249,53 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 ## Quellen
 
 GWB §§ 97, 99, 100, 106, 135, 160, 162, 163, 165, 167, 169, 171, 173, 181, 182; VgV §§ 14, 42 ff., 53, 58, 60, 63; SektVO; VOB/A-EU; BGH X ZB 12/19; BGH X ZB 22/13; BGH XIII ZB 93/22; OLG Düsseldorf Verg 23/19; OLG München Verg 1/21; EuGH C-3/15; EuGH C-19/00; Burgi Vergaberecht 3. Aufl. 2022; Bechtold/Bosch GWB 10. Aufl. 2023.
+
+## Vertiefung: Triage und Output-Template Nachpruefungsantrag
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Ruege § 160 Abs. 3 GWB fristgerecht erhoben und Ablehnungsbescheid erhalten?
+2. 15-Tage-Antragsfrist noch offen (§ 160 Abs. 3 Nr. 4 GWB)?
+3. Antragsbefugnis: Bieter hat am Verfahren teilgenommen oder haette teilnehmen koennen?
+4. Wird Vorabentscheidung § 169 GWB beantragt (Zuschlagssperre)?
+5. Zustaendige Vergabekammer (Bund: BKartA; Laender: Landesvergabekammer)?
+
+### Output-Template Nachpruefungsantrag
+**Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
+
+```
+An die Vergabekammer [BUND/LAND]
+[ANSCHRIFT]
+
+N A C H P R U E F U N G S A N T R A G
+
+nach §§ 160 ff. GWB
+
+Antragsteller:    [NAME BIETER], [ANSCHRIFT]
+                  - vertr. d. [Rechtsanwalt/-anwaeltin] -
+Antragsgegner:    [AUFTRAGGEBER / VERGABESTELLE], [ANSCHRIFT]
+Beigeladene:      [BEZEICHNETER BIETER falls bekannt]
+Az. Verfahren:    [TED-Nr. / Vergabe-Az.]
+
+1. Antraege:
+a) Die Antragsgegnerin wird verpflichtet, das Vergabeverfahren
+   in den Stand vor [VERSTOSS] zurueckzuversetzen und die Wertung
+   unter Beachtung der Rechtsauffassung der Vergabekammer
+   zu wiederholen.
+b) Der Antragsgegnerin wird untersagt, den Zuschlag zu erteilen,
+   bis ueber diesen Antrag entschieden wurde.
+c) Der Antragsgegnerin werden die Kosten des Verfahrens
+   auferlegt.
+
+2. Sachverhalt:
+[Chronologische Darstellung; Vergabeverfahren, Angebot, Verstoss]
+
+3. Rechtliche Begruendung:
+[Verstoss gegen §§ 97 ff. GWB / VgV / SektVO mit Leitsaetzen]
+
+4. Ruege:
+Ruege vom [DATUM] als Anlage K1; Ablehnungsbescheid vom [DATUM]
+als Anlage K2. Frist § 160 Abs. 3 Nr. 4 GWB gewahrt.
+
+[Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
+```

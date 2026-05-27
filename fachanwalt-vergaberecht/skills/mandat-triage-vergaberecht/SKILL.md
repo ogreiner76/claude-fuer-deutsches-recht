@@ -121,3 +121,36 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - GKG § 50
 - BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 - Burgi Vergaberecht
+
+## Vertiefung: Leitsaetze und Output-Template Triage
+
+### Triage-Vertiefung — kritische Vergaberecht-Fristen
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 — Ruegeobliegenheit: max. 10 Tage nach Kenntnis.
+- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 — 15 Tage Nachpruefungsantrag nach Ruegerueckweisung.
+- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Bieter muss konkrete Beeintraechtigung seiner Vergabechancen darlegen.
+- OLG Dusseldorf, Beschl. v. 25.01.2023 - Verg 30/22, NZBau 2023, 255 — Wertungsmatrix: transparente Anwendung obligatorisch.
+
+### Output-Template Triage-Protokoll Vergaberecht
+**Adressat:** Intern — Tonfall: schnell, fristorientiert
+
+```
+TRIAGE-PROTOKOLL Vergaberecht
+=========================================
+Eingangsdatum:              [TT.MM.JJJJ]
+Mandant:                    [NAME / UNTERNEHMEN]
+Vergabeverfahren:           [BEZEICHNUNG, TED-NR.]
+Auftragsgegenstand:         [LIEFERUNG / DIENSTLEISTUNG / BAU]
+Auftragswert (geschaetzt):  EUR [BETRAG]
+EU-Schwellenwert:           UEBERSCHRITTEN / NICHT UEBERSCHRITTEN
+Mandantenrolle:             [Bieter / Auftraggeber / Beigeladene]
+Verstoss:                   [WERTUNG / EIGNUNG / DISKRIMINIERUNG ...]
+Kenntnisdatum:              [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist:    [TT.MM.JJJJ]
+Informationsschreiben §134: [JA vom DATUM / NEIN]
+Stillhaltefrist bis:        [DATUM]
+Zuschlag erteilt:           JA / NEIN
+Prioritaet:                 ROT (Sofort) / GELB / GRUEN
+Naechster Schritt:          [Ruege / NPA / §181-Klage]
+=========================================
+```

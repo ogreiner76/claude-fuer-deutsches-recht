@@ -214,3 +214,46 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 - Schack, Internationales Zivilverfahrensrecht, 7. Aufl. 2021
 - New Yorker Übereinkommen v. 10.06.1958, BGBl. 1961 II S. 121
 - ZPO §§ 1029 ff., § 328
+
+## Vertiefung: Triage und Output-Template Gerichtsstand
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Gibt es Gerichtsstandsklausel im Vertrag (Art. 25 Bruessel Ia)? → Schriftform, ausschliesslich?
+2. Haben beide Parteien EU-Sitz? → Bruessel Ia; sonst: nationales IPR oder Hague Convention
+3. Wurde Schiedsklausel vereinbart? → §§ 1025 ff. ZPO; nicht Bruessel Ia
+4. Verbraucher oder Arbeitnehmer beteiligt? → Art. 17-22 Bruessel Ia Schutzgerichtsstand
+5. Welches Recht anwendbar? → Unabhaengig von Zustaendigkeit: Rom I / Rom II
+
+### Output-Template Gerichtsstand- und Rechtswahlgutachten
+**Adressat:** Mandant oder Gericht — Tonfall: praezis-juristisch
+
+```
+GERICHTSSTAND- UND RECHTSWAHLGUTACHTEN
+======================================
+Vertrag: [BEZEICHNUNG] / [DATUM]
+Parteien:
+  Klaeger: [NAME, SITZ: EU / NICHT-EU]
+  Beklagter: [NAME, SITZ: EU / NICHT-EU]
+
+I. INTERNATIONALE ZUSTAENDIGKEIT
+---------------------------------
+1. Gerichtsstandsklausel (Art. 25 Bruessel Ia):
+   [JA — [GERICHT, ORT] / NEIN]
+2. Beklagter in EU: [JA: Art. 4 Bruessel Ia / NEIN: nationales Recht]
+3. Besonderer Gerichtsstand (Art. 7):
+   Vertrag: Erfuellungsort = [ORT] → Gerichtsstand [GERICHT]
+   Delikt: Schadensort = [ORT] → Gerichtsstand [GERICHT]
+4. Empfehlung Gerichtsstand: [GERICHT, ORT]
+
+II. ANWENDBARES RECHT
+----------------------
+1. Rechtswahl (Art. 3 Rom I):
+   [JA — [RECHTSORDNUNG] / NEIN]
+2. Objektive Anknuepfung (Art. 4 Rom I):
+   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER, SITZ: LAND]
+   → Anwendbares Recht: [RECHTSORDNUNG]
+3. CISG: [ANWENDBAR / AUSGESCHLOSSEN]
+4. Ergebnis: Anwendbares Recht: [RECHTSORDNUNG]
+======================================
+```

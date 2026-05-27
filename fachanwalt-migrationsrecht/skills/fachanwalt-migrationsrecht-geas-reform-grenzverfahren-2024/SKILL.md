@@ -270,3 +270,60 @@ Mit freundlichen Grüßen
 ## Quellen
 
 Stand: 05/2026. GEAS-Reform-Verordnungen verabschiedet 14.05.2024, Amtsblatt EU 22.05.2024; Anwendbarkeit 12.06.2026. VO (EU) 2024/1348 (AVO), 2024/1349 (GVO), 2024/1351 (AMVO), 2024/1356 (Screening), 2024/1347 (QualifikationsVO). AsylG §§ 18–20, 34a, 36, 74, 75, 83b. BVerfG 2 BvR 1516/93. EGMR 30696/09 (M.S.S.). EuGH C-175/17. EuGH C-69/10. EU-Kommissions-Implementierungsregeln laufend verfolgen.
+
+## Output-Template: Eilantrag GEAS-Grenzverfahren (§ 36 AsylG / Art. GVO 2024/1349)
+
+**Adressat:** Verwaltungsgericht [ORT] (zustaendig fuer Grenzverfahren)
+**Tonfall:** Hochdringend; 7-Tage-Frist betonend
+
+```
+[KANZLEI]
+[ADRESSE]
+
+Verwaltungsgericht [ORT]
+[ADRESSE]
+
+EILANTRAG — AUFSCHIEBENDE WIRKUNG
+(§ 36 Abs. 3 AsylG, Art. 47 GVO 2024/1349)
+
+Antragsteller: [NAME, geb. DATUM, STAATSANG.]
+Ort der Unterbringung: [Grenz-Aufnahmezentrum / Flughafen / ...]
+Aktenzeichen BAMF: [AZ]
+Beantragter Schutz: [GFK § 3 AsylG / subsidiaer § 4 AsylG]
+Bescheid-Datum: [DATUM] — Rechtsbehelfsfrist 7 Tage laeuft bis: [DATUM]
+
+Prozessbevollmaechtigte: [KANZLEI, ADRESSE, beA-ID]
+
+ANTRAG:
+Die aufschiebende Wirkung der Klage gegen den Bescheid des BAMF
+vom [DATUM], Az. [AZ], wird angeordnet.
+
+Hilfsweise: Dem Antragsgegner wird untersagt, den Antragsteller
+abzuschieben bis zur Entscheidung ueber diesen Antrag.
+
+BEGRUENDUNG:
+
+A. GRENZVERFAHREN-ZULAESSIGKEIT ZWEIFELHAFT
+Der Antragsteller stammt aus [HERKUNFTSLAND]. Anerkennungsquote laut
+EU-Daten: [X%]. Die Einbeziehung in das Pflicht-Grenzverfahren nach
+Art. 42 GVO 2024/1349 ist [nicht gerechtfertigt / rechtswidrig weil]:
+- Besondere Schutzbeduerftigkeit Art. 42 Abs. 3 GVO: [TRAUMATISIERUNG /
+  MINDERJAEHRIGKEIT / CHRONISCHE ERKRANKUNG — Attest Anlage K1]
+- Individuelle Verfolgungs-Konstellation weicht von Statistik ab: [...]
+
+B. VERFAHRENSFEHLER
+- [Anhörung unzureichend / Dolmetscher falsch / Sprache falsch]
+- [Rechtsbelehrung nicht in verstaendlicher Sprache gemaess Art. 11 AVO 2024/1348]
+
+C. AUSSICHT IM HAUPTSACHEVERFAHREN
+[Kurzbegründung warum Klage Erfolg hat]
+
+D. FOLGENABWAEGUNG
+Bei Vollzug droht irreversible Abschiebung in einen Staat, in dem
+[konkrete Gefährdung]. Keine Rückkehrmöglichkeit bis Verfahrensabschluss.
+
+Anlagen: K1 Attest, K2 Anhörungsprotokoll, K3 BAMF-Bescheid
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```

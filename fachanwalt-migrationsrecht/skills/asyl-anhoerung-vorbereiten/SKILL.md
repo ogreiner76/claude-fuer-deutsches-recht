@@ -282,3 +282,48 @@ Mit freundlichen Grüßen
 ## Quellen
 
 Stand: 05/2026. AsylG §§ 3, 4, 12a, 25, 26a, 36, 74. AufenthG § 60. Dublin-III VO (EU) 604/2013 Art. 8–11, 17, 20, 29. RL 2011/95/EU Art. 4 Abs. 4. BVerwG 10 C 21.08 (05.05.2009). BVerwG 1 C 22.15 (14.12.2016). EGMR 30696/09 M.S.S. (21.01.2011). BVerfG 2 BvR 1516/93 (14.05.1996). Hailbronner Ausländerrecht. Bergmann/Dienelt AuslR. UNHCR-Länderberichte laufend aktualisieren.
+
+## Output-Template: Vorbereitungs-Checkliste Asyl-Anhoerung
+
+**Adressat:** Intern (Anwaltskanzlei) / Mandant
+**Tonfall:** Strukturiert-verfahrensrechtlich
+
+```
+ANHOERUNGSVORBEREITUNG — CHECKLISTE
+Mandant: [NAME, geb. DATUM, Staatsang.]
+BAMF-Anhoerung: [DATUM, UHRZEIT, BAMF-Aussenstelle]
+Bevollmaechtigte Kanzlei: [NAME]
+
+A. LOGISTIK (bis 2 Tage vor Termin)
+[ ] Vollmacht § 25 Abs. 5 AsylG bei BAMF angezeigt
+[ ] Beistandsanmeldung erfolgt
+[ ] Dolmetscher-Wahl bestätigt (Sprache: [X])
+[ ] Anreise und Begleitung organisiert
+[ ] Kinderbetreuung (falls noetig)
+
+B. UNTERLAGEN (gesammelt und kopiert)
+[ ] Identitätsdokumente (Pass / Ausweis / Geburtsurkunde)
+[ ] Laenderkunde-Berichte (AA, UNHCR, EASO) — Anlage 1
+[ ] Attest Trauma / Erkrankung — Anlage 2
+[ ] Sonstige Beweismittel — Anlage 3
+
+C. INHALT DER SCHILDERUNG (gemeinsam erarbeitet)
+Chronologie der Ereignisse:
+- [DATUM 1]: [EREIGNIS 1]
+- [DATUM 2]: [EREIGNIS 2]
+- Ausreisedatum: [DATUM]
+
+Kernaussagen zur Glaubwuerdigkeit:
+- [Konkrete individuelle Erfahrung 1]
+- [Warum innerstaatliche Fluchtalternative nicht moeglich: ...]
+
+D. NACH DER ANHOERUNG
+[ ] Protokoll sofort pruefen — Korrekturen NICHT unterschreiben
+[ ] Korrekturen in Schriftform innerhalb 3 Tage an BAMF
+[ ] Klagefrist vormerken: § 74 AsylG 2 Wochen / § 36 AsylG 1 Woche
+[ ] PKH-Antrag VG vorbereiten (§ 83b AsylG: gerichtskostenfrei)
+
+Naechste Schritte:
+1. [Schritt 1 — Owner — Frist]
+2. [Schritt 2]
+```

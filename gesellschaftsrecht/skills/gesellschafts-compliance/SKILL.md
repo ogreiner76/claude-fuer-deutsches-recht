@@ -432,6 +432,64 @@ CSV-Spalten: `Gesellschaftsname, Typ, HR-Nummer, Registergericht, Gründungsdatu
 | Größenklassenwechsel in Sichtweite | § 267 Abs. 4 HGB-Zweijahresregel prüfen; wenn zweites Jahr unter Schwellen: Prüfungspflicht entfällt; Prüfungsvertrag ggf. nicht verlängern |
 | Ruhende Gesellschaft seit > 3 Jahren | Formale Auflösung (§ 65 GmbHG) prüfen; Kostenersparnis (HR-Gebühren, Buchhaltung, Steuern) gegen Auflösungsaufwand abwägen |
 
+## Output-Template
+
+**Adressat:** Mandant / Geschaeftsfuehrer / Complianceverantwortlicher — Tonfall: sachlich-strukturiert, handlungsorientiert
+
+```
+GESELLSCHAFTS-COMPLIANCE-BERICHT
+Mandat/Praxis: [MANDATSCODE / PRAXISNAME]
+Erstellt von: [NAME], [KANZLEI]
+Datum: [TT.MM.JJJJ]
+Berichtszeitraum: [DATUM] bis [DATUM]
+
+> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+
+--- PORTFOLIOÜBERSICHT ---
+Gesellschaften gesamt: [N]
+Status aktiv: [N] | ruhend: [N] | unbekannt: [N]
+
+--- BILANZPUBLIZITAET § 325 HGB ---
+Frist 12 Monate nach Geschaeftsjahresende
+
+| Gesellschaft | GJ-Ende | Offenlegungsfrist | Eingereicht | Status |
+|---|---|---|---|---|
+| [NAME GmbH] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [TT.MM.JJJJ / OFFEN] | [OK / UEBERFAELLIG / ORDNUNGSGELD] |
+
+Ordnungsgeldgefahr (§ 335 HGB): [N] Gesellschaften
+Hoechstes Risiko: [NAME], ueberfaellig seit [N] Tagen (drohendes Ordnungsgeld: bis [BETRAG] EUR)
+
+--- GESELLSCHAFTERLISTE § 40 GmbHG ---
+Zuletzt eingereicht: [DATUM] / noch nicht eingereicht
+Aendering: [BESCHREIBUNG] am [DATUM]
+Handlungsbedarf: [JA — Notar beauftragen bis TT.MM.JJJJ / NEIN]
+
+--- TRANSPARENZREGISTER §§ 18 ff. GwG ---
+Beguenstigter(wirtschaftlich Berechtigter): [NAME], [BETEILIGUNG] %
+Letztes Update: [DATUM]
+Status: [AKTUELL / AENDERUNG ERFORDERLICH bis TT.MM.JJJJ]
+
+--- PRÜFUNGSPFLICHT § 316 HGB ---
+| Gesellschaft | Groessenklasse | Pruefungspflichtig | Pruefungsauftrag erteilt |
+|---|---|---|---|
+| [NAME] | [Gross / Mittel / Klein] | [JA / NEIN] | [DATUM / OFFEN] |
+
+--- EMPFOHLENE MASSNAHMEN (PRIORISIERT) ---
+1. [HOECHSTE PRIORITAET] — Frist: [DATUM] — verantwortlich: [PERSON]
+2. [MITTLERE PRIORITAET] — Frist: [DATUM] — verantwortlich: [PERSON]
+3. [NIEDRIGE PRIORITAET] — keine akute Frist
+
+--- NAECHSTER AUDIT-TERMIN ---
+[DATUM] (Empfehlung: jaehrlich, 90 Tage vor GJ-Ende)
+```
+
+## Rote Schwellen
+
+- **Bilanzpublizitaet § 325 HGB > 12 Monate ueberfaellig** — Ordnungsgeldverfahren BfJ laeuft oder droht (§ 335 HGB: bis 25.000 EUR je Verstoß); sofort Jahresabschluss erstellen und einreichen.
+- **Gesellschafterliste § 40 GmbHG nach Abtretung > 3 Wochen nicht eingereicht** — gutglaeuber Erwerb durch Dritte moeglich (§ 16 Abs. 3 GmbHG); Notar sofort beauftragen.
+- **Transparenzregister-Eintrag nach Beteiligungsaenderung > 2 Wochen nicht aktualisiert** — Bußgeld bis 1.000.000 EUR (§ 56 Abs. 1 GwG).
+- **Groessenklassenwechsel zur grossen Kapitalgesellschaft nicht erkannt** — Prüfungspflicht § 316 HGB gilt ab zweitem Jahr in Folge (§ 267 Abs. 4 HGB); Prüfungsauftrag erteilen.
+
 ## Anschluss-Skills
 
 - `gesellschaftsrecht:gesellschaftsrecht-mandat-arbeitsbereich` — Mandatsworkspace für die betroffene Gesellschaft

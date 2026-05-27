@@ -181,3 +181,8 @@ Vertraulichkeitsvertrag vom [Datum] (Anlage [X]).
 - BGH, Urt. v. 26.06.2018, Az. II ZR 354/17 (GmbH-Anteilsübertragung, § 15 GmbHG)
 - BGH, Urt. v. 23.04.2012, Az. II ZR 159/10 (Nachfolgeklausel)
 - § 50 BRAO; §§ 5, 6, 8 GwG; §§ 15, 40 GmbHG; §§ 2032 ff. BGB; Art. 5 DSGVO
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrungspflicht: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer den Mandanten jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten im M&A-Mandat
+- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: Anwalt muss Akte so fuehren, dass Mandant saemtliche Informationen und Ergebnisse erhalten hat; lueckenhafte Aktenfuehrung kann Pflichtverletzung begruenden

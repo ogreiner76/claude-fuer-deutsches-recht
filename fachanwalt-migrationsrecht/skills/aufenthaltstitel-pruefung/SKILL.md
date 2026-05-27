@@ -302,3 +302,44 @@ Hinweis: Die frühere Verkürzung auf drei Jahre bei besonderen Integrationsleis
 ## Quellen
 
 Stand: 05/2026. AufenthG §§ 3, 5, 6, 7, 9, 9a, 11, 16a, 16b, 18a, 18b, 18d, 19, 21, 23a, 25, 25a, 25b, 27–36, 39, 53–55, 60a, 81, 82. BeschV. AufenthV §§ 39, 45. StAG § 10 (StARModG 27.06.2024). BVerwG 1 C 32.09 (16.11.2010). BVerwG 1 C 1.10 (30.03.2010). BVerwG 1 C 22.14 (12.07.2016). BVerwG 1 C 16.17 (12.06.2018). Bergmann/Dienelt Ausländerrecht. Hailbronner AuslR.
+
+## Output-Template: Aufenthaltstitel-Pruefungsmemo
+
+**Adressat:** Mandant oder Kanzlei-intern
+**Tonfall:** Sachlich-beratend, klare Handlungsempfehlung
+
+```
+AUFENTHALTSTITEL-PRUEFUNGSMEMO
+Kanzlei: [KANZLEI]
+Mandant: [NAME, geb. DATUM, Staatsang.]
+Datum: [DATUM]
+Aktenzeichen Auslaenderbehoerde: [AZ falls vorhanden]
+
+I. AKTUELLER STATUS
+Vorhandener Titel: [§ X AufenthG, gueltig bis DATUM]
+Ablauf: [DATUM — Antrag rechtzeitig gestellt? Fiktionswirkung § 81 Abs. 4: ja/nein]
+
+II. BEANTRAGTER / ANGESTREBTER TITEL
+Angestrebter Titel: [§ X AufenthG]
+Begründung Zweck: [BESCHAEFTIGUNG / STUDIUM / FAMILIENNACHZUG / HUMAN.]
+
+III. ALLGEMEINE ERTEILUNGSVORAUSSETZUNGEN § 5 AufenthG
+a) Lebensunterhalt: Netto [BETRAG EUR] vs. Bedarf [BETRAG] — [GESICHERT / NICHT GESICHERT]
+b) Identitaet: [GEKLARERT — Pass gueltig bis DATUM / NICHT GEKLARERT]
+c) Ausweisungsinteresse: [KEINES / Vorstrafen: DETAILS]
+d) Visumserfordernis: [ERFUELLT — mit Visum Typ X eingereist / PROBLEM: ...]
+e) Sprachnachweis: [A1 / B1 vorhanden: Anlage X / FEHLT]
+
+IV. PRUEFUNG SPEZIALNORM
+[§ X AufenthG: Voraussetzungen 1, 2, 3 — gegeben / nicht gegeben]
+
+V. ERGEBNIS
+[ ] Titel erteilbar — Antrag stellen bis [DATUM]
+[ ] Titel erteilbar mit folgenden Massnahmen: [...]
+[ ] Titel nicht erteilbar — Widerspruch / Klage VG pruefen
+
+VI. NAECHSTE SCHRITTE
+1. [Schritt mit Frist und Verantwortlichen]
+2. Antrag bei Auslaenderbehoerde: [TERMIN]
+3. PKH/Beratungshilfe: [ja / nein — Antrag gestellt?]
+```

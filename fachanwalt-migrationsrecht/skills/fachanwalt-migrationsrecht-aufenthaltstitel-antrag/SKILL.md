@@ -290,3 +290,52 @@ Mit freundlichen Grüßen
 ## Quellen
 
 Stand: 05/2026. AufenthG §§ 4, 5, 8, 9, 9a, 18a, 18b, 18d, 21, 27–36, 39, 54, 60a, 81, 82. BeschV. BVerwG 1 C 32.09 (16.11.2010). BVerwG 1 C 1.10 (30.03.2010). BVerwG 1 C 22.14 (12.07.2016). BVerwG 1 C 9.19 (09.09.2021). Bergmann/Dienelt Ausländerrecht, aktuelle Auflage. Hailbronner Ausländerrecht. AufenthV § 39, § 45.
+
+## Output-Template: Antrag auf Erteilung / Verlaengerung Aufenthaltstitel
+
+**Adressat:** Auslaenderbehoerde [ORT]
+**Tonfall:** Sachlich-foermlich, anspruchsbegründend
+
+```
+[KANZLEI]
+[ADRESSE]
+
+Auslaenderbehoerde [ORT / LANDKREIS]
+[ADRESSE]
+
+Re: Antrag auf [Erteilung / Verlaengerung] Aufenthaltstitel
+    fuer: [NAME, geb. DATUM, Staatsang., AKZ Auslaenderbehoerde falls vorhanden]
+
+Sehr geehrte Damen und Herren,
+
+in Vertretung des o.g. Mandanten zeigen wir unsere Bevollmaechtigte an
+(Vollmacht Anlage 1) und stellen folgenden Antrag:
+
+ANTRAG:
+[NAME] beantragt die [Erteilung / Verlaengerung] einer Aufenthaltserlaubnis
+gemaess § [X] AufenthG zum Zweck [BESCHAEFTIGUNG / STUDIUM / FAMILIENNACHZUG /
+HUMANITAER].
+
+SACHVERHALT:
+[NAME] befindet sich seit [DATUM] mit [Visum Typ X / Aufenthaltsgestattung /
+Duldung] in Deutschland. Aktueller Titel gueltig bis: [DATUM]. Antrag
+rechtzeitig gestellt — Fiktionswirkung § 81 Abs. 4 AufenthG.
+
+VORAUSSETZUNGEN § 5 AufenthG:
+a) Lebensunterhalt: Anlage 2 (Gehaltsabrechnungen), Netto EUR [X].
+   Bedarf nach SGB-II-Regelsaetzen: EUR [Y]. Deckung gegeben.
+b) Identitaet: Anlage 3 (Reisepass, gueltig bis DATUM).
+c) Kein Ausweisungsinteresse: Anlage 4 (Fuehrungszeugnis).
+d) Visumserfordernis: mit Visum Typ [X] eingereist, Anlage 5.
+e) [Sprachnachweis: Anlage 6 — A1 / B1-Zertifikat]
+
+FIKTIONSBESCHEINIGUNG:
+Wir bitten um Ausstellung einer Fiktionsbescheinigung nach
+§ 81 Abs. 5 AufenthG bis zur Entscheidung.
+
+Anlagen: 1 Vollmacht, 2 Einkommensnachweise, 3 Reisepass, 4 Fuehrungszeugnis,
+5 Visum/Einreisestempel, [6 Sprachzertifikat], [...]
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```

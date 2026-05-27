@@ -373,3 +373,34 @@ Kommentarliteratur:
 - Henssler/Strohn, GesR, 5. Aufl. 2021, Vor § 1 AktG Rn. 1 ff.
 - BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität und SV-Freiheit).
 - BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
+
+## Output-Template: Rechtsformempfehlung
+
+**Adressat:** Mandant — Tonfall verstaendlich-erklaerend
+
+```
+RECHTSFORMEMPFEHLUNG
+Mandant: [NAME] | Datum: [DATUM]
+
+EMPFEHLUNG: [RECHTSFORM]
+
+BEGRUENDUNG:
+  Haftung:       [Beschraenkt / Unbeschraenkt]
+  Mindestkapital:[BETRAG] EUR (vorhanden: Ja/Nein)
+  Investoren:    [Geeignet / Nicht geeignet fuer]
+  SV-Status GF: [Pflichtig / Frei bei [%] Anteil + Sperrminoritaet]
+  Steuer:        [KSt-Regime / Transparent]
+  Notar:         [Erforderlich / Nicht erforderlich]
+
+ALTERNATIVEN GEPRUEFT:
+  GmbH:          [Warum nicht: ...]
+  UG:            [Warum nicht: ...]
+  GmbH & Co. KG: [Warum nicht: ...]
+
+NAECHSTE SCHRITTE:
+  [ ] Firmennamen pruefen
+  [ ] Stammkapital bereitstellen: [BETRAG] EUR
+  [ ] Satzungsentwurf erstellen
+  [ ] Notar-Termin: [DATUM]
+  [ ] Holding-Struktur pruefen: [Ja / Nein / Spaeter]
+```

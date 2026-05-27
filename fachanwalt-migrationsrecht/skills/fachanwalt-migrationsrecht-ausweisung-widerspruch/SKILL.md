@@ -148,3 +148,82 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 - `fachanwalt-migrationsrecht-asyl-folgeantrag-71` — bei Asylbezug
 - `fachanwalt-strafrecht-orientierung` — bei parallelem Strafverfahren
 - `widerspruch-oder-klage-erstpruefung` — bei VG-Triage
+
+## Vertiefung: Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 22.02.2017 - 1 C 27.16, BVerwGE 157, 356 — Drei-Stufen-Test § 53 AufenthG: Ausweisungs- und Bleibeinteressen sind gleichrangig abzuwaegen; keine schematische Pruefreihenfolge; Art. 6 GG und Art. 8 EMRK sind unmittelbar in die Abwaegung einzustellen.
+- BVerwG, Urt. v. 25.07.2017 - 1 C 12.16, NVwZ 2018, 350 — Befristung Einreise- und Aufenthaltsverbot § 11 AufenthG: Befreiung von EAV nach Aufenthaltsbeendigung — Ermessen der Auslaenderbehoerde; hohes Gewicht bei familiären Bindungen in Deutschland.
+- EGMR, Urt. v. 18.10.2006 - 46410/99 (Uner v. Niederlande), NVwZ 2007, 1279 — Art. 8 EMRK Ausweisungsabwaegung: 10 Kriterien (Üner-Kriterien) fuer Verhältnismaessigkeitspruefung; Dauer Aufenthalt, Kindeswohl, Bindungen im Herkunftsland zwingend zu beruecksichtigen.
+- EuGH, Urt. v. 08.05.2018 - C-82/16 (K.A. und andere), NVwZ 2018, 1279 — Einreiseverbot bei Ruckkehrentscheidung: Wiedereinreisegesuch muss auf neue Umstaende gepruefen werden; EU-Buerger-Familienangehoerige koennen sich auf Art. 20 AEUV berufen um EAV entgegenzutreten.
+- OVG NRW, Urt. v. 22.03.2017 - 18 A 1908/14, BeckRS 2017, 107841 — Ausweisung nach Straftat: Gewichtung der Schwere der Straftat und Wiederholungsgefahr; Sozialprognose entscheidend; einzelfallbezogene Abwaegung Bleibeinteressen Familie.
+
+## Normen-Kette Ausweisung
+
+- **§ 53 AufenthG** — Ausweisungsabwaegung; Verhältnismaessigkeit
+- **§ 54 AufenthG** — Ausweisungsinteressen besonders schwerwiegend (Abs. 1) und schwerwiegend (Abs. 2)
+- **§ 55 AufenthG** — Bleibeinteressen; Familie, langer Aufenthalt, NE, Minderjährige
+- **§ 11 AufenthG** — Einreise- und Aufenthaltsverbot; Befristung auf Antrag
+- **§ 51 Abs. 1 Nr. 5 AufenthG** — Erlöschen Aufenthaltstitel durch Ausweisung
+- **Art. 6 GG / Art. 8 EMRK** — Familienschutz in der Abwaegung zwingend
+- **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen sofortigen Vollzug
+
+## Kommentarliteratur
+
+- Bergmann/Dienelt, AufenthG §§ 53-55 Rn. 1-100 — Ausweisungsrecht systematisch
+- Kluth/Heusch, BeckOK AufenthG § 53 Rn. 1-50
+- Marx, Auslaenderrecht, Kap. VII Ausweisung und Einreiseverbot
+
+## Output-Template: Widerspruch gegen Ausweisungsverfuegung
+
+**Adressat:** Auslaenderbehoerde [ORT] / Widerspruchsbehoerde
+**Tonfall:** Sachlich-juristisch; Verhältnismaessigkeit und Familienschutz betonend
+
+```
+[KANZLEI]
+[ADRESSE]
+
+[Auslaenderbehoerde ORT]
+[ADRESSE]
+
+W I D E R S P R U C H
+
+gegen den Bescheid vom [DATUM], Az. [AZ], betreffend die Ausweisung
+des Mandanten [NAME, geb. DATUM, Staatsang.]
+
+Sehr geehrte Damen und Herren,
+
+in Vertretung des o.g. Mandanten (Vollmacht Anlage 1) legen wir hiermit
+fristgerecht Widerspruch ein und begründen diesen wie folgt:
+
+I. SACHVERHALT
+[Kurzdarstellung: Ausweisung begruendet auf [STRAFURTEIL / SICHERHEIT /
+SOZIALLEISTUNGEN]; Aufenthalt seit [DATUM]; Familienkonstellation: ...]
+
+II. RECHTLICHE WUERDIGUNG
+
+1. Ausweisungsinteresse gering zu gewichten (§ 54 AufenthG):
+   [Analyse ob Ausweisungsinteresse wirklich schwerwiegend i.S.d. § 54 I
+   oder II AufenthG; Strafmass; Wiederholungsgefahr Sozialprognose]
+
+2. Schwerwiegende Bleibeinteressen (§ 55 AufenthG):
+   - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
+   - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
+   - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
+   - Üner-Kriterien EGMR (EGMR 46410/99): Bindungen im Herkunftsland
+     minimal nach [X] Jahren Abwesenheit.
+
+3. Abwaegung § 53 AufenthG ergibt Ueberwiegen Bleibeinteressen:
+   [Subsumtion; Verhältnismaessigkeit; milderes Mittel Verwarnungsschreiben?]
+
+III. HILFSANTRAG: BEFRISTUNG EINREISEVERBOT § 11 AufenthG
+Fuer den Fall der Aufrechterhaltung der Ausweisungsverfuegung wird beantragt,
+das Einreise- und Aufenthaltsverbot unverzueglich auf [1 Jahr] zu befristen
+(§ 11 Abs. 2 Satz 5 AufenthG; BVerwG 1 C 27.16).
+
+IV. EILRECHTSSCHUTZ
+Fuer den Fall der Aufrechterhaltung des Sofortvollzugs wird parallel
+Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```

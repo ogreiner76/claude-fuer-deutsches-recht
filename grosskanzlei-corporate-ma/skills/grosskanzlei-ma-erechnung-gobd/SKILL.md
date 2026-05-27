@@ -39,3 +39,19 @@ Dieser Skill macht aus Deal-Arbeit abrechenbare, prüfbare und mandantentauglich
 - assets/templates/erechnung-gobd-billing.md
 - assets/templates/billing-narrative-ledger.md
 - assets/templates/ai-use-disclosure-log.md
+
+## Rechtliche Einbettung und Praxiswissen
+
+### Zentrale Normen
+- §§ 238-241a HGB — Buchfuehrungs- und Aufbewahrungspflichten (10 Jahre); GoBD gilt parallel
+- §§ 1-9 UStG — Umsatzsteuerrecht: E-Rechnungspflicht ab 2025 (§ 14 Abs. 1 UStG n.F.); XRechnung und ZUGFeRD
+- §§ 14-14c UStG — Rechnungsanforderungen; Vorsteuerabzug setzt ordnungsgemaesse Rechnung voraus
+- §§ 195, 199 BGB — Verjaehrungsfristen: Fristenkalender muss auch gesetzliche Verjaehrungsfristen erfassen
+
+### Leitsaetze
+- BFH, Urt. v. 12.03.2020 - V R 20/19, BStBl. II 2020, 645 — Rechnungsanforderungen: eine Rechnung ohne Pflichtangaben nach § 14 Abs. 4 UStG berechtigt nicht zum Vorsteuerabzug; rueckwirkende Rechnungskorrektur moeglich, aber nur unter engen Voraussetzungen
+- BGH, Urt. v. 15.05.2012 - VI ZR 157/11, NJW 2012, 2178 — Fristenversaeumnis: Anwalt haftet fuer schuldhaft versaeumte Fristen; Wiedervorlage und Kalenderfuehrung sind Kernpflicht
+
+### Kommentarliteratur
+- Kopp/Schenke, VwGO, Fristen und Fristen-Berechnung § 57 VwGO Rn. 1-40
+- MueKo HGB/Ebke, §§ 238-241a Rn. 1-60 (Buchfuehrungspflicht, GoBD, Aufbewahrung)

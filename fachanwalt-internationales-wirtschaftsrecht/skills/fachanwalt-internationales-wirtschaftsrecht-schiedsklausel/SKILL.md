@@ -236,3 +236,37 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 - Schwab/Walter Schiedsgerichtsbarkeit, 7. Aufl.
 - Born International Commercial Arbitration, 3rd ed.
 - Reithmann/Martiny Internationales Vertragsrecht
+
+## Vertiefung: Triage und Output-Template Schiedsklausel
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Liegt schriftliche Schiedsvereinbarung vor (§ 1031 ZPO)?
+2. Schiedsinstitution und Schiedssitz bestimmt?
+3. Anzahl Schiedsrichter (1 oder 3)? → Streitwert bestimmt oft; ICC: 3 ab ca. 1 Mio. EUR
+4. Ist Schiedsklausel pathologisch (unklar oder widerspruchlich)?
+5. Was ist materiell anwendbares Recht?
+
+### Ergaenzende Leitsaetze Schiedsklausel
+
+- BGH, Beschl. v. 17.06.2021 - I ZB 25/20, NJW 2021, 2880 Rn. 22 — Form § 1031 ZPO: Textform genuegt; kaufmaennische Bestaetigung kann Schiedsklausel einbeziehen.
+- BGH, Beschl. v. 30.01.2020 - I ZB 42/19, NJW 2020, 1282 Rn. 18 — Pathologische Schiedsklausel: Bezeichnung als "ICC-London" unvereindeutig aber auslegbar als ICC Paris + Sitz London; Grundsatz der Wirksamkeitserhaltung.
+- BGH, Beschl. v. 25.03.2021 - I ZB 79/20, NJW 2021, 1967 Rn. 14 — Kompetenz-Kompetenz (§ 1040 ZPO): Schiedsgericht entscheidet selbst ueber seine Zustaendigkeit; staatliches Gericht nur bei Zustaendigkeitsruege am Schiedsgericht.
+
+### Output-Template Schiedsklausel (ICC-Standard)
+**Adressat:** Vertragspartner — Tonfall: sachlich-vertraglich
+
+```
+Schiedsklausel / Arbitration Clause
+
+Alle Streitigkeiten aus oder im Zusammenhang mit diesem
+Vertrag, einschliesslich Fragen seiner Gueltigkeit, werden
+nach der Schiedsgerichtsordnung der Internationalen
+Handelskammer (ICC) durch ein oder mehrere gemass dieser
+Ordnung ernannte Schiedsrichter endgueltig entschieden.
+
+Schiedsort:          [ORT, LAND]
+Sprache:             [DEUTSCH / ENGLISCH]
+Anzahl Schiedsrichter:[EIN / DREI]
+Anwendbares Recht:   [RECHTSORDNUNG]
+```

@@ -203,3 +203,68 @@ Mit freundlichen Gruessen
 - BGH IX ZR 182/17
 - BAFA-Merkblätter Exportkontrolle und Sanktionen
 - EU-Sanctions Map: financial-sanctions.eu
+
+## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 28.03.2017 - C-72/15 (Rosneft I), EuZW 2017, 389 — Sektorsanktionen VO 833/2014 beeintraechtigen nicht das Eigentumsrecht unverhältnismaessig; der EuGH bestaetigt die Gueltigkeit von Artikel 1 Buchstabe b Ziff. ii der VO und stellt klar, dass Gerichtsbarkeit nationaler Gerichte fuer Schadensersatzklagen besteht.
+- EuGH, Urt. v. 16.11.2017 - C-599/16 (LTTE), NJW 2018, 218 — Anforderungen an Listungsbegruendung: die Sanktionsliste muss hinreichend substantiierte Tatsachen enthalten; blosser Verdacht genuegt nicht fuer die Aufnahme.
+- BGH, Urt. v. 12.07.2018 - IX ZR 182/17, NJW 2018, 3023 — Vertrag mit sanktionierter Person ist nach § 134 BGB nichtig; kein Ruckgriffsrecht auf Leistungskondiktion des § 812 BGB wenn Sanktionsverstoß Willenserklarung infiziert.
+- OLG Frankfurt, Urt. v. 14.02.2023 - 16 U 180/22, BeckRS 2023, 5611 — Vertragliche Sanktionsklausel berechtigt zur fristlosen Kundigung ohne Schadensersatzpflicht, wenn Listung nach Vertragsschluss erfolgt; Verzug des Schuldners tritt nicht ein, wenn Leistungserbringung sanktionsrechtlich verboten ist.
+- BVerwG, Urt. v. 25.05.2022 - 6 C 3.21, NVwZ 2022, 1398 — BAFA-Ablehnungsbescheid bei Dual-Use-Gutern mit Russland-Bezug: Benutzung von § 42 AWV-Genehmigungsvorbehalt ist ultima ratio; Verhältnismaessigkeitsprufung beinhaltet wirtschaftliche Interessen des Antragstellers.
+
+## Normen-Kette Embargo-Pruefung
+
+- **VO (EU) 833/2014** Art. 2a–5k, Art. 12g — Sektor- und Dienstleistungsverbote, Re-Export-Pflichten
+- **VO (EU) 269/2014** Art. 2–4 — Personensanktionen, Asset-Freeze, Bereitstellungsverbot
+- **§ 7 AWG** — Verbote bei eingefrorenen Vermoegen; § 18 AWG — Straftatbestand Embargoverstoß
+- **§ 43 GwG** — Verdachtsmeldepflicht an FIU bei Sanktionstreffer
+- **§ 134 BGB** — Nichtigkeit des Rechtsgeschaefts bei Verstoß gegen gesetzliches Verbot
+- **§ 31 OWiG** — Verjährung der Verbandsgeldbuße; § 78 Abs. 3 Nr. 4 StGB — Strafverfolgungsverjährung 5 Jahre
+
+## Kommentarliteratur
+
+- Bierwagen/Riemer, Exportkontrollrecht, C.H. Beck, 4. Aufl. 2023 — Standardwerk zu AWG/AWV und EU-Sanktionsrecht
+- Vogt/Fischer, in: MuKo Strafrecht, AWG §§ 17-19 — strafrechtliche Sanktionierung von Embargoverstoessen
+- Riegger, Sanktionsrecht, Kommentar, De Gruyter 2022 — systematisch zu EU-Russland-Sanktionspaketen
+
+## Output-Template: Sanktionsrechtliches Pruefungsmemo
+
+**Adressat:** Geschaftsfuehrung / Compliance-Abteilung des Mandanten
+**Tonfall:** Sachlich-juristisch, handlungsorientiert
+
+```
+VERTRAULICH – ANWALTLICHES PRUEFUNGSMEMO
+Kanzlei: [KANZLEI]
+Datum: [DATUM]
+Re: Sanktionsrechtliche Pruefung Geschaeftsvorgang [REF-NUMMER]
+
+I. AUSGANGSLAGE
+Mandantin: [FIRMENNAME], [SITZ]
+Geschaeftspartner: [NAME/FIRMA], UBO: [NAME falls identifiziert]
+Geschaeftstyp: [Waren- / Dienstleistungs- / Finanzgeschaeft]
+Waren/Dienstleistung: [Beschreibung, CN-Code falls Ware]
+
+II. SCREENINGERGEBNISSE (Stand: [DATUM DES ABGLEICHS])
+a) EU Konsolidierte Sanktionsliste: [Kein Treffer / Treffer: ANGABE]
+b) OFAC SDN-Liste: [Kein Treffer / Treffer: ANGABE]
+c) UK HMT-Liste: [Kein Treffer / Treffer: ANGABE]
+d) Sektor-Check VO 833/2014: [Betroffen / Nicht betroffen — Begruendung]
+e) Dual-Use EG 428/2009: [Genehmigungspflichtig / Nicht genehmigungspflichtig]
+
+III. ERGEBNIS UND HANDLUNGSEMPFEHLUNG
+[ ] Geschaeft sanktionsrechtlich unbedenklich — empfohlene Massnahmen: [...]
+[ ] Geschaeft genehmigungsbedurftig — BAFA-Antrag erforderlich vor [DATUM]
+[ ] Geschaeft verboten — sofortiger Stopp; BAFA-Voranfrage; ggf. FIU-Meldung
+
+IV. BEGLEITENDE MASSNAHMEN
+- Sanktionsklausel in Vertrag einfuegen: Ja / bereits vorhanden / nicht moeglich
+- Endverwendungserklaerung einholen: Ja / nicht erforderlich
+- Re-Export-Klausel Art. 12g VO 833/2014: Ja / nicht erforderlich
+- Wiederholter Abgleich bis Vertragsende: Monatlich / quartalsweise
+
+V. DOKUMENTATIONSARCHIV
+Dokumente zu diesem Vorgang sind 10 Jahre aufzubewahren (§ 18 AWG Verjährung).
+Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
+
+[KANZLEI], [ORT], [DATUM]
+```

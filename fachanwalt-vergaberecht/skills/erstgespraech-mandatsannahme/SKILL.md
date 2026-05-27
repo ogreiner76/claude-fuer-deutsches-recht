@@ -151,3 +151,51 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Vertiefung: Rechtsprechung und Normen Vergaberecht Erstmandat
+
+### Leitsaetze Erstgespräch und Fristen
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 38 — Ruegeobliegenheit § 160 Abs. 3 GWB: Bieter muss Ruege unverzueglich nach Kenntnis erheben; Zuwarten von mehr als 10 Tagen ohne triftigen Grund fuehrt zur Praeklusion.
+- OLG Karlsruhe, Beschl. v. 07.04.2022 - 15 Verg 3/22, NZBau 2022, 445 — Ruegebeginn setzt positive Kenntnis des Bieters voraus; Wissenszurechnung drueck Praxis-Erfahrung reicht nicht aus.
+- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Nachpruefungsantrag nach § 160 GWB erfordert Ruege als Zulaessigkeitsvoraussetzung; fehlende Ruege fuehrt zu Verwerfung ohne Sachentscheidung.
+- BGH, Beschl. v. 30.08.2011 - X ZB 1/11, NZBau 2011, 752 Rn. 24 — Streitwert im Vergabenachpruefungsverfahren: 5 % der Auftragssumme als Untergrenze bei unklarer Auftragssumme.
+
+### Normen Vergaberecht Erstmandat
+- §§ 97-109 GWB — Grundsaetze des Vergaberechts (Wettbewerb, Transparenz, Gleichbehandlung)
+- § 106 GWB — EU-Schwellenwerte (Anwendungsbereich)
+- § 160 Abs. 3 GWB — Ruegeobliegenheit und Fristen
+- § 134 GWB — Informationspflicht vor Zuschlag (Stillhaltefrist 10 Tage)
+- § 135 GWB — Unwirksamkeit des Zuschlags
+- § 181 GWB — Schadensersatz bei Vergaberechtsverstoss
+
+### Triage Vergaberecht — Erstgespräch
+
+Bevor losgelegt wird, klaere:
+1. Liegt der Auftragswert ueber EU-Schwellenwert (§ 106 GWB)? → GWB-Vergaberecht; darunter: UVgO/VOB-A
+2. Wann erhielt Mandant Kenntnis vom Verstoss? → 10-Tage-Ruegeobliegenheit berechnen
+3. Liegt Informationsschreiben § 134 GWB vor? → Stillhaltefrist 10 Tage bis Zuschlag beachten
+4. Welche Vergabeart? → VgV / SektVO / KonzVgV / UVgO / VOB-A
+5. Zuschlag bereits erteilt? → § 135 GWB Feststellung Unwirksamkeit oder § 181 GWB Schadensersatz
+
+### Output-Template Mandatsbogen Vergaberecht
+**Adressat:** Intern — Tonfall: praezise, fristorientiert
+
+```
+MANDATSBOGEN Vergaberecht
+=========================================
+Datum Erstgespraech:      [TT.MM.JJJJ]
+Mandant:                  [NAME / UNTERNEHMEN]
+Rolle Mandant:            [Bieter / Auftraggeber / Beigeladene]
+Vergabeverfahren:         [TED-Nr. / Az. Vergabestelle]
+Auftraggeber:             [NAME, ANSCHRIFT]
+Auftragswert (geschaetzt):EUR [BETRAG]
+Schwellenwert ueberschritten: JA / NEIN
+Kenntnisdatum Verstoss:   [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist:  [TT.MM.JJJJ] (§ 160 Abs. 3 GWB)
+Informationsschreiben § 134 GWB vom: [DATUM]
+Stillhaltefrist bis:      [DATUM]
+Zuschlag erteilt:         JA / NEIN
+Naechster Schritt:        [Ruege / NPA / Klage § 181 GWB]
+=========================================
+```

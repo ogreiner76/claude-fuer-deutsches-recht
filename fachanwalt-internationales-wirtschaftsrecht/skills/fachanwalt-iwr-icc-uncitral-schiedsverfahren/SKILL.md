@@ -119,3 +119,63 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 ## Quellen und Updates
 
 Stand: 05/2026. ICC Rules 2021. UNCITRAL Rules 2021. IBA Rules 2020. New Yorker Übereinkommen 1958. Bei ICC-Reform aktualisieren.
+
+## Vertiefung: Leitsaetze und Triage Schiedsverfahren
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Liegt gueltige Schiedsklausel vor (§ 1029 ZPO, ICC/UNCITRAL Art. 6)?
+2. Schiedsfaehigkeit des Streitgegenstands (§ 1030 ZPO: vermögensrechtliche Anspruche schiedsfaehig)?
+3. Wo ist der Schiedssitz? → Bestimmt anwendbares Verfahrensrecht (§§ 1025 ff. ZPO bei Sitz DE)
+4. Welches materielle Recht ist anwendbar?
+5. Vollstreckung wo? → New Yorker Uebereinkommen 1958 Ratifizierungsland?
+
+### Ergaenzende Leitsaetze Schiedsverfahren
+
+- BGH, Beschl. v. 17.06.2021 - I ZB 25/20, NJW 2021, 2880 Rn. 22 — Schiedsvereinbarung muss in Textform vorliegen (§ 1031 ZPO); formlose Schiedsklausel in allg. Handelsbeziehungen ausreichend wenn Kaufleute beteiligt.
+- BGH, Beschl. v. 25.01.2021 - I ZB 103/19, NJW 2021, 1378 Rn. 28 — New Yorker Uebereinkommen: ordre public-Versagung sehr eng; rechtliches Gehor verletzt wenn Partei keine Moeglichkeit zur Stellungnahme hatte.
+- BGH, Beschl. v. 14.03.2019 - I ZB 13/18, BGHZ 221, 262 — Vollstreckbarerklaerung § 1061 ZPO: Entscheidung ergeht ohne muendliche Verhandlung; Versagungsgruende NY Convention Art. V abschliessend.
+- EuGH, Urt. v. 06.03.2018 - C-284/16 (Achmea), ECLI:EU:C:2018:158 — Investitionsschutz-Schiedsklauseln in EU-Intra-BIT unvereinbar mit EU-Recht; Anwendung nur bei Drittstaaten-BIT.
+
+### Normen Schiedsverfahren
+- §§ 1025-1066 ZPO — Deutsches Schiedsrecht (UNCITRAL Modellgesetz)
+- § 1030 ZPO — Schiedsfaehigkeit
+- § 1031 ZPO — Schiedsvereinbarung (Form)
+- § 1061 ZPO — Anerkennung und Vollstreckbarkeit
+- New Yorker Uebereinkommen 1958 Art. V — Versagungsgruende
+- ICC Rules 2021, UNCITRAL Rules 2021
+
+### Output-Template Schiedsklage (Statement of Claim)
+**Adressat:** Schiedsgericht / Schiedsinstitution — Tonfall: sachlich-juristisch, international
+
+```
+[KANZLEI], [ORT], [DATUM]
+
+[ICC-Schiedsgerichtshof / UNCITRAL-Schiedsrichter]
+[ANSCHRIFT / DESIGNATION]
+
+Statement of Claim / Klageschrift
+
+Klaeger:      [NAME/FIRMA], vertreten d. [Kanzlei]
+Beklagter:    [NAME/FIRMA], [ANSCHRIFT]
+Schiedssitz:  [ORT]
+Anwendb. Recht: [DE-RECHT / CISG / SONSTIGES]
+Sprache:      [DEUTSCH / ENGLISCH]
+Streitwert:   EUR [BETRAG]
+
+1. Sachverhalt (Summary):
+   [...]
+
+2. Anspruchsgrundlagen:
+   [§§ BGB / CISG Art. / Vertragsklausel]
+
+3. Antrag:
+   Wir beantragen, den Beklagten zu verurteilen:
+   a) EUR [BETRAG] nebst Zinsen [x%] p.a. ab [DATUM] zu zahlen
+   b) [Weitere Antraege]
+
+4. Beweismittel:
+   [Anlage C-1 ff.]
+
+[Anwalt Klaeger]
+```

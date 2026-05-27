@@ -498,3 +498,54 @@ Jede rechtliche Beurteilung im Schema-Aufbau und in der Normalisierung mit Norm 
 - Open-Source: Copyleft-Systematik GPL, AGPL
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Jede Zelle der Matrix ist ein Hinweis, der vor Verwendung in einer Garantie, einem Anhang oder einem Memo zu verifizieren ist.
+
+## Output-Template
+
+**Adressat:** Bearbeitender Anwalt / Transaktionsteam — Tonfall: sachlich-strukturiert, zeilengenau
+
+```
+PROMPT-MATRIX PRUEFERGEBNIS
+Mandat: [MANDATSCODE]
+Schema-Version: [v1.0 / Datum]
+Pruefzeitraum: [DATUM] bis [DATUM]
+Erstellt von: [NAME], [KANZLEI]
+
+--- ZUSAMMENFASSUNG ---
+Dokumente geprueft: [N]
+Spalten im Schema: [N]
+Zellen gesamt: [N]
+Auffaelligkeiten (prüfung_erforderlich): [N]
+Eindeutig bewertete Zellen: [N] ([%])
+
+--- ERGEBNISMATRIX ---
+| Nr. | Dokument | [SPALTE 1] | [SPALTE 2] | [SPALTE 3] | Auffaelligkeiten |
+|---|---|---|---|---|---|
+| 1 | [DATEINAME] | [WERT / "ZITAT"] | [WERT] | unklar | § [NORM] — prüfung_erforderlich |
+| 2 | [DATEINAME] | [WERT] | [WERT] | [WERT] | — |
+
+--- AUFFAELLIGKEITEN (prüfung_erforderlich) ---
+1. Dokument [N], Spalte [SPALTENNAME]:
+   Befund: [BESCHREIBUNG]
+   Relevante Norm: [§ NORM]
+   Zitat: "[WORTLAUT AUS DOKUMENT]"
+   Empfehlung: [HANDLUNGSHINWEIS]
+
+2. [Weitere Auffaelligkeiten]
+
+--- GRENZFAELLE (menschliche Entscheidung erforderlich) ---
+1. Dokument [N]: [BESCHREIBUNG GRENZFALL]
+   Moegliche Einordnung A: [OPTION A] — Argument: [BEGRUENDUNG]
+   Moegliche Einordnung B: [OPTION B] — Argument: [BEGRUENDUNG]
+   Entscheidung erbeten bis: [DATUM]
+
+--- NAECHSTE SCHRITTE ---
+1. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM]
+2. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM]
+```
+
+## Rote Schwellen
+
+- **Mehr als 20 % der Zellen als `prüfung_erforderlich`** — Schema ueberarbeiten; Zeilenprompts praezisieren; oder Stichprobengroesse erhoehen bevor Vollstaendigkeitsdurchlauf.
+- **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
+- **Rechtswahlklausel auslaendisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst pruefen.
+- **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.

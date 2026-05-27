@@ -192,3 +192,61 @@ liegt nicht vor, weil [konkrete Widerlegung].
 - BVerfG 2 BvR 1473/86
 - Hailbronner/Renner StAG-Kommentar, aktuelle Aufl.
 - Marx Aufenthalts-, Asyl- und Flüchtlingsrecht
+
+## Output-Template: Einbuergerungsantrag
+
+**Adressat:** Einbuergerungsbehoerde [ORT]
+**Tonfall:** Foermlich-sachlich, vollstaendige Darlegung der Voraussetzungen
+
+```
+[KANZLEI]
+[ADRESSE]
+
+Einbuergerungsbehoerde [ORT / LANDRATSAMT / KREISFREIE STADT]
+[ADRESSE]
+
+EINBUERGERUNGSANTRAG
+
+Antragsteller: [NAME, geb. DATUM, STAATSANG., ANSCHRIFT]
+Bevollmaechtigte: [KANZLEI] (Vollmacht Anlage 1)
+
+Hiermit beantragen wir die Einbuergerung des o.g. Mandanten gemaess
+§ [10 / 9 / 8] StAG.
+
+I. VORAUSSETZUNGEN (§ 10 StAG)
+a) Aufenthaltsdauer: Rechtmaessiger Aufenthalt seit [DATUM] = [X] Jahre
+   (Nachweis: Aufenthaltstitel-Uebersicht Anlage 2).
+b) Aufenthaltstitel: [NE / DA-EU / unbefristete AE] Anlage 3.
+c) Bekenntnis fdGO: Unterschriebene Erklaerung Anlage 4.
+d) Lebensunterhalt: Erwerbstaetig seit [DATUM]; Netto-Einkommen EUR [X]
+   Anlage 5; kein SGB-II-Bezug in den letzten 2 Jahren.
+e) Straffreiheit: Fuehrungszeugnis O Anlage 6; kein Verstoß gegen § 12a StAG.
+f) Sprachkenntnisse: B1-Zertifikat [INSTITUT, DATUM] Anlage 7.
+g) Einbuergerungstest: Bescheinigung BAMF Anlage 8.
+h) Mehrstaatigkeit: Beibehaltung [NATIONALITAET] — gemaess § 12 StAG n.F.
+   (seit 27.06.2024) zulaessig ohne Antrag auf Beibehaltung.
+   [ODER: Entlassungsurkunde aus [STAAT] liegt vor Anlage 9.]
+
+II. BESONDERHEITEN (falls zutreffend)
+[§ 9 StAG — Ehegatte Deutscher seit DATUM; Eheurkunde Anlage X]
+[Besondere Integrationsleistungen — Beschreibung]
+
+III. ANLAGEN (Checkliste)
+1. Vollmacht Kanzlei
+2. Aufenthaltstitel-Uebersicht (alle Titel seit Einreise)
+3. Aktueller Aufenthaltstitel
+4. fdGO-Bekenntnis (ausgefuelltes Formular Behoerde)
+5. Einkommensnachweise (letzte 3 Monate), Steuerbescheide
+6. Fuehrungszeugnis (aktuell, hoechstens 3 Monate alt)
+7. Sprachzertifikat B1
+8. Einbuergerungstest-Bescheinigung BAMF
+9. Geburtsurkunde (Apostille und Uebersetzung)
+10. Reisepass (gueltig)
+[11. Heiratsurkunde bei § 9 StAG]
+
+Untaetigkeitsklage: Falls keine Entscheidung innerhalb von 3 Monaten,
+behalten wir uns Klage nach § 75 VwGO vor.
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```

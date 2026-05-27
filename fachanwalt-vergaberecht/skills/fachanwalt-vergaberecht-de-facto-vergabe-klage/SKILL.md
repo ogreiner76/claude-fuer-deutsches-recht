@@ -130,3 +130,37 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 - `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` — bei Verfahrensmangel
 - `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` — bei VK-Verfahren
 - `fachanwalt-vergaberecht-orientierung` — Triage
+
+## Vertiefung: Output-Template de-facto-Vergabe
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Wurde Auftrag ohne jedes Vergabeverfahren erteilt?
+2. Liegt der Auftragswert ueber EU-Schwellenwert?
+3. Bestand Auftraggeberpflicht zur Ausschreibung (kein Inhouse, kein In-state)?
+4. Wurde § 135 GWB Feststellungsantrag rechtzeitig gestellt (30 Tage nach Bekanntmachung, max. 6 Monate)?
+5. Alternativ: § 181 GWB Schadensersatz?
+
+### Output-Template Antrag Feststellung Unwirksamkeit § 135 GWB
+**Adressat:** Vergabekammer — Tonfall: sachlich-juristisch
+
+```
+Vergabekammer [NAME]
+
+Antrag auf Feststellung der Unwirksamkeit des Zuschlags
+nach § 135 Abs. 1 GWB
+
+Antragsteller: [BIETER]
+Antragsgegner: [AUFTRAGGEBER]
+
+Wir beantragen festzustellen, dass der am [DATUM] erteilte
+Zuschlag unwirksam ist, weil der Auftraggeber den Auftrag
+ohne die vorgeschriebene europaweite Ausschreibung erteilt hat
+(de-facto-Vergabe i.S.d. § 135 Abs. 1 Nr. 2 GWB).
+
+Frist: Der Antrag wird binnen 30 Tagen nach Bekanntmachung
+des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
+6 Monaten nach Vertragsschluss (§ 135 Abs. 2 GWB).
+
+[Rechtsanwalt/-anwaeltin]
+```

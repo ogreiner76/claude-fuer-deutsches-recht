@@ -202,3 +202,8 @@ Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässi
 - BFH, Urt. v. 20.10.2021, Az. V R 37/18 (E-Rechnung, Vorsteuerabzug)
 - FG Münster, Urt. v. 12.03.2019, Az. 5 K 3536/17 (GoBD, unveränderliche Archivierung)
 - § 14, § 14a, § 13b, § 15 UStG; §§ 145–147 AO; GoBD-Erlass BMF 28.11.2019; §§ 4, 49b BRAO; XRechnung CEN EN 16931; ZUGFeRD 2.3 (Factur-X)
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BFH, Urt. v. 12.03.2020 - V R 20/19, BStBl. II 2020, 645 — E-Rechnung und Vorsteuerabzug: eine Rechnung ohne gesetzliche Pflichtangaben nach § 14 Abs. 4 UStG berechtigt nicht zum Vorsteuerabzug; rueckwirkende Rechnungskorrektur ist unter engen Voraussetzungen moeglich
+- BFH, Urt. v. 14.07.2020 - IV R 12/16, BStBl. II 2021, 99 — GoBD-Pflichten: digitale Buchungs- und Archivierungspflichten nach GoBD sind eigenstaendige Pflichten; Verstoss kann Schätzungsbefugnis des Finanzamts begruenden; ZUGFeRD-konforme Archivierung entlastet

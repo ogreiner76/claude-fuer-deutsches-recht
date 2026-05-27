@@ -230,3 +230,46 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 - Schlechtriem/Schwenzer, Kommentar zum UN-Kaufrecht, 7. Aufl. 2019
 - Brunner/Gottlieb, Commentary on the UN Sales Law (CISG), 2019
 - UNCITRAL CLOUT Datenbank (clout.uncitral.org)
+
+## Vertiefung: Triage und Output-Template CISG
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Haben beide Parteien Niederlassung in Vertragsstaaten des CISG? → Art. 1 Abs. 1 lit. a CISG
+2. Wurde CISG wirksam ausgeschlossen (Art. 6 CISG)? → Klausel prufen
+3. Handelt es sich um Warenkauf (kein Dienstleistungsvertrag, keine Konsumentenkauf)?
+4. Welche Partei hat Maengelanspruch oder Schadensersatz? → Ruegefrist Art. 39 CISG beachten
+5. Liegt Ruegefrist-Versaeumnis vor? → Praeklusion Maengelrechte; Art. 40 CISG-Ausnahme?
+
+### Ergaenzende Leitsaetze CISG
+
+- BGH, Urt. v. 08.03.1995 - VIII ZR 159/94, BGHZ 129, 75 — Erstmaliges Grundsatzurteil zur CISG-Maengelanzeige Art. 39: Unverzueglichkeit bedeutet innerhalb angemessener Frist nach Entdeckung; Frist haengt von Umstaenden ab (Ware, Branche).
+- BGH, Urt. v. 04.12.1996 - VIII ZR 306/95, NJW 1997, 870 — Art. 39 CISG absolute Ausschlussfrist 2 Jahre ab Lieferung; Ausnahme nur bei Arglist Art. 40 CISG.
+- BGH, Urt. v. 02.03.2005 - VIII ZR 67/04, NJW 2005, 2066 Rn. 18 — Ausschluss des CISG durch AGB wirksam wenn AGB in Vertrag einbezogen; pauschale "Deutsches Recht" Klausel kann CISG nicht ausschliessen.
+- BGH, Urt. v. 30.06.2004 - VIII ZR 321/03, NJW 2004, 3037 — Voraussehbarkeit des Schadens Art. 74 CISG: Schaden muss bei Vertragsschluss vorhersehbar sein; entgangener Gewinn einbezogen.
+
+### Output-Template CISG-Gutachten
+**Adressat:** Mandant oder Schiedsgericht — Tonfall: sachlich-juristisch
+
+```
+CISG-ANWENDBARKEITSGUTACHTEN
+Vertrag: [BEZEICHNUNG] vom [DATUM]
+Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
+
+1. CISG anwendbar?
+   Niederlassungen in Vertragsstaaten: JA (Art. 1 Abs. 1 lit. a)
+   CISG nicht ausgeschlossen: JA / NEIN (Art. 6)
+   → CISG anwendbar: JA / NEIN
+
+2. Anspruch (z.B. Maengelhaftung):
+   Art. 35 CISG: Vertragsmaessigkeit der Ware?
+   Art. 39 CISG: Maengelruege — Datum: [DATUM]; Frist gewahrt: JA / NEIN
+
+3. Schadensersatz Art. 74-77 CISG:
+   Schaden: EUR [BETRAG]
+   Vorhersehbarkeit: JA / NEIN
+   Minderungspflicht Art. 77: [BESCHREIBUNG]
+
+4. Ergebnis:
+   [Anspruch begrundet / verjährt / praekkludiert]
+```

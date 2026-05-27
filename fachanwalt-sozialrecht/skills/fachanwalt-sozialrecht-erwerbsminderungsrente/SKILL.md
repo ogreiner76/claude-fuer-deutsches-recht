@@ -280,6 +280,25 @@ Mit freundlichen Grüßen
 
 ---
 
+## Häufige Schwachstellen im DRV-Bescheid
+
+1. Sozialmedizinisches Gutachten allein nach Aktenlage, kein persönlicher Vorstellungstermin
+2. Psychiatrische Diagnosen nicht vollständig erfasst
+3. Schmerzsyndrome im Belastbarkeitsprofil unterbewertet
+4. Wegefähigkeit nicht geprüft
+5. Summierung ungewöhnlicher Leistungseinschränkungen nicht thematisiert
+6. Falsche Anwendung Drei-Stunden-Sechs-Stunden-Grenze
+7. Leistungsfall zu spät angesetzt → Drei-aus-Fünf-Regel scheitert
+
+## Beweisanträge
+
+- Beiziehung der DRV-Verwaltungsakte vollständig
+- Sachverständigengutachten Fachgebiet [Innere Medizin / Orthopädie / Psychiatrie]
+- Vernehmung der behandelnden Ärzte als Zeugen / sachverständige Zeugen
+- Beiziehung Berentungsgutachten DGUV (wenn berufsgenossenschaftliche Vorgeschichte)
+
+---
+
 ## Anschluss-Skills
 
 - `fachanwalt-sozialrecht-widerspruch-sozialleistung` — allgemeiner Widerspruchsprozess

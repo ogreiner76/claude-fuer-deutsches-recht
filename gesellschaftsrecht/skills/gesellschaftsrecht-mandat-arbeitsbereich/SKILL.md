@@ -292,6 +292,54 @@ CLAUDE.md auf Praxisebene enthält einen `Mandatsübergreifender Kontext:`-Schal
 
 Fortschritt: Nach Signing → Mandat-Phase aktualisiert auf `Signing/Closing`. Nach Closing → Phase `Post-Closing-Integration`. Nach Abschluss: `schließen alpha-gmbh-anteilskauf-2026` archiviert das Mandat dauerhaft.
 
+## Output-Template
+
+**Adressat:** Bearbeitender Anwalt / Kanzlei-intern — Tonfall: sachlich-strukturiert, mandatsbezogen
+
+```
+--- mandat.md: [SLUG] ---
+Mandantscode: [CODE]
+Mandant: [NAME DER PARTEI]
+Gegenseite: [NAME]
+Mandat-Typ: [M&A Kaeuferseite / Gruendung / Strukturierung / Streit]
+Phase: [NDA / LOI / Due Diligence / Signing / Closing / Post-Closing]
+Vertraulichkeit: [Standard / erhoeht / Clean-Team]
+Mandatstraeger: [NAME RECHTSANWALT]
+Eroeffnet: [TT.MM.JJJJ]
+Geschaeftswert: [BETRAG EUR / noch nicht feststellbar]
+Gesellschaft(en): [NAME GmbH, HRB XXXXX, AG [REGISTERGERICHT]]
+
+Verbundene Mandate:
+- [SLUG-NDA] (NDA-Phase)
+- [SLUG-LOI] (LOI-Phase)
+
+Fristen:
+- [TT.MM.JJJJ]: [FRISTBEZEICHNUNG] — Wiedervorlage [TT.MM.JJJJ]
+- [TT.MM.JJJJ]: [FRISTBEZEICHNUNG] — kritisch
+
+GwG-Identifizierung: [ABGESCHLOSSEN TT.MM.JJJJ / AUSSTEHEND]
+Interessenkonflikt geprueeft: [JA / NEIN — NACHOLEN]
+
+Memo zum Mandatsstand (letzte Aktualisierung [DATUM]):
+[FREITEXT: aktueller Bearbeitungsstand, offene Punkte, naechste Schritte]
+
+Aktive Arbeitsbereiche:
+- mandate/[SLUG]/dd/ (Due-Diligence-Unterlagen)
+- mandate/[SLUG]/vertrag/ (Vertragsentwuerfe)
+- mandate/[SLUG]/korrespondenz/ (Schriftwechsel)
+
+Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
+---
+```
+
+## Rote Schwellen
+
+- **GwG-Identifizierung fehlt** — strafrechtliches Risiko fuer Rechtsanwalt (§§ 10 ff. GwG); vor Weiterarbeit nachholen.
+- **Interessenkonflikt nicht geprueft** — Verstoß gegen § 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
+- **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — § 43a Abs. 2 BRAO, § 203 StGB; sofort entfernen; Fehler dokumentieren.
+- **Handakten-Aufbewahrungsfrist § 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.
+- **Frist im Mandat ohne Wiedervorlage** — Haftungsrisiko; jede Frist sofort im Kalender mit Vorlauf-WV verankern.
+
 ## Anschluss-Skills
 
 - `gesellschaftsrecht:vollzugs-checkliste` — Vollzugs-Checkliste für das aktive M&A-Mandat

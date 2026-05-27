@@ -175,3 +175,7 @@ C. KRITISCHE ANNAHMEN
 - OLG München, Urt. v. 14.04.2021, Az. 7 U 2345/20 (Cash Pool)
 - IDW S 11 (2022): Beurteilung des Vorliegens von Insolvenzeröffnungsgründen
 - §§ 17, 18, 19, 15a, 15b InsO; §§ 91, 91a AktG; § 43 GmbHG; § 321a HGB
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 22.10.2020 - IX ZR 208/17, NJW 2021, 538 — Liquiditaetsplanung und Insolvenzreife: Geschaeftsfuehrer muss eine 13-Wochen-Liquiditaetsplanung fuehren; Fehleinschaetzungen koennen § 15b InsO-Haftung ausloesen; Liquiditaetsplanung muss belastbar und dokumentiert sein

@@ -109,3 +109,39 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 ## Quellen und Updates
 
 Stand: 05/2026. GWB §§ 155-184. 10-Tage-Rüge-Frist stehende BGH-Linie.
+
+## Vertiefung: Output-Template VK-Aufklaerung
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Hat VK Aufklärungsschreiben versandt? → Frist beachten (meist 2-3 Wochen)
+2. Welche Dokumente fordert VK an (Vergabeakte, Wertungsunterlagen, Akteneinblick)?
+3. Ist Akteneinsichtsrecht nach §§ 165, 166 GWB geltend zu machen?
+4. Bietet Auftraggeber Einigung an? → Vergleich im VK-Verfahren moeglich
+
+### Output-Template Stellungnahme im VK-Verfahren
+**Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
+
+```
+Vergabekammer [NAME]
+[ANSCHRIFT]
+
+Az. [VERFAHRENS-AZ.]
+
+Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
+
+[...]
+
+1. Zu den Fragen Nr. [X] bis [Y]:
+   [Konkrete Antworten, mit Beweisanlagen]
+
+2. Akteneinsicht:
+   Wir beantragen Akteneinsicht nach § 165 GWB in
+   [Wertungsunterlagen / Verhandlungsprotokoll] soweit
+   keine Geheimhaltungsinteressen entgegenstehen.
+
+3. Zu einem moeglichen Vergleich:
+   [Position Mandant; Bereitschaft oder Ablehnung]
+
+[Rechtsanwalt/-anwaeltin]
+```

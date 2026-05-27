@@ -287,6 +287,13 @@ Mit freundlichen Grüßen
 
 ---
 
+## Ausgabe — Berechnungsprüfung
+
+- Berechnungstabelle Soll vs. Bescheid pro Position (Regelbedarf, Mehrbedarfe, KdU, Einkommen, Vermögen).
+- Differenzberechnung pro Monat; bei Abweichung Übergabe an `fachanwalt-sozialrecht-widerspruch-sozialleistung`.
+
+---
+
 ## Anschluss-Skills
 
 - `fachanwalt-sozialrecht-widerspruch-sozialleistung` — allgemeine Widerspruchslogik

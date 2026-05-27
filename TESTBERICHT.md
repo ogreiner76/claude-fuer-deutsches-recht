@@ -68,13 +68,13 @@ Der Skill validiert Zitierweise gegen ein Reference-Dokument, das im Plugin-ZIP 
 
 ### Rang 6 — Skill-Längen-Streuung Faktor 17
 
-Median 6140 Bytes. Kürzester Skill 1488 Bytes (`mietrecht/mietspiegel-quellen` — nur Trampolin zur Referenz), längster 24933 Bytes (`arbeitsrecht/interne-untersuchung`). Bei stark schwankender Qualität: kurze Skills fehlen oft an Konkretheit (z. B. die 17 `fachanwalt-*`-Light-Touch-Skills mit je ~2000 Bytes).
+Median 6140 Bytes. Kürzester Skill 1488 Bytes (`mietrecht/mietspiegel-quellen` — nur Trampolin zur Referenz), längster 24933 Bytes (`arbeitsrecht/interne-untersuchung`). Bei stark schwankender Qualität: kurze Skills fehlen oft an Konkretheit (z. B. die 17 `fachanwalt-*`-Plugin fuer Fachanwaltschaft-Skills mit je ~2000 Bytes).
 
 ### Rang 7 — Inkonsistente Versionsnummern in plugin.json vs Repo-Tag
 
 Repo-Tag ist v2.0.x. Plugin-Manifests stehen aber bei 0.1.0 für die meisten neuen Plugins, 0.2.1 für `liquiditaetsplanung`. Keine erkennbare Strategie. Bei Update über `release-plugin-zips.yml` springt der Repo-Tag, die einzelnen Plugin-Versionen bleiben rückständig.
 
-### Rang 8 — 17 nahezu identische `fachanwalt-*`-Light-Touch-Plugins
+### Rang 8 — 17 nahezu identische `fachanwalt-*`-Plugin fuer Fachanwaltschaft-Plugins
 
 Familienrecht, Strafrecht, Verkehrsrecht, Versicherungsrecht, Verwaltungsrecht, Bau-Architektenrecht, Erbrecht, Medizinrecht, Urheber-Medienrecht, IT-Recht, Bank-Kapitalmarktrecht, Internationales Wirtschaftsrecht, Migrationsrecht, Vergaberecht, Transport-Speditionsrecht, Agrarrecht, Sportrecht — alle mit einem einzigen Skill `fachanwalt-orientierung` (~2000 Bytes). 17 Marketplace-Einträge für wenig differenzierten Inhalt. Marketplace-Rauschen.
 
@@ -105,7 +105,7 @@ Stichprobe zeigt 49/52 mit `https://github.com/Klotzkette/claude-fuer-deutsches-
 
 ### Rang 14 — 29 Plugins ohne `kaltstart-interview`
 
-Bei 17 Light-Touch-`fachanwalt-*` macht das Sinn (nur 1 Orientierungs-Skill). Aber **12 weitere Plugins** mit mehreren Skills haben keinen Kaltstart-Interview-Setup-Skill:
+Bei 17 Plugin fuer Fachanwaltschaft-`fachanwalt-*` macht das Sinn (nur 1 Orientierungs-Skill). Aber **12 weitere Plugins** mit mehreren Skills haben keinen Kaltstart-Interview-Setup-Skill:
 - `liquiditaetsplanung` (3 Skills)
 - `fortbestehensprognose` (15 Skills) — **hat tatsaechlich einen**, aber `kanzlei-allgemein`, `mietrecht`, `verfassungsrecht`, `immobilienrechtspraxis`, `tabellenreview-3d`... — Inkonsistenz.
 
@@ -203,7 +203,7 @@ Soft-Konvention: kein Skill kürzer als 3000 Bytes, keiner länger als 15000 Byt
 
 **Hartes Befundbild:** 52 Plugins, 361 Skills, alle Validatoren grün — **kein Upload-Blocker**.
 
-**Weiches Befundbild:** Die Plugin-Sammlung ist breit aufgestellt, mit klarer Plugin-Granularität (außer den 17 `fachanwalt-*`-Light-Touch-Klonen, die konsolidierungsreif sind). Die größten Qualitätshebel liegen in Konsistenz (License-Felder, Slash-Command-Schreibweise, Output-Dateinamen-Konvention) und in der Sichtbarmachung von Cross-Plugin-Abhängigkeiten.
+**Weiches Befundbild:** Die Plugin-Sammlung ist breit aufgestellt, mit klarer Plugin-Granularität (außer den 17 `fachanwalt-*`-Plugin fuer Fachanwaltschaft-Klonen, die konsolidierungsreif sind). Die größten Qualitätshebel liegen in Konsistenz (License-Felder, Slash-Command-Schreibweise, Output-Dateinamen-Konvention) und in der Sichtbarmachung von Cross-Plugin-Abhängigkeiten.
 
 **Top-3-Priorität für die nächste Iteration:**
 1. License-Feld nachziehen (Rang 2 → Vorschlag 1)

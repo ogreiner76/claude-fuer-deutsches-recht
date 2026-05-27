@@ -102,7 +102,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `jveg-kostenpruefer.zip` | JVEG-Kostenprüfung: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Fristen, Festsetzung und Beschwerde |
 | `jurastudium.zip`                         | Karteikarten, Gutachten-Coaching, Examensvorbereitung                                                                      |
 
-### Fachanwalt-Light-Touch (22 Stück)
+### Fachanwalt-Plugin fuer Fachanwaltschaft (22 Stück)
 
 Kein Vollassistent, sondern Orientierung in Normen, Notfristen, typischen Mandanten und Schriftsatzbausteinen.
 

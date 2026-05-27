@@ -92,3 +92,67 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 - `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` — bei Folge
 - `ruegeschriftsatz-erstellen` (Power-Tool) — Schriftsatz-Hilfe
 - `fachanwalt-vergaberecht-orientierung` — Triage
+
+## Vertiefung: Leitsaetze und Output-Template
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Wann Kenntnis vom Verstoss? → Fristberechnung § 160 Abs. 3 GWB (10 Tage sonstige / Angebotsabgabe bei Bekanntmachung)
+2. Oberschwellen- oder Unterschwellenauftrag? → § 106 GWB Schwellenwert pruefen
+3. Welche konkrete Norm verletzt? → Wertung / Eignung / Vergabeunterlage / Zuschlagskriterien
+4. Informationsschreiben § 134 GWB erhalten? → Stillhaltefrist 10 Tage vor Zuschlag
+5. Zuschlag bereits erteilt? → Keine Ruege mehr sinnvoll; Schadensersatz § 181 GWB
+
+### Ergaenzende Leitsaetze Ruegeschriftsatz
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 38 — Ruegeobliegenheit als Zulaessigkeitsvoraussetzung fuer Nachpruefungsantrag; Praeklusion bei verspäteter Ruege.
+- EuGH, Urt. v. 15.09.2022 - C-669/20, NZBau 2022, 722 — Nationales Ruegeerfordernis unionsrechtskonform wenn Frist angemessen ist.
+- OLG Dusseldorf, Beschl. v. 29.06.2022 - Verg 18/22, NZBau 2022, 511 — Ruege muss konkreten Verstoss benennen.
+- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 — 15-Tage-Frist Antrag nach Ruegerueckweisung.
+
+### Output-Template Ruegeschriftsatz § 160 GWB
+**Adressat:** Vergabestelle [AUFTRAGGEBER] — Tonfall: sachlich-juristisch, fristsetzend
+
+```
+[Kanzlei], [Datum]
+
+[AUFTRAGGEBER / VERGABESTELLE]
+[ANSCHRIFT]
+Per beA / E-Mail mit Lesebestaetigung
+
+Vergabeverfahren [BEZEICHNUNG], TED-Nr. [NR.]
+Unsere Mandantschaft: [BIETER], [ANSCHRIFT]
+
+R U E G E  gemaess § 160 Abs. 3 GWB
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht des oben genannten Bieters
+ruegen wir folgenden Vergabeverstoss:
+
+1. Sachverhalt / Verstoss:
+   [Konkrete Beschreibung, z.B.:
+   "Die Vergabeunterlagen sehen als Eignungskriterium
+   [XYZ] vor, obwohl dieses Kriterium unverhaaltnismaessig
+   und diskriminierend ist (§ 122 GWB i.V.m. § 45 VgV)."]
+
+2. Verletzte Normen:
+   - [§ 97 Abs. 2 GWB (Gleichbehandlung)]
+   - [§ 122 GWB / § 45 VgV (Eignungskriterien)]
+   - [EU-RL 2014/24/EU Art. 58]
+
+3. Kenntnisdatum:
+   [DATUM] — [Quelle, z.B. "Vergabeunterlagen"]
+   Frist § 160 Abs. 3 GWB gewahrt.
+
+4. Antrag:
+   Wir fordern Sie auf, den Vergabeverstoss
+   durch [Massnahme: Ergaenzung der Unterlagen /
+   Aufhebung Eignungskriterium] zu beseitigen.
+
+   Andernfalls beantragen wir umgehend Nachpruefung
+   bei der Vergabekammer [NAME VK].
+
+Mit freundlichen Gruessen
+[Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
+```

@@ -171,7 +171,7 @@
     {
       "name": "fachanwalt-agrarrecht",
       "source": "./fachanwalt-agrarrecht",
-      "description": "Light-Touch-Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
+      "description": "Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
       "author": {
         "name": "Klotzkette"
       },
@@ -180,7 +180,7 @@
     {
       "name": "fachanwalt-arbeitsrecht",
       "source": "./fachanwalt-arbeitsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Arbeitsrecht nach FAO Paragraf 10. Aktuelle BAG-Rechtsprechung 2025/2026 (Equal Pay Paarvergleich AGG, kein Verzicht Mindesturlaub BUrlG, Freistellungsklausel unwirksam Paragraf 307 BGB). KSchG Kuendigungsschutzklage. BetrVG. TzBfG. AGG. EntgTranspG.",
+      "description": "Plugin Fachanwalt fuer Arbeitsrecht nach FAO Paragraf 10. Aktuelle BAG-Rechtsprechung 2025/2026 (Equal Pay Paarvergleich AGG, kein Verzicht Mindesturlaub BUrlG, Freistellungsklausel unwirksam Paragraf 307 BGB). KSchG Kuendigungsschutzklage. BetrVG. TzBfG. AGG. EntgTranspG.",
       "author": {
         "name": "Klotzkette"
       },
@@ -189,7 +189,7 @@
     {
       "name": "fachanwalt-bank-kapitalmarktrecht",
       "source": "./fachanwalt-bank-kapitalmarktrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermoegensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.",
+      "description": "Plugin Fachanwalt fuer Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermoegensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.",
       "author": {
         "name": "Klotzkette"
       },
@@ -198,7 +198,7 @@
     {
       "name": "fachanwalt-bau-architektenrecht",
       "source": "./fachanwalt-bau-architektenrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -207,7 +207,7 @@
     {
       "name": "fachanwalt-erbrecht",
       "source": "./fachanwalt-erbrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -216,7 +216,7 @@
     {
       "name": "fachanwalt-familienrecht",
       "source": "./fachanwalt-familienrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -225,7 +225,7 @@
     {
       "name": "fachanwalt-gewerblicher-rechtsschutz",
       "source": "./fachanwalt-gewerblicher-rechtsschutz",
-      "description": "Light-Touch-Plugin Fachanwalt fuer gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.",
+      "description": "Plugin Fachanwalt fuer gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.",
       "author": {
         "name": "Klotzkette"
       },
@@ -234,7 +234,7 @@
     {
       "name": "fachanwalt-handels-gesellschaftsrecht",
       "source": "./fachanwalt-handels-gesellschaftsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschaeftsfuehrerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschaeftsfuehrerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -243,7 +243,7 @@
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht",
       "source": "./fachanwalt-insolvenz-sanierungsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
+      "description": "Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
       "author": {
         "name": "Klotzkette"
       },
@@ -252,7 +252,7 @@
     {
       "name": "fachanwalt-internationales-wirtschaftsrecht",
       "source": "./fachanwalt-internationales-wirtschaftsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -261,7 +261,7 @@
     {
       "name": "fachanwalt-it-recht",
       "source": "./fachanwalt-it-recht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -270,7 +270,7 @@
     {
       "name": "fachanwalt-medizinrecht",
       "source": "./fachanwalt-medizinrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin sozialrecht-kanzlei kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin sozialrecht-kanzlei kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -279,7 +279,7 @@
     {
       "name": "fachanwalt-miet-wohnungseigentumsrecht",
       "source": "./fachanwalt-miet-wohnungseigentumsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraummiete und Gewerberaummiete. Mieterhoehung §§ 558 ff. Kuendigung §§ 543 569 573 BGB. WEG-Beschlussanfechtung § 44 WEG. BetrKV. Schnittstellen kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraummiete und Gewerberaummiete. Mieterhoehung §§ 558 ff. Kuendigung §§ 543 569 573 BGB. WEG-Beschlussanfechtung § 44 WEG. BetrKV. Schnittstellen kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -288,7 +288,7 @@
     {
       "name": "fachanwalt-migrationsrecht",
       "source": "./fachanwalt-migrationsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.",
+      "description": "Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.",
       "author": {
         "name": "Klotzkette"
       },
@@ -297,7 +297,7 @@
     {
       "name": "fachanwalt-sozialrecht",
       "source": "./fachanwalt-sozialrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Sozialrecht nach FAO § 11. SGB I bis XII Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Frist ein Monat. Klage Sozialgericht § 87 SGG. Erwerbsminderungsrente. SGB II Buergergeld Bescheid. Schnittstellen sozialrecht-kanzlei und kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.",
       "author": {
         "name": "Klotzkette"
       },
@@ -306,7 +306,7 @@
     {
       "name": "fachanwalt-sportrecht",
       "source": "./fachanwalt-sportrecht",
-      "description": "Light-Touch-Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.",
+      "description": "Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.",
       "author": {
         "name": "Klotzkette"
       },
@@ -315,7 +315,7 @@
     {
       "name": "fachanwalt-strafrecht",
       "source": "./fachanwalt-strafrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -324,7 +324,7 @@
     {
       "name": "fachanwalt-transport-speditionsrecht",
       "source": "./fachanwalt-transport-speditionsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Uebereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Uebereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -333,7 +333,7 @@
     {
       "name": "fachanwalt-urheber-medienrecht",
       "source": "./fachanwalt-urheber-medienrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -342,7 +342,7 @@
     {
       "name": "fachanwalt-vergaberecht",
       "source": "./fachanwalt-vergaberecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Vergaberecht. GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A. EU-Vergabe-RL. Nachpruefungsverfahren Vergabekammer und OLG-Vergabesenat. Schnittstelle Plugin fachanwalt-bau-architektenrecht.",
+      "description": "Plugin Fachanwalt fuer Vergaberecht. GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A. EU-Vergabe-RL. Nachpruefungsverfahren Vergabekammer und OLG-Vergabesenat. Schnittstelle Plugin fachanwalt-bau-architektenrecht.",
       "author": {
         "name": "Klotzkette"
       },
@@ -351,7 +351,7 @@
     {
       "name": "fachanwalt-verkehrsrecht",
       "source": "./fachanwalt-verkehrsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bussgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bussgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -360,7 +360,7 @@
     {
       "name": "fachanwalt-versicherungsrecht",
       "source": "./fachanwalt-versicherungsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Versicherungsrecht. VVG VAG Berufsunfaehigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt fuer Versicherungsrecht. VVG VAG Berufsunfaehigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -369,7 +369,7 @@
     {
       "name": "fachanwalt-verwaltungsrecht",
       "source": "./fachanwalt-verwaltungsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.",
       "author": {
         "name": "Klotzkette"
       },
@@ -738,15 +738,6 @@
       "name": "schriftform-und-textform-bgb",
       "source": "./schriftform-und-textform-bgb",
       "description": "Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "14.1.0"
-    },
-    {
-      "name": "sozialrecht-kanzlei",
-      "source": "./sozialrecht-kanzlei",
-      "description": "Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagen. Spezialisiert auf Buergergeld SGB IX Schwerbehinderung Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe Schulbegleitung. Mit Fristenbuch und PKH.",
       "author": {
         "name": "Klotzkette"
       },

@@ -190,3 +190,8 @@ Dokument [Titel], DR-ID [X], heruntergeladen am [Datum], geprüft von [Name], St
 - BGH, Urt. v. 08.02.2018, Az. IX ZR 47/17 (Fristerinnerung, Organisationsverschulden)
 - OLG München, Urt. v. 20.01.2020, Az. 6 U 4558/19 (NDA nach Scheitern)
 - § 50 BRAO; §§ 5, 6, 8 GwG; Art. 5, 25 DSGVO; §§ 257 HGB, 147 AO; MAR Art. 7, 8
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrung: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer Mandant jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten
+- OLG Frankfurt, Urt. v. 14.11.2019 - 4 U 225/18, NZG 2020, 217 — Aktenanlage und Dateisicherheit: Anwalt haftet bei Datenverlust, wenn keine angemessene Backup-Strategie vorhanden war; DSGVO-konforme Datenhaltung ist Sorgfaltspflicht

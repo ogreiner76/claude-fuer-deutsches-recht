@@ -232,3 +232,42 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 ## Quellen
 
 GWB §§ 97, 122, 123, 124, 125, 160, 165, 181; VgV §§ 42–50; BGH X ZB 9/15; BGH X ZB 10/19; OLG Düsseldorf Verg 21/18; OLG München Verg 4/19; OLG Frankfurt 11 Verg 9/21; EuGH C-465/11; VK Bund VK 2-35/22; Pünder/Schellenberg Vergaberecht 3. Aufl. 2019; Burgi Vergaberecht 3. Aufl. 2022.
+
+## Vertiefung: Triage und Output-Template Eignungspruefung
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Welches Eignungskriterium ist streitig? (Umsatz, Referenzen, Personal, Zertifikate, Insolvenz)
+2. Ist Kriterium in Bekanntmachung oder Vergabeunterlagen eindeutig beschrieben? (§ 122 Abs. 4 GWB)
+3. Wurde Eignungsanforderung im Verhaeltnis zum Auftragsgegenstand aufgestellt? (Verhaeltnismaessigkeit)
+4. Liegt behaupteter Ausschluss § 124 GWB vor? (Harte/weiche Ausschlusskriterien)
+5. Selbstreinigung nach § 125 GWB moeglich?
+
+### Ergaenzende Leitsaetze Eignungspruefung
+
+- EuGH, Urt. v. 22.09.2022 - C-537/19, NZBau 2023, 38 — Eignungsanforderungen muessen verhaeltnismaessig zum Auftragsgegenstand sein; unverhaaltnismaessige Anforderungen = Vergaberechtsverstos.
+- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Eignungsanforderung muss in Bekanntmachung aufgefuehrt sein; nachtraegliche Einfuehrung unzulaessig.
+- OLG Frankfurt, Beschl. v. 15.03.2022 - 11 Verg 15/21, NZBau 2022, 340 — Ausschluss wegen fehlender Eignung muss auf eindeutiger Grundlage beruhen; Zweifelsfaelle gehen zu Lasten des Auftraggebers.
+
+### Output-Template Begruendung Eignung
+**Adressat:** Vergabestelle oder Vergabekammer — Tonfall: sachlich-juristisch
+
+```
+Stellungnahme zur Eignungspruefung
+Vergabeverfahren [BEZEICHNUNG]
+
+1. Eignungssachverhalt:
+   Unser Mandant hat alle in der Bekanntmachung vom
+   [DATUM] geforderten Eignungsnachweise fristgerecht
+   eingereicht (Anlage K1 bis K[N]).
+
+2. Zum streitigen Kriterium [XYZ]:
+   [Konkreter Nachweis + BGH/EuGH-Bezug]
+   Das Kriterium ist im Verhältnis zum Auftragsgegenstand
+   angemessen (§ 122 Abs. 4 GWB / EuGH C-537/19).
+
+3. Antrag:
+   Unser Mandant ist als geeignet anzusehen.
+   Ein Ausschluss wegen mangelnder Eignung ist
+   rechtswidrig und aufzuheben.
+```

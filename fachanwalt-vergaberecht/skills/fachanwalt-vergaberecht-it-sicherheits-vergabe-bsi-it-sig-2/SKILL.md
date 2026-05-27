@@ -234,3 +234,38 @@ Mit freundlichen Gruessen
 ## Quellen
 
 GWB §§ 97, 122, 124, 127, 160, 169; VgV §§ 14, 42 ff.; BSIG §§ 2, 8a, 8b, 9b, 32; NIS2UmsuCG; IT-SiG 2.0 (18.05.2021); DORA VO (EU) 2022/2554; NIS2-RL 2022/2555; CRA VO (EU) 2024/2847; DSGVO Art. 28, 32, 46; SÜG; BSI C5-Anforderungskatalog 2023; ISO/IEC 27001:2022; VK Bund VK 2-71/23; OLG Düsseldorf Verg 18/22; EuGH C-311/18; EuGH C-263/19. Stand 06/2026.
+
+## Vertiefung: Output-Template IT-Sicherheitsvergabe
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Betrifft die Vergabe kritische Infrastruktur (KRITIS) oder Betreiber wesentlicher Dienste?
+2. Ist BSI-Grundschutz oder CC-Zertifizierung Eignungsanforderung?
+3. Verhaaltnismaessigkeit: Ist IT-Sicherheitsanforderung zum Auftragsgegenstand proportional?
+4. Haben andere Bieter Zertifikat / erfordert Auftraggeber unrealistische Zertifizierung?
+
+### Output-Template IT-Sicherheitsvergabe Ruege
+**Adressat:** Vergabestelle — Tonfall: sachlich-juristisch
+
+```
+Ruege — IT-Sicherheitsanforderungen
+
+Vergabe: [BEZEICHNUNG]
+
+1. Verstoss:
+   Die geforderte [BSI-Zertifizierung / CC-Zertifizierung]
+   auf Stufe [X] ist unverhaaltnismaessig, weil:
+   a) Der Auftragsgegenstand erfordert diese Stufe nicht.
+   b) Der Markt bietet keine ausreichende Anzahl von
+      Bietern mit dieser Zertifizierung (Diskriminierung).
+
+2. Normen:
+   § 122 Abs. 4 GWB (Eignungsanforderungen verhaeltnismaessig)
+   § 97 Abs. 2 GWB (Gleichbehandlung)
+   EuGH C-537/19
+
+3. Antrag:
+   Abaenderung der Eignungsanforderung auf [angemessene Stufe].
+
+[Rechtsanwalt/-anwaeltin]
+```

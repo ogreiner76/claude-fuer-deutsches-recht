@@ -217,3 +217,46 @@ ausschliessen muessen.
 ## Quellen
 
 GWB §§ 97, 99, 106, 122–125, 127, 134, 135, 160, 165, 167, 169, 171, 181, 182; VgV §§ 14, 42, 53, 58, 60, 63; SektVO; KonzVgV; VOB/A-EU; BGH X ZB 12/19; BGH X ZB 22/13; BGH XIII ZB 93/22; OLG Düsseldorf Verg 23/19; EuGH C-3/15; BVerfG 2 BvR 2454/17; Burgi Vergaberecht 3. Aufl. 2022; Bechtold/Bosch GWB 10. Aufl. 2023.
+
+## Vertiefung: Output-Template Erfolgsaussichten-Memo
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Ist Ruege nach § 160 Abs. 3 GWB rechtzeitig erhoben worden?
+2. Hat Bieter Antragsbefugnis (am Verfahren beteiligt oder haette beteiligt sein koennen)?
+3. Welcher Fehler ist konkret nachweisbar (Wertung / Eignung / Diskriminierung / Transparenz)?
+4. Liegt der Verstoss kausal fuer die Nichtberucksichtigung des Mandanten?
+5. Werden Chancen geschaetzt: "Keine konkreten Aussichten" → Schadensersatz § 181 GWB statt NPA?
+
+### Output-Template Erfolgsaussichten-Memo
+**Adressat:** Mandant — Tonfall: klar erklärend, realistisch
+
+```
+ERFOLGSAUSSICHTEN-MEMO Vergaberecht
+=========================================
+Mandant:     [NAME]
+Verfahren:   [BEZEICHNUNG]
+Datum Memo:  [TT.MM.JJJJ]
+
+1. Sachverhalt-Kurzfassung:
+   [...]
+
+2. Nachgewiesener Vergabeverstoß:
+   [§ XY GWB / VgV: Konkrete Verletzung]
+
+3. Chancen Nachpruefungsantrag:
+   HOCH / MITTEL / GERING / KEINE
+   Begruendung: [Leitsatz-Referenz / Beweislage]
+
+4. Alternativ Schadensersatz § 181 GWB:
+   Voraussetzungen erfuellt: JA / NEIN
+   Schadenshoehe (geschaetzt): EUR [BETRAG]
+
+5. Empfehlung:
+   [NPA einreichen / Schadensersatzklage / Kein weiteres Vorgehen]
+
+6. Fristen:
+   Nachpruefungsantrag bis:  [TT.MM.JJJJ]
+   Beschwerde bis (OLG):     [TT.MM.JJJJ bei VK-Entscheidung]
+=========================================
+```

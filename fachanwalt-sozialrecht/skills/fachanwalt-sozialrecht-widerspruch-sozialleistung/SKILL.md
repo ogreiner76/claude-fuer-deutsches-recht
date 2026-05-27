@@ -304,12 +304,30 @@ Mit freundlichen Grüßen
 
 ---
 
+## Ausgabe
+
+- `widerspruch-<az>-<datum>.docx` und Markdown-Spiegel.
+- Eintrag im Fristenbuch (`fristenbuch-sozialrecht`).
+- Eintrag im Postausgang.
+
+## Versand-Check
+
+Vor Versand Skill `bescheid-frist-quick-check` konsultieren. Prüft Inhalt, Signatur, Empfängeradresse und Anlagenständigkeit.
+
+## Hinweis Aussetzung der Vollziehung
+
+Bei Bescheiden über Aufhebung, Rückforderung oder Sanktion: Widerspruch hat keine aufschiebende Wirkung wenn die Behörde die sofortige Vollziehung angeordnet hat oder das Gesetz sie vorsieht (§ 86a Abs. 2 SGG). Hilfsantrag auf Aussetzung der Vollziehung an die Behörde — bei Ablehnung Eilantrag § 86b SGG ans Sozialgericht (Skill `eilantrag-sozialrecht`).
+
+---
+
 ## Anschluss-Skills
 
 - `fachanwalt-sozialrecht-sgb-ii-bescheid` — SGB II spezifisch
 - `fachanwalt-sozialrecht-erwerbsminderungsrente` — EM-Rente Widerspruch
 - `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` — nach Widerspruchsablehnung
 - `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` — BG-Widerspruch
+- `eilantrag-sozialrecht` — bei Wegfall aufschiebende Wirkung
+- `fristenbuch-sozialrecht` — Vorfrist einplanen
 
 ## Quellen
 

@@ -471,3 +471,33 @@ Kommentarliteratur:
 - BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungsgrenze).
 - BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität SV-Freiheit).
 - BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
+
+## Output-Template: Klausel-Pruefprotokoll
+
+**Adressat:** Anwaltsakte / Qualitaetskontrolle — Tonfall sachlich
+
+```
+KLAUSEL-PRUEFPROTOKOLL
+Mandat: [MANDANT] | Dokument: [SHA / Satzung] | Datum: [DATUM]
+
+GEPRUEFTE KLAUSELN:
+
+| Klausel                | Vorhanden | Fassung | Kommentar |
+|------------------------|-----------|---------|-----------|
+| Sprachvorrang-Klausel  | Ja / Nein | DE/EN   |           |
+| Drag-Along             | Ja / Nein | [%]     | Schwelle  |
+| Tag-Along              | Ja / Nein |         |           |
+| Liquidation Preference | Ja / Nein | 1x / 2x |           |
+| Anti-Dilution          | Ja / Nein | WA-BB   |           |
+| Vesting-Klausel        | Ja / Nein | 48M/12C |           |
+| Bad-Leaver / Good-Leaver| Ja / Nein|         |           |
+| Sperrminoritaet        | Ja / Nein | [%]     | SV-Schutz |
+| Wettbewerbsverbot      | Ja / Nein | [M]     | Karenz?   |
+| Schiedsklausel         | Ja / Nein | DIS     | Sprache   |
+
+OFFENE PUNKTE:
+  [ ] [KLAUSEL] fehlt noch; Entwurf bis [DATUM]
+  [ ] [KLAUSEL] muss an Satzung angepasst werden
+
+FREIGABE: [NAME / DATUM]
+```

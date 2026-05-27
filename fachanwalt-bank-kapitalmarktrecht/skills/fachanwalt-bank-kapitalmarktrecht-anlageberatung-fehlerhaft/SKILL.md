@@ -81,3 +81,28 @@ Mit freundlichen Gruessen
 - Bei Ablehnung: Klage am Sitz der Bank bzw. Wohnsitz des Anlegers § 32b ZPO bei kapitalanlegerrechtlichem Musterverfahren prüfen.
 - Verjährungsfrist im Aktenkalender notieren — Hemmung durch Verhandlungen § 203 BGB sichern.
 - Bei Vergleichsverhandlungen Hemmungsschriftverkehr dokumentieren.
+
+## Vertiefung: Leitsaetze und Workflow-Ergaenzung
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Wann fand die Beratung statt? → Verjaebrung 3 Jahre ab Kenntnis + max. 10 Jahre absolut.
+2. Liegt Beratungsprotokoll (§ 83 WpHG / § 34 WpHG aF) oder Geeignetheitserklaerung (§ 64 WpHG) vor? → Fehlende Dokumentation = Beweisschwaeche Bank.
+3. Erhielt die Bank Rueckverguetungen / Innenprovisionen? → Aufklaerungspflicht nach BGH XI ZR 56/05.
+4. Wurde das Anlageprodukt anlegegerecht empfohlen (Risikoprofil vs. Produkt-Risikoklasse)? → Bond-Urteil BGH XI ZR 12/93.
+5. Schadenshoehe: Differenzhypothese oder negatives Interesse berechnen?
+
+### Ergaenzende Leitsaetze
+- BGH, Urt. v. 17.09.2013 - XI ZR 332/12, NJW 2013, 3573 Rn. 22 — Fehlende WpHG-Dokumentation begruendet Vermutung, dass Beratung nicht anlegergerecht war; Bank muss diese Vermutung erschuettern.
+- BGH, Urt. v. 27.09.2011 - XI ZR 178/10, NJW 2012, 66 Rn. 28 — Lehman-Zertifikate: Emittentenrisiko aufklaerungs-pflichtig; Investment-Grade-Rating allein genuegt nicht zur Entbindung von Aufklaerungspflicht.
+- BGH, Urt. v. 22.03.2011 - XI ZR 33/10, NJW 2011, 1949 Rn. 33 — CMS Spread Ladder Swap: Aufklaerungspflicht ueber anfaenglichen negativen Marktwert; Eigeninteresse der Bank offenzulegen.
+- BGH, Beschl. v. 20.01.2009 - XI ZR 510/07, NJW 2009, 1416 Rn. 12 — Kick-back III: Rueckverguetungen auch bei verdeckten Vertriebsprovisionen aufklaerungspflichtig; kein Ermessen der Bank.
+
+### Schritt-fuer-Schritt-Workflow Anlageberatungsfehler
+1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.
+2. **Beratungsprotokoll anfordern** (§ 83 WpHG, § 64 Abs. 4 WpHG): 3-Tage-Frist auf Herausgabe.
+3. **Pruefung Kickbacks:** Bank-interne Vertriebsprovision vom Emittenten = aufklaerungspflichtig.
+4. **Schadensberechnung:** Eingesetztes Kapital minus aktueller Wert + entgangene 4 %-Verzinsung.
+5. **Ausforderungsschreiben** an Bank mit 4-Wochen-Frist, Schadensaufstellung, Klageandrohung.
+6. **Ombudsmann** einschalten (hemmt Verjaebrung § 204 BGB).
+7. **Klage** bei Ablehnung: LG (§ 23 GVG Streitwert ab EUR 5.000).

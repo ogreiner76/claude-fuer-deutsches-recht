@@ -447,6 +447,73 @@ Vor Verabschiedung als endgültig: Falls Rolle **Nichtjurist**:
 | Notarielles Protokoll vergessen | Formnichtigkeit (§ 241 Nr. 2 AktG) bei Satzungsänderungen, Kapitalmaßnahmen | Vor jeder HV-Sitzung notarielle Beurkundungspflicht prüfen |
 | Unklare Beschlussformulierung | Auslegungsstreit; Vollzugsprobleme bei M&A | Beschlusstexte präzise, vollständig und widerspruchsfrei formulieren |
 
+## Output-Template
+
+**Adressat:** Aufsichtsratsvorsitzender / Protokollführer — Tonfall: sachlich-juristisch, präzise
+
+```
+PROTOKOLL
+der [ordentlichen / außerordentlichen] Sitzung des Aufsichtsrats
+der [GESELLSCHAFT AG / GmbH]
+am [TT. Monat JJJJ], [Uhrzeit] Uhr
+in [ORT / per Videokonferenz gem. § 108 Abs. 4 AktG]
+
+> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+> Dieses Protokoll ist bis zur Genehmigung als ENTWURF zu behandeln.
+
+--- KOPFBLOCK ---
+Ort und Zeit: [ORT], [DATUM], [VON] bis [BIS] Uhr
+Vorsitz: [NAME], [FUNKTION]
+Protokollfuehrender: [NAME]
+
+--- ANWESENHEIT ---
+Anwesende AR-Mitglieder: [NAME] (Vorsitz), [NAME], [NAME] — [N] von [GESAMT]
+Entschuldigt: [NAME]
+Gaeste: [NAME], [FUNKTION] (nur bei TOP [N])
+Beschlussfaehigkeit: [BEJAHT / VERNEINT] (§ 108 Abs. 2 AktG: mind. 3 Mitglieder)
+
+--- EINBERUFUNG ---
+Einberufung durch [VORSITZENDEN] mit Schreiben vom [DATUM] (Frist § 110 Abs. 2 AktG: mind. [N] Tage).
+Tagesordnung lag vor / wurde verteilt am [DATUM].
+
+--- TAGESORDNUNG ---
+TOP 1: [TITEL]
+TOP 2: [TITEL]
+TOP 3: Verschiedenes
+
+--- TOP 1: [TITEL] ---
+[VORSITZENDER] erlaeutert [SACHVERHALT]. Nach Aussprache beschliesst der Aufsichtsrat:
+
+BESCHLUSS [1/JJJJ]:
+[WORTLAUT DES BESCHLUSSES]
+
+Abstimmung: [N] Ja-Stimmen / [N] Nein-Stimmen / [N] Enthaltungen
+[MITGLIED] war wegen Interessenkonflikts (§ 34 BGB analog) nicht stimmberechtigt.
+Ergebnis: ANGENOMMEN / ABGELEHNT
+
+[Weitere TOPs analog]
+
+--- SCHLUSS ---
+Naechster Termin: [DATUM] (voraussichtlich)
+Schluss der Sitzung: [UHRZEIT] Uhr
+
+Anlagen:
+1. [ANLAGE 1]
+2. [ANLAGE 2]
+
+________________________     ________________________
+[VORSITZENDER]                [PROTOKOLLFUEHRENDER]
+AR-Vorsitzender               [FUNKTION]
+```
+
+## Rote Schwellen
+
+- **Beschlussfaehigkeit nach § 108 Abs. 2 AktG nicht erreicht** (weniger als 3 Mitglieder stimmen mit) — keine gueltigen Beschluesse; Sitzung vertagen.
+- **Stimmverbot § 136 AktG / § 47 Abs. 4 GmbHG uebersehen** — Beschluss anfechtbar; betroffenes Mitglied ausdrücklich von Abstimmung ausschliessen und im Protokoll dokumentieren.
+- **Einladungsfrist § 110 Abs. 2 AktG unterschritten** — Beschluesse anfechtbar; Einladungsverzicht aller Mitglieder dokumentieren.
+- **Satzungsaenderung / Kapitalmaßnahme ohne Notarprotokoll** — Formnichtigkeit (§ 241 Nr. 2 AktG); Notar rechtzeitig bestellen.
+- **Anfechtungsfrist (1 Monat) nach § 246 AktG versaeumt** — Beschluss unanfechtbar auch bei Fehlern; sofort Fristnotiz anlegen.
+
 ## Anschluss-Skills
 
 - `gesellschaftsrecht:tabellenpruefung` — Prüfung von Beschlusstabellen und Stimmrechtslisten

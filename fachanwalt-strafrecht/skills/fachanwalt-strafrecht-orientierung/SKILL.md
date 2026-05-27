@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) Hauptverhandlung (§§ 213 ff. StPO) Berufung (§ 314 StPO) Revision (§ 341 StPO) Verfassungsbeschwerde. Aktenaufbereitung im Plugin aktenaufbereiter-strafrecht.
+description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Plugin fuer schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) Hauptverhandlung (§§ 213 ff. StPO) Berufung (§ 314 StPO) Revision (§ 341 StPO) Verfassungsbeschwerde. Aktenaufbereitung im Plugin aktenaufbereiter-strafrecht.
 ---
 
 # Fachanwalt für Strafrecht — Orientierung
@@ -72,7 +72,7 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 
 ## Hinweis
 
-Light-Touch-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
 
 ## Zentrale Strafrecht-Normen im Ueberblick
 

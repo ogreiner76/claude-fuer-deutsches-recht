@@ -358,3 +358,37 @@ Mit freundlichen Grüßen
 ## Quellen
 
 GWB §§ 97, 106, 120–122, 127, 134–135, 155, 160–163, 169, 172, 179, 182; VgV §§ 3, 31, 46, 58, 60, 134; VOB/A-EU; SektVO §§ 76–78; BGH X ZB 14/13 (Rügebestimmtheit); BGH X ZB 4/22 (Dokumentationsmangel); OLG Düsseldorf Verg 23/17 (Unverzüglichkeit); OLG Karlsruhe 15 Verg 4/12 (Schweigen als Nichtabhilfe); OLG München Verg 12/20 (Referenzanforderung); VK Bund VK 2-19/22 (Leistungsbeschreibung); EuGH C-27/15 (Gleichbehandlung); Burgi, Vergaberecht, 3. Auflage; Dreher/Hoffmann/Rubach, GWB-Vergaberecht; Stand: 05/2026.
+
+## Vertiefung: Output-Template Ruegeschriftsatz
+
+### Output-Template Ruegeschriftsatz (Vollversion)
+**Adressat:** Vergabestelle — Tonfall: sachlich-juristisch, fristsetzend
+
+```
+[Kanzlei], [Datum]
+
+[VERGABESTELLE / AUFTRAGGEBER]
+[ANSCHRIFT]
+
+Vergabe [BEZEICHNUNG], Az./TED-Nr. [NR.]
+Unser Mandant: [BIETER], vertreten durch [Kanzlei]
+
+R U E G E  nach § 160 Abs. 3 GWB
+
+1. Kenntniszeitpunkt: [DATUM] aus [QUELLE]
+2. Verstoss:
+   Verletzung von [§ XY GWB / § ZY VgV]:
+   [Konkrete Beschreibung]
+3. Frist: Die 10-Tage-Frist des § 160 Abs. 3 Nr. 1 GWB
+   ist gewahrt (Kenntnisdatum [DATUM]).
+4. Antrag auf Abhilfe:
+   [Massnahme: z.B. Neuberechnung Wertung /
+   Einsicht in Wertungsunterlagen /
+   Aufhebung diskriminierender Anforderung]
+5. Androhung:
+   Bei Nichtabhilfe werden wir binnen 15 Tagen
+   Nachpruefungsantrag bei der Vergabekammer stellen
+   (§ 160 Abs. 3 Nr. 4 GWB).
+
+[Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
+```

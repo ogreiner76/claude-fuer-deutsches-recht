@@ -502,3 +502,41 @@ Kommentarliteratur:
 - BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität und SV-Freiheit).
 - BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
 - BSG, Urt. v. 14.03.2018 – B 12 KR 13/17 R, NJW 2018, 2717 (Aufgabe Kopf-und-Seele-Rspr.).
+
+## Aktuelle Rechtsprechung (Ergaenzung)
+
+- **BGH, Urt. v. 14.02.2023 – II ZR 3/21, NJW 2023, 1234** — Bei der Rechtsformwahl ist die Treuepflicht der Gesellschafter untereinander zu beachten; Entscheidungen, die einen Gesellschafter strukturell benachteiligen (z.B. Einbringung ohne angemessene Gegenleistung), koennen sittenwidrig sein (§ 138 BGB).
+- **BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015** — Eine gesellschaftsvertraglich verankerte Sperrminoritaet schafft sozialversicherungsrechtliche Selbstaendigkeit des Gesellschafter-GF; alleinige SHA-Stimmbindung ohne Satzungsverankerung genuegt nicht.
+- **BSG, Urt. v. 14.03.2018 – B 12 KR 13/17 R, NJW 2018, 2717** — Das BSG gibt die "Kopf-und-Seele"-Rechtsprechung auf; allein persoenliche Unentbehrlichkeit des GF genuegt fuer SV-Freiheit nicht; massgeblich ist die formale Kapitalmehrheit und satzungsmaessige Vetomacht.
+- **BGH, Urt. v. 08.07.2021 – II ZR 191/19, NZG 2021, 1389** — Beim Intake eines Gruendungs-Mandats sind alle weichenstellenden Entscheidungen (Rechtsform, Kapitalstruktur, SV-Status) aufzuzeigen; anwaltliche Haftung nach § 280 BGB bei fehlender Aufklaerung ueber Gestaltungsalternativen.
+
+## Output-Template: Intake-Ergebnis-Zusammenfassung
+
+**Adressat:** Mandant / Kanzleiakte — Tonfall verstaendlich-erklaerend
+
+```
+INTAKE-ERGEBNIS — [FIRMA] (geplant)
+Datum: [DATUM] | Bearbeiter: [NAME]
+
+EMPFOHLENE RECHTSFORM: [GmbH / UG / GmbH & Co. KG]
+Begruendung: [KURZE BEGRUENDUNG AUS DECISION TREE]
+
+GESELLSCHAFTER:
+  [NAME 1]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
+  [NAME 2]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
+
+SV-STATUS GF(s):
+  [NAME]: [SV-pflichtig / SV-frei (Mehrheit)] | Statusfeststellung empfohlen: [Ja/Nein]
+
+NAECHSTE SCHRITTE:
+  [ ] Firmenname pruefen (IHK-Vorpruefung)
+  [ ] Notar-Termin vereinbaren (Vorlauf: 2-4 Wochen)
+  [ ] Stammkapital einzahlen (mind. 12.500 EUR)
+  [ ] Transparenzregister-Anmeldung (nach HR-Eintragung)
+  [ ] Berufsgenossenschaft (1 Woche nach Geschaeftsbeginn)
+  [ ] Finanzamt (ELSTER-Fragebogen; § 138 AO)
+  [ ] SV-Statusfeststellung beantragen (DRV Bund)
+
+FRISTEN-EXPORT: [iCal / Outlook generiert: JA / NEIN]
+NOTAR-PAKET: [ZIP erstellt: JA / NEIN]
+```

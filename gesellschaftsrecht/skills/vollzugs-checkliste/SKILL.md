@@ -382,6 +382,60 @@ Kommentarliteratur:
 - Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 35 Rn. 1 ff. (Fusionskontrolle).
 - BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 (Fusionskontrolle, Vollzugsverbot).
 
+## Output-Template
+
+**Adressat:** Deal-Koordinator / Transaktionsteam — Tonfall: sachlich-strukturiert, fristen- und ampelbasiert
+
+```
+VOLLZUGS-STATUSBERICHT
+Mandat: [MANDATSCODE] / [ZIELGESELLSCHAFT]
+Closing-Zieldatum (SPA): [TT.MM.JJJJ]
+Bericht-Datum: [TT.MM.JJJJ]
+Erstellt von: [NAME], [KANZLEI]
+
+> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+
+--- AMPELSTATUS GESAMT ---
+Rot / Gelb / Gruen: [ROT] — Begruendung: [KRITISCHER BLOCKIERER]
+
+--- VOLLZUGSBEDINGUNGEN (SPA § [N]) ---
+| CP-Nr. | Beschreibung | Frist | Status | Verantwortlich | Blockierer |
+|---|---|---|---|---|---|
+| CP-01 | Fusionskontrolle BKartA | [DATUM] | [OFFEN / ERLEDIGT / GEFAEHRDET] | [PERSON] | [WENN RELEVANT] |
+| CP-02 | FDI-Freigabe BMWK § 55 AWV | [DATUM] | [OFFEN / ERLEDIGT] | [PERSON] | — |
+| CP-03 | AR-Zustimmung § 179a AktG / § 49 GmbHG | [DATUM] | [OFFEN / ERLEDIGT] | [PERSON] | — |
+| CP-04 | HV-Beschluss (falls § 179a AktG) | [DATUM] | [ENTFAELLT / OFFEN] | [PERSON] | — |
+| CP-05 | Notar-Termin § 15 GmbHG | [DATUM + UHRZEIT] | [GEBUCHT / OFFEN] | [PERSON] | — |
+
+--- CHANGE-OF-CONTROL-ZUSTIMMUNGEN ---
+| Vertrag | Gegenpartei | Frist | Status | Kontaktiert am |
+|---|---|---|---|---|
+| [VERTRAGSNAME] | [GEGENPARTEI] | [DATUM] | [ERHALTEN / OFFEN / VERWEIGERT] | [DATUM] |
+
+--- CLOSING-ACTIONS (TAG DES CLOSINGS) ---
+1. Notarieller Abtretungsvertrag § 15 Abs. 3 GmbHG — Notar: [NAME], [ORT]
+2. Gesellschafterliste § 40 GmbHG einreichen — Notar beauftragt: [JA / NEIN]
+3. Kaufpreis-Zahlung — Bank: [BANK], IBAN: [****], Freigabe durch: [PERSON]
+4. Vollzugsbestaetigung an Gegenpartei — Entwurf: [DATEINAME]
+5. D&O-Versicherung — Nachhaftungsdeckung bestaetigt: [JA / NEIN]
+
+--- NAECHSTE SCHRITTE (7-Tage-Fenster) ---
+1. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM] — Prioritaet: [HOCH / MITTEL]
+2. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM] — Prioritaet: [HOCH]
+
+--- ESKALATIONSBEDARF ---
+Aktuell: [KEIN / JA: BESCHREIBUNG]
+Eskalation an: [PERSON / GREMIUM]
+```
+
+## Rote Schwellen
+
+- **Fusionskontrollanmeldung nicht eingereicht, Closing-Datum in < 4 Wochen** — Vollzugsverbot § 41 GWB; unverzueglich anmelden; Pre-Filing-Gespraeche starten.
+- **FDI-Screeningpflicht unklar und kein freiwilliger Antrag** — nachtraegliche Untersagung moeglich (§ 62 AWV); Rechtsabteilung BMWK konsultieren.
+- **AR-Zustimmung fehlt und Closing morgen** — Vollzug ohne Zustimmung kann § 179a AktG-Analogiefehler ausloesen; Sondersitzung AR einberufen.
+- **Notar nicht gebucht, Closing in < 2 Wochen** — § 15 Abs. 3, 4 GmbHG: Beurkundungspflicht; Notare haben Vorlaufzeiten; sofort buchen.
+- **MAC-Klausel-Ausloesungsrisiko erkannt** — Vertragsdefinition analysieren; ggf. Kaufpreisanpassung verhandeln; § 313 BGB subsidiaer pruefen.
+
 ## Was dieser Skill nicht tut
 
 - Er holt keine Zustimmungen ein, stellt keine Anträge, erstellt keine Dokumente. Er verfolgt, dass dies geschehen muss.

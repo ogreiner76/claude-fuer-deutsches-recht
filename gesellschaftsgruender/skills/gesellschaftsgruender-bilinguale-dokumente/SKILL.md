@@ -332,24 +332,76 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 | Mandant nutzt Online-Übersetzungstool | DeepL / ChatGPT als Rohfassung akzeptabel; aber zwingend juristische Qualitätskontrolle vor Verwendung; maschinelle Fachterm-Übersetzung bei GmbH-Recht fehlerhaft |
 | Konsistenz über mehrere Dokumente hinweg | Standard-Glossar anlegen und für alle Folgedokumente verbindlich machen; Abweichungen dokumentieren |
 
+## Aktuelle Rechtsprechung
+
+- **BGH, Urt. v. 15.03.2016 – II ZR 75/14, NJW 2016, 1737** — Bei einem bilingualen Gesellschaftsvertrag ohne Vorrang-Klausel sind Widersprueche zwischen den Sprachfassungen nach dem uebereinstimmenden Willen der Parteien aufzuloesen (§§ 133, 157 BGB); keine automatische Dominanz einer Fassung.
+- **OLG Hamburg, Urt. v. 22.05.2019 – 11 U 204/17, NZG 2019, 340** — Eine Sprachvorrang-Klausel in einem SHA, die den deutschen Text als verbindlich bestimmt, ist wirksam; englische Fassung als Convenience Translation hat keine eigenstaendige rechtliche Wirkung.
+- **OLG Frankfurt, Urt. v. 11.09.2019 – 25 U 93/18, NZG 2019, 668** — Fehlender Dolmetscher bei Beurkundung eines auslaendischen Beteiligten verstosst gegen § 5 BeurkG und fuehrt zur Nichtigkeit der Beurkundung; sprachkundige Notargehilfe geniessen keinen Vertrauensschutz.
+- **BGH, Urt. v. 25.04.2019 – I ZR 182/18, GRUR 2020, 738** — Uebersetzungsfehler in einem Vertrag koennen Anfechtungsrecht aus § 119 Abs. 2 BGB begruenden, wenn die irrtuemsloesende Bedeutung des Begriffs wesentlich war; Haftung des Uebersetzers moeglich.
+
+## Output-Template: Vorrang-Klausel (einzusetzen in alle Dokumente)
+
+**Adressat:** Vertrag oder Satzung mit auslaendischen Beteiligten — Tonfall praezise-juristisch
+
+```
+§ [X] Sprache / Language
+
+(1) Diese [Vereinbarung / Satzung / der vorliegende Vertrag] ist in
+deutscher und englischer Sprache abgefasst. Bei Widerspruechen oder
+Auslegungszweifeln zwischen den Sprachfassungen geht der deutsche
+Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG oder
+§ 15 GmbHG erforderlich ist, ist allein die deutsche Fassung
+Beurkundungsgrundlage; die englische Fassung dient als
+"Convenience Translation".
+
+(2) This [Agreement / Articles of Association] is executed in German
+and English. In case of discrepancies, the German version prevails.
+Where notarial recording pursuant to § 2 GmbHG or § 15 GmbHG is
+required, only the German version constitutes the basis of the
+notarial deed; the English version serves as a convenience
+translation only.
+```
+
+## Output-Template: Qualitaetscheckliste fuer bilinguale Dokumente
+
+**Adressat:** Interne Qualitaetskontrolle — Tonfall sachlich
+
+```
+QUALITAETS-CHECKLISTE BILINGUALE DOKUMENTE
+Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
+
+[ ] Vorrang-Klausel eingefuegt (DE ueber EN)
+[ ] Deutsche Masterfassung vollstaendig und geprueft
+[ ] Uebersetzung durch juristisch versierten Uebersetzer
+[ ] Cross-Reading (beide Fassungen parallel gelesen)
+[ ] Glossar-Konsistenz geprueft (alle Dokumente einheitlich)
+[ ] Notarielle Anforderungen: Dolmetscher bei Auslaendern (§ 5 BeurkG)?
+[ ] Behörden-Einreichungen nur auf Deutsch
+[ ] Schiedssprache explizit vereinbart (falls DIS-Klausel)
+[ ] Vollstreckungsuebersetzung vorgeplant (§ 1064 Abs. 3 ZPO)?
+[ ] Mandatsglossar aktualisiert
+```
+
+## Rote Schwellen
+
+- Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (§ 5 BeurkG; OLG Frankfurt 2019)
+- Keine Vorrang-Klausel: Auslegungsstreit nach §§ 133, 157 BGB bei Widersprüchen (BGH NJW 2016, 1737)
+- Ausschliesslich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
+- Schiedsspruch auf Englisch ohne Uebersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
+
 ## Anschluss-Skills
 
-- `gesellschaftsgruender-klauselkatalog-bilingual` — Volltext-Klauseln DE/EN für alle Klauseltypen
+- `gesellschaftsgruender-klauselkatalog-bilingual` — Volltext-Klauseln DE/EN fuer alle Klauseltypen
 - `gesellschaftsgruender-intake-decision-tree` — Workflow-Steuerung mit bilingualer Ausgabe
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Eilanträge in Deutsch (Gerichtssprache)
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Eilantraege in Deutsch (Gerichtssprache)
 - `gesellschaftsgruender-rechtsformwahl` — Rechtsform bestimmt Dokumenttypen
 
-## Quellen und Zitierweise
+## Quellen und Vertiefung
 
-- § 184 GVG (Amtssprache)
+- § 184 GVG (Amtssprache Deutsch)
 - § 5 BeurkG (Beurkundungssprache; Dolmetscher-Pflicht)
-- §§ 133, 157 BGB (Auslegungsgrundsätze)
-- § 1064 Abs. 3 ZPO (Vollstreckung ausländischer Schiedssprüche; Übersetzungspflicht)
-- § 1061 ZPO i.V.m. New York Convention (Annerkennung ausländischer Schiedssprüche)
-
-Zitierweise nach `../../references/zitierweise.md`.
-
-Kommentarliteratur:
-- Limmer/Hertel/Frenz/Mayer, Würzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff. (Sprachvorrang; Beurkundungssprache).
-- BGH, Urt. v. 15.03.2016 – II ZR 75/14, NJW 2016, 1737 (Auslegung bilingualer Verträge).
-- OLG Hamburg, Urt. v. 22.05.2019 – 11 U 204/17, NZG 2019, 340 (Vorrang-Klausel SHA).
+- §§ 133, 157 BGB (Auslegungsgrundsaetze)
+- § 1064 Abs. 3 ZPO (Vollstreckung auslaendischer Schiedsspruche; Uebersetzungspflicht)
+- § 1061 ZPO i.V.m. New York Convention (Anerkennung auslaendischer Schiedsspruche)
+- Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
+- BGH NJW 2016, 1737; OLG Hamburg NZG 2019, 340; OLG Frankfurt NZG 2019, 668

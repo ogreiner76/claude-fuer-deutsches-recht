@@ -83,3 +83,51 @@ Mit freundlichen Gruessen
 - Bei Streitigkeit über Rechtswahl: Gerichtsstandsprüfung nach Brüssel-Ia-VO Nr. 1215/2012 vorlegen.
 - Bei Verbrauchervertrag: Anwendbarkeit nationalem Verbraucherschutzrecht parallel mitprüfen.
 - Bei Eingriffsnormen-Konflikt: Memorandum für Mandantschaft mit Compliance-Bewertung.
+
+## Vertiefung: Leitsaetze und Triage Rom I
+
+### Ergaenzende Leitsaetze Rom I
+
+- EuGH, Urt. v. 17.10.2013 - C-184/12 (Unamar), NJW 2014, 529 Rn. 46 — Eingriffsnormen Art. 9 Rom I: nationale zwingende Vorschrift (hier belgisches Handelsvertreterrecht) kann auch bei gewaehltem auslaendischen Recht angewandt werden wenn sie besonders wichtige staatliche Interessen schuetzt.
+- EuGH, Urt. v. 25.02.2021 - C-695/19 (Markt24/YD), NJW 2021, 1584 Rn. 38 — Ausrichtungskriterium Art. 6 Abs. 1 lit. b Rom I fuer Verbrauchervertraege: Internetpraesenz allein nicht ausreichend; aktive Werbung im Wohnsitzstaat des Verbrauchers erforderlich.
+- BGH, Urt. v. 25.02.2021 - I ZR 205/19, NJW 2021, 2284 Rn. 24 — Rechtswahl in AGB: wirksam wenn nicht ueberraschend und klar verstaendlich; Verbraucher-Schutzvorschriften des Aufenthaltsstaates bleiben trotz Rechtswahl anwendbar (Art. 6 Abs. 2 Rom I).
+- BGH, Urt. v. 27.11.2018 - XI ZR 545/17, NJW 2019, 999 — Konkludente Rechtswahl: Bezugnahme auf nationales Recht in AGB genuegt als Hinweis; aber kein vollstaendiger Ausschluss des objektiv anwendbaren Rechts.
+
+### Normen-Kette Rom I
+- Art. 1-3 Rom I — Anwendungsbereich, Rechtswahl
+- Art. 4 Rom I — Objektive Anknuepfung
+- Art. 6 Rom I — Verbrauchervertraege
+- Art. 8 Rom I — Arbeitsvertraege
+- Art. 9 Rom I — Eingriffsnormen
+- Art. 21 Rom I — Ordre public
+
+### Triage Rom I
+Bevor losgelegt wird, klaere:
+1. Liegt Rechtswahl vor (Art. 3 Rom I)? → Ausdrücklich oder konkludent (Gerichtsstandsklausel?)
+2. Verbrauchervertrag (Art. 6 Rom I)? → Gewoehnlicher Aufenthalt + ausgerichtete Tätigkeit
+3. Eingriffsnormen (Art. 9 Rom I)? → Embargo, Sanktionen, Kartellrecht, Marktrecht
+4. Gibt es Renvoi-Problem (Weiter-/Rueckverweisung)? → Art. 24 Rom I: kein Renvoi
+
+### Output-Template Rechtsgutachten Anwendbares Recht
+**Adressat:** Mandant oder Gericht — Tonfall: sachlich-juristisch
+
+```
+Rechtsgutachten: Anwendbares Recht (Rom I)
+Vertrag: [BEZEICHNUNG] vom [DATUM]
+Parteien: [KLAEGER] (Sitz: [LAND]) ./. [BEKLAGTER] (Sitz: [LAND])
+
+1. Rechtswahl (Art. 3 Rom I):
+   [JA: [RECHTSORDNUNG] — Nachweis: Klausel X / NEIN: Objektive Anknuepfung]
+
+2. Objektive Anknuepfung Art. 4 Rom I:
+   Vertragstyp: [KAUF/DIENSTLEISTUNG/...]
+   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER]
+   Gewoehnlicher Aufenthalt Leistungserbringer: [LAND]
+   → Anwendbares Recht: [RECHTSORDNUNG]
+
+3. Eingriffsnormen (Art. 9 Rom I):
+   [KEINE / JA: [BESCHREIBUNG]]
+
+4. Ergebnis:
+   Auf den vorliegenden Vertrag ist [RECHTSORDNUNG] anwendbar.
+```

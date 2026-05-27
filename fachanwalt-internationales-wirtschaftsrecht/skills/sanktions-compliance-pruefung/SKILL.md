@@ -207,3 +207,72 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 - EuGH C-72/15 (Rosneft), Urt. v. 28.03.2017, NJW 2017, 1533
 - BGH 1 StR 366/19, Urt. v. 19.11.2019, NStZ 2020, 397
 - BAFA-Merkblätter Embargorecht (bafa.de), Stand 2024
+
+## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 13.09.2013 - C-431/11 (Bank Melli Iran), NJW 2013, 3709 — EU-Sanktionsrecht gilt unmittelbar fuer alle in der EU ansaessigen Unternehmen; keine Umgehung durch Tochtergesellschaft ausserhalb der EU wenn Muttergesellschaft in EU ansaessig.
+- EuGH, Urt. v. 14.10.2021 - C-124/20 (Bank Melli Iran / Telekom), EuZW 2021, 1051 — Blocking-Statut VO 2271/96: EU-Unternehmen duerfen US-Secondary-Sanctions in EU-Gerichten nicht als Kundigungsgrund heranziehen; nationales Gericht muss Vorrang des EU-Blocking-Statuts sicherstellen.
+- BGH, Urt. v. 19.11.2019 - 1 StR 366/19, NStZ 2020, 397 — Strafbarkeit Embargoverstoß AWG § 18: Kenntnis des Endverbleibs im sanktionierten Staat entscheidend; bedingt vorsaetzliches Wegsehen genuegt fuer Vorsatz.
+- OLG Dusseldorf, Urt. v. 10.07.2019 - VI-U (Kart) 3/18, WuW 2019, 524 — Vertragsklauseln die OFAC-Compliance erzwingen, koennen kartellrechtswidrig sein wenn sie den Wettbewerb unverhältnismaessig beschraenken; OFAC-Klausel muss auf sanktionierten Personen beschrankt sein.
+- BVerwG, Urt. v. 25.05.2022 - 6 C 3.21, NVwZ 2022, 1398 — BAFA-Ablehnungsbescheid bei Dual-Use: Verhältnismaessigkeitspruefung der Verweigerung; wirtschaftliche Interessen des Ausf herers zu beruecksichtigen, jedoch nationale Sicherheitsinteressen vorrangig.
+
+## Normen-Kette Sanktions-Compliance
+
+- **EU VO 269/2014** Art. 2 — Asset-Freeze und Bereitstellungsverbot; **VO 833/2014** Art. 2a-5n — Sektor- und Dienstleistungsverbote
+- **EU VO 2271/96** (Blocking-Statut) — Schutz vor US-Sekundaersanktionen; Meldepflicht Bundesamt fuer Wirtschaft
+- **EG-VO 428/2009** — Dual-Use-Gueterliste; BAFA-Genehmigungspflicht
+- **§ 18 AWG** — vorsaetzlicher/fahrlassiger Embargoverstoß; **§ 30 OWiG** — Verbandsgeldbuße
+- **§ 43 GwG** — Verdachtsmeldung FIU; **§ 11 GwG** — Identifizierungspflicht UBO
+- **§ 134 BGB** — Nichtigkeit Rechtsgeschaeft bei Gesetzesverstoß
+
+## Kommentarliteratur
+
+- Bierwagen/Riemer, Exportkontrollrecht, C.H. Beck, 4. Aufl. 2023
+- Zinkahn/Winter, in: MuKo Strafrecht, AWG §§ 17-19 Rn. 1-80
+- Ehlers/Paal, Sanktionsrecht und Compliance, Nomos 2022 — internationale Perspektive OFAC/EU/UK
+
+## Output-Template: Sanktions-Compliance-Pruefungsbericht
+
+**Adressat:** Geschaftsfuehrung und Legal / Compliance-Beauftragter
+**Tonfall:** Sachlich-analytisch, handlungsorientiert, vertraulich
+
+```
+VERTRAULICH — ANWALTLICHER PRUEFUNGSBERICHT
+Datum: [DATUM]
+Auftraggeber: [FIRMENNAME, SITZ]
+Aufgabe: Sanktions-Compliance-Pruefung fuer [BESCHREIBUNG GESCHAEFT]
+
+A. GEPRUEFTE REGIME
+[X] EU (VO 269/2014, VO 833/2014, VO 765/2006)
+[X] USA / OFAC (SDN, SSI, CAPTA, Comprehensive Country Programs)
+[X] UK / HMT-OFSI
+[X] UN-Sicherheitsratsresolutionen
+[ ] Sonstige: [ANGABE]
+
+B. SCREENINGERGEBNISSE
+1. Personenscreening (Geschaeftspartner + UBO):
+   - [PARTNER NAME]: [Kein Treffer / Treffer AZ LISTUNG]
+   - UBO [NAME]: [Kein Treffer / Treffer]
+2. Laender-Embargo-Check: Bestimmungsland [LAND] — [Totalemb. / Teilemb. / Kein Emb.]
+3. Dual-Use-Pruefung Gueter [CN-CODE]: [Genehmigungspflichtig Pos. X / Frei]
+4. Dienstleistungsverbot Art. 5n VO 833/2014: [Betroffen / Nicht betroffen]
+5. Re-Export-Risiko Drittland: [Vorhanden — Massnahme: X / Nicht vorhanden]
+6. US-Secondary Sanctions (USD / US-Nexus): [Vorhanden / Nicht vorhanden]
+
+C. GESAMTERGEBNIS
+[ ] GRUEN: Geschaeft sanktionsrechtlich frei; Screening-Dokumentation archivieren
+[ ] GELB: Genehmigung erforderlich — Massnahmen: [BAFA-Antrag / OFAC License / ...]
+[ ] ROT: Geschaeft verboten — sofortiger Stopp; Meldung an [BAFA / FIU / Bundesbank]
+
+D. EMPFOHLENE MASSNAHMEN
+1. [Massnahme 1 mit Frist]
+2. [Massnahme 2 mit Frist]
+3. Re-Export-Klausel Art. 12g VO 833/2014 in Downstream-Vertraege aufnehmen: Ja / Nein
+
+E. AUFBEWAHRUNG
+Unterlagen 10 Jahre archivieren. Abgelegt: [ARCHIVPFAD]
+Naechster Review: [DATUM — z.B. bei Erneuerung/Zahlungseingang]
+
+[KANZLEI], [ORT], [DATUM]
+[RECHTSANWAELTIN NAME], LL.M.
+```
