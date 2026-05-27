@@ -140,3 +140,41 @@ _(Vollstaendige Liste: 976 Problemfaelle in audit_problems.json)_
 ### Verbleibende Befunde
 
 Welle 3 hat die 528 vorgesehenen AZ-Probleme abgearbeitet. Die in `audit_problems_2026-05-27.json` enthaltenen 976 Gesamt-Problemfälle umfassen darüber hinaus weitere Befunde mit niedrigerer Schwere bzw. solche aus Plugins, die erst in späterer Welle 4 angefasst werden — namentlich die 156 neuen Selbstvertreter-Skills (`selbstvertreter-amtsgericht`, `selbstvertreter-sozialgericht`) aus PR #115.
+
+---
+
+## Welle 4 — Selbstvertreter-Skills (Commit 9af66be8, Tag v14.2.6)
+
+Audit-Folge fuer die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit-Lauf nicht enthalten waren.
+
+### Statistik
+
+- **Gepruefte Skills:** 156 (selbstvertreter-amtsgericht: 81, selbstvertreter-sozialgericht: 75)
+- **Gefundene echte Aktenzeichen:** 6 (die Skills arbeiten ueberwiegend laien-prozedural mit Paragraphen statt Urteilen)
+- **Verifikation per dejure.org:** alle 6 AZ einzeln gegengeprueft
+
+### Befund
+
+| AZ | Status | Maßnahme |
+|---|---|---|
+| BVerfG 1 BvL 1/09 (09.02.2010, Regelleistungen) | OK | unveraendert |
+| BVerfG 1 BvL 7/16 (05.11.2019, Hartz-IV-Sanktionen) | OK | unveraendert |
+| BVerfG 1 BvR 569/05 (12.05.2005, PKH-Anforderungen) | OK | unveraendert |
+| BSG B 1 KR 7/05 R (04.04.2006, Nikolausbeschluss-Anwendung) | OK | unveraendert |
+| BVerfG 1 BvR 2310/14 (vermeintl. 05.11.2014) | **NOT_FOUND** | AZ entfernt, allgemeine BVerfG-Linie erhalten |
+| BGH VI ZR 67/15 (vermeintl. NJW 2016, 1305, Bote/Drittversand) | **WRONG_TOPIC** | echtes Thema: Arzthaftung/Behandlungsfehler, NJW 2016, 713 - AZ und falsche Fundstelle entfernt |
+
+### Halluzinationsquote (Welle 4)
+
+2 von 6 echten AZ fehlerhaft = 33% — vergleichbar mit der Gesamtquote von 30,2% aus dem Audit-Lauf 27.05.2026.
+
+### Betroffene Datei
+
+`selbstvertreter-amtsgericht/skills/zurechnungsproblem-versand-durch-dritte/SKILL.md` — beide Probleme in derselben Datei, in der Sektion "Rechtsgrundlagen".
+
+### Qualitaetsicherung Welle 4
+
+- `node scripts/validate-plugin-structure.mjs` -> `validate-plugin-structure OK`
+- Komma-Sweep in `description` -> 0 Treffer
+- Cyrillic-Sweep -> 0 Treffer
+- Audit-Hinweis-Block im betroffenen Skill ergaenzt
