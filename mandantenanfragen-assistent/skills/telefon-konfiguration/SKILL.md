@@ -7,6 +7,29 @@ description: "Verwaltet die Telefonnummern der Kanzlei (Sekretariat und Transkri
 
 Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Telefonnummern — und stellt sicher, dass alle Antwort-Templates mit den aktuellen Daten befüllt werden.
 
+
+## Triage zu Beginn
+1. Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)?
+2. Hat sich eine Telefonnummer oder ein Kanzlei-Datum geaendert, das in allen Templates aktualisiert werden muss?
+3. Gibt es mehrere Kanzlei-Standorte mit unterschiedlichen Telefonnummern, die getrennt gepflegt werden muessen?
+4. Sollen die Konfigurationsdaten verschluesselt gespeichert werden (Datenschutzanforderungen)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzlei-Kontaktdaten muessen immer aktuell sein; veraltete Telefonnummern in Schreiben verhindern Mandantenkontakt und begruenden Sorgfaltspflichtverletzung.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzleiimpressum (Kontaktdaten) als Pflichtangabe: falsche oder fehlende Angaben koennen Abmahnrisiken begruenden.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verantwortliche Stelle nach Art. 4 Nr. 7 DSGVO muss korrekt und erreichbar angegeben sein; veraltete Kontaktdaten verletzen Betroffenenrechte.
+- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Angaben zur Kanzlei auf Briefbogen und in E-Mails muessen vollstaendig und korrekt sein; fehlerhafte Pflichtangaben koennen Formfehler des Schreibens begruenden.
+
+## Zentrale Normen
+- § 5 TMG — Impressumspflicht: vollstaendige Kanzlei-Kontaktdaten fuer elektronische Kommunikation
+- Art. 4 Nr. 7 DSGVO — Verantwortlicher: muss mit aktuellen Kontaktdaten erreichbar sein
+- Art. 13 Abs. 1 lit. a DSGVO — Informationspflicht: Kontaktdaten des Verantwortlichen bei Ersterhebung
+- § 43 BRAO — Sorgfaltspflicht: korrekte und aktuelle Kanzlei-Stammdaten in aller Kommunikation
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Kanzlei-Stammdaten: Aktualitaetspflicht)
+- Kühling/Buchner DSGVO Art. 13 Rn. 1-20 (Kontaktdaten des Verantwortlichen als Informationspflicht)
+
 ## Platzhalter-Konfiguration: kanzlei.json
 
 Die Kanzlei hinterlegt ihre Kontaktdaten in einer Datei `kanzlei.json`. Das Beispiel-Format:

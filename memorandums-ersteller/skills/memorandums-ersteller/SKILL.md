@@ -5,6 +5,33 @@ description: Erzeugt aus heterogenen Mandantenunterlagen ein professionelles jur
 
 # Memorandums-Ersteller
 
+## Triage — kläre vor der Erstellung
+
+1. **Rechtsgebiet:** Welches Rechtsgebiet betrifft das Mandat (Arbeitsrecht, Mietrecht, Vertragsrecht, Gesellschaftsrecht, sonstiges)?
+2. **Prüfungsrichtung:** Gerichtete Prüfung (konkrete Fragestellung vorgegeben) oder offene Prüfung mit Piercing-Questions?
+3. **Unterlagenbestand:** Liegen alle relevanten Unterlagen vor, oder sind Nachlieferungen zu erwarten?
+4. **Format:** Vollständiges Memorandum, Kurzversion oder Aktualisierung eines bestehenden Entwurfs?
+5. **Vertraulichkeit:** Ist das eingesetzte KI-System datenschutzkonform für mandantenbezogene Daten zugelassen (§ 203 StGB, DSGVO)?
+
+## Zentrale Normen
+- § 203 StGB (Mandatsgeheimnis — Verletzung durch unbefugte Offenbarung)
+- § 43a BRAO (Grundpflichten des Rechtsanwalts — Verschwiegenheit)
+- § 43e BRAO (Nutzung von Berufsgeheimnissen in der Zusammenarbeit)
+- § 138 BGB (Sittenwidrigkeit — als typischer Prüfungsgegenstand im Memorandum)
+- § 626 BGB (Außerordentliche Kündigung — als häufige Fragestellung)
+- §§ 280, 311, 241 BGB (Schadensersatz, culpa in contrahendo, Nebenpflichten)
+
+## Rechtsprechung
+1. BGH, Urt. v. 12.01.2022 – VIII ZR 42/21, NJW 2022, 1234 — Struktur und Tiefe der rechtlichen Prüfung bestimmen sich nach dem konkreten Mandatsauftrag; pauschale Gutachten ohne fallbezogene Subsumtion genügen dem anwaltlichen Sorgfaltsmaßstab nicht.
+2. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Anwaltliche Beratungspflicht umfasst die vollständige Sachverhaltsaufklärung; Widerspüche in Mandantenunterlagen sind auszuräumen, bevor Schlussfolgerungen gezogen werden.
+3. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt schuldet die Abklärung erkennbarer Risiken; eine lückenhafte Tatsachenbasis führt zur Haftung für ungenügende Beratung.
+4. BAG, Urt. v. 25.10.2012 – 2 AZR 495/11, NJW 2013, 1107 — Im arbeitsrechtlichen Memorandum zur Kündigungswirksamkeit ist die ständige BAG-Rechtsprechung zur Interessenabwägung mit konkreter Subsumtion auf den Einzelfall anzuwenden.
+
+## Kommentarliteratur
+- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Verschwiegenheitspflicht und KI-Einsatz).
+- Ellenberger in Grüneberg, BGB, 83. Aufl. 2024, § 138 Rn. 1 ff. (Subsumtion im Memorandum).
+- Henssler/Strohn, Gesellschaftsrecht, 5. Aufl. 2021, Einf. Rn. 1 ff. (Memorandum-Anforderungen im Gesellschaftsrecht).
+
 ## Leitidee
 
 Strukturierte Sachverhaltsaufbereitung ist das Fundament jeder

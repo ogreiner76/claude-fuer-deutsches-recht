@@ -1,48 +1,133 @@
 ---
 name: umweltrecht-wasser-bodenschutz
-description: "Begutachtet Erlaubnisse, Einleitungen, Altlasten, Grundwasser, Sanierung, Bodenschutzpflichten und Haftungsfragen."
+description: Begutachtet Erlaubnisse, Einleitungen, Altlasten, Grundwasser, Sanierung, Bodenschutzpflichten und Haftungsfragen. WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Sanierungsverantwortliche Kostenerstattung. BVerwG BGH Altlasten-Haftungskette. Workflow Erlaubnisantrag Sanierungsplan Klagestrategie.
 ---
 
 # Wasser- und Bodenschutzrecht
 
-## Zweck
+## Triage — klaere zuerst
 
-Dieser Skill erstellt Prüfpläne für wasser- und bodenschutzrechtliche Risiken.
+1. Geht es um Wasserrecht (Einleitung, Entnahme, Gewaesserbenutzung) oder Bodenschutz/Altlasten?
+2. WHG-Erlaubnis vorhanden oder Altlast-Bescheid (§§ 9, 10 BBodSchG) vom Umweltamt?
+3. Wer ist Verantwortlicher — Verursacher, Grundstueckseigentuemer, Gesamtrechtsnachfolger?
+4. Ist ein Sanierungsplan nach §§ 13, 14 BBodSchG erforderlich?
+5. Bestehen Erstattungsansprueche gegen Mitverantwortliche (§ 24 BBodSchG)?
+6. Besteht Freistellungs- oder Haftungsregelung im Kaufvertrag?
 
-## Wann verwenden
+## Zentrale Normen und Paragrafenkette
 
-- wenn ein neuer Fall im Bereich Umweltrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 8 WHG** — Grundsatz Erlaubnispflicht fuer Gewaesserbenutzung
+- **§ 9 WHG** — Benutzungen (Entnahme, Einleitung, Aufstau)
+- **§ 10 WHG** — Erlaubnis (gebundene Entscheidung vs. Bewilligung)
+- **§ 12 WHG** — Versagungsgrundsaetze (schaedliche Gewaesserveraenderung)
+- **§ 57 WHG** — Direkteinleitung in Gewaesser (Abwasser; Erlaubnispflicht)
+- **§ 4 BBodSchG** — Verpflichtung zur Sanierung (Verursacher, Rechtsnachfolger, Eigentuemer)
+- **§ 9 BBodSchG** — Untersuchungsanordnung (orientierend, Detailuntersuchung)
+- **§ 10 BBodSchG** — Sanierungsanordnung
+- **§ 13 BBodSchG** — Sanierungsplan-Pflicht bei Altlasten
+- **§ 24 BBodSchG** — Kostenerstattungsanspruch zwischen Pflichtigen (Gesamtschuldner-Ausgleich)
+- **§ 1 BodSchV** — Pruefw- und Massnahmenwerte Boden
 
-## Arbeitsweise
+## Leitentscheidungen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 26.04.2006 — 7 C 15.05, BVerwGE 126, 1 — § 4 Abs. 3 BBodSchG; Eigentuemer-Sanierungsverantwortung; Verhaeltnismaessigkeit bei Kostenueberschuss relative zum Grundstueckswert; Ertragsgrenze pruefbar.
+- BGH, Urt. v. 02.04.2014 — IV ZR 16/13, NJW 2014, 2283 — § 24 BBodSchG; Gesamtschuldner-Ausgleich; Zurechnung historischer Kosten; Verjaeahrung (10 Jahre ab Sanierung) nach § 24 Abs. 2 BBodSchG.
+- BVerwG, Urt. v. 14.04.2022 — 7 C 3.20, NVwZ 2022, 1403 — gutglaeubiger Erwerber haftet als Eigentuemer nach § 4 Abs. 3 BBodSchG; kein Gutglaeubigkeitsschutz; Kaufvertrag-Freistellung wirkt nur inter partes.
+- OVG Nordrhein-Westfalen, Urt. v. 30.01.2020 — 20 A 2561/17 — § 12 WHG; Direkteinleitung Abwasser; Erteilung Erlaubnis muss Verschlechterungsverbot WRRL beruecksichtigen; Kumulationsbetrachtung mehrerer Einleitungen.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Kloepfer Umweltrecht § 12 Rn. 1-200 (Bodenschutzrecht) und § 13 Rn. 1-150 (Wasserrecht)
+- Sanden BBodSchG §§ 4, 9, 10, 24 (Kommentar Bodenschutz und Altlasten)
+- Czychowski/Reinhardt WHG §§ 8-12, 57 (Kommentar Wasserrecht)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### A) Wasserrecht: Einleitungs-/Entnahme-Erlaubnis
 
-## Typische Fehler vermeiden
+1. **Benutzung einordnen**: § 9 WHG — Einleitung, Entnahme, Aufstau, Versickerung.
+2. **Erlaubnisantrag stellen**: § 10 WHG — Antrag an Untere Wasserbehoerde (Kreise, kreisfr. Staedte).
+3. **UVP-Screening**: UVPG Anlage 1 — Entnahme ab bestimmter Menge UVP-pflichtig.
+4. **Inhalt Antrag**: Technische Beschreibung, Mengenangaben, Einleit-Stelle, Vorbehandlung.
+5. **Auflagen akzeptieren oder anfechten**: Grenzwerte WRRL (Wasserrahmenrichtlinie 2000/60/EG), AbwV.
+6. **Ueberwachung**: Eigenkontrollen nach WasserVO, Berichtspflichten.
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### B) Bodenschutz: Altlast und Sanierung
+
+1. **Altlast-Feststellung pruefen**: Ist ein § 2 Abs. 5 BBodSchG-Altlast (Altlastenflaeche, Altstandort) festgestellt?
+2. **Untersuchungsanordnung erhalten** (§ 9 BBodSchG): Historische Erkundung, Detailuntersuchung.
+3. **Sanierungsverantwortlicher bestimmen**: Verursacher, Rechtsnachfolger, Eigentuemer — in dieser Reihenfolge (§ 4 BBodSchG).
+4. **Sanierungsplan erstellen** (§ 13 BBodSchG): Technische Massnahmen, Zeitplan, Kosten-Schaetzung.
+5. **Sanierungsanordnung anfechten**: § 10 BBodSchG-Anordnung — Verhaeltnismaessigkeit (Sanierungskosten vs. Grundstueckswert, BVerwG 7 C 15.05).
+6. **Erstattungsanspruch geltend machen**: § 24 BBodSchG gegen Mitverantwortliche — Gesamtschuldner-Ausgleich; Verjaeahrung 10 Jahre.
+
+### Entscheidungsbaum Bodenschutz
+
+```
+Kontamination festgestellt?
+  JA → Wer hat verursacht?
+         Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
+         Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
+         Unbekannt → Zustandsverantwortung Eigentuemer (BVerwG 7 C 3.20)
+  → Sanierungsanordnung § 10 BBodSchG:
+       Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
+       Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
+```
+
+## Output-Template: Stellungnahme gegen Sanierungsanordnung
+
+**Adressat:** Bodenbehoerde — Tonfall: sachlich-juristisch
+
+```
+An die [UNTERE BODENBEHOERDE / KREISBEHOERDE]
+
+Stellungnahme / Widerspruch
+
+Betroffene/r: [NAME MANDANT], [ADRESSE]
+Ihr Bescheid: [DATUM], Az. [AZ.]
+
+I. Widerspruch
+Hiermit legen wir frist- und formgerecht Widerspruch gegen die
+Sanierungsanordnung vom [DATUM] ein.
+
+II. Unverhaelaenismaessigkeit
+Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
+Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
+Gemaess BVerwG 7 C 15.05 ist die Sanierungsanordnung unverhaelaenismaessig,
+wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
+kein ueberragend schutzwuerdiges oeffentliches Interesse besteht.
+
+III. Verursacher-Vorrang
+Eigentlicher Verursacher ist [FIRMA/PERSON] (Nachweise Anlage).
+Vor Inanspruchnahme des Eigentuemers ist der Verursacher vorrangig
+heranzuziehen (§ 4 Abs. 3 S. 1 BBodSchG).
+
+IV. Antrag
+Wir beantragen Aufhebung der Anordnung, hilfsweise Reduzierung auf
+Massnahmen bis [BETRAG] EUR.
+
+Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
+```
+
+## Fristen-Ueberblick
+
+| Schritt | Frist | Grundlage |
+|---|---|---|
+| Widerspruch Wasserbehoerde | 1 Monat | § 70 VwGO |
+| Widerspruch Bodenschutz | 1 Monat | § 70 VwGO |
+| Klage VG | 1 Monat | § 74 VwGO |
+| Erstattungsanspruch § 24 BBodSchG | 10 Jahre ab Sanierungsende | § 24 Abs. 2 BBodSchG |
+| Wasserrechtliche Verjaeahrung | 3 Jahre (BGB §§ 195 199) bei privatrechtlichen Anspruechen | — |
+
+## Vertiefung: WRRL-Verschlechterungsverbot
+
+- Art. 4 Abs. 1 WRRL: Mitgliedstaaten muessen Verschlechterung des Zustands von Wasserkörpern verhindern.
+- BGH-Linie: OWG-Einleit-Erlaubnis muss WRRL-Konformitaet beachten; keine blosse formale Genehmigung.
+- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen fuer Industrie.
+
+## Anschluss-Skills
+
+- `umweltrecht-transaktionen-dd` — Altlasten in M&A
+- `umweltrecht-verfahren` — Klage gegen Sanierungsanordnung
+- `umweltrecht-immissionsschutz-bimschg` — Betriebsgenehmigung mit Wasserrechtsbezug
+- `umweltrecht-bussgeld-sanktionen` — Verstoss Wasserrecht

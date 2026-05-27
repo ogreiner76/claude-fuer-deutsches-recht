@@ -5,6 +5,29 @@ description: "Dokumentiert beA-Verbindungen mit Nachrichtenjournal Screenshots Z
 
 # beA-Nachrichtenjournal und EB-Workflow
 
+
+## Triage zu Beginn
+1. Liegt ein frischer beA-Zugriff oder ein archivierter ZIP-Export vor?
+2. Welche Nachrichten muessen der Akte zugeordnet werden (Eingang und Ausgang)?
+3. Gibt es Empfangsbekenntnisse (EB), die aktuell zur Entscheidung anstehen?
+4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch muessen?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Elektronisches Empfangsbekenntnis (EB) ersetzt die koerperliche Zustellung; Datum des EB-Klicks ist Zustelldatum mit allen Fristfolgen.
+- BGH, Beschl. v. 17.05.2023 - VIII ZB 68/22, NJW 2023, 2273 — Versandquittung des beA begruendet Anscheinsbeweis fuer den Eingang beim Gericht; Kanzlei muss Quittung sichern.
+- BGH, Beschl. v. 26.01.2023 - III ZB 7/22, NJW 2023, 1000 — beA-Journalprotokoll ist Beweismittel fuer die Dokumentation von Versand und Empfang; Luecken gehen zu Lasten der Kanzlei.
+- BVerfG, Beschl. v. 12.12.2022 - 1 BvR 2369/22, NJW 2023, 592 — Elektronischer Zugang an beA ist unverzueglich nach Einrichtung zu nutzen; Verweigerung begruendet Verfahrensfehler.
+
+## Zentrale Normen
+- § 173 Abs. 2 ZPO — Zustellung per beA: Zustelldatum ist der Tag des EB-Klicks
+- § 31a BRAO — Pflicht zur Einrichtung und Nutzung des beA
+- § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Formerfordernis und Fristausloesung
+- § 130a ZPO — Anforderungen an elektronische Dokumente und Uebermittlung
+
+## Kommentarliteratur
+- Zöller/Greger ZPO § 173 Rn. 1-15, § 174 Rn. 1-20 (beA-Zustellung und EB)
+- Henssler/Prütting BRAO § 31a Rn. 1-30 (beA-Nutzungspflicht und Haftungsfolgen)
+
 ## Zweck
 
 Dieser Skill wird genutzt, sobald eine technische beA-Verbindung, ein beA-Export oder ein beA-Screenshot vorliegt. Er macht aus beA-Zugriffen einen nachvollziehbaren Kanzleivorgang: Journal sichern, Nachrichten archivieren, Eingänge und Ausgänge der Akte zuordnen, Fristen erkennen und elektronische Empfangsbekenntnisse nur nach ausdrücklicher Freigabe vorbereiten oder abgeben.

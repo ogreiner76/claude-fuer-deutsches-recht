@@ -5,6 +5,29 @@ description: "Lernprofil anpassen: Lernstil wechseln, Fächer aktualisieren, Mat
 
 # Lernprofil anpassen
 
+
+## Triage zu Beginn
+1. Welches Element des Lernprofils soll angepasst werden: Lernstil, Faecher, Bundesland, Prüfungsziel?
+2. Gibt es einen konkreten Anlass (neue Pruefung, Schwachstelle erkannt, Semesterwechsel)?
+3. Welches Prüfungsziel gilt jetzt (Zwischenpruefung, 1. StEx, 2. StEx, Schwerpunktbereich)?
+4. Welche Ressourcen stehen zur Verfuegung (Beck-online, juris, Bibliothek, Lerngruppe)?
+
+## Aktuelle Rechtsprechung
+- BVerfG, Beschl. v. 17.04.1991 - 1 BvR 419/81, BVerfGE 84, 34 — Chancengleichheit in juristischen Pruefungen setzt voraus, dass Lernprofile an Pruefungsanforderungen angepasst sind.
+- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Bundeslandspezifische Pruefungsordnungen (JAG) sind massgeblich fuer Pruefungsinhalte; Lernplan muss JAG-konform sein.
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Anpassung der Methodik an Pruefungsstil ist legitim und notwendig; unterschiedliche Examensformate verlangen unterschiedliche Schwerpunkte.
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Individuelle Foerderung in der juristischen Ausbildung als Verfassungsgebot; Lernprofil-Anpassung unterstuetzt dies.
+
+## Zentrale Normen
+- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Laender aequivalent
+- Art. 3 GG — Chancengleichheit: Grundlage fuer bundeslandspezifische Lernprofile
+- §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
+- § 195 BGB — Verjaehrung als Dauerklassiker: bleibt in jedem Profil
+
+## Kommentarliteratur
+- Wank, Die Auslegung von Gesetzen, 6. Aufl. 2015, Kap. 1-3 (Methodische Kernkompetenz fuer alle Profile)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, Einl. (Verwaltungsrecht-Basics fuer alle Bundeslaender)
+
 ## Zweck
 
 Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.

@@ -115,9 +115,22 @@ Anlagen
 - Vollmacht
 ```
 
-## Übergabe
+## Aktuelle Leitentscheidungen Anfechtungsklage
+
+- BVerwG, Urt. v. 29.09.2021 — 6 C 2.20, BVerwGE 173, 267 — Anfechtungsklage gegen Bescheid bei gleichzeitiger Verpflichtungsklage; Haupt- und Hilfsantrag kombinierbar; § 113 Abs. 1 i.V.m. Abs. 5 VwGO.
+- BVerwG, Urt. v. 14.04.2022 — 4 C 3.21, NVwZ 2022, 1324 — Schutznorm-Theorie; Drittanfechtung einer Baugenehmigung; § 42 Abs. 2 VwGO; Nachbar hat Klagebefugnis bei Verletzung drittschuetzender Vorschriften des Abstandsrechts.
+- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, DVBl 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG ab 01.01.2025 vier Tage (PostModG); Klagefrist beginnt mit Ablauf der Fiktion; keine Fristverlaengerung bei schlechter Post.
+- OVG Muenster, Beschl. v. 19.02.2024 — 13 B 78/24 — Ermessen Behorde bei Aufhebung bestandskraeftiger Genehmigung; Rücknahme § 48 VwVfG; Vertrauensschutz des Beguemstigten.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO § 42 Rn. 1-80 (Klagebefugnis, Statthaftigkeit), § 74 Rn. 1-30 (Klagefrist)
+- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-60 (Bekanntgabe-Fiktion, PostModG)
+- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 17 (Verwaltungsakt, Anfechtung)
+
+## Uebergabe
 
 - Bei Sofortvollzug parallel Antrag § 80 Abs. 5 VwGO — Skill `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`.
 - Bei Verpflichtungsbegehren (Erlass eines beantragten VA) Verpflichtungsklage § 42 Abs. 1 Var. 2 VwGO — Antrag entsprechend formulieren.
 - Berufungsbedarf: Berufung § 124 VwGO durch Zulassung; Antrag auf Zulassung der Berufung § 124a VwGO innerhalb Monatsfrist.
-- Anschluss: bei Rechtsmittel im Hauptverfahren weitere Schriftsätze; bei Erfolg ggf. Folgenbeseitigungsanspruch § 113 Abs. 1 Satz 2 VwGO.
+- Anschluss: bei Rechtsmittel im Hauptverfahren weitere Schriftsaetze; bei Erfolg ggf. Folgenbeseitigungsanspruch § 113 Abs. 1 Satz 2 VwGO.

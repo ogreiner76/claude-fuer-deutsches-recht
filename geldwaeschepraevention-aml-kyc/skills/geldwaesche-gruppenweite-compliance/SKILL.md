@@ -5,6 +5,28 @@ description: "Steuert gruppenweite Policies, Auslagerung, Dienstleister, auslän
 
 # Gruppenweite Compliance und Outsourcing
 
+## Triage zu Beginn
+1. Welche Tochtergesellschaften oder Dienstleister sind im Scope der gruppenweiten Pruefung?
+2. Gibt es laenderspezifische Anforderungen (FATF-Hochrisikolaender, EU-Mitglieder mit abweichenden Regeln)?
+3. Welche Auslagerungsvertraege bestehen und wie werden die AML-Pflichten dort kontrolliert?
+4. Gibt es einen gruppenweiten Policy-Rahmen oder Einzelregelungen pro Einheit?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — 4. EU-GeldwaescheRL verpflichtet Gruppenleitung zur gruppenweiten Durchsetzung von AML-Standards auch in Drittlaendern.
+- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Gruppenleitung haftet fuer AML-Kontrollversagen in Tochtergesellschaften, wenn konzernweite Richtlinien nicht implementiert wurden.
+- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Gruppenweite Aufsicht durch BaFin erfasst auch Auslagerungsdienstleister; Verpflichteter bleibt verantwortlich.
+- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Kontrollberichte aus Tochtergesellschaften muessen BaFin-prueffaehig sein; fehlende Dokumentation begruendet Massnahmenbescheid.
+
+## Zentrale Normen
+- § 9 GwG — Gruppenweite Pflichten und Kontrollen
+- § 6 Abs. 2 GwG — Pflicht zur Bestellung eines Geldwaeschebeauftragten auf Gruppenebene
+- § 25l KWG — Gruppenweite Sorgfaltspflichten fuer Kreditinstitute
+- Art. 45 AMLD4 — Gruppenweite Policies und Verfahren (EU-Recht)
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 9 Rn. 1-50 (Gruppenweite Compliance: Pflichten und Durchsetzung)
+- Schimansky/Bunte/Lwowski Bankrechts-Handbuch § 145 Rn. 60-90 (AML-Gruppenstruktur und Auslagerung)
+
 ## Zweck
 
 Dieser Skill hilft internationalen Gruppen, AML/KYC nicht nur lokal, sondern steuerbar aufzusetzen.

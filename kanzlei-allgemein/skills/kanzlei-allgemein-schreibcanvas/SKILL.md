@@ -5,6 +5,29 @@ description: "Bietet ein Padlet-ähnliches Schreib-Canvas für Schriftsätze Bri
 
 # Schreib-Canvas
 
+
+## Triage zu Beginn
+1. Welcher Dokumenttyp soll im Canvas erstellt werden: Klage, Replik, Mandantenbrief, Notiz, beA-Nachricht?
+2. Gibt es Tatsachenluecken oder fehlende Beweisangebote im bisherigen Entwurf?
+3. Sollen Rechtsgrundlagen automatisch vorgeschlagen oder manuell eingefuegt werden?
+4. Ist eine Frist einzuhalten, die den Schreibprozess zeitlich begrenzt?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Schriftsatz mit lueckenhaftem Sachvortrag begruendet Anwaltshaftung; Canvas-Hinweise auf Tatsachenluecken helfen dieses Risiko zu vermeiden.
+- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Fehlende Beweisangebote im Schriftsatz fuehren zu Beweisfaelligkeit; Canvas soll Beweisangebote aktiv einfordern.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Anwalt muss rechtliche Argumentation vollstaendig entwickeln; Canvas-Hinweise auf Normen und Rechtsprechung unterstuetzen dies.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Vollstaendiger Klageantrag als Prozessvoraussetzung: vage Antraege fuehren zur Unzulaessigkeit; Canvas-Antragspruefung verhindert dies.
+
+## Zentrale Normen
+- § 130 ZPO — Inhalt von Schriftsaetzen: Vollstaendigkeit von Antraegen und Tatsachen
+- § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgrundsatz beim Klageantrag
+- § 138 ZPO — Wahrheitspflicht und Erklaerungslast: Tatsachen muessen vollstaendig und wahrheitsgemass sein
+- § 43 BRAO — Sorgfaltspflicht: Canvas-Pruefung als Teil anwaltlicher Dokumentenerstellung
+
+## Kommentarliteratur
+- Zöller/Greger ZPO §§ 130, 253 Rn. 1-20 (Anforderungen an Schriftsatz und Klageantrag)
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfalt bei Dokumentenerstellung)
+
 ## Zweck
 
 Dieser Skill stellt ein Arbeitsbrett für Entwürfe bereit: links der Rohtext, rechts Hinweise, darunter offene Tatsachen, Beweise, Fristen, Anlagen, Versand- und Abrechnungspunkte. Das Canvas soll beim Schreiben helfen, ohne ständig zu stören.

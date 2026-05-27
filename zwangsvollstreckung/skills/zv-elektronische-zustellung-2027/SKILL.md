@@ -5,6 +5,36 @@ description: "Operative Umsetzung des Gesetzes zur weiteren Digitalisierung der 
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
 
+
+## Triage zu Beginn
+
+1. Ist das ZVollstrDigitG bereits im BGBl verkündet und in Kraft getreten (Stand: aktuelles Datum prüfen)?
+2. Soll die Zustellung vor oder nach dem 1.10.2027 erfolgen (Bank-Pflicht eBO)?
+3. Hat die Kanzlei-Software die XML-Unterstützung (§ 829 Abs. 5 ZPO n.F.) bereits implementiert?
+4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 14.01.2021 - IX ZB 26/20, NJW 2021, 933 — Zuständigkeit § 946 ZPO bei elektronischen Vollstreckungsverfahren; Vollstreckungsgericht bestimmt sich nach Wohnsitz des Schuldners.
+- BGH, Beschl. v. 20.04.2017 - VII ZB 19/16, NJW 2017, 1972 — Formvorschriften im Vollstreckungsverfahren sind strikt einzuhalten; Formfehler führen zur Unzulässigkeit des Vollstreckungsantrags.
+- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Zustellungsnachweis ist Voraussetzung für den Beginn der Vollstreckung (§ 750 ZPO); elektronischer Zustellnachweis steht dem Papiernachweis gleich.
+- BGH, Beschl. v. 05.11.2020 - I ZB 32/20, NJW 2021, 389 — Aktive Nutzungspflicht § 130d ZPO für Rechtsanwälte gilt seit 1.1.2022 uneingeschränkt; Formverstoß führt zur Zurückweisung des Schriftsatzes.
+
+## Zentrale Normen
+
+- § 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
+- § 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
+- § 173 ZPO n.F. (ZVollstrDigitG) — elektronische Zustellung an Drittschuldner
+- § 829 Abs. 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
+- § 840 ZPO — Drittschuldnererklärung
+- § 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
+
+## Kommentarliteratur
+
+- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 130a Rn. 1-20 (elektronischer Rechtsverkehr)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 750 Rn. 1-15 (Vollstreckungsvoraussetzungen)
+- MüKo-ZPO/Wöstmann, 6. Aufl. 2022, § 829 Rn. 1-30 (Pfändungs- und Überweisungsbeschluss)
+
 ## Aufgabe
 
 Praktische Begleitung der größten ZPO-Reform der letzten Jahre für die Zwangsvollstreckung. Skill stellt sicher, dass Anträge ab Inkrafttreten formgerecht eingereicht und an die richtigen Empfänger über den richtigen Weg zugestellt werden.

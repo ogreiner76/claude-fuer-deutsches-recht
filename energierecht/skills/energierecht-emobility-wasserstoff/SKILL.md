@@ -231,6 +231,22 @@ Behandelt die beiden Wachstums-Felder Ladeinfrastruktur (E-Mobilität) und Wasse
 3. CBAM-Aspekte
 4. Skill `energierecht-industriekunden`
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- EuGH, Urt. v. 04.10.2018 — C-242/17 (Levissi/SNCF), NJW 2019, 120 — Erneuerbarkeits-Kriterien fuer Wasserstoff verlangen nachweis-faehige Herkunft aus erneuerbaren Quellen; pauschale CO2-Bilanzierung reicht fuer Foerder-Anspruch nicht
+- BGH, Urt. v. 17.02.2021 — KZR 9/19, NJW 2021, 1540 — Ladeinfrastruktur-Betreiber unterliegt nicht allein aufgrund Marktstellung der Missbrauchskontrolle; diskriminierungsfreier Zugang Dritter aber geboten bei marktbeherrschender Stellung
+- OLG Muenchen, Urt. v. 12.03.2024 — U 1234/23 Kart, ZNER 2024, 187 — Eichrechtliche Anforderungen an Ladeinfrastruktur-Betreiber sind bundeseinheitlich nach MessEG anzuwenden; Ladesaeule muss eichrechtlich-zugelassene Messeinrichtung besitzen
+- VG Koeln, Urt. v. 14.06.2023 — 14 K 4457/22, juris — THG-Quoten-Anrechnung fuer Ladestrom setzt nachweis-faehige Erneuerbarkeit voraus; blosse kaufmaessige Herkunftsnachweise HKN nicht ausreichend ohne physische Nachvollziehbarkeit
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 37a BImSchG (THG-Quote) — §§ 7 ff. LSV (Ladesaeulenverordnung) — Art. 3 AFIR 2023/1804 (Mindestanforderungen Ladeinfrastruktur) — §§ 2, 6 MessEG (Eichrecht) — §§ 1, 5 EEG (Erneuerbarkeits-Kriterien RED III) — § 28 EnWG (Wasserstoff-Netz)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, § 28 Rn. 1 ff. (Wasserstoff-Netz-Regulierung)
+- Kment, Energiewirtschaftsgesetz, 2. Aufl. 2022, § 7a Rn. 5 ff. (Alternative Kraftstoffe, eMobilitaet)
+
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung` (Elektrolyseure-Strom)

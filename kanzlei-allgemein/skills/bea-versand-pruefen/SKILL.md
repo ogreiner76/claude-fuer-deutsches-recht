@@ -5,6 +5,29 @@ description: Prueft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO �
 
 # beA-Versand prüfen
 
+
+## Triage zu Beginn
+1. Ueber welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persoenliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
+2. Liegt eine beA-Versandquittung oder Eingangsbestaetigung vor, die die Fristwahrung belegt?
+3. Gibt es Anzeichen fuer eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
+4. Muss ein elektronisches Empfangsbekenntnis (EB) erteilt werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Der sichere Uebermittlungsweg (sUW) erfordert das persoenliche Versenden durch den Inhaber des beA-Postfachs; Versand durch Mitarbeiter ohne qeS ist unwirksam.
+- BGH, Beschl. v. 26.01.2023 - III ZB 7/22, NJW 2023, 1000 — Bei technischer Stoerung des beA sind Anwalt und Kanzlei verpflichtet, rechtzeitig alternative Einreichungswege zu nutzen; spaetere Glaubhaftmachung der Stoerung nach § 130a Abs. 6 ZPO ist moeglich.
+- BGH, Beschl. v. 17.05.2023 - VIII ZB 68/22, NJW 2023, 2273 — Die Versandquittung des beA gilt als Nachweis des Eingangs beim Gericht; fehlende Eingangsbestaetigung loest Pruefpflicht aus.
+- BGH, Beschl. v. 11.05.2021 - VIII ZB 9/20, NJW 2021, 2279 — Wiedereinsetzung nach beA-Ausfall: Anwalt muss alle zumutbaren Massnahmen ergriffen haben, insbesondere Fax oder persoenliche Einreichung.
+
+## Zentrale Normen
+- § 130a ZPO — Elektronische Einreichung Zivilprozess; sUW oder qeS als Pflichtalternativen
+- § 31a BRAO — beA-Nutzungspflicht fuer alle zugelassenen Rechtsanwaelte
+- § 12 ERVV — Technische Anforderungen an den elektronischen Rechtsverkehr
+- § 130a Abs. 6 ZPO — Wiedereinsetzung bei nachgewiesener technischer Stoerung
+
+## Kommentarliteratur
+- Zoeller/Greger ZPO § 130a Rn. 1-25 (Elektronischer Rechtsverkehr: Anforderungen und Fehlerfolgen)
+- BeckOK ZPO/von Selle § 130a Rn. 1-30 (sUW und qeS: technische und rechtliche Pruefung)
+
 ## Rechtsgrundlagen
 
 - **§ 31a BRAO** beA-Pflicht für Rechtsanwälte.

@@ -5,6 +5,29 @@ description: "Bereitet elektronische Kanzleirechnungen in XRechnung und ZUGFeRD 
 
 # E-Rechnung, XRechnung, ZUGFeRD und GoBD
 
+
+## Triage zu Beginn
+1. Wer ist der Rechnungsempfaenger: Verbraucher (B2C), Unternehmen (B2B) oder oeffentliche Stelle (B2G)?
+2. Welches Format ist erforderlich oder gewuenscht: XRechnung, ZUGFeRD 2.3 oder klassisches PDF?
+3. Liegt eine Leitweg-ID oder Buyer Reference des Empfaengers vor (Pflicht bei B2G)?
+4. Welcher Versandweg ist vorgesehen: E-Mail, Peppol-Netzwerk, Portal oder Mandantenportal?
+
+## Aktuelle Rechtsprechung
+- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — GoBD-Konformitaet erfordert unveraenderbare Aufbewahrung auch von E-Rechnungen; eine einfache PDF-Ablage ohne Integritaetssicherung genuegt nicht.
+- EuGH, Urt. v. 15.11.2017 - C-374/16, NJW 2018, 214 — Vorsteuerabzug setzt voraus, dass die Rechnung die Pflichtangaben der MwSt-Systemrichtlinie enthaelt; fehlende Pflichtangaben koennen nachtraeglich berichtigt werden.
+- BFH, Urt. v. 20.10.2021 - XI R 38/19, BStBl. II 2022, 342 — Berichtigungsfaehigkeit fehlerhafter Rechnungen: rueckwirkende Rechnungskorrektur ist nur moeglich, wenn eine Mindest-Rechnung vorlag.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Faelligkeit der Honorarforderung: RVG-Rechnung muss Pflichtangaben nach § 10 RVG enthalten; fehlende Angaben verzoegern Faelligkeit.
+
+## Zentrale Normen
+- § 14 UStG — Pflichtangaben auf Rechnungen; Pflicht zur E-Rechnung ab 2025 fuer B2B
+- EN 16931 — Europaeische Norm fuer elektronische Kernrechnungen; Grundlage von XRechnung und ZUGFeRD
+- § 14b UStG — Aufbewahrungspflicht fuer Rechnungen (10 Jahre, GoBD-konform)
+- § 10 RVG — Pflichtangaben auf der anwaltlichen Honorarrechnung
+
+## Kommentarliteratur
+- Beck'scher Online-Kommentar Steuerrecht/Weymans § 14 UStG Rn. 1-60 (E-Rechnung: Pflichtangaben und Formatanforderungen)
+- Tipke/Lang Steuerrecht, 24. Aufl. 2021, § 17 Rn. 10-40 (Umsatzsteuer: Rechnungsanforderungen und Vorsteuerabzug)
+
 ## Zweck
 
 Dieser Skill ergänzt `kanzlei-allgemein-rechnung`, sobald eine Rechnung als E-Rechnung erstellt, geprüft, archiviert oder versandt werden soll. Er erzeugt keine Steuerberatung und keine finale Buchung, sondern ein prüfbares Datenblatt, eine Formatentscheidung und eine Validierungs- und Archivierungscheckliste.

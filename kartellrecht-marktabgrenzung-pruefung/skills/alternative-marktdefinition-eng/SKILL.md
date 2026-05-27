@@ -58,6 +58,18 @@ Bewertung der Vertretbarkeit der engeren Definition:
 - **Vertretbar**: Einige Anhaltspunkte, aber nicht eindeutig.
 - **Schwach**: Nur theoretisch argumentierbar.
 
+## Leitentscheidungen Engere Marktdefinition
+
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Bananen als eigenstaendiger Markt gegenueber anderen frischen Fruechten; Saisonalitaet und Konsumgewohnheiten als Abgrenzungskriterien.
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Einzelne Vitamingruppen als getrennte Maerkte; fehlende Substitutionsfaehigkeit zwischen Vitamintypen entscheidend.
+- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Enger Pharmaka-Markt; einzelner Wirkstoff nicht austauschbar gegen andere Antihypertensiva; therapeutische Austauschbarkeit massgeblich.
+- BGH, Urt. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Engere Marktdefinition bei Nachfrageoligopol; Marktbeherrschungsvermutung § 18 Abs. 4 GWB greift bei 40 Prozent Marktanteil auf engem Markt.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB §§ 18, 19 Rn. 1-60 (Marktabgrenzung, Marktbeherrschung)
+- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 102 AEUV Rn. 1-50 (Marktdefinition EuGH-Praxis)
+
 ## Standardformulierung für Schriftsatz
 
 > „Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."

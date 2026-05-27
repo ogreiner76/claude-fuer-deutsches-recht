@@ -5,6 +5,32 @@ description: "Letzte Pruefschleuse vor Ausgabe eines Vertragsentwurfs. Sucht feh
 
 # Quality Gate — Vertragsausfueller
 
+
+## Triage zu Beginn
+
+1. Wurde das Feldinventar vollständig ausgefüllt (vaf-feldinventar) und der Plausibilitätscheck durchgeführt (vaf-plausibilitaetscheck)?
+2. Sind alle Klauselentscheidungen getroffen und protokolliert (vaf-klauselentscheidung)?
+3. Ist die Ampel des Quality Gate grün oder gibt es offene No-go-Kriterien?
+4. Hat der Mandant ausdrücklich Track Changes / Redline bestätigt?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 06.04.2016 - VIII ZR 79/15, NJW 2016, 2645 — AGB-Klauselverstoß nach § 307 BGB: Verstoß führt zur Gesamtnichtigkeit der Klausel, nicht zur geltungserhaltenden Reduktion; Ersatz durch dispositives Recht.
+- BGH, Urt. v. 14.11.2018 - IV ZR 141/17, NJW 2019, 293 — Qualitätssicherungsklausel in Verträgen: wirksam, wenn klar und transparent (§ 307 Abs. 1 S. 2 BGB Transparenzgebot).
+- BGH, Urt. v. 25.11.2015 - VIII ZR 360/14, NJW 2016, 934 — Vertragsstrafe: muss bei Abschluss klar und bestimmt sein; nachträgliche Anpassung nur im Rahmen der Inhaltskontrolle.
+- BGH, Urt. v. 09.05.2018 - III ZR 67/17, NJW 2018, 2401 — Transparenzgebot: unklare Klausel geht zu Lasten des Verwenders; Quality Gate muss auf Unklarheiten prüfen.
+
+## Zentrale Normen
+
+- § 307 Abs. 1 S. 2 BGB — Transparenzgebot (Klausel muss klar und verständlich sein)
+- § 139 BGB — Teilnichtigkeit (unwirksame Klausel → Gesamtvertrag nur bei separabler Klausel)
+- § 306 BGB — Rechtsfolge unwirksamer AGB (dispositives Recht tritt ein)
+
+## Kommentarliteratur
+
+- Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 30-60 (Transparenzgebot)
+- MüKo-BGB/Basedow, 9. Aufl. 2022, § 306 Rn. 1-20 (Rechtsfolgen unwirksamer AGB)
+
 ## Zweck
 
 Letzte Schleuse, bevor ein Vertragsentwurf, eine Redline oder ein Track-Changes-Dokument an den Mandanten oder die Gegenseite herausgeht. Verhindert sechs typische Fehlerklassen: leere Pflichtfelder, ungeklärte Wahlklauseln, Rechenfehler, normwidrige Formulierungen, fehlende Anlagen, fehlende Freigaben. Liefert ein Pruefprotokoll mit Go / Go mit Warnungen / No-go.

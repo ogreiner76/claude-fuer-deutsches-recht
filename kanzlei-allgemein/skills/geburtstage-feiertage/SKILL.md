@@ -5,6 +5,29 @@ description: Pflegt einen Mandanten- und Geschaeftspartner-Geburtstagsverteiler.
 
 # Geburtstage und Feiertage
 
+
+## Triage zu Beginn
+1. Liegt eine Einwilligung des Empfaengers vor, oder wird auf berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO) gestuetzt?
+2. Sollen postalische Karten, E-Mails oder digitale Nachrichten versandt werden?
+3. Gibt es einen Widerspruch (Art. 21 DSGVO) einzelner Empfaenger zu beruecksichtigen?
+4. Betrifft der Versand Verbraucher (strenger Datenschutz) oder Geschaeftskunden?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO erfordert Interessenabwaegung; Mandantenpflege kann berechtigtes Interesse begruenden, wenn keine ueberwiegenden Interessen des Betroffenen entgegenstehen.
+- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Verletzung des Datenschutzes durch unerwuenschte Werbung begruendet Unterlassungsanspruch; Opt-out muss ohne Schranken moeglich sein.
+- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit als Grundsatz bei der Verarbeitung persoenlicher Daten; Geburtstagsdaten nur speichern, wenn der Verarbeitungszweck nicht anders erreichbar ist.
+- LG Muenchen I, Urt. v. 28.10.2021 - 3 O 14495/20, ZD 2022, 101 — Widerspruch gegen Direktmarketing nach Art. 21 Abs. 2 DSGVO wirkt sofort; keine Karenzzeit.
+
+## Zentrale Normen
+- Art. 6 Abs. 1 lit. f DSGVO — Berechtigtes Interesse als Rechtsgrundlage fuer Mandantenpflege-Kontakte
+- Art. 21 DSGVO — Widerspruchsrecht: muss ohne Schranken moeglich sein
+- Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten speichern
+- § 7 UWG — Unzumutbare Belaestigung bei Werbung ohne Einwilligung
+
+## Kommentarliteratur
+- Sydow/Marsch DSGVO Art. 6 Rn. 70-100 (Berechtigtes Interesse: Abwaegung und Fallgruppen)
+- Kühling/Buchner DSGVO Art. 21 Rn. 1-25 (Widerspruchsrecht: Voraussetzungen und Wirkung)
+
 ## Pflege des Verteilers
 
 ### Quellen

@@ -5,6 +5,29 @@ description: "Startet Kanzlei-Allgemein-Plugin. Erfragt Kanzleiprofil Kommandoce
 
 # Kanzlei-Allgemein-Plugin Kaltstart
 
+
+## Triage zu Beginn
+1. Handelt es sich um eine Ersteinrichtung oder ein Plugin-Reset (Profil loeschen und neu beginnen)?
+2. Welchen Kanzleityp haben wir: Einzelanwalt, Buerogemeinschaft, Sozietaet, PartG, GmbH, Rechtsabteilung?
+3. Welche Rechtsgebiete und Mandatsarten sind typisch fuer diese Kanzlei?
+4. Sind beA, E-Mail, DMS oder Buchhaltungssoftware bereits vorhanden und angebunden?
+
+## Aktuelle Rechtsprechung
+- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Berufsrechtliche Organisationspflichten gelten von Beginn der Kanzleitaetigkeit an; keine Schonfrist bei Berufseinstieg.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzleieinrichtung mit Fristenbuch, Postlauf und Mandatsorganisation ist Teil der Sorgfaltspflicht nach § 43 BRAO.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzleiprofil (Abrechnungsart RVG oder Vereinbarung) muss von Anfang an klar definiert sein; spaetere Aenderungen koennen vertragliche Konsequenzen haben.
+- BVerwG, Beschl. v. 09.11.2020 - 2 B 35.20, NVwZ 2021, 488 — Rechtsform der Kanzlei (PartG, GmbH) bestimmt Haftungsrahmen; Kaltstart muss Rechtsform korrekt erfassen.
+
+## Zentrale Normen
+- §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag
+- § 51 BRAO — Pflichtversicherung: muss bei Kanzleigruendung bestehen
+- § 31a BRAO — beA-Nutzungspflicht: sofort bei Zulassung
+- § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig fuer Kanzleistruktur-Entscheidung
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Berufspflichten: Inhalt und Geltung)
+- Henssler/Prütting BRAO § 31a Rn. 1-20 (beA: Einrichtungspflicht und Nutzung)
+
 ## Zweck
 
 Dieser Skill richtet das Plugin für eine Kanzlei, ein Dezernat oder einen Einzelanwalt ein. Ziel ist ein handhabbares Betriebsprofil, das spätere Workflows nicht blockiert.

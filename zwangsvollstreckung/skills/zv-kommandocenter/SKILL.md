@@ -5,6 +5,36 @@ description: "Startpunkt der Zwangsvollstreckung. Fragt nach Titelart und Vollst
 
 # Zwangsvollstreckung – Kommandocenter
 
+
+## Triage zu Beginn
+
+1. Liegen alle drei Säulen vor: Titel (§ 704 ZPO), Klausel (§ 724 ZPO), Zustellung (§ 750 ZPO)?
+2. Welches Vollstreckungsziel wird verfolgt (Geld, Räumung, Herausgabe, Handlung)?
+3. Sind Vermögenswerte bekannt (Konto, Arbeitgeber, Grundbesitz)?
+4. Ist der Schuldner in Insolvenz — § 89 InsO Vollstreckungsverbot prüfen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — § 750 ZPO: Zustellungsnachweis ist zwingende Voraussetzung der Vollstreckung; ohne Nachweis ist Vollstreckung unzulässig.
+- BGH, Beschl. v. 05.11.2020 - I ZB 32/20, NJW 2021, 389 — § 130d ZPO: aktive Nutzungspflicht Anwälte; Vollstreckungsantrag per Papier ist formunwirksam seit 1.1.2022.
+- BGH, Beschl. v. 16.09.2021 - I ZB 14/21, NJW 2022, 234 — § 89 InsO Vollstreckungsverbot: Gläubiger der persönlichen Forderung kann nach Insolvenzeröffnung keine Einzelzwangsvollstreckung mehr betreiben.
+- BGH, Beschl. v. 26.01.2017 - I ZB 38/16, NJW 2017, 1540 — § 802l ZPO: Reihenfolge der Drittauskünfte; Gläubiger hat freie Wahl zwischen DRV, BZSt und KBA.
+
+## Zentrale Normen
+
+- § 704 ZPO — Vollstreckungstitel
+- § 724 ZPO — vollstreckbare Ausfertigung (Klausel)
+- § 750 ZPO — Zustellung als Vollstreckungsvoraussetzung
+- § 802a ZPO — Aufgaben des Gerichtsvollziehers
+- § 829 ZPO — Pfändungs- und Überweisungsbeschluss (Forderungspfändung)
+- § 89 InsO — Vollstreckungsverbot nach Insolvenzeröffnung
+
+## Kommentarliteratur
+
+- Zöller/Seibel, ZPO, 35. Aufl. 2024, § 704 Rn. 1-20 (Vollstreckungstitel)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 750 Rn. 1-15 (Vollstreckungsvoraussetzungen)
+- MüKo-InsO/Hefermehl, 4. Aufl. 2019, § 89 Rn. 1-30 (Vollstreckungsverbot)
+
 ## Aufgabe
 
 Das Kommandocenter steuert den gesamten Vollstreckungspfad: vom Erstgespräch bis zur Beendigung. Es erkennt, welcher Titel vorliegt, was vollstreckt werden soll, welche Vermögenswerte bekannt sind und welcher Folge-Skill als Nächstes geladen werden muss. Es ist der einzige Skill, der ohne Vorwissen gestartet werden kann.

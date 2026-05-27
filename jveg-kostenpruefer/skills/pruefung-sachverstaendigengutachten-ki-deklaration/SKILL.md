@@ -5,6 +5,25 @@ description: "Gerichtliche Prüfung der Vergütung eines Sachverständigengutach
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
 
+## Triage — kläre vor der Prüfung
+
+1. **Indizienlage:** Welche konkreten Anhaltspunkte für KI-Einsatz liegen vor (Stilauffälligkeiten, fehlende Anknüpfungstatsachen)?
+2. **Anhörung:** Wurde der Sachverständige bereits zu Hilfsmitteln und persönlicher Erstellung gehört?
+3. **Verwertbarkeit:** Ist das Gutachten unabhängig vom KI-Verdacht methodisch verwertbar?
+4. **Vergütungshöhe:** Welchen Betrag macht der Sachverständige geltend — gibt es einen genehmigten Vorschuss?
+5. **Beschwerdestadium:** Ist bereits ein Festsetzungsbeschluss ergangen oder steht er noch aus?
+
+## Rechtsprechung
+1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die erforderliche Zeit i.S.d. § 8 JVEG ist objektiv zu bestimmen; persönliche Verantwortung des Sachverständigen für Inhalt und Methodik ist unabdingbar.
+2. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — § 8a JVEG erlaubt Vergütungskürzung oder -wegfall bei wesentlichen Mängeln; fehlende höchstpersönliche Erstellung kann § 8a Abs. 2 S. 1 Nr. 1 JVEG erfüllen.
+3. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Festsetzungsbeschlüsse nach § 4 JVEG müssen die Kürzungsgrundlage konkret benennen; pauschale Unbrauchbarkeitsverweise genügen nicht.
+4. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Die Beschwerde nach § 4 Abs. 3 JVEG erfordert substantiierte Darlegung; das Beschwerdegericht ist auf den Prüfungsrahmen des Antragstellers beschränkt.
+
+## Kommentarliteratur
+- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 8a Rn. 1 ff.
+- Anders/Gehle, ZPO, 82. Aufl. 2024, § 407a Rn. 1 ff. (höchstpersönliche Erstellungspflicht).
+- BeckOK ZPO, Vorwerk/Wolf, 52. Ed. 2024, § 407a Rn. 1 ff.
+
 ## Zweck dieses Skills
 
 Wenn dem Gericht ein Sachverständigengutachten zur Vergütungsfestsetzung vorgelegt wird und Anhaltspunkte für KI-Einsatz bestehen, strukturiert dieser Skill die richterliche Prüfung. Er greift im JVEG-Kostenprüfungsverfahren ebenso wie bei der Verwertbarkeitsprüfung im Hauptverfahren.

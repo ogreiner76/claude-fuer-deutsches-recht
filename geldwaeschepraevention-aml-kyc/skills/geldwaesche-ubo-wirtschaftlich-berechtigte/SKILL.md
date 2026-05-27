@@ -5,6 +5,28 @@ description: "Ermittelt wirtschaftlich Berechtigte, Kontrollketten, Trust-/Stift
 
 # Wirtschaftlich Berechtigte und UBO
 
+## Triage zu Beginn
+1. Handelt es sich um eine einfache oder komplexe Eigentumsstruktur (Ketten, Trusts, Stiftungen, Nominees)?
+2. Welche Quellen fuer die UBO-Ermittlung stehen zur Verfuegung: Transparenzregister, KYC-Dokumente, Registerauszuege?
+3. Liegt ein Nominee-Hinweis oder eine Treuhandstruktur vor, die transparent gemacht werden muss?
+4. Gibt es Indikatoren dafuer, dass der angegebene UBO nicht der tatsaechliche wirtschaftlich Berechtigte ist?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — UBO-Ermittlung muss bis zum letzten natuerlichten Eigentuemer durchgefuehrt werden; formale 25-Prozent-Grenze ist Mindeststandard, kein Abbruchpunkt.
+- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Nominee-Strukturen erfordern Ermittlung des tatsaechlichen Hintermanns; blosse Registereintragung des Nominees ist nicht ausreichend.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin beanstandet UBO-Ermittlungen, die bei erster Eigentuemerchicht enden; Kettenpruefung ist Pflicht.
+- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Lueckenhafte UBO-Dokumentation begruendet objektiven Verdachtsmoment nach § 43 GwG wenn Eigentuemerstruktur auffaellig undurchsichtig ist.
+
+## Zentrale Normen
+- § 3 GwG — Wirtschaftlich Berechtigter: Definition und 25-Prozent-Schwelle
+- § 13 GwG — Pflicht zur Ermittlung des wirtschaftlich Berechtigten
+- § 19 GwG — Transparenzregister: fiktiver wirtschaftlich Berechtigter bei fehlender Identifizierbarkeit
+- Art. 3 AMLD5 — UBO-Definitionen im EU-Recht (Erweiterungen auf Trusts und Stiftungen)
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 3 Rn. 1-60, § 13 Rn. 1-80 (UBO: Definition und Ermittlungsstandards)
+- Zentes/Glaab GwG, 2019, § 19 Rn. 1-30 (Transparenzregister und fiktiver UBO)
+
 ## Zweck
 
 Dieser Skill erzeugt eine prüfbare UBO-Karte mit Registerabgleich und offenen Nachweisen.

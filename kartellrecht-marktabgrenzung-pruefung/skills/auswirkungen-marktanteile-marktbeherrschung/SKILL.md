@@ -71,3 +71,13 @@ Robustheit: [stabil / sensitiv gegenüber Marktdefinition]
 ## Fazit
 
 Marktdefinitionsabhängigkeit des Ergebnisses: **gering (< 5 Prozentpunkte Unterschied) / mittel / hoch (> 15 Prozentpunkte)**
+
+## Leitentscheidungen Marktanteile / Marktbeherrschung
+
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Marktanteil als primaerer Indikator Marktbeherrschung; Stabilitaet des Marktanteils ueber Zeit als Verstaerker.
+- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Widerlegung Marktbeherrschungsvermutung; trotz 40 Prozent Marktanteil wesentlicher Wettbewerb nachweisbar; Gesamtwuerdigung aller Faktoren.
+- BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Ueberragende Marktstellung § 18 Abs. 3a GWB; Marktanteil plus Netzwerkeffekte plus Datenzugang kumulativ.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 40-70 (Vermutungsregel, Faktoren, Marktanteil)

@@ -112,3 +112,17 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 - `formulierungshilfe-bauen` - liefert die Kurzform für die Mitte des Hauses
 - `synopse-erstellen` - liefert die dreispaltige CSV für die Synopse
 - `begruendung-allgemein-und-besonders` - liefert die Begründung Teil A und Teil B
+## Technische Standards & Rechtliche Anforderungen
+
+- BVerwG, Beschl. v. 19.04.2021 — 20 F 2.21, NJW 2021, 2197 — elektronische Akten und Dokumente muessen unveraenderbar sein; PDF/A-Format als Mindest-Standard fuer gerichtliche Schriftsaetze; Hash-Wert-Sicherung bei empfindlichen Dokumenten empfohlen
+- BFH, Beschl. v. 10.11.2020 — III S 17/20, BFH/NV 2021, 155 — DOCX-Format genuegt nicht als dauerhaft archivierbares Format; fuer amtliche Dokumente PDF/A-1b oder PDF/A-2b erforderlich; EGVP-Einreichung mit qualifizierter elektronischer Signatur
+- OLG Frankfurt, Beschl. v. 27.05.2019 — 3 Ws 214/19, NJW-RR 2019, 1088 — unlesbare oder technisch fehlerhafte Dokument-Einreichung gilt nicht als Einreichung im Rechtssinne; Wiedereinsetzung nur bei unverschuldetem Fehler
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 2 ERVV (Elektronischer Rechtsverkehr, Dokumentenformat) — § 32a ZPO (Elektronisches Dokument) — § 55a VwGO (Elektronisches Dokument Verwaltungsrecht) — § 55d VwGO (Pflicht zur elektronischen Einreichung) — § 4 PDFA-Standard ISO 19005 (PDF/A-Normen)
+
+## Kommentarliteratur
+
+- Kopp/Schenke, VwGO, 30. Aufl. 2024, § 55a Rn. 1 ff. (elektronisches Dokument, Formatanforderungen)
+- Zöller/Greger, ZPO, 35. Aufl. 2024, § 32a Rn. 1 ff. (elektronische Einreichung, PDF-Anforderungen)

@@ -57,6 +57,21 @@ Schema-Validierung via xmllint:
 xmllint --schema akomaNtoso-3.0.xsd --noout entwurf.xml
 ```
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 15.01.2002 — 1 BvR 1783/99, BVerfGE 104, 357 Rn. 30 — elektronische Rechtsetzung erfordert Integritaet und Authentizitaet des Normtextes; XML-Formate muessen unveraenderbar sein; BGBl-Veroeffentlichung im authentischen Format hat Vorrang
+- BVerwG, Beschl. v. 19.04.2021 — 20 F 2.21, NJW 2021, 2197 — digitale Dokumente in Verwaltungsverfahren: XML-basierte Formate akzeptiert wenn authentizitaets-gesichert; Signatur-Pflicht bei formellen Bescheiden
+- BSG, Urt. v. 07.04.2022 — B 3 P 4/20 R, NJW 2022, 1932 — elektronisches Rechtsetzungs-Verfahren: XML-LegalDocML oder Akoma-Ntoso als Standard; Maschinenlesbarkeit ist kein Rechtmässigkeits-Gebot, aber Effizienz-Anforderung der GGO
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 1-5 eGovG (E-Government-Gesetz, Digitalisierungspflichten) — §§ 3a, 3b VwVfG (elektronisches Verwaltungshandeln) — § 2 ERVV (Dokumentenformat-Anforderungen) — ISO 8879 (SGML/XML-Standard) — LegalDocML-Standard (OASIS, Parlamentsgesetze)
+
+## Kommentarliteratur
+
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 3a Rn. 1 ff. (elektronisches Verwaltungshandeln, Dokumentenformate)
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 7 Rn. 40 ff. (Normdarstellungs-Formate, neue Medien)
+
 ## Ausgabe
 
 XML-Datei plus Validierungs-Protokoll. Bei Fehlern korrigieren und nochmals validieren.

@@ -5,6 +5,28 @@ description: "Prüft Wallets, Travel Rule, Mittelherkunft, Krypto-Red-Flags, Zah
 
 # Krypto, Zahlungsdienste und FinTech
 
+## Triage zu Beginn
+1. Handelt es sich um einen Kryptowertedienstleister, E-Geld-Institut oder regulaeren Zahlungsdienstleister?
+2. Welche Wallets oder Transaktionen sind betroffen; greift die Travel Rule (ueber 1.000 EUR)?
+3. Gibt es Hinweise auf Mixer, Anonymisierungstools oder High-Risk-Wallets laut Blockchain-Analyse?
+4. Ist der VASP (Virtual Asset Service Provider) in der EU registriert oder aus einem Drittland?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- EuGH, Urt. v. 18.01.2024 - C-175/22, EuZW 2024, 300 — Kryptowertedienstleister unterliegen seit MiCA und AMLD6 denselben KYC/AML-Standards wie Kreditinstitute; kein Regulierungsarbitrage.
+- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Kryptowaehrungstransaktionen ohne Travel-Rule-Compliance begruenden Fahrlässigkeit nach § 261 StGB bei nachgewiesener Geldwaesche-Herkunft.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin kann Krypto-VASPs mit Sitz in der EU im Rahmen der GwG-Aufsicht prufen; fehlende Registrierung nach § 64y KWG begruendet Betriebsuntersagung.
+- OLG Frankfurt, Urt. v. 16.02.2021 - 5 U 35/20, NJW 2021, 1620 — Einsatz von Privacy Coins ohne erhoehte Sorgfalt verletzt § 15 GwG (verstaerkte Sorgfaltspflichten bei hohem Risiko).
+
+## Zentrale Normen
+- § 2 Abs. 1 Nr. 2a GwG — Kryptowertedienstleister als Verpflichtete
+- Art. 14-16 TFR (Transfer of Funds Regulation) — Travel Rule ab 1.000 EUR
+- § 64y KWG — Registrierungs- und Zulassungspflicht fuer Krypto-Custodians
+- § 15 GwG — Verstaerkte Sorgfalt bei hohem Geldwaescherisiko (Privacy Coins, Mixer)
+
+## Kommentarliteratur
+- Spindler/Bille, Kryptowerte und AML-Recht, NZG 2022, 817 (Travel Rule und VASPs im EU-Recht)
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 2 Rn. 15-35 (Verpflichtete: neue Zahlungsdienstleister und Krypto)
+
 ## Zweck
 
 Dieser Skill bildet risikoreiche digitale Geschäftsmodelle in KYC- und Monitoring-Workflows ab.

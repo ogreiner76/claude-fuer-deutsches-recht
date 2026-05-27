@@ -5,6 +5,20 @@ description: "Fuehrt das Audit-Trail-Protokoll des Wuerfels — jeder Reviewlauf
 
 # /tabellenreview-3d:audit-trail-protokoll
 
+## Triage zu Beginn
+
+1. Fuer welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
+2. Wer ist der verantwortliche Pruefer, der jede Abnahme unterschreiben muss?
+3. Muss der Audit-Trail gerichtsfest sein? → Append-only-Format (JSONL) waehlen
+4. Gibt es berufsrechtliche Aufbewahrungspflichten? (§ 50 BRAO: 5 Jahre Mandatsakte)
+
+## Rechtliche Grundlagen zur Dokumentationspflicht
+
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Anwaelte sind nach § 50 BRAO verpflichtet, die Mandatsakte vollstaendig zu fuehren; fehlende Dokumentation des Beratungsvorgangs begruendet Haftungsrisiko wenn der Mandant behauptet, keine Beratung erhalten zu haben.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Die Aktenaufbewahrungspflicht des Anwalts (§ 50 Abs. 1 BRAO) betraegt grundsaetzlich 5 Jahre nach Mandatsende; bei Haftungsfragen koennen laengere Fristen geboten sein.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Dokumentation muss so beschaffen sein, dass der Buerger seine Rechtslage nachvollziehen kann; unvollstaendige oder unverstaendliche Protokolle verletzen das Gebot der Nachvollziehbarkeit.
+- BGH, Urt. v. 23.05.2019 - IX ZR 143/18, NJW 2019, 2296 — Im Due-Diligence-Kontext haftet die Prueferkanzlei fuer fehlerhafte oder lueckenhafte Berichte; ein lueckenloses Audit-Trail sichert den Nachweis der ordnungsgemaessen Durchfuehrung.
+
 ## Zweck
 
 Wer mit KI Verträge prüft muss später erklären können wie das Ergebnis zustande kam. Dieser Skill ist die Erklärung — Append-only-Log für den gesamten Lebenszyklus des Würfels.

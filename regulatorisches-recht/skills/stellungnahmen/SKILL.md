@@ -109,6 +109,21 @@ einreichungsdatum: "[TT.MM.JJJJ]"
 einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 ```
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 12.05.2009 — 2 BvR 890/06, BVerfGE 123, 267 Rn. 80 — Stellungnahme im Gesetzgebungsverfahren als Ausdruck demokratischer Teilhabe; BVerfG erkennt Stimmrecht qualifizierter Interessengruppen als Legitimations-Basis; fehlende Stellungnahme-Beruecksichtigung ist kein Aufhebungsgrund
+- EuGH, Urt. v. 15.09.2011 — C-500/10 (Banca Antoniana Popolare Veneta), NJW 2011, 3562 — Stellungnahme im EU-Gesetzgebungsverfahren; Recht auf Anhoerung von Betroffenen nach Art. 41 GRCh; unterlassene Anhoerung kann Anfechtbarkeit des Sekundaerrechtsakts begruenden
+- BVerwG, Urt. v. 18.03.2004 — 4 CN 4.02, BVerwGE 120, 239 — Stellungnahme-Pflicht bei Plan-Verfahren; fehlerhafte Beteiligung von Traegern oeffentlicher Belange fuehrt zur Rechtswidrigkeit wenn kausal
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 47-51 GGO (Verbands-Anhoerung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhoerungsrecht) — §§ 28, 29 VwVfG (Anhoerungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
+
+## Kommentarliteratur
+
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 28 Rn. 1 ff. (Anhoerungsrecht, Stellungnahme-Pflicht)
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 13 Rn. 30 ff. (Verbands-Stellungnahmen im Gesetzgebungsverfahren)
+
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`

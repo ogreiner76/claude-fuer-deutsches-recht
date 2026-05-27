@@ -5,6 +5,29 @@ description: "Verwaltet Kanzlei-Personal freundlich und strukturiert: Mitarbeite
 
 # HR und Personalverwaltung
 
+
+## Triage zu Beginn
+1. Geht es um Neueinstellung (Vertrag, Onboarding), laufendes Beschaeftigungsverhaeltnis (Urlaub, Krankenstand) oder Beendigung (Kündigung, Offboarding)?
+2. Welche Beschaeftigungsart liegt vor: Vollzeit, Teilzeit, Minijob, Werkstudent, freie Mitarbeit?
+3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber pruefenswert ab 5 Beschaeftigten)?
+4. Sind datenschutzrechtliche Anforderungen (Art. 88 DSGVO, § 26 BDSG) bei der Personalaktenfuehrung beachtet?
+
+## Aktuelle Rechtsprechung
+- BAG, Urt. v. 27.07.2021 - 2 AZR 326/20, NZA 2021, 1560 — Kündigung in einer Kleinkanzlei: KSchG gilt ab 10 Beschaeftigten (§ 23 KSchG); unterhalb dieser Schwelle gilt allgemeines Kuendigungsrecht nach §§ 620 ff. BGB.
+- BAG, Urt. v. 25.05.2022 - 5 AZR 404/21, NZA 2022, 1313 — Urlaubsanspruch: gesetzlicher Mindesturlaub 24 Werktage nach § 3 BUrlG; Uebertragung ins naechste Jahr nur bei Krankheit oder betrieblichen Gruenden bis 31.03.
+- BAG, Urt. v. 03.11.2021 - 7 AZR 797/20, NZA 2022, 218 — Befristungsrecht: Befristung ohne Sachgrund maximal zwei Jahre (§ 14 Abs. 2 TzBfG); Vorbeschaeeftigungsverbot beachten.
+- EuGH, Urt. v. 09.03.2021 - C-362/19, NZA 2021, 507 — Datenschutz in Personalakten: Beschaeftigtendaten nach Art. 88 DSGVO i.V.m. § 26 BDSG; Verarbeitung nur soweit erforderlich fuer das Beschaeftigungsverhaeltnis.
+
+## Zentrale Normen
+- §§ 620-630 BGB — Dienstvertrag: Kuendigung, Zeugnis, Grundpflichten
+- § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschaeftigte
+- § 3 BUrlG — Gesetzlicher Mindesturlaub (24 Werktage)
+- § 26 BDSG — Datenverarbeitung fuer Zwecke des Beschaeftigungsverhaeltnisses
+
+## Kommentarliteratur
+- ErfK/Muller-Glöge §§ 620-630 BGB Rn. 1-50 (Dienstvertrag: Kündigung und Rechtsfolgen)
+- ErfK/Gallner § 3 BUrlG Rn. 1-30 (Urlaubsrecht: gesetzlicher Anspruch und Uebertragung)
+
 ## Zweck
 
 Dieser Skill führt die interne Personalverwaltung der Kanzlei. Er ersetzt keine Personalsoftware, keine arbeitsrechtliche Prüfung und keine Lohnbuchhaltung, bereitet aber Daten, Entscheidungen und Dokumente so auf, dass die Kanzlei handlungsfähig bleibt.

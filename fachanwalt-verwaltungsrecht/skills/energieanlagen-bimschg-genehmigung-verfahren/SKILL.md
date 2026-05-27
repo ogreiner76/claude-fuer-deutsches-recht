@@ -269,6 +269,12 @@ Wir bitten um Mitteilung des frühesten Termins für die Einsicht.
 - `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Grundlagen einstweiliger Rechtsschutz
 - `fachanwalt-verwaltungsrecht-widerspruchsschrift` — Widerspruch gegen Genehmigungsbescheid
 
+## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+
+- BVerwG, Urt. v. 25.11.2021 — 4 C 4.20, BVerwGE 174, 244 — BImSchG-Genehmigung Windkraftanlage; Drittschutz Nachbar; volle gerichtliche Kontrolle planungsrechtlicher Voraussetzungen; keine Beschraenkung des Pruefrahmens OVG.
+- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — UVP-Nachholung; Heilung von Verfahrensfehlern nur bei vollstaendiger Wiederholung unter gleichen Bedingungen; nachtraegliche Gutachten im Klageverfahren unzulaessig.
+- OVG Lueneburg, Urt. v. 12.04.2023 — 12 LC 5/22 — saP Fledermaeuse; Detailliertheit der Artenerhebung muss technischem Standard entsprechen; vereinfachte saP unzureichend bei Windpark.
+
 ## Quellen
 
 - BImSchG §§ 4, 5, 6, 10, 19

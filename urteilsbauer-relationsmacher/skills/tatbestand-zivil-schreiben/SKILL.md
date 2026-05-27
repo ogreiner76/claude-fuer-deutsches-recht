@@ -7,6 +7,72 @@ description: "Schreibt den Tatbestand eines Zivilurteils nach Paragraf 313 Abs. 
 
 Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesens, nicht im Perfekt.
 
+
+## Triage zu Beginn
+
+1. Ist die Beweisaufnahme abgeschlossen — alle Aussagen und Gutachten protokolliert?
+2. Sind alle streitigen und unstreitigen Tatsachen aus dem Aktenintake eindeutig getrennt?
+3. Hat das Gericht Hinweisbeschlüsse nach § 139 ZPO erlassen — wurden sie befolgt?
+4. Gibt es Widerklage oder Hilfsanträge — müssen im Tatbestand vollständig erscheinen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 22.09.2017 - V ZR 282/16, NJW 2018, 382 — Tatbestand muss alle wesentlichen Tatsachenbehauptungen beider Parteien enthalten; Auslassung erheblicher Tatsachen ist Verfahrensfehler.
+- BGH, Urt. v. 10.02.2004 - VI ZR 94/03, NJW 2004, 1742 — Bezugnahme nach § 313 Abs. 2 S. 2 ZPO auf Anlagen und Protokolle ist zulässig und ausreichend, wenn konkret bezeichnet.
+- BGH, Urt. v. 17.03.2015 - II ZR 15/14, NJW 2015, 2041 — Streitiges Vorbringen ist im Tatbestand als Parteivorbringen zu kennzeichnen ("Der Kläger behauptet ..."); nicht als festgestellte Tatsache darstellen.
+- BVerfG, Beschl. v. 25.07.2012 - 1 BvR 2640/11, NJW 2013, 289 — Tatbestand muss den Streitgegenstand klar umreißen; lückenhafter Tatbestand verletzt Anspruch auf rechtliches Gehör.
+
+## Zentrale Normen
+
+- § 313 Abs. 2 ZPO — Tatbestand: gedrängter Überblick über Vorbringen beider Parteien, Bezugnahme auf Anlagen
+- § 314 ZPO — Beweiskraft des Tatbestands
+- § 320 ZPO — Tatbestandsberichtigung auf Antrag
+- § 286 ZPO — Beweiswürdigung (gehört in Entscheidungsgründe, nicht Tatbestand)
+
+## Kommentarliteratur
+
+- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 10-20 (Tatbestand Inhalt und Form)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 314 Rn. 1-10 (Beweiskraft)
+- MüKo-ZPO/Musielak, 6. Aufl. 2022, § 320 Rn. 1-15 (Tatbestandsberichtigung)
+
+## Schritt-für-Schritt-Workflow
+
+1. **Einleitungssatz formulieren:** "Die Parteien streiten über [STREITGEGENSTAND] aus [VERTRAGSART/DELIKT]."
+2. **Unstreitige Tatsachen:** Chronologisch — Vertragsschluss, Lieferung, Zahlung etc.
+3. **Streitiges Klägervorbringen:** Eingeleitet mit "Der Kläger behauptet, ..." — nicht als Tatsache darstellen.
+4. **Klageantrag:** Wörtlich einfügen oder durch Bezugnahme auf Schriftsatz.
+5. **Streitiges Beklagtenvorbringen:** "Die Beklagte beträgt, ..."
+6. **Beklagtenantrag:** "Die Beklagte beantragt, die Klage abzuweisen."
+7. **Beweisaufnahme:** "Das Gericht hat Beweis erhoben durch Vernehmung der Zeugen [NAMEN]. Wegen der Einzelheiten wird auf das Sitzungsprotokoll vom [DATUM] Bezug genommen."
+
+## Output-Template
+
+**Adressat:** Urteil → Tatbestand — Tonfall: nüchtern-objektiv, Präsens
+
+```
+## Tatbestand
+
+Die Parteien streiten über [STREITGEGENSTAND] aus einem [Kauf- / Werk- / Miet-]vertrag
+vom [DATUM].
+
+Der Kläger erwarb von der Beklagten [WARE/LEISTUNG] zum Preis von [BETRAG] EUR (Anlage K1).
+Die Beklagte lieferte am [DATUM].
+
+Der Kläger behauptet, [STREITIGE TATSACHE KLÄGER].
+
+Der Kläger beantragt,
+    die Beklagte zu verurteilen, an ihn [BETRAG] EUR nebst Zinsen zu zahlen.
+
+Die Beklagte behauptet, [STREITIGE TATSACHE BEKLAGTE].
+
+Die Beklagte beantragt,
+    die Klage abzuweisen.
+
+Das Gericht hat Beweis erhoben durch Vernehmung des Zeugen [NAME] sowie durch Einholung
+eines schriftlichen Sachverständigengutachtens des Sachverständigen [NAME] vom [DATUM].
+Wegen der Einzelheiten wird auf das Sitzungsprotokoll vom [DATUM] und das Gutachten Bezug genommen.
+```
+
 ## Aufbau
 
 1. **Einleitungssatz**: "Die Parteien streiten über ... aus einem ... Vertrag" / "... wegen ... aus einem ... Unfall"

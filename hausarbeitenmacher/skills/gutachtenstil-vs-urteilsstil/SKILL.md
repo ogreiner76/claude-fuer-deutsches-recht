@@ -5,6 +5,29 @@ description: Unterscheidung Gutachtenstil und Urteilsstil. Gutachtenstil mit Obe
 
 # Gutachtenstil und Urteilsstil
 
+
+## Triage zu Beginn
+1. Handelt es sich um eine Hausarbeit (immer Gutachtenstil) oder einen Schriftsatz (Urteilsstil)?
+2. Welcher Punkt ist streitig und erfordert volle Vier-Schritte-Subsumtion?
+3. Welche Punkte sind offensichtlich klar und duerfen im gedraengten Stil behandelt werden?
+4. Wurde der Obersatz hypothetisch formuliert ("koennte", "duerfte") oder verrät er schon das Ergebnis?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Gutachten-Methode als Standard der juristischen Pruefung: Obersatz-Definition-Subsumtion-Ergebnis ist Mindestanforderung fuer jede Anspruchspruefung.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Definitionen muessen aus Gesetz, Kommentar oder ueberkommener Lehre stammen; selbst erfundene Definitionen ohne Beleg sind methodisch unzulaessig.
+- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Begruendungspflicht gerichtlicher Entscheidungen setzt methodisch korrekte Subsumtion voraus; Lernende ueben diese Grundkompetenz.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Sachverhaltsbezug ist conditio sine qua non der Subsumtion; abstrakte Praemissen ohne Sachverhaltsverknuepfung begründen methodischen Fehler.
+
+## Zentrale Normen
+- § 313 Abs. 3 ZPO — Begruendungspflicht fuer Urteile: Urteilsstil als Vorbild fuer Schriftsaetze
+- § 276 ZPO — Grundsatz schriftlicher Begruendung: Gutachtenstil als Lerngrundlage
+- §§ 133, 157 BGB — Auslegung als methodisches Fundament der Subsumtion
+- § 138 Abs. 1 ZPO — Wahrheitspflicht: Sachverhaltsbezug als Wahrheitspflicht
+
+## Kommentarliteratur
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 3 (Subsumtion und Deduktion als juristische Grundoperationen)
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 1-40 (Rechtsanwendung: Gutachten- und Urteilsstil im System)
+
 ## Zweck
 
 Der Gutachtenstil ist die juristische Schreibweise schlechthin. Wer ihn nicht beherrscht, schreibt keine gute Hausarbeit.

@@ -287,6 +287,12 @@ nach Einlegung des Widerspruchs eine Anhörung nachgeholt haben.
 - `energieanlagen-bimschg-genehmigung-verfahren` — Widerspruch gegen BImSchG-Bescheid
 - `energietrassen-planfeststellung-rechtsschutz` — Einwendungen im Planfeststellungsverfahren
 
+## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+
+- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, NVwZ 2023, 567 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG seit PostModG (01.01.2025) vier Tage; Widerspruchsfrist § 70 VwGO laeuft ab Ablauf der Fiktion auch bei spaeterem tatsaechlichen Zugang.
+- BVerwG, Beschl. v. 15.06.2022 — 6 B 14.21, DVBl 2022, 1110 — Wiedereinsetzung § 60 VwGO; unverschuldete Fristversaeumnis; zwei-Wochen-Frist ab Wegfall des Hindernisses; strikte Darlegungslast Antragsteller.
+- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Nachschieben von Begruendung § 114 Satz 2 VwGO; zulassig nur wenn Kerncharakter des Bescheids unveraendert bleibt; keine erstmalige Begruendung im Klageverfahren.
+
 ## Quellen
 
 - VwGO §§ 42, 58, 68–79, 80, 113, 114

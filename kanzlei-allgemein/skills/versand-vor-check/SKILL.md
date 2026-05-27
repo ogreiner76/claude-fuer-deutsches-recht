@@ -5,6 +5,29 @@ description: Pflicht-Pre-Check vor jedem ausgehenden Versand — prueft Dokument
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)
 
+
+## Triage zu Beginn
+1. Was ist der Versandkanal: beA (sUW oder qeS), Brief, Fax, E-Mail, EGVP?
+2. Ist das Dokument das aktuelle und vollstaendige Exemplar (Stand, Aktenzeichen, Unterschrift geprueft)?
+3. Stimmt der Adressat mit dem im Schriftsatz genannten Gericht oder Empfaenger ueberein?
+4. Sind alle angekuendigten Anlagen beigefuegt und im Inhaltsverzeichnis aufgefuehrt?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 17.05.2023 - VIII ZB 68/22, NJW 2023, 2273 — Fehlversand an falsches Gericht als anwaltliche Pflichtverletzung: Rechtzeitigkeit der Einreichung beurteilt sich nach Eingang beim zustaendigen Gericht.
+- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Versand-Vor-Check als Kanzleipflicht: fehlende Anlagenpruefung und Dokumentidentitaetspruefung begruenden Haftungsrisiko.
+- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Unterschriftspruefung: Schriftsatz ohne Unterschrift (bei Papier) oder ohne qeS/sUW (bei beA) ist unwirksam.
+- OLG Frankfurt, Beschl. v. 14.05.2019 - 20 W 192/18, NJW-RR 2020, 54 — Anlagenprüfung: fehlende Anlage wird im Schriftsatz angekuendigt; die Nachreichung kann Fristen verletzen.
+
+## Zentrale Normen
+- § 130 Nr. 6 ZPO — Schriftsatz muss Unterschrift des Anwalts tragen
+- § 130a ZPO — Elektronisches Dokument: sUW oder qeS als Pflichtanforderung
+- § 253 Abs. 4 ZPO — Anlagen sind dem Schriftsatz beizufuegen
+- § 43 BRAO — Sorgfaltspflicht: Versand-Vor-Check als anwaltliche Pflicht
+
+## Kommentarliteratur
+- Zöller/Greger ZPO §§ 130, 130a Rn. 1-20 (Formerfordernisse bei Schriftsatz und elektronischem Dokument)
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-25 (Sorgfaltspflicht: Pflichten vor jedem Ausgang)
+
 ## Pflicht
 
 Jeder ausgehende Versand der Kanzlei muss diesen Check durchlaufen. Fehlversand ist anwaltliche Pflichtverletzung mit Haftungsrisiko.

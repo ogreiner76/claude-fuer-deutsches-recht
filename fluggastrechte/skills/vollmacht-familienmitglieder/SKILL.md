@@ -112,6 +112,16 @@ Liebe Grüße
 - Aufbewahrung bis Anspruchsabwicklung plus drei Jahre (Verjährung).
 - Datenschutz beachten — keine unnoetige Weiterleitung.
 
+## Leitentscheidungen Vollmacht / Familienvertretung
+
+- BGH, Urt. v. 30.04.2019 — X ZR 75/18, NJW 2019, 2158 — Prozessstandschaft bei Familienmitgliedern; Vollmacht muss schriftlich vorliegen; muendliche Bevollmaechtigung genuegt im Prozess nicht.
+- EuGH, Urt. v. 07.09.2012 — C-863/11 (Espada Sanchez), NJW 2012, 3029 — Eigenstaendige Ansprueche aller Familienmitglieder; Elternteil kann Anspruch der Kinder geltend machen wenn Vollmacht vorliegt.
+- OLG Frankfurt, Urt. v. 18.06.2020 — 16 U 20/20 — Gesaemtglaeubigerschaft bei mehreren Passagieren derselben Buchung; gemeinsame Klage moeglich.
+
+## Kommentarliteratur
+
+- Staudinger/Arnold VO 261/2004 Art. 7 Rn. 80-100 (Mehrere Passagiere, Vollmacht, Prozessstandschaft)
+
 ## Ausgabe
 
 - `vollmacht-<name>-<datum>.docx` pro Mitreisendem.

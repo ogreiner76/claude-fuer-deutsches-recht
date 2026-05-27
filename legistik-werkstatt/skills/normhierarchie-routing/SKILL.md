@@ -45,6 +45,21 @@ Prüfen mit Skill `verordnungsermaechtigung-art80`. Wenn keine ausreichende Erma
 
 Manchmal braucht es: Bundesgesetz (Rahmen), Bundesverordnung (Details), Landesgesetz (Umsetzung), Verwaltungsvorschrift (Vollzug). Dann ist eine Tabelle der Ebenen zu erstellen.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 24.01.2012 — 1 BvL 21/11, BVerfGE 130, 240 Rn. 40 — Normhierarchie als Verfassungsgrundlage; nachrangige Norm die gegen hoeherrangige verstoesst ist nichtig; kein bloß schwebend ungueltiger Status ohne Normenkontrolle
+- BVerwG, Urt. v. 17.06.2020 — 6 C 3.19, NVwZ 2020, 1400 — Rangverhaltnis Bundesrecht / Landesrecht nach Art. 31 GG; Bundesrecht bricht Landesrecht; Gericht darf nachrangiges Landesrecht unangewendet lassen ohne Normenkontrolle
+- EuGH, Urt. v. 15.07.1964 — 6/64 (Costa/ENEL), NJW 1964, 2371 — EU-Primärrecht steht ueber nationalem Recht einschliesslich nationaler Verfassung; Anwendungsvorrang EU-Recht gegenueber nationalem Gesetz auch ohne Nichtigerklarung
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 1 Abs. 3 GG (Grundrechtsbindung aller Staatsgewalt) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle) — Art. 100 GG (konkrete Normenkontrolle) — Art. 288 AEUV (EU-Verordnung als unmittelbar anwendbares Recht)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 31 Rn. 1 ff. (Bundesrecht bricht Landesrecht) und Art. 100 Rn. 1 ff. (Normenkontrolle)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 31 Rn. 1 ff. und Art. 93 Rn. 1 ff. (Hierarchie, Normenkontrolle)
+
 ## Ausgabe
 
 - Entscheidung Norm-Ebene

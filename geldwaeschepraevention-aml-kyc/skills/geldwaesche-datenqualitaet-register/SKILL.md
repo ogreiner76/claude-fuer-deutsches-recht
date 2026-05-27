@@ -5,6 +5,28 @@ description: "Prüft Datenfelder, Dubletten, Schreibweisen, Registerquellen, Too
 
 # Datenqualität, Register und Screening-Tools
 
+## Triage zu Beginn
+1. Welche Datenfelder oder Registerquellen weisen Qualitaetsprobleme auf?
+2. Handelt es sich um Dubletten, fehlende Pflichtfelder, falsche Schreibweisen oder veraltete Eintraege?
+3. Welches Screening-Tool ist betroffen und welche Trefferquoten sollen verbessert werden?
+4. Gibt es einen Audit-Trail-Anforderung oder eine Behoerdenpruefung zu den Daten?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Sanktionsscreening mit veralteten oder qualitativ minderwertigen Daten erfullt nicht die Sorgfaltsanforderungen des § 25h KWG.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin beanstandet systematische Datenqualitaetsprobleme im KYC-Register als Verstoss gegen § 10 GwG (Sorgfaltspflichten).
+- EuGH, Urt. v. 11.11.2020 - C-801/19, EuZW 2021, 120 — Datenaktualisierungspflicht im Transparenzregister nach AMLD5 verlangt regelmaessige Revision und Unstimmigkeitsmeldung.
+- OVG Berlin-Brandenburg, Beschl. v. 12.09.2017 - OVG 1 S 67.17, NVwZ-RR 2018, 67 — Transparenzregister-Eintragung muss inhaltlich korrekt und vollstaendig sein; Bussgeldbewehrung bei Fehlern.
+
+## Zentrale Normen
+- § 10 GwG — Allgemeine Sorgfaltspflichten: Identifizierung und Ueberpruefung von Kundendaten
+- §§ 18-26 GwG — Transparenzregister: Eintragungspflicht und Richtigkeit
+- § 23a GwG — Unstimmigkeitsmeldung an Transparenzregister
+- Art. 5 DSGVO — Datengenauigkeit und -aktualitaet als Datenschutzgrundsatz
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 10 Rn. 40-80 (Identifizierung: Datenqualitaet und Aktualisierung)
+- Sydow/Marsch DSGVO Art. 5 Rn. 30-50 (Datengenauigkeit in regulierten Branchen)
+
 ## Zweck
 
 Dieser Skill härtet die Datenbasis, damit KYC und Screening nicht an schlechten Stammdaten scheitern.

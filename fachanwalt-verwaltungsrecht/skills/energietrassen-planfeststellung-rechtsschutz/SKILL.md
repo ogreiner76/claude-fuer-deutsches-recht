@@ -269,6 +269,12 @@ vorherige Unterrichtung über den Erörterungstermin.
 - `eilantrag-80-abs-5-vwgo` — Vertiefung Eilantrag-Schriftsatz
 - `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Grundlagen einstweiliger Rechtsschutz
 
+## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+
+- BVerwG, Urt. v. 14.03.2018 — 4 A 5.17, BVerwGE 161, 263 — Planfeststellung Hochspannungsleitung; Abwaegungsgebot; Trassenalternativen muss Planungsbehoerde ernsthaft pruefen.
+- BVerwG, Urt. v. 28.04.2016 — 9 A 9.15, BVerwGE 155, 91 — Planfeststellung Nachueberpruefbarkeit bei Verzoegerung; Behorde muss bei wesentlichen Aenderungen nach Planfeststellungsbeschluss Erneuerungsverfahren einleiten.
+- EuGH, Urt. v. 10.04.2014 — C-297/12, NVwZ 2014, 929 — Klagerecht Art. 9 Aarhus-Konvention; Oeffentlichkeit muss bei Planfeststellungsverfahren ausreichend beteiligt werden; Beschraenkungen unzulaessig.
+
 ## Quellen
 
 - EnLAG §§ 1, 4

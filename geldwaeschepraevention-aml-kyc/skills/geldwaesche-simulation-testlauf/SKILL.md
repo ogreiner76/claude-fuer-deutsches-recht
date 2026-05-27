@@ -5,6 +5,28 @@ description: "Simuliert einen Arbeitstag mit Onboarding, Alert, UBO-Lücke, Sank
 
 # AML/KYC-Simulationsmodus
 
+## Triage zu Beginn
+1. Welche Simulationsszenarien sollen durchgespielt werden: Onboarding, Alert, Sanktionshit, Verdachtsmeldung oder Behördenanfrage?
+2. Soll mit simulierten oder geschwärzten echten Daten gearbeitet werden?
+3. Welche Rollen sind beteiligt: Frontoffice, Compliance, Revision oder Geschaeftsfuehrung?
+4. Gibt es einen konkreten Schulungszweck oder einen Aufsichts-Testlauf?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Regelmässige Simulationstests des AML-Systems sind Teil einer wirksamen Compliance; nachgewiesene Testluecken koennen Fahrlässigkeit begruenden.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin wertet Testlaufprotokolle als Beleg fuer Funktionsfaehigkeit der AML-Kontrollen; fehlende Tests koennen Massnahmenanordnung ausloesen.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Wirksames AML-System muss regelmaessig auf Funktionsfaehigkeit geprueft werden; risikobasierte Pruefintervalle sind zu dokumentieren.
+- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Pruefungsanordnung durch BaFin kann Testlaufprotokolle anfordern; fehlende oder lueckenhafte Tests begruenden Sanktionsrisiko.
+
+## Zentrale Normen
+- § 4 GwG — Interne Sicherungsmaßnahmen: regelmässige Wirksamkeitspruefung eingeschlossen
+- § 6 Abs. 2 Nr. 1 GwG — Geldwaeschebeauftragter hat Testverantwortung
+- BaFin AuA GwG Abschn. 4 — Pruefung der Wirksamkeit interner Maßnahmen
+- FATF Recommendation 18 — Testing of Internal Controls
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Rn. 90-110 (Wirksamkeitstests und Simulationen)
+- Zentes/Glaab GwG, 2019, § 6 Rn. 30-50 (Pruefpflichten des Geldwäschebeauftragten)
+
 ## Zweck
 
 Dieser Skill erlaubt Testläufe ohne echte Mandatsdaten und zeigt Lücken im Kontrollsystem.

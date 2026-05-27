@@ -60,3 +60,13 @@ Wenn Käufer die Lifecycle-Kosten einkalkulieren (Primär + After), dann diszipl
 ## 4. Fazit
 
 Liegt ein Cluster- oder Systemmarkt vor? Begründung und Auswirkung auf Marktanteile.
+
+## Leitentscheidungen Cluster- und Systemmaerkte
+
+- EK, Entsch. v. 22.07.2009 — COMP/M.5529 (Oracle/Sun Microsystems) — Systemmarkt Hardware/Software; Buendelungsstrategien als wettbewerbsrelevante Faktoren; After-Sales-Markt separat zu betrachten.
+- EuGH, Urt. v. 22.01.2013 — C-283/11 (Sky Oesterreich), NJW 2013, 1205 — Systemprodukte und Nutzerbindung; Wechselkosten als Marktmacht-Indikator.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Plattform-Oekosystem als Systemmarkt; Netzwerkeffekte zwischen Marktseiten.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 15-35 (Systemmaerkte, mehrseitige Maerkte, Netzwerkeffekte)

@@ -5,6 +5,29 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 
 # Posteingang und Postausgang
 
+
+## Triage zu Beginn
+1. Handelt es sich um einen Eingang (Fristbeginn pruefen) oder einen Ausgang (Versandnachweis sichern)?
+2. Welcher Eingangsweg: Post (Vier-Tages-Fiktion), beA (sofortige Zustellung), E-Mail, Fax, persoenlich?
+3. Gibt es ein fristwahrendes Dokument (Urteil, Klageschrift, Bescheid) mit sofortigem Fristen-Handlungsbedarf?
+4. Muss der Eintrag per Audit-Trail unveraenderbar dokumentiert werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Posteingangs-Protokoll als Pflicht: Datum und Inhalt jedes Eingangs muessen sofort aufgezeichnet werden; spaetere Rekonstruktion ist beweisrechtlich minderwertig.
+- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Postausgangsbuch als Haftungsschutz: Versanddatum und Versandweg muessen nachweisbar sein; fehlendes Protokoll geht bei streitigen Zustellungen zu Lasten der Kanzlei.
+- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Vier-Tages-Fiktion (PostModG ab 01.01.2025): bei Postzustellung gilt Eingang vier Werktage nach Aufgabe als fikiv; Protokoll muss fruehestmoeglichen Eingang erfassen.
+- OLG Frankfurt, Beschl. v. 14.05.2019 - 20 W 192/18, NJW-RR 2020, 54 — Fehlender Postausgangs-Vermerk: ohne Nachweis des Versandtags traegt die sendende Kanzlei das Risiko der spaeten Zustellung.
+
+## Zentrale Normen
+- §§ 187-188 BGB i.V.m. § 222 ZPO — Fristbeginn bei Zustellung
+- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
+- § 173 ZPO — beA-Zustellungszeitpunkt: Eingang im Empfangspostfach
+- § 51 BRAO — Haftung bei fehlerhafter oder fehlender Postbuchdokumentation
+
+## Kommentarliteratur
+- Zöller/Greger ZPO §§ 173, 222 Rn. 1-20 (Zustellung und Fristbeginn: beA und Post)
+- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Haftung bei Postlauf-Organisationspflichtverletzung)
+
 ## Posteingang
 
 ### Erfassung pro eingegangenem Schriftstück

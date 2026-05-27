@@ -58,6 +58,18 @@ Leitfälle:
 - Regulierte Preise: Test auf Basis regulierter Preise setzt falsche Ausgangspunkte.
 - Innovationsmärkte: Nicht-Preis-Parameter dominieren.
 
+## Leitentscheidungen SSNIP-Test
+
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Cellophane-Fallacy Vorlaeufer; Preise bei Marktmacht-Ausschluss abweichend; Ausgangspreis muss korrigiert werden.
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — SSNIP-Prinzip zur Identifikation naher Substitute; Bananenmarkt als Pionierfall.
+- EK, Horizontal Merger Guidelines 2004, Rn. 18-21 — SSNIP-Test als primaere Methode; kritische Verlustanalyse; Cellophane Fallacy Einschraenkung.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — SSNIP Methodologie; hypothetischer Monopolisten-Test als konsistenter Ansatz; Abweichung begruendungspflichtig.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 5-30 (Marktabgrenzungsmethoden, SSNIP, HMT)
+- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 102 AEUV Rn. 80-120 (Marktdefinition EK-Praxis)
+
 ## Dokumentation
 
 ```

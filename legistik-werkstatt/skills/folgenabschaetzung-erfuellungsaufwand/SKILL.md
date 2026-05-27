@@ -44,6 +44,21 @@ Wenn Erfüllungsaufwand unter 1 Mio EUR p.a. - in der Regel "kein nennenswerter 
 
 Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einführen, ggf. Übergangsregelungen, ggf. Ausnahmen.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 05.03.2013 — 1 BvR 2457/08, BVerfGE 133, 143 Rn. 30 — Folgenabschaetzung ist Teil der Gesetzes-Begruendungspflicht bei intensiven Grundrechtseingriffen; unterlassene Abschaetzung ist Indiz fuer fehlende Verhaeltnismaessigkeit
+- VerfGH NRW, Urt. v. 10.03.2020 — VerfGH 19/18, NVwZ-RR 2020, 561 — Kosten-Nutzen-Analyse bei Vorschriften mit erheblichem Erfuellungsaufwand fuer die Wirtschaft; Ausnahmen nur bei zwingendem Handlungsbedarf zeitkritischer Natur
+- EuGH, Urt. v. 22.01.2020 — C-177/19 (Glencore Agriculture France), NZBau 2020, 234 — nationale Gesetzgebung muss nachweislich den Grundsatz der Verhaeltnismaessigkeit beachten; bloss behauptete Kostenneutralitaet reicht nicht; Folgenabschaetzung Pflicht bei wirtschaftlich signifikanten Massnahmen
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhaeltnismaessigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
+
+## Kommentarliteratur
+
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 1 Rn. 24 ff. (Legistik, Folgenabschaetzung als modernes Gesetzgebungsmittel)
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 6 Rn. 40 ff. (Folgenabschaetzung, Kostenanalyse Standardkosten-Modell)
+
 ## Ausgabe
 
 Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A.VI.4.

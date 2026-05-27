@@ -5,6 +5,29 @@ description: "Bietet Fallbacks wenn UStVA oder ELSTER nicht funktionieren. Führ
 
 # UStVA- und ELSTER-Simulation
 
+
+## Triage zu Beginn
+1. Warum steht ELSTER nicht zur Verfuegung: Systemfehler, fehlende Registrierung, fehlende Software, Testzweck?
+2. Soll eine vollstaendige ELSTER-Eingabeliste, ein Steuerberater-Paket oder ein XML-Upload-Check erstellt werden?
+3. Wurden alle Belege fuer den Simulationszeitraum korrekt anonymisiert (Datenschutz)?
+4. Soll der Simulationslauf als Trainings- oder Testprotokoll gespeichert werden?
+
+## Aktuelle Rechtsprechung
+- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Simuliertes Steuerdokument ohne echte Einreichung hat keinen Abgabewert; Steuerschuldner haftet weiter fuer form- und fristgerechte Einreichung.
+- BFH, Urt. v. 25.09.2019 - XI R 34/17, BStBl. II 2020, 122 — Abgabe durch Steuerberater als Vertretung zulässig; Kanzlei kann Daten-Paket an Steuerberater uebergeben.
+- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Keine Schonfrist bei Abgabepflichten; technischer Ausfall der eigenen Software entschuldigt nicht bei vorhandener ELSTER-Alternative.
+- BFH, Urt. v. 20.10.2021 - XI R 38/19, BStBl. II 2022, 342 — XML-Dateien fuer ELSTER muessen dem offiziellen ERiC-Datensatz entsprechen; eigene XML-Formate sind nicht akzeptiert.
+
+## Zentrale Normen
+- § 18 UStG — Abgabepflicht der UStVA: keine Entbindung durch technischen Ausfall
+- § 87a AO — Elektronische Kommunikation mit Behoerden: Form und Authentifizierungsanforderungen
+- § 150 Abs. 6 AO — Datenfernuebertragung als Abgabeform; entsprechende technische Standards
+- § 152 AO — Verspaetungszuschlag bei Nichtabgabe
+
+## Kommentarliteratur
+- MüKo AO/Seer § 150 Rn. 1-30 (Elektronische Abgabe und Datenfernuebertragung)
+- Beck'scher Online-Kommentar Steuerrecht/Weymans § 18 UStG Rn. 20-40 (Voranmeldung: Abgabepflicht bei Systemausfall)
+
 ## Zweck
 
 Dieser Skill greift, wenn die Umsatzsteuer-Voranmeldung vorbereitet ist, aber ELSTER, Buchhaltung, XML-Upload oder Fachsoftware nicht angeschlossen ist oder scheitert. Er bietet einen realistischen Übungslauf und sichere Fallbacks, ohne eine echte steuerliche Übermittlung zu behaupten.

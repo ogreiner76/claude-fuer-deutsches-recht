@@ -5,6 +5,29 @@ description: "Fallbearbeitung im deutschen Gutachtenstil (Obersatz – Definitio
 
 # Fallbearbeitung im Gutachtenstil
 
+
+## Triage zu Beginn
+1. Welches Fachgebiet und welches Prüfungsniveau (Hausarbeit, AG, Klausur, Examen)?
+2. Soll das Gutachten vollstaendig oder nur schwerpunktmaessig erstellt werden?
+3. Gibt es spezifische Anspruchsgrundlagen oder Streitstaende, die besonders durchgearbeitet werden sollen?
+4. Soll das Ergebnis als Lernuebung (mit Rueckfragen) oder als fertiges Gutachten ausgegeben werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Komplexe Fallloesung: Kaufrecht + Maengelhaftung + Schadensersatz bilden klassischen Klausur-Dreiklang; jede Stufe erfordert eigene Subsumtion.
+- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Gesellschaftsrechtlicher Komplex-Fall: Haftung der Gesellschafter erfordert Mehrstufen-Pruefung mit Abgrenzung Innen-/Aussengesellschaft.
+- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Strafrecht-Komplex-Fall: Koerperverletzung + Toetungsdelikt + Notwehr als typischer Klausuraufbau mit Abgrenzungsfragen.
+- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Verwaltungsrecht-Komplex-Fall: Anfechtungsklage + Ermessensfehlerlehre + Grundrechtspruefung als Examens-Standardkonstellation.
+
+## Zentrale Normen
+- §§ 433-453 BGB — Kaufrecht: Standardkomplex fuer Zivilrecht-Gutachten
+- §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
+- §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
+- §§ 242, 263 StGB — Strafrecht-Standardtatbestaende fuer Klausur
+
+## Kommentarliteratur
+- Grüneberg/Weidenkaff BGB §§ 433-453 Rn. 1-80 (Kaufrecht als Kernkomplex)
+- Fischer StGB § 242 Rn. 1-50, § 263 Rn. 1-60 (Strafrecht-Klausur-Tatbestaende)
+
 ## Zweck
 
 Dieser Skill begleitet die Bearbeitung juristischer Übungsfälle, Klausuren und Hausarbeitssachverhalte im deutschen **Gutachtenstil**. Er gibt keine fertige Lösung vor – er stellt das Gerüst bereit, hakt bei Ungenauigkeiten nach und bewertet Schritt für Schritt die Struktur, die Definitionen und die Subsumtion.

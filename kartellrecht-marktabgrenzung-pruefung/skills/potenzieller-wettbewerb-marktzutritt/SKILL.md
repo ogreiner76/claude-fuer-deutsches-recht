@@ -56,3 +56,13 @@ Besonders relevant für digitale Märkte:
 ## Zwischenergebnis
 
 Potenzieller Wettbewerb diszipliniert Marktmacht: **ja / eingeschränkt / nein** — mit Hauptbegründung.
+
+## Leitentscheidungen Potenzieller Wettbewerb
+
+- EuGH, Urt. v. 26.11.1998 — C-7/97 (Bronner), Slg. 1998, I-7791 — Marktzutritt als Gegengewicht zu Marktbeherrschung; hohe Zutrittsbarrieren als Verstaerker der Dominanz.
+- EK, Horizontal Merger Guidelines 2004 Rn. 68-79 — Potenzieller Wettbewerb; glaubwuerdige Marktzutrittsdrohung bei niedrigen Barrieren; Zeitrahmen 2 Jahre.
+- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Potenzieller Wettbewerb als Gegenstand der Gesamtbewertung Marktbeherrschung; Lizenzbarrieren verstaerken Dominanz.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 50-70 (Marktzutrittsschranken, potenzieller Wettbewerb)

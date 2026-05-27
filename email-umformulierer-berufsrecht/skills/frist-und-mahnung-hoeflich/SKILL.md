@@ -7,6 +7,55 @@ description: "Vorlagen fuer hoeflch-bestimmte Mahnungen und Fristsetzungen: erst
 
 Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristsetzungen bereit. Auch rechtlich verbindliche Aufforderungen können höflich formuliert werden — und wirken dann oft wirksamer, weil sie die Kooperationsbereitschaft des Adressaten erhalten.
 
+
+## Triage zu Beginn
+1. In welcher Mahnstufe befinden wir uns: erste Erinnerung, qualifizierte Mahnung oder letzte Fristsetzung?
+2. Handelt es sich um eine anwaltliche Mahnung (mit Verjährungshemmungswirkung) oder um eine interne Erinnerung?
+3. Gibt es vertragliche Fristen, die die gesetzliche Mahnungspflicht modifizieren?
+4. Ist der Schuldner Verbraucher (besonderer Schutz nach §§ 305 ff. BGB) oder Unternehmer?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 25.01.2007 - III ZR 4/06, NJW 2007, 1584 — Mahnung muss so formuliert sein, dass der Schuldner die Ernsthaftigkeit der Forderung erkennt; bloss hoefliche Bitte genuegt nicht fuer Verzug nach § 286 BGB.
+- BGH, Urt. v. 11.11.2008 - VIII ZR 265/07, NJW 2009, 197 — Konkludente Mahnung durch Rechnung mit Zahlungsfrist; Frist muss eindeutig benannt sein.
+- BAG, Urt. v. 20.01.2016 - 10 AZR 386/14, NZA 2016, 809 — Arbeitsrechtliche Abmahnungen muessen so formuliert sein, dass der Arbeitnehmer klar versteht, welches Verhalten beanstandet wird.
+- BGH, Urt. v. 23.01.2014 - III ZR 37/13, NJW 2014, 1380 — Noetigungstatbestand (§ 240 StGB) wird nicht durch foermliche Mahnungen erfuellt, solange angekuendigte Massnahmen zulaessige Rechtsverfolgung darstellen.
+
+## Zentrale Normen
+- § 286 BGB — Schuldnerverzug: Mahnungserfordernis und -wirkung
+- § 203 BGB — Hemmung der Verjährung durch Verhandlungen (anwaltliche Mahnung kann Hemmung ausloesen)
+- § 240 StGB — Noetigung: Grenze zwischen zulaessigem Folgehinweis und strafbarer Drohung
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Mahnschreiben
+
+## Kommentarliteratur
+- Grüneberg/Grüneberg BGB § 286 Rn. 15-40 (Mahnung: Form, Inhalt, Wirkung)
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 60-75 (Sachlichkeitsgebot in Mahnschreiben)
+
+## Output-Template: Mahnschreiben (abgestuft)
+
+**Stufe 1 — Erste Erinnerung:**
+```
+Sehr geehrte/r [NAME],
+ich moechte Sie freundlich daran erinnern, dass [LEISTUNG] nach unserer Vereinbarung bis [DATUM] vorgesehen war.
+Falls es zu Verzoegerungen gekommen ist, bitte ich um kurze Nachricht.
+Mit freundlichen Gruessen
+```
+
+**Stufe 2 — Qualifizierte Mahnung:**
+```
+Sehr geehrte/r [NAME],
+die vereinbarte [LEISTUNG] ist bislang nicht erbracht worden. Ich setze Ihnen eine Nachfrist bis zum [DATUM].
+Ich bitte Sie, bis dahin zu leisten.
+Mit freundlichen Gruessen
+```
+
+**Stufe 3 — Letzte Fristsetzung:**
+```
+Sehr geehrte/r [NAME],
+da trotz meiner Erinnerung vom [DATUM] keine Leistung erfolgt ist, setze ich Ihnen eine letzte Frist bis [DATUM].
+Nach Ablauf dieser Frist behalte ich mir vor, [RECHTLICHE MASSNAHME] einzuleiten.
+Mit freundlichen Gruessen
+```
+
 ## Die drei Mahnstufen
 
 **Erste Erinnerung:** Freundlicher Hinweis, dass eine Leistung oder Rückmeldung noch aussteht. Kein Vorwurf, keine Mahnung im Rechtssinne. Beispiel: „Ich möchte Sie freundlich daran erinnern, dass die Übersendung der Unterlagen nach unserer Vereinbarung bis zum TT.MM.JJJJ vorgesehen war. Falls Verzögerungen eingetreten sind, bitte ich um kurze Nachricht."

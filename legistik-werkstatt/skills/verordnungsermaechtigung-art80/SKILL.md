@@ -60,6 +60,21 @@ Auf Landesebene gilt regelmäßig Art. 80 GG analog über die Landesverfassungen
 | Bundesrats-Zustimmung | Ja/Nein | Wortlaut + Stammgesetz |
 | Anhörungspflichten | Ja/Nein | Spezialgesetz |
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 06.07.1999 — 2 BvF 3/90, BVerfGE 101, 1 Rn. 60 — Art. 80 Abs. 1 Satz 2 GG Bestimmtheitstrias; Inhalt Zweck Ausmass muessen im Gesetz selbst erkennbar sein; Schaufelraeder-Formel: wenn Ermaechtigungs-Empfaenger aus Gesetz nicht entnehmen kann was ihm erlaubt ist, ist Ermaechtigungsnorm zu unbestimmt
+- BVerfG, Beschl. v. 11.07.2006 — 1 BvL 4/00, BVerfGE 116, 24 Rn. 55 — Sub-Delegation Art. 80 Abs. 1 Satz 4 GG erfordert ausdrueckliche Ermaechtigung im Gesetz; ohne Subdelegations-Klausel darf Minister nicht weiter-delegieren
+- BVerfG, Urt. v. 15.12.2020 — 2 BvF 4/17, NJW 2021, 625 Rn. 45 — dynamischer Verweis auf technische Normen in Verordnungen verfassungsmaessig wenn Parlamentsgesetz Mindeststandards vorgibt; Verordnungsgeber darf keine wesentlichen Entscheidungen an private Normgeber abgeben
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 GG (Sub-Delegation) — Art. 80 Abs. 2 GG (Bundesrats-Zustimmung) — § 51 BImSchG (Beispiel-Ermaechtigungsnorm mit Anhoerungspflicht)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 80 Rn. 1 ff. (Verordnungsermaechtigung, Bestimmtheitstrias)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 80 Rn. 1 ff. (Ermaechtigungsnorm, Sub-Delegation, Bundesratszustimmung)
+
 ## Ausgabe
 
 Pruefprotokoll plus Empfehlung:

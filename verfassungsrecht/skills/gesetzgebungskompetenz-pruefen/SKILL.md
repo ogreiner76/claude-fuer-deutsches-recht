@@ -108,6 +108,22 @@ Gesetzgebungskompetenz nicht verwechseln mit Verwaltungskompetenz:
 - **Kompetenzwidrig:** Gesetz ist insgesamt nichtig (Verwerfungsmonopol BVerfG, Art. 100 Abs. 1 GG).
 - **Teilkompetenzwidrigkeit:** nur die kompetenzfremden Regelungen sind nichtig, sofern abtrennbar.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 27.07.2005 — 1 BvR 668/04, BVerfGE 113, 348 Rn. 55 — Kompetenz-Schwerpunkt bestimmt Zuordnung zu Art. 73 oder 74 GG; Nebenaspekte fremder Materien schaden nicht wenn Kernregelung klar einer Kompetenz-Norm zugeordnet ist
+- BVerfG, Urt. v. 09.07.2007 — 2 BvF 1/04, BVerfGE 119, 59 Rn. 80 — Erforderlichkeitsklausel Art. 72 Abs. 2 GG; Bundestag muss positive Feststellung treffen; pauschale Begruendung bundeseinheitlicher Notwendigkeit genuegt nicht; inhaltliche Pruefung BVerfG moeglich
+- BVerfG, Beschl. v. 14.03.2017 — 2 BvL 6/13, BVerfGE 145, 20 Rn. 60 — Sperrwirkung Art. 72 Abs. 1 GG; Bund macht von konkurrierender Kompetenz Gebrauch sobald er inhaltlich abschliessend regelt; Schweigen des Bundesgesetzes in Teilbereichen gibt Laendern Spielraum
+- BVerfG, Beschl. v. 26.03.2019 — 1 BvR 673/17, BVerfGE 151, 101 Rn. 40 — Kompetenz kraft Natur der Sache; nur anerkannt fuer Angelegenheiten die ihrem Wesen nach Bundeskompetenz erfordern; strenge Anforderungen; nicht erweiterbar auf beliebige Bundesinteressen
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 70-74 GG (Kompetenzverteilung) — Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 70 Rn. 1 ff. (Abgrenzungsgrundsaetze) und Art. 72 Rn. 1 ff. (Erforderlichkeit)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 70 Rn. 1 ff. (Kompetenzverteilung) und Art. 74 Rn. 1 ff. (konkurrierende Kompetenz, Katalog)
+
 ## Output-Format
 
 ```

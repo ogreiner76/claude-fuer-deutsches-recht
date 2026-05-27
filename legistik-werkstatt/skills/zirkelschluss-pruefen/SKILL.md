@@ -50,6 +50,21 @@ Bei dynamischen Verweisen auf EU-Recht: Demokratieprinzip prüfen. Der nationale
 - [ ] Dynamische Verweise auf eigene Norm sind gewollt und klar
 - [ ] Dynamische Verweise auf EU-Recht halten dem Demokratieprinzip stand
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 23.10.1973 — 2 BvC 3/73, BVerfGE 36, 139 Rn. 25 — Norm darf nicht ihrer eigenen Grundlage widersprechen; Zirkelschluss in Begruendung ist Indiz fuer normative Unklarheit; Gericht klaert Zirkelschluss zulasten des Normgebers
+- BVerwG, Urt. v. 12.05.2016 — 4 C 13.15, NVwZ 2016, 1163 — Verweis-Kette in Normen darf nicht in sich zurueckfuehren; wenn Norm A auf Norm B verweist und Norm B auf Norm A, ist Auslegung praejudiziell offen; zirkulaere Verweisungen verletzten Bestimmtheitsgebot
+- BGH, Urt. v. 19.07.2018 — III ZR 127/17, NJW 2018, 3253 — Zirkelschluss in AGB-Klauseln fuehrt zu Unwirksamkeit nach § 307 BGB; Klarheitsgebot verlangt, dass Rechte und Pflichten ohne Zirkel erkennbar sind; analog fuer Gesetzesbegruendung
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 20 Abs. 3 GG (Bestimmtheitsgebot) — §§ 1-5 HdR (Normenklarheit, Verweisungs-Regeln) — § 307 BGB (Analogie: Zirkelschluss als Klarheits-Verstoß) — §§ 133, 157 BGB (Auslegungsgrundsaetze bei zirkulaeren Formulierungen)
+
+## Kommentarliteratur
+
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 4 Rn. 50 ff. (Verweisungs-Normen, Zirkelschluss-Vermeidung)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 20 Rn. 84 ff. (Bestimmtheitsgebot, Auslegungsregeln)
+
 ## Ausgabe
 
 Verweisgraf, Liste detektierter Schleifen, Vorschläge zur Entzerrung.

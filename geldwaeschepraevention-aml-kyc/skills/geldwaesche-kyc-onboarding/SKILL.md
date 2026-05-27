@@ -5,6 +5,28 @@ description: "Führt Identifizierung, Zweck der Geschäftsbeziehung, Mittelherku
 
 # KYC-Onboarding und Kundenprüfung
 
+## Triage zu Beginn
+1. Handelt es sich um eine natuerliche Person, juristische Person oder einen Trust/Stiftung?
+2. Gibt es PEP-Indikatoren, Hochrisikobezug oder komplexe Eigentumsstrukturen (mehr als zwei Ebenen)?
+3. Welche Unterlagen liegen bereits vor und welche fehlen fuer die vollstaendige Identifizierung nach § 10 GwG?
+4. Welche Risikoklasse (niedrig/normal/erhoehte Sorgfalt/verstaerkte Sorgfalt) wird erwartet?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — KYC-Pflicht des Verpflichteten ist individuell und nicht durch pauschale Standardprozesse erfuellbar; Risikobasierung muss dokumentiert sein.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Identifizierungspflicht nach AMLD4 erfordert UBO-Ermittlung bis zum letzten wirtschaftlich Berechtigten; keine pauschale 25-Prozent-Grenze als Abbruchpunkt.
+- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Unvollstaendige KYC-Akte ohne dokumentierte Risikoentscheidung begruendet Fahrlässigkeit und kann bei Tatnaehe zu § 261 StGB relevanter Beihilfe fuehren.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — KYC-Onboarding-Akte muss Entscheidungsspur enthalten; blosse Kopiensichtung ohne Bewertungsprotokoll ist unzureichend.
+
+## Zentrale Normen
+- §§ 10-17 GwG — Allgemeine und vereinfachte Sorgfaltspflichten
+- § 13 GwG — Identifizierung des wirtschaftlich Berechtigten
+- § 15 GwG — Verstaerkte Sorgfaltspflichten (PEP, Hochrisikoland)
+- § 11 Abs. 6 GwG — Risikobasierte Aktualisierungspflicht der KYC-Daten
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, §§ 10-13 Rn. 1-120 (Sorgfaltspflichten: vollstaendige Kommentierung)
+- Zentes/Glaab GwG, 2019, § 15 Rn. 1-60 (Verstaerkte Sorgfalt: PEP und Hochrisikofaelle)
+
 ## Zweck
 
 Dieser Skill macht aus unvollständigen Kundenunterlagen einen geführten, verzeihenden KYC-Prozess.

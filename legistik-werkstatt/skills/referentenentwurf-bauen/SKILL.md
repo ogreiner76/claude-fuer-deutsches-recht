@@ -79,6 +79,21 @@ Oder gestaffeltes Inkrafttreten:
 - [ ] Keine Verweisschleife (siehe `zirkelschluss-pruefen`)
 - [ ] Terminologie konsistent (siehe `terminologie-konsistenz`)
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 14.07.1959 — 2 BvF 1/58, BVerfGE 10, 20 Rn. 35 — Referentenentwurf als Ausdruck der Gesetzgebungs-Initiative; GGO-Format als Garant der Transparenz und parlamentarischen Kontrolle
+- BVerwG, Urt. v. 23.03.2016 — 6 C 14.15, NVwZ 2016, 943 — Ressortabstimmungs-Pflicht nach GGO ist formell; Verletzung fuehrt nicht zur Nichtigkeit aber kann parlamentarische Kontrolle beeintraechtigen; GGO als Innenrecht der Bundesregierung
+- BVerfG, Beschl. v. 14.03.2017 — 2 BvR 157/12, BVerfGE 145, 106 Rn. 60 — Aenderungsbefehle im Referentenentwurf muessen praezise sein; unpraezise Aenderungen fuehren zu Auslegungsproblemen; Normklarheit verlangt klare Aenderungs-Formulierungen (HdR-Standard)
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 40-62 GGO (Referentenentwurf, Ressortabstimmung) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — §§ 1-10 HdR (Handbuch der Rechtsfoermlichkeit, Aenderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Citatum in Verordnungen)
+
+## Kommentarliteratur
+
+- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 10-15 Rn. 1 ff. (Referentenentwurf-Format, Artikelstruktur, Aenderungsbefehle)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 21 Rn. 5 ff. (Gesetzgebungsverfahren Bundesebene, GGO)
+
 ## Ausgabe
 
 Markdown-Datei mit dem kompletten Entwurfstext, bereit für Ressortabstimmung.

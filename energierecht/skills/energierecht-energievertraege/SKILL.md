@@ -247,6 +247,22 @@ Kern-Punkte:
 2. Bei Anpassungs-Mitteilung Plausibilität prüfen
 3. Bei Wechsel Vertrags-Übergangs-Modalitäten
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 28.10.2015 — VIII ZR 158/11, NJW 2016, 475 — Preisanpassungsklausel in Energievertraegen muss hinreichend bestimmt und transparent sein; einseitiges Leistungsbestimmungsrecht nach § 315 BGB setzt billiges Ermessen voraus; Billigkeitspruefung durch Gericht moeglich
+- BGH, Urt. v. 24.03.2021 — VIII ZR 263/19, NJW 2021, 1596 — AGB-Klauseln in Energievertraegen zur Spotpreis-Indizierung von Fernwaerme-Preisen halten AGB-Inhaltskontrolle stand, wenn Anpassungs-Mechanismus hinreichend transparent und fuer Kunden nachvollziehbar
+- BGH, Urt. v. 06.04.2016 — VIII ZR 79/15, NJW 2016, 2101 — Grundversorgungs-Tarif-Aenderung bedarftransparente Bekanntgabe; fehlende Bekanntgabe fuehrt zur Unwirksamkeit der Tarif-Aenderung gegenueber dem Kunden
+- OLG Duesseldorf, Urt. v. 09.03.2022 — VI-2 U 5/21, ZNER 2022, 134 — Hardship-Klausel in Energie-Grosskunden-Vertrag begruendet Anpassungspflicht bei dauerhafter wesentlicher Aenderung der Preis-Grundlagen; Gaspreis-Krise 2022 als Ausloese-Ereignis anerkannt
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 315 BGB (billiges Ermessen Leistungsbestimmung) — §§ 305-310 BGB (AGB-Kontrolle) — §§ 36-38 EnWG (Grundversorgung) — § 46 EnWG (Konzessionsvertrag) — AVBEltV / AVBFernwaermeV (Vertragsbeziehungen Grundversorgung) — §§ 313, 314 BGB (Stoerung Geschaeftsgrundlage, Hardship)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 36-38 Rn. 1 ff. (Grundversorgung, Sondervertrag)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 315 Rn. 1 ff. (billiges Ermessen) und §§ 305 ff. Rn. 1 ff. (AGB-Kontrolle Energie)
+
 ## Verzahnung
 
 - `energierecht-vertrieb-marktrollen`

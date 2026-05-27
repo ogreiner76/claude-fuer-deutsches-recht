@@ -225,6 +225,22 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 - Bilanzkreis-Pflichten sicherstellen
 - PPA-Optionen erschließen
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 28.10.2015 — VIII ZR 158/11, NJW 2016, 475 — einseitige Preisaenderungsklausel in Sondervertrag Strom unterliegt AGB-Kontrolle §§ 307 ff. BGB; Klausel muss transparenten Anpassungs-Mechanismus enthalten; billiges Ermessen § 315 BGB allein genuegt nicht
+- BGH, Urt. v. 06.04.2016 — VIII ZR 79/15, NJW 2016, 2101 — Tarifaenderung im Grundversorgungsverhaeltnis erfordert oeffentliche Bekanntgabe nach § 41 EnWG; unterbliebene Bekanntgabe macht Tarif-Aenderung unwirksam gegenueber Haushaltskunden
+- OLG Duesseldorf, Urt. v. 03.05.2022 — I-20 U 155/21, ZNER 2022, 233 — Lieferanten-Insolvenz; Ersatz-Versorgung durch Grundversorger § 38 EnWG; Verbraucher kann nicht auf Liefervertrag beharren; Grundversorger hat Kontrahierungspflicht
+- EuGH, Urt. v. 10.09.2015 — C-359/14 und C-475/14, NJW 2015, 3720 — Verpflichtung zur Herkunftskennzeichnung § 42 EnWG; EU-Elektrizitaets-Binnenmarkt-RL; Stromkennzeichnung muss zutreffend und nachvollziehbar sein; keine Doppel-Verwendung von Herkunftsnachweisen HKN
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 36-38 EnWG (Grundversorgung, Ersatzversorgung) — § 41 EnWG (Vertragsaenderung Haushaltskunden) — § 42 EnWG (Stromkennzeichnung) — §§ 305-310 BGB (AGB-Kontrolle) — § 315 BGB (billiges Ermessen Preisbestimmung) — § 5 MaStRV (Marktstammdatenregister Pflichten)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 36-42 Rn. 1 ff. (Grundversorgung, Tarif, Kennzeichnung)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 305 ff. Rn. 1 ff. (AGB-Kontrolle Energie-Sondervertraege)
+
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung`

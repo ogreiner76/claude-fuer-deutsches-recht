@@ -60,6 +60,21 @@ Manche Satzungen brauchen vor Bekanntmachung Genehmigung der Aufsichtsbehoerde (
 
 Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhafte Bekanntmachung kann zur Nichtigkeit führen.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 14.01.1969 — 2 BvR 515/66, BVerfGE 25, 198 Rn. 28 — kommunale Satzungshoheit als Auspraegunsg der Selbstverwaltungsgarantie Art. 28 Abs. 2 GG; staatliche Einschraenkungen muessen verhaeltnismaessig sein
+- BVerwG, Urt. v. 11.07.2019 — 8 C 2.18, NVwZ 2020, 63 — Satzungskompetenz setzt gesetzliche Ermaechtigungsgrundlage voraus; kommunale Satzung ohne Ermaechtigungs-Grundlage ist nichtig; Wesentlichkeitstheorie gilt analog
+- VGH Mannheim, Urt. v. 26.06.2019 — 1 S 3140/17, NVwZ-RR 2019, 820 — Satzung muss hinreichend bestimmt sein; unbestimmte Satzungsklauseln verletzten Bestimmtheitsgebot aus Art. 20 Abs. 3 GG; oeffentliche Satzungen sind dem Bestimmtheitsgebot wie Parlamentsgesetze unterworfen
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze fuer Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 28 Rn. 65 ff. (Selbstverwaltungsgarantie, Satzungshoheit)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 14 ff. (kommunale Satzungen, Satzungskompetenz-Grundlagen)
+
 ## Ausgabe
 
 | Frage | Antwort |

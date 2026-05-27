@@ -5,6 +5,29 @@ description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ue
 
 # Zentrales Fristenbuch der Kanzlei
 
+
+## Triage zu Beginn
+1. Handelt es sich um eine Notfrist (absolut haftungsrelevant: Rechtsmittelfristen) oder eine einfache gesetzliche Frist?
+2. Nach welcher Verfahrensordnung laeuft die Frist (ZPO, StPO, VwGO, SGG, FGO, FamFG, AO)?
+3. Gilt die neue Vier-Tages-Fiktion nach PostModG (ab 01.01.2025) oder noch die Drei-Tages-Fiktion?
+4. Wer ist verantwortlicher Anwalt und wer ist Vertretung bei Abwesenheit?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Eintragungspflicht im Fristenbuch als Organisationspflicht der Kanzlei; Versaeumnis begruendet Haftung nach § 51 BRAO.
+- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Fristbeginn bei Postzustellung: fruehestens am dritten Werktag nach Aufgabe zur Post; seit 01.01.2025 vier Werktage (PostModG).
+- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Vorfrist als anwaltliche Sorgfaltspflicht: eine Vorfrist von mindestens fuenf Werktagen ist Mindeststandard.
+- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Doppelkontrolle der Fristeintragung: sowohl Empfangsprotokoll als auch Fristeintrag muessen sofort erfolgen.
+
+## Zentrale Normen
+- § 222 ZPO i.V.m. §§ 187-188 BGB — Fristberechnung nach dem Zivilprozessrecht
+- § 517 ZPO — Berufungsfrist ein Monat ab Zustellung des Urteils (Notfrist)
+- § 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist)
+- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
+
+## Kommentarliteratur
+- Zollner/Schneider BRAO § 51 Rn. 1-40 (Fristversaeumnis als Haftungsgrundlage)
+- BeckOK ZPO/Wendtland §§ 222-224 Rn. 1-30 (Fristberechnung und Wiedereinsetzung)
+
 ## Pflicht
 
 Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).

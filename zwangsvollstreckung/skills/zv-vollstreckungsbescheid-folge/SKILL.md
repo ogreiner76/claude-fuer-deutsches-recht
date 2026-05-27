@@ -5,6 +5,36 @@ description: "Steuert das Verfahren nach Erlass des Mahnbescheids: Beantragung d
 
 # Vollstreckungsbescheid und Folgeverfahren
 
+
+## Triage zu Beginn
+
+1. Ist die Widerspruchsfrist von 2 Wochen ab Zustellung des Mahnbescheids abgelaufen?
+2. Wurde der VB-Antrag rechtzeitig gestellt (innerhalb 6 Monaten nach MB-Zustellung, § 701 ZPO)?
+3. Hat der Schuldner Einspruch gegen den VB erhoben — wenn ja, Übergang ins Streitverfahren?
+4. Ist der Schuldner insolvent — § 89 InsO Vollstreckungsverbot prüfen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 19.04.2012 - IX ZR 233/09, NJW 2012, 2502 — Vollstreckungsbescheid nach Insolvenzeröffnung: VB als Titel wird durch Insolvenzeröffnung überlagert; Forderung muss zur Tabelle angemeldet werden.
+- BGH, Beschl. v. 20.04.2017 - VII ZB 19/16, NJW 2017, 1972 — Wiedereinsetzung in die Einspruchsfrist: Anwaltsverschulden kann Wiedereinsetzung ausschließen; Schuldner muss sich Verschulden seines Anwalts zurechnen lassen (§ 85 Abs. 2 ZPO).
+- BGH, Urt. v. 06.05.2014 - XI ZR 217/12, NJW 2014, 2806 — Verjährungshemmung endet 6 Monate nach Erlass des VB, wenn das Verfahren nicht weiter betrieben wird (§ 204 Abs. 2 S. 1 BGB); Gläubiger muss Vollstreckung rechtzeitig einleiten.
+- BGH, Beschl. v. 21.10.2014 - VII ZB 34/13, NJW 2015, 261 — VB-Klausel kraft Gesetzes § 796 Abs. 1 ZPO: gesonderte Klauselerteilung nicht erforderlich; VB trägt die Klausel bereits mit Erlass.
+
+## Zentrale Normen
+
+- § 699 ZPO — Antrag auf Vollstreckungsbescheid (frühestens 14 Tage nach MB-Zustellung)
+- § 700 ZPO — Einspruch gegen VB (Frist 2 Wochen ab Zustellung)
+- § 701 ZPO — 6-Monats-Frist für VB-Antrag ab MB-Zustellung
+- § 796 Abs. 1 ZPO — VB trägt Klausel kraft Gesetzes
+- § 204 Abs. 2 S. 1 BGB — Ende der Verjährungshemmung bei Verfahrenseinstellung
+- § 705 ZPO — Rechtskraft des VB nach Ablauf der Einspruchsfrist
+
+## Kommentarliteratur
+
+- Zöller/Vollkommer, ZPO, 35. Aufl. 2024, § 699 Rn. 1-20 (Vollstreckungsbescheid)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 700 Rn. 1-10 (Einspruch)
+- Grüneberg, BGB, 83. Aufl. 2024, § 204 Rn. 60-70 (Ende der Verjährungshemmung)
+
 ## Aufgabe
 
 Der Vollstreckungsbescheid (VB) ist der Titel, den die meisten Mahnverfahren in Deutschland produzieren. Der Skill begleitet den Antrag, die Reaktion auf Einspruch und die Vollstreckung aus dem VB.

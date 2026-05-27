@@ -168,6 +168,22 @@ Anlagen
 [Unterschrift Rechtsanwalt/Rechtsanwältin]
 ```
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 08.01.2004 — 2 BvR 1872/03, NJW 2004, 1371 — Rechtswegerschoepfung als Zulässigkeits-Voraussetzung; Verfassungsbeschwerde erst nach Ausschoepfung aller Rechtsmittel; keine Ausnahme wenn BVerfG zur Klaerung grundsaetzlicher Fragen aufgerufen ist
+- BVerfG, Beschl. v. 22.11.2016 — 2 BvR 130/16, NJW 2017, 298 — Jahresfrist § 93 Abs. 3 BVerfGG bei Normverfassungsbeschwerde; Fristbeginn mit Inkrafttreten der Norm wenn Beschwerdebefugnis besteht; Untaetigkeit bis zu 1 Jahr ab Beruehrung zulaessig
+- BVerfG, Beschl. v. 10.06.2014 — 1 BvR 1252/10, BVerfGE 136, 382 Rn. 25 — Grundsaetzliche Bedeutung nach § 93a Abs. 2 lit. a BVerfGG; Verfassungsbeschwerde muss Frage aufwerfen die BVerfG noch nicht entschieden hat; Betonung auf neuer verfassungsrechtlicher Dimension
+- BVerfG, Beschl. v. 05.08.2021 — 2 BvR 2061/20, NJW 2021, 2890 — Einstweiliger Rechtsschutz nach § 32 BVerfGG; strenge Folgen-Abwaegung; schwere und unabwendbare Nachteile als Voraussetzung; Eilantrag erfordert summarische Zulässigkeits- und Begruendetheitspruefung
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 90-95 BVerfGG (Verfassungsbeschwerde: Zulässigkeit, Frist, Annahme) — § 93a BVerfGG (Annahme zur Entscheidung) — § 32 BVerfGG (Einstweilige Anordnung) — §§ 1-3 BVerfGG (Zustaendigkeit BVerfG)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 93 Rn. 70 ff. (Verfassungsbeschwerde, Zulässigkeit, Begruendetheit)
+- Sachs, GG, 9. Aufl. 2021, Art. 93 Rn. 60 ff. (Verfassungsbeschwerde-Verfahren)
+
 ## Praxishinweise
 
 - **Vollmacht beifügen** — nach § 22 BVerfGG.

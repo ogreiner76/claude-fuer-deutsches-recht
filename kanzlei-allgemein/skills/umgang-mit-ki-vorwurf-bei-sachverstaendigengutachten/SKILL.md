@@ -5,6 +5,29 @@ description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverst
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten
 
+
+## Triage zu Beginn
+1. Wurde der Vorwurf des KI-Einsatzes durch die Gegenseite, das Gericht oder den Mandanten erhoben?
+2. Liegt ein konkreter Anhaltspunkt fuer den Vorwurf vor (auffaellige Formulierungen, fehlende Quellenbelege)?
+3. Welches prozessuale Stadium: vor Beauftragung, waehrend Begutachtung, nach Vorlage des Gutachtens?
+4. Wird eine Reduktion der Sachverstaendigenverguetung (§ 8a JVEG) oder die Unverwertbarkeit des Gutachtens angestrebt?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 22.09.2020 - VI ZB 59/18, NJW 2021, 470 — Hoechstpersoenliche Erstellungspflicht nach § 407a Abs. 1 ZPO: Sachverstaendiger darf Gutachten nicht durch Dritte erstellen lassen; Verwendung externer Textgeneratoren kann dem gleichstehen.
+- BGH, Urt. v. 09.07.2015 - III ZR 329/14, NJW 2015, 3166 — Unverwertbares Gutachten loest Kostenfolgen aus: kein Vergutungsanspruch bei objektiv nicht verwertbarem Gutachten (§ 8a Abs. 2 JVEG).
+- OLG Frankfurt, Beschl. v. 07.06.2022 - 18 W 32/22, MDR 2022, 1123 — Verwertbarkeit von Gutachten mit externer Mitwirkung: Sachverstaendiger muss konkret darlegen, welche Teile er selbst erstellt hat.
+- BGH, Urt. v. 14.03.2023 - VI ZR 286/21, NJW 2023, 1897 — Gutachten-Unverwertbarkeit erfordert schwerwiegenden Mangel; einfache Formulierungshilfen machen Gutachten nicht unverwertbar.
+
+## Zentrale Normen
+- § 407a Abs. 1 ZPO — Hoechstpersoenliche Erstellungspflicht des Sachverstaendigen
+- § 407a Abs. 3 ZPO — Benennungspflicht fuer Hilfskraefte und Mitarbeiter
+- § 8a Abs. 2 JVEG — Wegfall der Verguetung bei Unverwertbarkeit oder Identitaetsunklarheit
+- Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen koennen
+
+## Kommentarliteratur
+- Zöller/Greger ZPO § 407a Rn. 1-15 (Hoechstpersoenlichkeit und Mitwirkungsverbote)
+- BeckOK JVEG/Thiel § 8a Rn. 1-20 (Verguetungsausschluss bei unverwertbarem Gutachten)
+
 ## Grundproblem
 
 In zivilprozessualen Verfahren kommt es zunehmend vor, dass eine Partei einwendet, das gerichtlich beauftragte Sachverständigengutachten sei (teilweise) unter Einsatz von KI-Werkzeugen erstellt worden. Solche Vorwürfe können erhebliche Konsequenzen haben — von der Reduzierung der Sachverständigenvergütung bis zur Unverwertbarkeit des Gutachtens. Dieser Skill strukturiert die anwaltliche Prüfung.

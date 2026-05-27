@@ -1,48 +1,125 @@
 ---
 name: umweltrecht-compliance-schulung
-description: "Erstellt Schulungs-, Audit- und Fortbildungspläne für Anlagenbetreiber, Immissionsschutzbeauftragte und Abfallverantwortliche."
+description: Erstellt Schulungs-, Audit- und Fortbildungsplaene fuer Anlagenbetreiber, Immissionsschutzbeauftragte und Abfallverantwortliche. BImSchG §§ 53-58 Betriebsbeauftragte KrWG §§ 59 60 Abfallbeauftragte WHG §§ 64 65 Gewaesserschutzbeauftragte. Pflichten Compliance-Dokumentation. Schulungsplan-Muster Jahresaudit-Checkliste.
 ---
 
-# Compliance, Beauftragte und Schulung
+# Compliance, Beauftragte und Schulung im Umweltrecht
 
-## Zweck
+## Triage — klaere Schulungs-/Audit-Kontext
 
-Dieser Skill macht aus Pflichten ein verständliches, dokumentierbares Trainings- und Auditprogramm.
+1. Welche Beauftragte sind nach Gesetz zu bestellen (ImmSchBeauftragter, Abfallbeauftragter, Gewaesserschutzbeauftragter)?
+2. Besteht bereits ein Compliance-Management-System oder steht erstmalige Einrichtung an?
+3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
+4. Wie gross ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
+5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
 
-## Wann verwenden
+## Zentrale Normen und Paragrafenkette
 
-- wenn ein neuer Fall im Bereich Umweltrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 53 BImSchG** — Bestellung Immissionsschutzbeauftragter (Pflicht bei Anlagen der 4. BImSchV, § 1 5. BImSchV)
+- **§ 54 BImSchG** — Aufgaben des ISB (Unterrichtung Betreiber, Ueberpruefung Betrieb, Stellungnahme Genehmigungsaenderung)
+- **§ 55 BImSchG** — Pflichten des Betreibers gegenueber ISB (Unterrichtungs-, Ausstattungspflicht)
+- **§ 58 BImSchG** — Haftungsfreistellung ISB
+- **§ 59 KrWG** — Bestellung Abfallbeauftragter (Pflicht § 1 AbfBeauftrV)
+- **§ 64 WHG** — Bestellung Gewaesserschutzbeauftragter (Pflicht bei Einleitungen)
+- **§ 130 OWiG** — Ordnungswidrigkeitshaftung bei mangelnder Aufsicht (Leitungsperson)
 
-## Arbeitsweise
+## Leitentscheidungen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 23.09.2010 — 7 C 22.09, NVwZ 2011, 176 — § 53 BImSchG; ISB-Pflicht; Betreiber muss fachkundige Person bestellen; fehlendes Fachwissen rechtfertigt nicht Nichtbestellung; Organisationsverschulden.
+- OVG Muenster, Urt. v. 14.06.2018 — 8 A 1123/17 — § 59 KrWG; Abfallbeauftragter muss Zugang zu relevanten Unterlagen haben; fehlende Dokumentation fuehrt zu Beanstandung im behordlichen Audit.
+- BGH, Beschl. v. 27.04.2021 — KRB 12/20, NJW 2021, 2287 — § 130 OWiG; Leitungspflicht-Verletzung durch fehlende Compliance-Organisaiton; Bussgeld auch ohne direkten Vorsatz der Leitungsperson.
+- EuGH, Urt. v. 10.09.2015 — C-383/14 — Umweltbeauftragte-Verpflichtung nach EU-Industrieemissionsrichtlinie (IED 2010/75/EU); Mitgliedstaaten muessen effektiven Vollzug sicherstellen.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Jarass BImSchG §§ 53-58 Rn. 1-50 (Immissionsschutzbeauftragte)
+- Kloepfer Umweltrecht § 14 Rn. 250-300 (Compliance-Instrumente)
+- Rehbinder/Schink Grundzuege des Umweltrechts § 8 (Umwelt-Compliance und Inhouse-Management)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### A) Beauftragten-Bestellung pruefen
 
-## Typische Fehler vermeiden
+1. **ISB-Pflicht**: § 53 BImSchG i.V.m. § 1 5. BImSchV — Anlage nach Anlage 1 Nr. 1-10 der 5. BImSchV; Genehmigung nach § 4 BImSchG.
+2. **ABfallbeauftragter**: § 59 KrWG i.V.m. § 1 AbfBeauftrV — Anlagen mit bestimmten Abfallmengen oder Betreiber von Entsorgungsanlagen.
+3. **Gewaesserschutzbeauftragter**: § 64 WHG — Direkteinleiter in Gewaesser.
+4. **Bestellung formal**: Schriftlich, Mitteilung an Behoerde, Fachkunde-Nachweise; interne Richtlinie.
+5. **Freistellung OWiG**: § 130 OWiG — ohne funktionierende Compliance droht Verbandsbussgeld.
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### B) Schulungsplan erstellen
+
+1. **Bedarfsanalyse**: Welche Rechtsgebiete betreffen Anlagen (BImSchG, KrWG, WHG, TEHG, BNatSchG)?
+2. **Jede Zielgruppe definieren**: Geschaeftsfuehrung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
+3. **Schulungsplan**: Jährliche Pflichtschulung je Beauftragtenrolle; Ad-hoc-Schulung bei Gesetzesaenderung.
+4. **Dokumentation**: Teilnahmelisten, Schulungsunterlagen, Teilnehmerzertifikate (Pflicht fuer Fachkunde-Erhalt).
+5. **Audit-Vorbereitung**: Interne Revision vor behordlichem Audit; Mangelbeseitigung.
+
+### C) Jahres-Audit-Checkliste (Kurzform)
+
+| Pruefpunkt | Erfuellt? | Quelle | Bemerkung |
+|---|---|---|---|
+| ISB bestellt und fachkundig | JA/NEIN | § 53 BImSchG | Letzte Schulung: [DATUM] |
+| Abfallbeauftragter bestellt | JA/NEIN | § 59 KrWG | Letzte Schulung: [DATUM] |
+| Genehmigungen aktuell | JA/NEIN | § 4 BImSchG | Naechste Pruefung: [DATUM] |
+| TEHG-Abgabe geleistet | JA/NEIN | § 8 TEHG | Letzte Abgabe: [DATUM] |
+| Abfallnachweise vollstaendig | JA/NEIN | NachwV | Letzter Bericht: [DATUM] |
+| Emissionsberichte aktuell | JA/NEIN | § 5 TEHG | Letzter Bericht: [DATUM] |
+| Gewaesserschutz-Audit | JA/NEIN | § 64 WHG | Letzter Audit: [DATUM] |
+| Unterweisung Mitarbeiter | JA/NEIN | § 130 OWiG | Protokoll: [DATUM] |
+
+## Output-Template: Schulungsplan Umwelt-Compliance
+
+**Adressat:** Internes Compliance-Management / Fuehrung — Tonfall: strukturiert, praxisorientiert
+
+```
+JAHRESSCHULUNGSPLAN UMWELT-COMPLIANCE [JAHR]
+[UNTERNEHMEN], [ORT]
+
+1. PFLICHTSCHULUNGEN FUeR BEAUFTRAGTe
+
+Modul A: Immissionsschutzbeauftragter (ISB)
+Zielgruppe: [NAME ISB], Stellvertreter [NAME]
+Datum: [DATUM], [ORT/VIDEO]
+Themen: BImSchG §§ 53-58, aktuelle BVerwG-Entscheidungen,
+         TA-Luft/TA-Laerm-Novellen [JAHR], Meldepflichten.
+Dauer: 4 h (inkl. Uebungsfall)
+Dokumentation: Teilnahme-Bestaetigung, Update Fachkundenachweise
+
+Modul B: Abfallbeauftragter
+Zielgruppe: [NAME], [NAME]
+Datum: [DATUM]
+Themen: KrWG-Aenderungen, Nachweisverfahren elektronisch, AVV-Aktualisierung.
+Dauer: 3 h
+
+Modul C: Gewaesserschutzbeauftragter
+Zielgruppe: [NAME]
+Datum: [DATUM]
+Themen: WHG-Erlaubnisse, WRRL-Verpflichtungen, Emissionsgrenzen AbwV.
+Dauer: 2 h
+
+2. ALLGEMEINE MITARBEITER-UNTERWEISUNG
+
+Zielgruppe: Alle Mitarbeiter mit Umweltbezug (Produktion, Logistik, Lager)
+Datum: [DATUM]
+Themen: Abfalltrennung, Gefahrstoff-Lagerung, Stoerfall-Meldung, Ansprechpersonen.
+Dauer: 1 h + Quiz
+Protokoll-Pflicht: § 130 OWiG-Dokumentation
+
+3. AD-HOC SCHULUNGEN
+
+Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Bescheid,
+          Behoerden-Audit-Ankuendigung.
+Verantwortlich: [NAME COMPLIANCE-OFFICER]
+```
+
+## Vertiefung: CSRD-Berichtspflicht Umwelt-Compliance
+
+- CSRD-Unternehmen (ab 250 MA oder Boersennotierung) muessen Compliance-Systeme im Nachhaltigkeitsbericht (ESRS) offenlegen.
+- ESRS E1 (Klimawandel), E2 (Umweltverschmutzung): Angaben zu Compliance-Massnahmen, Zielen, Messzahlen.
+- Audit durch Wirtschaftspruefer (Reasonable Assurance ab 2028, Limited Assurance ab 2024).
+
+## Anschluss-Skills
+
+- `esg-greenwashing-csrd` — CSRD-Berichtspflicht Umwelt
+- `umweltrecht-bussgeld-sanktionen` — Reaktion auf Audit-Beanstandung
+- `umweltrecht-immissionsschutz-bimschg` — ISB-Pflichten im BImSchG-Kontext

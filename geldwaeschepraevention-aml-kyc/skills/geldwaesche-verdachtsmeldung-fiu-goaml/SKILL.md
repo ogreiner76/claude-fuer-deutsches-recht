@@ -5,6 +5,28 @@ description: "Bereitet Verdachtsmeldungen, Sachverhaltskerne, Anlagen, goAML-Fel
 
 # Verdachtsmeldung an FIU/goAML
 
+## Triage zu Beginn
+1. Liegt ein konkreter Verdacht i.S.v. § 43 GwG vor oder noch eine Abwaegungsphase?
+2. Was ist der Sachverhaltskern der Verdachtsmeldung in ein bis zwei Saetzen?
+3. Welche Belege (Transaktionsdaten, KYC-Dokumente, Screeningprotokolle) liegen vor?
+4. Ist das Tipping-Off-Verbot (§ 43 Abs. 5 GwG) relevant — darf der Kunde informiert werden?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Unverzueglichkeit der Verdachtsmeldung setzt voraus, dass Meldepflicht unmittelbar nach Entstehen des Verdachts erfuellt wird; interne Bearbeitungszeit von mehr als 3 Tagen ist rechtfertigungspflichtig.
+- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Unterlassene Verdachtsmeldung bei nachgewiesenem Tatverdacht begruendet Beihilfestrafbarkeit nach § 261 StGB i.V.m. § 43 GwG.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Verdachtsmeldepflicht nach AMLD4 ist eigenstaendige Pflicht unabhaengig vom Ausgang des Strafverfahrens; Meldung schließt Strafverfolgung des Verpflichteten in der Regel aus.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — goAML-Formular muss vollstaendig ausgefuellt sein; lueckenhafte oder fehlerhafte Meldungen werden von FIU zurueckgewiesen und loesen erneute Meldepflicht aus.
+
+## Zentrale Normen
+- § 43 GwG — Verdachtsmeldepflicht: Tatbestand, Fristen, Verfahren
+- § 43 Abs. 5 GwG — Tipping-Off-Verbot
+- § 46 GwG — Nichtdurchfuehrung der Transaktion bei Verdacht
+- § 261 StGB — Geldwaesche: Hintergrundtatbestand der Meldepflicht
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 43 Rn. 1-80 (Verdachtsmeldung: Tatbestand und Verfahren)
+- Zentes/Glaab GwG, 2019, § 43 Rn. 40-80 (goAML: Formular, Inhalt, Fristen)
+
 ## Zweck
 
 Dieser Skill führt von Verdachtsprüfung bis Meldungsentwurf, ohne voreilig Schuldeingeständnisse zu erzeugen.

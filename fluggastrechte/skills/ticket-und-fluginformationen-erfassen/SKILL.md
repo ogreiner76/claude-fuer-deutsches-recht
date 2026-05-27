@@ -83,6 +83,16 @@ belege:
 - Verbraucher-relevante öffentliche Datenquellen sind regelmäßig **zahlungspflichtig oder nicht autoritativ** (FlightAware FlightRadar24 etc.); im Streit beweisbedeutsam ist die **Eingangsbestätigung der Airline** und die offizielle **Verspätungs-/Annullierungsmeldung** der Airline.
 - Bei strittiger Ist-Zeit: Empfehlung **eigenhändige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als späterer Beweis.
 
+## Leitentscheidungen Informationserfassung
+
+- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — Vollstaendigkeit der Fluginformationen; Gericht prueft alle relevanten Umstaende; Beweislast liegt bei Airline fuer aussergewoehnliche Umstaende.
+- BGH, Urt. v. 30.04.2019 — X ZR 75/18, NJW 2019, 2158 — Dokumentationspflicht des Passagiers; Buchungsbestaetigung und PNR genuegen; keine weiteren Nachweise erforderlich.
+- EuGH, Urt. v. 04.05.2017 — C-315/15 (Pepicova), NJW 2017, 1954 — Buchungsnachweis; gescanntes Ticket gilt als Beweis; Airline darf nicht aus formalen Gruenden Anspruch verweigern.
+
+## Kommentarliteratur
+
+- Staudinger/Arnold VO 261/2004 Art. 3 Rn. 1-30 (Anwendungsbereich, Erfassung)
+
 ## Ausgabe
 
 - `fallakte.yaml` mit allen Stammdaten.

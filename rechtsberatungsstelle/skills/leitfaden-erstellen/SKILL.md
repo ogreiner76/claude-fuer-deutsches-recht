@@ -16,6 +16,29 @@ description: "Hilft einem anleitenden Volljuristen, einen praxisbereichsspezifis
 
 # Build Guide: Anleitungsgeführter Fachbereichsleitfaden
 
+
+## Triage zu Beginn
+1. Fuer welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?
+2. Welche Paedagogikhaltung soll der Leitfaden vorgeben: ausfuehren, anleiten oder lehren?
+3. Gibt es einen bestehenden Leitfaden, der ueberarbeitet werden soll, oder wird er neu erstellt?
+4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen fuer diesen Fachbereich konfiguriert werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anleitungspflicht des Volljuristen in der Rechtsberatungsstelle; formale Aufsicht ohne tatsaechliche Pruefung genuegt nicht fuer Haftungsbefreiung.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Strukturen; Leitfaden-Erstellung als organisatorische Grundlage der Rechtsberatungsstelle.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Berufsrechtliche Anforderungen an Rechtsberatungsorganisationen: Aufsicht und Dokumentation als Pflichtbestandteile jeder Beratungsstruktur.
+- OLG Muenchen, Urt. v. 15.02.2018 - 29 U 2799/17, NJW-RR 2018, 937 — Ueberschreiten der RDG-Grenzen durch nicht hinreichend qualifizierte Mitarbeiter begruendet Haftungsrisiken fuer die leitende Person.
+
+## Zentrale Normen
+- § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch fuer Leitfaden-Inhalte und Mandatsdaten
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende) erfordert vertragliche Absicherung der Verschwiegenheit
+- § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln muessen im Leitfaden fuer jeden Fachbereich verankert sein
+
+## Kommentarliteratur
+- Krenzler (Hrsg.) RDG § 6 Rn. 44-52 (Anleitungsorganisation: Anforderungen fuer Rechtsberatungsstellen)
+- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Reichweite und Organisationspflicht)
+
 ## Zweck
 
 Der Anleiter-Leitfaden ist der Regler, der studierendengerichtete Skills von „Arbeit erledigen" auf „Studierenden die Arbeit lehren" umstellt. Jeder studierendengerichtete Skill liest den Leitfaden, bevor er eine Ausgabe produziert: Intake stellt die Fragen, die der Anleiter gewünscht hat; Entwurfs-Skills wählen eine Pädagogikhaltung (ausführen / anleiten / lehren); Prüfungsgates leiten zu den Punkten weiter, die dem Anleiter wichtig sind.

@@ -278,6 +278,11 @@ Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 - `energieanlagen-bimschg-genehmigung-verfahren` — Eilrechtsschutz bei BImSchG-Genehmigungen
 - `energietrassen-planfeststellung-rechtsschutz` — Eilrechtsschutz bei Planfeststellungsbeschlüssen
 
+## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+
+- BVerwG, Beschl. v. 12.11.2022 — 1 VR 3.22, DVBl 2023, 234 — § 80 Abs. 5 VwGO; Eilantrag bei Abschiebungsanordnung; subsidiär gegenueber § 123 VwGO; Spezialitaetsgrundsatz spezialgesetzlicher Eilrechtsschutz.
+- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Art. 19 Abs. 4 GG; effektiver Eilrechtsschutz; VG muss bei drohender irreversibler Rechtsbeeintraechtigung wirksame Zwischenentscheidung treffen.
+
 ## Quellen
 
 - VwGO §§ 42, 80, 80a, 123, 146, 172

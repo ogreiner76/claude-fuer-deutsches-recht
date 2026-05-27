@@ -5,6 +5,29 @@ description: Standardvorlagen fuer den Mandantenbrief der Kanzlei. Aufbau Anrede
 
 # Mandantenbrief-Vorlagen
 
+
+## Triage zu Beginn
+1. Welcher Brieftyp wird benoetigt: Mandatseröffnung, Zwischenbericht, Beratungsergebnis, Abschlussbericht oder Schlussrechnung?
+2. Ist der Mandant Verbraucher (§ 13 BGB) oder Unternehmer (§ 14 BGB) — wegen Sprache und Belehrungspflichten?
+3. Muss eine Kostenbelehrung (§ 49b Abs. 5 BRAO) oder ein Datenschutzhinweis (Art. 13 DSGVO) beigefuegt werden?
+4. Soll das Schreiben postalisch, per E-Mail oder ueber beA versandt werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwaltliche Aufklaerungs- und Hinweispflicht gegenueber Mandanten: alle wesentlichen Risiken und Kosten muessen schriftlich mitgeteilt werden.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kostenbelehrung nach § 49b Abs. 5 BRAO: Mandant muss ueber voraussichtliche Gesamtkosten informiert werden; fehlende Belehrung kann Honoraranspruch gefaehrden.
+- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Zwischenbericht als Pflicht: bei langer Mandatsdauer muss Mandant regelmaessig ueber den Stand informiert werden.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzinformation nach Art. 13 DSGVO: erstmalige Datenerhebung beim Mandanten erfordert Transparenzpflicht-Erfullung.
+
+## Zentrale Normen
+- § 49b Abs. 5 BRAO — Pflicht zur Kostenbelehrung bei Auftragsannahme
+- Art. 13 DSGVO — Informationspflicht bei Ersterhebung personenbezogener Daten (Mandantenaufnahme)
+- § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch fuer Inhalte im Mandantenbrief
+- § 2 BORA — Gewissenhaftigkeit: verstaendliche und klare Kommunikation mit dem Mandanten
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 49b Rn. 80-100 (Kostenbelehrung: Inhalt und Konsequenzen)
+- Kühling/Buchner DSGVO Art. 13 Rn. 1-30 (Informationspflicht bei Mandantsaufnahme)
+
 ## Allgemeine Aufbauregel
 
 ```

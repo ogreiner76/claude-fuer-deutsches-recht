@@ -149,6 +149,19 @@ Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 - Bei Vereinen oft NGO-Finanzierung
 - VKH-Antrag möglich
 
+## Aktuelle BVerwG-Leitentscheidungen
+
+- BVerwG, Urt. v. 28.04.2022 — 7 A 2.21, BVerwGE 175, 227 — UmwRG § 4 Abs. 1a; UVP-Verfahrensfehler fuehrt ohne Kausalitaetspruefung zur Aufhebung der Genehmigung.
+- BVerwG, Urt. v. 14.04.2022 — 7 C 4.21, NVwZ 2022, 1403 — § 5 Abs. 1 Nr. 1 BImSchG Drittschutz; Nachbar kann Genehmigung anfechten bei moeglicher Verletzung Schutzanspruch; Schallpegel und Emissionen als Angriffspunkte.
+- BVerwG, Urt. v. 26.09.2019 — 7 C 5.18, DVBl 2020, 176 — Verbandsklage UmwRG § 2; Anerkennung Umweltvereinigung Voraussetzung; Bezug Schutzzweck der Vereinigung zum Umweltgut muss bestehen.
+- EuGH, Urt. v. 15.10.2015 — C-137/14 (Kommission/Deutschland), NVwZ 2015, 1665 — Praeklusion UmwRG § 5 unionsrechtswidrig; gerichtlicher Zugang Buerger muss bei UVP-pflichtigen Vorhaben erhalten bleiben.
+
+## Kommentarliteratur
+
+- Jarass BImSchG § 5 Rn. 1-100 (Grundpflichten, Drittschutz)
+- Schoch/Schneider VwGO § 42 Rn. 150-200 (Klagebefugnis Dritter, Schutznorm)
+- Reidt/Schiller UmwRG §§ 1-5 (Anwendungsbereich, Verbandsklage, Praeklusion)
+
 ## Anschluss
 
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
