@@ -100,3 +100,43 @@
 | BGH | IX ZR 145/20 | NOT_FOUND |  |  |  |
 
 _(Vollstaendige Liste: 976 Problemfaelle in audit_problems.json)_
+---
+
+## Welle 3 — Reparatur abgeschlossen (Commit 8b7d9b88, Tag v14.2.5)
+
+### Statistik
+
+- **Reparierte Skills:** 320
+- **Bearbeitete AZ-Probleme:** 528 (= alle in dieser Welle adressierten Befunde)
+- **Geänderte Dateien:** 321 SKILL.md
+- **Subagenten-Aufteilung:** 88 spezialisierte Reparatur-Tasks
+  - 8 Big-Solo-Tasks (≥5 Probleme je Skill)
+  - 22 Medium-Solo-Tasks (3-4 Probleme je Skill)
+  - 58 Bundles à je 5 Skills (≤2 Probleme je Skill)
+
+### Korrekturmuster (qualitative Verteilung aus Subagenten-Berichten)
+
+- **Ersatzlose Löschung** war häufigster Pfad — bei NOT_FOUND-AZ ohne sichere Ersatzentscheidung
+- **Ersatz durch verifizierte Leitentscheidung** mit identischem Tenor — wo dejure.org einen sauberen Treffer lieferte
+- **Beschreibungskorrektur bei vorhandenem AZ** — wenn AZ existiert, aber Skill-Text das falsche Urteil beschrieb (häufig bei WRONG_TOPIC mit vertauschter NJW-Fundstelle)
+- **Senatswechsel-Fälle** — z.B. D&O-Versicherungsfragen aus dem VI. (Deliktssenat) in den IV. Zivilsenat verschoben
+- **Cross-Reference-Fehler** — NJW-Fundstelle gehörte zu anderem AZ; korrigiert auf echte Fundstelle
+
+### Häufig betroffene Senate (aus den Berichten)
+
+- BGH VI ZR / VII ZR / VIII ZR / IX ZR — überproportional viele NOT_FOUND
+- BAG 6/7/8 AZR — mehrfach falsche Senatszuordnung
+- BSG B 12 KR / B 12 R — vertauschte Themen Statusfeststellung vs. Phantomlohn
+- EuGH-Aktenzeichen meist real, aber WRONG_TOPIC bei Themenzuordnung
+
+### Qualitätsicherung
+
+- `node scripts/validate-plugin-structure.mjs` → `validate-plugin-structure OK`
+- Komma-Sweep in `description` (`\d\s*,\s*\d`) → 0 Treffer
+- Cyrillic-Sweep `[\x{0400}-\x{04FF}]` → 0 Treffer
+- Frontmatter aller 320 Skills unverändert
+- Jeder Skill trägt Audit-Hinweis-Block (HTML-Kommentar oder `## Audit-Hinweis (27.05.2026)`)
+
+### Verbleibende Befunde
+
+Welle 3 hat die 528 vorgesehenen AZ-Probleme abgearbeitet. Die in `audit_problems_2026-05-27.json` enthaltenen 976 Gesamt-Problemfälle umfassen darüber hinaus weitere Befunde mit niedrigerer Schwere bzw. solche aus Plugins, die erst in späterer Welle 4 angefasst werden — namentlich die 156 neuen Selbstvertreter-Skills (`selbstvertreter-amtsgericht`, `selbstvertreter-sozialgericht`) aus PR #115.
