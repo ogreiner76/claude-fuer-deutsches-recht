@@ -32,7 +32,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Überblick
 
-Der KI-VO-Prüfer ist ein interaktives Mechanik-Plugin für die vollständige Prüfung von KI-Systemen nach der Verordnung (EU) 2024/1689. Er führt den Nutzer in einem sequenziellen Entscheidungsbaum durch alle relevanten Fragen:
+Der KI-VO-Prüfer ist ein interaktives Mechanik-Plugin für die vollständige Prüfung von KI-Systemen nach der Verordnung (EU) 2024/1689. Er führt den Nutzer in einem sequenziellen Entscheidungsbaum durch alle relevanten Fragen und dokumentiert besonders Zweckbestimmung, tatsächliche Nutzung, GPAI-/Chatbot-Abgrenzung und Hochrisiko-Einordnung nach Art. 6 Abs. 2 i.V.m. Anhang III:
 
 1. Liegt ein KI-System vor? (Art. 3 Nr. 1 KI-VO)
 2. Ist der territoriale Anwendungsbereich eröffnet? (Art. 2 KI-VO)
@@ -53,7 +53,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 ---
 
-## Skills (44 Stück)
+## Skills (47 Stück)
 
 ### Einstieg
 
@@ -67,8 +67,8 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 ### A. KI-System-Definition
 
-- `liegt-ki-system-vor-art-3-nr-1` — Kernskill: Definition KI-System
-- `abgrenzung-konventionelle-software-vs-ki-system` — Grenzfälle
+- `liegt-ki-system-vor-art-3-nr-1` — Kernskill: Definition KI-System mit sieben Elementen, Automation/Autonomie/Inferenz und dokumentierbarem Art.-3-Vermerk
+- `abgrenzung-konventionelle-software-vs-ki-system` — Grenzfälle: klassische Automation, Statistik, Expertensystem, LLM/API-Komponente
 - `falsche-wiese-warnung-ki-vo` — Verwechslung mit DSGVO, MDR, Produkthaftung
 - `mandatsabbruch-empfehlung-komplexe-faelle` — Fachanwalt-Bedarf
 
@@ -91,9 +91,9 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - `risikoklassen-uebersicht-und-triage` — Gesamtüberblick
 - `verbotene-praktiken-art-5` — Alle acht Verbote (Entscheidungsbaum)
 - `hochrisiko-art-6-abs-1-sicherheitsbauteil` — Pfad 1: Anhang I
-- `hochrisiko-art-6-abs-2-anhang-iii` — Pfad 2: Anhang III (alle acht Bereiche)
-- `rueckausnahme-art-6-abs-3` — Vier Fallgruppen + Profiling-Sicherungsklausel
-- `hochrisiko-zuordnung-art-6-und-anhang-i-iii` — Übersicht
+- `hochrisiko-art-6-abs-2-anhang-iii` — Pfad 2: Anhang III (alle acht Bereiche samt Untertatbeständen, Zweckbestimmung, Chatbot/GPAI und Mitarbeitenden-Fehlgebrauch)
+- `rueckausnahme-art-6-abs-3` — Vier Fallgruppen + Profiling-Sicherungsklausel + Art.-6-Abs.-4-Dokumentation
+- `hochrisiko-zuordnung-art-6-und-anhang-i-iii` — Übersicht mit Zweckbestimmung statt Tool-Label
 - `begrenztes-risiko-art-50-transparenzpflichten` — Chatbot, Deepfake, KI-Text
 
 ### E. Hochrisiko-Pflichten Anbieter
@@ -116,10 +116,10 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 ### G. GPAI-Modelle
 
-- `gpai-vorliegen-art-3-nr-63` — Definition und Abgrenzung
+- `gpai-vorliegen-art-3-nr-63` — Definition und Abgrenzung: allgemeiner Chatbot/GPAI ist nicht automatisch Hochrisiko
 - `gpai-modelle-art-51-bis-55` — Anbieterpflichten
 - `gpai-systemisches-risiko-schwelle-10e25-flop` — Schwellenwert und Zusatzpflichten
-- `code-of-practice-und-harmonisierte-normen`
+- `code-of-practice-und-harmonisierte-normen` — harmonisierte Normen, gemeinsame Spezifikationen, GPAI Code of Practice und ISO/IEC-Standards ohne falsche Vermutungswirkung
 
 ### H. Governance und Sanktionen
 
@@ -143,6 +143,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 - **Keine Rechtsberatung.** Dieses Plugin liefert mechanische Prüfungen, keine anwaltliche Beratung.
 - **Dynamisches Rechtsgebiet.** Die KI-VO wird durch Leitlinien der Kommission, harmonisierte Normen und Durchführungsrechtsakte laufend konkretisiert.
+- **Zweckbestimmung entscheidet.** Ein allgemeiner Chatbot oder ein GPAI-System ist nicht automatisch Hochrisiko; der konkrete Einsatz in Anhang-III-Kontexten kann die Einstufung aber auslösen.
 - **Übergangsfristen beachten.** Nicht alle Pflichten sind bereits anwendbar — siehe `zeitlicher-geltungsbereich-uebergangsfristen`.
 - **Fachanwalt bei Hochrisiko.** Bei verbotenen Praktiken, Hochrisiko-KI und GPAI-Modellen mit systemischem Risiko ist ein Fachanwalt für IT-Recht hinzuzuziehen.
 
