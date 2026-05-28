@@ -1,3 +1,11 @@
+# v20.0.0 — Release 20 Gesamtstand
+
+- Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `20.0.0` gezogen.
+- `README.md` und `testakten/README.md` auf Release `v20.0.0` aktualisiert; Stand bleibt 101 Plugins, 2332 Skills und 52 Testakten.
+- Inhaltlicher Stand aus `v19.1.0` bleibt enthalten: BGB-AT-Prüfer mit qES-/beA-/Formfiktion-Workflow, Arbeitszeugnis-Testakte, Legistik-Ausbau und die bisherigen Qualitätsbereinigungen.
+
+---
+
 # v19.1.0 — BGB AT, Arbeitszeugnis-Testakte und Legistik-Ausbau
 
 - Neues Plugin `bgb-at-pruefer` mit 53 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
