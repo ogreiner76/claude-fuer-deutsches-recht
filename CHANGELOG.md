@@ -1,3 +1,19 @@
+# v24.0.0 — Einheitliche Versionsbasis und vollständige Codex-Integration
+
+- Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` einheitlich auf Version `24.0.0` gezogen. Damit sind erstmals seit mehreren Releases sämtliche Manifeste, der Marketplace-Top-Level und alle Marketplace-Plugin-Einträge auf identischer Versionsnummer.
+- Sämtliche Codex-Pull-Requests (Selbstvertreter Amtsgericht und Sozialgericht, Lobbyregister Bundestag, Wertgrenzen 2026 nach Justizstandort-Stärkungsgesetz, 150 Steuerberater-Skills BWA/Lohn/DBA) sind in `main` integriert und im Release enthalten.
+- YAML-Frontmatter-Hygiene aus v23.0.1 vollständig übernommen: 47 SKILL.md-Frontmatter und ein verbliebener Plugin-Root-CLAUDE.md-Bug aus dem ASCII-Quote-Sweep sind bereinigt; alle Skills passieren den offiziellen `claude plugin validate --strict`.
+- Validatoren erweitert: `scripts/validate-yaml-frontmatter.py` (echter pyyaml-Parse-Check inklusive Komma-Zahl-Sequenzen) und `scripts/validate-with-claude-cli.sh` (Wrapper für offizielles `claude plugin validate --strict`).
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `python3 scripts/validate-yaml-frontmatter.py`
+- `./scripts/validate-with-claude-cli.sh` (offizielle Anthropic CLI v2.1.153)
+- `git diff --check`
+
+---
+
 # v23.0.1 — Download-Abdeckung und Quellenhygiene
 
 - Alle 102 Plugin-READMEs geprüft: jedes Plugin nennt sein Plugin-ZIP aus dem `latest`-Release.
