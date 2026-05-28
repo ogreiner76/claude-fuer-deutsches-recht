@@ -164,6 +164,18 @@ Zum Ausprobieren liegen drei fiktive Akten unter `testakten/`:
 - [lobbyregister-public-affairs-agentur-wasserstoff](../testakten/lobbyregister-public-affairs-agentur-wasserstoff) - Agenturfall mit Auftraggebern, Unterauftrag, Stellungnahmen und Quartalsupload
 - [lobbyregister-buergerinitiative-waldmoor](../testakten/lobbyregister-buergerinitiative-waldmoor) - Buergerinitiative/Netzwerk mit Ausnahmepruefung, Petition, Anhoerung und freiwilliger Registrierung
 
-## Download
+## ⬇️ Direkt-Download (einzelnes ZIP)
 
-Das Plugin-ZIP wird mit dem naechsten Release als `lobbyregister-bundestag.zip` bereitgestellt.
+| Plugin | Direkt-Download |
+| --- | --- |
+| Lobbyregister Bundestag (`lobbyregister-bundestag`, dieses Plugin) | [lobbyregister-bundestag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) |
+
+Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfuegbar.
+
+### Installation in Claude Code
+
+1. ZIP herunterladen (Link oben).
+2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei waehlen.
+3. Fertig. Skills sind sofort verfuegbar.
+
+> **Hinweis:** Fuer den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
