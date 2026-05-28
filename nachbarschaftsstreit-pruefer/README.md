@@ -47,6 +47,8 @@ Der Einstieg fragt in kurzer Zeit ab: Grundstücke, Grenze, Bundesland, Streitge
 
 Die Testakte [`nachbarschaftsstreit-horrorfall-rosengarten`](../testakten/nachbarschaftsstreit-horrorfall-rosengarten/) enthält einen bewusst überladenen Fall: Carport-Überbau, Wurzel- und Astüberhang, Baugrube, abgerutschte Stützmauer, Grillrauch, Kamera, Notwegbehauptung, Zaunstreit, Baumschutzsatzung, Bauamt, Ordnungsamt, Sachverständigenhinweise und eine Gesprächsdynamik, bei der jeder Satz zu viel schon wieder ein neues Problem erzeugt.
 
+Direkt-Download der Testakte: [testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip)
+
 ## Quellenstand
 
 Stand: 05/2026. Kernnormen: BGB §§ 903, 906-923, 823, 862, 1004; Landesnachbarrechtsgesetze und kommunale Satzungen nach Bundesland/Gemeinde.
