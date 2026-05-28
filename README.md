@@ -25,7 +25,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 |---|---|
 | **Plugins** | 101 |
 | **Skills (SKILL.md)** | 2331 — [Gesamtuebersicht](./SKILLS.md) |
-| **Testakten** | 51 |
+| **Testakten** | 52 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Letzter Release** | `v19.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -368,7 +368,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Aktueller Stand: **101 Plugins, 2331 Skills, 51 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Lobbyregister-Compliance mit Bundestags-Open-Data/API-Monitoring, Selbstvertretung vor Amts- und Sozialgericht, Steuerberater-Werkzeuge für BWA/Lohn/DBA, Markenrecht für Luxus-Fashion mit USPTO/Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik, BVG-/ÖPNV-Abschleppkosten nach § 23 MobG BE sowie generische Mechanik-Prüfer für BGB AT, Subsumtion, Bereicherungs-/Anfechtungsrecht inklusive KI-Anfechtungsscreening und die KI-VO (Verordnung (EU) 2024/1689). Jedes Plugin hat einen `allgemein`-Einstiegsskill mit Schnelltriage, Workflow und Routing zu den plugin-eigenen Spezial-Skills.
+Aktueller Stand: **101 Plugins, 2331 Skills, 52 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Lobbyregister-Compliance mit Bundestags-Open-Data/API-Monitoring, Selbstvertretung vor Amts- und Sozialgericht, Steuerberater-Werkzeuge für BWA/Lohn/DBA, Markenrecht für Luxus-Fashion mit USPTO/Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik, BVG-/ÖPNV-Abschleppkosten nach § 23 MobG BE sowie generische Mechanik-Prüfer für BGB AT, Subsumtion, Bereicherungs-/Anfechtungsrecht inklusive KI-Anfechtungsscreening und die KI-VO (Verordnung (EU) 2024/1689). Jedes Plugin hat einen `allgemein`-Einstiegsskill mit Schnelltriage, Workflow und Routing zu den plugin-eigenen Spezial-Skills.
 
 ### Materielle Rechtsgebiete
 
