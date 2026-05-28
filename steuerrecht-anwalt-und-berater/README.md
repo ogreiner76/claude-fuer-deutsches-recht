@@ -6,6 +6,17 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen bzw. steuerlichen Prüfung — zitiert, mit Prüfhinweisen versehen. Das Plugin erledigt die Recherchearbeit. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt, Fachanwalt für Steuerrecht oder Steuerberater.** Folgenreiche Handlungen — Einreichen, Versenden, Vollziehen — erfordern ausdrückliche Freigabe.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |

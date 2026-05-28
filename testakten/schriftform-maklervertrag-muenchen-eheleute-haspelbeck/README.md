@@ -1,5 +1,14 @@
 # Testakte: Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck` (diese Akte) | [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Adressen, Aktenzeichen, IBANs, Telefonnummern, Gerichtsurteile
 > und sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
 > Testmaterial für das Plugin `schriftform-und-textform-bgb`. Jede Ähnlichkeit mit realen

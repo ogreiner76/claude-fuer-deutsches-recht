@@ -1,5 +1,14 @@
 # Testakte Lobbyregister: Spreebogen Regulatory GmbH / Wasserstoffpaket
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-lobbyregister-public-affairs-agentur-wasserstoff` (diese Akte) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Agenturakte fuer das Plugin `lobbyregister-bundestag`. Die Akte simuliert eine Public-Affairs-Agentur mit mehreren Auftraggebern und Unterauftragnehmern.
 
 ## Sachverhalt

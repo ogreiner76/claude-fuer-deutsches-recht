@@ -1,5 +1,14 @@
 # Testakte Großkanzlei Corporate/M&A Datenraum
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-grosskanzlei-corporate-ma-datenraum` (diese Akte) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für `grosskanzlei-corporate-ma`. Alle Daten, Personen, Unternehmen und Aktenzeichen sind frei erfunden.
 
 **Startprompt:**

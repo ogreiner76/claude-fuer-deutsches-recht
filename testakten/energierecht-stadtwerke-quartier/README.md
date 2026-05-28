@@ -1,5 +1,14 @@
 # Testakte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-energierecht-stadtwerke-quartier` (diese Akte) | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Aktenzeichen:** SWK/ENR/2024-047  
 **Mandant:** Stadtwerke Klotzkette AG, Bahnhofstraße 12, 59348 Lüdinghausen  
 **Bearbeitung:** Kanzlei Bernauer & Partnerinnen, Energierechtliche Beratung  

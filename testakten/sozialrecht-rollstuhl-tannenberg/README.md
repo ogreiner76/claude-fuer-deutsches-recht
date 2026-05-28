@@ -1,5 +1,14 @@
 # Testakte: Familie Tannenberg - vier Sozialrechtsverfahren parallel
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-sozialrecht-rollstuhl-tannenberg` (diese Akte) | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis:** Diese Akte ist frei erfunden und dient ausschließlich der Schulung
 > mit dem Plugin `sozialrecht-kanzlei`. Personen, Ärzte, Versicherungsnummern,
 > Aktenzeichen, Adressen, Befunde - alles fiktiv. Keine reale Aehnlichkeit

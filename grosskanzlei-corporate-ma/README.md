@@ -6,6 +6,17 @@ Dies ist das freistehende Großkanzlei-Corporate/M&A-Plugin für den gesamten Tr
 
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Direkt-Download
 
 | Plugin | Direkt-Download |

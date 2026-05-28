@@ -2,6 +2,18 @@
 
 Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **bebauungsplan augsburg bahnhofsareal** | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
+| **bvg widerspruchsstelle abschleppen mobg** | [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |

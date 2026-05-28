@@ -1,5 +1,14 @@
 # Testakte Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen` (diese Akte) | [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für eine Mittelstadt (Stadt Friedrichshöfe, ca. 220.000 Einwohner) mit komplexem Verkehrsinfrastrukturvorhaben: Verlängerung der Straßenbahnlinie 7 (Westast), Einrichtung von Ladezonen für Wirtschaftsverkehr und E-Mobilität, Anpassung der Parkraumbewirtschaftung sowie verkehrsberuhigende Maßnahmen zur Schulwegsicherheit.
 
 ---

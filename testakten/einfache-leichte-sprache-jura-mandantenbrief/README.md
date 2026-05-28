@@ -1,5 +1,14 @@
 # Testakte: Juristischer Mandantenbrief in Einfacher und Leichter Sprache
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-einfache-leichte-sprache-jura-mandantenbrief` (diese Akte) | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Diese Lernakte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte Sprachstufen übertragen wird — **Einfache Sprache** (DIN SPEC 33429) und **Leichte Sprache** (Regelwerk Netzwerk Leichte Sprache). Zielgruppe ist eine fiktive Mandantin mit kognitiven Einschränkungen, die unter rechtlicher Betreuung steht.
 
 ---

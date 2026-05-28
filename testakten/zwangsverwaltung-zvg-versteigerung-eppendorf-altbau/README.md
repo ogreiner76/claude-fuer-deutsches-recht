@@ -1,5 +1,14 @@
 # Testakte: ZVG-Versteigerung Eppendorf-Altbau
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` (diese Akte) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vom Anordnungsbeschluss bis zum Zuschlag und Teilungsplan. Der Fall spielt in Hamburg-Eppendorf und umfasst eine vermietete Eigentumswohnung in einem Gründerzeit-Altbau. Die Akte deckt die gesamte Verfahrensstrecke ab: ZVG-Portal-Recherche, Grundbuchanalyse, Verkehrswertgutachten, Terminvorbereitung, Biettermin, Zuschlagsbeschluss und Erlösverteilung.
 
 ---

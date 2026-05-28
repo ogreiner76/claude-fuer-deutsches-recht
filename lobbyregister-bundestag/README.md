@@ -4,6 +4,19 @@ Superplugin fuer Meldungen, Registrierung, Aktualisierung, oeffentliche API-Abfr
 
 Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugins, keine Portal-API und keine Kanzleisoftware. Wenn kein Zugang zum Lobbyregisterportal, DMS, CRM, Public-Affairs-Tool oder Finanzsystem vorhanden ist, arbeitet es mit manuellen Uploads oder einem ausdruecklich markierten Simulationsmodus.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **lobbyregister dublin bank frankfurt branch** | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
+| **lobbyregister public affairs agentur wasserstoff** | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+| **lobbyregister buergerinitiative waldmoor** | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Schnellstart
 
 1. Plugin aktivieren oder ZIP aus dem Release installieren.

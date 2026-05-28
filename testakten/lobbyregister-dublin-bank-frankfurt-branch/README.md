@@ -1,5 +1,14 @@
 # Testakte Lobbyregister: Emerald Liffey Bank plc / Zweigniederlassung Frankfurt
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-lobbyregister-dublin-bank-frankfurt-branch` (diese Akte) | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte fuer das Plugin `lobbyregister-bundestag`. Sie testet die schwierige Eintragungseinheit bei einer auslaendischen Bank mit unselbststaendiger deutscher Zweigniederlassung.
 
 ## Sachverhalt

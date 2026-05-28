@@ -1,5 +1,14 @@
 # Testakte: BVG-Widerspruchsstelle — Abschleppen nach MobG BE
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-bvg-widerspruchsstelle-abschleppen-mobg` (diese Akte) | [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Sechs eigenständige Vorgänge auf dem Schreibtisch der Widerspruchsstelle der Berliner Verkehrsbetriebe (BVG AöR, Rechtsabteilung, Holzmarktstraße 15-17, 10179 Berlin). Alle Vorgänge betreffen Gebührenbescheide nach § 23 Abs. 2 und 5 Mobilitätsgesetz Berlin (MobG BE) wegen Umsetzung von Fahrzeugen aus dem Bereich von Bushaltestellen, Sonderspuren oder mobiler ÖPNV-Beschilderung. Gegen jeden Gebührenbescheid liegt ein Widerspruch des Halters oder Fahrers vor.
 
 Diese Akte enthält bewusst **keine Musterlösungen**. Die Widerspruchsbescheide sollen mit dem Skill `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` (Plugin `fachanwalt-verwaltungsrecht`) selbst erarbeitet werden.

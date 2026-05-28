@@ -1,5 +1,14 @@
 # Testakte Lobbyregister: Buergerinitiative Waldmoor 2030
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-lobbyregister-buergerinitiative-waldmoor` (diese Akte) | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte fuer das Plugin `lobbyregister-bundestag`. Die Akte testet eine Buergerinitiative, die zuerst lokal/petitionsbezogen arbeitet und dann bundespolitische Interessenvertretung betreibt.
 
 ## Sachverhalt

@@ -1,5 +1,14 @@
 # Testakte: Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen` (diese Akte) | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktive Lehrakte** | Maschinenbau | Exportkontrolle | Dual-Use | Sanktionsrecht | Zollrecht | CBAM | Verbrauchsteuer | AML/KYC
 
 ---

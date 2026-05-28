@@ -1,5 +1,14 @@
 # Schulungsakte „Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-gesellschaftsgruender-streit-roeschen-tech` (diese Akte) | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 ## Szenario
 
 Die **Roeschen Tech GmbH** (fiktive Gesellschaft, alle Personen frei erfunden) wird im März 2024 von **drei Gründern** mit Sitz in Berlin gegründet. Stammkapital 30.000 EUR. Geschäftsmodell: KI-gestützte Software-Entwicklung.

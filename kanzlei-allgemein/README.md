@@ -8,6 +8,17 @@ Das Plugin deckt: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Ein
 
 Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanzlei-Workflow: vom ersten Eingang bis zum versandfertigen Ergebnis.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Direkt-Download
 
 | Plugin | Direkt-Download |

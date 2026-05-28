@@ -1,5 +1,14 @@
 # Testakte: Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-europarecht-kompass-beihilfe-richtlinie` (diese Akte) | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte einer deutschen Kommune (Stadt Lindenhafen, Niedersachsen), die ihrer kommunalen Fernwärmetochter einen Investitionszuschuss von 14 Mio. Euro für die Klimawende gewährt – mit anschließender Wettbewerberbeschwerde bei der EU-Kommission und Vorabentscheidungsersuchen an den EuGH. Alle Namen, Zahlen, Aktenzeichen und Adressen sind frei erfunden.
 
 ---

@@ -1,5 +1,14 @@
 # Testakte: Strafbefehl – Ladendiebstahl und Fahrerflucht
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte` (diese Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktive Musterakte für die KI-gestützte Strafrechtsverteidigung im deutschen Strafbefehlsverfahren. Alle Personen, Gerichte, Aktenzeichen, Adressen und Geldbeträge sind frei erfunden.**
 
 ---

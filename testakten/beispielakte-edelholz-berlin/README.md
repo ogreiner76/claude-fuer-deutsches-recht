@@ -1,5 +1,14 @@
 # Beispielakte: Edelholz Manufaktur Berlin GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-beispielakte-edelholz-berlin` (diese Akte) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Fiktion. Alle Personen, Adressen, Steuernummern, IBANs sind frei erfunden.**
 > Zweck: realistisches Demonstrationsmaterial für den Skill `liquiditaetsvorschau-3-6-12-monate`
 > und `bwa-sus-bilanz-pruefung`.

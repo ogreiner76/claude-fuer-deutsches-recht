@@ -1,5 +1,14 @@
 # Testakte Common-Law-Kompass: Crossborder Supply & License Agreement
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-common-law-kompass-crossborder-contract` (diese Akte) | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte über die Verhandlung eines grenzüberschreitenden Liefer- und Lizenzvertrags zwischen einem deutschen Mittelständler (RheinMain Sensors GmbH, Hamburg) und einem US/UK-Konzern (Blue Harbor Systems Inc. / Blue Harbor (UK) Ltd.). Der Fall illustriert die typischen Rechtsprobleme, Terminologiefallen und Verhandlungstaktiken im deutsch-amerikanisch-britischen Vertragsrecht.
 
 ---

@@ -1,5 +1,14 @@
 # Testakte: Kündigungsschutzklage Weber ./. TechLogix GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-kuendigungsschutzklage-weber-techlogix` (diese Akte) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration der `kueschk-*`-Skills im Plugin `arbeitsrecht`.  
 Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26** (fiktiv)
 

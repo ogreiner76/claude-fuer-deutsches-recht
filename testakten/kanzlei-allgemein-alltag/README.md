@@ -1,5 +1,14 @@
 # Testakte Kanzlei-Allgemein-Plugin
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-kanzlei-allgemein-alltag` (diese Akte) | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktiver Kanzlei-Alltag der **Kanzlei Lindenstraße Rechtsanwältin Jana Reuter**, Berlin. Die Akte ist zum Durchspielen von **Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein`) gebaut: edles Claude-Cowork-Dashboard, Nachtblau/Silber/Orange-Look, Kommandocenter, freundlicher Copilot, Integrationscheck, Simulationsmodus, Mandatsannahme/GwG, KYC, PEP, Kontoblatt, Schreib-Canvas, Klage-/Replik-Turbo, Rechtsprechungsrecherche, Vertragsentwurf, Handelsregisterabruf, Qualitätsgate, beA-Journal, EB, Fristen, Kanzleikalender, HR, Urlaub, Krankheit, Payroll, Zeitnarrative, Rechnung, Geschäftskonto, Bankmatching, E-Rechnung, UStVA und Tagesabschluss.
 
 ## Sachverhalt

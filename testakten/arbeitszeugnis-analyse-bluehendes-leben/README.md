@@ -1,5 +1,14 @@
 # Testakte: Arbeitszeugnis-Analyse — aus dem blühenden Leben
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-arbeitszeugnis-analyse-bluehendes-leben` (diese Akte) | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Diese Testakte enthält **zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen**, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst. Die Akte ist als realistisches Trainingsmaterial für das Plugin [`arbeitszeugnis-analyse`](../../arbeitszeugnis-analyse) gedacht.
 
 ## Zweck der Akte

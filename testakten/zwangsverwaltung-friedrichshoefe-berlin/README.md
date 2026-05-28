@@ -1,5 +1,14 @@
 # Testakte: Zwangsverwaltung Büro- und Geschäftshaus „Friedrichshöfe"
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-zwangsverwaltung-friedrichshoefe-berlin` (diese Akte) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration des Plugins `zwangsverwaltung-zvg`.
 
 ## Verfahrenseckdaten

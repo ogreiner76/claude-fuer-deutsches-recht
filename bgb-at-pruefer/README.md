@@ -4,6 +4,17 @@ Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, W
 
 Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext, Rechtsprechung und Kommentarliteratur müssen im konkreten Fall geprüft werden.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **bgb at altfraenkische werkstatt** | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Schnellstart
 
 /plugin install bgb-at-pruefer@claude-fuer-deutsches-recht

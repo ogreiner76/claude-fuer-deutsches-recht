@@ -1,5 +1,14 @@
 # Testakte: Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-befristungskontrollklage-vogt-stadtwerke` (diese Akte) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration der `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
 ---

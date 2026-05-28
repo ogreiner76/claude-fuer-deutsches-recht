@@ -1,5 +1,14 @@
 # Testakte: Betreuungsfall Hildegard Sauer
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-betreuung-hildegard-sauer` (diese Akte) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **⚠️ Alle Daten, Namen, Adressen, Aktenzeichen, Kontonummern und sonstigen
 > Angaben in dieser Akte sind frei erfunden. Jegliche Ähnlichkeit mit realen
 > Personen, Verfahren oder Institutionen ist rein zufällig. Diese Akte dient

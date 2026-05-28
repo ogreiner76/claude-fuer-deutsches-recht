@@ -1,5 +1,14 @@
 # Testakte: Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher` (diese Akte) | [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Fiktion-Disclaimer:** Alle Personen, Adressen, Aktenzeichen, IBANs, Telefonnummern und sonstigen
 > Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als Testmaterial für das
 > Plugin `schriftform-und-textform-bgb`. Jede Ähnlichkeit mit realen Personen oder Ereignissen ist

@@ -1,5 +1,14 @@
 # Testakte: Fluggastrechte – Familie Bräutigam-Zaytuna
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-fluggastrechte-familie-braeutigam` (diese Akte) | [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Flüge, Buchungsnummern, Adressen, IBANs, Telefonnummern und
 > sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
 > Testmaterial für das Plugin `fluggastrechte`. Jede Ähnlichkeit mit realen Personen

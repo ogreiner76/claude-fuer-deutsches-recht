@@ -1,5 +1,14 @@
 # Testakte: Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon` (diese Akte) | [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Firmen, Marken, Aktenzeichen, Behördenentscheidungen, Geldbeträge,
 > Adressen, Telefonnummern, Kontonummern, E-Mail-Adressen und sonstigen Daten in dieser Akte
 > sind vollständig fiktiv und dienen ausschließlich als Testmaterial für das Plugin
