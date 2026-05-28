@@ -56,9 +56,9 @@ Nr.: [Eindeutige Erklärungsnummer]
    Normen, gemeinsamen Spezifikationen oder
    sonstigen Spezifikationen, auf die sich
    die Konformitätserklärung bezieht:
-   [Verweis auf harmonisierte Normen, z.B. EN ISO/IEC 42001:2023]
-   [Verweis auf gemeinsame Spezifikationen]
-   [Verweis auf sonstige technische Spezifikationen]
+   [Harmonisierte Norm nur nennen, wenn einschlaegige Fundstelle im Amtsblatt der EU veroeffentlicht ist]
+   [Verweis auf gemeinsame Spezifikationen, falls einschlaegig]
+   [Verweis auf sonstige technische Spezifikationen, z.B. interne Tests oder ISO/IEC-Standards ohne Vermutungswirkung]
 
 8. Angaben zur beteiligten benannten Stelle
    (falls zutreffend):
@@ -94,6 +94,10 @@ Die Erklärung muss mindestens enthalten:
 ## Aufbewahrung
 
 Die EU-Konformitätserklärung ist zehn Jahre ab dem Datum des Inverkehrbringens oder der Inbetriebnahme aufzubewahren. Marktüberwachungsbehörden müssen auf Anfrage Zugang erhalten.
+
+## Verbindung zum Evidence-Pack
+
+Wenn nicht nur die Erklärung, sondern eine druckreife Konformitätsbescheinigung, ein Art.-43-Nachweis, ein Evidence Index und eine Lückenliste gebraucht werden, nutze `output-konformitaetsbescheinigung-evidence-pack`. Dieser Skill verhindert, dass eine interne Readiness-Bewertung fälschlich als finale Konformität oder als Bescheinigung einer notifizierten Stelle ausgegeben wird.
 
 ## Aktualisierung
 

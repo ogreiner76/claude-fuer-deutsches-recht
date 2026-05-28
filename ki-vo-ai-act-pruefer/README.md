@@ -1,6 +1,6 @@
 # ki-vo-ai-act-pruefer
 
-Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Sanktionen und Entscheidungsbaum-Workflow.
+Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Konformitäts-Evidence-Pack, Sanktionen und Entscheidungsbaum-Workflow.
 
 **Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.**
 
@@ -53,7 +53,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 ---
 
-## Skills (47 Stück)
+## Skills (48 Stück)
 
 ### Einstieg
 
@@ -135,7 +135,12 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 
 - `output-pruefdokument-ki-vo-mit-warnhinweisen`
 - `output-konformitaetserklaerung-eu-anhang-v`
+- `output-konformitaetsbescheinigung-evidence-pack` — interne Konformitätsbescheinigung/Readiness-Vermerk, EU-Konformitätserklärung, Art.-43-Nachweis, Evidence Index und Lückenliste ohne falsche finale Bescheinigung
 - `output-betreiber-checkliste-und-folgenabschaetzung`
+
+### Zum Ausprobieren: Testakte
+
+- [`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/) — fiktive Hochrisiko-Recruiting-KI mit Art.-3-/Art.-6-Vermerk, Risikoregister, Daten-Governance, Human Oversight, Art.-43-Checkliste, Konformitätsvermerk, EU-Konformitätserklärung-Entwurf und Lückenliste.
 
 ---
 
@@ -146,6 +151,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - **Zweckbestimmung entscheidet.** Ein allgemeiner Chatbot oder ein GPAI-System ist nicht automatisch Hochrisiko; der konkrete Einsatz in Anhang-III-Kontexten kann die Einstufung aber auslösen.
 - **Übergangsfristen beachten.** Nicht alle Pflichten sind bereits anwendbar — siehe `zeitlicher-geltungsbereich-uebergangsfristen`.
 - **Fachanwalt bei Hochrisiko.** Bei verbotenen Praktiken, Hochrisiko-KI und GPAI-Modellen mit systemischem Risiko ist ein Fachanwalt für IT-Recht hinzuzuziehen.
+- **Konformität sauber bezeichnen.** Eine interne Bescheinigung oder Readiness-Bestätigung ist keine behördliche Zertifizierung. Finale EU-Konformitätserklärungen und CE-/EU-DB-Aussagen erst nach abgeschlossenem Art.-43-Pfad und belegter Akte ausgeben.
 
 ---
 

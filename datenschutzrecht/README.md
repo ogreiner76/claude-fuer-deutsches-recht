@@ -1,6 +1,6 @@
 # Datenschutzrecht-Plugin
 
-Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
+Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.
 
@@ -28,6 +28,7 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | Testakte | Direkt-Download |
 | --- | --- |
 | **Solis Vision X (Smartglasses, DSGVO/CISG)** | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
+| **CloudSuite Assist (US-Transfer, DPF/SCC/TIA)** | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
 
 
 
@@ -61,11 +62,14 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | `/datenschutzrecht:dsgvo-auskunft-antwort` | Betroffenenanfrage (Art. 15–22 DSGVO) vollständig bearbeiten |
 | `/datenschutzrecht:dsfa-erstellung [Vorhaben]` | DSFA nach Art. 35 DSGVO erstellen |
 | `/datenschutzrecht:drittlandstransfer-pruefung [Empfaenger/Land]` | Drittlandstransfer nach Art. 44 ff. DSGVO prüfen (neu in v3.3.0) |
+| `/datenschutzrecht:us-transfer-tia-dokumentation [US-Dienst]` | US-Transfer mit DPF-Listing, Schrems-Historie, SCC/BCR-Ausweichpfad, TIA und ergänzenden Maßnahmen dokumentieren |
+| `/datenschutzrecht:standardvertragsklauseln-scc-paket [DPA/SaaS-Vertrag]` | SCC-Modul 1–4 wählen, Annex I–III und Subprozessoren prüfbar vorbereiten |
+| `/datenschutzrecht:drittlandtransfer-behoerdenpaket-output [Akte]` | Druckreifes Paket für deutsche Datenschutzaufsicht: Deckvermerk, Nachweise, Antwortschreiben, Maßnahmenplan |
 | `/datenschutzrecht:regulierungs-luecken-analyse [Leitlinie/Gesetz]` | Lückenanalyse neue Anforderung vs. aktueller Praxis |
 | `/datenschutzrecht:richtlinien-monitor` | Wöchentlicher Drift-Scan der Datenschutzerklärung und Richtlinien |
 | `/datenschutzrecht:datenschutzrecht-mandat-arbeitsbereich` | Mandate verwalten (für Mehrmandat-Kanzleien): neu, liste, wechsle, schließe |
 
-## Skills (18)
+## Skills (21)
 
 | Skill | Funktion |
 |---|---|
@@ -76,6 +80,9 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | **dsgvo-auskunft-antwort** | Identitätsprüfung → Systemabfrage → Ausnahmen → Antwortentwurf (Art. 15–22, Art. 12 Abs. 3 DSGVO) |
 | **dsfa-erstellung** | DSFA nach Art. 35 DSGVO, BfDI-Blacklist/-Whitelist, Schwellwertanalyse |
 | **drittlandstransfer-pruefung** | Drittlandstransfer Art. 44 ff. DSGVO: Angemessenheitsbeschlüsse, SCC 2021 Module 1–4, TIA nach Schrems II, BCR — **neu in v3.3.0** |
+| **us-transfer-tia-dokumentation** | US-Transfer nach Art. 44 ff. DSGVO: EU-US Data Privacy Framework, DPF-Scope, Schrems I/II, SCC/BCR-Ausweichpfad, TIA und supplementary measures |
+| **standardvertragsklauseln-scc-paket** | SCC-Modulwahl 1–4, Annex I–III, Subprozessoren, TOMs, AVV-Schnittstelle und Unterzeichnungspaket ohne Veränderung der offiziellen Klauseln |
+| **drittlandtransfer-behoerdenpaket-output** | Behördenfähiges Dokumentationspaket mit Deckvermerk, Transferregister, DPF-/SCC-/TIA-Nachweisen, Antwortentwurf und Review-Kalender |
 | **regulierungs-luecken-analyse** | Neue Leitlinie/VO vs. Ist-Zustand; EDSA- und DSK-Leitlinien |
 | **richtlinien-monitor** | Drift-Monitoring Datenschutzerklärung; Entwurf von Aktualisierungen |
 | **mandats-arbeitsbereich** | Mandate anlegen, auflisten, wechseln und schließen für Mehrmandat-Kanzleien |
@@ -116,6 +123,16 @@ Ergebnis: Richtung automatisch erkannt, Klausel-für-Klausel-Vergleich mit Ihrem
 ```
 
 Ergebnis: Angemessenheitsbeschluss-Check, SCC-Modul-Empfehlung, TIA-Checkliste, Risikoampel.
+
+### 4a. US-Transfer behördenfest dokumentieren
+
+```
+/datenschutzrecht:us-transfer-tia-dokumentation "US-SaaS mit Supportzugriff, DPF behauptet"
+/datenschutzrecht:standardvertragsklauseln-scc-paket anbieter-dpa.pdf
+/datenschutzrecht:drittlandtransfer-behoerdenpaket-output akte-cloudsuite.zip
+```
+
+Ergebnis: DPF-Listing- und Scope-Vermerk, Schrems-I/II-Historie ohne falsche Privacy-Shield-Berufung, SCC-Modul- und Annex-Paket, TIA, TOM-Matrix, Subprozessorenliste, Antwortentwurf für die Aufsichtsbehörde und Wiedervorlage.
 
 ### 5. Betroffenenanfrage bearbeiten
 
@@ -160,7 +177,10 @@ datenschutzrecht/
 │   ├── datenschutzrecht-anpassen/
 │   ├── datenschutzrecht-kaltstart-interview/
 │   ├── datenschutzrecht-mandat-arbeitsbereich/
-│   ├── drittlandstransfer-pruefung/       ← neu in v3.3.0
+│   ├── drittlandstransfer-pruefung/
+│   ├── us-transfer-tia-dokumentation/
+│   ├── standardvertragsklauseln-scc-paket/
+│   ├── drittlandtransfer-behoerdenpaket-output/
 │   ├── dsfa-erstellung/
 │   ├── dsgvo-auskunft/
 │   ├── dsgvo-auskunft-antwort/
@@ -175,11 +195,16 @@ datenschutzrecht/
 - **Bidirektionale AVV-Prüfung:** Derselbe Skill behandelt eingehende Anbieter-AVVs (operative Flexibilität verteidigen) und ausgehende Auftraggeber-AVVs (Datenschutz der Betroffenen sichern). Richtung wird automatisch erkannt oder kann angegeben werden.
 - **DSFA-Format:** Das Format richtet sich nach Ihrer Referenz-DSFA. Wurde keine angegeben, wird die DSFA-Methodik der Artikel-29-Gruppe / des EDSA genutzt – erneutes Setup mit einer Referenz-DSFA verbessert die Passgenauigkeit.
 - **Lückenanalyse vs. Policy-Monitor:** `regulierungs-luecken-analyse` analysiert eingehende neue Anforderungen (neue EDSA-Leitlinie, Gesetzesänderung). `richtlinien-monitor` überwacht internen Praxis-Drift. Zwei unterschiedliche Werkzeuge für zwei Richtungen der Veränderung.
-- **Drittlandstransfer (neu v3.3.0):** `drittlandstransfer-pruefung` deckt den gesamten Prüfpfad nach Kapitel V DSGVO ab — von der Angemessenheitsbeschluss-Prüfung über SCC-Modul-Auswahl bis zum Transfer Impact Assessment nach EuGH C-311/18 Schrems II. Quervernetzt mit `avv-pruefung` und `dsfa-erstellung`.
+- **Drittlandstransfer:** `drittlandstransfer-pruefung` deckt den allgemeinen Prüfpfad nach Kapitel V DSGVO ab. Für US-Fälle vertieft `us-transfer-tia-dokumentation` DPF, Schrems I/II, SCC/BCR und TIA; `standardvertragsklauseln-scc-paket` baut die SCC-Anlagen; `drittlandtransfer-behoerdenpaket-output` macht daraus ein Behördenpaket.
 - **Aufsichtsbehörden:** Das Plugin kennt BfDI (Bundesebene) und alle 16 LfDI (Länderebene). Die zuständige Behörde wird aus der Organisationshauptschaft und dem Verarbeitungskontext bestimmt.
 - **Zitierweise:** Verbindlich nach `../references/zitierweise.md` (BGH-Stil). Alle normativen Verweise folgen dem dortigen Schema.
 
 ## Changelog
+
+### v21.0.0 Nachlauf (05/2026)
+- **Neue Skills:** `us-transfer-tia-dokumentation`, `standardvertragsklauseln-scc-paket`, `drittlandtransfer-behoerdenpaket-output`
+- US-Transfer-Workflow trennt aktuelle DPF-Basis, SCC/TIA-Ausweichpfad und historische Safe-Harbor-/Privacy-Shield-Prüfung.
+- Neue Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` mit Behördenanfrage, DPF-Vermerk, SCC-Anlagen, TIA, TOMs, Subprozessoren und Antwortentwurf.
 
 ### v3.3.0 (05/2026)
 - **Neuer Skill:** `drittlandstransfer-pruefung` — vollständige Prüfung nach Art. 44 ff. DSGVO inkl. EU-US Data Privacy Framework 2023, SCC 2021 Module 1–4, TIA nach EuGH C-311/18 Schrems II
@@ -188,5 +213,5 @@ datenschutzrecht/
 - **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
 - **datenpanne-meldung:** Quellen/Updates und Cross-Refs ergänzt (EuGH C-340/21 war bereits enthalten)
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
-- Alle 18 Skills: Abschnitt „Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
+- Alle damals 18 Skills: Abschnitt „Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
 - `plugin.json` Version auf 3.3.0, description aktualisiert (TDDDG → TDDDG, Drittlandstransfer ergänzt)

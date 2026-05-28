@@ -221,6 +221,9 @@ Wer ist Exporteur?
 ## Querverweise
 
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
+- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
+- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
+- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket fuer Aufsichtsbehoerden ausgeben
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
 - `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
@@ -248,12 +251,10 @@ Stand: 05/2026. Aktualität bei folgenden Ereignissen prüfen und Skill aktualis
 
 Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
-## Aktuelle Rechtsprechung (v14.2)
+## Leitrechtsprechung
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Zum grenzüberschreitenden Datentransfer im Konzernkontext; Verantwortliche müssen für jede Übermittlung eigenständig das Schutzniveau im Zielland bewerten; konzerninterne Transfers sind nicht privilegiert.
-- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zum Drittlandsübermittlungsregime; Verantwortliche können sich nicht auf AGB-Versprechen eines US-Anbieters verlassen, wenn die Rechtslage im Zielland den Schutz strukturell untergräbt; eigene TIA zwingend.
-- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Verwertbarkeit von Erkenntnissen aus US-Datenquellen im deutschen Verwaltungsverfahren — strukturelles Schutzdefizit durch FISA begründet auch verwaltungsrechtliche Nutzungsschranken.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: Für die Meldepflicht Art. 33 DSGVO und für die TIA gilt: schon die Möglichkeit eines Risikos genügt; unzureichende Drittlandsabsicherung erhöht Haftungsrisiko für Datenpannen.
+- EuGH, Urt. v. 06.10.2015, C-362/14 (Schrems I): Safe-Harbor-Angemessenheitsentscheidung ungültig.
+- EuGH, Urt. v. 16.07.2020, C-311/18 (Schrems II): Privacy-Shield-Angemessenheitsentscheidung ungültig; Standardvertragsklauseln bleiben möglich, verlangen aber eine konkrete Prüfung, ob das Schutzniveau im Drittland praktisch eingehalten werden kann.
 
 ## Triage zu Beginn (Entscheidungsbaum)
 
@@ -261,7 +262,7 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 Findet eine Übermittlung außerhalb EU/EWR statt?
   Nein → kein Kapitel-V-DSGVO-Problem
   Ja → Angemessenheitsbeschluss vorhanden?
-        Ja (USA/DPF, UK, Schweiz etc.) → DPF-Listung aktuell prüfen; Schrems-II-Risiko bleibt
+        Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
         Nein → SCC (Beschluss 2021/914) vorhanden?
                  Ja → TIA erforderlich; Modul korrekt?
                  Nein → BCR / Art. 49 Ausnahme?

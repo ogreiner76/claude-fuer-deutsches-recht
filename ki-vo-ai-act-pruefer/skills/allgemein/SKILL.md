@@ -9,7 +9,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im KI VO AI Act Pruef
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO AI Act Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Sanktionen. Kein Rechtsrat.
+**Plugin-Fokus:** Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Evidence-Pack, Sanktionen. Kein Rechtsrat.
 
 **Neuer Schwerpunkt für Art. 3 und Art. 6 Abs. 2:** Wenn es um allgemeine Chatbots, ChatGPT-ähnliche Systeme, GPAI, Mitarbeitenden-Fehlgebrauch oder Hochrisiko nach Anhang III geht, immer Zweckbestimmung und tatsächliche Nutzung trennen. Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko; der konkrete Einsatz in Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Notfalltriage, kritischer Infrastruktur oder Biometrie kann aber Hochrisiko auslösen.
 
@@ -38,7 +38,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** `passender-ki-vo-skill` — [warum dieser Skill hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -69,6 +69,7 @@ Bei KI-VO-Fragen zusätzlich sofort klären:
 | Anhang-III-Nähe | Berührt es Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Biometrie, kritische Infrastruktur oder Notfalltriage? | `hochrisiko-art-6-abs-2-anhang-iii` |
 | Fehlgebrauch | Können Mitarbeitende es entgegen der Zweckbestimmung hochriskant einsetzen? | `betreiber-deployer-pflichten-art-26`, ggf. `anbieter-werden-art-25` |
 | Dokumentation | Soll ein Vermerk für die Compliance-Akte entstehen? | `output-pruefdokument-ki-vo-mit-warnhinweisen` |
+| Konformität | Soll ein druckreifes Konformitätspaket, eine Bescheinigung oder ein Evidence Index entstehen? | `output-konformitaetsbescheinigung-evidence-pack` |
 
 ### 2. Sofort-Triage
 
@@ -150,6 +151,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` | Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6… |
 | `output-betreiber-checkliste-und-folgenabschaetzung` | Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 KI-VO Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste… |
 | `output-konformitaetserklaerung-eu-anhang-v` | Anbieter benoetigt das fertige Musterdokument für die EU-Konformitätserklärung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitätserklärung. Pflichtinhalt Anhang V: eindeutige… |
+| `output-konformitaetsbescheinigung-evidence-pack` | Anbieter braucht ein druckreifes Konformitätspaket: interne Bescheinigung oder Readiness-Vermerk, EU-Konformitätserklärung, Art.-43-Nachweis, Evidence Index, Lückenliste und klare Warnung vor falscher finaler Bescheinigung. |
 | `output-pruefdokument-ki-vo-mit-warnhinweisen` | Abschlussvermerk mit Art.-3-Einordnung, Zweckbestimmung, Anhang-III-Matrix, Rückausnahme, Off-label-Governance und Re-Evaluation. |
 | `persoenlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3… |
 | `risikoklassen-uebersicht-und-triage` | Schnelle Risikoklassen-Erstdiagnose mit Schwerpunkt Art. 6 Abs. 2/Anhang III, GPAI/Chatbot und Zweckbestimmung. |
@@ -174,6 +176,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 - Ein Unternehmen fragt, ob die eigene Software unter die KI-VO faellt und welche Pflichten daraus folgen.
 - Ein Anbieter von KI hat die Hochrisiko-Einstufung erhalten und braucht eine vollstaendige Roadmap bis zur CE-Kennzeichnung.
+- Ein Anbieter will eine Konformitätsbescheinigung, EU-Konformitätserklärung oder ein Evidence-Pack erzeugen, ohne mehr zu behaupten als die Akte trägt.
 - Ein Betreiber kauft ein KI-System ein und muss seine Betreiberpflichten nach Art. 26 KI-VO kennen.
 - Ein Anbieter von GPAI-Modellen (Sprachmodelle, Basismodelle) fragt, ob er unter die GPAI-Pflichten faellt und ob systemisches Risiko vorliegt.
 - Compliance-Beauftragter will wissen, welche Sanktionen bei Verstoessen drohen und wie Verfahren ablaufen.
@@ -187,6 +190,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - **GPAI** — General-Purpose-AI-Modell nach Art. 3 Nr. 63 KI-VO; Basismodell mit Allzweck-Faehigkeiten; eigene Pflichtenkategorie.
 - **Systemisches Risiko** — Erhebliche Risiken bei GPAI-Modellen mit mehr als 10 hoch 25 FLOP Trainingsaufwand (Art. 51 KI-VO).
 - **Konformitaetsbewertung** — Verfahren nach Art. 43 ff. KI-VO zur CE-Kennzeichnung von Hochrisiko-KI.
+- **Evidence-Pack** — Dokumentationspaket aus Art.-3-/Art.-6-Vermerk, Art.-9-bis-15-Nachweisen, Art.-43-Bewertung, EU-Konformitätserklärung, Lückenliste und Freigabeentscheidung.
 - **EU-KI-Datenbank** — Oeffentliches Register nach Art. 71 KI-VO, in dem Hochrisiko-KI-Systeme registriert werden muessen.
 
 ## Rechtsgrundlagen
@@ -255,6 +259,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `zeitlicher-geltungsbereich-uebergangsfristen` — Uebergangsfristen und zeitlicher Geltungsbeginn je Pflichtenkategorie der KI-VO.
 - `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Pruefdokument mit allen Ergebnissen und Warnhinweisen erstellen.
 - `output-konformitaetserklaerung-eu-anhang-v` — Muster der EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen (Anhang V KI-VO).
+- `output-konformitaetsbescheinigung-evidence-pack` — Konformitätsbescheinigung oder Readiness-Vermerk, EU-Erklärung, Evidence Index und Lückenliste erzeugen.
 - `output-betreiber-checkliste-und-folgenabschaetzung` — Fertige Betreiber-Compliance-Dokumentation und Folgenabschaetzung erstellen.
 - `mandatsabbruch-empfehlung-komplexe-faelle` — Erkennung von Faellen, die anwaltliche Spezialkenntnisse erfordern, und Eskalationsempfehlung.
 

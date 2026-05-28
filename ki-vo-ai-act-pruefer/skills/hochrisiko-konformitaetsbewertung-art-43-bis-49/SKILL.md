@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-konformitaetsbewertung-art-43-bis-49
-description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitätserklärung-eu-anhang-v (fertiges Muster-Dokument)."
+description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack."
 ---
 
 # Konformitätsbewertung — Art. 43 bis 49 KI-VO
@@ -8,6 +8,8 @@ description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle
 ## Zweck
 
 Vor dem Inverkehrbringen oder der Inbetriebnahme eines Hochrisiko-KI-Systems muss eine Konformitätsbewertung durchgeführt werden. Dieser Skill liefert den Entscheidungsbaum: Wer bewertet? Welches Verfahren? Was ist danach zu tun?
+
+Wenn das Ergebnis anschließend druckreif als Bescheinigung, EU-Konformitätserklärung, Evidence Index und Lückenliste ausgegeben werden soll, an `output-konformitaetsbescheinigung-evidence-pack` übergeben.
 
 ## Entscheidungsbaum — Selbstbewertung oder benannte Stelle?
 

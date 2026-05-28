@@ -190,7 +190,7 @@ Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagn
 
 **Output:** EU-Konformitätserklärung nach Anhang V.
 
-→ Detail-Skills: `hochrisiko-konformitaetsbewertung-art-43-bis-49`, `output-konformitaetserklaerung-eu-anhang-v`, `code-of-practice-und-harmonisierte-normen`
+→ Detail-Skills: `hochrisiko-konformitaetsbewertung-art-43-bis-49`, `output-konformitaetserklaerung-eu-anhang-v`, `output-konformitaetsbescheinigung-evidence-pack`, `code-of-practice-und-harmonisierte-normen`
 
 ---
 

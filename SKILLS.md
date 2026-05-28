@@ -1,6 +1,6 @@
 # Skill-Übersicht
 
-Automatisch gezählte Gesamtübersicht aller **2386 Skills** in **101 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
+Automatisch gezählte Gesamtübersicht aller **2390 Skills** in **101 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
 **Repository:** [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
 
@@ -21,7 +21,7 @@ Automatisch gezählte Gesamtübersicht aller **2386 Skills** in **101 Plugins**.
 - [bgb-at-pruefer](#bgb-at-pruefer) — 53 Skills
 - [common-law-kompass](#common-law-kompass) — 19 Skills
 - [corporate-kanzlei](#corporate-kanzlei) — 47 Skills
-- [datenschutzrecht](#datenschutzrecht) — 18 Skills
+- [datenschutzrecht](#datenschutzrecht) — 21 Skills
 - [dsa-dma-digitalregulierung](#dsa-dma-digitalregulierung) — 10 Skills
 - [einfache-leichte-sprache-jura](#einfache-leichte-sprache-jura) — 6 Skills
 - [email-umformulierer-berufsrecht](#email-umformulierer-berufsrecht) — 21 Skills
@@ -71,7 +71,7 @@ Automatisch gezählte Gesamtübersicht aller **2386 Skills** in **101 Plugins**.
 - [kartellrecht-marktabgrenzung-pruefung](#kartellrecht-marktabgrenzung-pruefung) — 25 Skills
 - [ki-governance](#ki-governance) — 11 Skills
 - [ki-richtlinie-kanzleien](#ki-richtlinie-kanzleien) — 27 Skills
-- [ki-vo-ai-act-pruefer](#ki-vo-ai-act-pruefer) — 47 Skills
+- [ki-vo-ai-act-pruefer](#ki-vo-ai-act-pruefer) — 48 Skills
 - [krisenfrueherkennung-starug](#krisenfrueherkennung-starug) — 20 Skills
 - [legistik-werkstatt](#legistik-werkstatt) — 26 Skills
 - [liquiditaetsplanung](#liquiditaetsplanung) — 4 Skills
@@ -421,12 +421,14 @@ Automatisch gezählte Gesamtübersicht aller **2386 Skills** in **101 Plugins**.
 | [`allgemein`](./datenschutzrecht/skills/allgemein/SKILL.md) | [`anwendungsfall-triage`](./datenschutzrecht/skills/anwendungsfall-triage/SKILL.md) |
 | [`avv-pruefung`](./datenschutzrecht/skills/avv-pruefung/SKILL.md) | [`datenpanne-meldung`](./datenschutzrecht/skills/datenpanne-meldung/SKILL.md) |
 | [`datenschutzrecht-anpassen`](./datenschutzrecht/skills/datenschutzrecht-anpassen/SKILL.md) | [`datenschutzrecht-kaltstart-interview`](./datenschutzrecht/skills/datenschutzrecht-kaltstart-interview/SKILL.md) |
-| [`datenschutzrecht-mandat-arbeitsbereich`](./datenschutzrecht/skills/datenschutzrecht-mandat-arbeitsbereich/SKILL.md) | [`drittlandstransfer-pruefung`](./datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md) |
-| [`dsb-bestellungspflicht-pruefung`](./datenschutzrecht/skills/dsb-bestellungspflicht-pruefung/SKILL.md) | [`dsfa-erstellung`](./datenschutzrecht/skills/dsfa-erstellung/SKILL.md) |
-| [`dsgvo-auskunft`](./datenschutzrecht/skills/dsgvo-auskunft/SKILL.md) | [`dsgvo-auskunft-antwort`](./datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md) |
-| [`joint-controller-vereinbarung`](./datenschutzrecht/skills/joint-controller-vereinbarung/SKILL.md) | [`ki-verordnung-compliance`](./datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md) |
-| [`mandantendaten-ki`](./datenschutzrecht/skills/mandantendaten-ki/SKILL.md) | [`regulierungs-luecken-analyse`](./datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md) |
-| [`richtlinien-monitor`](./datenschutzrecht/skills/richtlinien-monitor/SKILL.md) | [`verarbeitungsverzeichnis-vvt-generator`](./datenschutzrecht/skills/verarbeitungsverzeichnis-vvt-generator/SKILL.md) |
+| [`datenschutzrecht-mandat-arbeitsbereich`](./datenschutzrecht/skills/datenschutzrecht-mandat-arbeitsbereich/SKILL.md) | [`drittlandtransfer-behoerdenpaket-output`](./datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md) |
+| [`drittlandstransfer-pruefung`](./datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md) | [`dsb-bestellungspflicht-pruefung`](./datenschutzrecht/skills/dsb-bestellungspflicht-pruefung/SKILL.md) |
+| [`dsfa-erstellung`](./datenschutzrecht/skills/dsfa-erstellung/SKILL.md) | [`dsgvo-auskunft`](./datenschutzrecht/skills/dsgvo-auskunft/SKILL.md) |
+| [`dsgvo-auskunft-antwort`](./datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md) | [`joint-controller-vereinbarung`](./datenschutzrecht/skills/joint-controller-vereinbarung/SKILL.md) |
+| [`ki-verordnung-compliance`](./datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md) | [`mandantendaten-ki`](./datenschutzrecht/skills/mandantendaten-ki/SKILL.md) |
+| [`regulierungs-luecken-analyse`](./datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md) | [`richtlinien-monitor`](./datenschutzrecht/skills/richtlinien-monitor/SKILL.md) |
+| [`standardvertragsklauseln-scc-paket`](./datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md) | [`us-transfer-tia-dokumentation`](./datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md) |
+| [`verarbeitungsverzeichnis-vvt-generator`](./datenschutzrecht/skills/verarbeitungsverzeichnis-vvt-generator/SKILL.md) |  |
 
 ## dsa-dma-digitalregulierung
 
@@ -1275,14 +1277,14 @@ Automatisch gezählte Gesamtübersicht aller **2386 Skills** in **101 Plugins**.
 | [`hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`](./ki-vo-ai-act-pruefer/skills/hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13/SKILL.md) | [`hochrisiko-zuordnung-art-6-und-anhang-i-iii`](./ki-vo-ai-act-pruefer/skills/hochrisiko-zuordnung-art-6-und-anhang-i-iii/SKILL.md) |
 | [`liegt-ki-system-vor-art-3-nr-1`](./ki-vo-ai-act-pruefer/skills/liegt-ki-system-vor-art-3-nr-1/SKILL.md) | [`mandatsabbruch-empfehlung-komplexe-faelle`](./ki-vo-ai-act-pruefer/skills/mandatsabbruch-empfehlung-komplexe-faelle/SKILL.md) |
 | [`marktueberwachung-meldung-vorfaelle-art-72-bis-79`](./ki-vo-ai-act-pruefer/skills/marktueberwachung-meldung-vorfaelle-art-72-bis-79/SKILL.md) | [`nicht-hochrisiko-bestaetigt-end-to-end-roadmap`](./ki-vo-ai-act-pruefer/skills/nicht-hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md) |
-| [`output-betreiber-checkliste-und-folgenabschaetzung`](./ki-vo-ai-act-pruefer/skills/output-betreiber-checkliste-und-folgenabschaetzung/SKILL.md) | [`output-konformitaetserklaerung-eu-anhang-v`](./ki-vo-ai-act-pruefer/skills/output-konformitaetserklaerung-eu-anhang-v/SKILL.md) |
-| [`output-pruefdokument-ki-vo-mit-warnhinweisen`](./ki-vo-ai-act-pruefer/skills/output-pruefdokument-ki-vo-mit-warnhinweisen/SKILL.md) | [`persoenlicher-anwendungsbereich-rollen-art-3`](./ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-rollen-art-3/SKILL.md) |
-| [`risikoklassen-uebersicht-und-triage`](./ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-und-triage/SKILL.md) | [`rolle-anbieter-pruefen-art-3-nr-3`](./ki-vo-ai-act-pruefer/skills/rolle-anbieter-pruefen-art-3-nr-3/SKILL.md) |
-| [`rolle-betreiber-pruefen-art-3-nr-4`](./ki-vo-ai-act-pruefer/skills/rolle-betreiber-pruefen-art-3-nr-4/SKILL.md) | [`rueckausnahme-art-6-abs-3`](./ki-vo-ai-act-pruefer/skills/rueckausnahme-art-6-abs-3/SKILL.md) |
-| [`sachlicher-ausschluss-art-2-abs-3-bis-12`](./ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-art-2-abs-3-bis-12/SKILL.md) | [`sanktionen-art-99-bis-101`](./ki-vo-ai-act-pruefer/skills/sanktionen-art-99-bis-101/SKILL.md) |
-| [`territorialer-anwendungsbereich-art-2`](./ki-vo-ai-act-pruefer/skills/territorialer-anwendungsbereich-art-2/SKILL.md) | [`triage-ki-vo-vorpruefung`](./ki-vo-ai-act-pruefer/skills/triage-ki-vo-vorpruefung/SKILL.md) |
-| [`verbotene-praktiken-art-5`](./ki-vo-ai-act-pruefer/skills/verbotene-praktiken-art-5/SKILL.md) | [`verhaeltnis-zu-anderen-unionsrechtsakten`](./ki-vo-ai-act-pruefer/skills/verhaeltnis-zu-anderen-unionsrechtsakten/SKILL.md) |
-| [`zeitlicher-geltungsbereich-uebergangsfristen`](./ki-vo-ai-act-pruefer/skills/zeitlicher-geltungsbereich-uebergangsfristen/SKILL.md) |  |
+| [`output-betreiber-checkliste-und-folgenabschaetzung`](./ki-vo-ai-act-pruefer/skills/output-betreiber-checkliste-und-folgenabschaetzung/SKILL.md) | [`output-konformitaetsbescheinigung-evidence-pack`](./ki-vo-ai-act-pruefer/skills/output-konformitaetsbescheinigung-evidence-pack/SKILL.md) |
+| [`output-konformitaetserklaerung-eu-anhang-v`](./ki-vo-ai-act-pruefer/skills/output-konformitaetserklaerung-eu-anhang-v/SKILL.md) | [`output-pruefdokument-ki-vo-mit-warnhinweisen`](./ki-vo-ai-act-pruefer/skills/output-pruefdokument-ki-vo-mit-warnhinweisen/SKILL.md) |
+| [`persoenlicher-anwendungsbereich-rollen-art-3`](./ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-rollen-art-3/SKILL.md) | [`risikoklassen-uebersicht-und-triage`](./ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-und-triage/SKILL.md) |
+| [`rolle-anbieter-pruefen-art-3-nr-3`](./ki-vo-ai-act-pruefer/skills/rolle-anbieter-pruefen-art-3-nr-3/SKILL.md) | [`rolle-betreiber-pruefen-art-3-nr-4`](./ki-vo-ai-act-pruefer/skills/rolle-betreiber-pruefen-art-3-nr-4/SKILL.md) |
+| [`rueckausnahme-art-6-abs-3`](./ki-vo-ai-act-pruefer/skills/rueckausnahme-art-6-abs-3/SKILL.md) | [`sachlicher-ausschluss-art-2-abs-3-bis-12`](./ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-art-2-abs-3-bis-12/SKILL.md) |
+| [`sanktionen-art-99-bis-101`](./ki-vo-ai-act-pruefer/skills/sanktionen-art-99-bis-101/SKILL.md) | [`territorialer-anwendungsbereich-art-2`](./ki-vo-ai-act-pruefer/skills/territorialer-anwendungsbereich-art-2/SKILL.md) |
+| [`triage-ki-vo-vorpruefung`](./ki-vo-ai-act-pruefer/skills/triage-ki-vo-vorpruefung/SKILL.md) | [`verbotene-praktiken-art-5`](./ki-vo-ai-act-pruefer/skills/verbotene-praktiken-art-5/SKILL.md) |
+| [`verhaeltnis-zu-anderen-unionsrechtsakten`](./ki-vo-ai-act-pruefer/skills/verhaeltnis-zu-anderen-unionsrechtsakten/SKILL.md) | [`zeitlicher-geltungsbereich-uebergangsfristen`](./ki-vo-ai-act-pruefer/skills/zeitlicher-geltungsbereich-uebergangsfristen/SKILL.md) |
 
 ## krisenfrueherkennung-starug
 
