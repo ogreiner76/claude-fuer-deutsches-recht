@@ -37,6 +37,23 @@ Schwab in: MüKoBGB, 9. Aufl. 2024, § 818 Rn. 1–60 (Entreicherung, Bösgläub
 
 Dieser Skill liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.
 
+## Vorarbeit: Kondiktionskarte
+
+Vor dem Entwurf der Klageschrift muss eine Kondiktionskarte vorliegen:
+
+| Punkt | Klärung |
+|---|---|
+| Anspruchstyp | Leistungskondiktion / Nichtleistungskondiktion / § 816 / § 822 |
+| Vermögensvorteil | konkret benennen, nicht nur "Geld" oder "Bereicherung" |
+| Zweck und Zurechnung | Wer leistete an wen, mit welchem erkennbaren Zweck? |
+| Rechtsgrundmangel | Anfangsmangel / späterer Wegfall / Zweckverfehlung / Teilmangel |
+| Behaltensgrund | nein / ja, aber streitig |
+| Rückabwicklungslogik | isolierter Anspruch / Saldo / Zug um Zug |
+| § 818 BGB | Naturalherausgabe, Wertersatz, Nutzungen, Surrogate, Entreicherung |
+| Gegenargumente | § 814, § 817 S. 2, Verjährung, Spezialregime, Beweislast |
+
+Ohne diese Karte keine fertige Klageschrift ausgeben, sondern fehlende Tatsachen abfragen.
+
 ## Rubrum
 
 An das [Amtsgericht / Landgericht] [Ort]
@@ -62,7 +79,7 @@ Der Beklagte wird verurteilt, an den Kläger [genau bezeichneten Gegenstand] her
 
 ### I. Sachverhalt
 
-[Tatsachenschilderung: Wer hat was an wen geleistet, wann, auf welcher Grundlage, warum fehlt der Rechtsgrund]
+[Tatsachenschilderung: Wer hat was an wen geleistet, wann, mit welchem erkennbaren Zweck, auf welcher behaupteten Grundlage, warum fehlt oder entfiel der Rechtsgrund, welche Vermögensvorteile bestehen noch]
 
 ### II. Rechtliche Würdigung
 
@@ -74,6 +91,8 @@ Der Beklagte wird verurteilt, an den Kläger [genau bezeichneten Gegenstand] her
 
 **Ohne Rechtsgrund:** Der Rechtsgrund fehlt, weil [Vertrag nichtig / Anfechtung wirksam / Bedingung eingetreten].
 
+**Kein Behaltensgrund:** Ein Recht des Beklagten, den Vorteil gleichwohl zu behalten, besteht nicht. Insbesondere greift [kein spezielles Rückabwicklungsregime / kein Ausschlussgrund / keine Saldierung zugunsten des Beklagten].
+
 **Ergebnis:** Der Anspruch aus § 812 Abs. 1 S. 1 Alt. 1 BGB besteht in Höhe von EUR [Betrag].
 
 ### III. Ausschlussgründe
@@ -84,7 +103,13 @@ Der Beklagte wird verurteilt, an den Kläger [genau bezeichneten Gegenstand] her
 
 ### IV. Rechtsfolge und Entreicherung
 
-Gemäß § 818 Abs. 1 BGB ist das Erlangte herauszugeben. Die Entreicherungseinrede (§ 818 Abs. 3 BGB) scheidet aus, weil [Begründung].
+Gemäß § 818 Abs. 1 BGB ist das Erlangte herauszugeben. Hilfsweise schuldet der Beklagte Wertersatz nach § 818 Abs. 2 BGB. Nutzungen, Surrogate und ersparte Aufwendungen sind wie folgt zu berücksichtigen: [...].
+
+Die Entreicherungseinrede (§ 818 Abs. 3 BGB) scheidet aus bzw. greift nur teilweise, weil [Surrogat / Ersparnis / zurechenbarer Wegfall / Bösgläubigkeit / Rechtshängigkeit / Saldierung].
+
+### V. Hilfsweise Saldierung oder Zug-um-Zug
+
+Soweit das Gericht von einer Rückabwicklung eines gegenseitigen Vertrags ausgeht, ergibt sich nach Saldierung der beiderseitigen Leistungen ein Anspruch in Höhe von EUR [...]. Hilfsweise wird Leistung Zug um Zug gegen [...] beantragt.
 
 ## Beweisangebote
 

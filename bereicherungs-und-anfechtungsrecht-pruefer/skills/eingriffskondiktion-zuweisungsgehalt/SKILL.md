@@ -37,6 +37,17 @@ Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 200–280 (Immaterialgüterrechte
 
 Die Eingriffskondiktion schützt den Inhaber einer Rechtsposition gegen wirtschaftliche Ausbeutung seiner Position ohne Rechtsgrund. Maßgeblich ist der Zuweisungsgehalt der verletzten Rechtsposition.
 
+## Vorrang der Leistungsbeziehung prüfen
+
+Die Eingriffskondiktion ist kein Auffangbecken für unsaubere Leistungsketten. Vor Alt. 2 muss geklärt sein:
+
+- Hat der Anspruchsteller selbst geleistet?
+- Hat ein Dritter mit erkennbarem Leistungszweck geleistet?
+- Gibt es eine Anweisung, Abtretung, Lizenzkette oder sonstige Zweckbeziehung?
+- Soll der Beklagte wirklich wegen eines Eingriffs haften oder nur als Endempfänger einer fehlerhaften Leistung?
+
+Wenn eine Leistungskette plausibel ist, zuerst `leistungsbegriff-bewusste-zweckgerichtete-mehrung` und `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` verwenden.
+
 ## Tatbestandsmerkmale
 
 ### 1. Bestehendes Recht mit Zuweisungsgehalt
@@ -60,6 +71,18 @@ Keine Lizenz, keine Gestattung, kein gesetzlicher Erlaubnissatz.
 
 Bei Unmöglichkeit der Naturalrestitution schuldet der Eingreifer den objektiven Wert der Nutzung — in der Praxis die übliche Lizenzgebühr (Lizenzanalogie). Der Anspruchsteller muss nicht nachweisen, dass er selbst eine Lizenz erteilt hätte.
 
+## Wertbestimmung
+
+Ermittle den Vorteil nicht pauschal:
+
+- objektiver Nutzungswert,
+- übliche Lizenz oder marktüblicher Preis,
+- ersparte Lizenzaufwendungen,
+- gezogene Nutzungen oder Erlöse,
+- Abzug nur für Positionen, die den herauszugebenden Vorteil wirklich mindern.
+
+Gewinnabschöpfung, Schadensersatz und Bereicherungswertersatz sind gedanklich getrennt zu prüfen, auch wenn sie praktisch ähnliche Zahlen liefern können.
+
 ## Verhältnis zu Schadensersatz
 
 Eingriffskondiktion und Schadensersatzanspruch (§§ 97 ff. UrhG, § 14 Abs. 6 MarkenG) stehen nebeneinander. Vorteil: kein Verschuldensnachweis erforderlich.
@@ -70,7 +93,8 @@ Eingriffskondiktion und Schadensersatzanspruch (§§ 97 ff. UrhG, § 14 Abs. 6 M
 2. Weist die Rechtsordnung diesem die wirtschaftlichen Früchte exklusiv zu?
 3. Hat der Schuldner in diesen Zuweisungsgehalt eingegriffen?
 4. Liegt ein Rechtsgrund (Lizenz, gesetzliche Erlaubnis) vor?
-5. Wie ist der Wert des Eingriffs zu bemessen?
+5. Ist eine Leistungsbeziehung vorrangig?
+6. Wie ist der Wert des Eingriffs zu bemessen?
 
 ## Output-Template
 
@@ -83,6 +107,7 @@ Sachverhalt (kurz): [...]
 | Rechtsposition mit Zuweisungsgehalt | z. B. Urheberrecht / Marke / Eigentum |
 | Eingriff durch Schuldner | ja / nein |
 | Rechtsgrund (Lizenz/Gestattung) | nein → Kondiktion möglich |
+| vorrangige Leistungsbeziehung | nein / ja: [...] |
 | Wertbemessung | Lizenzanalogie: [...] EUR |
 | Schadensersatz konkurrierend | ja / nein |
 

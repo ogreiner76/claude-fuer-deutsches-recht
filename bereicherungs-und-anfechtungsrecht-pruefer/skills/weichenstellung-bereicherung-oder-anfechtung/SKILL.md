@@ -67,6 +67,21 @@ Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordern
 - § 812 BGB und AnfG können nebeneinander stehen, wenn der Rechtsgrund nachträglich entfällt.
 - Mit Insolvenzverfahren verdrängt § 129 InsO den AnfG-Pfad.
 - § 133 InsO kann mit § 826 BGB konkurrieren.
+- Bei § 812 BGB zuerst klären, ob es um Leistung, Eingriff, Verfügung eines Nichtberechtigten oder Mehrpersonenabwicklung geht.
+- Bei gegenseitigen Verträgen immer Saldo und Zug-um-Zug-Fragen mitdenken.
+- Bei Mehrpersonenfällen nicht vom Zahlungsempfänger automatisch auf den richtigen Anspruchsgegner schließen.
+
+## Bereicherungsrechtliche Feinsortierung
+
+| Befund | Weiterer Skill |
+|---|---|
+| Leistung an den Beklagten, Rechtsgrund fehlt | `leistungskondiktion-grundtatbestand-812-i-1-alt-1` |
+| unklarer Rechts- oder Behaltensgrund | `rechtsgrund-und-behaltensgrund-pruefen` |
+| Zweckabrede oder Zweckverfehlung | `zweckverfehlung-und-kondiktionszweck` |
+| Zahlungskette, Anweisung, Drittleistung | `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` |
+| nichtiger gegenseitiger Vertrag | `saldotheorie-rueckabwicklung-nichtiger-vertraege` |
+| Eingriff in zugewiesene Nutzung | `eingriffskondiktion-zuweisungsgehalt` |
+| Streit um Entreicherung/Wertersatz | `umfang-der-herausgabe-818-bgb-und-entreicherung` |
 
 ## Merksatz
 
