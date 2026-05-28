@@ -1,7 +1,6 @@
-PLATZHALTER / PLACEHOLDER
-=========================
+# Fehlblatt 13 — Foto Wohnung außen
 
-Dateiname (vorgesehen): 13_Foto_Wohnung_aussen.jpg
+Ursprünglich angekündigter Dateiname: 13_Foto_Wohnung_aussen.jpg
 
 Inhalt: Außenaufnahme der Eigentumswohnung
         Schöneberger Ufer 41, 10785 Berlin
@@ -9,14 +8,13 @@ Inhalt: Außenaufnahme der Eigentumswohnung
 
 Aufnahmedatum: nicht vorhanden (Akte unvollständig)
 
-Hinweis für Plugin-Tests:
+Hinweis für die Aktenarbeit:
   Dieses Foto fehlt in der Akte. Es wurde angekündigt, aber nie abgeheftet.
   Dies spiegelt eine reale Situation in Betreuungsakten wider:
   Nicht alle angekündigten Dokumente sind tatsächlich vorhanden.
   Das Plugin / der Assistent sollte erkennen, dass dieses Dokument fehlt,
   und ggf. darauf hinweisen.
 
-Ersetzen durch:
-  Ein tatsächliches Foto des Gebäudes oder eine frei lizenzierte
-  Aufnahme eines vergleichbaren Berliner Altbaus am Schöneberger Ufer.
+Nachforderung:
+  Ein tatsächliches Foto des Gebäudes oder eine frei lizenzierte Aufnahme eines vergleichbaren Berliner Altbaus am Schöneberger Ufer anfordern, wenn der Immobilienwert oder Zustand streitig wird.
   Format: JPG, min. 800×600 px, max. 5 MB.

@@ -1,5 +1,4 @@
-PLACEHOLDER: IMG_messeauftritt_brezelmann_pitti.jpeg
-=====================================================
+# Bildbeschreibung Messeauftritt Brezelmann — Pitti Uomo 2026
 
 Beschreibung des Bildinhalts (Fotodokumentation Pitti Uomo Messe, Florenz):
 

@@ -1,4 +1,4 @@
-PLACEHOLDER für WhatsApp-Screenshot.
+# Chatverlauf Meyer/Kranz — Screenshotbeschreibung
 
 Sichtbarer Chat-Ausschnitt:
 

@@ -115,7 +115,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | `Memo_Anwalt_an_Mandant_Risiko-Einschaetzung.pdf` | PDF | Internes Anwaltsmemo Dr. Hagelbrand an Mandanten, 14.03.2026 | Post-BGH-Urteil; Handlungsempfehlungen, Zwangsvollstreckung |
 | `Aufstellung_Provisionsstreitwert.xlsx` | Excel | Streitwertaufstellung, Zeithonorare, RVG-Vergleich, Zinsberechnung | 2 Tabellenblätter; Formeln, Summenzeilen, bedingte Formatierung |
 | `Notiz_Erstgespraech_Haspelbeck.txt` | Text | Rohe Anwaltsnotiz vom Erstgespräch 15.08.2023 | Chaotisch, mit Mandanten-O-Tönen, internen Einschätzungen |
-| `whatsapp-haspelbeck-an-anwalt.png.placeholder.txt` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; „Waaaas?!" |
+| `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.md` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; „Waaaas?!" |
 
 ---
 
@@ -123,7 +123,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 
 ### 1. Textform-Analyse aus unstrukturierten Unterlagen
 
-Der Skill muss aus dem gemischten Aktendossier (PDFs, XLSX, TXT, Placeholder) die entscheidende
+Der Skill muss aus dem gemischten Aktendossier (PDFs, XLSX, TXT, Chatbeschreibungen) die entscheidende
 Frage extrahieren: **Erfüllt der E-Mail-Signaturhinweis die Anforderungen des § 656a BGB
 i.V.m. § 126b BGB?**
 

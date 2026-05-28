@@ -1,5 +1,4 @@
-PLACEHOLDER-DATEI: whatsapp-haspelbeck-an-anwalt.png
-========================================================
+# Chatverlauf Haspelbeck — Screenshotbeschreibung
 DATEI-TYP: Screenshot, WhatsApp-Chatverlauf (PNG, ca. 1080x2340 px, Hochformat)
 DATEINAME ORIGINAL: IMG_20230512_143822.jpg (Korbinian Haspelbeck-Tuerkenfeld, Samsung Galaxy S22)
 ERHALTEN: per E-Mail-Anhang von korbinian.haspelbeck@t-online.de, 16.08.2023, 09:14 Uhr

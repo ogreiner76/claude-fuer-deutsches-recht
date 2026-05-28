@@ -1,4 +1,4 @@
-Platzhalter Handelsregisterauszug
+# Handelsregisterauszug Nordstern — Aktenvermerk
 
 Firma: Nordstern Projekt UG (haftungsbeschränkt)
 Registergericht: Amtsgericht Charlottenburg
@@ -8,4 +8,4 @@ Geschäftsanschrift: Invalidenstraße 77, 10557 Berlin
 Geschäftsführer: Jonas Merz, einzelvertretungsberechtigt
 Status: aktiv
 
-Dieser Platzhalter ist fiktiv und ersetzt keinen echten Registerabruf.
+Dieser fiktive Aktenvermerk ersetzt keinen echten Registerabruf.

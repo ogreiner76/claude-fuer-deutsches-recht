@@ -1,4 +1,6 @@
-PLACEHOLDER – Originaldatei: whatsapp-screenshot.png
+# Chatverlauf Yasmin/Leila — Screenshotbeschreibung
+
+Originaldatei: whatsapp-screenshot.png
 Aufnahmedatum: 12.04.2026, 03:22 Uhr Ortszeit Bangkok
 Erstellt von: Yasmin Zaytuna-Bräutigam (Smartphone Samsung Galaxy S24)
 

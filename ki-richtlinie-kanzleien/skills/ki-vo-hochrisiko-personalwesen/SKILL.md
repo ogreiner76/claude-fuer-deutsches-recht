@@ -42,7 +42,7 @@ Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsak
 - BAG, Urt. v. 13.01.2004 — 9 AZR 603/02, NZA 2004, 784 Rn. 16: Mitbestimmungspflicht des Betriebsrats bei technischen Ueberwachungs- und Bewertungssystemen.
 
 ## Zentrale Normen (Paragrafenkette)
-- Anhang III Nr. 2 KI-VO — Hochrisiko-Kategorie: Einstellung und Personalentscheidungen
+- Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko-Kategorie: Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit
 - Art. 26 KI-VO — Betreiberpflichten bei Hochrisiko-KI Personalwesen
 - § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmungsrecht des Betriebsrats
 - § 1 AGG — Diskriminierungsverbot bei Einstellungsentscheidungen
@@ -61,7 +61,7 @@ Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsak
 HOCHRISIKO-KI PERSONALWESEN-CHECK
 [DATUM] — System: [SYSTEMNAME] — Einsatzzweck: [BESCHREIBUNG]
 
-Anhang III Nr. 2 KI-VO — Hochrisiko: JA
+Anhang III Nr. 4 KI-VO — Hochrisiko: JA, wenn die Zweckbestimmung den konkreten Personalprozess erfasst
 Anwendbare Betreiberpflichten Art. 26 KI-VO: ALLE
 
 Betriebsrat nach § 87 Abs. 1 Nr. 6 BetrVG:

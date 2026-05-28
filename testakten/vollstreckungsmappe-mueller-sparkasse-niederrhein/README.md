@@ -42,7 +42,7 @@ vollstreckungsmappe-mueller-sparkasse-niederrhein/
 - 01_grundschuld_mueller/
 - 02_kontopfaendung_kuechen-mueller-gmbh/
 - 03_kryptowallets_mueller/
-- originale/ (gescannte Schriftstuecke - Platzhalter)
+- originale/ (gescannte Schriftstuecke - in dieser Testakte nur als Text beschrieben)
 - README.md
 ```
 

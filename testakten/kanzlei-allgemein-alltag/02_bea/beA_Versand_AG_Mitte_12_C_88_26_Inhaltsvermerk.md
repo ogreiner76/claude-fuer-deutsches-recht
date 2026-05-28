@@ -1,4 +1,4 @@
-SIMULIERTES beA-VERSAND-ZIP
+# beA-Versand AG Mitte 12 C 88/26 — Inhaltsvermerk
 
 Dateiname im Echtlauf:
 versand_AG_Mitte_12_C_88_26_2026-05-20_1610.zip

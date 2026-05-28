@@ -1,4 +1,4 @@
-SIMULIERTES beA-ZIP-ARCHIV
+# beA-Eingang AG Mitte 12 C 88/26 — Inhaltsvermerk
 
 Dateiname im Echtlauf:
 eingang_AG_Mitte_12_C_88_26_2026-05-20_1058.zip

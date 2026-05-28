@@ -1,5 +1,4 @@
-PLACEHOLDER – NICHT IN AKTE AUFNEHMEN (Datenschutz)
-=====================================================
+# Aktenvermerk WhatsApp CFO an Partner — Datenschutz
 
 Dateiname (Original): whatsapp-cfo-an-partner.png
 Dateiformat: PNG-Screenshot (iPhone, WhatsApp)

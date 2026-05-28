@@ -1,11 +1,13 @@
-PLACEHOLDER – Originaldatei: IMG_2451.jpeg
+# Bildbeschreibung IMG_2451 — handschriftliche Notiz Bangkok
+
+Originaldatei: IMG_2451.jpeg
 Aufgenommen: 11.04.2026, ca. 22:47 Ortszeit Bangkok (UTC+7)
 Aufnahmeort: Suvarnabhumi Airport Bangkok, Terminal, Abflugbereich Gate D5, Check-in-Schalter 87
 
 BILDBESCHREIBUNG (handschriftliche Notiz auf einem zerknitterten Flughafenzettel, A5, kariertes Papier):
 
-Das Foto zeigt einen handgeschriebenen Notizzettel, den Dr. Sebastian Bräutigam noch am Flughafen angefertigt hat. 
-Der Zettel ist leicht zerknittert, mit einem Kugelschreiber (blau) beschriftet. 
+Das Foto zeigt einen handgeschriebenen Notizzettel, den Dr. Sebastian Bräutigam noch am Flughafen angefertigt hat.
+Der Zettel ist leicht zerknittert, mit einem Kugelschreiber (blau) beschriftet.
 
 INHALT DES ZETTELS (wörtlich abgeschrieben):
 
@@ -16,7 +18,7 @@ INHALT DES ZETTELS (wörtlich abgeschrieben):
    noch nicht welcher Flug.
    Hotelvoucher können wir nicht ausstellen,
    das macht die Zentrale.'
-   
+
    Name Mitarbeiter: NICHT SICHTBAR (kein Namensschild)
    Schalter: Nr. 87
    Anwesende Zeugen: Yasmin + andere Passagiere

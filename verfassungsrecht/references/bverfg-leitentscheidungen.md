@@ -53,7 +53,7 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 ## II. Meinungs- und Pressefreiheit
 
 ### Soldaten sind Mörder (BVerfGE 93, 266)
-- **Az.**: 1 BvR 223/93 u. a. [zu verifizieren]
+- **Az.**: 1 BvR 1476/91, 1 BvR 1980/91, 1 BvR 102/92, 1 BvR 221/92
 - **Datum**: 10.10.1995
 - **URL**: [servat.unibe.ch](https://www.servat.unibe.ch/dfr/bv093266.html)
 - **Kernsatz**: Die pauschale Äußerung „Soldaten sind Mörder" richtet sich nicht gegen individuell bestimmte Personen, sondern ist als kollektive Meinungsäußerung durch Art. 5 Abs. 1 GG geschützt; Gerichte müssen mehrdeutige Äußerungen in ihrer günstigsten Deutung prüfen, bevor sie eine Strafbarkeit bejahen.
@@ -356,4 +356,4 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 
 ---
 
-*Hinweis: Aktenzeichen oder Fundstellen, die mit „[zu verifizieren]" gekennzeichnet sind, konnten aus den verfügbaren Primärquellen nicht mit letzter Sicherheit bestätigt werden. Alle übrigen Angaben basieren auf bundesverfassungsgericht.de, dejure.org oder servat.unibe.ch.*
+*Hinweis: Angaben in diesem Kanon wurden gegen bundesverfassungsgericht.de, dejure.org oder servat.unibe.ch plausibilisiert. Wenn ein Schriftsatz oder Gutachten zitierfähige Pinpoints braucht, sind Randnummern beziehungsweise Seiten aus der jeweiligen Primärquelle nachzutragen.*

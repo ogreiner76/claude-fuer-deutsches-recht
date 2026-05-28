@@ -1,5 +1,4 @@
-PLATZHALTER: WhatsApp_Kuendigung_Vermieter_10-02-2022.png
-==========================================================
+# Chatverlauf Kündigung Vermieterin/Mieter — Screenshotbeschreibung
 
 Dieses Dokument beschreibt einen WhatsApp-Screenshot, der in der Testakte als Beweisstück
 (Anlage K-MIET-3) enthalten ist.
@@ -35,7 +34,7 @@ SICHTBARE NACHRICHTEN (von oben nach unten):
   "Ich habe Ihnen auch eine E-Mail mit dem PDF geschickt. Bitte bestaetigen Sie den Empfang."  ✓✓
 
 [10:45 Uhr — weisse Blase, links]
-  "E-Mail erhalten. Das PDF hat KEINE qualifizierte elektronische Signatur. 
+  "E-Mail erhalten. Das PDF hat KEINE qualifizierte elektronische Signatur.
    § 568 BGB + § 126a BGB. Bitte informieren Sie sich. 🔏"
 
 ANMERKUNGEN ZUM BEWEISWERT:

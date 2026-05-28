@@ -375,7 +375,7 @@ Bei vereinfachtem Track: Abschnitte 1–3 und Abschnitt 9 sind Pflicht; Abschnit
 
 **Ablauf:**
 - Risikotrack: Vollständig (erhöhte Governance-Stufe; Drittanbieter-KI-System; Mandantendaten).
-- Art. 6 KI-VO i.V.m. Anhang III: Kein Hochrisiko erkennbar (keine Einstellungs- oder Kreditentscheidung). `[prüfen-pinpoint]`
+- Art. 6 Abs. 2 KI-VO i. V. m. Anhang III: Typischer Mandanten-Erstberatungs-Chatbot ist nicht schon deshalb Hochrisiko, weil er ein allgemeines KI-System nutzt. Entscheidend ist die Zweckbestimmung: Hochrisiko erst bei Einsatz für einen Anhang-III-Zweck, etwa Justiz-/Rechtsdurchsetzungsentscheidung, Beschäftigung, Kreditwürdigkeit oder Zugang zu wesentlichen Diensten.
 - DSFA Art. 35 DSGVO: Prüfung erforderlich — Verarbeitung von Mandantendaten durch Drittanbieter-API (Art. 28 DSGVO); mögliche automatisierte Empfehlungen.
 - Art. 50 KI-VO: Chatbot-Offenlegungspflicht gegenüber Mandanten.
 - § 203 StGB: Mandantengeheimnis — Auftragsverarbeitungsvertrag mit KI-Anbieter erforderlich, Verarbeitung ohne Training sicherstellen.

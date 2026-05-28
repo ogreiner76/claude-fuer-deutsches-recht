@@ -34,13 +34,11 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - § 2 BORA: Konkretisierung der Verschwiegenheitspflicht, Pflicht zur Einweisung von Mitarbeitern
 - § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
 - § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
-- BGH, Urt. v. 07.11.2019 – IX ZR 285/17, NJW 2020, 461 (Anwaltliche Verschwiegenheitspflicht — Grenzen): Zur Reichweite der Verschwiegenheitspflicht im zivilrechtlichen Anwaltshaftungsrecht. `[verify]`
 - BGH, Urt. v. 12.05.2016 – IX ZR 241/14, NJW 2016, 2561 (Interessenkonflikt: Nichtigkeit des Anwaltsvertrags bei Vertretung widerstreitender Interessen): Erstmalige Klärung, dass Verstoß gegen § 43a Abs. 4 BRAO zur Nichtigkeit des Mandatsvertrags führt; Konfliktpräventionspflichten bei übergreifendem Mandatswissen.
 
 ### Kommentarliteratur
 
-- Henssler/Prütting (Hrsg.), BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff. (Verschwiegenheitspflicht) `[verify]`
-- Feuerich/Weyland (Hrsg.), BRAO, 10. Aufl. 2022, § 43a Rn. 20 ff. (Verschwiegenheit und digitale Arbeitsmittel) `[verify]`
+Kommentarliteratur nur mit konkretem Datenbankzugriff und geprüftem Pinpoint verwenden. Geeignete Startpunkte sind Henssler/Prütting, BRAO, zu § 43a BRAO und Feuerich/Weyland, BRAO/BORA, zu Verschwiegenheit, Interessenkollision und Kanzleiorganisation.
 
 ### Aufbewahrungspflichten
 
@@ -205,9 +203,9 @@ Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließli
 - **Aufbewahrung:** § 50 BRAO, ggf. §§ 257 HGB, 147 AO
 - **Rechtsprechung:** juris, beck-online — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
 
-Quellen, die nur aus dem Modellwissen stammen, tragen `[verify]`. Pinpoint-Zitate tragen `[verify-pinpoint]`.
+Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und führt keine Interessenkonfliktprüfung durch — dies obliegt dem verantwortlichen Rechtsanwalt.
+Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die anwaltliche Arbeitsorganisation; Interessenkonflikte bewertet weiterhin der verantwortliche Rechtsanwalt.
 
 
 <!-- AUDIT 27.05.2026 bundle_040

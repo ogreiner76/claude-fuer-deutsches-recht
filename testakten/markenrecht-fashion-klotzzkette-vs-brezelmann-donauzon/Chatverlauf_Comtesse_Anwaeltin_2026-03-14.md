@@ -1,5 +1,4 @@
-PLACEHOLDER: whatsapp-comtesse-an-anwalt.png
-==========================================
+# Chatverlauf Comtesse/Anwältin — Screenshotbeschreibung
 
 Beschreibung des Bildinhalts (WhatsApp-Screenshot, iOS, 14.03.2026, 23:51 MEZ):
 

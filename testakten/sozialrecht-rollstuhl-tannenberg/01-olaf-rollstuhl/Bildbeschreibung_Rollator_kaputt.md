@@ -1,7 +1,6 @@
-PLACEHOLDER – Foto Rollator (handschriftlich beschriftet)
-==========================================================
+# Bildbeschreibung Rollator — handschriftlich beschriftet
 
-Dieses Dokument ersetzt in der Testakte die Originaldatei:
+Dieses Dokument beschreibt die Originaldatei:
   Dateiname (Original): Foto_Rollator_kaputt.jpg
   Fotograf:             Stefanie Tannenberg (Tochter, mit Smartphone aufgenommen)
   Datum:                ca. 14.05.2026
@@ -40,6 +39,6 @@ Relevanz für den Widerspruch:
 
 Hinweis für Plugin sozialrecht-kanzlei:
   Im echten Mandatsverhältnis wäre hier das JPG-Foto eingebettet.
-  Dieses Placeholder-Dokument dient nur der Testakte-Vollständigkeit.
+  Diese Bildbeschreibung hält die Testakte auch ohne eingebettete Bilddatei auswertbar.
   Bei Bedarf: Foto im Erstgespräch auf Smartphone anfordern und
   nachträglich in die Akte einpflegen.

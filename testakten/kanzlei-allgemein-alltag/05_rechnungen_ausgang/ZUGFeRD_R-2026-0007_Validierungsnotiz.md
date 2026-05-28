@@ -1,6 +1,6 @@
-PLACEHOLDER für ZUGFeRD-PDF/A-3.
+# ZUGFeRD R-2026-0007 — Validierungsnotiz
 
-Dies ist keine echte PDF/A-3-Datei.
+Für diese Testakte liegt noch keine echte PDF/A-3-Datei mit eingebettetem XML vor.
 
 Erwarteter Workflow:
 1. Sichtrechnung als PDF/A-3 erzeugen.

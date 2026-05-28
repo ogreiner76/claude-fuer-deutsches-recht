@@ -13,8 +13,8 @@
 
 ### Mandantin
 
-**klôtzzkètté S.A.**, 12 rue du Faubourg Saint-Honoré, 75008 Paris (Frankreich)  
-RCS Paris 552 094 471  
+**klôtzzkètté S.A.**, 12 rue du Faubourg Saint-Honoré, 75008 Paris (Frankreich)
+RCS Paris 552 094 471
 Niederlassung: Via Manzoni 14, 20121 Milano (Italien)
 
 | Person | Funktion |
@@ -22,13 +22,13 @@ Niederlassung: Via Manzoni 14, 20121 Milano (Italien)
 | Comtesse Béatrice de Klôtzzkètté-Visconti | Gründerunkelinnen-Nachfahrin, Présidente d'honneur, Alleingesellschafterin |
 | Étienne Cabriol | Directeur Marketing & Image |
 
-**Deutsche Kanzlei:** Steinacker Lichtenberg & Partners IP Boutique, Maximiliansplatz 19, 80333 München  
-Federführend: Dr. Dr. Annabella Steinacker-von Tarsis, LL.M. (Cantab.), Fachanwältin für gewerblichen Rechtsschutz  
-Mitarbeit: RA Maximilian Freiherr von Brenkenhoff, LL.M.  
+**Deutsche Kanzlei:** Steinacker Lichtenberg & Partners IP Boutique, Maximiliansplatz 19, 80333 München
+Federführend: Dr. Dr. Annabella Steinacker-von Tarsis, LL.M. (Cantab.), Fachanwältin für gewerblichen Rechtsschutz
+Mitarbeit: RA Maximilian Freiherr von Brenkenhoff, LL.M.
 Stundensatz: EUR 690/h (Partnerin), EUR 420/h (Associate)
 
-**US-Kanzlei:** Whitman Brennan Forsythe LLP, 1270 Avenue of the Americas, New York, NY 10020  
-Federführend: J. Halston Whitman III, Esq.  
+**US-Kanzlei:** Whitman Brennan Forsythe LLP, 1270 Avenue of the Americas, New York, NY 10020
+Federführend: J. Halston Whitman III, Esq.
 Koordination: P. Forsythe-Vanderhof
 
 ### Gegner
@@ -130,8 +130,8 @@ Koordination: P. Forsythe-Vanderhof
 | `LG_Protokoll_Verhandlung_11-06-2026.pdf` | PDF | Protokoll der öffentlichen Sitzung LG Frankfurt 11.06.2026 (VRiLG Dr. Wendt-Pasterczyk): Erörterung Soundmarken-Problematik, DSA-Compliance, Schriftsatz-Nachlass bis 25.06. | Brezelmann ohne Anwalt erschienen; Urteilsverkündung 27.07.2026 |
 | `Kostennote_Steinacker_Lichtenberg_26-Q1-014.xlsx` | Excel | Zwischenkostennote Q1/2026 mit 12 Positionen (RVG-Gebühren + Auslagen + Sachverständige) inkl. Formeln; Blatt 2: Zeitaufwandsübersicht 14 Tätigkeiten | IBAN für Überweisung; Gesamtbetrag ca. EUR 94.676,27 brutto (inkl. 19 % USt.) |
 | `Notiz_Comtesse_handschriftlich.txt` | Text | Abschrift der handschriftlichen Fax-Notiz der Comtesse aus Capri (14.03.2026, 23:47 MEZ): emotional, mehrsprachig, strategische Anweisungen | Tinte verschmiert (wahrsch. Rotwein); Rechtschreibfehler; P.P.S. über persönliche Begegnung mit Brezelmann |
-| `whatsapp-comtesse-an-anwalt.png.placeholder.txt` | Placeholder | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
-| `IMG_messeauftritt_brezelmann_pitti.jpeg.placeholder.txt` | Placeholder | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
+| `Chatverlauf_Comtesse_Anwaeltin_2026-03-14.md` | Beschreibung | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
+| `Bildbeschreibung_Messeauftritt_Brezelmann_Pitti_2026-03-10.md` | Beschreibung | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
 
 ---
 
@@ -139,7 +139,7 @@ Koordination: P. Forsythe-Vanderhof
 
 ### 1. Markenrechtliche Grundlagenanalyse aus heterogenem Aktendossier
 
-Der Skill `markenrecht-fashion-luxus` muss aus einer gemischten Mandatsakte (PDFs in DE/EN/IT/FR, Excel, TXT, Placeholders) die rechtlich relevanten Fakten extrahieren:
+Der Skill `markenrecht-fashion-luxus` muss aus einer gemischten Mandatsakte (PDFs in DE/EN/IT/FR, Excel, TXT, Bildbeschreibungen und Aktenvermerken) die rechtlich relevanten Fakten extrahieren:
 
 - Welche Schutzrechte bestehen? (Wortmarke, 3D-Form, Sound, Duft, Haptik, Position, Zertifizierung — 18 Rechte)
 - Welche Verletzungshandlungen sind nachgewiesen? (Testkäufe, Detektivbericht, Foto-Dokumentation)

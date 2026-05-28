@@ -118,8 +118,8 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 | `Aufstellung_Auslagen.xlsx` | Excel | Tabellarische Auslagenaufstellung + Gesamtforderung | Formeln für EUR-Umrechnung, Kategorie-Summen |
 | `Vollmacht_handschriftlich_Sebastian_Bräutigam.docx` | Word | Laienhafte, fehlerhafte Vollmacht von Sebastian | Fehlt: Yasmins Unterschrift, Kinder komplett vergessen |
 | `Notiz_Sebastian.txt` | Text | Rohe Mandantennotiz vom 20.05.2026 (Telefonat) | Chaotisch, emotional, viele Details vermischt |
-| `IMG_2451.jpeg.placeholder.txt` | Text | Beschreibung Handy-Foto (handschriftl. Notiz am Schalter) | Beweis für fehlende Voucher und Aussage PSA-Mitarbeiter |
-| `whatsapp-screenshot.png.placeholder.txt` | Text | Beschreibung WhatsApp Yasmin↔Schwester Leila | Emotionale Dokumentation der Chaossituation in der Nacht |
+| `Bildbeschreibung_IMG_2451_Notizzettel_Bangkok.md` | Text | Beschreibung Handy-Foto (handschriftl. Notiz am Schalter) | Beweis für fehlende Voucher und Aussage PSA-Mitarbeiter |
+| `Chatverlauf_Yasmin_Leila_Bangkok.md` | Text | Beschreibung WhatsApp Yasmin↔Schwester Leila | Emotionale Dokumentation der Chaossituation in der Nacht |
 
 ---
 
@@ -128,7 +128,7 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 ### 1. Rechtliche Analyse aus unstrukturierten Unterlagen
 
 Der `fluggastrechte`-Skill muss aus einem gemischten Aktendossier (PDFs, Excel, DOCX,
-TXT, Placeholders) die relevanten Fakten extrahieren:
+TXT, Bildbeschreibungen und Aktenvermerken) die relevanten Fakten extrahieren:
 
 - Annullierungsmoment (kurz vor Boarding = nicht rechtzeitig, Art. 5 Abs. 1 lit. c)
 - Verspätungsdauer (53 Stunden → weit über 4 Stunden)

@@ -1,7 +1,6 @@
-PLACEHOLDER – Handgezeichnete Wohnungsskizze
-============================================
+# Wohnungsskizze Mandant — Beschreibung
 
-Dieses Dokument ersetzt in der Testakte die Originaldatei:
+Dieses Dokument beschreibt die Originaldatei:
   Dateiname (Original): Wohnungsskizze_Mandant.png
   Erstellt von:         Olaf Tannenberg (handgemalt, dann abfotografiert / eingescannt)
   Datum:                ca. 18.05.2026
@@ -54,5 +53,4 @@ Relevanz für den Widerspruch:
 
 Hinweis für Plugin sozialrecht-kanzlei:
   Im echten Mandatsverhältnis würde hier ein Foto oder Scan der handgezeichneten Skizze
-  eingescannt und als PNG/JPG beigefügt. Dieses Placeholder-Dokument dient nur der
-  Testakte-Vollständigkeit.
+  eingescannt und als PNG/JPG beigefügt. Diese Beschreibung hält die Testakte auch ohne eingebettete Bilddatei auswertbar.

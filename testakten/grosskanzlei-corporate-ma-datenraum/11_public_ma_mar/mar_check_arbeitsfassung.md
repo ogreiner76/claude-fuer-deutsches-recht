@@ -1,9 +1,9 @@
 # MAR-Präventiv-Memo — Marktmissbrauchsrecht bei Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 15.05.2026  
-**Verfasser:** Dr. Kessler (Kapitalmarktrecht)  
-**Adressat:** Deal Team / Eagle Capital Partners Fund V  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 15.05.2026
+**Verfasser:** Dr. Kessler (Kapitalmarktrecht)
+**Adressat:** Deal Team / Eagle Capital Partners Fund V
 **Status:** Arbeitsfassung — nicht final
 
 ---
@@ -14,8 +14,8 @@ Solaris Industries AG ist nicht börsennotiert. Die Käuferin Eagle Capital Part
 
 Dieses Memo analysiert jedoch drei Szenarien, in denen MAR-Fragen gleichwohl relevant werden können:
 
-1. Eagle-LPs oder Co-Investoren sind börsennotierte Gesellschaften  
-2. Finanzierungsbanken haben börsennotierte Schuldverschreibungen ausstehend  
+1. Eagle-LPs oder Co-Investoren sind börsennotierte Gesellschaften
+2. Finanzierungsbanken haben börsennotierte Schuldverschreibungen ausstehend
 3. Konzernobergesellschaft des Verkäufers (Nordstern Beteiligungs SE) ist börsennotiert
 
 ---
@@ -39,9 +39,9 @@ Nordstern Beteiligungs SE (ISIN DE000NBS1234) ist am regulierten Markt der Frank
 
 Nordstern kann den Aufschub der Ad-hoc-Mitteilung nach Art. 17 Abs. 4 MAR beantragen, wenn:
 
-- Berechtigte Interessen an Geheimhaltung bestehen (z.B. Vertragsschutz)  
-- Geheimhaltung nicht irreführend ist  
-- Vertraulichkeit sichergestellt ist (Insiderliste geführt)  
+- Berechtigte Interessen an Geheimhaltung bestehen (z.B. Vertragsschutz)
+- Geheimhaltung nicht irreführend ist
+- Vertraulichkeit sichergestellt ist (Insiderliste geführt)
 
 **Empfehlung:** Nordstern IR sollte unverzüglich Aufschubentscheidung dokumentieren und Insiderliste anlegen. Aufschub endet spätestens bei Closing oder Undichtigkeit.
 

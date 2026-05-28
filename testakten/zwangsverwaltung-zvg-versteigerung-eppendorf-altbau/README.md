@@ -110,6 +110,6 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 ## Disclaimer
 
-Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Platzhalter sind als solche gekennzeichnet.
+Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Bild- und Kartenbeschreibungen sind als Text dokumentiert.
 
 Die Inhalte dienen ausschließlich der Ausbildung und dürfen nicht als Rechtsberatung im Einzelfall verstanden werden. Für konkrete rechtliche Fragen zu Zwangsversteigerungsverfahren ist stets anwaltlicher Rat einzuholen.

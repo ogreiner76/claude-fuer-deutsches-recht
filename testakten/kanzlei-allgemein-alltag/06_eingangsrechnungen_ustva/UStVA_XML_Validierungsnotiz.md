@@ -1,6 +1,6 @@
-PLACEHOLDER für eine mögliche UStVA-XML-Datei.
+# UStVA-XML — Validierungsnotiz
 
-Diese Datei ist keine echte ELSTER-XML und nicht uploadfähig.
+Für diese Testakte liegt keine echte ELSTER-XML vor; die Datei ist nicht uploadfähig.
 
 Erwarteter Workflow:
 1. Nicht als echte UStVA verwenden.

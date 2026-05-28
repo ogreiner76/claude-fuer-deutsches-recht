@@ -30,7 +30,7 @@ testakten/sozialrecht-rollstuhl-tannenberg/
     Aerztliches_Attest_Wallenstein_05-05-2026.pdf
     Bescheid_Nordsee-BKK_18-04-2026.pdf
     Eilantrag_SG_Kiel_25-08-2026.md
-    Foto_Rollator_kaputt.jpg.placeholder.txt
+    Bildbeschreibung_Rollator_kaputt.md
     Korrespondenz_mit_Nordsee-BKK.pdf
     Kostenvoranschlag_Sanitaetshaus_Reha-Aktiv-Nord.pdf
     MDK-Gutachten_03-04-2026.pdf
@@ -40,7 +40,7 @@ testakten/sozialrecht-rollstuhl-tannenberg/
     Verordnung_Muster16_09-02-2026.pdf
     Wegeaufstellung_Mandant.docx (+ .md-Vorschau)
     Widerspruchsschreiben_RA_Holm_20-05-2026.md
-    Wohnungsskizze_Mandant.png.placeholder.txt
+    Wohnungsskizze_Mandant_Beschreibung.md
 
   02-lena-schulbegleitung/            <- neuer Fall Schulbegleitung
     Bescheid_Jugendamt_Kiel_12-03-2026.pdf

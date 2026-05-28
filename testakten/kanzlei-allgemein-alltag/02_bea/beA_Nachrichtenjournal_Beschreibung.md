@@ -1,4 +1,4 @@
-PLACEHOLDER für beA-Nachrichtenjournal-Screenshot.
+# beA-Nachrichtenjournal — Screenshotbeschreibung
 
 Postfach: Rechtsanwältin Jana Reuter
 Filter: 20.05.2026, Eingang und Gesendet
@@ -10,5 +10,4 @@ Gesendet:
 - keine neuen Nachrichten
 
 Hinweis:
-- Screenshot muss im Echtlauf gespeichert werden.
-- Diese Datei ist nur Simulation.
+- Screenshot muss im Echtlauf gespeichert und mit dem beA-Journal abgeglichen werden.

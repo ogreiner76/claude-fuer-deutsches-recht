@@ -1,6 +1,6 @@
-PLACEHOLDER für XRechnung-XML.
+# XRechnung R-2026-0007 — Validierungsnotiz
 
-Dies ist keine valide XRechnung.
+Für diese Testakte liegt noch kein ERiC- oder Peppol-validierter XML-Export vor.
 
 Erwartete Pflichtdaten im echten Lauf:
 - Rechnungsnummer R-2026-0007

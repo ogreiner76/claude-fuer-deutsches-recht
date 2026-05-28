@@ -1,5 +1,4 @@
-PLATZHALTER: whatsapp-mieter-an-anwalt.png
-==========================================
+# Chatverlauf Mieter/Anwältin — Screenshotbeschreibung
 
 Dieses Dokument beschreibt einen WhatsApp-Screenshot, den Herr Eberhart-Wolframshausen
 seinem spaeter mandatierten Rechtsanwalt (RA Dr. Hassenstein-Heepen) zugesandt hat.

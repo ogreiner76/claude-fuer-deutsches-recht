@@ -7,7 +7,7 @@ description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrecht
 
 ## Zweck
 
-Das Marketing möchte das Produkt bestmöglich darstellen. Das Recht verlangt, dass Werbeaussagen wahr oder zumindest nicht nachweislich falsch sind. Diese Skill identifiziert Behauptungen, die Abmahnrisiken, behördliche Anfragen (Bundeskartellamt, Verbraucherschutzverbände) oder eine UWG-Klage auslösen können, und schlägt Alternativformulierungen vor, die Werbewirkung und Rechtskonformität verbinden.
+Das Marketing möchte das Produkt bestmöglich darstellen. Das Recht verlangt, dass Werbeaussagen wahr oder zumindest nicht nachweislich falsch sind. Dieser Skill identifiziert Behauptungen, die Abmahnrisiken, behördliche Anfragen (Bundeskartellamt, Verbraucherschutzverbände) oder eine UWG-Klage auslösen können, und schlägt Alternativformulierungen vor, die Werbewirkung und Rechtskonformität verbinden.
 
 Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbeschreibungen, E-Mail-Kampagnen, Anzeigentexte oder Influencer-Briefings zur Prüfung vorlegt.
 
@@ -33,9 +33,8 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 - Anlage 1 zu § 3 Abs. 3 UWG: Stets unzulässige geschäftliche Handlungen (Schwarze Liste)
 
 **Klimaaussagen und Nachhaltigkeitswerbung**
-- BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 (Klimaneutralität): Werbeaussage „klimaneutral" ist irreführend nach § 5 Abs. 1 UWG, wenn die Kompensation nicht transparent offengelegt wird; Verbraucher interpretieren „klimaneutral" als absolute Eigenschaft, nicht als Kompensationsversprechen. Die Aussage erfordert eine klare, unmittelbar zugängliche Erläuterung des Kompensationswegs. `[verify]`
-- BGH, Urt. v. 08.07.2021 – I ZR 214/18, GRUR 2021, 1561 (Umweltengel): Werbung mit Umwelteigenschaften unterliegt erhöhter Substantiierungspflicht. `[verify]`
-- RL 2024/825/EU (Green Claims-RL, Umsetzungsfrist läuft): Verschärfte Anforderungen an Nachhaltigkeitsaussagen, insb. Verbot unbelegter Klimaneutrality-Claims
+- BGH, Urt. v. 27.06.2024 – I ZR 98/23 (klimaneutral): Für Werbung mit Umweltschutzbegriffen gelten strenge Anforderungen an Richtigkeit, Eindeutigkeit und Klarheit. Bei mehrdeutigen Angaben wie „klimaneutral" muss die konkrete Bedeutung regelmäßig schon in der Werbung selbst klar erläutert werden.
+- RL (EU) 2024/825 (EmpCo-RL, Umsetzung bis 27.03.2026): Verschärfte Anforderungen an Nachhaltigkeitsaussagen, insbesondere gegen unbelegte generische Umweltaussagen und nicht transparente Kompensations-/Klimaneutralitätsclaims.
 
 **Gesundheitsbezogene Angaben**
 - Health-Claims-VO (EG) 1924/2006: Nährwert- und gesundheitsbezogene Angaben über Lebensmittel nur zulässig, wenn in der Positivliste (Art. 13 oder Art. 14) gelistet oder ausdrücklich zugelassen
@@ -43,20 +42,16 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 - LMIV VO (EU) 1169/2011: Irreführungsverbot für Lebensmittelkennzeichnung und -werbung
 
 **Vergleichende Werbung und Konkurrentennennung**
-- BGH, Urt. v. 02.04.2015 – I ZR 167/13, GRUR 2015, 1134 (Vergleichende Werbung — Prüfkriterien): Vergleich muss objektiv, nachweisbar, nicht irreführend und nicht verunglimpfend sein. `[verify]`
+- BGH, Urt. v. 02.04.2015 – I ZR 167/13, GRUR 2015, 1136: Vergleichende Werbung mit fremden Kennzeichen kann zulässig sein, wenn § 6 UWG eingehalten wird; die Prüfung muss objektiven Informationsnutzen, Nachprüfbarkeit, Irreführung, Herabsetzung und Rufausnutzung trennen.
 - BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 431 (Tiegelgröße): Irreführende Packungsgestaltung nach § 5 UWG bei unverhältnismäßig großer Verpackung im Verhältnis zur Füllmenge (Mogelpackung); zugleich Marktverhaltensregel i.S.d. § 3a UWG i.V.m. § 43 Abs. 2 MessEG.
 
 **Influencer-Werbung und Kennzeichnungspflicht**
-- BGH, Urt. v. 09.09.2021 – I ZR 90/20, GRUR 2022, 160 (Influencer II): Kommerzielle Postings ohne klare Kennzeichnung als Werbung sind unlauter nach § 5a Abs. 6 UWG (jetzt § 5a Abs. 4 UWG n. F.). `[verify]`
+- BGH, Urt. v. 09.09.2021 – I ZR 90/20 (Influencer I), I ZR 125/20 (Influencer II) und I ZR 126/20 (Influencer III): Kennzeichnungspflichten bei Social-Media-Posts hängen von geschäftlicher Handlung, Gegenleistung, werblichem Überschuss und Erkennbarkeit des kommerziellen Zwecks ab. Tap Tags, Eigenwerbung und Drittwerbung nicht schematisch behandeln.
 - § 22 MStV (Medienstaatsvertrag): Werbekennzeichnungspflicht für Telemedien und Social Media
-- BGH-Entscheidung GRUR 2022, 1812: Weitere Konkretisierung zur Werbekennzeichnung bei Eigenpromotion `[prüfen-pinpoint – Aktenzeichen und Datum in juris/beck-online verifizieren]`
 
 ### Kommentarliteratur
 
-- Bornkamm, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 5 Rn. 1.1 (Irreführende Werbung) `[prüfen-pinpoint]`
-- Henning-Bodewig, in: Harte-Bavendamm/Henning-Bodewig, UWG, 5. Aufl. 2021, § 6 Rn. 10 (Vergleichende Werbung) `[prüfen-pinpoint]`
-- Sosnitza, UWG, 4. Aufl. 2022, § 5 Rn. 44 (Alleinstellungsbehauptungen; Einzelautoren-Kommentar) `[prüfen-pinpoint]`
-- Streinz/Kraus, LFGB, 2. Aufl. 2022, § 11 Rn. 5 (Irreführungsverbot Lebensmittel; Doppelautoren-Kommentar) `[prüfen-pinpoint]`
+Kommentarliteratur nur mit kanzleiinternem Zugriff und geprüfter Randnummer verwenden; keine Randnummer aus Modellwissen ausgeben. Geeignete Startpunkte sind insbesondere Köhler/Bornkamm/Feddersen, UWG, zu §§ 5, 5a, 6 UWG; Harte-Bavendamm/Henning-Bodewig, UWG, zu § 6 UWG; Sosnitza, UWG, zu Alleinstellungs- und Spitzenstellungsbehauptungen; Streinz/Kraus, LFGB, zu lebensmittelrechtlicher Irreführung.
 
 ## Ablauf
 
@@ -229,7 +224,7 @@ Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 - **Kommentare:** Köhler/Bornkamm/Feddersen UWG, Harte-Bavendamm/Henning-Bodewig UWG, Sosnitza UWG
 - **Branchenspezifisch:** BfArM (Arzneimittelwerbung), BVL (Lebensmittelkennzeichnung), DAZ (Apothekenwesen)
 
-Quellen, die nur aus dem Modellwissen stammen, tragen das Tag `[verify]`. Pinpoint-Zitate (konkrete Randnummern, Seitenzahlen) tragen `[verify-pinpoint]`.
+Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

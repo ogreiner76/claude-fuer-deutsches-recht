@@ -48,15 +48,15 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 |-------|--------|
 | [01_posteingang/email_mandantin_meyer.txt](01_posteingang/email_mandantin_meyer.txt) | E-Mail von Clara Meyer mit Schilderung des Schlössertauschs |
 | [01_posteingang/fax_verfügung_amtsgericht.txt](01_posteingang/fax_verfuegung_amtsgericht.txt) | Fax-Verfügung des AG Mitte mit Fristsetzung 23.05.2026 |
-| [01_posteingang/whatsapp_screenshot_meyer.placeholder.txt](01_posteingang/whatsapp_screenshot_meyer.placeholder.txt) | Platzhalter für abgeschnittenen WhatsApp-Screenshot (Anlage K5) |
+| [01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.md](01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.md) | Beschreibung eines abgeschnittenen WhatsApp-Screenshots (Anlage K5) |
 
 ### 02 — beA
 
 | Datei | Inhalt |
 |-------|--------|
-| [02_bea/bea_nachrichtenjournal_screenshot.placeholder.txt](02_bea/bea_nachrichtenjournal_screenshot.placeholder.txt) | Platzhalter beA-Journal-Screenshot |
-| [02_bea/eingang_AG_Mitte_12_C_88_26.zip.placeholder.txt](02_bea/eingang_AG_Mitte_12_C_88_26.zip.placeholder.txt) | Platzhalter für eingegangenes beA-ZIP-Archiv (Klageerwiderung) |
-| [02_bea/versand_AG_Mitte_12_C_88_26.zip.placeholder.txt](02_bea/versand_AG_Mitte_12_C_88_26.zip.placeholder.txt) | Platzhalter für Versand-ZIP-Archiv (Schriftsatzantwort) |
+| [02_bea/beA_Nachrichtenjournal_Beschreibung.md](02_bea/beA_Nachrichtenjournal_Beschreibung.md) | Beschreibung des beA-Journal-Screenshots |
+| [02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.md) | Inhaltsvermerk für eingegangenes beA-ZIP-Archiv (Klageerwiderung) |
+| [02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.md) | Inhaltsvermerk für Versand-ZIP-Archiv (Schriftsatzantwort) |
 
 ### 03 — Schreib-Canvas
 
@@ -77,8 +77,8 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 |-------|--------|
 | [05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.md](05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.md) | Rechnungsentwurf R-2026-0007 an Clara Meyer — 418,88 EUR brutto — mit vollständigem Briefkopf, Leistungspositionen und Prüfstatus |
 | [05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.md](05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.md) | GoBD-Protokoll R-2026-0007 mit Pflichtangaben-Prüfliste, Versionskontrolle, Archivierungspflichten und offenen Punkten |
-| [05_rechnungen_ausgang/xrechnung_R-2026-0007.xml.placeholder.txt](05_rechnungen_ausgang/xrechnung_R-2026-0007.xml.placeholder.txt) | Platzhalter für XRechnung-XML (noch nicht generiert) |
-| [05_rechnungen_ausgang/zugferd_R-2026-0007.pdfa3.placeholder.txt](05_rechnungen_ausgang/zugferd_R-2026-0007.pdfa3.placeholder.txt) | Platzhalter für ZUGFeRD PDF/A-3 (noch nicht generiert) |
+| [05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.md) | Validierungsnotiz für XRechnung-XML (noch nicht generiert) |
+| [05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.md) | Validierungsnotiz für ZUGFeRD PDF/A-3 (noch nicht generiert) |
 
 ### 06 — Eingangsrechnungen / UStVA
 
@@ -89,7 +89,7 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 | [06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.md](06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.md) | Simulierter ELSTER-Eingabebogen Mai 2026 |
 | [06_eingangsrechnungen_ustva/elster_ausfall_szenario.md](06_eingangsrechnungen_ustva/elster_ausfall_szenario.md) | Protokoll ELSTER-Ausfall 19.05.2026 und Handlungsoptionen |
 | [06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.md](06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.md) | Vollständiges Steuerberater-Übergabepaket mit Ausgangsumsätzen, Eingangsumsätzen, §13b-Behandlung und fünf Rückfragen |
-| [06_eingangsrechnungen_ustva/ustva_upload_xml_unvalidiert.xml.placeholder.txt](06_eingangsrechnungen_ustva/ustva_upload_xml_unvalidiert.xml.placeholder.txt) | Platzhalter für noch nicht validiertes UStVA-XML |
+| [06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.md](06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.md) | Validierungsnotiz für noch nicht validiertes UStVA-XML |
 
 ### 07 — Tagesabschluss
 
@@ -146,8 +146,8 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 | [12_mandatsannahme_gwg/mandatsannahme_erwartung.md](12_mandatsannahme_gwg/mandatsannahme_erwartung.md) | Erwartetes Mandatsannahme-Ergebnis mit GwG-Freigabe und Ampel |
 | [12_mandatsannahme_gwg/mandatskontoblatt_erwartung.csv](12_mandatsannahme_gwg/mandatskontoblatt_erwartung.csv) | Mandatskontoblatt Nordstern Lux (Vergütungs- und Forderungsübersicht) |
 | [12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.md](12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.md) | Entwurf Mandatsvereinbarung mit KI- und Datenschutzklauseln |
-| [12_mandatsannahme_gwg/handelsregisterauszug_nordstern_placeholder.txt](12_mandatsannahme_gwg/handelsregisterauszug_nordstern_placeholder.txt) | Platzhalter Handelsregisterauszug Nordstern |
-| [12_mandatsannahme_gwg/personalausweis_kopie_placeholder.txt](12_mandatsannahme_gwg/personalausweis_kopie_placeholder.txt) | Platzhalter Ausweiskopie Mandant |
+| [12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.md](12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.md) | Aktenvermerk Handelsregisterauszug Nordstern |
+| [12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.md](12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.md) | Aktenvermerk Ausweiskopie Mandant |
 
 ### 13 — Kommandocenter
 

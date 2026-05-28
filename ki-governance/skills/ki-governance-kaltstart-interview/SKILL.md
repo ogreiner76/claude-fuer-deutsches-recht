@@ -110,7 +110,7 @@ systeme sehr großer Plattformen); Sektoren (BaFin MaRisk, MDR/IVDR);
 
 **Schritt 5 — Anwendungsfall-Register und Rote Linien**
 
-Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko Anhang III Nr. 2),
+Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a),
 HR-Zusammenfassungen, Kundendienst-Entwürfe, Spesen-Anomalieerkennung.
 Rote-Linien-Frage: „Was wäre automatisch Nein?" Verbotene Praktiken
 nach Art. 5 KI-VO als Ausgangspunkt (Social Scoring, subliminale

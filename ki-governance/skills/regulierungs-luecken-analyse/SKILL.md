@@ -131,19 +131,13 @@ Auch bei „keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 **Quellen-Tagging:**
 - `[gesichert]` — stabile Normen (z. B. DSGVO Art. 22, VO (EU) 2024/1689).
 - `[prüfen]` — Durchführungsrechtsakte, Leitlinien, Schwellenwerte.
-- `[prüfen-pinpoint]` — konkrete Artikelnummern, Anhang-Referenzen: IMMER
-  gegen Primärquelle (ABl., beck-online, juris) verifizieren. AI Act
-  Artikelnummern haben sich während der Konsolidierung verschoben.
+- **Pinpoint-Pflicht** — konkrete Artikelnummern, Anhang-Referenzen und Erwägungsgründe immer gegen die Primärquelle (ABl./EUR-Lex, beck-online, juris) verifizieren. AI-Act-Artikelnummern haben sich während der Konsolidierung verschoben; im Output keine ungeprüften Pinpoint-Tags stehen lassen.
 
 ## Beispiel
 
 **Anfrage:** „Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
 
-**Ablauf:** Betreiberrolle; Hochrisiko Anhang III Nr. 2 lit. a KI-VO
-(Einstellungsentscheidung) `[prüfen-pinpoint]`. Betreiber-Pflichten:
-Art. 26, 29 KI-VO `[prüfen]`; kein dokumentiertes Risikomanagementsystem
-→ Teilweise Lücke. Maßnahme: Folgenabschätzung nach Art. 9 KI-VO erstellen,
-Human-in-the-Loop dokumentieren, bis 01.08.2026.
+**Ablauf:** Betreiberrolle; Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. Betreiber-Pflichten aus Art. 26 KI-VO und ggf. Grundrechte-Folgenabschätzung nach Art. 27 KI-VO; bei eigener Anbieterrolle zusätzlich Anbieterpflichten, insbesondere Risikomanagement nach Art. 9 KI-VO. Maßnahme: Rollen sauber trennen, Human-in-the-Loop dokumentieren, Betriebsrat einbeziehen und Umsetzungsfrist im Maßnahmenplan führen.
 
 ## Risiken und typische Fehler
 
