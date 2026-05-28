@@ -51,5 +51,5 @@ Der Skill listet alle grünen Signale mit Zitat, Signaltyp (Zufriedenheitsformel
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.

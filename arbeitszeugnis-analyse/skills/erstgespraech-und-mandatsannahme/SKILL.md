@@ -84,8 +84,8 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 01.10.1998 — 6 AZR 176/97**, NZA 1999, 90 — Verwirkung des Zeugnisberichtigungsanspruchs setzt Zeitmoment (mehrere Jahre) und Umstandsmoment (Arbeitgeber durfte auf Abschluss vertrauen) voraus; frühzeitige Mandatsannahme schützt vor Verwirkungseinwand.
-- **LAG Hessen, Urt. v. 20.03.2019 — 6 Sa 1266/18** — Aufklärungspflicht des Anwalts über Beweislastverteilung im ersten Gespräch; Mandant muss verstehen, dass er bei Begehren einer besseren als befriedigenden Note (Note 3) die Beweislast trägt (BAG-Linie).
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Mandant früh über die Beweislast aufklären: Wer eine bessere als befriedigende Bewertung will, braucht Tatsachen und Belege.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Berichtigung oder Ergänzung bleibt Erfüllung des Zeugnisanspruchs; im Erstgespräch deshalb konkrete Streitstellen und Belege sichern.
 
 ## Kommentarliteratur
 

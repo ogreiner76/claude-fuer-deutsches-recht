@@ -45,14 +45,13 @@ Der Skill gibt eine azubi-spezifische Checkliste aus (Lernfortschritt / Praxis /
 ## Rechtliche Einordnung und Normen
 
 - **§ 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
-- **§ 13 BBiG** — Pflichten des Auszubildenden; bei Nichterfüllung kann Arbeitgeber schlechteres Zeugnis ausstellen (mit Beweislast!)
-- **§ 109 GewO** gilt analog für Ausbildungszeugnisse (BAG-Linie)
+- **§ 13 BBiG** — Pflichten des Auszubildenden; Pflichtverletzungen dürfen nur bei tragfähiger Tatsachengrundlage in die Beurteilung einfließen
+- Allgemeine Zeugnisgrundsätze zu Wahrheit, Klarheit und Wohlwollen sind bei Ausbildungszeugnissen entsprechend zu berücksichtigen
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 03.03.2020 — 9 AZR 62/19**, NZA 2020, 815 — Beweislastverteilung gilt auch bei Ausbildungszeugnissen: Unterschreitung der Note „befriedigend" muss der Ausbilder beweisen; Azubi muss bessere Note substantiiert belegen.
-- **BAG, Urt. v. 15.09.1995 — 5 AZR 31/94**, NZA 1996, 143 — Zeugnisnoten für Auszubildende dürfen nicht von der tatsächlichen Leistung abweichen; wohlwollendes Ausbildungszeugnis muss die Ausbildungsrealität fair abbilden.
-- **LAG Berlin-Brandenburg, Urt. v. 13.04.2018 — 10 Sa 2258/17** — Fehlender Berufsschulbezug in einem Zeugnis für einen dual Auszubildenden ist ein strukturelles Defizit; Nachbesserungsanspruch nach § 16 BBiG.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Allgemeine Beweislastlinie zur besseren als befriedigenden Bewertung; bei Ausbildungszeugnissen vorsichtig übertragen und stets am konkreten Ausbildungsstand messen.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Berichtigung oder Ergänzung bei Zeugnissen, die den gesetzlichen Anforderungen nicht genügen.
 
 ## Kommentarliteratur
 

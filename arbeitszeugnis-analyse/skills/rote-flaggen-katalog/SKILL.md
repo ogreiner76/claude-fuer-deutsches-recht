@@ -24,7 +24,7 @@ Das Wort „zufriedenstellend" ist im deutschen Zeugniscode besonders hinterhäl
 | „im Wesentlichen" | Einschränkung, erhebliche Mängel | Note 4-5 |
 | „war stets bemüht" | Trotz Bemühen keine guten Ergebnisse | Note 4 |
 | „erledigte Aufgaben nach Anweisung" | Keine Eigeninitiative, reine Befehlsausführung | Note 4 |
-| „kein Bedauern in der Schlussformel" | Arbeitgeber froh über das Ausscheiden | Note 4-5 |
+| „kein Bedauern in der Schlussformel" | Mögliches Distanzsignal, kein automatischer Klagepunkt | Kontextsignal |
 | „direkte Kommunikationsweise" | Grobe, schwierige Umgangsformen | Note 4-5 |
 | „hatte ein großes Selbstbewusstsein" | Arrogant, schwierig im Team | Note 4 |
 | Unterschrift durch hierarchisch tiefer stehende Person | Abwertung der Stellung | Rot (formal) |
@@ -33,7 +33,7 @@ Das Wort „zufriedenstellend" ist im deutschen Zeugniscode besonders hinterhäl
 
 **Beispiel 1 – Klassische „bemüht"-Falle:** „Herr Mayer war stets bemüht, seinen Aufgaben gerecht zu werden, und zeigte dabei guten Willen." → Klares Note-4-Signal durch „bemüht".
 
-**Beispiel 2 – Versteckte Schlussnote:** „Wir wünschen Frau Keller für ihren weiteren Weg alles Gute." — Kein Bedauern, kein Dank, minimaler Wunsch → Schlussformel Note 4-5.
+**Beispiel 2 – Kühle Schlussformel:** „Wir wünschen Frau Keller für ihren weiteren Weg alles Gute." — Kein Bedauern, kein Dank, minimaler Wunsch. Das ist ein deutliches Distanzsignal, rechtlich aber gesondert nach BAG 9 AZR 227/11 zu prüfen.
 
 **Beispiel 3 – Erwartungserfüllung als Negativsignal:** „Er hat unsere Erwartungen stets erfüllt und war ein zuverlässiger Mitarbeiter." — „Erfüllt" statt „übertroffen" → Note 4.
 
@@ -52,5 +52,6 @@ Der Skill listet alle erkannten roten Signale mit Zitat, Signaltyp (Direktformul
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: bessere als befriedigende Bewertung muss der Arbeitnehmer mit Tatsachen tragen.
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Schlussformeln nicht schematisch als Pflichtinhalt behandeln.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

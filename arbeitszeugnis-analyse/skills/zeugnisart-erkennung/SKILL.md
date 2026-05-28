@@ -15,7 +15,7 @@ Führungskräfte-Zeugnisse (leitende Angestellte) haben zusätzliche Erwartungen
 
 ## Geheimcode-Regeln
 
-| Zeugnisart | Pflichtbausteine | Fehlende Bausteine |
+| Zeugnisart | Mindest- und Erwartungsbausteine | Fehlende Bausteine |
 |---|---|---|
 | Einfaches Zeugnis | Art und Dauer der Tätigkeit | Keine Leistungsaussage erwartet |
 | Qualifiziertes Endzeugnis | Art, Dauer, Leistung, Verhalten, Schlussformel | Rotes Signal |
@@ -31,7 +31,7 @@ Führungskräfte-Zeugnisse (leitende Angestellte) haben zusätzliche Erwartungen
 
 **Beispiel 3 – Fehlendes Verhalten bei Endzeugnis (Orange):** Qualifiziertes Zeugnis mit Leistungsbeurteilung, aber ohne Verhaltensabschnitt gegenüber Kollegen/Kunden — Auslassung ist auffällig.
 
-**Beispiel 4 – Ausbildungszeugnis ohne Berufsschulangabe (Orange):** Bei BBiG-Zeugnis fehlt die Beurteilung des schulischen Teils komplett — Pflichtbaustein fehlt.
+**Beispiel 4 – Ausbildungszeugnis ohne Berufsschulangabe (Orange):** Bei einem BBiG-Zeugnis fehlt die Beurteilung des schulischen Teils komplett, obwohl Schule und Betrieb im Sachverhalt eine tragende Rolle spielen — erwarteter Baustein fehlt.
 
 ## Ausgabeformat
 
@@ -44,5 +44,5 @@ Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und liste
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

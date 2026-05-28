@@ -30,7 +30,7 @@ Jedes Zeugnis liegt als eigenes PDF in einem eigenen Unterordner. Der Dateiname 
 Alle Zeugnisse enthalten:
 
 - vollständigen Briefkopf mit Firmenname, Anschrift, Telefon, Fax, E-Mail sowie ggf. USt-IdNr. oder Registernummer
-- Logo-Platzhalter mit semantischer Beschreibung
+- schlichte Briefkopfmarke mit Kanzlei-, Praxis-, Hotel-, Bank- oder Unternehmensbezug
 - Ort und Datum der Ausstellung
 - Personalstammdaten (Name, Geburtsdatum, Eintritt, Austritt, Position)
 - Aufgabenbeschreibung als Fließtext und Bulletliste
@@ -49,5 +49,6 @@ Alle Zeugnisse enthalten:
 ## Technisches
 
 - Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen „...", Halbgeviertstrich und korrekt gesetzten Umlauten
+- Keine Blindtexte, keine leeren Lücken und keine Musterlösung im Aktenbestand
 - Personen, Firmen, Adressen und Personalnummern sind frei erfunden; Übereinstimmungen mit realen Personen oder Unternehmen sind nicht beabsichtigt
 - Die Zeugnisse sind als Trainings- und Testmaterial gedacht und ersetzen keine rechtliche Beratung

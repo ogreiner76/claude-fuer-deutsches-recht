@@ -57,10 +57,9 @@ Die Ausgabe umfasst: (1) Übersichtstabelle aller Sätze mit Ampelzuordnung, (2)
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Streit über eine Note schlechter als befriedigend (Note 3) trägt der Arbeitgeber die Beweislast; bei Begehren einer besseren Note liegt die Beweislast beim Arbeitnehmer; das Ampelsystem dient als Entscheidungsmatrix für die Klage-Erfolgsprognose.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung braucht der Arbeitnehmer tragfähige Tatsachen; das Ampelsystem ist nur eine Arbeitshilfe für die Prognose.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Zeugnis ausstellen, das Fortkommen nicht unnötig erschwert; auch wahre Aussagen können gegen Wohlwollensgebot verstoßen, wenn sie kodiert Negatives signalisieren.
-- **LAG Hamm, Urt. v. 13.03.2009 — 10 Sa 1782/08** — Streitwert der Zeugnisberichtigungsklage entspricht einem Monatsbruttogehalt; Ampel-Gesamtbewertung ist Ausgangspunkt für die Klageantrag-Konkretisierung.
-- **BAG, Urt. v. 06.06.2000 — 9 AZR 246/99**, BAGE 95, 48 — Vollständigkeit der Schlussformel (Bedauern, Dank, Wunsch) ist kein eigenständiger Anspruch auf die Note 1; aber das vollständige Fehlen belegt eine schlechtere Gesamtnote.
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Schlussformeln nicht schematisch als Pflichtinhalt bewerten; in der Tabelle Signalwirkung und Anspruch getrennt ausweisen.
 
 ## Kommentarliteratur
 

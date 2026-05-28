@@ -7,7 +7,7 @@ description: "Strategie und Antragsformulierungen für die Zeugnisberichtigungsk
 
 Wer in der Ampelanalyse rote oder orange Signale erkennt, steht vor der Frage, was tun. Dieser Skill fuehrt vom Befund zur konkreten Klagestrategie. Er deckt den vollen Weg ab: aussergerichtliches Berichtigungsverlangen, Klageantrag, Beweislastverteilung, Streitwertberechnung und Verfahrensoekonomie.
 
-Erste Stufe ist immer das aussergerichtliche Berichtigungsverlangen. Der Arbeitgeber muss zunaechst die Chance haben, das Zeugnis selbst zu korrigieren. Erst nach erfolglosem Verlangen wird Klage zulaessig. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Saetze benennen und die gewuenschte Formulierung vorschlagen. Eine pauschale Aufforderung „bitte verbessern" reicht nicht.
+Erste Stufe ist regelmäßig das außergerichtliche Berichtigungsverlangen. Der Arbeitgeber sollte die Chance haben, das Zeugnis selbst zu korrigieren. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Sätze benennen und die gewünschte Formulierung vorschlagen. Eine pauschale Aufforderung „bitte verbessern" hilft weder in der Verhandlung noch im späteren Prozess.
 
 Zweite Stufe ist die Klagepruefung. Nicht jedes orange Signal ist klagbar. Die Beweislast nach BAG-Rechtsprechung ist klar verteilt: Bei Streit um eine Note schlechter als befriedigend traegt der Arbeitgeber die Beweislast fuer die schlechte Bewertung. Bei Streit um eine Note besser als befriedigend traegt der Arbeitnehmer die Beweislast fuer die bessere Leistung. Wer also aus einer Drei eine Eins machen will, muss substantiieren — wer aus einer Vier eine Drei machen will, muss nur die Vier bestreiten und Wohlwollensgebot ruegen.
 
@@ -25,7 +25,7 @@ Die Verjaehrung folgt der regelmaessigen Verjaehrungsfrist nach §§ 195, 199 BG
 |---|---|---|
 | „bemueht" als Leistungsformel | Klagbar | Hoch |
 | Falsche Reihenfolge im Sozialverhalten | Klagbar | Hoch |
-| Unvollstaendige Schlussformel | Klagbar | Hoch |
+| Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
 | Negatives Codewort aus dem Codeworte-Katalog | Klagbar | Hoch |
 | Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
 | Konstante Note 3 in weichen Bereichen | Klagbar bei Wohlwollensverstoss | Mittel |
@@ -64,7 +64,7 @@ Statt „war stets bemueht, die ihm uebertragenen Aufgaben zur vollen Zufriedenh
 
 Statt „sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": „sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
 
-Statt fehlender Schlussformel: „Wir bedauern sein Ausscheiden, danken ihm fuer die geleistete Arbeit und wuenschen ihm fuer seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg".
+Als Vergleichsvorschlag zur knappen Schlussformel: „Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
 
 Ich bitte um Uebersendung des berichtigten Zeugnisses innerhalb von zwei Wochen ab Zugang dieses Schreibens.
 
@@ -78,7 +78,7 @@ Erstens, in der Leistungsbeurteilung statt „war stets bemueht" die Formulierun
 
 Zweitens, in der Verhaltensbeurteilung statt „Kollegen und Vorgesetzten" die Reihenfolge „Vorgesetzten, Kollegen und Kunden" mit dem Steigerer „stets" und dem Praedikat „einwandfrei".
 
-Drittens, in der Schlussformel die Aufnahme der drei Elemente Bedauern, Dank und Zukunftswuensche im Wortlaut: „Wir bedauern ihr Ausscheiden, danken ihr fuer die geleistete Arbeit und wuenschen ihr fuer ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg".
+Drittens, soweit der Schlussformelpunkt nach dem Einzelfall klagegeeignet ist, die Aufnahme der konkreten Vergleichs- oder Anspruchsformulierung im Wortlaut: „Wir bedauern ihr Ausscheiden, danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Vor Aufnahme in den Antrag gesondert prüfen: BAG 9 AZR 227/11.
 
 ### Beispiel 3 – Streitwert-Begruendung
 
@@ -104,10 +104,10 @@ Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalys
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Note schlechter als befriedigend trägt der Arbeitgeber die Beweislast; Klage auf Aufwertung von Note 4 auf Note 3 hat daher gute Ausgangslage.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Wer eine bessere als befriedigende Bewertung verlangt, muss die tragenden Tatsachen darlegen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber substantiiert tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot als Anspruchsgrundlage; Formulierungen, die das Fortkommen erschweren, sind berichtigungspflichtig auch ohne Notenstreit.
-- **BAG, Urt. v. 16.09.1997 — 9 AZR 663/96**, NZA 1998, 253 — Streitwert Zeugnisberichtigung entspricht einem Monatsbruttogehalt; gilt auch bei mehreren Streitpunkten, da Anspruch einheitlich ist.
-- **BAG, Urt. v. 09.09.1992 — 5 AZR 509/91** — Verwirkung des Zeugnisanspruchs: Zeitmoment bei drei bis vier Jahren Untätigkeit; Umstandsmoment wenn Arbeitgeber auf Akzeptanz vertrauen durfte.
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dank, Bedauern und Zukunftswünsche; Schlussformel-Anträge nur mit tragfähigem Einzelfallkontext.
+- **BAG, Urt. v. 27.04.2021 — 9 AZR 262/20** — Qualifiziertes Zeugnis verlangt eine individuelle verbale Beurteilung; tabellarische Schulnotenform reicht regelmäßig nicht.
 
 ## Kommentarliteratur
 

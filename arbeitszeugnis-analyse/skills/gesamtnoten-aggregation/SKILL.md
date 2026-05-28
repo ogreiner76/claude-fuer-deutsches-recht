@@ -5,11 +5,11 @@ description: "Aggregiert Einzelbewertungen aus Leistungs- Verhaltens- und Schlus
 
 # Gesamtnoten-Aggregation
 
-Die Gesamtnote eines Arbeitszeugnisses ergibt sich nicht aus einem einfachen Durchschnitt aller Einzelsätze. Stattdessen werden die Teile unterschiedlich gewichtet, und bestimmte Einzelsignale können die Gesamtnote trotz eines ansonsten guten Zeugnisses erheblich senken. Dieser Skill berechnet die Gesamtnote systematisch aus den Ergebnissen der vorgelagerten Analyse-Skills.
+Die Gesamtnote eines Arbeitszeugnisses ergibt sich nicht aus einem einfachen Durchschnitt aller Einzelsätze. Der Skill bildet deshalb keine Scheinmathematik, sondern eine begründete Notenspanne aus Gesamtbild, Kernformel, Leistungsteil, Verhaltensteil, Schlussformel, Auslassungen und Drift.
 
-Gewichtungsstruktur: Die Leistungsbeurteilung hat das höchste Gewicht (ca. 50 Prozent der Gesamtnote), gefolgt von der Verhaltensbeurteilung (ca. 30 Prozent) und der Schlussformel (ca. 20 Prozent). Die Zufriedenheitsformel ist dabei der wichtigste Einzelindikator innerhalb der Leistungsbeurteilung — sie allein kann für bis zu einem Drittel der Gesamtnote verantwortlich sein.
+Orientierungsstruktur: Die Leistungsbeurteilung hat regelmäßig das höchste Gewicht, die Verhaltensbeurteilung folgt dicht dahinter. Die Schlussformel ist ein starkes Praxissignal, aber kein gesetzlicher Pflichtbaustein mit fixer Prozentzahl. Die Zufriedenheitsformel bleibt der wichtigste Einzelindikator innerhalb der Leistungsbeurteilung, darf aber nicht blind gegen den Rest des Zeugnisses ausgespielt werden.
 
-Besondere Gewichtungsregeln: Rote Signale in der Schlussformel können ein ansonsten grünes Zeugnis auf Note 3 absenken, weil Eingeweihte die Schlussformel besonders genau lesen. Rote Signale bei der Verhaltensbeurteilung (insbesondere fehlende Loyalität bei Führungskräften oder falsche Reihenfolge der Personengruppen) können die Gesamtnote um bis zu eine Note nach unten ziehen. Eine fehlende Integritätsaussage bei einem Zeugnis in vertrauensrelevanter Position wird als eigenständiges rotes Signal mit starker Abwertungswirkung behandelt.
+Besondere Gewichtungsregeln: Rote Signale bei der Verhaltensbeurteilung, fehlende Führungsaussagen bei tatsächlicher Führungsverantwortung oder eine auffällige Bereichs-Drift können das Gesamtbild deutlich verschieben. Eine kalte Schlussformel kann ein gutes Zeugnis erklären oder relativieren, sollte aber nicht mechanisch eine Note absenken. Sie wird als Kontextsignal ausgewiesen und rechtlich gesondert eingeordnet.
 
 Bereichs-Drift-Penalty: Liegt im selben Themenbereich (Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis, Sozialverhalten) eine Notenspreizung von zwei oder mehr Stufen zwischen Höchst- und Niedrigsnote vor, wird die rechnerische Gesamtnote um eine halbe Stufe nach unten korrigiert. Konstant niedrige Noten (durchgehend Note 3) in den weichen Bereichen Innovation, Lernbereitschaft oder Sozialverhalten ziehen zusätzlich eine halbe Stufe Abschlag, weil Drift dort am stärksten ins Gewicht fällt. Der Bereichs-Drift-Detektor liefert die hierfür notwendigen Einzelbefunde, die satzweise Notenmatrix liefert die Datenbasis.
 
@@ -21,7 +21,7 @@ Die Gesamtnote wird als Spanne ausgegeben (z. B. „Note 2 bis Note 3"), weil di
 |---|---|---|
 | Leistungsbeurteilung gesamt | ca. 50% | Zufriedenheitsformel als Kernindikator |
 | Verhaltensbeurteilung | ca. 30% | Reihenfolge und Auslassungen beachten |
-| Schlussformel | ca. 20% | Fehlende Elemente stark abwertend |
+| Schlussformel | Kontextsignal | Signalwirkung und Anspruch trennen |
 | Rote Auslassung (Integrität/Loyalität) | Gesondert | Kann Gesamtnote um eine Note senken |
 | Widersprechende Signale | Gesondert | Führen zu Unsicherheitsabschlag |
 | Bereichs-Drift zwei Stufen | minus halbe Stufe | Schaufenster-Pattern |
@@ -52,5 +52,5 @@ Der Skill gibt aus: Gewichtete Einzelbewertungen je Teilbereich (Tabelle), Gesam
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.

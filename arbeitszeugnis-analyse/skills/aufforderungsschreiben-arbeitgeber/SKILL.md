@@ -9,7 +9,7 @@ Nach dem Mandantenbericht und Zustimmung des Mandanten zur Option B (oder als Pf
 
 ## Funktion und Wirkung
 
-Das Aufforderungsschreiben hat drei Funktionen. Es ist die zwingende prozessuale Vorstufe (ohne erfolgloses aussergerichtliches Verlangen ist eine Klage nicht zulaessig). Es ist die letzte Chance fuer eine guetliche Loesung ohne Gericht. Es ist die Beweisgrundlage fuer Verzug und Kostenerstattung im spaeteren Verfahren.
+Das Aufforderungsschreiben hat drei Funktionen. Es gibt dem Arbeitgeber eine faire Gelegenheit zur Korrektur, schärft die Streitpunkte für eine mögliche Klage und schafft eine saubere Grundlage für Fristsetzung, Verzug und Kostenargumente. Es sollte fast immer vor einer Klage stehen, aber nicht als starre Zulässigkeitsformel behauptet werden.
 
 Der Ton ist hoeflich, sachlich und bestimmt. Drohgebaerden sind kontraproduktiv. Die Klageandrohung erfolgt einmal am Ende, klar und ohne Eskalation. Beleidigungen, Empoerungssprache und ironische Spitzen schwaechen die spaetere Prozessposition.
 
@@ -33,7 +33,7 @@ Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts i
 
 ### Baustein 5 Schlussformel und Gesamtbild
 
-Pruefung der Schlussformel mit Dankesformel und Bedauern. Bei Arbeitgeberkuendigung oder einvernehmlicher Beendigung wird das Bedauern in der Regel beansprucht. Bei einer Arbeitnehmerkuendigung oder Eigenkuendigung ist zumindest die Dankesformel zu erwarten. Die Begruendung erfolgt mit Verweis auf die Funktion der Schlussformel im Bewerbungsverkehr.
+Prüfung der Schlussformel mit Dankesformel und Bedauern. Hier zurückhaltend formulieren: Nach BAG 9 AZR 227/11 besteht kein allgemeiner gesetzlicher Anspruch auf Dank, Bedauern und Wünsche. Der Baustein wird deshalb als Signal- und Vergleichspunkt geführt, außer ein Vergleich, ein Zwischenzeugnis, eine betriebliche Übung oder der Gesamtzusammenhang tragen mehr.
 
 ### Baustein 6 Fristsetzung
 
@@ -59,7 +59,7 @@ Wir beanstanden im Einzelnen:
 
 **Punkt 1 Arbeitsweise.** Sie haben formuliert: „Sie bemuehte sich, die ihr uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen." Diese Formulierung beschreibt nach gefestigter Rechtsprechung des BAG (etwa BAG vom 14. Oktober 2003, Az. 9 AZR 12/03) eine schlechtere als ausreichende Leistung. Sie steht in Widerspruch zu der von Ihnen gleichzeitig formulierten Gesamtzufriedenheit „stets zur vollen Zufriedenheit" in der Schlussformel. Wir bitten um folgende Formulierung: „Sie erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit."
 
-**Punkt 2 Schlussformel.** Die Schlussformel enthaelt keine Dankesformel und kein Bedauern ueber das Ausscheiden. Da das Arbeitsverhaeltnis durch arbeitgeberseitige Kuendigung beendet wurde, entspricht das Fehlen einer Bedauernsformel weder dem Wohlwollensgebot noch der gefestigten Erwartungshaltung im Bewerbungsverkehr. Wir bitten um folgende Schlussformel: „Wir bedauern das Ausscheiden von Frau [Name], danken ihr fuer die geleistete Arbeit und wuenschen ihr fuer ihren weiteren beruflichen und persoenlichen Lebensweg alles Gute."
+**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Uns ist bewusst, dass Dank, Bedauern und Zukunftswünsche nach der Rechtsprechung des Bundesarbeitsgerichts nicht ohne Weiteres zum gesetzlichen Mindestinhalt gehören. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: „Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
 
 **Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: „Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
 
@@ -98,9 +98,9 @@ Bleibt die Frist fruchtlos, geht es weiter mit `klage-strategie-zeugnisberichtig
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 14.10.2003 — 9 AZR 12/03**, NZA 2004, 428 — Aussergerichtliches Berichtigungsverlangen ist zwingende Voraussetzung der Klage; pauschale Aufforderung „bitte verbessern" genügt nicht; konkrete Streitstellen mit Alternativformulierung müssen benannt werden.
-- **BAG, Urt. v. 21.09.1999 — 9 AZR 893/98**, NZA 2000, 374 — Klagbarkeit von Schlussformelfehlern; Arbeitnehmer kann Aufnahme der vollständigen dreiteiligen Schlussformel verlangen, wenn Betriebsübung oder Umstände des Einzelfalls dies ergeben.
-- **LAG München, Urt. v. 09.09.2021 — 3 Sa 268/21** — Fristsetzung im Berichtigungsverlangen: zwei bis drei Wochen sind angemessen; bei Eilbedürftigkeit (z.B. unmittelbares Vorstellungsgespräch) auch kürzere Frist vertretbar.
+- **BAG, Urt. v. 14.10.2003 — 9 AZR 12/03** — Zufriedenheitsskala und Beweislast beim Begehren einer überdurchschnittlichen Beurteilung; konkrete Tatsachen und konkrete Formulierungen vorbereiten.
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dankes-, Bedauerns- und Wunschformel; Schlussformeln im Aufforderungsschreiben deshalb als Kontext- oder Vergleichspunkt begründen.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07** — Bei unzureichendem Zeugnisinhalt kann Berichtigung oder Ergänzung verlangt werden; Beanstandungen konkret auf den Zeugnisinhalt beziehen.
 
 ## Kommentarliteratur
 

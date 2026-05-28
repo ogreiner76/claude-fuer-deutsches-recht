@@ -11,7 +11,7 @@ Typische Auslassungen betreffen: Ehrlichkeit und Integrität (wenn diese Eigensc
 
 Subtile Negationsformen: Manchmal werden negative Eigenschaften durch das Muster „Er hat nie..." oder „Zu keiner Zeit..." kodiert. Diese scheinbar positiven Verneinungen können seltsam betont wirken und auf das Gegenteil hinweisen — eine sogenannte Verneinungs-Doppelung. „Es wurde nie ein Verdacht laut" ist eine bekannte Warnung vor Unregelmäßigkeiten. „Er war nicht in Vorfälle verwickelt" klingt entlastend, kann aber das Gegenteil suggerieren.
 
-Die Auslassungs-Checkliste wird nach Zeugnisart justiert: Ein einfaches Zeugnis hat andere Pflichtbausteine als ein qualifiziertes Endzeugnis einer Führungskraft. Der Skill prüft systematisch alle positionsbezogen erwarteten Aussagen und kennzeichnet fehlende als rote oder orange Signale.
+Die Auslassungs-Checkliste wird nach Zeugnisart justiert: Ein einfaches Zeugnis hat andere Mindestinhalte als ein qualifiziertes Endzeugnis einer Führungskraft. Der Skill prüft systematisch alle positionsbezogen erwarteten Aussagen und kennzeichnet fehlende als rote oder orange Signale, ohne aus jeder Lücke automatisch einen Anspruch zu machen.
 
 ## Geheimcode-Regeln
 
@@ -48,5 +48,5 @@ Der Skill gibt eine Auslassungs-Checkliste aus: Erwartete Aussage | Vorhanden (j
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

@@ -7,24 +7,24 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 Die Ampelfarbe allein reicht nicht, um ein Zeugnis sauber zu bewerten. Wer Drift erkennen, Schwerpunkte verschieben oder gezielt nachverhandeln will, braucht die Note jedes einzelnen notenrelevanten Satzes. Dieser Skill liefert genau das: eine vollständige Tabelle mit Satz, Themenbereich und Note von eins bis fünf.
 
-Die Notenzuweisung folgt einem festen Raster: Note 1 erfordert ein Steigerungsadverb („stets", „jederzeit", „aeusserst", „vollkommen", „in hoechstem Masse") in Kombination mit einem Superlativ oder einer Maximalformel. Note 2 hat das Adverb, aber keinen Superlativ — oder den Superlativ ohne Adverb. Note 3 enthält die Grundaussage ohne Steigerungsadverb und ohne Superlativ. Note 4 nutzt Einschraenkungen („im Wesentlichen", „weitgehend", „im Grossen und Ganzen") oder das Codewort „bemueht". Note 5 fehlt die positive Aussage ganz oder enthaelt Distanzformeln („zeigte Interesse", „angemessen", „korrekt" im Schlussteil).
+Die Notenzuweisung folgt keinem starren Automaten, sondern einer sprachlichen Plausibilitätsprüfung. Note 1 erfordert regelmäßig ein Steigerungsadverb („stets", „jederzeit", „äußerst", „vollkommen", „in höchstem Maße") in Kombination mit einem Superlativ oder einer Maximalformel. Note 2 hat das Adverb, aber keinen Superlativ, oder den Superlativ ohne durchgehende Zeitkomponente. Note 3 enthält die Grundaussage ohne Steigerungsadverb und ohne Superlativ. Note 4 nutzt Einschränkungen („im Wesentlichen", „weitgehend", „im Großen und Ganzen") oder das Codewort „bemüht". Note 5 fehlt die positive Aussage ganz oder enthält Distanzformeln, die im konkreten Kontext abwertend wirken.
 
 Die Themenbereich-Zuordnung folgt acht Kategorien: Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis und Sozialverhalten. Sätze, die mehreren Bereichen zugeordnet werden können, erhalten Mehrfachzuordnung. Die Matrix ist die direkte Eingangsbasis fuer den Bereichs-Drift-Detektor: ohne saubere Einzelnoten kein Drift-Befund.
 
-Besondere Aufmerksamkeit gilt zwei Mustern: erstens dem fehlenden Steigerungsadverb bei sonst guter Formulierung (typischer Abstieg von Note 1 auf Note 3), zweitens dem positiv klingenden Verb ohne Qualifikator („zeigte", „fand", „war in der Lage") — diese Konstruktion ist regelmaessig Note 3, weil sie nur die Faehigkeit, nicht die ausgepraegte Qualitaet beschreibt.
+Besondere Aufmerksamkeit gilt zwei Mustern: erstens dem fehlenden Steigerungsadverb bei sonst guter Formulierung, zweitens dem positiv klingenden Verb ohne Qualifikator („zeigte", „fand", „war in der Lage"). Diese Konstruktionen sind häufig mittelwertig, aber nicht automatisch schlecht. Entscheidend bleiben Position, Branche, Aufgabenprofil und Gesamtzusammenhang.
 
 ## Geheimcode-Regeln
 
 | Sprachmuster | Note |
 |---|---|
-| Steigerungsadverb plus Superlativ („stets aeusserst", „jederzeit hervorragend") | Note 1 |
+| Steigerungsadverb plus Superlativ („stets äußerst", „jederzeit hervorragend") | Note 1 |
 | Superlativ ohne Adverb oder Adverb ohne Superlativ | Note 2 |
 | Grundaussage ohne Adverb, ohne Superlativ („gute Ideen", „hohe Lernbereitschaft") | Note 3 |
-| Einschraenkung („im Wesentlichen", „weitgehend") oder Codewort „bemueht" | Note 4 |
+| Einschränkung („im Wesentlichen", „weitgehend") oder Codewort „bemüht" | Note 4 |
 | „angemessen", „korrekt" im Leistungsteil, fehlende positive Aussage | Note 5 |
 | „zeigte", „fand", „war in der Lage zu" ohne Steigerung | Note 3 |
-| „verfuegt ueber" ohne Steigerung | Note 3 |
-| „verfuegt ueber aeusserst profundes" plus Maximalbereich | Note 1 |
+| „verfügt über" ohne Steigerung | Note 3 |
+| „verfügt über äußerst profundes" plus Maximalbereich | Note 1 |
 
 ## Beispiele
 
@@ -53,5 +53,5 @@ Tabelle mit den Spalten: laufende Nummer, Satzkurzform (gekuerzt auf maximal ach
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

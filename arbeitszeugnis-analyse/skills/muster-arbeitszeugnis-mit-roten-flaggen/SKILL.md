@@ -7,7 +7,7 @@ description: "Anonymisiertes Beispielzeugnis mit roten orangen und gruenen Bewer
 
 Dieses anonymisierte Musterzeugnis zeigt ein real vorkommendes Mischbild: ein Zeugnis, das auf den ersten Blick positiv erscheint, aber bei näherer Analyse mehrere rote und orange Signale enthält. Es dient ausschließlich als Schulungsmaterial zur Übung der Geheimcode-Erkennung. Alle Namen und Daten sind fiktiv.
 
-Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale verteilen sich: Leistungsbeurteilung enthält das klassische „bemüht"-Signal (Rot), die Verhaltensbeurteilung hat eine falsche Reihenfolge (Orange) und eine fragwürdige Formulierung (Orange), und die Schlussformel ist unvollständig — das Bedauern fehlt (Orange bis Rot).
+Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale verteilen sich: Leistungsbeurteilung enthält das klassische „bemüht"-Signal (Rot), die Verhaltensbeurteilung hat eine falsche Reihenfolge (Orange) und eine fragwürdige Formulierung (Orange), und die Schlussformel ist kühl — das Bedauern fehlt (Signal Orange bis Rot, rechtlich gesondert zu prüfen).
 
 ## Geheimcode-Regeln
 
@@ -17,7 +17,7 @@ Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale v
 | „war stets bemüht" | Klassisches Note-4-Signal | Rot | Note 4 |
 | „Kollegen und Vorgesetzte" (Reihenfolge) | Falsche Reihenfolge | Orange | Note 3 |
 | „direkte Kommunikationsweise" | Euphemismus für schwieriges Verhalten | Rot | Note 4-5 |
-| Schlussformel ohne Bedauern | Fehlender Pflichtbaustein | Orange-Rot | Note 3-4 |
+| Schlussformel ohne Bedauern | Kühles Distanzsignal | Orange-Rot | Kontextsignal |
 
 ## Beispiele
 
@@ -48,7 +48,7 @@ Gegenüber Kollegen und Vorgesetzten verhielt sich Herr Beispiel korrekt. Er zei
 **Schlussformel:**
 Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute.
 
-*(Analyse: Kein Bedauern = Orange-Rot; Dank ohne Adjektiv = Orange; Wunsch schwach formuliert = Orange; Gesamtnote Schlussformel: Note 3-4)*
+*(Analyse: Kein Bedauern = Orange-Rot als Signal; Dank ohne Adjektiv = Orange; Wunsch schwach formuliert = Orange. Rechtlich kein Automatismus wegen BAG 9 AZR 227/11.)*
 
 ---
 
@@ -61,7 +61,7 @@ Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunf
 | Schlussformel | Orange | Note 3-4 |
 | **Gesamtnote** | **Rot** | **Note 4** |
 
-**Handlungsempfehlung:** Nachverhandlung aller Leistungs- und Verhaltensformulierungen sowie vollständige Neufassung der Schlussformel empfohlen. Bei Weigerung: Klage auf Zeugnisberichtigung prüfen.
+**Handlungsempfehlung:** Nachverhandlung aller Leistungs- und Verhaltensformulierungen sowie wärmere Schlussformel als Vergleichspunkt empfohlen. Bei Weigerung: Klage vor allem zu Leistungs- und Verhaltensformulierungen prüfen; Schlussformel nur mit Zusatzkontext.
 
 ## Ausgabeformat
 
@@ -74,5 +74,5 @@ Der Skill gibt das Muster-Zeugnis mit eingebetteten Analyse-Kommentaren aus (wie
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

@@ -72,9 +72,8 @@ Der Skill liefert bei Eingabe eines Zeugnis-Auszugs eine vollständige Tabelle a
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot verpflichtet Arbeitgeber zu förderlicher Formulierung; Geheimcodeformulierungen, die trotz wahrer Aussage das Fortkommen erschweren, sind berichtigungspflichtig.
-- **BAG, Urt. v. 21.06.2005 — 9 AZR 352/04**, NZA 2006, 104 — Berichtigungsanspruch bei Formulierungen, die für einschlägige Fachkreise (Personalleiter) eine negative Botschaft tragen, für den Arbeitnehmer selbst aber unklar sind; Schutz des Arbeitnehmers hat Vorrang.
-- **LAG Hamm, Urt. v. 15.06.2010 — 14 Sa 1727/09** — Expliziter Ehrlichkeitshinweis in einem Zeugnis ohne Vertrauensstellung ist ein unzulässiges Negativ-Signal; der Arbeitnehmer kann Streichung verlangen ohne die Wahrheit zu bestreiten.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Genügt das Zeugnis den gesetzlichen Anforderungen nicht, kann Berichtigung oder Ergänzung verlangt werden.
+- **BAG, Urt. v. 15.11.2011 — 9 AZR 386/10**, BAGE 140, 15 — Keine schematische Geheimcode-Unterstellung; entscheidend sind objektiver Empfängerhorizont und Gesamtzusammenhang.
 
 ## Kommentarliteratur
 

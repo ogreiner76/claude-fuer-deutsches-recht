@@ -5,7 +5,7 @@ description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende A
 
 # Arbeitszeugnisse für leitende Positionen
 
-Zeugnisse für Führungskräfte und leitende Angestellte unterliegen erhöhten inhaltlichen Anforderungen. Zu den allgemeinen Bausteinen (Leistung, Verhalten, Schlussformel) treten positionsspezifische Pflichtbausteine: Mitarbeiterführung und -entwicklung, strategische Verantwortung, wirtschaftliche Verantwortung (Budget, P&L), Repräsentation nach außen und Unternehmensloyalität auf Führungsebene. Das Fehlen auch nur eines dieser Bausteine bei einer unstreitig in Führungsverantwortung tätigen Person ist ein starkes rotes Signal.
+Zeugnisse für Führungskräfte und leitende Angestellte unterliegen erhöhten inhaltlichen Erwartungen. Zu den allgemeinen Bausteinen (Leistung, Verhalten, Schlussformel) treten positionsspezifische Erwartungsbausteine: Mitarbeiterführung und -entwicklung, strategische Verantwortung, wirtschaftliche Verantwortung (Budget, P&L), Repräsentation nach außen und Unternehmensloyalität auf Führungsebene. Das Fehlen eines solchen Bausteins ist vor allem dann ein starkes rotes Signal, wenn die Führungsverantwortung unstreitig war und im Aufgabenblock selbst genannt wird.
 
 Die Mitarbeiterführungsaussage ist das wichtigste Merkmal des Führungskräfte-Zeugnisses. Formeln wie „führte ihre Mitarbeiter stets motivierend und mit großem Erfolg" (Grün) bis zu „pflegte einen kooperativen Führungsstil" (Orange) bis zum Fehlen jeglicher Führungsaussage (Rot) decken die Bandbreite ab. Besonders abwertend ist das Fehlen einer Aussage zur Führungsleistung kombiniert mit einer allgemeinen Kollegen-Verhaltensaussage — es suggeriert, dass die Führungsaufgabe gar nicht ausgeübt wurde.
 
@@ -15,7 +15,7 @@ Für Mitglieder der Geschäftsführung oder des Vorstands sind zusätzliche Baus
 
 ## Geheimcode-Regeln
 
-| Pflichtbaustein (Führungskraft) | Fehlend bedeutet | Ampel |
+| Erwartungsbaustein (Führungskraft) | Fehlend bedeutet | Ampel |
 |---|---|---|
 | Mitarbeiterführung und -entwicklung | Führungsversagen oder -schwäche | Rot |
 | Strategische Verantwortung | Keine Strategiebeteiligung | Orange-Rot |
@@ -47,5 +47,5 @@ Der Skill prüft zunächst, ob es sich um ein Führungskräfte-Zeugnis handelt (
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: Für eine bessere als befriedigende Bewertung muss der Arbeitnehmer Tatsachen vortragen und beweisen; eine unterdurchschnittliche Bewertung muss der Arbeitgeber tragen.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.

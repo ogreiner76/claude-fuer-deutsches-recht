@@ -23,7 +23,7 @@ Orange Signale treten auch strukturell auf: Ein Zeugnis, das alle Bausteine enth
 | „überwiegend ordnungsgemäß" | Einschränkung auf Note 3 | Orange |
 | „in der Regel zuverlässig" | Gelegentliche Unzuverlässigkeit | Orange |
 | „hat sich in das Team integriert" | Keine besonderen sozialen Stärken | Orange |
-| Schlussformel nur aus Dank + Wunsch | Fehlendes Bedauern | Orange |
+| Schlussformel nur aus Dank + Wunsch | Fehlendes Bedauern; Signal, kein automatischer Anspruch | Orange |
 | „war mit seinen Aufgaben vertraut" | Keine besondere Expertise | Orange |
 | „hat die übertragenen Aufgaben erfüllt" | Minimum ohne Übererfüllung | Orange |
 
@@ -35,7 +35,7 @@ Orange Signale treten auch strukturell auf: Ein Zeugnis, das alle Bausteine enth
 
 **Beispiel 3 – Einschränkungsadverb:** „Sie erledigte ihre Aufgaben überwiegend selbstständig und termingerecht." — „Überwiegend" als Einschränkung → Orange, Note 3.
 
-**Beispiel 4 – Orange Schlussformel:** „Wir danken Herrn König für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute." — Vorhanden: Dank und Wunsch. Fehlend: Bedauern → Orange, Note 3.
+**Beispiel 4 – Orange Schlussformel:** „Wir danken Herrn König für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute." — Vorhanden: Dank und Wunsch. Fehlend: Bedauern. Das ist kühl bis mittelwertig, aber als Anspruch nur mit Einzelfallkontext zu führen.
 
 **Beispiel 5 – Integration statt Teamstärke:** „Frau Bauer hat sich gut in unser Team integriert und war kollegial." — Integration als passive Formulierung statt aktiver Teamstärke → Orange.
 
@@ -50,5 +50,6 @@ Der Skill listet alle orange Signale mit Zitat, Signaltyp (fehlende Steigerung/E
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei der Schlussbeurteilung: bessere als befriedigende Bewertung muss der Arbeitnehmer mit Tatsachen tragen.
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Kein allgemeiner Anspruch auf Dank, Bedauern und Zukunftswünsche.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

@@ -48,8 +48,8 @@ Der Skill gibt aus: pro Themenbereich eine Tabelle mit den enthaltenen Saetzen, 
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot verbietet Formulierungen, die Fortkommen unnötig erschweren; ein Zeugnis mit systemischen Widersprüchen im Leistungsbereich ist berichtigungspflichtig.
-- **LAG Köln, Urt. v. 22.11.2019 — 7 Sa 523/19** — Drift zwischen Überschrift-Note und Einzelsatz-Note: Wenn die Zufriedenheitsformel Note 1 verspricht, aber einzelne Leistungssätze Note 3-4 signalisieren, überwiegt die schwächere Note für die Gesamtbewertung; Kläger kann auf Kohärenz klagen.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Zeugnisinhalt muss den gesetzlichen Anforderungen genügen; Widersprüche im Leistungsbild können Berichtigungsbedarf begründen.
+- **BAG, Urt. v. 27.04.2021 — 9 AZR 262/20** — Das qualifizierte Zeugnis verlangt eine individuelle verbale Beurteilung; schematische Bewertungen ersetzen das Gesamtbild nicht.
 
 ## Triage — vor der Drift-Prüfung
 
