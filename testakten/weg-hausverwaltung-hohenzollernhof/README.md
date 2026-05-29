@@ -1,76 +1,79 @@
 # Akte: WEG Hohenzollernhof — Hausverwaltung unter Druck
 
-Arbeitsakte für das Plugin `weg-hausverwaltung`. Stand: 27.05.2026 (vor Eigentuemerversammlung am 17.06.2026).
+**Arbeitsstand:** 30.05.2026
+**Objekt:** Hohenzollerndamm 180/180a/180b, Berlin-Wilmersdorf
+**Einheiten:** 38 Wohnungen, 2 Teileigentumseinheiten, 31 Tiefgaragenstellplätze
+**Nächste Eigentümerversammlung:** 17.06.2026
 
-Die Akte simuliert eine **realistische Berliner Mittel-WEG** mit 38 Wohnungen und 2 Gewerbeeinheiten am Hohenzollerndamm 180. Sie ist bewusst **unordentlich** und enthaelt **mehrere Fehlerquellen** (CO2-Aufteilung versaeumt, formal angreifbare Beschlussvorlagen, schlechter Verteilungsschluessel bei der geplanten Sonderumlage, Hausgeldrueckstand mit verspaeteten Mahnungen).
+Diese Verwaltungsakte bildet den laufenden Zustand einer mittelgroßen WEG ab: technisch überfordert, kaufmännisch angespannt, kommunikativ gereizt und voller kleiner Themen, die sich gegenseitig hochschaukeln. Die Akte ist nicht glatt sortiert. Genau darin liegt ihr Nutzen für das Plugin `weg-hausverwaltung`: Es muss Fristen, Beschlüsse, Abrechnungen, technische Maßnahmen, Mieterschnittstellen und Alltagskonflikte auseinanderhalten.
 
-## Schluessel-Konflikte Stichtag 27.05.2026
+## Download im Release
 
-1. **Balkonsanierung 12 Balkone Hofseite** — 180.000-240.000 EUR, drei Handwerker-Angebote
-2. **Sonderumlage** geplant 240.000 EUR (Beirat: zu hoch, falscher Verteilungsschluessel)
-3. **Steckersolar** — 5 Antraege § 20 II Nr. 5 WEG
-4. **Wallbox** WE 19 Yildiz — § 20 II Nr. 2 WEG mit Antragsanspruch
-5. **Hausgeldrueckstand Pasternak** WE 3 — 3.420 EUR, Mahnbescheid in Vorbereitung
-6. **Heizung Buderus** — Schwankungen, ggf. Tausch (GEG-Bezug)
-7. **CO2-Aufteilung 2023/2024/2025** — Verwalter hat Stufenmodell ignoriert
-8. **Anwaltsschreiben Eigentuemer Mautz** — droht mit Beschlussersetzungs-Klage
+| Paket | Direkt-Download |
+| --- | --- |
+| Hohenzollernhof WEG/Hausverwaltung | [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
 
-## Akten-Dokumente
+## Aktenkern
+
+1. Balkone, Dachanschlüsse und Sonderumlage.
+2. Heizungsstörung, Feuchte im Fahrradkeller, Versicherung und Notmaßnahmen.
+3. Jahresabrechnung 2025, Wirtschaftsplan 2026, Ist-/Plan-Abweichungen und Vermieterpaket.
+4. Wallbox, Ladeinfrastruktur, Steckersolar, Dach-PV und gefährlicher Kellerstrom.
+5. Restaurant Il Tiglio: Geruch, Hof, Müll, Lieferverkehr und Abluft.
+6. Fahrradkeller, Diebstahl, Tauben, Kinder im Hof und Weihnachtsbaum.
+7. Hausgeldrückstand, Anwaltsschreiben, Beschlussanfechtungsrisiken und Beiratskontrolle.
+
+## Dokumente
 
 | Datei | Inhalt |
-|-------|--------|
-| `00-stammdaten.md` | Stammdaten WEG, Eigentuemerliste, Verwalterin, Beirat |
-| `01-verwaltungsbeirat-notiz.md` | Beiratsnotiz mit Prioritaeten und Stimmungslage |
+| --- | --- |
+| `00-stammdaten.md` | Stammdaten WEG, Eigentümerliste, Verwalterin, Beirat |
+| `01-verwaltungsbeirat-notiz.md` | Beiratsnotiz mit Prioritäten und Stimmungslage |
 | `02-einladung-eigentuemerversammlung-entwurf.md` | Rohentwurf Einladung 17.06.2026 |
-| `03-handwerkerangebote-balkone-und-dach.md` | Drei Handwerkerangebote (178-235 TEUR) |
-| `04-jahresabrechnung-2025-rohpruefung.md` | Jahresabrechnung 2025 mit Rueckfragen |
+| `03-handwerkerangebote-balkone-und-dach.md` | Drei Handwerkerangebote |
+| `04-jahresabrechnung-2025-rohpruefung.md` | Jahresabrechnung 2025 mit Rückfragen |
 | `05-eigentuemer-und-mieterbeschwerden.md` | Beschwerdemails, Hausordnungsstreit |
 | `06-beschlussliste-alt-und-neu.md` | Beschlusssammlung |
-| `07-teilungserklaerung-auszug.md` | TE-Auszuege Sondereigentum / Gemeinschaftseigentum / Sondernutzung |
-| `08-verwaltervertrag-auszug.md` | Verwaltervertrag-Schluesselklauseln, Pflichtverletzungen markiert |
-| `09-wirtschaftsplan-2026-entwurf.md` | Wirtschaftsplan 287.450 EUR + Sonderumlage-Varianten A/B |
-| `10-beschlussvorlagen-eigentuemerversammlung.md` | Beschlussvorlagen aller TOPs der EV 17.06.2026 |
-| `11-co2kostaufg-aufteilungspruefung.md` | CO2KostAufG-Stufenmodell mit Berechnung (Stufe 5 fuer Hohenzollernhof) |
-| `12-anfechtungsrisiko-matrix.md` | Anfechtungs-Risiko pro TOP, BGH V ZR-Bezuege |
+| `07-teilungserklaerung-auszug.md` | Teilungserklärungsauszüge |
+| `08-verwaltervertrag-auszug.md` | Verwaltervertrag-Schlüsselklauseln |
+| `09-wirtschaftsplan-2026-entwurf.md` | Wirtschaftsplan 2026 + Sonderumlage |
+| `10-beschlussvorlagen-eigentuemerversammlung.md` | Beschlussvorlagen EV 17.06.2026 |
+| `11-co2kostaufg-aufteilungspruefung.md` | CO2KostAufG-Aufteilungsprüfung |
+| `12-anfechtungsrisiko-matrix.md` | Anfechtungs-Risiko pro TOP |
 | `13-hausgeldmahnung-pasternak-WE3.md` | Mahnschreiben + Mahnbescheid-Entwurf |
-| `14-fristen-kalender-2026.md` | Fristen-Kalender (3-Wochen-EV-Frist, Anfechtungsfristen, Sonderumlage-Raten) |
-| `15-anwaltsschreiben-eigentuemer-balkone-droht-klage.md` | Drohbrief Anwalt Eigentuemer Mautz |
+| `14-fristen-kalender-2026.md` | Fristen-Kalender |
+| `15-anwaltsschreiben-eigentuemer-balkone-droht-klage.md` | Anwaltsschreiben Mautz |
 | `16-protokoll-eigentuemerversammlung-vergangene.md` | Protokoll EV 25.10.2024 |
 | `17-wallbox-antrag-yildiz-WE19.md` | Wallbox-Antrag mit technischer Beschreibung |
-| `mandant.yaml` | Mandanten-Stammdaten strukturiert |
+| `18-heizung-wasserschaden-versicherung.md` | Heizungsstörung, Wasserschaden, Versicherung |
+| `19-whatsapp-hausverwaltung-beirat-thread.md` | WhatsApp-Auszug Verwaltung / Beirat |
+| `20-restaurant-geruch-laerm-hof.md` | Restaurant, Geruch, Müll, Hof, Lieferverkehr |
+| `21-fahrrad-tauben-kinder-weihnachtsbaum.md` | Fahrrad, Tauben, Kinder, Weihnachtsbaum |
+| `22-e-mobilitaet-pv-kellerstrom.md` | E-Mobilität, Dach-PV, Steckersolar, Kellerstrom |
+| `23-top-marathon-einladung-und-beschlussfassungen.md` | 18 Tagesordnungspunkte und Protokollhinweise |
+| `24-nebenkosten-ist-plan-vermieterpaket.md` | Ist-/Plan-Abrechnung und Mieterschnittstelle |
+| `eml/*.eml` | E-Mail-Fragmente Mietervertretung, Restaurant, Beirat |
+| `tabellen/*` | CSV und Excel zu Ist-/Plan-Kosten 2025/2026 |
+| `bilder/*.jpg` | Fotoablage mit Schaden-/Konfliktmotiven |
+| `Gesamtakte_Hohenzollernhof_WEG_Hausverwaltung.pdf` | Konsolidierte Aktenfassung mit mindestens 100 Seiten |
 
-## Verwendung mit den Skills
+## Passende Skills
 
-Diese Akte ist ideal, um die folgenden Skills aus `weg-hausverwaltung` anzuwenden:
+- `grossakte-konfliktlandkarte`
+- `eigentuemerversammlung-vorbereiten`
+- `protokollwerkstatt-top-marathon`
+- `abrechnung-ist-plan-mieterschnittstelle`
+- `heizung-schaden-versicherung-notmassnahme`
+- `e-mobilitaet-steckersolar-kellerstrom`
+- `gewerbe-restaurant-geruch-laerm-hof`
+- `hausordnung-tauben-fahrrad-kinder-weihnachtsbaum`
+- `beschlussanfechtung-risiko`
+- `eskalation-anwalt-amtsgericht`
 
-- `eigentuemerversammlung-vorbereiten` (Einladung Frist 27.05.2026!)
-- `einladung-tagesordnung-fristen` (3-Wochen-Frist § 24 IV WEG)
-- `beschlussvorlagen-erstellen` (8 TOPs mit Risiko-Matrix)
-- `beschlussanfechtung-risiko` (Risiko-Matrix pro TOP, BGH V ZR-Linie)
-- `wirtschaftsplan-jahresabrechnung-28-weg` (Plan mit Sonderumlage-Variante A/B)
-- `betriebskosten-nebenkostenabrechnung` (CO2-Aufteilung Stufe 5)
-- `hausgeld-sonderumlage-liquiditaet` (Sonderumlage-Varianten, Verteilungs-Aenderung)
-- `bauliche-veraenderungen-20-weg` (Wallbox + Steckersolar)
-- `steckersolar-wallbox-barrierefreiheit` (§ 20 II Nr. 2/5 WEG)
-- `handwerker-beauftragung-vergabe` (3 Angebote, Vergleich)
-- `verwalterpflichten-26-27-weg` (Verwalter-Vertragsverletzungen markiert)
-- `beirat-controlling-verwalter` (Beirats-Anmerkungen integriert)
-- `eskalation-anwalt-amtsgericht` (Anwaltsschreiben Mautz, Klage-Drohung)
-- `eigentuemerkommunikation-beschwerde` (Beschwerde-Mails)
-- `beschlusssammlung-protokoll` (Beschluesse 2024 protokolliert)
-- `mandat-objekt-triage` (Schluessel-Konflikt-Liste am Stichtag)
+## Gute Arbeitsaufträge
 
-## Ziel
-
-Die Akte ist **ohne vorgefertigte Loesung** zu nutzen. Gute Tests:
-
-- **Eigentuemerversammlung vollstaendig vorbereiten** (Einladung formgerecht, Beschlussvorlagen anfechtungssicher).
-- **Anfechtungs-Risiko** der vorbereiteten Beschluesse bewerten.
-- **Sonderumlage** optimal strukturieren (Verteilungs-Aenderung BGH V ZR 236/23, sachlicher Grund).
-- **Wallbox- und Steckersolar-Antraege** rechtssicher beschluss-faehig machen.
-- **CO2-Aufteilung** korrekt nachvollziehen und Korrektur bewirken.
-- **Hausgeldrueckstand Pasternak** durch Mahnbescheid und ggf. Klage durchsetzen.
-- **Verwalter-Eskalation** bei Pflichtverletzungen (CO2, Berichts-Pflicht) erwaegen.
-- **Anwaltsschreiben Mautz** angemessen beantworten.
-
-## Realismus
+- Eigentümerversammlung mit 18 TOPs beschlussreif vorbereiten.
+- Die Jahresabrechnung 2025 und den Wirtschaftsplan 2026 auf WEG- und Mieterschnittstelle prüfen.
+- Heizungs-/Wasserschaden in Sofortmaßnahme, Versicherung und Beschlussnachlauf zerlegen.
+- Wallbox, Dach-PV, Steckersolar und Kellerstrom in eine rechtssichere Beschlussarchitektur bringen.
+- Restaurant-, Fahrrad-, Tauben-, Kinder- und Weihnachtsbaumkonflikte deeskalierend, aber beweisfest bearbeiten.

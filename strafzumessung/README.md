@@ -1,6 +1,14 @@
 # Strafzumessung
 
-Plugin fuer die **Strafzumessung nach deutschem Strafrecht** — vom Strafbefehl bis zur grossen Strafkammer. Adressaten: Strafverteidiger und Staatsanwaltschaft.
+Plugin für die **Strafzumessung nach deutschem Strafrecht** — vom Strafbefehl bis zur großen Strafkammer. Adressaten: Strafverteidiger und Staatsanwaltschaft.
+
+## Direkt-Download
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| Strafzumessung (`strafzumessung`, dieses Plugin) | [strafzumessung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |
+
+Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Worum geht es?
 

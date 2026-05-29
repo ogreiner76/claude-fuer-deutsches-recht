@@ -1,3 +1,11 @@
+# v49.0.0 — WEG-Großakte, Barrierefreiheit und Komplettpaket
+
+- `weg-hausverwaltung` ausgebaut: sieben zusätzliche Skills für Großakten-Routing, Protokollmarathon, Ist-/Plan-/Mieterschnittstelle, Heizungs-/Versicherungsschäden, E-Mobilität/PV/Kellerstrom, Restaurant-/Hofkonflikte sowie Hausordnungsthemen.
+- Testakte `weg-hausverwaltung-hohenzollernhof` erweitert: 24 Aktenstücke, EML-Mailbox, CSV/XLSX-Ist-Plan-Tabelle, Bildablage und konsolidierte 112-Seiten-Gesamt-PDF.
+- Neues Plugin `barrierefreiheit-web-checker` mit 12 Skills für BFSG/BFSGV/BITV/WAD/EN 301 549/WCAG, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Agenturabnahme.
+- Release-Workflow baut zusätzlich `alles-komplettpaket.zip` mit allen Plugin-ZIPs, allen Testakten-ZIPs, Marketplace und Übersichten.
+- Marketplace, README, Testakten-README, Asset-Index, Rechtsgebietsübersicht und Skill-Gesamtübersicht auf 107 Plugins, 2617 Skills und 63 Testakten aktualisiert.
+
 # v47.2.0 — Plugin methodenlehre-buergerliches-recht: README und Skills geschaerft
 
 Das Plugin `methodenlehre-buergerliches-recht` wurde an drei Stellen verbessert; die alte Breaking-Change-Sektion in der README ist entfernt, weil sie seit dem Plugin-Rename in v3.0 ihren Zweck erfuellt hat und nun nur noch Laerm war.

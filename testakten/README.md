@@ -2,10 +2,12 @@
 
 Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
 
-**Stand v47.0.0 Schlussrunde Testakten und Übersichten:** 63 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV, EML) für realistische Tests. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten reichen typischerweise von einigen hundert KB bis zu mehreren MB.
+**Stand v49.0.0 WEG-Großakte und Barrierefreiheits-Plugin:** 63 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV, EML) für realistische Tests. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten reichen typischerweise von einigen hundert KB bis zu mehreren MB.
 
 <p>
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip"><strong>Alle Testakten als ZIP herunterladen</strong></a>
+  <br>
+  <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip"><strong>Alles komplett als ZIP herunterladen</strong></a>
 </p>
 
 ## Verfügbare Akten
@@ -70,7 +72,7 @@ Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort auspro
 | [`vertragsausfueller-bsag-kiosk-huckelriede/`](./vertragsausfueller-bsag-kiosk-huckelriede/) | BSAG-Mietvertragsausfüller: Word-Vorlage und Term Sheet Kiosk Huckelriede als echte DOCX-Beispielakte mit Feldinventar, Mapping-Notiz, Rückfragen und Clean-Entwurf-Checkliste. | `vertragsausfueller` |
 | [`verlagsredaktion-morgenlage-fachverlag/`](./verlagsredaktion-morgenlage-fachverlag/) | Morgenstern & Falkenhayn Fachmedien: Verlagsmorgenlage mit Postfach, Heftplan, Online-first-Wunsch, Autor:innenrückständen, Kommentarupdate, Bildrechten, Satzfahne und Marketing-/Vertriebsmetadaten. | `verlagsredaktion` |
 | [`vollstreckungsmappe-mueller-sparkasse-niederrhein/`](./vollstreckungsmappe-mueller-sparkasse-niederrhein/) | Sammelakte Sparkasse Niederrhein gegen Familie Müller mit drei Vollstreckungssträngen: Vollstreckung aus notarieller Grundschuld (§ 1193 BGB, ZVG-Antrag), einfache Konto- und Lohnpfändung mit Pfändungstabelle 1.7.2025, Pfändung Krypto-Wallets als Sachpfändung (self-hosted Ledger) und Forderungspfändung (custodial Bitpanda Wien) mit EU-Zustellungs-VO-Bezug und ZVollstrDigitG-Praxis. | `zwangsvollstreckung` |
-| [`weg-hausverwaltung-hohenzollernhof/`](./weg-hausverwaltung-hohenzollernhof/) | WEG Hohenzollernhof Berlin: Eigentümerversammlung, Balkonsanierung, Dachrinne, Jahresabrechnung, Hausgeldrückstände, Sonderumlage, Steckersolar, Wallbox, Handwerkerangebote, Hausordnung und Beirat unter Zeitdruck. Die Unterlagen lassen die rechtliche Einordnung offen. | `weg-hausverwaltung` |
+| [`weg-hausverwaltung-hohenzollernhof/`](./weg-hausverwaltung-hohenzollernhof/) | WEG Hohenzollernhof Berlin: große Hausverwaltungsakte mit Eigentümerversammlung, 18 TOPs, Beschlussvorlagen, Protokollproblemen, Heizungs-/Wasserschaden, Versicherung, Jahresabrechnung 2025, Wirtschaftsplan 2026, Ist-/Plan-Tabellen, Hausgeld, Sonderumlage, Restaurantgeruch, Hofnutzung, Fahrradkeller, Tauben, Kinderkonflikt, Weihnachtsbaum, Wallbox, Dach-PV, Steckersolar, Kellerstrom, EMLs, Bildern, Excel/CSV und konsolidierter Gesamt-PDF mit 112 Seiten. Die Unterlagen lassen die rechtliche Einordnung offen. | `weg-hausverwaltung` |
 | [`wandeldarlehen-beispielcase/`](./wandeldarlehen-beispielcase/) | Startup-GmbH (Sonnenglas Solartechnologie UG) mit bilingualem Wandeldarlehensvertrag (Northstar, EUR 250.000), Cap-Table Pre/Post-Money, Wandlungserklärung, Gesellschafterbeschluss Kapitalerhöhung und Notar-Paket-Inhaltsverzeichnis. | `wandeldarlehen-lebenszyklus` |
 | [`zwangsverwaltung-friedrichshoefe-berlin/`](./zwangsverwaltung-friedrichshoefe-berlin/) | Büro- und Geschäftshaus "Friedrichshöfe" Berlin: Zwangsverwaltung mit parallelem Insolvenzverfahren, Finanzierung, Aktenverzeichnis und rechtlichen Knackpunkten. | `zwangsverwaltung-zvg` |
 | [`zwangsverwaltung-zvg-mietshaus-parkstrasse/`](./zwangsverwaltung-zvg-mietshaus-parkstrasse/) | ZVG-Zwangsverwaltung: Mietshaus Parkstraße, Besitzübernahme, Rent Roll, Versicherung, Konto, Berichte, § 155-Verteilung und Schlussrechnung. | `zwangsverwaltung-zvg` |
@@ -78,7 +80,7 @@ Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort auspro
 
 ## Direkt-Download (je ein ZIP pro Akte)
 
-Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehängt. Für den kompletten Bestand gibt es zusätzlich das Sammelarchiv [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip):
+Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehängt. Für den kompletten Bestand gibt es zusätzlich das Sammelarchiv [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip); das Gesamtpaket aller Plugins, Testakten und Übersichten liegt zusätzlich als [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) bereit:
 
 - [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip)
 - [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)

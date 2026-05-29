@@ -90,19 +90,26 @@ Diese Stammdaten-Datei ist Anker. Weitere Akten-Dokumente in dieser Akte:
 - `15-anwaltsschreiben-eigentuemer-balkone-droht-klage.md` — Drohbrief Anwalt eines Eigentümers
 - `16-protokoll-eigentuemerversammlung-vergangene.md` — Protokoll EV 25.10.2024
 - `17-wallbox-antrag-yildiz-WE19.md` — Wallbox-Antrag mit technischer Beschreibung
+- `18-heizung-wasserschaden-versicherung.md` — Heizungsstörung, Feuchte, Versicherung, Notmaßnahme
+- `19-whatsapp-hausverwaltung-beirat-thread.md` — WhatsApp-Auszug Verwaltung/Beirat
+- `20-restaurant-geruch-laerm-hof.md` — Restaurant Il Tiglio, Abluft, Müll, Hof, Lieferverkehr
+- `21-fahrrad-tauben-kinder-weihnachtsbaum.md` — Fahrradkeller, Tauben, Hofkinder, Weihnachtsbaum
+- `22-e-mobilitaet-pv-kellerstrom.md` — Ladeinfrastruktur, Dach-PV, Steckersolar, Kellerstrom
+- `23-top-marathon-einladung-und-beschlussfassungen.md` — 18 TOPs und Protokollhinweise
+- `24-nebenkosten-ist-plan-vermieterpaket.md` — Ist-/Plan-Abrechnung und Vermieterpaket
+- `eml/` — E-Mail-Dateien Mietervertretung, Betreiber, Beirat
+- `tabellen/` — CSV/XLSX Ist-/Plan-Kosten
+- `bilder/` — Fotodokumentation Technikraum, Tiefgarage, Fahrradkeller, Hof, Balkon, Eingang
+- `Gesamtakte_Hohenzollernhof_WEG_Hausverwaltung.pdf` — konsolidierte Aktenfassung
 - `mandant.yaml` — Mandanten-Stammdaten strukturiert
 
-## Ziel der Akte
+## Interne Bearbeitungsnotiz
 
-Diese Akte simuliert eine **realistische Berliner WEG mittlerer Größe** mit allen typischen Konfliktthemen einer Hausverwaltung. Sie ist bewusst **unordentlich** und enthält **mehrere Fehlerquellen** (falscher Verteilungsschlüssel, formal angreifbare Beschlüsse, CO2-Aufteilungsmängel, ungenaue Beschlusssammlung).
+Die Akte zeigt eine Berliner WEG mittlerer Größe mit mehreren parallel laufenden Verwaltungssträngen. Für die Bearbeitung müssen technische Sofortthemen, Beschlussreife, Zahlungs- und Abrechnungsthemen, Mieterschnittstellen, Versicherungsfragen und Hausordnungskonflikte getrennt werden. Mehrere Dokumente enthalten Unschärfen, etwa bei Verteilungsschlüsseln, Beschlusswortlaut, Abgrenzung zwischen Gemeinschafts- und Sondereigentum, CO2-Kostenaufteilung, Beschlusssammlung und Kommunikation mit Mietern.
 
-Geeignet zum Test von:
-- Eigentümerversammlung vorbereiten (Einladung, Tagesordnung, Beschlussvorlagen)
-- Beschlüsse für bauliche Veränderungen (§ 20 WEG) formulieren
-- Wirtschaftsplan-Prüfung und Plausibilität
-- Jahresabrechnung-Plausibilität nach § 28 WEG
-- Anfechtungs-Risiko erkennen (§ 44 WEG)
-- Steckersolar / Wallbox nach § 20 II WEG behandeln
-- Hausgeldmahnung und Sonderumlage-Beschluss
-- Beirats-Beratung und Verwalter-Eskalation
-- CO2-Kostenaufteilung nach CO2KostAufG prüfen
+Unmittelbar zu klären:
+- Welche Punkte gehören zwingend auf die Tagesordnung der Eigentümerversammlung am 17.06.2026?
+- Welche Maßnahmen darf die Verwaltung als laufende Verwaltung oder Notmaßnahme beauftragen?
+- Welche Beschlüsse brauchen konkrete Angebote, Kostenrahmen, Auflagen und Finanzierungsentscheidung?
+- Welche Jahresabrechnungspositionen sind WEG-intern zu korrigieren und welche Angaben benötigen vermietende Eigentümer für Betriebskostenabrechnungen?
+- Welche Konflikte sind kommunikativ zu befrieden und welche müssen wegen Frist-, Zahlungs-, Versicherungs- oder Unterlassungsrisiko anwaltlich eskaliert werden?

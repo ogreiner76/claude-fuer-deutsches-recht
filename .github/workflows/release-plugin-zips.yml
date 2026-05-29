@@ -87,9 +87,30 @@ jobs:
             (cd testakten && zip -rq "../dist/alle-testakten.zip" README.md */ -x '*.DS_Store')
           fi
 
+          # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
+          # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
+          # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
+          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten
+          cp dist/marketplace.json dist/komplettpaket/marketplace.json
+          cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
+          cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
+          for plugin in ${{ steps.plugins.outputs.names }}; do
+            cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
+          done
+          if [ -d testakten ]; then
+            for z in dist/testakte-*.zip; do
+              [ -e "$z" ] || continue
+              cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
+            done
+          fi
+          cp README.md SKILLS.md ASSET_INDEX.md CHANGELOG.md dist/komplettpaket/uebersichten/
+          (cd dist/komplettpaket && zip -rq "../alles-komplettpaket.zip" . -x '*.DS_Store')
+          rm -rf dist/komplettpaket
+
           test -s dist/alle-plugins-megazip.zip
           test -s dist/alle-testakten.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip
+          test -s dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alles-komplettpaket.zip
 
       - name: Tag bestimmen
         id: tagref
