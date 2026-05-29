@@ -1,15 +1,13 @@
-# Testakte: Strafbefehl – Ladendiebstahl und Fahrerflucht
+# Akte: Strafbefehl – Ladendiebstahl und Fahrerflucht
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte` (diese Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip) |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht` (Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-**Fiktive Musterakte für die KI-gestützte Strafrechtsverteidigung im deutschen Strafbefehlsverfahren. Alle Personen, Gerichte, Aktenzeichen, Adressen und Geldbeträge sind frei erfunden.**
 
 ---
 
@@ -113,7 +111,7 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Musterakte bildet das vollständige Workflow eines **Strafbefehlsverfahrens** aus Verteidigungsperspektive ab. Sie zeigt:
 
@@ -132,10 +130,7 @@ Diese Musterakte bildet das vollständige Workflow eines **Strafbefehlsverfahren
 
 ## Disclaimer
 
-**Diese Akte ist vollständig fiktiv und dient ausschließlich zu Lehr- und Demonstrationszwecken für KI-gestützte Rechtsanwendung im deutschen Strafrecht.** Alle Personen, Firmen, Gerichte, Aktenzeichen, Adressen, Kontonummern und sonstige Angaben sind frei erfunden. Ähnlichkeiten mit realen Personen oder Ereignissen sind zufällig und unbeabsichtigt.
-
-Diese Akte ersetzt keine Rechtsberatung. Bei rechtlichen Fragen wenden Sie sich an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt. Die dargestellten rechtlichen Einschätzungen sind für Übungszwecke vereinfacht und können nicht als vollständige anwaltliche Beratung verstanden werden.
 
 ---
 
-*Repository: claude-fuer-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht-musterakte*
+*Repository: claude-fuer-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*

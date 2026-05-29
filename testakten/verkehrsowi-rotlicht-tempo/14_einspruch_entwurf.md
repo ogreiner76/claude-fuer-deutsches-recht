@@ -106,7 +106,3 @@ Anlagen:
 4. Fahrtenbuch März 2026 Fahrzeug K-JM 426 (Auszug)
 
 5. Auftragsliste Juni/Juli 2026
-
-
-
-Dieses Dokument ist fiktiv und ausschließlich zu Übungszwecken erstellt.

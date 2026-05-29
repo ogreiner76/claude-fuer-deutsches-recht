@@ -2,10 +2,10 @@
 
 ## 1. Eichschein
 
-> **Landesbetrieb Mess- und Eichwesen NRW (LBME NRW)**  
-> Dienststelle Köln  
-> Militärringstraße 68, 50969 Köln  
-> Tel.: 0221 / 93737-0  
+> **Landesbetrieb Mess- und Eichwesen NRW (LBME NRW)**
+> Dienststelle Köln
+> Militärringstraße 68, 50969 Köln
+> Tel.: 0221 / 93737-0
 >
 > **Eichschein Nr.: LBME-NRW-2026-00334**
 
@@ -26,7 +26,7 @@
 | Messbereich Rotzeit | ab 0,00 Sekunden; Genauigkeit ± 0,02 Sek. |
 | Befundprüfung Ergebnis | Gerät entspricht den Anforderungen der Eichordnung (EichO) i.V.m. der PTB-Zulassung |
 | Bemerkungen | Keine Mängel festgestellt; alle Messabweichungen innerhalb der Fehlergrenzen |
-| Stempel | *[Amtliches Prüfsiegel LBME NRW – fiktiv]* |
+| Stempel | Amtliches Prüfsiegel LBME NRW, Abdruck in der Akte |
 
 Unterschrift des Prüfers: *Dipl.-Ing. M. Wendlandt, LBME NRW Köln, 12.01.2026*
 

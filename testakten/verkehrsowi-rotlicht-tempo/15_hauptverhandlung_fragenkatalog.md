@@ -1,11 +1,11 @@
 # Fragenkatalog Hauptverhandlung – Az. 326.OWi.2026.77142
 
-**Gericht:** AG Köln (Ordnungswidrigkeitsabteilung)  
-**Betroffener:** Jonas Mertens  
-**Verteidigerin:** RA Sabine Volkert  
-**Zeugen:** PHK Klaus Kramer; ggf. EPHK Brigitte Sauer  
-**Sachverständiger:** Kfz-/Messtechnik-SV (beantragt); Anthropologischer SV (beantragt)  
-**Stand:** 18.06.2026 – Entwurf für Vorbereitung  
+**Gericht:** AG Köln (Ordnungswidrigkeitsabteilung)
+**Betroffener:** Jonas Mertens
+**Verteidigerin:** RA Sabine Volkert
+**Zeugen:** PHK Klaus Kramer; ggf. EPHK Brigitte Sauer
+**Sachverständiger:** Kfz-/Messtechnik-SV (beantragt); Anthropologischer SV (beantragt)
+**Stand:** 18.06.2026 – Entwurf für Vorbereitung
 
 ---
 
@@ -141,5 +141,4 @@
 
 ---
 
-*Fragenkatalog-Entwurf | Az. KZ-2026-0514-MER | RA Sabine Volkert, 18.06.2026*  
-*Fiktives Dokument zu Übungszwecken*
+*Fragenkatalog-Entwurf | Az. KZ-2026-0514-MER | RA Sabine Volkert, 18.06.2026*

@@ -80,6 +80,3 @@ Handschriftliche Fahrspurkorrektur: Im Protokoll wurde die Fahrspur ursprünglic
 |---|---|---|
 | Messbeamter | PHK Klaus Kramer (KPP-7741) | 18.03.2026 |
 | Revisor | EPHK Brigitte Sauer (KPP-0883) | 18.03.2026 |
-
-
-Dieses Dokument ist fiktiv und ausschließlich zu Übungszwecken erstellt.

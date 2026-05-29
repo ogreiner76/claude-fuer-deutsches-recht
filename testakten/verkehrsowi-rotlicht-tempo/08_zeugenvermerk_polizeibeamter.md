@@ -1,11 +1,11 @@
 # Zeugenvermerk – PHK Klaus Kramer, KPP-7741
 
-**Vermerk-Nr.:** PP KÖL VÜ-N 2026-0318-07  
-**Verfasser:** PHK Klaus Kramer, KPP-7741  
-**Dienststelle:** Polizeipräsidium Köln, Verkehrsüberwachung Nord (VÜ-Nord)  
-**Datum des Vermerks:** 18.03.2026 (ausgefertigt 19.03.2026)  
-**Vorgang:** Ordnungswidrigkeit – Qualifizierter Rotlichtverstoß + Geschwindigkeitsüberschreitung  
-**Aktenzeichen Behörde:** 326.OWi.2026.77142  
+**Vermerk-Nr.:** PP KÖL VÜ-N 2026-0318-07
+**Verfasser:** PHK Klaus Kramer, KPP-7741
+**Dienststelle:** Polizeipräsidium Köln, Verkehrsüberwachung Nord (VÜ-Nord)
+**Datum des Vermerks:** 18.03.2026 (ausgefertigt 19.03.2026)
+**Vorgang:** Ordnungswidrigkeit – Qualifizierter Rotlichtverstoß + Geschwindigkeitsüberschreitung
+**Aktenzeichen Behörde:** 326.OWi.2026.77142
 
 ---
 
@@ -65,7 +65,6 @@ Polizeipräsidium Köln, VÜ-Nord
 Vermerk-Datum: 19.03.2026
 ```
 
-*[Dienststempel PP Köln – fiktiv]*  
 *[Abzeichnung EPHK Sauer: B. Sauer, 20.03.2026]*
 
 ---
@@ -90,5 +89,3 @@ Der Vermerk wurde durch die Kanzlei am 02.06.2026 nach Erhalt der Akteneinsicht 
 **Einschätzung:** Der Zeuge hat keine eigene Rotzeitmessung vorgenommen. Er stützt sich ausschließlich auf das Gerät. Sein Standort (seitlich, 5 m) lässt Zweifel an der Qualität der eigenen Wahrnehmung des Überfahrens der Haltelinie zu. Potential für Glaubwürdigkeitsangriff: mittel; gezielter Kreuzverhör empfohlen.
 
 ---
-
-*Vermerk-Nr.: PP KÖL VÜ-N 2026-0318-07 | Fiktiv zu Übungszwecken erstellt*

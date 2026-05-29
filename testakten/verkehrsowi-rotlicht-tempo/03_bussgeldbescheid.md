@@ -73,7 +73,3 @@ Der Einspruch muss keine Begründung enthalten. Bei unzulässigem oder unbegrün
 
 Renate Stoll
 Sachbearbeiterin Bußgeldstelle
-
-
-
-Dieses Dokument ist fiktiv und ausschließlich zu Übungszwecken erstellt.

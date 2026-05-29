@@ -1,15 +1,15 @@
-# Testakte: LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren
+# Akte: LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-schulungsakte-lumen-studios-insolvenz-strafrecht` (diese Akte) | [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip) |
+| `testakte-lumen-studios-insolvenz-strafverfahren` (Akte) | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktiver Beispielfall** zur Demonstration des Plugins `schulungsakte-lumen-studios-insolvenz-strafrecht` (Insolvenzrecht + Strafbefehlsverteidigung kombiniert).
+**Arbeitsakte** zur parallelen Bearbeitung mit `insolvenzrecht`, `insolvenzverwaltung` und `strafbefehl-verteidiger` (Insolvenzrecht + Strafbefehlsverteidigung kombiniert).
 
 ## Verfahrenseckdaten
 
@@ -76,6 +76,6 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 4. **Gesellschafterkonflikt** — Wer durfte den Antrag stellen? (§ 15 Abs. 1 Satz 2 InsO: jeder GF einzeln)
 5. **Verteidigungsstrategie** — Einspruch Strafbefehl, Gütertermin, Einstellung § 153a StPO?
 
-## Disclaimer
+## Bearbeitungshinweis
 
-Alle Personen, Firmen, Aktenzeichen und Daten sind frei erfunden. Die Akte dient ausschließlich dem Testen der Skills und ist keine Rechtsberatung.
+Die insolvenzrechtlichen und strafrechtlichen Stränge sind getrennt zu führen. Gemeinsame Tatsachen wie Zahlungsstockung, Buchführung und Geschäftsleiterhandeln dürfen verwertet werden, müssen aber jeweils auf die andere Darlegungs- und Beweislastlogik übersetzt werden.

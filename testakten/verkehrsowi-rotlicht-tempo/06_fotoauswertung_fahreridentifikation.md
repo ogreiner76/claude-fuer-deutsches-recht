@@ -1,9 +1,9 @@
 # Auswertungsvermerk – Fahreridentifikation Frontfoto K-OWI-77142-03
 
-**Vermerk-Nr.:** KZ-2026-0514-MER-AV-01  
-**Datum:** 12.05.2026  
-**Verfasser:** RA Sabine Volkert, Kanzlei Volkert & Partner  
-**Betreff:** Auswertung Frontfoto, Fahreridentifikation, Verfahren 326.OWi.2026.77142  
+**Vermerk-Nr.:** KZ-2026-0514-MER-AV-01
+**Datum:** 12.05.2026
+**Verfasser:** RA Sabine Volkert, Kanzlei Volkert & Partner
+**Betreff:** Auswertung Frontfoto, Fahreridentifikation, Verfahren 326.OWi.2026.77142
 
 ---
 
@@ -69,7 +69,7 @@ Laut Mandantenangaben: männlich, 22 Jahre, blond, Auszubildender. Führerschein
 
 ### 4.1 Beweislast und Identifikationsstandard
 
-Nach der Rechtsprechung des OLG Köln (Beschl. v. 12.11.2019, Az. III-1 RBs 334/19 – fiktiv) muss das Tatgericht bei Foto-Identifikation die Überzeugung von der Täterschaft aus dem Foto selbst schöpfen können. Ein bloßes "vereinbar mit" genügt nicht; es bedarf konkreter Merkmale, die eine sichere Identifizierung erlauben.
+Für die Fotoidentifikation ist vor Schriftsatzversand eine verifizierte Rechtsprechungsrecherche erforderlich. Der Angriffspunkt wird hier aus dem Aktenbefund hergeleitet: Das Gericht muss die Fahreridentität positiv feststellen; ein bloßes "vereinbar mit" genügt in einer streitigen Fahrerfrage nicht als tragfähige Tatsachengrundlage.
 
 Das Bundesverfassungsgericht (Beschl. v. 17.02.2016, 1 BvR 2380/15 – NJW 2016, 1081) stellt klar: Bleiben Zweifel an der Identität des Fahrzeugführers, darf keine Verurteilung allein auf dem Foto beruhen.
 
@@ -85,7 +85,7 @@ Die Identifikation erscheint **angreifbar** aus folgenden Gründen:
 ### 4.3 Empfehlung
 
 - Einholung eines **anthropologisch-forensischen Sachverständigengutachtens** zur Fahreridentifikation beantragen
-- Beantragung von Rohmessdaten und unkomprimiertem Originalfoto (vgl. OLG Oldenburg, Beschl. v. 03.07.2018, Az. 2 Ss (OWi) 185/18)
+- Beantragung von Rohmessdaten und unkomprimiertem Originalfoto; Rechtsprechung hierzu vor Verwendung mit Gericht, Datum und Aktenzeichen verifizieren
 - Falls Sachverständiger Identifikation verneint: Einstellung nach § 47 OWiG oder Freispruch beantragen
 - Falls Sachverständiger unschlüssig: Fahrerfrage offenlassen, Mandant muss Fahrer nicht benennen (§ 111 OWiG)
 

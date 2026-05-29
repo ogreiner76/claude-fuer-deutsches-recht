@@ -1,15 +1,13 @@
-# Testakte: VerkehrsOWi – Qualifizierter Rotlichtverstoß, Tempoüberschreitung und Fahrverbot
+# Akte: VerkehrsOWi – Qualifizierter Rotlichtverstoß, Tempoüberschreitung und Fahrverbot
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-verkehrsowi-rotlicht-tempo-musterakte` (diese Akte) | [testakte-verkehrsowi-rotlicht-tempo-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-musterakte.zip) |
+| `testakte-verkehrsowi-rotlicht-tempo` (Akte) | [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-Fiktive Mandatsakte für das Übungsprojekt `claude-fuer-deutsches-recht`. Alle Personen, Kennzeichen, Behördenzeichen, Messwerte und Beträge sind frei erfunden und ausschließlich zu Lernzwecken erstellt.
 
 ---
 
@@ -65,19 +63,19 @@ Die Akte enthält drei Verteidigungslinien: die Angreifbarkeit der Fahreridentif
 | [07_eichschein_geraeteakte.md](07_eichschein_geraeteakte.md) | Eichschein (LBME NRW, 12.01.2026), Geräteakte mit Wartungshistorie, Schulungsnachweis PHK Kramer, Gültigkeitsprüfung Kanzlei |
 | [08_zeugenvermerk_polizeibeamter.md](08_zeugenvermerk_polizeibeamter.md) | Zeugenvermerk PHK Klaus Kramer: Einsatzdaten, eigene Wahrnehmung, Fahreridentifikation, Fahrspurkorrektur, Kanzleibefragungsplanung |
 | [09_fahrtenbuch_arbeitgeber.csv](09_fahrtenbuch_arbeitgeber.csv) | Fahrtenbuch der GbR, Fahrzeug K-JM 426, März 2026: 34 Einträge mit Datum, Uhrzeit, Nutzer, Zweck, Strecke, km-Stand, Auftragsnummer |
-| [10_punktestand_kba_fiktiv.md](10_punktestand_kba_fiktiv.md) | Fiktiver KBA-Auszug (ZFER): aktuell 1 Punkt, Prognose 3 Punkte nach Rechtskraft, Seminar-Option, Tilgungsfristen |
+| [10_punktestand_kba.md](10_punktestand_kba.md) | KBA-Auszug (ZFER): aktuell 1 Punkt, Prognose 3 Punkte nach Rechtskraft, Seminar-Option, Tilgungsfristen |
 | [11_kalender_fahrverbot_härtefall.ics](11_kalender_fahrverbot_haertefall.ics) | ICS-Kalender: Einspruchsfrist, Akteneinsicht, Begründungsfrist, Härtevortrag-Termine (Rheinauhafen, Pulheim etc.), Wahlmonat-Planung, Hauptverhandlung |
 | [12_mandantenchat_und_timeline.md](12_mandantenchat_und_timeline.md) | Realistischer WhatsApp-Chatverlauf (26 Nachrichten, 07.05.–05.06.2026) + tabellarische Verfahrenstimeline |
-| [13_rechtsprechungsnotizen.md](13_rechtsprechungsnotizen.md) | 7 fiktive Leitentscheidungen zu: Fotoidentifikation, Haltereigenschaft, Protokollkorrektur, Eichung nach Reparatur, Härtevortrag, Rotlichtgrenzwert, Akteneinsicht Rohmessdaten |
+| [13_rechtsprechungsnotizen.md](13_rechtsprechungsnotizen.md) | 7 Recherche- und Rechtsprechungsnotizen zu: Fotoidentifikation, Haltereigenschaft, Protokollkorrektur, Eichung nach Reparatur, Härtevortrag, Rotlichtgrenzwert, Akteneinsicht Rohmessdaten |
 | [14_einspruch_entwurf.md](14_einspruch_entwurf.md) | Vollständige Einspruchsbegründung (ca. 1.600 Wörter): 4 Verteidigungslinien, Beweisanträge, Härtevortrag, Anlagenverzeichnis |
 | [14_einspruch_entwurf.docx](14_einspruch_entwurf.docx) | DOCX-Fassung des Einspruchsschreibens (Kanzlei-Briefkopf-Format) |
 | [15_hauptverhandlung_fragenkatalog.md](15_hauptverhandlung_fragenkatalog.md) | 40 Fragen an Zeugen, Sachverständige und Revisionszeugin: strukturiert nach Standort, Rotphase, Fahrspurkorrektur, Fahreridentifikation, Gerät, Glaubwürdigkeit |
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte demonstriert den vollständigen Ablauf eines verkehrsrechtlichen Bußgeldverfahrens aus Verteidigungssicht:
+Diese Akte zeigt den vollständigen Ablauf eines verkehrsrechtlichen Bußgeldverfahrens aus Verteidigungssicht:
 
 **Verfahrensrecht**
 - Fristberechnung nach §§ 67, 52 OWiG (Einspruch, Wiedereinsetzung)
@@ -102,8 +100,5 @@ Diese Testakte demonstriert den vollständigen Ablauf eines verkehrsrechtlichen 
 
 ## Disclaimer
 
-**Diese Akte ist vollständig fiktiv.** Alle Personen, Behörden, Aktenzeichen, Messwerte, Kennzeichen, Adressen, Telefonnummern und sonstigen Daten sind frei erfunden. Die zitierten Gerichtsentscheidungen und Fundstellen sind für Übungszwecke konstruiert und nicht authentisch. Die Akte ersetzt keine Rechtsberatung. Wer in einer echten Bußgeldsache Hilfe benötigt, wendet sich an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt.
 
 ---
-
-*Testakte im Rahmen von `claude-fuer-deutsches-recht` | Autor: Klotzkette | Stand: Juni 2026*

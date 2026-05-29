@@ -1,3 +1,18 @@
+# v47.0.0 — Schlussrunde Testakten, Übersichten und quellenfeste Schriftformakte
+
+Große Abschlussrunde über den Akten- und Release-Bestand:
+
+- Alle Testakten-READMEs von sichtbaren Test-/Lehr-/Fiktionsmarkern bereinigt und auf Aktenlogik, Direkt-Downloads und menschliche Umlaute geglättet.
+- Schmalfeld-Betreuungsakte um `09_vertragsauszuege_pruefmappe.md` erweitert: Alltagsverträge, Fernwartungs-/Sicherheitssoftware, Hochrisikoanlagen, Spanien-Reservierung, Haustürvertrieb, Beleglücken und priorisierte Maßnahmen.
+- Schriftform-Maklerakte Haspelbeck von einem nicht verifizierten BGH-Scheinzitat bereinigt: fake BGH-PDF entfernt, PDFs neu ohne Erzeugungsfußzeilen gebaut, Excel/Markdown-Vorschau auf offene Rechtsprechungsprüfung umgestellt.
+- VerkehrsOWi-Akte von konstruierten OLG-Fundstellen bereinigt und in eine quellenfeste Rechtsprechungsrecherche mit Arbeitsmatrix umgebaut.
+- Sichtbare Unterrichts-/Muster-Slugs in mehreren Akten entschärft: LUMEN Studios, Strafbefehl, VerkehrsOWi, Solis Vision X, Sozialrecht Tannenberg und Roeschen Tech laufen nun als Arbeits-, Prüf- oder Fallkonferenzakten.
+- `SKILLS.md` neu aus dem tatsächlichen Bestand generiert: 2.553 Skill-Links in 105 Plugins, inklusive der bisher fehlenden Agio-/Kapitalrücklage-Skills.
+- Plugin-/Testakten-Übersichten aktualisiert; `gesellschaftsrecht` und `grosskanzlei-corporate-ma` verlinken nun auch die Corporate-Legal-English-Frankfurt-Akte.
+- README, Testaktenübersicht und Asset-Index auf `v47.0.0` nachgezogen; Sammel-Downloads `alle-plugins-megazip.zip` und `alle-testakten.zip` bleiben sichtbar.
+
+---
+
 # v46.0.0 — Corporate-Legal-English-Akte: Gesamt-PDF und Cap-Table-Abgleich
 
 Nachlauf für `gesellschaftsrecht-legal-english` und die Frankfurt-Startup-Akte:
@@ -21,7 +36,7 @@ Release-Infrastruktur und Übersichten nachgezogen:
 
 ---
 
-# v44.0.1 — Testakte: Excel entlehrmaterialisiert, gemischte PDFs nach Kanaltyp getrennt
+# v44.0.1 — Akte: Excel entlehrmaterialisiert, gemischte PDFs nach Kanaltyp getrennt
 
 Folgefix nach v44.0.0. Drei Dinge:
 
@@ -612,7 +627,7 @@ Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen
 
 - **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills fuer Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
 - **Open Data/API V2 im Lobbyregister:** eigene Referenz, API-Abfrageplan, JSON-Mapping, Registerexport-Diff und Monitoringplan. Die API wird bewusst als lesende Kontrollschicht gefuehrt; Registrierung und Aktualisierung bleiben Portalhandlungen.
-- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Buergerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
+- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Bürgerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
 - **Selbstvertreter-Plugins:** Amtsgericht und Sozialgericht sind auf `main` integriert und in die Marketplace-/Release-Struktur aufgenommen.
 - **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills fuer BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
 - **Audit-Fixes:** Halluzinations- und Aktenzeichen-Reparaturwellen aus den v14.2.x Hotfixes sind mitenthalten.
@@ -867,7 +882,7 @@ Alle 98 Plugins und `marketplace.json` auf v12.3.0.
 - zwangsverwaltung-zvg (Friedrichshoefe, Mietshaus Parkstrasse, Eppendorf)
 
 ## Fix
-- testakten/inkasso-zahlungsklage-modefuchs/README.md: toter Link auf `Schulungsakte_ModeFuchs_GmbH.zip` entfernt; nur der `originale/` Ordner mit 28 PDFs bleibt.
+- testakten/inkasso-zahlungsklage-modefuchs/README.md: toter Link auf `Akte_ModeFuchs_GmbH.zip` entfernt; nur der `originale/` Ordner mit 28 PDFs bleibt.
 - Mapping-Korrektur Testakten zu Plugins: `bauplanungsrecht` -> `normenkontrolle-bauleitplanung`.
 
 ## Bump

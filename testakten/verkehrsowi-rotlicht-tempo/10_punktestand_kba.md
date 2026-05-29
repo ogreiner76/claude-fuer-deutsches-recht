@@ -1,13 +1,13 @@
-# Fiktiver KBA-Auszug – Zentrales Fahrerlaubnisregister (ZFER)
+# KBA-Auszug – Zentrales Fahrerlaubnisregister (ZFER)
 
-> **Kraftfahrt-Bundesamt (KBA)**  
-> Fördestraße 16  
-> 24944 Flensburg  
-> Tel.: 0461 / 9362-0  
-> www.kba.de  
+> **Kraftfahrt-Bundesamt (KBA)**
+> Fördestraße 16
+> 24944 Flensburg
+> Tel.: 0461 / 9362-0
+> www.kba.de
 >
-> **Auskunft aus dem Zentralen Fahrerlaubnisregister (ZFER)**  
-> gemäß § 30 Abs. 8 StVG – Auskunft an betroffene Person  
+> **Auskunft aus dem Zentralen Fahrerlaubnisregister (ZFER)**
+> gemäß § 30 Abs. 8 StVG – Auskunft an betroffene Person
 
 ---
 
@@ -103,5 +103,3 @@
 | Nächste KBA-Auskunft | nach Rechtskraft anfordern |
 
 ---
-
-*ZFER-Auskunftsnr.: ZFER-2026-AUS-448812 | Auskunft fiktiv, nur zu Übungszwecken*
