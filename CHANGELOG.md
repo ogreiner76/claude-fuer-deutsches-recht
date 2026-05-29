@@ -1,3 +1,21 @@
+# v40.0.0 — Sanity-Check-Release nach v39
+
+Sammelrelease ohne neue Fachlogik: Der aktuelle `main`-Stand nach `v38.0.0` (Steuerrechts-Sanity-Fix) und `v39.0.0` (CO2KostAufG-Präzisierung) wurde noch einmal gegen die Repo-Validatoren und den Release-ZIP-Bau geprüft und als nächster stabiler Download-Stand markiert.
+
+## Qualitätssicherung
+
+- `git diff --check` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-release-zips.py /tmp/codex-release-sanity .claude-plugin/marketplace.json` — OK
+- Release-Asset-Sanity: 105 Plugin-ZIPs, 63 Testakten-ZIPs, 1 `marketplace.json`, insgesamt 169 Assets
+
+## Dokumentation
+
+- `README.md` und `ASSET_INDEX.md` auf `v40.0.0` aktualisiert.
+
+---
+
 # v39.0.0 — Codex-Round-5: CO2KostAufG-Praezisierung (§ 3-Pflichtangaben + § 8 Nichtwohngebaeude 2025)
 
 Zwei Codex-Findings zur Testakte `testakten/weg-hausverwaltung-hohenzollernhof/11-co2kostaufg-aufteilungspruefung.md`:
