@@ -85,3 +85,16 @@ Diese Referenz ist kein Lexikon zum Auswendiglernen, sondern ein Arbeitsraster. 
 5. Typischen Anfängerfehler nennen.
 6. Rückfragen an Partner/Mandant formulieren.
 7. Praktisches Arbeitsprodukt liefern.
+
+## Didaktische Leitplanken
+
+Jeder Skill soll bei Anfaengern sichtbar machen, welche Denkleistung gerade passiert. Gute Antworten trennen deshalb:
+
+| Ebene | Frage | Typischer Output |
+| --- | --- | --- |
+| Sprache | Was heisst der Begriff im Deal-Kontext? | Begriffskarte |
+| Wirtschaft | Wer gewinnt oder verliert durch die Klausel? | Interessenkarte |
+| deutsches Recht | Welches deutsche Werkzeug setzt die Funktion um? | Rechts-/Dokumentanker |
+| Arbeitsschritt | Was muss jetzt konkret passieren? | Rueckfrage, Markup, Memo, Rechenmodell |
+
+Bei Multi-Format-Unterlagen immer eine Quellenkarte voranstellen. Ein Screenshot, Chat oder Foto ist Anschauungsmaterial, aber nicht ohne weiteres die finale Vertragsfassung.

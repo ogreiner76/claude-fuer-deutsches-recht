@@ -23,7 +23,7 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 | --- | --- |
 | **Frankfurt Startup Round Legal English** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 
-Die Testakte enthält eine fiktive Venture-Capital- und M&A-Vorbereitung mit Partnerauftrag, Cap Table, Term Sheet, Gesellschafterliste, SHA-Auszug, DD-Notizen, Mandantenfragen und einem bewusst nervösen Associate-Arbeitsstand.
+Die Testakte enthält eine fiktive Venture-Capital- und M&A-Vorbereitung mit Partnerauftrag, Cap Table, Term Sheet, Gesellschafterliste, SHA-Auszug, DD-Notizen, Mandantenfragen und einem bewusst nervösen Associate-Arbeitsstand. Sie ist inzwischen als kleiner Dealroom angelegt: Markdown-Unterlagen, ein Excel-Trainingsmodell, PDF-Scan, PDF-Cheatsheet, Email-Screenshot, WhatsApp-Screenshot und Whiteboard-Foto.
 
 ## Installation
 
@@ -50,6 +50,8 @@ Das Plugin arbeitet in drei Schichten:
 | --- | --- |
 | `allgemein` | Einstieg, Erfahrungslevel, Deal-Kontext, Begriffsfeld und Spezialskills auswählen. |
 | `rookie-modus` | First-Year-Associate-Modus mit Kleinschritten, Rückfragen und Review-Gates. |
+| `lernpfad-dealroom-simulator` | Führt Anfänger durch eine mehrteilige Transaktionsakte mit Materialinventar, Lernpfad, Übungen und Senior-Gates. |
+| `anschauungsmaterial-multiformat-auswertung` | Wertet PDF, Scan, Screenshot, JPEG, Excel, Chat, Email und Dealroom-Fragmente als Quellen mit unterschiedlicher Verlässlichkeit aus. |
 | `begriffskompass-intake` | Begriff, Dokument, Rechtsordnung, Parteirolle und Outputbedarf erfassen. |
 | `cap-table-gesellschafterliste` | Cap Table gegen Gesellschafterliste, § 40 GmbHG und wirtschaftliche Beteiligung abgleichen. |
 | `fully-diluted-esop-option-pool` | Fully diluted basis, ESOP/VSOP, Option Pool und Verwässerung erklären und rechnen. |
@@ -81,6 +83,8 @@ Das Plugin arbeitet in drei Schichten:
 
 **Schneller Begriffsschock:** `allgemein` -> `rookie-modus` -> `begriffskompass-intake` -> passender Spezialskill -> `partner-briefing-memo`.
 
+**Unübersichtlicher Dealroom:** `allgemein` -> `lernpfad-dealroom-simulator` -> `anschauungsmaterial-multiformat-auswertung` -> passende Spezialskills -> `qualitaetsgate-corporate-legal-english`.
+
 **Startup-Finanzierungsrunde:** `cap-table-gesellschafterliste` -> `fully-diluted-esop-option-pool` -> `liquidation-preference-waterfall` -> `anti-dilution-protection` -> `term-sheet-investment-agreement` -> `qualitaetsgate-corporate-legal-english`.
 
 **M&A-Dokumente auf Englisch bei deutschem Recht:** `deutsches-recht-englische-vertraege` -> `reps-warranties-indemnities` -> `financial-debt-net-debt-working-capital` -> `exit-spa-closing-cp` -> `partner-briefing-memo`.
@@ -92,3 +96,12 @@ Das Plugin arbeitet in drei Schichten:
 - Gesetzesanker aus amtlichen oder frei zugänglichen Quellen verwenden.
 - Amtliche englische Übersetzungen deutscher Gesetze sind Hilfsmittel, nicht die verbindliche Fassung.
 - Bei Rechtsprechung nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle ausgeben.
+
+## Demo-Material
+
+Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich für Live-Demos:
+
+- erst `00` bis `03` für Einstieg und Term Sheet,
+- dann `08` und `09` für Begriffsschulung und Anfängerfehler,
+- dann `16` bis `23` für Multi-Format-Materialien wie WhatsApp, Excel, Scan, Screenshot und Whiteboard,
+- zum Schluss `15` für Closing-Logik und Qualitätstor.

@@ -1,6 +1,6 @@
 # Skill-Übersicht
 
-Automatisch gezählte Gesamtübersicht aller **2533 Skills** in **105 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
+Automatisch gezählte Gesamtübersicht aller **2535 Skills** in **105 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
 **Repository:** [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
 
@@ -56,7 +56,7 @@ Automatisch gezählte Gesamtübersicht aller **2533 Skills** in **105 Plugins**.
 - [geldwaeschepraevention-aml-kyc](#geldwaeschepraevention-aml-kyc) — 22 Skills
 - [gesellschaftsgruender](#gesellschaftsgruender) — 37 Skills
 - [gesellschaftsrecht](#gesellschaftsrecht) — 20 Skills
-- [gesellschaftsrecht-legal-english](#gesellschaftsrecht-legal-english) — 28 Skills
+- [gesellschaftsrecht-legal-english](#gesellschaftsrecht-legal-english) — 30 Skills
 - [gewerblicher-rechtsschutz](#gewerblicher-rechtsschutz) — 18 Skills
 - [grosskanzlei-corporate-ma](#grosskanzlei-corporate-ma) — 56 Skills
 - [hausarbeitenmacher](#hausarbeitenmacher) — 23 Skills
@@ -867,14 +867,15 @@ Automatisch gezählte Gesamtübersicht aller **2533 Skills** in **105 Plugins**.
 
 | Skill | Skill |
 | --- | --- |
-| [`allgemein`](./gesellschaftsrecht-legal-english/skills/allgemein/SKILL.md) | [`anti-dilution-protection`](./gesellschaftsrecht-legal-english/skills/anti-dilution-protection/SKILL.md) |
-| [`articles-association-satzung`](./gesellschaftsrecht-legal-english/skills/articles-association-satzung/SKILL.md) | [`begriffskompass-intake`](./gesellschaftsrecht-legal-english/skills/begriffskompass-intake/SKILL.md) |
-| [`cap-table-gesellschafterliste`](./gesellschaftsrecht-legal-english/skills/cap-table-gesellschafterliste/SKILL.md) | [`client-explainer-legal-english`](./gesellschaftsrecht-legal-english/skills/client-explainer-legal-english/SKILL.md) |
-| [`deutsches-recht-englische-vertraege`](./gesellschaftsrecht-legal-english/skills/deutsches-recht-englische-vertraege/SKILL.md) | [`drag-tag-piggyback`](./gesellschaftsrecht-legal-english/skills/drag-tag-piggyback/SKILL.md) |
-| [`due-diligence-red-flag-report`](./gesellschaftsrecht-legal-english/skills/due-diligence-red-flag-report/SKILL.md) | [`earn-out-kaufpreismechanik`](./gesellschaftsrecht-legal-english/skills/earn-out-kaufpreismechanik/SKILL.md) |
-| [`exit-spa-closing-cp`](./gesellschaftsrecht-legal-english/skills/exit-spa-closing-cp/SKILL.md) | [`financial-debt-net-debt-working-capital`](./gesellschaftsrecht-legal-english/skills/financial-debt-net-debt-working-capital/SKILL.md) |
-| [`financing-convertible-loan-safe`](./gesellschaftsrecht-legal-english/skills/financing-convertible-loan-safe/SKILL.md) | [`fully-diluted-esop-option-pool`](./gesellschaftsrecht-legal-english/skills/fully-diluted-esop-option-pool/SKILL.md) |
-| [`governance-board-consent-matters`](./gesellschaftsrecht-legal-english/skills/governance-board-consent-matters/SKILL.md) | [`liquidation-preference-waterfall`](./gesellschaftsrecht-legal-english/skills/liquidation-preference-waterfall/SKILL.md) |
+| [`allgemein`](./gesellschaftsrecht-legal-english/skills/allgemein/SKILL.md) | [`anschauungsmaterial-multiformat-auswertung`](./gesellschaftsrecht-legal-english/skills/anschauungsmaterial-multiformat-auswertung/SKILL.md) |
+| [`anti-dilution-protection`](./gesellschaftsrecht-legal-english/skills/anti-dilution-protection/SKILL.md) | [`articles-association-satzung`](./gesellschaftsrecht-legal-english/skills/articles-association-satzung/SKILL.md) |
+| [`begriffskompass-intake`](./gesellschaftsrecht-legal-english/skills/begriffskompass-intake/SKILL.md) | [`cap-table-gesellschafterliste`](./gesellschaftsrecht-legal-english/skills/cap-table-gesellschafterliste/SKILL.md) |
+| [`client-explainer-legal-english`](./gesellschaftsrecht-legal-english/skills/client-explainer-legal-english/SKILL.md) | [`deutsches-recht-englische-vertraege`](./gesellschaftsrecht-legal-english/skills/deutsches-recht-englische-vertraege/SKILL.md) |
+| [`drag-tag-piggyback`](./gesellschaftsrecht-legal-english/skills/drag-tag-piggyback/SKILL.md) | [`due-diligence-red-flag-report`](./gesellschaftsrecht-legal-english/skills/due-diligence-red-flag-report/SKILL.md) |
+| [`earn-out-kaufpreismechanik`](./gesellschaftsrecht-legal-english/skills/earn-out-kaufpreismechanik/SKILL.md) | [`exit-spa-closing-cp`](./gesellschaftsrecht-legal-english/skills/exit-spa-closing-cp/SKILL.md) |
+| [`financial-debt-net-debt-working-capital`](./gesellschaftsrecht-legal-english/skills/financial-debt-net-debt-working-capital/SKILL.md) | [`financing-convertible-loan-safe`](./gesellschaftsrecht-legal-english/skills/financing-convertible-loan-safe/SKILL.md) |
+| [`fully-diluted-esop-option-pool`](./gesellschaftsrecht-legal-english/skills/fully-diluted-esop-option-pool/SKILL.md) | [`governance-board-consent-matters`](./gesellschaftsrecht-legal-english/skills/governance-board-consent-matters/SKILL.md) |
+| [`lernpfad-dealroom-simulator`](./gesellschaftsrecht-legal-english/skills/lernpfad-dealroom-simulator/SKILL.md) | [`liquidation-preference-waterfall`](./gesellschaftsrecht-legal-english/skills/liquidation-preference-waterfall/SKILL.md) |
 | [`partner-briefing-memo`](./gesellschaftsrecht-legal-english/skills/partner-briefing-memo/SKILL.md) | [`protective-provisions-vetorechte`](./gesellschaftsrecht-legal-english/skills/protective-provisions-vetorechte/SKILL.md) |
 | [`qualitaetsgate-corporate-legal-english`](./gesellschaftsrecht-legal-english/skills/qualitaetsgate-corporate-legal-english/SKILL.md) | [`reasonable-efforts-covenants`](./gesellschaftsrecht-legal-english/skills/reasonable-efforts-covenants/SKILL.md) |
 | [`reps-warranties-indemnities`](./gesellschaftsrecht-legal-english/skills/reps-warranties-indemnities/SKILL.md) | [`rookie-modus`](./gesellschaftsrecht-legal-english/skills/rookie-modus/SKILL.md) |

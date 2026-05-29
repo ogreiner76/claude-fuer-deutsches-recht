@@ -2,7 +2,7 @@
 
 Fiktive Schulungsakte fuer das Plugin `gesellschaftsrecht-legal-english`. Ziel: Big-Law-Nachwuchs (1st-/2nd-Year-Associates) in einer Corporate-Praxis lehrt zu lernen, wie eine deutsche GmbH eine Series-A-Finanzierung mit englischsprachigem Term Sheet und deutscher Notar-/Registerlogik durchfuehrt. Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt.
 
-Die Akte simuliert einen hektischen Donnerstag in einer internationalen Corporate-Praxis in Frankfurt am Main. Die Partnerin Adelheid von Westarp uebergibt einem Associate eine angefangene Mandatsbearbeitung mit Cap Table, fully diluted, Anti-Dilution, Vesting, Drag/Tag, Liquidation Preference, Consent Matters und einer Reihe deutscher Umsetzungsfragen. Die Akte enthaelt absichtlich Stolperfallen und Anfaengerfehler.
+Die Akte simuliert einen hektischen Donnerstag in einer internationalen Corporate-Praxis in Frankfurt am Main. Die Partnerin Adelheid von Westarp uebergibt einem Associate eine angefangene Mandatsbearbeitung mit Cap Table, fully diluted, Anti-Dilution, Vesting, Drag/Tag, Liquidation Preference, Consent Matters und einer Reihe deutscher Umsetzungsfragen. Die Akte enthaelt absichtlich Stolperfallen und Anfaengerfehler. Seit dem v34-Ausbau enthaelt sie auch Multi-Format-Unterlagen: Excel, PDF-Scan, PDF-Cheatsheet, JPEG-Foto, Email-Screenshot und WhatsApp-Screenshot.
 
 ## Dateien
 
@@ -24,6 +24,14 @@ Die Akte simuliert einen hektischen Donnerstag in einer internationalen Corporat
 | `13-side-letter-und-information-rights.md` | Seed-Side-Letter, Series-A-Side-Letter und Konsistenz-Stack |
 | `14-board-und-consent-matters-mapping-de-en.md` | Reserved-Matters-Mapping englisch zu deutsch (Beirat, Geschaeftsordnung, Gesellschafterversammlung) |
 | `15-closing-checkliste-cp.md` | Closing-Checkliste mit 30 CPs, Term-Sheet-Gap-Analyse und Post-Closing-Punkten |
+| `16-whatsapp-partner-associate-thread.md` | Fiktiver Chat-Thread mit Arbeitsanweisungen zu fully diluted, Pool, Investor Director, Drag-Along und Senior-Gates |
+| `17-anschauungsmaterial-und-formate-index.md` | Index fuer Excel, PDF, Scan, Foto, Screenshot und Chat-Unterlagen |
+| `18-cap-table-waterfall-training.xlsx` | Excel-Trainingsmodell mit Cap Table, Pool-Szenarien, Convertible, Waterfall und Rookie-Quiz |
+| `19-notar-scan-beurkundungssprache.pdf` | PDF-Scan einer internen Notar-/Beurkundungssprache-Notiz |
+| `20-whiteboard-foto-deal-map.jpg` | Whiteboard-Foto mit Deal Map und Rookie-Regel |
+| `21-investor-email-screenshot.jpg` | Email-Screenshot der Gegenseite zu fully diluted, Pool und Investor Director |
+| `22-whatsapp-screenshot.jpg` | WhatsApp-Screenshot mit informeller Deal-Team-Abstimmung |
+| `23-rookie-cheatsheet-corporate-legal-english.pdf` | Einseitiges Rookie-Cheatsheet mit Begriffskarten und Senior-Gate |
 
 ## Lernpfade
 
@@ -59,6 +67,15 @@ Die Akte simuliert einen hektischen Donnerstag in einer internationalen Corporat
 2. `07-erwarteter-output-ohne-musterloesung.md` Abschnitt B.3 — Stilvorgabe.
 3. `08-glossar-deutsch-englisch-fallstricke.md` — fuer das Mandantenmemo verwenden.
 
+### Pfad E — Multi-Format-Dealroom (60 bis 90 Minuten)
+
+1. `17-anschauungsmaterial-und-formate-index.md` — Materialarten und Verlaesslichkeit klaeren.
+2. `18-cap-table-waterfall-training.xlsx` — Zahlenlogik pruefen, nicht nur lesen.
+3. `19-notar-scan-beurkundungssprache.pdf` — Form-/Sprach-Gates markieren.
+4. `20-whiteboard-foto-deal-map.jpg` — Deal Map in eigene Dokumentkarte uebertragen.
+5. `21-investor-email-screenshot.jpg` und `22-whatsapp-screenshot.jpg` — Screenshot/Chat als Quelle kritisch einordnen.
+6. `23-rookie-cheatsheet-corporate-legal-english.pdf` — Abschlusskontrolle vor Partnerbriefing.
+
 ## Testziele
 
 - Begriffe Deutsch/Englisch erklaeren, ohne Scheinsynonyme zu produzieren.
@@ -70,6 +87,7 @@ Die Akte simuliert einen hektischen Donnerstag in einer internationalen Corporat
 - Notar-, Register- und Sprachfragen korrekt einordnen (Datei 12).
 - Reserved-Matters in deutsche Gesellschaftsstruktur uebersetzen (Datei 14).
 - CP-Liste und Long-Stop einhalten (Datei 15).
+- Multi-Format-Unterlagen quellenkritisch auswerten: Screenshot, Scan, Chat, Excel und PDF nicht gleich behandeln.
 - Keine Paywall-Fundstellen oder Blindzitate verwenden. Quellen ausschliesslich dejure.org, openjur.de, bundesgerichtshof.de, bundesarbeitsgericht.de, bundessozialgericht.de, bundesfinanzhof.de, curia.europa.eu, Landesjustizportale.
 
 ## Quellenhinweis

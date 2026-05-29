@@ -1,3 +1,20 @@
+# v34.0.0 - Corporate Legal English didaktisiert, Multi-Format-Testakte
+
+- **`gesellschaftsrecht-legal-english` didaktisch nachgeschärft.** Der `allgemein`-Skill startet jetzt mit einem echten 90-Sekunden-Kaltstart: Sofortdiagnose, Erfahrungslevel, drei Rückfragen, Skill-Routing und Mini-Arbeitsprodukt. Der `rookie-modus` wurde vom bloßen Prüfraster zum Lerncoach mit 30-Minuten-Plan, Begriffskarten, Mini-Übungen und klaren Senior-Review-Gates.
+- **Zwei neue Skills.** `lernpfad-dealroom-simulator` führt Anfänger durch mehrteilige Transaktionsakten mit Materialinventar, Dealkarte, Lernpfad, Übungen und Arbeitsprodukt. `anschauungsmaterial-multiformat-auswertung` wertet Excel, PDF, Scan, Screenshot, JPEG, Chat, Email und Dealroom-Fragmente quellenkritisch aus.
+- **Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` weiter ausgebaut.** Neu: WhatsApp-Thread als Markdown, Multi-Format-Index, echtes Excel-Trainingsmodell (`18-cap-table-waterfall-training.xlsx`), PDF-Scan zur Beurkundungssprache, Whiteboard-Foto, Investor-Email-Screenshot, WhatsApp-Screenshot und Rookie-Cheatsheet als PDF.
+- **Dokumentations- und Versionspflege.** Plugin-README, Testakten-README, Root-README, SKILLS-Übersicht, Marketplace und Plugin-Manifest aktualisiert; `gesellschaftsrecht-legal-english` auf `34.0.0` gesetzt.
+
+## Qualitätssicherung
+
+- `git diff --check`
+- `node scripts/validate-plugin-structure.mjs`
+- `python3 scripts/validate-yaml-frontmatter.py`
+- JSON-Manifest-Parse aller Plugin-Manifeste
+- Multi-Format-Sanity: XLSX mit `openpyxl`, PDFs mit `pypdf`, JPEGs mit `PIL` geöffnet
+
+---
+
 # v33.0.0 — Corporate Legal English Testakten-Ausbau, Codex-Klarstellungen
 
 - **Corporate Legal English Testakte massiv ausgebaut.** `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/` von 7 auf 16 Dateien erweitert. Neue Dateien: `00-deal-personen-und-zeitleiste.md` (Cast, Zeitleiste, fiktive Eckdaten), `08-glossar-deutsch-englisch-fallstricke.md` (zwoelf Begriffspaare mit typischen Missverstaendnissen), `09-anfaengerfehler-katalog-mit-partner-rotstift.md` (fuenf Fehlerklassen mit Vorher/Nachher), `10-wandeldarlehen-tante-ermelind.md` (vollstaendiger Convertible Loan mit Discount 20 Prozent, Cap 10 Mio. EUR, 8 Prozent PIK), `11-investor-counsel-markup-roundtrip.md` (Markup-Email Brackenmuir & Quint LLP, interne Sortierung, 02:14-Uhr-Antwort), `12-notar-checkliste-und-handelsregisterlogik.md` (Notariat Schwartz, § 5 BeurkG, Einheitsdoktrin, § 40 GmbHG), `13-side-letter-und-information-rights.md` (Stahlauge Seed Side Letter, Northbridge Series A Side Letter), `14-board-und-consent-matters-mapping-de-en.md` (zehn Reserved Matters mit DE-Umsetzung), `15-closing-checkliste-cp.md` (30 CPs, Gap-Analyse, Post-Closing). Bestandsdateien 01 bis 07 substantiell ausgebaut (Term Sheet jetzt mit vollstaendigem Definitions-Set, SHA-Synopse Seed/Series A, DD-Index mit Datenraumstruktur, Associate-Notiz mit Partner-Rotstift, Pruefraster 100 Punkte).

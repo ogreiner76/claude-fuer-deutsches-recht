@@ -441,11 +441,11 @@
     {
       "name": "gesellschaftsrecht-legal-english",
       "source": "./gesellschaftsrecht-legal-english",
-      "description": "Didaktisches Gesellschaftsrechts-Plugin fuer Corporate Legal English: Cap Table, Gesellschafterliste, Term Sheet, SHA, Vesting, Drag/Tag, Liquidation Preference, Anti-Dilution, SPA, DD und Big-Law-Anfaengertraining.",
+      "description": "Didaktisches Gesellschaftsrechts-Plugin fuer Corporate Legal English: Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Term Sheet, SHA, Vesting, Drag/Tag, Liquidation Preference, Anti-Dilution, SPA, DD und Big-Law-Anfaengertraining.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "25.0.0"
+      "version": "34.0.0"
     },
     {
       "name": "gewerblicher-rechtsschutz",
@@ -957,5 +957,5 @@
       "version": "29.0.0"
     }
   ],
-  "version": "24.2.0"
+  "version": "34.0.0"
 }

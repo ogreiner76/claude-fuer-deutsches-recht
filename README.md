@@ -6,7 +6,7 @@
 
 Neu im Repo ist der [`meinungspruefer`](./meinungspruefer): ein großes Äußerungsrechts-Plugin für Meinung/Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, Plattformfälle und US-Supreme-Court-Vergleich. Dazu gibt es die Testakte [`meinungspruefer-grenzfaelle-alltag`](./testakten/meinungspruefer-grenzfaelle-alltag/) mit X-Post, LinkedIn-Pinocchio, Kantinenfall, Elternchat, Bürgermeister-"Lackaffe", Abmahnung, Anhörung, Belegmappe und USA-Vergleichsnotiz.
 
-Ebenfalls lokal vorbereitet ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/).
+Ebenfalls besonders ausgebaut ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/) mit Markdown, Excel, PDF-Scan, PDF-Cheatsheet, JPEG-Foto, Email-Screenshot und WhatsApp-Screenshot.
 
 ## Über dieses Repository
 
@@ -31,10 +31,10 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 105 |
-| **Skills (SKILL.md)** | 2533 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 2535 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 61 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v24.2.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v34.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
@@ -223,7 +223,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`geldwaeschepraevention-aml-kyc`](./geldwaeschepraevention-aml-kyc) | Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation. |
 | [`gesellschaftsgruender`](./gesellschaftsgruender) | Gründungsassistent für deutsche Gesellschaften. Führt von Rechtsformwahl GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH eK über Gesellschaftsvertrag und Geschäftsführeranstellungsvertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister IHK Berufsgenossenschaft. MoPeG 2024 DiRUG Online-Gründung GwG TraFinG. Erste-100-Tage-Pflichten für Geschäftsführer. |
 | [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
-| [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english) | Didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English: Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA, DD und Big-Law-Anfängertraining. |
+| [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english) | Didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English: Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA, DD und Big-Law-Anfängertraining. |
 | [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Marke, Design, Patent, Urheberrecht, UWG-Abmahnung. |
 | [`grosskanzlei-corporate-ma`](./grosskanzlei-corporate-ma) | Freistehendes Big-Law-Corporate/M&A-Plugin mit Deal-Kommandocenter, Anfänger-/First-Year-Associate-Modus, Aktenanlage, Datenraum, Legal DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreifecheck, CP-Kalender, SPA/APA, W&I, Public M&A, Umwandlungsrecht, StaRUG/Insolvenzplan, Billing, XRechnung/ZUGFeRD, GoBD und Closing Bible. |
 | [`hausarbeitenmacher`](./hausarbeitenmacher) | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten im Jurastudium. Führt Studierende sokratisch durch die Lösung in Zivilrecht öffentlichem Recht Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt Adressaten-Strategie ohne Schleimerei. Bei Seminararbeit Modus-Wechsel zum wissenschaftlichen Aufsatz mit eigener These. Strikt lernfördernd nicht zum Abschreiben. Behutsam-frech-wertschätzender Dialog-Stil am Rande. |
