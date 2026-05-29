@@ -135,5 +135,3 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Pflichten nach Eintragung
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Statusfeststellung vertiefen
-
-<!-- AUDIT 27.05.2026: BAG 10 AZR 84/14 entfernt. Tatssächliches Thema: Provisions-/Stornohaftungs-AGB Transparenz § 307 BGB — nicht Wettbewerbsverbot. Zusätzlich: § 74 II HGB gilt nach BGH-Linie nicht analog für GmbH-GF. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

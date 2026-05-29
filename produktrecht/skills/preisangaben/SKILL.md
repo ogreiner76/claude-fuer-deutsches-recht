@@ -120,7 +120,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur task_198 (3 Probleme):
-1. BGH I ZR 143/21 (Zeile 82 alt): geloescht. AZ auf dejure.org nicht auffindbar;
    Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

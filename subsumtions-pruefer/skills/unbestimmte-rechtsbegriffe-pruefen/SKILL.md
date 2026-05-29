@@ -86,5 +86,3 @@ Das System nennt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 319/20 entfernt — WRONG_TOPIC (echter Inhalt: eBay-Negativbewertung "Versandkosten Wucher!!", AGB-Auslegung und Meinungsfreiheit; kein Bezug zu § 323 Abs. 5 S. 2 BGB / "erheblich"/5-Prozent-Schwelle). Nachfolgehinweis NJW 2023, 52 im Abschnitt "erheblich" ebenfalls entfernt, da er aus derselben Halluzination stammt. Kein Ersatz eingefuegt. -->

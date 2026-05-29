@@ -136,7 +136,6 @@ Bevor die Haendler-AGB finalisiert werden, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 143/98 (behauptet: AGB-Klauselkontrolle B2B): Aktenzeichen existiert nicht auf dejure.org; BGH V ZR 143/98 (12.03.1999) betrifft Sachenrechtsbereinigung/LPG-Ueberbau — kein AGB-Bezug. Ersetzt durch BGH VIII ZR 67/09 (17.02.2010) — bereits an anderer Stelle im Skill zitiert, passt zum AGB B2B-Kontext.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: dejure.org. Prufer: Bundle-005-Audit.
 -->

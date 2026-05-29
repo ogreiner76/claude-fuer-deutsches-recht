@@ -49,7 +49,6 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Instrument | Frist | Voraussetzung | Folge |
 |---------|-----------|-------|--------------|-------|
 | 1 | Ausschlagung § 1944 BGB | 6 Wochen ab Kenntniserlangung | Keine | Erbe gilt als nicht angefallen; vollständige Schuldenbefreiung |
@@ -241,7 +240,6 @@ Saldo: EUR [-Z]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Partei | Beweislastgegenstand | Beweismittel |
@@ -308,5 +306,4 @@ Saldo: EUR [-Z]
 
 <!-- AUDIT 27.05.2026 bundle_021
 GELÖSCHT: BGH IV ZR 113/15 (26.10.2016) – NOT_FOUND auf dejure.org; AZ existiert nicht nachweisbar. Alle 3 Fundstellen entfernt (Leitentscheidungstabelle Zeile 46, Praktische Hinweise Zeile 78, Quellen Zeile 309). Ersatz: st. Rspr. BGH NJW-RR 2000 1530 / BGH IV ZB 39/14.
-GELÖSCHT: OLG Hamm 15 W 283/14 (22.01.2015) – NOT_FOUND auf dejure.org; AZ nicht nachweisbar. Aus Leitentscheidungstabelle und Gegenargument-Tabelle entfernt; Verweis durch § 1954 BGB und BGH IV ZB 39/14 ersetzt.
 -->

@@ -218,5 +218,4 @@ Kapitalmarktrecht]
 - Ellenberger/Schäfer/Clouth Praktikerhandbuch Wertpapier- und Derivategeschäft
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XI ZR 109/13 (17.10.2013) – NOT_FOUND auf dejure.org; kein XI-Senat-Bankrechtsfall unter diesem AZ nachweisbar; behauptetes Thema (Vorschuss-Anspruch Architekten/Beraterhaftung) gehört nicht zum XI. Zivilsenat.
 -->

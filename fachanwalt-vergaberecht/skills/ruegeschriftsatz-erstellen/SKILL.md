@@ -64,7 +64,6 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 ## Prüfschema: Rügeschriftsatz Vergaberecht
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Inhalt | Grundlage |
@@ -99,7 +98,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -206,7 +204,6 @@ für fünf Jahre anzuerkennen.
 Durch diese Anforderung werden Bieter mit gleichwertiger Erfahrung
 aus Märkten mit anderem Auftragsgrößenzuschnitt systematisch
 ausgeschlossen. Dies verletzt das Diskriminierungsverbot nach
-§ 97 Abs. 2 GWB und Art. 58 RL 2014/24/EU.
 
 III. Antrag
 
@@ -294,7 +291,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ---
 
@@ -422,5 +418,4 @@ R U E G E  nach § 160 Abs. 3 GWB
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- Art. 58 RL 2014/24/EU: Kein Gerichtsurteil, sondern Artikel der EU-Vergaberichtlinie (Eignungskriterien). Die Verwendung im SKILL in Baustein 2 als Normreferenz (Diskriminierungsverbot, Eignungsanforderungen) ist inhaltlich korrekt. Kein Eintrag als fake Gerichtsentscheidung vorhanden. Kein Änderungsbedarf.
 -->

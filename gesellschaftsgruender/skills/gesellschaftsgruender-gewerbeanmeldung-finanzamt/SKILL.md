@@ -120,5 +120,3 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Pflichtmeldungen
 - `gesellschaftsgruender-transparenzregister` — GwG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Steuerpflichten
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 246/08 entfernt. Tatsächliches Thema: Preiserhöhungsklauseln in Erdgas-Sonderverträgen, AGB-Inhaltskontrolle § 307 BGB — kein Bezug zu Gewerbebetrieb oder Steuerrecht. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

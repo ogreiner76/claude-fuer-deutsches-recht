@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -209,7 +208,6 @@ bei Übergabe noch nicht erkennbar waren.
 ```
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 294/15 entfernt: Aktenzeichen nicht auf dejure.org auffindbar;
 kein Ersatz gefunden (claimed topic: Raeumungsvergleich Wohnung eindeutig bezeichnen).
 Loesung: Eintrag geloescht.
 -->

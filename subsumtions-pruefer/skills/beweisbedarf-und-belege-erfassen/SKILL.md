@@ -139,6 +139,5 @@ Mit freundlichen Grüßen
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026
-BGH V ZB 226/17 (WRONG_TOPIC): Urteil vom 20.04.2018 betrifft Ausreisegewahrsam nach AufenthG — kein Beweisrecht-Bezug. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt; Zitation in Anscheinsbeweis-Abschnitt ebenfalls entfernt.
 BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt.
 -->

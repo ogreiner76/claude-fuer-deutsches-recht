@@ -89,7 +89,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
@@ -150,8 +149,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 9 AZR 217/20: ersatzlos entfernt (Aktenzeichen betrifft Beschaeftigungsanspruch/Direktionsrecht, nicht Beratungspflicht beim Aufhebungsvertrag; kein verifiziertes Ersatz-AZ auffindbar)
-- BGH IX ZR 145/15: ersetzt durch BGH IX ZR 125/10 vom 10.05.2012 (BGHZ 193, 193; NJW 2012, 2435) — anwaeltliche Beratungspflicht, vollstaendige Belehrungspflicht (Quelle: dejure.org)
 
 ## Cross-Refs
 

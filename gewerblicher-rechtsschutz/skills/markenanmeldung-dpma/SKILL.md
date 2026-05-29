@@ -194,7 +194,6 @@ Task: Bundle 031 / Halluzinations-Reparatur
 Problem: Konkrete Leitentscheidungen duerfen nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgegeben werden.
          obwohl der Inhalt (Medicon-Apotheke, Freihaltebeduerfnis § 8 II Nr. 2 MarkenG) zum
          Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Korrektur: AZ I ZB 39/16 → I ZR 30/16; "Beschl." → "Urt."; Datum 06.04.2017 → 02.03.2017;
            Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
            Verifiziert via dejure.org.
 -->

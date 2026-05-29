@@ -108,5 +108,3 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH
 - `gesellschaftsgruender-handelsregister-anmeldung` — KG-Eintragung
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte der KG
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 296/88 (24.01.1990) entfernt. Tatsächliches Thema: Nicht unterzeichneter Nachsatz im Mietvertrag, § 566 BGB Schriftformerfordernis — kein Bezug zu GmbH & Co. KG. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

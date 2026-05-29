@@ -180,6 +180,5 @@ Streitgegenstand: [VERTRAG / DELIKT]
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH IX ZR 51/19 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Ergänzende Leitsätze Brüssel Ia) entfernt. Bundle-Hinweis: real existiert XII ZR 51/19 (Mietrecht/Schriftform, Familienrecht-Senat), inhaltlich unpassend. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

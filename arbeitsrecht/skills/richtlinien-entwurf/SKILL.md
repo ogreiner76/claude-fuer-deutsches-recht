@@ -303,5 +303,4 @@ Anpassungsbedarf.
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- BAG 9 AZR 557/05 (NZA 2006, 1149) entfernt: Urteil betrifft AGB-Kontrolle von Versetzungsklauseln (Redakteurin, billigem Ermessen), nicht AGB-Kontrolle von Handbuchregelungen/Bezugnahmeklausel wie behauptet. Quelle: dejure.org. Kein verifizierbarer Ersatz gefunden; Eintrag gelöscht.
 -->

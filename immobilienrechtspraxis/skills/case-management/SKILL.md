@@ -122,8 +122,6 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
 | Verjaehrung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH VIII ZR 66/19 (WRONG_TOPIC) entfernt: Entscheidung betrifft Abgrenzung Wohnraum- vs. Gewerberaummiete
   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

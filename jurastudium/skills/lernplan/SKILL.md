@@ -238,5 +238,3 @@ Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH XI ZR 204/04 (19.09.2006) entfernt.** Das Aktenzeichen und BGHZ 169, 109 sind korrekt, jedoch ist das behauptete Thema "Anspruchskonkurrenz (Rn. 20 ff.)" eine Halluzination: Echtes Thema laut dejure.org ist Bankhaftung / Schrottimmobilien / HaustuerWiderruf (HWiG) / c.i.c. Der Eintrag wurde als WRONG_TOPIC eingestuft. Kein geeigneter Ersatz mit verifiziertem Aktenzeichen zur Anspruchskonkurrenz gefunden; Eintrag geloescht.

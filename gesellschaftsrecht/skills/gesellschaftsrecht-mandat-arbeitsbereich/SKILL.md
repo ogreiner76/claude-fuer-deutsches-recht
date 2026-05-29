@@ -56,11 +56,9 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-| <!-- IX ZR 221/15 entfernt (27.05.2026): AZ existiert nicht auf dejure.org; V ZR 221/15 ist ein WEG-Sachenrechtsfall (NJW-RR 2017, 260); NJW 2017, 2835 nicht verifizierbar --> | | | |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Mandats-Workspace
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -122,7 +120,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1: Mandatsniederlegungsschreiben bei Interessenkonflikt
@@ -169,7 +166,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ### Baustein 2: Mandats-Workspace-Vorlage (mandat.md)
 
@@ -398,5 +394,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ## Audit-Hinweis (27.05.2026)
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC — AZ IX ZR 221/15 existiert auf dejure.org nicht. Das reale Urteil V ZR 221/15 (18.11.2016) betrifft WEG-Sachenrecht (Nutzungsbeendigung/Unterlassung, NJW-RR 2017, 260), nicht Verschwiegenheitspflicht bei Kanzleiwechsel. NJW 2017, 2835 nicht verifizierbar.
-Maßnahme: Tabellenzeile mit IX ZR 221/15 entfernt. Kein Ersatz eingefuegt; der Verschwiegenheitspflicht-Stoff ist ueber BGH IX ZR 199/14 und IX ZR 280/14 sowie die Normtexte (§ 43a BRAO, § 203 StGB) abgedeckt.

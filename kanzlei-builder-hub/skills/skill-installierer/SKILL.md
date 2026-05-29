@@ -245,5 +245,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH IX ZR 49/10 (10.02.2011) in den Leitentscheidungen entfernt.** Echtes Thema laut dejure.org (https://dejure.org/2011,436): Phoenix-Fall / Aussonderungsrecht § 47 InsO / Treuhandvermoegen (BGHZ 188, 317). Die Eintragung behauptete "Haftung bei Verletzung von Organisationspflichten in der Kanzlei; NJW 2011, 1594 Rn. 9" — falsches Thema und falsche Fundstelle (NJW 2011, 1594 = BGH IX ZR 105/10, Anwaltshaftung wegen aussichtsloser Klage). WRONG_TOPIC. Kein geeigneter Ersatz mit verifiziertem Aktenzeichen zu Organisationspflichten/Software-Pruefung gefunden; Eintrag geloescht. Hinweis: BGH IX ZR 399/99 (26.09.2002, NJW 2003, 211) im selben Abschnitt erscheint doppelt — nicht Teil dieses Auftrags, aber zur Kenntnis.

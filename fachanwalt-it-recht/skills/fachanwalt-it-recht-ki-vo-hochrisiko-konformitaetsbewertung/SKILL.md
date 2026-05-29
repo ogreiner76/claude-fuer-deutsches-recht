@@ -310,6 +310,5 @@ Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: VG Wiesbaden 6 L 738/21.WI — Entscheidung auf dejure.org bestätigt (Beschl. 01.12.2021), aber WRONG_TOPIC: Echter Inhalt = Untersagung Nutzung Cookiebot-Dienst, rechtswidrige Datenübermittlung USA, DSGVO Art. 44/48. Skill verwendete sie fälschlicherweise als Beleg für DSFA-Pflicht bei KI-Entscheidungssystemen. Leitsatz-Eintrag entfernt.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

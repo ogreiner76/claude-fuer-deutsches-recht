@@ -162,7 +162,6 @@ Anlagen:
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 <!-- AUDIT 27.05.2026
-BGH VI ZR 87/15 entfernt: Aktenzeichen nicht auf dejure.org oder bundesgerichtshof.de auffindbar;
 Datum 28.01.2014 fuer ein 2015-AZ unmoeglich (chronologischer Widerspruch).
 Ersatz: BGH VI ZR 323/04 (13.06.2006, BGHZ 168, 103) — verifiziert auf dejure.org;
 betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich passend.

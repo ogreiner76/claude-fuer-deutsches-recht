@@ -297,7 +297,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 196/97 (behauptetes Thema: Interessenkonflikt, Honorarvereinbarung, NJW 1998 2048) — NOT_FOUND/WRONG: BGH IX ZR 196/97 (17.12.1998) existiert (NJW 1999 1395), betrifft aber internationales Gläubigeranfechtungsrecht; kein Bezug zu Interessenkonflikt. NJW 1998 2048 gehört zu BGH IX ZR 107/97 (Anwaltshaftung/Sachverhaltsaufklärung), ebenfalls kein Bezug zum behaupteten Thema. Eintrag gelöscht.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.1998&Aktenzeichen=IX+ZR+196%2F97
 Bundle: bundle_047.json
 -->

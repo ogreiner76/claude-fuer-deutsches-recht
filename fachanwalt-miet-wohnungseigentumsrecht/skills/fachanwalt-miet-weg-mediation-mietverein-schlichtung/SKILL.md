@@ -139,6 +139,3 @@ Stand: 05/2026. WEMoG seit 1.12.2020. MediationsG. Bei Mietpreisbremse-Reform ak
 ## Audit-Hinweis
 
 Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
-- BGH V ZR 30/20 (WRONG_TOPIC: Aktenzeichen existiert, betrifft aber Wegfall der Geschaeftsgrundlage eines Grundstuecksuebertragungsvertrags mit Pflegeverpflichtung, nicht WEG-Beschlussanfechtung/Mediation; zudem falsches Datum 18.11.2020 statt 09.07.2021).
-- BGH VIII ZR 169/22 (NOT_FOUND: Aktenzeichen nicht auf dejure.org nachweisbar).
-- BGH VIII ZR 356/21 (NOT_FOUND: Aktenzeichen nicht auf dejure.org nachweisbar).

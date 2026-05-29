@@ -108,5 +108,3 @@ Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als 
 - [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH VIII ZB 67/18 (behauptet: 26.11.2019, NJW 2020, 384, § 132 Abs. 3 ZPO Schriftsatzfrist) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Ersetzt durch verifiziertes Zitat BGH VIII ZB 69/16 (09.05.2017, NJW 2017, 2041) zu Fristverlängerungsantrag und erheblichen Gründen nach § 520 Abs. 2 Satz 3 ZPO.

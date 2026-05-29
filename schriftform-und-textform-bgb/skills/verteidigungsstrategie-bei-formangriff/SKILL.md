@@ -144,7 +144,6 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem (Audit-Meldung): BGH I ZR 202/25 als NOT_FOUND gemeldet ("AZ noch nicht entschieden").
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Keine Änderung am Skill-Text erforderlich. AZ und Inhalt bestätigt.
 Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/montagsblog-neues-vom-bgh-ZRBLOG0004000.html

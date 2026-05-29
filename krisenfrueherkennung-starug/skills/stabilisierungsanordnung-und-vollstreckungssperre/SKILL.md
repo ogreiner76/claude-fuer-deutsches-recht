@@ -235,7 +235,6 @@ Mit freundlichen Grüßen
 - → `cross-class-cram-down-und-absolute-priority` — Parallele Planabstimmung unter Schutz
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Pflichten während Anordnung
 
-
 ## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -255,7 +254,6 @@ Mit freundlichen Grüßen
 
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
-Entfernt: BGH IX ZB 75/14 (07.05.2015) — WRONG_TOPIC.
 Rechtsprechung live pruefen: Thema und Fundstelle nur mit freier/amtlicher Quelle dokumentieren.
 Rechtsprechung live pruefen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
 Kein echter StaRUG-Bezug. Aktion: Eintrag geloescht.

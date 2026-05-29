@@ -80,7 +80,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 6 AZR 286/06: Eintrag geloescht. Skill behauptete Thema: Annahmeverzugslohn § 615 BGB Zwischenverdienst Anrechnung § 11 KSchG, NZA 2007, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Aufhebungsvertrag oder nachtraegliche Befristung / AGB-Kontrolle § 305c BGB. NZA-Fundstelle zufaellig korrekt, Thema aber voellig falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2007,511
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

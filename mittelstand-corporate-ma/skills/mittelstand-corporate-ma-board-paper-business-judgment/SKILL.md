@@ -61,4 +61,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH II ZR 175/95 (claimed: Business Judgment Rule fuer GmbH-Geschaeftsfuehrer, Urt. 21.04.1997, BGHZ 135, 244): WRONG_TOPIC. Verifiziertes Urteil betrifft Pflicht des Aufsichtsrats zur eigenverantwortlichen Pruefung von Schadensersatzanspruechen gegen Vorstandsmitglieder (ARAG/Garmenbeck), NJW 1997, 1926 (nicht NJW 2022). Kein Bezug zur Business Judgment Rule fuer GmbH-GF. Halluzinierter Leitsatz entfernt. -->

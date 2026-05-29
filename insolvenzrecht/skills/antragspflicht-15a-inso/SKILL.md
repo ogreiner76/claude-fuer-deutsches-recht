@@ -137,7 +137,6 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 ## Ablauf
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Feststellung des Eröffnungsgrundes**
@@ -190,7 +189,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Ausgabeformat
 
 Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
@@ -207,7 +205,6 @@ Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
   D&O-Deckungsprüfung.
 - **Belege:** Mindestens zwei BGH-Entscheidungen mit Randnummer, relevante
   Kommentar­stellen, IDW S 11.
-
 
 ## Beispiel
 
@@ -301,7 +298,6 @@ Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
 
-
 ## Triage — Antragspflicht § 15a InsO
 
 Bevor losgelegt wird, klaere:
@@ -355,10 +351,7 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH IX ZR 75/21 (WRONG_TOPIC) entfernt: Entscheidung betrifft Insolvenzanfechtung/Vorsatzanfechtung
   § 133 InsO (Gläubigerbenachteiligung durch Zahlung Konzernabschlussprüfung), nicht Antragspflichthaftung.
   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Antragspflichthaftung als Schutzgesetz, Vertrauensschaden Neugläubiger).

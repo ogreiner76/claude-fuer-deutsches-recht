@@ -226,7 +226,3 @@ Mit freundlichen Grüßen
 **Datum:** 27.05.2026
 
 Bei diesem Skill wurden drei halluzinierte BGH-Aktenzeichen entfernt oder ersetzt:
-
-- `BGH VIII ZR 379/02` (nicht auf dejure.org) ersetzt durch `BGH VIII ZR 344/02` (25.06.2003, Teilunwirksamkeit ueberhohter Kautionsvereinbarung)
-- `BGH VIII ZR 38/08` (nicht auf dejure.org) ersatzlos geloescht (Beweislast Schaeden bei Uebergabe)
-- `BGH VIII ZR 152/09 / VIII ZR 41/12 / VIII ZR 200/14` (alle drei nicht auf dejure.org) ersetzt durch `BGH VIII ZR 361/03` (23.06.2004, Unwirksamkeit starrer Fristen-Klauseln bei Schoenheitsreparaturen)

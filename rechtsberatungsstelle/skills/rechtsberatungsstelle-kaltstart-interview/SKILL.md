@@ -14,7 +14,6 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 
 # Ersteinrichtung der Beratungsstelle
 
-
 ## Triage zu Beginn
 1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
 2. Welche Rechtsgrundlage gilt fuer die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
@@ -23,7 +22,6 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026: IX ZR 222/18 (NOT_FOUND bei dejure.org) geloescht; I ZR 82/17 (WRONG_TOPIC: Urteil 01.02.2018 betrifft Medizinprodukt/HeilMWerbG, nicht Anleitungsorganisation Rechtsberatung) geloescht. -->
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen fuer erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
@@ -174,7 +172,6 @@ Konfigurationsdatei (`CLAUDE.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk (Anle
 - **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
 - **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
 - **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
-
 
 ---
 

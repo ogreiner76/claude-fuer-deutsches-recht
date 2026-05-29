@@ -19,8 +19,6 @@ Vor der Erstellung von Billing Narratives klaeren:
 
 ## Zentrale Normen
 
-§ 3a RVG (Stundenhonorar-Vereinbarung; Formerfordernis Textform; Verbraucherschutz) — § 49b BRAO (Vergaetungsvereinbarung; Verbot unzulaessiger Erfolgshonorare) — § 4a RVG (Erfolgshonorar; Zulassungsvoraussetzungen) — § 10 UStG (Umsatzsteuerbarkeit; Leistungszeitpunkt) — §§ 14, 33 UStG (Rechnungspflichtangaben) — § 146 AO, §§ 238 ff. HGB (GoBD: Buchfuehrungspflicht; Aufbewahrungspflicht 10 Jahre) — § 50 BRAO (Handakten; Aufbewahrungspflicht 5 Jahre) — Art. 3 RL 2014/55/EU (E-Rechnungspflicht oeffentliche Auftraggeber)
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -69,7 +67,6 @@ Verhandlungssitzung [DATUM] mit Gegenseite.
 
 ## Schritt-fuer-Schritt-Workflow
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Time Entries importieren:** Alle Zeiteintragungen fuer den Abrechnungszeitraum nach Phase und Workstream sortieren.
@@ -93,7 +90,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mehrteiliges Projekt Abrechnung in Phasen | Phasen-Narrative separat; Gesamtnachweis am Ende |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template
 
@@ -157,7 +153,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Rote Schwellen
 
 - **Honorarvereinbarung § 3a RVG muendlich oder fehlend** — Formverstos; Anwalt kann nur RVG-Pflichtgebuehren verlangen; Vereinbarung unverzueglich schriftlich nachholen.
@@ -201,5 +196,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-- BGH IX ZR 70/09 (behauptet Urt. v. 30.09.2010, NJW 2011 63): Auf dejure.org nicht gefunden (weder IX ZR 70/09 noch ein BGH-Urteil dieses Datums mit diesem AZ). Laut Bundle-Hinweis existiert ein II ZR 70/09 (10.05.2010, GmbH-Recht, falscher Senat). Eintrag geloescht.
-- Art. 3 RL 2014/55/EU (Normenreferenz): Korrekte Gesetzesangabe, kein Gerichtsurteil; verbleibt unveraendert im Normen-Abschnitt.

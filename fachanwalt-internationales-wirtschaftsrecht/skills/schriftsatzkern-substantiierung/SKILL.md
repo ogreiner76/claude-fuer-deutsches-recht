@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Internationales Wirtschafts- und Schiedsrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus CISG, Rom-I-VO, Rom-II-VO, EuGVVO, NYC58, ICC-/DIS-Schiedsordnung und ihre Substantiierungs-Anforderungen:
@@ -235,7 +234,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template: Klageschrift IWR-Kurzrubrum
 
 **Adressat:** Landgericht [ORT] — Internationale Handelskammer / Schiedsgericht
@@ -296,6 +294,5 @@ VI. BEWEISANGEBOTE
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH VII ZR 83/17 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Rechtsprechungs-Werkzeugkasten) entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

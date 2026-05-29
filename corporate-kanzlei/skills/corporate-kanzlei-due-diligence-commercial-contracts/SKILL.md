@@ -113,5 +113,3 @@ Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 7
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 94/17 (17.10.2018) entfernt. Tatsaechliches Thema: Mietrecht — Miethoehungszustimmung, kein fernabsatzrechtliches Widerrufsrecht (NJW 2019, 303). SKILL behauptete: Haftungsbegrenzungsklausel in B2B-Vertrag bei grober Fahrlaessigkeit (NJW 2019, 52) — falsch in Thema und Fundstelle. Eintrag geloescht. Kein Ersatz gefunden. Bundle 017, Task 2. -->

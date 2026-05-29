@@ -47,7 +47,6 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Krisenphase bestimmen | Drohende Zahlungsunfähigkeit (§ 18 InsO), Zahlungsunfähigkeit (§ 17), Überschuldung (§ 19)? | Krisenphase dokumentiert |
@@ -206,7 +205,6 @@ ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Streitwert und Kosten
 
 | Posten | Berechnung / Ansatz | Hinweis |
@@ -242,5 +240,3 @@ ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- IX ZB 5/22: ersetzt durch IX ZB 75/14 (BGH 07.05.2015, dejure.org/2015,12893) — BGH IX ZB 5/22 (12.01.2023) betrifft Zustellungsrecht/Mietrecht (AG Neukoelln), nicht Insolvenzplan-Klassenbildung
-- 6 AZR 376/20: ersetzt durch 6 AZR 785/08 (BAG 21.01.2010, bundesarbeitsgericht.de) — BAG 9 AZR 376/20 (27.07.2021) betrifft Urlaubsentgelt/variable Verguetung nach § 11 BUrlG, nicht Sozialplan im Insolvenzverfahren

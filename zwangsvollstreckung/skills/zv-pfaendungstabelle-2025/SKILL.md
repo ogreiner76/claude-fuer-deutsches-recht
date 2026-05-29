@@ -5,7 +5,6 @@ description: "Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbar
 
 # Pfändungstabelle 1.7.2025
 
-
 ## Triage zu Beginn
 
 1. Handelt es sich um Arbeitseinkommen (§ 850c ZPO) oder selbstständiges Einkommen (§ 850i ZPO)?
@@ -62,7 +61,6 @@ Aktuelle Eckdaten (Tabelle 1.7.2025):
 - Erhöhung erste unterhaltsberechtigte Person: 585,23 EUR (§ 850c Abs. 2 Satz 1 ZPO).
 - Erhöhung jede weitere Person (2. bis 5. Person): 326,04 EUR (§ 850c Abs. 2 Satz 2 ZPO).
 - Vollpfändungsgrenze: 4.766,99 EUR (§ 850c Abs. 3 Satz 3 ZPO).
-- Pfändbarkeitsquote im Tabellenbereich – unterhaltsabhängig nach § 850c Abs. 3 Sätze 1 und 2 ZPO: 0 Unterhaltspflichten 7/10; 1 UP 5/10; 2 UP 4/10; 3 UP 3/10; 4 UP 2/10; 5 UP 1/10. Ab der 6. Person Anpassung durch das Vollstreckungsgericht (§ 850f ZPO); das Werkzeug rechnet ab 6 UP mit den Tabellenwerten für 5 Personen und gibt einen Hinweis aus.
 - Netto wird vor Berechnung auf den nächsten vollen 10-EUR-Schritt abgerundet (§ 850c Abs. 5 ZPO).
 - P-Konto-Sockel § 850k ZPO: 1.560,00 EUR (AG SBV-Bescheinigung Stand 1.7.2025).
 - Pfändbarer Betrag wird nach unten gerundet (§ 850c Abs. 5 ZPO i.V.m. Tabellenmethode).
@@ -133,8 +131,3 @@ Tabelle gültig bis:    30.6.2027
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- 1 UP 5/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (1 Unterhaltspflicht → 5/10 pfaendbar); Notation bleibt unveraendert
-- 2 UP 4/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (2 Unterhaltspflichten → 4/10 pfaendbar); Notation bleibt unveraendert
-- 3 UP 3/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (3 Unterhaltspflichten → 3/10 pfaendbar); Notation bleibt unveraendert
-- 4 UP 2/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (4 Unterhaltspflichten → 2/10 pfaendbar); Notation bleibt unveraendert
-- 5 UP 1/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (5 Unterhaltspflichten → 1/10 pfaendbar); Notation bleibt unveraendert

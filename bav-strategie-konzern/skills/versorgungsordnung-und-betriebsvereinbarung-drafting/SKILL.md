@@ -304,5 +304,4 @@ Unternehmens vorbehalten.
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- EuGH C-168/18 (Bauer/Willmeroth) — "Unverfallbarkeit als Grundrecht" entfernt: C-168/18 betrifft PSV/Pensionskasse (Urt. 19.12.2019), nicht Unverfallbarkeit. "Bauer/Willmeroth" = C-569/16 + C-570/16 (Urlaubsabgeltung). "Unverfallbarkeit als Grundrecht" ist kein verifizierbarer EuGH-Leitsatz für eine der genannten Rechtssachen. Doppelt falsches AZ und falsches Thema; kein Ersatz verifizierbar. Eintrag gelöscht.
 -->

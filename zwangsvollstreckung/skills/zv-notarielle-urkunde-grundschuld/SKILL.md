@@ -58,7 +58,6 @@ Schuldner kann gegenüber neuem Erwerber alle Einreden geltend machen, die ihm g
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026: BGH XI ZR 181/08 (08.12.2009) entfernt – real topic MaBV-Buergschaft in Bautraeger-Insolvenz (NJW 2010,1284), nicht Kuendigung Grundschuld § 1193 BGB (WRONG_TOPIC). BGH VII ZR 56/13 (05.12.2013) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat

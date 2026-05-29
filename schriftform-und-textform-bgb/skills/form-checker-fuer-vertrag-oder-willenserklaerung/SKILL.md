@@ -186,7 +186,6 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - → alle spezifischen Form-Skills
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH V ZR 78/14 (Rechtsprechung Nr. 1) war WRONG_TOPIC — Entscheidung betrifft Beschaffenheitsvereinbarung beim Grundstückskauf (§ 434 BGB), nicht § 550 BGB Schriftformerfordernis.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2015&Aktenzeichen=XII+ZR+114%2F14
 -->

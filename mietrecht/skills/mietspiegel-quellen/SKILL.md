@@ -172,4 +172,3 @@ Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Rec
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 304/21 (claimed: Urt. 14.12.2022, NJW 2023, 1289 Rn. 28, qualifizierter Mietspiegel als Sachverstaendigenzeugnis): WRONG_TOPIC. Verifiziertes Urteil BGH VIII ZR 304/21 = Urt. 27.04.2022, BGHZ 233, 215, NJW 2022, 2030 betrifft WG-Mieterwechsel / Mitbewohner-Austausch, nicht Mietspiegel-Wuerdigung. Halluzinierter Leitsatz entfernt. -->

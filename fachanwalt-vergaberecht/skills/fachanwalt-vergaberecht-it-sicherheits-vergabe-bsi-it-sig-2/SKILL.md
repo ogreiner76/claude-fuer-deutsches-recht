@@ -82,10 +82,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — IT-Sicherheits-Vergabe BSI IT-Sig-2 | Ruege/NPA IT-Sicherheits-Anforderungen; Template unten |
 | Variante A — BSI-Anforderung sachlich falsch | Sachliche Ruege + technische Stellungnahme |
 | Variante B — Auftraggeber besteht auf BSI-Zertifikat | Nachbesserungsmoeglichkeit pruefen; Zertifizierungs-Timeline |
-| Variante C — Auslaendischer Anbieter betroffen | Gleichwertigkeit-Nachweis Art. 25 RL 2014/24/EU |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -294,5 +292,4 @@ Vergabe: [BEZEICHNUNG]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- Art. 25 RL 2014/24/EU: Kein Gerichtsurteil, sondern Artikel der EU-Vergaberichtlinie (Zugang von Drittstaaten-Bietern unter internationalen Übereinkommen). Die Verwendung im SKILL als Normverweis in der Strategischen Optionen-Tabelle (Variante C – Ausländischer Anbieter) ist inhaltlich korrekt. Kein Eintrag als fake Gerichtsentscheidung vorhanden. Kein Änderungsbedarf.
 -->

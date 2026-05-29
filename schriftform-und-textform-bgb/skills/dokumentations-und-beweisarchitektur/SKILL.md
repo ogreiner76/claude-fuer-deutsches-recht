@@ -23,9 +23,7 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026: VIII ZR 296/18 (NOT_FOUND bei dejure.org) geloescht. -->
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026: VIII ZR 332/18 (WRONG_TOPIC: Urteil betrifft Modernisierungsmassnahmen Mietrecht, nicht Anwaltshaftung/Aktenarchivierung) geloescht. -->
 
 ## Quellenregel
 
@@ -182,7 +180,6 @@ Bitte leiten Sie alle diese Unterlagen zeitnah an unsere Kanzlei weiter.
 - → `prozessablauf-papier-vs-elektronisch`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-
 
 ---
 

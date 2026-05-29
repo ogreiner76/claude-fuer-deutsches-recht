@@ -5,7 +5,6 @@ description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet li
 
 # Term-Sheet-Mapping
 
-
 ## Triage zu Beginn
 
 1. Liegt das Term Sheet vollständig vor — alle Eckdaten (Parteien, Objekt, Preis, Laufzeit, Optionen)?
@@ -62,6 +61,5 @@ Der Skill überführt wirtschaftliche Eckdaten in Vertragsklauseln. Er arbeitet 
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 127/98 (behauptetes Thema: handschriftliche Ergänzung geht vor vorgedrucktem Formular, NJW 1999 2442) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

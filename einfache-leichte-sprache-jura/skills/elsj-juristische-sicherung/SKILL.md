@@ -7,7 +7,6 @@ description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verlor
 
 Nutze diesen Skill vor und nach jeder Übertragung.
 
-
 ## Triage zu Beginn
 1. Welche Fristen kommen im Originaltext vor — Datum, Fristbeginn, Fristende, Folgen?
 2. Welche Pflichten (Muss-Handlungen) und welche Rechte (Kann-Optionen) sind enthalten?
@@ -110,5 +109,3 @@ Gib am Ende einen Vermerk aus:
 - Begriffe erklärt: ...
 - Nicht geklärt: ...
 ```
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 143/06 (WRONG_TOPIC: Quotenabgeltungsklausel Schoenheitsreparaturen Mietrecht, NJW 2007, 3632 — nicht Widerrufsrecht) geloescht. Kein Ersatz eingefuegt, da kein verifiziertes passendes Urteil zum Widerrufsrecht-Frist-Thema gefunden. Quelle Pruefung: dejure.org/2007,103 -->

@@ -157,7 +157,6 @@ Berechnung: vom 3. Werktag des Monats
 - `mietrecht/skills/klageentwurf-amtsgericht` — Klage-Erstellung
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 89/22 entfernt: Aktenzeichen nicht auf dejure.org auffindbar.
 Ersatz: BGH VIII ZR 270/15 (15.03.2017, NJW 2017, 1474) — verifiziert auf dejure.org;
 betrifft Begruendungsanforderungen der Eigenbedarfskuendigung (Begründungs-Tiefe), inhaltlich passend.
 -->

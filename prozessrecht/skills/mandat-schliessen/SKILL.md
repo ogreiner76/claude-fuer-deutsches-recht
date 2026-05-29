@@ -104,7 +104,5 @@ _log.yaml-Status: archiv
 - **Vollstreckungsverjährung:** Vollstreckungstitel verjähren nach § 197 Abs. 1 Nr. 3 BGB in 30 Jahren; Abschluss nicht ohne Dokumentation der Vollstreckungsmaßnahmen.
 
 <!-- AUDIT 27.05.2026
-AZ BGH VIII ZR 64/20 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
-Recherche vom 27.05.2026 ergab keinen Treffer fuer Datum 10.02.2021 mit AZ VIII ZR 64/20.
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
 -->

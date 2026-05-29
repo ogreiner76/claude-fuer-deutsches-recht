@@ -184,5 +184,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Befund: GELOESCHT. Skill zitierte C-500/10 (Banca Antoniana Popolare Veneta) fuer das Thema "Stellungnahme im EU-Gesetzgebungsverfahren; Recht auf Anhoerung nach Art. 41 GRCh". Echtes Thema von C-500/10 ist Mehrwertsteuer (VAT): Automatische Beendigung von Steuergerichtsverfahren nach 10 Jahren; Effektivitaetsgrundsatz; keine Verbindung zu Art. 41 GRCh oder Stellungnahme-Verfahren. Entschieden 29.03.2012 (nicht 15.09.2011). Quelle: curia.europa.eu. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

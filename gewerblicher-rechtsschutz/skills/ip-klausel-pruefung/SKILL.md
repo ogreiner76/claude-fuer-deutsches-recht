@@ -251,11 +251,5 @@ Bevor die Klauselanalyse beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-<!-- Alle drei vorherigen Einträge (I ZR 17/05, I ZR 204/05, I ZR 14/04) wurden entfernt: falsche oder nicht auffindbare Aktenzeichen. -->
-
 <!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
-- I ZR 142/06 ("Sammelbox"/Zweckübertragungslehre): Tatsächlich BGH Krannhäuser (Miturheberschaft §§ 8, 10 UrhG) – aus Leitentscheidungen gelöscht; Zweckübertragungslehre bleibt durch I ZR 68/08 abgedeckt.
-- I ZR 17/05 ("Der Frosch mit der Maske"/Zweckübertragungslehre): Tatsächlich BGH Pralinenform II (Markenrecht, § 14 Abs. 2 Nr. 2 MarkenG) – gelöscht.
-- I ZR 204/05 ("Club des Belugas"/§ 31a UrhG): Tatsächlich BGH Musical Starlights (Bühnenaufführungsrecht § 19 Abs. 2 UrhG) – gelöscht.
-- I ZR 14/04 (13.09.2007/§ 69b UrhG): NOT_FOUND in dejure.org-Datenbanken – gelöscht.
 Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->

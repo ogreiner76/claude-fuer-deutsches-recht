@@ -111,8 +111,6 @@ Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH V ZR 9/18 (NOT_FOUND) entfernt: Kein Eintrag auf dejure.org für BGH V ZR 9/18 vom 21.06.2019.
   Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
 -->

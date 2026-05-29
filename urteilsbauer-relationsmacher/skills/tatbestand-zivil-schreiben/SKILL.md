@@ -7,7 +7,6 @@ description: "Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Ri
 
 Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesens, nicht im Perfekt.
 
-
 ## Triage zu Beginn
 
 1. Ist die Beweisaufnahme abgeschlossen — alle Aussagen und Gutachten protokolliert?
@@ -27,13 +26,10 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 - § 320 ZPO — Tatbestandsberichtigung auf Antrag
 - § 286 ZPO — Beweiswürdigung (gehört in Entscheidungsgründe, nicht Tatbestand)
 
-
-<!-- AUDIT 27.05.2026: BGH V ZR 282/16 (22.09.2017) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VI ZR 94/03 (10.02.2004) entfernt – real topic § 540 ZPO Berufungsurteilsinhalt (BGHZ 158,60; NJW 2004,1389), nicht § 313 ZPO Bezugnahme (WRONG_TOPIC). -->
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -57,7 +53,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Tatbestand wird angesteuert auf Revision | Revisionssichere Tatbestandsdarstellung; alle relevanten Tatsachen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template
 

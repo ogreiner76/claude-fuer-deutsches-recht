@@ -34,7 +34,6 @@ Nach der positiven Subsumtion (Anspruch entstanden dem Grunde nach) prüft diese
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-
 ## Systematik der Gegenrechte
 
 ### 1. Rechtshindernde Einwendungen (Anspruch entsteht gar nicht)
@@ -96,6 +95,4 @@ Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreife
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 213/18 (WRONG_TOPIC): Kein Urteil des IX. Senats zum Zurückbehaltungsrecht § 273 BGB unter diesem AZ nachweisbar; VIII ZR 213/18 betrifft Mietrecht. Zeile entfernt.
-BGH VIII ZR 158/17 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 23.01.2019. Zeile entfernt.
 -->

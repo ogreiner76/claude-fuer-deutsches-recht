@@ -77,7 +77,6 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 <!-- AUDIT 27.05.2026
 Geprüft: 3 AZ aus task_259.json
-- BAG 10 AZR 281/12: WRONG_TOPIC (real: 13. Gehalt/AGB-Auslegung, nicht Arbeitnehmersparzulage) → gelöscht
 - BGH VII ZB 16/12: NOT_FOUND auf dejure.org → gelöscht
 - BGH VII ZB 17/05: WRONG_TOPIC (real: § 850f Abs. 2 ZPO Vollstreckungsprivileg, nicht § 850a Nr. 4) → Beschreibung korrigiert
 -->

@@ -228,7 +228,6 @@ zulässig. Der Skill weist im Output-Hinweis darauf hin.
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 4/5
-BGH VIII ZR 42/21 (NOT_FOUND): Aktenzeichen und NJW 2022 S. 1234 auf dejure.org nicht auffindbar.
 Vorkommen 1: Rechtsprechungsliste Eintrag Nr. 1 geloescht, Nummerierung korrigiert (3->2, 4->3).
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

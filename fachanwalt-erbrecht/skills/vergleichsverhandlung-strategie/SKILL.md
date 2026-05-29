@@ -108,7 +108,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -171,5 +170,4 @@ Klassische Stolperfalle in Erb- und Pflichtteilsrecht:
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XII ZR 49/11 (15.05.2013) – WRONG_TOPIC: Reales Urteil behandelt Vaterschaftsanfechtung/Samenspende (BGB § 1600), nicht Vollmacht zur Vergleichsschließung. NJW 2013 2589 Fundstelle korrekt für dieses Urteil, aber Themenbehauptung vollständig falsch. Eintrag aus Rechtsprechungsblock entfernt.
 -->

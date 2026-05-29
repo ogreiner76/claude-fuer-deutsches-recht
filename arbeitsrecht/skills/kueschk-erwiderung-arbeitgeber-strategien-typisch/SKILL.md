@@ -104,5 +104,4 @@ Arbeitgeber bietet Vergleich an?
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 672/01: Eintrag geloescht. Skill behauptete Thema: Ausserordentliche Nachkuendigung § 626 BGB / § 4 KSchG, NZA 2003, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Kleinbetriebsklausel Treuwidrigkeit § 242 BGB, NZA 2003, 717. Thema stimmt nicht mit Skill-Kontext ueberein; keine verifizierbarer Ersatz gefunden. Eintrag geloescht. Quelle: https://dejure.org/2003,705
 -->

@@ -106,7 +106,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Steuerrecht (Beratung und Prozess)
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus AO, FGO, EStG, KStG, UStG, GewStG, ErbStG, BewG und ihre Substantiierungs-Anforderungen:
@@ -202,7 +201,6 @@ Vor Versand:
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BFH XI R 33/09 (WRONG_TOPIC: echtes Thema elektronische Abgabe USt-Voranmeldungen/Härtefallregelung § 150 Abs. 8 AO, nicht § 76 FGO Amtsermittlung/Schriftsatzanforderungen)
   → Falsche Rn.-17-Aussage zur § 76 FGO Amtsermittlung entfernt; description-Referenz entfernt
   Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 -->

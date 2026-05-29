@@ -5,7 +5,6 @@ description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenent
 
 # Redline-QA
 
-
 ## Triage zu Beginn
 
 1. Welche Fassung ist Ausgangsdokument und welche ist die überarbeitete Fassung?
@@ -62,6 +61,5 @@ Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehe
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 188/18 (behauptetes Thema: Änderungsvorbehalt § 307 BGB, NJW 2020 142) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

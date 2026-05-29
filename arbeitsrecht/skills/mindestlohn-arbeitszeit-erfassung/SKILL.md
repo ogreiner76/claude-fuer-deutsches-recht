@@ -364,7 +364,6 @@ Wir empfehlen folgende Sofortmassnahmen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Verzahnung mit anderen Skills
 
 - `kuendigungsschutzklage` — Parallel-Konstellation
@@ -396,5 +395,3 @@ Wir empfehlen folgende Sofortmassnahmen:
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 1 ABR 22/21: Eintrag in der Rechtsprechungs-Sektion geprueft und als korrekt bestaetigt (Beschl. 13.09.2022, Zeiterfassungspflicht § 3 Abs. 2 Nr. 1 ArbSchG; Quelle: bundesarbeitsgericht.de, dejure.org)
-- BAG 1 ABR 8/24: ersatzlos entfernt (WRONG_TOPIC/NOT_FOUND: Aktenzeichen mit Datum 12.06.2019 nicht auffindbar; das Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG bei Zeiterfassungssystemen ist Inhalt von BAG 1 ABR 22/21; Quelle: dejure.org, bundesarbeitsgericht.de)

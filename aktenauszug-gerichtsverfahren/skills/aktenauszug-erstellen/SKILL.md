@@ -169,7 +169,6 @@ Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Qualitätsgrundsätze
 
 - Keine Erfolgsprognose
@@ -186,4 +185,3 @@ Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturierte
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - BGH VII ZB 36/20: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org oder bundesgerichtshof.de; NJW-RR 2022, 1350 konnte keinem BGH VII ZB 36/20 zugeordnet werden)
-- BGH VIII ZB 96/19: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org; Datum 29.09.2020 ergibt kein Ergebnis fuer dieses Aktenzeichen)

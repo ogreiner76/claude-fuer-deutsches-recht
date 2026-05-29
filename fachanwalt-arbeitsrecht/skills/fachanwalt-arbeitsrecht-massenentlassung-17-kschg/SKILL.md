@@ -314,7 +314,6 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Adressat & Tonfall
 
 | Adressat | Tonfall | Hauptpunkt |
@@ -341,5 +340,4 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 865/16 (WRONG_TOPIC): Echtes Thema laut dejure.org (https://dejure.org/2017,35401) ist ordentliche Kündigung GmbH-Geschäftsführer § 14 Abs. 1 Nr. 1 KSchG Organstellung (NZA 2018 358) – kein Bezug zu Massenentlassung oder Konsultationsverfahren. Ersetzt durch BAG 2 AZR 276/16 (22.09.2016, BAGE 157 1, NZA 2017 395): Konsultationsverfahren Massenentlassung; Unterrichtungs- und Konsultationspflicht nach § 17 Abs. 2 KSchG stehen selbständig nebeneinander; bereits im Skill als Sekundärquelle etabliert. Alle drei Fundstellen aktualisiert.
 -->

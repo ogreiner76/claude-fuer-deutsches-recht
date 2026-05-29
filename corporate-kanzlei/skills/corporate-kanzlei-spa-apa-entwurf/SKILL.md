@@ -198,5 +198,3 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-<!-- AUDIT 27.05.2026: BGH V ZR 22/22 (17.02.2023) entfernt. Tatsaechliches Thema: Immobilienrecht — Grundbuchberichtigung, Auflassungsvormerkung, Nichtigkeit Grundstueckskaufvertrag (NJW 2023, 2343). SKILL behauptete: Unternehmenskauf, Garantieversprechen § 311 I BGB (NJW 2023, 1543) — falsch in Thema und Fundstelle. Eintrag und Quellen-Referenz geloescht. Kein Ersatz gefunden. Bundle 017, Task 4. -->

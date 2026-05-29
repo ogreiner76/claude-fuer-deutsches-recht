@@ -89,5 +89,3 @@ NÄCHSTER SKILL:        [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 - `zv-titel-klausel-zustellung`
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
 - `zv-abwehr-schuldner` – Vollstreckungsgegenklage nach Restschuldbefreiung
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 144/16 aus "Leitentscheidungen" entfernt — WRONG_TOPIC. Auf dejure.org verifiziert: BGH 18.01.2018 – IX ZR 144/16 betrifft Insolvenzanfechtung und Kenntnis des Gläubigers von der Zahlungseinstellung (§ 133 InsO; NJW-RR 2018, 432) — kein Bezug zu "Zinsen aus Tabellenauszug". Außerdem war das im Skill genannte Datum 28.09.2017 falsch (korrekt: 18.01.2018). Streichung wegen falschen Themas. -->

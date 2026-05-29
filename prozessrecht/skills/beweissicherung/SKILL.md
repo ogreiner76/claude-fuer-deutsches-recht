@@ -120,7 +120,5 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 - **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
 - **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; § 485 ZPO-Antrag frühzeitig stellen.
 
-
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH IV ZR 527/15, NJW 2017, 869 — WRONG_TOPIC. Urteil existiert (14.12.2016, dejure.org bestaetigt), ist aber Berufsunfaehigkeits-Zusatzversicherung (BUZ, NJW 2017, 1620), nicht §444 ZPO Beweisvereitelung. Alle drei Vorkommen ersetzt durch die korrekte Fundstelle BGH III ZR 57/07, NJW 2009, 366 (Beweisvereitelung und Beweismittelsicherungspflicht, dejure.org bestaetigt). Duplikat im Quellen-Abschnitt entfernt. Status: ERSETZT.
 -->

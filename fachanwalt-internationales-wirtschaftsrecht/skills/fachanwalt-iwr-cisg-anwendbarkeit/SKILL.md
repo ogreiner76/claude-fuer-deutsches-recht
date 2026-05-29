@@ -152,6 +152,5 @@ ERGEBNIS:
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH VIII ZR 42/13 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Ergänzende Leitsätze) entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

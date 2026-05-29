@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -244,5 +243,3 @@ durch: [RA Name]                 durch: [RA Name]
 ```
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** BGH VIII ZR 244/17 (10.04.2019) und BGH VIII ZR 101/06 (07.02.2007) wurden auf dejure.org nicht gefunden (NOT_FOUND). Beide Leitsaetze konnten nicht verifiziert werden. Die entsprechenden Zeilen aus dem Abschnitt "Leitsaetze" wurden entfernt. Das Thema "Anwaltsvergleich § 796a ZPO" und "Vergleich mit Ratenvereinbarung" sind rechtlich valide Themen; fuer belegte Entscheidungen bitte eigene Recherche auf dejure.org oder juris durchfuehren.

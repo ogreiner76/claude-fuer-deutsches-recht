@@ -5,7 +5,6 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 
 # Selbst-Kontrolle vor Abgabe
 
-
 ## Triage zu Beginn
 1. Wie viel Zeit bleibt noch bis zur Abgabe fuer den Endcheck?
 2. Liegen bereits Hinweise auf Schwachstellen aus Tutoren-Feedback vor?
@@ -260,8 +259,6 @@ Wenn nicht — überarbeite noch eine Stunde.
 - Abgabe — Du hast es geschafft.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BAG 5 AZR 428/12 (WRONG_TOPIC) entfernt: Entscheidung betrifft Arbeitszeitkonto/Kürzung von Gleitzeitguthaben,
   nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
 -->

@@ -44,7 +44,6 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 
 ## Prüfschema Liquiditätsvorschau (Mittelstand)
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -106,7 +105,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 — 3-Wochen-Vorschau Tabelle (Mittelstand)
@@ -164,7 +162,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Schadensfall | Ansatz | Norm |
@@ -195,6 +192,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Massnahme: Aktenzeichen in Leitentscheidungen-Tabelle und Quellen-Abschnitt von II ZR 277/16 (19.06.2018) auf II ZR 88/16 (19.12.2017) korrigiert.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2017&Aktenzeichen=II+ZR+88%2F16
 -->

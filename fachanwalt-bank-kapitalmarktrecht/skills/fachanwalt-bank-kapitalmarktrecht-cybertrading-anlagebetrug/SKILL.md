@@ -265,5 +265,4 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XI ZR 515/21 (13.09.2022) – WRONG_TOPIC: Reales Urteil behandelt Online-Glücksspiel/GlüStV (kein Erstattungsanspruch des Kunden bei autorisierten Kreditkartenzahlungen für illegales Glücksspiel), nicht Bank-Warnpflicht bei Cybertrading gem. § 280 BGB i.V.m. § 25h KWG. Auch Datum falsch (21.11.2022 statt 13.09.2022). Leitsatz vollständig entfernt.
 -->

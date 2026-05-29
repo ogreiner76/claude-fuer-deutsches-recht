@@ -96,7 +96,6 @@ Ruhig bleiben. Richterliche Hinweise sind keine Urteile. Erst das Urteil abwarte
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 8 AZR 838/12: Eintrag geloescht. Skill behauptete Thema: Zeugenbeweis im Kuendigungsschutzverfahren / Beweisbehauptung hinreichend konkret, NZA 2014, 618. Dejure.org bestaetigt: Tatsaechliches Thema ist AGG § 15 / MuSchG Kuendigung Schwangere Diskriminierung wegen Geschlechts, NZA 2014, 722. Thema und NZA-Fundstelle falsch; kein verifizierter Ersatz. Eintrag geloescht. Quelle: https://dejure.org/2013,35683
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

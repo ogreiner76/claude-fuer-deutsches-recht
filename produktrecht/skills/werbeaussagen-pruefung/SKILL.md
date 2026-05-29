@@ -227,7 +227,5 @@ Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle au
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH I ZR 78/16, GRUR 2018, 431 — AZ und Fundstelle korrekt und existent (dejure.org bestaetigt: Urt. v. 11.10.2017). Falsches Topic: 'Vergleichende Preisangaben: zeitliche Aktualitaet' ist nicht der Gegenstand; das Urteil betrifft 'Tiegelgroesse' (irrefuehrende Packungsgestaltung/Moegelpackung, §§ 5, 3a UWG). Beschreibung korrigiert. Status: KORRIGIERT.
 -->

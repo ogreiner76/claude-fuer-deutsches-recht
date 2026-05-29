@@ -44,8 +44,13 @@ Nichtigkeitsgründe strukturiert und nicht moralisch pauschal prüfen.
 - Bei Fristen den Rechenweg sichtbar machen.
 - Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
 
+## Konkurrenz zwischen § 134 BGB und eigenständigen Verbraucherschutznormen
+
+- **LG Aachen, Urteil vom 27.05.2026, 10 O 306/25:** Rückforderung von Spieleinsatz aus Online-Glücksspiel. Das Gericht stützt die Rückabwicklung nicht auf § 134 BGB i.V.m. GlüStV, sondern bereits auf § 312j Abs. 4 BGB (Button-Pflicht-Verstoß: "Wette abgeben" genügt nicht). Damit wird die Rückabwicklung über § 812 BGB unabhängig vom glücksspielrechtlichen Streit (Konzession, Kohärenz, EuGH-Vorlage C-530/24 "Tipico"). Methodische Lehre: vor § 134 BGB prüfen, ob bereits eine vorgelagerte Verbraucherschutznorm zur endgültigen Unwirksamkeit führt; das vermeidet Aussetzung und unionsrechtliche Folgeprüfungen. (Quelle: Pressehinweis Gamesright GmbH / rightmart, 28.05.2026; Volltext bei Aufnahme noch nicht veröffentlicht.)
+
 ## Anschluss-Skills
 
 - allgemein
 - anspruchsaufbau-zivilrecht-bgb-at
 - bgb-at-output-gutachten-memo-schriftsatz
+- kauf-im-internet-und-auktionen

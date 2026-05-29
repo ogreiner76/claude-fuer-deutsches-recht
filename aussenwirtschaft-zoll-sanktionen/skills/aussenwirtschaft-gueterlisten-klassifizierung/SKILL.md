@@ -111,5 +111,4 @@ Bearbeiter: [NAME]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- VG Frankfurt 5 K 978/11 (behauptet: AWG-Verstoss leichtfertig, Gueterlistenstatus) entfernt: Urteil nicht auffindbar in dejure.org, Hessenrecht oder einschlägigen Datenbanken. Status NOT_FOUND. Eintrag gelöscht.
 -->

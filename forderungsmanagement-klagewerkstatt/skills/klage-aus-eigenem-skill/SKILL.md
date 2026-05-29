@@ -22,7 +22,6 @@ description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) inst
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
@@ -33,7 +32,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Dieser Skill ist die Laufzeit-Variante. Er setzt voraus, dass das hauseigene Klage-Plugin bereits installiert ist. Er nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die Zuständigkeit, füllt die hauseigene Vorlage und liefert die Klageschrift als DOCX und Markdown.
 
 ## Ablauf
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -69,7 +67,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Streitwert unter 5000 EUR Amtsgericht zustaendig | Vereinfachtes Verfahren AG; kein Anwaltszwang in Klageerhebung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template
 
@@ -122,6 +119,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-- BGH VIII ZR 179/16 (Ladungsfähige Anschrift, behauptet NJW 2017 1659): Auf dejure.org nicht gefunden; Eintrag geloescht.
-- BGH VIII ZR 66/20 (Gerichtsstand Erfuellungsort, behauptet NJW 2021 765): Auf dejure.org nicht gefunden; Eintrag geloescht.
-

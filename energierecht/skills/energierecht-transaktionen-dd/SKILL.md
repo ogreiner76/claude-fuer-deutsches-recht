@@ -297,4 +297,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 8/20 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein BGH-Urteil zu Due-Diligence-Offenbarungspflicht EEG/MaStR unter diesem AZ gefunden. Zitat entfernt. -->

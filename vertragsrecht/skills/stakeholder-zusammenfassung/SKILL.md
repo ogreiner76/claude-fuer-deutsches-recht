@@ -49,8 +49,6 @@ sie wesentliche Risiken weglassen.
   (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
   als Bestandteil ordnungsgemäßer Beratung)
 
-<!-- AUDIT 27.05.2026: BGH IX ZR 197/12 (10.07.2014) entfernt – real topic Steuerberaterhaftung/Feststellungsklage (NJW-RR 2015,626), nicht Anwaltshaftung Risikoaufklaerung (WRONG_TOPIC). BGH IX ZR 143/08 (15.10.2009) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH IX ZR 88/05 entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

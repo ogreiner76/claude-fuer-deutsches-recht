@@ -187,7 +187,6 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026: V ZR 69/21 (WRONG_TOPIC: Urteil betrifft Gebaeudeversicherung/Selbstbehalt, nicht Anfechtungsfrist WEG) geloescht; V ZR 68/22 (NOT_FOUND bei dejure.org) geloescht. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel

@@ -152,6 +152,5 @@ Bevor der Eilantrag gestellt wird, klaere:
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 1/5
-OLG Frankfurt 6 W 60/15 (NOT_FOUND): Entscheidung auf dejure.org nicht auffindbar.
 Massnahme: Beide Vorkommen (Belege-Liste und Aktuelle-Rechtsprechung-Block) geloescht.
 -->

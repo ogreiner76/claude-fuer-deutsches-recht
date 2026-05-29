@@ -100,9 +100,6 @@ Vergleichspotential: [Einschätzung]
 - **Fristversäumnis-Risiko:** Das Briefing ersetzt nicht den Fristenkalender; jede Frist muss separat in das Kanzlei-Fristbuch eingetragen werden.
 - **Vertraulichkeit des Briefings:** Das Briefing enthält Mandatsgeheimnisse; Empfängerkreis sorgfältig wählen (§ 43a Abs. 2 BRAO); nicht per unverschlüsselter E-Mail versenden.
 
-
 <!-- AUDIT 27.05.2026
-AZ BGH VIII ZR 91/22 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
-Recherche vom 27.05.2026 ergab keinen Treffer fuer Datum 05.07.2023 mit AZ VIII ZR 91/22.
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
 -->

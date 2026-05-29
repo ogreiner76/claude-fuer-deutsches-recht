@@ -170,5 +170,3 @@ Bei Beratung zur Berufsbetreuung immer mitnehmen:
 - BtRegV vom 26.10.2022, BGBl. I S. 1934.
 - BGB §§ 1814, 1816 Abs. 5, 1865, 1871, 1872, 1877, 1878 (jeweils n.F.).
 - VBVG §§ 7 ff. für die Vergueturung.
-
-<!-- AUDIT 27.05.2026: BGH XII ZB 164/19 entfernt. Tatsächliches Datum 02.10.2019; tatsächliches Thema: Betreuungsrechtliches Schenkungsverbot (FamRZ 2020, 188) — kein Bezug zu Betreuervergueturung. SKILL beansprucht FamRZ 2020, 444 mit Datum 18.12.2019 — beides falsch. Eintrag geloescht. Kein Ersatz gefunden. Bundle 017, Task 1. -->

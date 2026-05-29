@@ -130,7 +130,6 @@ Bevor die Duftmarke eingereicht wird, klaere:
 
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
-Ersetzt: BGH I ZR 14/15 (Pippi-Langstrumpf-Kostuem) — NOT_FOUND; AZ existiert nicht auf dejure.org.
 Ersatz: BGH I ZR 149/14 (Pippi-Langstrumpf-Kostuem II, 19.11.2015) — verifiziert auf dejure.org (GRUR 2016, 725).
 Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum Kontext.
 -->

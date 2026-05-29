@@ -115,5 +115,3 @@ Kernpflichten-Status:
 
 Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
 ```
-
-<!-- AUDIT 27.05.2026: EuGH C-422/21 (WRONG_TOPIC: Freizuegigkeit/Einwanderungsrecht, nicht Plattformpflichten) entfernt. Ersetzt durch EuGH C-401/19 (26.04.2022, Polen/Parlament und Rat, NJW 2022, 1663) — bestaetigt Art. 11 GRCh-Relevanz bei Plattformpflichten. Quelle: dejure.org/2022,8884 -->

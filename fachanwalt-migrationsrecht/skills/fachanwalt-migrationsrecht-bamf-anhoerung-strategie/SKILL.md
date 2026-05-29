@@ -148,10 +148,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — BAMF-Anhoerung Strategie vorbereiten | Stellungnahme nach Anhoerung; Template unten |
 | Variante A — Anhoerung ohne Anwalt stattgefunden | Ruege der Verfahrensverletzung; Wiederholungsanhoerung beantragen |
 | Variante B — Dolmetscher-Problem | Ruege Uebersetzungsfehler; qualifizierter Dolmetscher |
-| Variante C — Subsidiarer Schutz statt Asyl | Art. 15 RL 2011/95 pruefen; niedrigere Anerkennungshuerden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template: Stellungnahme nach BAMF-Anhoerung
 
@@ -207,8 +205,6 @@ Anlagen: K1 [Beschreibung], K2 [...]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- AUDIT 27.05.2026
-Bundle-024-Flag "15 RL 2011/95" ist kein Gerichtsurteil-AZ:
-Der Eintrag "Art. 15 RL 2011/95" in der Strategietabelle (Variante C) ist eine
 Normenreferenz (Art. 15 Qualifikations-RL 2011/95/EU = subsidiärer Schutz / erheblicher Schaden),
 kein halluziniertes Urteil. Kein Loeschungs- oder Aenderungsbedarf;
 die Formulierung bleibt unveraendert.

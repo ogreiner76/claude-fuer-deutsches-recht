@@ -253,6 +253,5 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
-Problem: BAG 7 AZR 524/10 (Datum 21.12.2011) nicht auffindbar auf dejure.org; Aktenzeichen existiert nicht.
 Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
 -->

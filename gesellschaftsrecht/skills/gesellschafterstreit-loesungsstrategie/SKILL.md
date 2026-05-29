@@ -23,7 +23,6 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 173/04 entfernt (27.05.2026): Urteil betrifft Hinauskuendigungsverbot/Vesting-Modell (BGHZ 164, 98), nicht Ausschlussklage analog § 140 HGB; NJW 2005, 3569 ist falsche Fundstelle. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
@@ -116,7 +115,6 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 - BGB §§ 138, 626, 738
 - AktG §§ 241, 246
 - ZPO §§ 935, 1029
-<!-- AZ II ZR 173/04 entfernt (27.05.2026): WRONG_TOPIC, siehe Audit-Hinweis. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

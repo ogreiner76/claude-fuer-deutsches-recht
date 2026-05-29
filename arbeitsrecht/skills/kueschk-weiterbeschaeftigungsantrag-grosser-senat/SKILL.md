@@ -85,5 +85,3 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 7 AZR 143/15: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Befristung Hochschulprofessor nach WissZeitVG, nicht Vollstreckung Weiterbeschaeftigungsanspruch; Quelle: bundesarbeitsgericht.de, dejure.org)
-- BAG 9 AZR 18/07: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Altersteilzeit und erweitertes Direktionsrecht/Unterrichtsverpflichtung, nicht gesetzlicher Weiterbeschaeftigungsanspruch nach § 102 Abs. 5 BetrVG; Quelle: dejure.org)

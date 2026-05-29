@@ -312,4 +312,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 111/20 (WRONG_TOPIC): Tatsächliches Thema = VW-Diesel-Abgasskandal/Nachbesserung durch Software-Update; kein Bezug zu Förderbescheid-Widerruf BAFA/EEG. Zitat entfernt. -->

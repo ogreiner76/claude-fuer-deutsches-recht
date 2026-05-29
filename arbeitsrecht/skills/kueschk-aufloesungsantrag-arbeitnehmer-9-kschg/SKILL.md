@@ -107,5 +107,4 @@ Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung fest
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 241/12: Zitiertes Thema korrigiert. Ursprüngliche Fassung behauptete Abfindungsfestsetzung nach § 10 KSchG (NZA 2014, 115). Dejure.org bestätigt: tatsächliches Thema ist Auflösungsantrag des Arbeitnehmers nach § 9 Abs. 1 Satz 1 KSchG / Unzumutbarkeit (NZA 2013, 1259). Themenbeschreibung und NZA-Fundstelle korrigiert. Quelle: https://dejure.org/2013,23784
 -->

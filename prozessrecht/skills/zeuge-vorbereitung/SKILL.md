@@ -97,7 +97,6 @@ Verbindlich: `../references/zitierweise.md`.
 - **Vereidigung:** § 391 ZPO – Gericht entscheidet; falsche Zeugenaussage ist strafbar (§ 153 StGB); Zeuge vor Vernehmung hierüber belehren.
 
 <!-- AUDIT 27.05.2026
-AZ BGH V ZR 224/09 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
 einziger Treffer ist XI ZR 224/09 (06.07.2010, XI. Zivilsenat, Bankrecht/Anscheinsbeweis
 Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswuerdigung
 bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.

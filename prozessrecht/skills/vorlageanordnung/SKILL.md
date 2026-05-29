@@ -295,7 +295,6 @@ Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und intern
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 <!-- AUDIT 27.05.2026
-AZ BVerwG 1 A 2/17 entfernt: Entscheidung vom 22.08.2017 existiert (bverwg.de bestaetigt),
 behandelt aber Abschiebungsanordnung nach § 58a AufenthG gegen algerischen Islamisten (WRONG_TOPIC),
 nicht das behauptete Thema "Auskunftsverweigerungsrecht § 99 VwGO / behoerdliches
 Geheimhaltungsinteresse". Das im Skill genannte Datum 15.02.2018 existiert auf dejure.org

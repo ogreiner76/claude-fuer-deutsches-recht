@@ -115,7 +115,5 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 - → `dokumentations-und-beweisarchitektur` (Sicherung WhatsApp/E-Mail)
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH VIII ZR 215/19 (Abschnitt "BGH-Linie") war NOT_FOUND — Aktenzeichen existiert nicht als Entscheidung zur Textform Mieterhöhung.
-Maßnahme: Abschnitt "BGH VIII ZR 215/19 — Textform Mieterhöhung" vollständig gelöscht. Die Aussage (E-Mail erfüllt Textform § 558a Abs. 1 BGB) ist inhaltlich richtig, aber dem Fake-AZ nicht zuzuordnen.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

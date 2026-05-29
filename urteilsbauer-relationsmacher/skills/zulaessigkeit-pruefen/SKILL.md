@@ -7,7 +7,6 @@ description: "Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Re
 
 Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 
-
 ## Triage zu Beginn
 
 1. Liegt internationaler Bezug vor — ist EuGVVO (Brüssel Ia, VO Nr. 1215/2012) anwendbar?
@@ -18,8 +17,6 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 209/17 (15.05.2018) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VIII ZR 90/19 (21.01.2020) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
 
 ## Zentrale Normen
 

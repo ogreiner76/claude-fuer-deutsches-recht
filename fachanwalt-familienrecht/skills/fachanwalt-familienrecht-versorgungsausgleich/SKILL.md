@@ -159,7 +159,6 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 2
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
-Befund: Laut dejure.org (dejure.org/2022,6551) betrifft XII ZB 233/21 vom 09.03.2022
 Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
 § 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

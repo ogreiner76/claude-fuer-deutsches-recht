@@ -110,4 +110,3 @@ Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
 
 ---
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
-<!-- BAG 2 AZR 215/23 (behauptet 31.01.2024, NZA 2024, 567, Betriebsratsanhoerung § 102 BetrVG): WRONG_TOPIC — real existiert nur 8 AZR 215/23 (17.10.2024, 8. Senat), Thema: DSGVO Art. 82 Datenschutz-Schadensersatz, NZA 2025, 45; 2 AZR 215/23 mit diesem Datum und Thema nicht auffindbar — geloescht -->

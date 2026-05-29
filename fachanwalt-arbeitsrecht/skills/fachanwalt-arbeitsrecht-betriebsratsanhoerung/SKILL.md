@@ -47,7 +47,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Betriebsrat existiert im Betrieb? | § 1 BetrVG | Keine Anhörungspflicht |
@@ -146,7 +145,6 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Widerspruchsgründe § 102 Abs. 3 BetrVG
 
 | Widerspruchsgrund | Inhalt |
@@ -196,5 +194,4 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 - Fitting BetrVG-Kommentar § 102; DKKW BetrVG § 102
 
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 67/18 (WRONG_TOPIC): Echtes Thema laut dejure.org ist Änderungsschutzklage/Klagefrist/Kündigungsrücknahmevereinbarung (24.05.2018) – kein Bezug zu § 102 BetrVG oder außerordentlicher Kündigung 3-Tages-Frist. Ersetzt durch BAG 2 AZR 678/19 (07.05.2020, BAGE 170 191): außerordentliche Kündigung und ordnungsgemäße Unterrichtung des Betriebsrats nach § 102 Abs. 1 BetrVG. Alle drei Fundstellen (Leitentscheidungen-Tabelle, Weiterbeschäftigungsanspruch-Abschnitt, Quellen) aktualisiert.
 -->

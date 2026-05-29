@@ -108,7 +108,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026
-Problem: BVerwG 7 C 32/20 (Datum 30.05.2022, "Klimaklage Bundesregierung – Sektorenziele justiziabel") – NOT_FOUND auf dejure.org; AZ existiert nicht verifizierbar.
 Aktion: Eintrag gelöscht.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

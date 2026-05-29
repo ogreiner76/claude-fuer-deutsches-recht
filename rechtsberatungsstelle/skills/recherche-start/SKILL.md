@@ -193,5 +193,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Befund: GELOESCHT. AZ falsch: existiert als VI ZR 294/17 (24.07.2018), nicht IX ZR 294/17. Echter Senat VI ZR; echtes Thema Arzthaftung/CTG-Geraet bei Geburtsvorgang — kein Bezug zu anwaltlicher Sorgfaltspflicht bei Rechtsrecherche. Quelle: dejure.org/2018,38167. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

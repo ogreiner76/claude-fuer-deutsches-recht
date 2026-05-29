@@ -90,5 +90,3 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 9 AZR 340/10: ersatzlos entfernt (NOT_FOUND: keine Entscheidung des BAG vom 28.02.2012 mit diesem Aktenzeichen auf dejure.org auffindbar; Quelle: dejure.org)
-- BAG 9 AZR 399/09: nicht im Skill-Text vorhanden; geprüft und bestaetigt nicht vorhanden (NOT_FOUND: Aktenzeichen nicht auf dejure.org auffindbar; 9 AZR 399/10 vom 13.12.2011 existiert, hat aber anderes Thema: Urlaubsabgeltung/Ausschlussfrist)

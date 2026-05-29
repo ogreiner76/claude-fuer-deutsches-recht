@@ -7,7 +7,6 @@ description: "Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproble
 
 Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt eine Dringlichkeitsstufe. Bei hoher Dringlichkeit ist ein sofortiger Anwaltsrückruf erforderlich — die anfragende Person darf nicht auf eine E-Mail-Antwort warten.
 
-
 ## Triage zu Beginn
 1. Enthält die Anfrage eine konkrete Datumsangabe oder Fristnennung (Gerichtstermin, Kuendigungsfrist, Rechtsmittelfrist)?
 2. Welches Rechtsgebiet ist betroffen — welche typischen Fristen gelten (KSchG 3 Wochen, § 517 ZPO 1 Monat Berufung)?
@@ -143,7 +142,6 @@ Bei Unsicherheit über die Dringlichkeit: Eher MITTEL als NIEDRIG. Bei Unsicherh
 
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
-Entfernt: BAG 5 AZR 400/22 — WRONG_TOPIC und AZ auf dejure.org nicht auffindbar.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Aktion: Eintrag geloescht.

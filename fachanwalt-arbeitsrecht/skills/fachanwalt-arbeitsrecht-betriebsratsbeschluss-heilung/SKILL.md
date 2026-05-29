@@ -49,7 +49,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Verstoß |
 |---|---|---|---|
 | 1 | Ladung ordnungsgemäß? Form + Frist + Tagesordnung | § 29 Abs. 2 BetrVG | Relativer Mangel; heilbar |
@@ -182,7 +181,6 @@ Begründung:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
 - **Betriebsrat** muss ordnungsgemäße Beschlussfassung im Beschlussverfahren darlegen und beweisen; Protokoll hat erhöhte Beweiskraft, ist aber widerlegbar.
@@ -233,4 +231,3 @@ Begründung:
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- 7 ABR 37/23: Verwendung im Skill geprueft und bestaetigt (BAG 25.09.2024, NZA 2025, 649; Quelle: dejure.org und bundesarbeitsgericht.de) — Das AZ betrifft Betriebsratsbeschlussfassung, Heilung durch nachtraglichen Beschluss und Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG. Die Verwendung im Skill ist korrekt. Kein Loeschungsbedarf. Die im Audit gemeldeten Alternativthemen (erzwingbares Mitbestimmungsrecht) finden sich nicht im Skilltext.

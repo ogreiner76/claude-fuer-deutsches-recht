@@ -189,5 +189,3 @@ Datum, Ort: __________ Unterschriften: __________
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — GV-Protokoll (Gesellschafterversammlung)
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlungs-Einladung
 - `gesellschaftsgruender-beirat-advisory-board` — Beiratssitzungs-Templates
-
-<!-- AUDIT 27.05.2026: BGH II ZR 234/20 wurde hier als GF-BJR-Beleg mit falschem Thema verwendet. Ersetzt durch BGH II ZR 202/07, NJW 2008, 3361 — verifizierte Entscheidung zur Informationsgrundlage unternehmerischen Ermessens. Bundle 029 / WRONG_TOPIC. -->

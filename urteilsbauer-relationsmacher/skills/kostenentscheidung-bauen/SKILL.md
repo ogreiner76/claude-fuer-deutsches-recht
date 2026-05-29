@@ -5,7 +5,6 @@ description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Ko
 
 # Kostenentscheidung
 
-
 ## Triage zu Beginn
 
 1. Wer hat in der Hauptsache gewonnen — vollständig oder teilweise?
@@ -83,6 +82,4 @@ Dies ergibt eine Obsiegensquote von [X] Prozent.
 Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichung vom Klagantrag.
 
 <!-- AUDIT 27.05.2026
-BGH V ZB 236/17 (WRONG_TOPIC): Urteil vom 23.05.2019 betrifft Abschiebungshaft/Sicherungshaft nach AufenthG — kein Bezug zu § 93 ZPO oder Kostenrecht. Zeile entfernt.
-BGH VIII ZB 53/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 17.03.2020. Zeile entfernt.
 -->

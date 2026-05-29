@@ -42,7 +42,6 @@ description: "Mandant hat Führerschein entzogen bekommen oder befuerchtet Entzi
 
 ## Prüfschema in Tabellenform
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
@@ -75,7 +74,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Strafverfahren parallel laufend | Abstimmung Strafverteidiger; Widerspruch ggf. nach Strafverfahren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -222,7 +220,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Beweislast und Darlegungslast
 
 | Frage | Beweislast |
@@ -285,5 +282,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ---
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: OVG NRW 16 B 1120/19 (WRONG_TOPIC — tatsächlich Konkurrentenstreit Schwerbehinderung Senat 6, nicht MPU-Anordnung Senat 16; AZ auf dejure.org nicht auffindbar). Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. Kein Ersatz gefunden. Alle übrigen AZ in diesem Skill wurden nicht beanstandet. Frontmatter unverändert.
 -->

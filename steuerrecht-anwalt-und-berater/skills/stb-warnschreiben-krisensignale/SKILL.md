@@ -45,7 +45,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Prüfschema Warnschreiben-Erstellung
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -106,7 +105,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mandant will kein Warnschreiben Dokumentation intern | Internes Vermerk statt ausgehendem Schreiben; Haftungsschutz trotzdem |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -268,7 +266,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
@@ -305,7 +302,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 64/12 (WRONG_TOPIC): Leitsatz korrigiert — Urteil steht für fehlende generelle Insolvenzprüfpflicht bei allgemeinem Mandat (WM 2013, 802), nicht für Hinweispflicht bei drohender Insolvenzreife. Tabellenzeile und Fundstelle angepasst; irreführende Formulierung in Kernsachverhalt, Gegenargumenten, Schriftsatzbaustein und Quellenverzeichnis korrigiert.
-BGH IX ZR 70/07 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht; alle Vorkommen entfernt (description, Kernsachverhalt, Leitentscheidungstabelle, Quellenverzeichnis, Gegenargumente, Schriftsatzbaustein).
 -->
 <!-- AUDIT 27.05.2026 | welle 5c | IX ZR 104/18 (familienrechtlich, NJW 2019, 2770 erfunden) ersetzt durch IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht bei moeglichem Insolvenzgrund) -->

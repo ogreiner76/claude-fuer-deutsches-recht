@@ -173,7 +173,6 @@ Rechtsanwalt/-anwaeltin
 Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH II ZR 319/15 war WRONG_TOPIC — Entscheidung betrifft § 64 GmbHG a.F. (Zahlungsverbot nach Insolvenzreife, Aktiventausch), nicht "Beweislast Beratungsfehler des anwaltlichen Beraters".
 Maßnahme: Beschreibung des AZ korrigiert auf tatsächliches Thema: § 64 GmbHG a.F. — Zahlungsverbot nach Insolvenzreife; Aktiventausch und Rückgewähranspruch des GF. Das AZ ist damit thematisch passend für diesen Insolvenzreife-Skill und bleibt erhalten.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.07.2017&Aktenzeichen=II+ZR+319%2F15
 -->

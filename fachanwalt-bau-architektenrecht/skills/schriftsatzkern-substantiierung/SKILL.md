@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Privates Baurecht, Architekten- und Ingenieurrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 631 ff. BGB, VOB/B, HOAI, MaBV, BauFordSiG und ihre Substantiierungs-Anforderungen:
@@ -259,6 +258,4 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- VII ZR 68/10: ersatzlos entfernt (BGH 07.03.2013 – VII ZR 68/10 betrifft Sittenwidrigkeit von Nachtragspreisen im Bauvertrag nach § 138 BGB / VOB/B § 2 Nr. 6, nicht Schlussrechnungslegung oder § 641 Abs. 1 BGB; Quelle: dejure.org/2013,7542)
 - VII ZR 181/00: ersatzlos entfernt (BGH 09.01.2003 – VII ZR 181/00 betrifft Baumangel Betondecke B25/B35 und Minderungsberechnung nach VOB/B § 13 Nr. 1, 6 a.F., BGHZ 153, 279; kein Bezug zu HOAI-Honorarklage; der im Skill genannte BGHZ-Band 153, 244 existiert fuer dieses AZ nicht; Quelle: dejure.org/2003,455)
-

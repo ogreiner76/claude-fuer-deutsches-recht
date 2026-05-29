@@ -63,7 +63,6 @@ Das Modell benötigt:
   anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
   Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
   unzureichend.
-<!-- AUDIT 27.05.2026: VIII ZR 253/01 (NOT_FOUND bei dejure.org) geloescht; VII ZB 48/10 (NOT_FOUND bei dejure.org) geloescht. -->
 
 ### Quellenregel
 
@@ -135,7 +134,6 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 Jede Aussage zu Zulässigkeit, Inhalt des Mahnantrags und Verjährungswirkung ist nach
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Keine allgemeinen Pauschalverweise.
-
 
 ---
 

@@ -114,7 +114,6 @@ Option C — Gerichtliche Zustellung:
 - → `wohnraummiete-kuendigung-paragraph-568-bgb`
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH VIII ZR 276/14 (Abschnitt "E-Mail-Zugang") war NOT_FOUND — Aktenzeichen nicht auffindbar als E-Mail-Zugangsentscheidung.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.10.2022&Aktenzeichen=VII+ZR+895%2F21
 -->

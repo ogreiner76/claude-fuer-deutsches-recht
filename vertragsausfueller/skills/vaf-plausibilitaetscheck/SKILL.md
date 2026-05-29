@@ -5,7 +5,6 @@ description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querve
 
 # Plausibilitätscheck
 
-
 ## Triage zu Beginn
 
 1. Sind alle Geldbeträge konsistent (Netto + Umsatzsteuer = Brutto; Gesamtmiete = Kaltmiete + Nebenkosten)?
@@ -63,6 +62,5 @@ Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freisteh
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 143/11 (behauptetes Thema: Kaution § 551 BGB, NJW 2012 3029) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

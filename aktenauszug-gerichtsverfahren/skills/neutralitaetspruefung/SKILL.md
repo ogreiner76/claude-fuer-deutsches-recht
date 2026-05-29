@@ -102,5 +102,3 @@ Anzahl Beanstandungen: [Zahl]
 Die Neutralitätsprüfung ist kein Korrektorat des Aktenauszugs. Sie prüft ausschließlich auf Wertungen und Prognosen. Sachliche Fehler sind durch Abgleich mit der Akte zu beheben.
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH IX ZR 143/19 (behauptet: 15.07.2021, NJW 2021, 3131, IX. Senat, Anwaltshaftung) war auf dejure.org nicht auffindbar (Status: WRONG_TOPIC — I ZR 143/19 gehört zum I. Senat/Urheberrecht). Ersetzt durch verifiziertes Zitat BGH IX ZR 165/19 (16.09.2021, NJW 2021, 3324), IX. Zivilsenat, Anwaltshaftung bei einseitiger Beratung.

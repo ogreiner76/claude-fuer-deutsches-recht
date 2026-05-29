@@ -7,7 +7,6 @@ description: "Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: 
 
 Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 
-
 ## Triage zu Beginn
 
 1. Im Urteilsstil oder Gutachtenstil? (Antwort: immer Urteilsstil — Ergebnis vor Begründung.)
@@ -102,5 +101,3 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 304/09 entfernt — NOT_FOUND (auf dejure.org kein Urteil BGH VIII ZR 304/09 vom 15.11.2011 auffindbar; NJW 2012, 382 verweist auf BGH II ZR 304/09, thematisch Gesellschaftsrecht/Brandschaden, nicht Zinsbeginn). Kein Ersatz eingefuegt. -->

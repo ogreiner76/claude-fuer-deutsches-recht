@@ -69,7 +69,6 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schriftform bei Laufzeit > 2 Jahre? | § 585a BGB | Gilt als unbestimmte Zeit |
@@ -182,7 +181,6 @@ Wertermittlungsrichtlinien beachten.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
 **Landpacht:**
@@ -258,4 +256,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH V ZR 8/10 (WRONG_TOPIC): Tatsächliches Thema = Richterablehnung/Besorgnis der Befangenheit (§ 42 ZPO); kein Bezug zu Hofübergabe-Äquivalenz oder § 138 BGB. Zitat aus Gegenargumente-Tabelle entfernt. -->

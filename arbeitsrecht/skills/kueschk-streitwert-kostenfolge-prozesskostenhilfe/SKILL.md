@@ -80,7 +80,6 @@ Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in v
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 1 ABR 30/02 (29.04.2004): Eintrag geloescht. Skill behauptete Thema: Kostenrecht zweiter Rechtszug ZPO; NZA 2004, 1144. Dejure.org bestaetigt: Tatsaechliches Thema ist Gleitzeit Betriebsvereinbarung Durchfuehrung / Tarifvorrang § 77 BetrVG; NZA 2004, 670. Thema und NZA-Fundstelle beide falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2004,299
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

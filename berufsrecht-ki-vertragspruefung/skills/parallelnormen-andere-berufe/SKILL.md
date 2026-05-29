@@ -132,7 +132,6 @@ Besonderheiten: [SONDERREGELN]
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH X ARZ 148/22 – NOT_FOUND. Keine Entscheidung BGH X ARZ 148/22 vom 08.03.2022 in dejure.org nachweisbar ("Nichts gefunden").
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22

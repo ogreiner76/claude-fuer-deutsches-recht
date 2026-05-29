@@ -265,7 +265,6 @@ OFFENE PUNKTE
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
-Befund: Laut dejure.org (dejure.org/2012,31734) betrifft VIII ZR 34/11 vom 22.02.2012
 Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
 § 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -188,7 +188,6 @@ Status: NOT_FOUND
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die behauptete Fundstelle verifizierte Rechtsprechungsdatenbank-Fundstelle 2022, 17892 konnte nicht verifiziert werden.
 Auf dejure.org sind für den 5. Zivilsenat Hamburg aus 2021/2022 andere AZ nachweisbar
-(z. B. 5 U 12/20, 5 U 60/22, 5 U 45/21), nicht aber 5 U 4/21 mit dem behaupteten Inhalt.
 Maßnahme: Zitat aus Abschnitt "Zentrale Rechtsprechung" gelöscht.
 Hinweis: Das Anti-Hammer-Klausel-Konzept als solches ist verbreitet und bleibt
 im Vergleichsentwurf-Template erhalten (ohne Einzelzitat).

@@ -139,9 +139,7 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BSG B 12 KR 20/14 R (WRONG_TOPIC: echtes Thema Scheinselbständigkeit Physiotherapeutin, nicht Phantomlohn bei Mindestlohn-Unterschreitung)
   → Leitsatz korrigiert zu echtem Inhalt (Scheinselbständigkeit Physiotherapeutin)
   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  → Quelle BSG B 12 KR 20/14 R: https://dejure.org/2016,5261
   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

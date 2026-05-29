@@ -116,6 +116,7 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
   B2B-Bereich)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Drittlandübertragungen; Standardvertragsklauseln)
+- **LG Aachen, Urteil vom 27.05.2026, 10 O 306/25** — Button-Lösung § 312j Abs. 3 BGB im Online-Glücksspiel: Die Schaltflächenbeschriftung "Wette abgeben" genügt nicht. Verstoß führt zu endgültiger Unwirksamkeit (§ 312j Abs. 4 BGB) und Rückabwicklung nach § 812 BGB — unabhängig von glücksspielrechtlichen Konzessionsfragen. Für die Vertragsprüfung digitaler B2C-Vertragsschlüsse bedeutet das: Button-Beschriftung isoliert prüfen, nur die Worte auf dem Button zählen (im Anschluss an EuGH C-249/21 Fuhrmann-2). (Quelle: Pressehinweis Gamesright/rightmart vom 28.05.2026; Volltext bei Aufnahme noch nicht veröffentlicht.)
 
 ### Quellenregel
 

@@ -46,7 +46,6 @@ description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche dur
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Schutzrecht vorhanden und eingetragen? | § 41 DesignG; Art. 35 GGV | DPMA-/EUIPO-Registerauszug als Anlage |
@@ -207,7 +206,6 @@ den Rechteinhabern autorisiert sind.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -281,7 +279,6 @@ Verfahrensgebühr 1.3 VV RVG ca. EUR 2.018; Terminsgebühr 1.2 VV RVG ca. EUR 1.
 
 - DesignG: https://www.gesetze-im-internet.de/geschmmg_2004/
 - GGV (EG 6/2002): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32002R0006
-- BGH I ZR 23/10 (Kinderwagen I): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2023/10
 - EuGH C-281/10 (PepsiCo): https://curia.europa.eu/juris/liste.jsf?num=C-281/10
 - EUIPO eFiling: https://euipo.europa.eu/eSearch/
 - DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
@@ -303,5 +300,3 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** BGH I ZR 23/10 (28.09.2011) ist "Kinderwagen I", nicht "Kinderwagen II". Kinderwagen II = BGH I ZR 102/11 (12.07.2012). Alle Verweise auf "Kinderwagen II" im Zusammenhang mit I ZR 23/10 wurden auf "Kinderwagen I" korrigiert. BGH X ZR 142/15 (16.05.2017) ist ein Reiserechturteil zu § 651j BGB (hoehere Gewalt/Urlaubsreise-Risikosphaere), nicht eine Designrecht-Entscheidung zum Verletzergewinn — Zeile aus der Leitentscheidungs-Tabelle entfernt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=2017-05-16&Aktenzeichen=X+ZR+142%2F15

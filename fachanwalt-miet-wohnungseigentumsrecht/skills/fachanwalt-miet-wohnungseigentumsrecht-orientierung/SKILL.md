@@ -65,7 +65,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Weiterfuehrende Leitsaetze BGH (Erweiterung)
 
-<!-- BGH VIII ZR 283/22 entfernt: Az. nicht auffindbar (dejure.org, 27.05.2026) -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe
@@ -76,6 +75,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 14/17: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
-BGH VIII ZR 283/22: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
 -->

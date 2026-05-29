@@ -133,5 +133,3 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 - §§ 154, 311 II, 241 II BGB; Art. 18 MAR
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2
-
-<!-- AUDIT 27.05.2026: BGH XI ZR 205/95 (24.09.1996) ersetzt. AZ auf dejure.org nicht auffindbar (NOT_FOUND). Korrekte Leitentscheidung zum Verhandlungsabbruch/c.i.c.: BGH, 29.03.1996 — V ZR 332/94, NJW 1996, 1884. Ersatz eingetragen in Rechtsprechung und Quellen. Bundle 017, Task 3. -->

@@ -94,5 +94,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Verjährungsrelevante Ereignisse besonders markiert?
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat gelöscht. BGH VIII ZR 221/17 (behauptet: 08.05.2019, NJW 2019, 2690, Mahnung und Verzugseintritt § 286 BGB) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Kein verifizierbares Ersatzzitat mit passendem Thema (BGH VIII. Zivilsenat, Mahnung, 2019) gefunden. Eintrag ersatzlos entfernt.

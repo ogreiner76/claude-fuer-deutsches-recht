@@ -109,5 +109,4 @@ Bearbeiter: [NAME]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- EuGH C-49/96 (behauptet: Otex/Hauptzollamt Hamburg, Tarifierung gemischter Waren KN-Allgemeine Vorschrift 3b) ersetzt: C-49/96 ist tatsächlich Beamtenrecht (Progoulis/Kommission, Rechtsmittel offensichtlich unzulässig, 12.12.1996). Quelle: curia.europa.eu. Ersetzt durch EuGH 253/87 (Sportex/Oberfinanzdirektion Hamburg, Urt. v. 21.06.1988), das tatsächlich den Leitsatz zur KN-Allgemeinen Vorschrift 3b / wesentliche Beschaffenheit begründet hat. Quelle: dejure.org (C-280/97 Schlussanträge, Slg. 1988, 3351).
 -->

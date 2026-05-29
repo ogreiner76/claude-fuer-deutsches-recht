@@ -50,7 +50,6 @@ description: "Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stelle
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Ehe wirksam geschlossen? | §§ 1303 ff. BGB; PStG | Voraussetzung; Nichtehe schließt Scheidung aus |
@@ -243,7 +242,6 @@ Rechtsanwalt/Rechtsanwältin [Name]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -333,7 +331,6 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 1
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC + falsches Datum
-Befund: Laut dejure.org und rewis.io ist XII ZB 122/17 vom 04.07.2018 (nicht 06.12.2017)
 und betrifft ehebedingte Nachteile nach § 1578b BGB (nachehelicher Unterhalt) – nicht
 Abtrennung des Versorgungsausgleichs nach § 142 FamFG.
 Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.

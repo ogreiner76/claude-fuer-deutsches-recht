@@ -110,7 +110,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 — Widerspruchsbegründung Off-Label-Use
@@ -315,5 +314,3 @@ Mit freundlichen Grüßen
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** BSG B 1 KR 19/22 R (10.11.2022) betrifft Cannabis-Verordnung nach § 31 Abs. 6 SGB V, nicht Long-COVID/ME/CFS. Das AZ wurde irrtumlich als Long-COVID-Urteil (24.04.2024) deklariert. Die Leitentscheidungs-Tabellenzeile und alle Inline-Zitate wurden entfernt bzw. durch generische Formulierungen ersetzt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=10.11.2022&Aktenzeichen=B+1+KR+19%2F22+R. BSG B 1 KR 26/10 R (07.11.2011) konnte auf dejure.org nicht verifiziert werden (NOT_FOUND). Die Tabellenzeile und der Inline-Verweis in der Genehmigungsfiktion-Formulierung wurden entfernt. Massgebliche Norm bleibt § 13 Abs. 3a SGB V; fuür ein verifiziertes BSG-Urteil zur Genehmigungsfiktion siehe BSG B 1 KR 36/18 R (27.08.2019) oder BSG B 1 KR 9/18 R (26.05.2020).

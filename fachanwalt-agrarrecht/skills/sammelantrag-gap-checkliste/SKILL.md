@@ -49,7 +49,6 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
 | 1 | Antragsfrist — Eingang bis 15. Mai? | Art. 40 VO 2021/2116 | 1 % Kürzung je Werktag |
@@ -168,7 +167,6 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -234,5 +232,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
-OVG Lüneburg 10 LA 189/20 (NOT_FOUND): Auf dejure.org keine Treffer. Zitat gelöscht aus Leitentscheidungen-Tabelle und Quellen-Abschnitt.
 -->

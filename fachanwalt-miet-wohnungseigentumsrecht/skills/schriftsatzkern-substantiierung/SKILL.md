@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Wohnraum-, Gewerberaum- und WEG-Recht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 535 ff. BGB, WEG, BetrKV, II. BV, MietenWoG (Land) und ihre Substantiierungs-Anforderungen:
@@ -228,7 +227,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template Räumungsklage (Auszug)
 
 **Adressat:** Amtsgericht — Tonfall sachlich-juristisch
@@ -272,6 +270,4 @@ Beweis: Kontoauszüge Anlage K4; Zeuge [NAME] zum Beweisthema Nicht-Zahlung.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- AUDIT 27.05.2026
-BGH V ZR 96/20 (03.12.2021): Az. nicht auffindbar auf dejure.org; ersetzt durch BGH V ZR 202/21 (08.07.2022) mit gleicher WEG-n.F.-Aussage (NJW 2022, 3003 Rn. 15).
-BGH VIII ZR 261/07: WRONG_TOPIC; tatsaechliches Thema ist Betriebskostenabrechnung formelle Ordnungsmaessigkeit (NJW 2008, 2260), nicht WEG-Beschlussanfechtungsbezeichnung; Eintrag geloescht.
 -->

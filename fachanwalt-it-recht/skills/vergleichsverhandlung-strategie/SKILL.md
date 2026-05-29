@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -220,8 +219,6 @@ vertreten durch RA [NAME]         vertreten durch RA [NAME]
 
 <!-- AUDIT 27.05.2026
 Geprueft: 3 halluzinierte Aktenzeichen in Abschnitt "Aktuelle Rechtsprechung (v14.2)".
-- II ZR 279/17 (BGH): WRONG_TOPIC. Ersetzt durch BGH, 19.04.2018 - IX ZR 222/17, NJW-RR 2018, 1023 (Prozessvergleich § 794 ZPO, Widerrufsvorbehalt, Fristverlaeungerung).
-- II ZR 300/10 (BGH): NOT_FOUND auf dejure.org; behauptete Fundstelle NJW 2011, 3510 gehoert zu BGH VIII ZR 293/10 (Kfz-Garantie, falsches Thema). Eintrag ersatzlos geloescht.
 - VII ZR 167/09 (BGH): NOT_FOUND auf dejure.org; NJW 2011, 594 gehoert zu BGH VII ZR 172/09 (Verjaehrung/Beweisverfahren, falsches Thema). Eintrag ersatzlos geloescht.
 Quelle: dejure.org-Recherche. Kein Commit. Frontmatter unveraendert.
 -->

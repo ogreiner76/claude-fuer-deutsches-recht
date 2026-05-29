@@ -102,7 +102,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 — Vollständiges Widerspruchsschreiben mit Begründungsankündigung
@@ -349,5 +348,3 @@ Bei Bescheiden über Aufhebung, Rückforderung oder Sanktion: Widerspruch hat ke
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit 27.05.2026** — BSG B 13 R 167/09 B (behauptetes Thema: Fristberechnung § 84 SGG; Bekanntgabefiktion) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); auch alternative AZ B 13 R 67/09 R nicht auffindbar. Eintrag gelöscht.

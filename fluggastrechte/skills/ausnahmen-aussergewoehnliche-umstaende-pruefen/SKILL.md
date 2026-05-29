@@ -96,5 +96,3 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-- C-501/17 (Germanwings): Tabellenzeile korrigiert. Behauptetes Thema "Sabotage an der Maschine durch Dritte" war falsch; tatsaechliches Thema ist Reifenschaden durch Fremdkoerper (Schraube) auf der Landebahn als aussergewoehnlicher Umstand (verifiziert via dejure.org, EuGH Urt. v. 04.04.2019).
-- C-509/11 (OeBB-Personenverkehr): Im Skill-Text nicht auffindbar; kein Edit erforderlich. Hinweis: C-509/11 betrifft Eisenbahnpassagierrechte (VO 1371/2007), nicht Fluggastrechte VO 261/2004, und waere thematisch unzulaessig.

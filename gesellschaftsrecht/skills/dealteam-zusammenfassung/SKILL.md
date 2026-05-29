@@ -22,7 +22,6 @@ Vor der Erstellung des Briefings klären:
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 213/08 entfernt (27.05.2026): Urteil betrifft Prospekthaftung Medienfonds ApolloProMedia (NJW-RR 2010, 911), nicht Aufklaerungspflicht beim Unternehmenskauf. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
@@ -137,7 +136,6 @@ Normen-Basis je nach DD-Findings. Zitierweise nach `../../references/zitierweise
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-<!-- AZ II ZR 213/08 entfernt (27.05.2026): Falsche Zuordnung, siehe Audit-Hinweis unten. -->
 
 ## Risiken / typische Fehler
 

@@ -148,7 +148,6 @@ Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-
 ## Output-Template: AWA-Verlängerungs-Checkliste
 
 ```
@@ -171,7 +170,5 @@ Zoll-Kooperationspartner:
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 2/5
-EuGH C-128/11 (UsedSoft/Oracle) (WRONG_TOPIC): Das Urteil betrifft das urheberrechtliche Erschoepfungsprinzip fuer Software-Downloads, nicht das Markenrecht oder Zoll-Enforcement.
 Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT fuer digitale Fälschungen — das Gegenteil des Urteilsinhalts.
-Massnahme: Gesamten C-128/11-Absatz aus Aktuelle-Rechtsprechung-Block entfernt.
 -->

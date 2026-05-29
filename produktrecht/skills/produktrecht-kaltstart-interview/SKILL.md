@@ -264,7 +264,6 @@ Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framewor
 
 ## Zentrale Normen & Aktuelle Rechtsprechung
 
-<!-- AZ VIII ZR 72/20 entfernt: Urteil existiert nicht (NOT_FOUND, verifiziert via dejure.org); beanspruchtes Thema Kaltstart-Onboarding ist ohne Rspr.-Beleg; Eintrag geloescht. Audit 27.05.2026 -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
@@ -384,7 +383,5 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 - **"Wir haben das nie blockiert" nicht mit "das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
 - **PRDs statt Review-Dokumente lesen ist ein Fehler.** Das PRD sagt was das Feature tut. Das Review-Dokument sagt was der Anwalt besorgt hat. Sie wollen das zweite.
 
-
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH VIII ZR 72/20, NJW 2021, 1667 — Urteil nicht existent (NOT_FOUND, verifiziert via dejure.org). AZ VIII ZR 72/20 existiert nicht beim BGH; beanspruchtes Thema 'Kaltstart-Onboarding im digitalen Produkt-Bereich' ist ohne reale Rspr.-Grundlage. Eintrag durch HTML-Kommentar ersetzt (geloescht). Status: GELOESCHT.
 -->

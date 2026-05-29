@@ -25,7 +25,6 @@ description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 171/06 entfernt (27.05.2026): Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht, NJW-RR 2008, 843 — nicht Vorbelastungshaftung UG; kein gesicherter Ersatz gefunden. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
@@ -114,7 +113,6 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 
 - §§ 5a, 7, 53 GmbHG (UG-Sondervorschriften)
 - § 7a SGB IV (Statusfeststellungsverfahren)
-<!-- AZ II ZR 171/06 entfernt (27.05.2026): Falsche Fundstelle und falsches Thema — kein Ersatz. -->
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 5a Rn. 1-40
 

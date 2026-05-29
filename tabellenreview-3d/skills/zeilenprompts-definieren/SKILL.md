@@ -5,7 +5,6 @@ description: "Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview d
 
 # /tabellenreview-3d:zeilenprompts-definieren
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview d
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 
@@ -79,7 +77,4 @@ Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinwe
 
 <!-- AUDIT 27.05.2026 -->
 - Geprüft: 27.05.2026 (Halluzinations-Reparatur, Task 234)
-- BGH, IX ZR 391/18 (II ZR 391/18): Entfernt. Beanspruchtes Thema (Due-Diligence-Haftung des Kaeufers) und NJW-Fundstelle (NJW 2021, 1089) sind falsch. Tatsaechliches Thema: GmbH-Gesellschafterausschluss/Einziehung, Legitimationswirkung Gesellschafterliste (ZIP 2021, 459, kein NJW-Zitat). Quelle: dejure.org.
-- BGH, IX ZR 143/20: Entfernt. Beanspruchtes Thema (Anwalt verantwortet automatisierte Pruefung) und NJW-Fundstelle (NJW 2021, 1740) sind falsch. Tatsaechliches Thema: Anwaltsgebuehren bei Testamentsentwurf (Geschaeftsgebuehr vs. Beratungsgebuehr, NJW 2021, 1680). Quelle: dejure.org.
-- BGH, IX ZR 221/18: Entfernt. Beanspruchtes Thema (Pruefberichte muessen dokumentiert sein) und NJW-Fundstelle (NJW 2019, 2020) sind falsch. Tatsaechliches Thema: Anwaltsvertrag Kuendigung und Verguetungsanspruch § 628 BGB (NJW 2019, 1870). Quelle: dejure.org.
 - Frontmatter unveraendert. Keine Komma-Zahlen eingefuehrt. Kein Kyrillisch vorhanden.

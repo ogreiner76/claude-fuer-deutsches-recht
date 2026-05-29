@@ -181,11 +181,5 @@ Naechster Schritt:   [MASSNAHME] bis [DATUM] durch [PERSON]
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- XI ZR 143/19: ersatzlos entfernt (BGH-Datenbank dejure.org: Keine Entscheidung des BGH vom 14.01.2020 mit diesem Aktenzeichen gefunden)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- XI ZR 384/03: nicht im Skill enthalten; geprueft — Aktenzeichen existiert und betrifft Kirch/Breuer-Schadensersatz wegen kreditschaedigender Aeusserungen, nicht E-Mail als Textform
-- XI ZR 473/17: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- XI ZR 79/20: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
-- XI ZR 81/14: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
-- XII ZB 115/19: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)

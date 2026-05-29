@@ -181,7 +181,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VI ZR 516/15 (behauptete Fundstelle NJW 2017 1104 Rn. 14; behauptetes Thema: Grenzen Haftungsbeschränkung § 309 Nr. 7 BGB) — WRONG_TOPIC: NJW 2017 1104 gehört zu BGH XII ZR 153/15 (02.11.2016), Mietrecht/Brandschutzmangel/Kündigung; kein Zusammenhang mit Haftungsausschluss AGB. Eintrag gelöscht. Auch Beispiel in Quellenpflicht-Abschnitt entfernt.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=02.11.2016&Aktenzeichen=XII+ZR+153%2F15
 Bundle: bundle_047.json
 -->

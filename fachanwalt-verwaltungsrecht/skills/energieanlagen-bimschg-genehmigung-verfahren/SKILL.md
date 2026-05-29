@@ -47,7 +47,6 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 
 ## Prüfschema BImSchG-Genehmigungsverfahren
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -114,7 +113,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Behoerde zoegert Untaetigkeit moegliche Alternative | Untaetigkeitsklage § 75 VwGO vorbereiten bei Verzoegerung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -265,7 +263,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
@@ -314,5 +311,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ---
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: OVG NRW 8 A 926/14 (WRONG_TOPIC — tatsächliches AZ laut Bundle wäre 8 A 926/16 (Jahresdiskrepanz); beide Varianten auf dejure.org nicht auffindbar): Eintrag aus Leitentscheidungen-Tabelle gelöscht. Kein Ersatz gefunden. Schattenwurf-Rechtsprechung wird weiterhin durch OVG-Rechtsprechung in den Urteilen 7 D 211/23.AK und 7 D 214/23.AK (2025) abgedeckt, die in dieser Skill-Datei nicht einzeln benannt sind. Frontmatter unverändert.
 -->

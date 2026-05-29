@@ -164,7 +164,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 (Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
 
 <!-- AUDIT 27.05.2026
-AZ BGH IX ZR 165/09 (beide Vorkommen) entfernt: Entscheidung existiert auf dejure.org unter
 Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
 Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
 Halluzinierte Referenz geloescht. Keine Ersatzquelle fuer § 771 ZPO-Leitentscheidung ergaenzt.

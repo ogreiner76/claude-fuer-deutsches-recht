@@ -5,7 +5,6 @@ description: "Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren K
 
 # Kanzlei-Buchhaltung, Konten und Zahlungsabgleich
 
-
 ## Triage zu Beginn
 1. Geht es um Ausgangsrechnungen, Eingangsrechnungen, Fremdgeld/Anderkonto oder Bankmatching?
 2. Ist eine echte Buchhaltungssoftware (DATEV, Lexware, sevDesk) angebunden oder wird im Simulationsmodus gearbeitet?
@@ -110,5 +109,3 @@ Im Simulationsmodus:
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH IX ZR 52/20 (27.01.2022) entfernt.** Das Aktenzeichen existiert nicht als BGH IX ZR 52/20 mit dem behaupteten Thema "GoBD-konforme Buchfuehrung". Laut dejure.org existiert BGH VIII ZR 52/20 (07.07.2021, anderer Senat), Thema: Mietrecht / Betriebskosten-Abrechnung / GbR-Prozessfuehrung — kein Bezug zur Kanzleibuchhaltung. Das Aktenzeichen IX ZR 52/20 mit Datum 27.01.2022 und NJW 2022, 1234 ist eine Halluzination (WRONG_TOPIC). Eintrag geloescht.

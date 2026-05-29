@@ -47,7 +47,6 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
@@ -296,7 +295,6 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Streitwert und Kosten
 
 **Streitwert-Berechnung:**
@@ -369,5 +367,4 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- VII ZR 244/12: ersatzlos entfernt (kein BGH-Urteil VII ZR 244/12 vom 25.09.2014 in dejure.org nachweisbar; AZ als NOT_FOUND verifiziert)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

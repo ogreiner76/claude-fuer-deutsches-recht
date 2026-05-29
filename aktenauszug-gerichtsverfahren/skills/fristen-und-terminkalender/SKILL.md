@@ -98,5 +98,3 @@ Alternativ als Markdown-Tabelle:
 - [ ] Wochenende/Feiertag bei Fristende berücksichtigt (§ 222 ZPO)?
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH VI ZB 4/18 (behauptet: 11.09.2018, NJW 2019, 303) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Ersetzt durch verifiziertes Zitat BGH VI ZB 5/17 (08.05.2018, NJW 2018, 2897) mit thematisch passendem Inhalt zu Wiedereinsetzung und anwaltlichen Sorgfaltspflichten nach § 233 ZPO.

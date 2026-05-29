@@ -92,8 +92,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BGH VIII ZR 265/18 (WRONG_TOPIC: echtes Thema Informationspflicht alternative Streitbeilegung § 36 VSBG, nicht lex temporis actus Vertragsrecht)
   → Falsche Rechtsprechungszeile entfernt
   → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / lizenzpflichtige Literaturquelle BGB Einl. gedeckt
-  → Quelle BGH VIII ZR 265/18: https://dejure.org/2019,29238
 -->

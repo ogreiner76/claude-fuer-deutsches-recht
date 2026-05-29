@@ -243,5 +243,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - BVerwG-Linien zu Wind / BImSchG
 - EU-RED III (Richtlinie 2023/2413/EU)
 - EU-Strommarkt-Verordnung 2024/1747
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 119/18 (NOT_FOUND: kein Urteil dieses Aktenzeichens auf dejure.org auffindbar) ersetzt durch BGH VIII ZR 147/16 (05.07.2017, RdE 2017, 465) — Meldepflichtverstoess und Vergutungssperrung nach EEG. Quelle: dejure.org/2017,22407 -->

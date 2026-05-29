@@ -95,7 +95,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 — Vollständige Widerspruchsbegründung
@@ -323,5 +322,3 @@ Mit freundlichen Grüßen
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit 27.05.2026** — BSG B 13 R 278/05 R (behauptetes Thema: Beginn der Erwerbsminderungsrente § 99 SGB VI) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); keine verlässliche Quelle ermittelbar. Eintrag gelöscht.

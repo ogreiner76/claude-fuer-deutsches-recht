@@ -217,4 +217,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- OVG Schleswig 4 MB 13/23 (WRONG_TOPIC): Tatsächliches Thema = Ausländerrecht/Aufenthaltstitel (§ 38a AufenthG, Daueraufenthalts-RL); kein Bezug zu Wolfsschutz oder Elektrozaun-Standard. Tabellenzeile und Quellen-Eintrag entfernt. -->

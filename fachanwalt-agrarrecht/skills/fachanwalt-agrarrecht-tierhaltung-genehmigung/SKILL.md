@@ -73,7 +73,6 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
 | 1 | Schwellenwert: BImSchG oder LBO? | 4. BImSchV Anhang 1 | Falsches Verfahren = Versagung |
@@ -201,7 +200,6 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
 - **Antragsteller** muss alle Voraussetzungen durch Gutachten belegen; Behörde entscheidet auf Basis der vorgelegten Unterlagen.
@@ -270,4 +268,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- OVG Magdeburg 2 M 14/23 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein OVG Sachsen-Anhalt-Beschluss zu FFH-Verträglichkeit 3 km-Radius Ammoniak-Emissionen Geflügelbetrieb unter diesem AZ gefunden. Tabellenzeile und Quellen-Eintrag entfernt. -->

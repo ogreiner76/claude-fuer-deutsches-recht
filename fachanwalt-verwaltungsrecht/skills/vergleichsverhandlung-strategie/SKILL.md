@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -163,6 +162,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 <!-- AUDIT 27.05.2026
-Problem: BGH V ZR 3/21 (Datum 22.10.2021, NJW 2022, 232 – "Vollstreckbarkeit Anwaltsvergleich § 796a ZPO") – WRONG_TOPIC / NOT_FOUND auf dejure.org. V ZR 3/21 zum genannten Datum nicht auffindbar; III ZR 3/21 (27.01.2022) existiert, betrifft aber Datenschutz (anderen Senat, anderes Thema).
 Aktion: Eintrag gelöscht.
 -->

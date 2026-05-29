@@ -52,7 +52,7 @@ Falls formelle Prüfwarteschlange AKTIVIERT: Flag-Trigger lesen und fortfahren.
 
 ### Die Warteschlange
 
-Liegt in `references/pruef-warteschlange.yaml`. Jeder Eintrag:
+Liegt in `references/review-queue.yaml`. Jeder Eintrag:
 
 ```yaml
 - id: P-001

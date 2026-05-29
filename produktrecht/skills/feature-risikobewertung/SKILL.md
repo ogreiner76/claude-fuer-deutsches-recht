@@ -183,6 +183,7 @@ Prüfen:
 - AGB-Klauseln: Einbeziehungsanforderungen (§§ 305, 305c BGB), überraschende Klauseln, Inhaltskontrolle (§§ 307–309 BGB)
 - Fernabsatz: Widerrufsrecht (§§ 312g, 355 BGB), Widerrufsbelehrung (Muster-Widerrufsformular)
 - Verbraucherverträge: wesentliche Informationen (Art. 246a EGBGB), Buttonlösung (§ 312j BGB)
+  - **Button-Beschriftung isoliert prüfen** — maßgeblich sind nur die Worte auf dem Button, nicht Kontext oder Begleitumstände (EuGH C-249/21 "Fuhrmann-2"). Verstoß = endgültige Unwirksamkeit (§ 312j Abs. 4 BGB) plus Rückabwicklung nach § 812 BGB; gilt branchenübergreifend, auch für regulierte Bereiche wie Online-Glücksspiel (LG Aachen, Urteil vom 27.05.2026, 10 O 306/25 – "Wette abgeben" unzureichend; Quelle: Pressehinweis Gamesright/rightmart, 28.05.2026, Volltext bei Aufnahme noch nicht veröffentlicht).
 - Gewährleistung: § 434 BGB (Produktmangel, Übereinstimmung mit öffentlichen Äußerungen inkl. Werbeaussagen)
 
 ## Übergaben

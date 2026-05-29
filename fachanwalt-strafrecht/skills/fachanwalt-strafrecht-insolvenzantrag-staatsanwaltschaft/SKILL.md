@@ -91,7 +91,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 – Anhörung Insolvenzgericht (Widerspruch gegen Antrag)
@@ -278,7 +277,4 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-
 ---
-
-> **Audit 27.05.2026** — BGH IX ZR 176/13 (behauptetes Thema: Insolvenzanfechtung § 131 InsO, Zahlung an nahe Angehörige; behauptetes Datum: 16.01.2014) aus Leitentscheidungen-Tabelle entfernt. Das Urteil existiert mit korrektem Datum 10.04.2014, betrifft jedoch Schadensberechnung beim Schneeballsystem / Forderungsanmeldung zur Tabelle (§§ 179, 180 InsO, Insolvenz Phoenix). Weder Datum noch Thema stimmen mit der Behauptung überein (WRONG_TOPIC). Eintrag gelöscht.

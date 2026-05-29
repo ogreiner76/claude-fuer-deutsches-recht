@@ -82,5 +82,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 191/15 entfernt — Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND); kein Beleg für Existenz als Leitentscheidung zur Insolvenzanfechtung. Streichung aus "Quellen und Updates". BGH IX ZR 133/14 bleibt als verifizierte Leitentscheidung. -->

@@ -7,7 +7,6 @@ description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stat
 
 Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
 
-
 ## Triage zu Beginn
 1. Liegt ein Ausloeser fuer den Transkriptionsservice vor (Anfrage kurz/fragmentarisch, Nutzer kann nicht schreiben, expliziter Wunsch)?
 2. Ist ein Auftragsverarbeitungsvertrag nach Art. 28 DSGVO mit dem Transkriptions-Dienstleister vorhanden?
@@ -103,6 +102,5 @@ Aus `kanzlei.json`:
 - `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
 
 <!-- AUDIT 27.05.2026
-BGH VI ZR 207/21: Aktenzeichen existiert nicht auf dejure.org; dejure.org/2022,22528 = BGH V ZR 207/21 (WEG Beschlusskompetenz, NJW-RR 2022, 1598) — kein DSGVO-Sprachaufnahme-Bezug. Geloescht.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

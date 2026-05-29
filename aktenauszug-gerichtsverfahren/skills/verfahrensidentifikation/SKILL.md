@@ -104,5 +104,3 @@ Für jede Partei:
 - Keine Bewertung der Parteibezeichnung (z. B. ob Kläger wirklich klagebefugt ist).
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat gelöscht. BGH VIII ZB 66/17 (behauptet: 20.02.2018, NJW 2018, 1698, Streitwertfestsetzung §§ 3 ff. ZPO) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Kein verifiziertes BGH VIII ZB 66/17 an irgendeinem Datum gefunden. Eintrag ersatzlos entfernt.

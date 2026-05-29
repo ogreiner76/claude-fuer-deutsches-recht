@@ -93,5 +93,3 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - `zv-pfaendungstabelle-2025` – Freibeträge bei Lohnzufluss
 - `zv-elektronische-zustellung-2027` – operative Umsetzung ZVollstrDigitG
 - `zv-abwehr-schuldner` – Schuldnersicht
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 116/23 aus "Leitentscheidungen" entfernt — NOT_FOUND. Auf dejure.org ist IX ZR 116/23 nicht nachweisbar. Das tatsächlich existierende AZ IX ZR 116/21 (25.05.2023) betrifft Factoring und Wissenszurechnung (NJW-RR 2023, 1413) — kein Bezug zu Drittschuldnererklärung Form und Frist. Streichung wegen fehlendem Nachweis und falschem Thema. -->

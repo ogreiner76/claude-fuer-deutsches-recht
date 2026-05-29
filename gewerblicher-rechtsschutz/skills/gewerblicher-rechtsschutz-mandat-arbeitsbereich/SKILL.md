@@ -212,11 +212,9 @@ Bevor das Mandat angelegt wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
-Problem: BGH IX ZR 109/19 (Datum 01.07.2021) auf dejure.org nicht gefunden (NOT_FOUND).
 Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
 -->

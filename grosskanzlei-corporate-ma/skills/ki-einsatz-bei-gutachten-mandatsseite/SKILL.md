@@ -45,7 +45,6 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 ## Prüfschema
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -107,7 +106,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — KI-Output enthalt Halluzinationen | Halluzinations-Handhabung-Skill einschalten; Pruefprotokoll erstellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -218,7 +216,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Posten | Betrag / Ansatz | Hinweis |
@@ -251,7 +248,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Ergaenzende Rechtsprechung (v14.2)
 
 <!-- AUDIT 27.05.2026: 3 halluzinierte Entscheidungen entfernt.
-- OLG Köln 5 W 25/21 (03.05.2021): Nicht auf dejure.org auffindbar; Thema "Befangenheit / falsche Angaben zur Erstellungsweise" nicht verifizierbar. Ersatzlos geloescht.
-- BGH VI ZB 45/21 (15.02.2022): AZ existiert, aber Datum falsch (korrekt: 09.11.2021) und Thema falsch (tatsaechlich: Wert des Beschwerdegegenstandes bei Widerklage, § 511 ZPO); kein Bezug zu Sachverstaendigenhaftung § 839a BGB. Ersatzlos geloescht.
 - BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
 Pruefmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->

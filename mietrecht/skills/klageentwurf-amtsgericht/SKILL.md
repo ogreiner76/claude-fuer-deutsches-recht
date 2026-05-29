@@ -92,6 +92,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Audit-Hinweis
 
 Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
-- VIII ZR 106/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine Leasing-/Widerrufssache (kein Mietrecht); der behauptete Raeumungsklage-Leitsatz ist falsch.
-- VIII ZR 233/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine ZPO-Verfahrenssache (Fristberechnung Nichtzulassungsbeschwerde); der behauptete Betriebskosten-Leitsatz ist falsch. Tatsaechliche Fundstelle: NJW-RR 2022, 709, nicht NJW 2022, 918.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

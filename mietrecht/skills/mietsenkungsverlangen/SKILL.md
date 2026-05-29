@@ -66,7 +66,6 @@ Strukturiere die Ruege in Abschnitte:
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026: VIII ZR 161/22 (NOT_FOUND bei dejure.org) geloescht; VIII ZR 168/20 (NOT_FOUND bei dejure.org) geloescht. -->
 
 ## Paragrafenkette
 

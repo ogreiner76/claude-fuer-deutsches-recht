@@ -251,6 +251,5 @@ Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,
 ```
 
 <!-- AUDIT 27.05.2026
-BGH IV ZR 217/19 (18.11.2020): WRONG_TOPIC; Beschreibung war 'Verschwiegenheit'; tatsaechliches Thema ist D&O-Deckungsschutz bei Haftung nach § 64 GmbHG / Zahlungen nach Insolvenzreife (NJW 2021, 231); Beschreibung korrigiert. NJW-Fundstelle korrigiert von 2021, 378 auf 2021, 231.
 BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert bei wirtschaftlichem Totalschaden Kfz (NJW 2010, 605); kein Bezug zu D&O/Versicherungsrecht; Eintrag geloescht.
 -->

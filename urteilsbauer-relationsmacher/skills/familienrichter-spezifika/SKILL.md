@@ -7,7 +7,6 @@ description: "FamFG-Spezifika für Familienrichter anwenden: Richter am Familien
 
 Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 
-
 ## Triage zu Beginn
 
 1. Handelt es sich um eine Familiensache (§ 111 FamFG) — welche Kategorie (Ehe, Unterhalt, Sorge, Umgang)?
@@ -87,5 +86,3 @@ Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), bei
 - "Im Namen des Volkes" entfaellt
 - Stattdessen: "Beschluss"
 - Tenor wie beim Urteil, aber mit den familiengerichtlichen Spezifika (z. B. Sorgerechtsregelung, Umgangsregelung)
-
-<!-- AUDIT 27.05.2026: BGH XII ZB 192/16 (08.03.2017) entfernt — WRONG_TOPIC (echter Inhalt: Ausbildungsunterhalt Abitur-Lehre-Studium, NJW 2017, 1478; kein Bezug zu Anhoerungspflicht/Sorgerecht). Ersetzt durch BGH XII ZB 419/15 (15.06.2016, NJW 2016, 2497, BGHZ 211, 22): persoenliche Anhoerung des Kindes im Sorgerechtsverfahren, § 159 FamFG, auf dejure.org bestaetigt. -->
