@@ -12,10 +12,12 @@ Juristisches Drafting ist Handwerk. Es lebt von wiederkehrenden Mustern, saubere
 - **Klauseln** dogmatisch sauber, klar und sprachlich ökonomisch formulieren,
 - **Schriftsätze** und **Anwaltsschreiben** strukturieren, statt sie auszuschütten,
 - **AGB-Risiken** vor der Klausel-Übernahme prüfen,
-- **Word-Werkzeuge** (Formatvorlagen, Querverweise, Verzeichnisse, Änderungsverfolgung) sinnvoll einsetzen,
+- **Word-Finish** pragmatisch prüfen, ohne Makro-, VBA- oder Automatisierungsballast,
 - **Redlines und Revisions-Workflows** in der Cloud sauber führen,
 - **Kanzleistil** bewusst kalibrieren: Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht, Behörde,
 - **englische und amerikanische Legal-Texte** schreiben, wenn deutsche Anwältinnen und Anwälte international arbeiten müssen, ohne deutsches Recht in Common-Law-Sprache zu verformen.
+
+Das Plugin enthält bewusst **keinen** Makro-, VBA- oder Word-Automatisierungs-Skill. Es soll beim Schreiben, Prüfen und Finalisieren helfen, nicht zur Office-Programmierung abbiegen.
 
 Das Plugin verzichtet bewusst auf eine fertige Testakte. Es ist ein Werkzeug zum **Üben, Strukturieren und Generieren** – nicht zum Abarbeiten eines vorgegebenen Mandats.
 
@@ -37,7 +39,7 @@ Das Plugin gliedert sich in acht Skill-Blöcke:
 - `kaltstart-drafting-kommandocenter` – Schöner Kaltstart vom diffusen Schreibauftrag zur Skill-Kette und zum ersten Output.
 - `orientierung-drafting-triage` – Welcher Skill für welches Dokument? Triage am Anfang jedes Mandats.
 - `drafting-prinzipien-klarheit-bestimmtheit-praezision` – Die drei Leitwerte und ihre Umsetzung.
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz` – Architektur statt Bauchgefühl.
+- `dokumentarchitektur-vertrag-und-schriftsatz` – Architektur statt Bauchgefühl.
 - `stil-und-ton-juristische-texte` – Schreibhygiene, Adressatengerechtigkeit, Register.
 - `deutscher-kanzleistil-kalibrieren` – Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht, Behörde oder US/UK-Korrespondenz.
 
@@ -71,11 +73,11 @@ Das Plugin gliedert sich in acht Skill-Blöcke:
 - `anwaltsschreiben-aussergerichtlich` – Erste Brief, Mahnung, Vergleichsangebot.
 - `gutachten-memo-internes-drafting` – Sachverhalt – Frage – Kurzantwort – Bewertung – Ergebnis.
 
-### Block F – Word und Cowork
+### Block F – Cowork, Revision und Versand
 
-- `word-formatvorlagen-querverweise-track-changes` – Formatvorlagen, Verzeichnisse, Querverweise.
 - `cowork-cloud-kollaboration-drafting` – Mandantengeheimnis-konformes Arbeiten in der Cloud.
 - `revisions-prozess-redlines-comparison` – Compare-Doc, Markup, Versionierung.
+- `word-dokument-finish-und-layout` – Versandfähige Endkontrolle in Word/PDF/beA ohne Makro- oder VBA-Workflow.
 
 ### Block G – Verhandlung und Klauselbibliothek (neu in v50.6.0)
 
@@ -86,7 +88,6 @@ Das Plugin gliedert sich in acht Skill-Blöcke:
 
 ### Block H – Kanzlei-Schreibworkflow und internationale Texte (neu in v50.8.0)
 
-- `word-dokument-finish-und-layout` – Word-Finalisierung vor Versand: Formatvorlagen, Nummerierung, Querverweise, Track Changes, Metadaten, PDF/beA.
 - `partner-kommentar-umsetzen` – Partnerkommentare und Randnotizen in konkrete Drafting-Schritte und neue Passagen übersetzen.
 - `mandantenmemo-und-partner-update` – Mandantenmemo, Partner-Update und Management Note mit Executive Summary, Empfehlung und Risikoampel.
 - `argumentationsarchitektur-schreiben` – These, Norm, Tatsache, Beleg, Gegenargument und Rechtsfolge tragfähig ordnen.
@@ -123,7 +124,7 @@ Dieses Plugin folgt der einheitlichen Versionierung des Repositories `claude-fue
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 39 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 38 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -139,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 39 Skills in diesem Plugin. Beschrei
 | `defensive-drafting-fallen-erkennen` | Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Na... |
 | `definitionen-klauseln-stringent` | Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) un... |
 | `deutscher-kanzleistil-kalibrieren` | Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegr... |
-| `dokumentstruktur-makroebene-vertrag-und-schriftsatz` | Makrostruktur juristischer Dokumente sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum... |
+| `dokumentarchitektur-vertrag-und-schriftsatz` | Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubr... |
 | `drafting-prinzipien-klarheit-bestimmtheit-praezision` | Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessig... |
 | `englischer-vertrag-deutsches-recht` | Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity,... |
 | `finaler-writing-quality-gate` | Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandf... |
@@ -163,8 +164,7 @@ Automatisch generierte Komplett-Liste aller 39 Skills in diesem Plugin. Beschrei
 | `transparenzgebot-307-bgb` | Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien... |
 | `us-uk-legal-writing-fuer-deutsche` | Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause No... |
 | `vertragsstrafe-339-bgb` | Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung sta... |
-| `verweis-und-querverweis-technik` | Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf Klauseln und Anlagen externe Verweise auf Gesetze und Urteile. Anlagenverwaltung jede Anlage einmal benannt einmal definiert einmal eingefuehrt. Word-Querve... |
+| `verweis-und-querverweis-technik` | Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze und Urteile. Anlagenverwaltung: jede Anlage einmal benannt, einmal definiert, einmal eingeführt. Vorstehe... |
 | `word-dokument-finish-und-layout` | Finalisiert juristische Word-Dokumente vor Versand. Prüft Formatvorlagen, Nummerierung, Inhaltsverzeichnis, Querverweise, Anlagen, Track Changes, Kommentare, Metadaten, PDF/beA-Tauglichkeit, Unterschriftenblock, Tabellen, Seitenumbrüche... |
-| `word-formatvorlagen-querverweise-track-changes` | Microsoft Word für juristisches Drafting. Formatvorlagen (Standard; Überschrift eins bis fünf; Definition; Zitat; Anlage) sorgen für einheitliches Schriftbild; automatisches Inhaltsverzeichnis; Verzeichnisse von Definitionen und Anlagen.... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

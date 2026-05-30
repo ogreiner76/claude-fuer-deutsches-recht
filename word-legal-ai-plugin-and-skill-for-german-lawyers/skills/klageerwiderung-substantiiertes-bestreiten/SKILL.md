@@ -127,7 +127,7 @@ Rechtsanwalt
 ## Querverweise
 
 - `klage-drafting-253-zpo` für die Klägerseite
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `gutachten-memo-internes-drafting` für die interne Vorbereitung
 - `revisions-prozess-redlines-comparison` für Abstimmung mit dem Mandanten
 

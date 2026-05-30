@@ -43,16 +43,16 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 
 | Dokument | Stadium | Empfohlene Skills |
 |---|---|---|
-| Vertrag | Erstentwurf | `dokumentstruktur-makroebene-vertrag-und-schriftsatz`, `definitionen-klauseln-stringent`, `boilerplate-klauseln-katalog` |
+| Vertrag | Erstentwurf | `dokumentarchitektur-vertrag-und-schriftsatz`, `definitionen-klauseln-stringent`, `boilerplate-klauseln-katalog` |
 | Vertrag | Review | `verweis-und-querverweis-technik`, `haftungsausschluss-und-haftungsbegrenzung` |
-| Klage | Erstentwurf | `klage-drafting-253-zpo`, `dokumentstruktur-makroebene-vertrag-und-schriftsatz` |
+| Klage | Erstentwurf | `klage-drafting-253-zpo`, `dokumentarchitektur-vertrag-und-schriftsatz` |
 | Klageerwiderung | Erstentwurf | `klageerwiderung-substantiiertes-bestreiten` |
 | NDA | Eingehend | `geheimhaltung-nda-vertraulichkeit`, `boilerplate-klauseln-katalog` |
 | AGB | Erstentwurf | `agb-konforme-klauseln-305-310-bgb`, `transparenzgebot-307-bgb` |
 | Anwaltsschreiben | Erstmahnung | `anwaltsschreiben-aussergerichtlich`, `stil-und-ton-juristische-texte` |
 | Memo | Intern | `gutachten-memo-internes-drafting` |
 | Vertragsentwurf der Gegenseite | Review mit Verteidigungshaltung | `defensive-drafting-fallen-erkennen`, `verweis-und-querverweis-technik` |
-| Term Sheet / LoI | Übersetzung in Vertrag | `term-sheet-zu-vertrag-uebersetzung`, `dokumentstruktur-makroebene-vertrag-und-schriftsatz` |
+| Term Sheet / LoI | Übersetzung in Vertrag | `term-sheet-zu-vertrag-uebersetzung`, `dokumentarchitektur-vertrag-und-schriftsatz` |
 | Vertrag DE/EN | Bilingual | `bilingual-drafting-deutsch-englisch`, `definitionen-klauseln-stringent` |
 | Klauselbedarf konkret | Baustein abrufen | `klausel-bibliothek-katalog`, `boilerplate-klauseln-katalog` |
 | Auftrag diffus | Kaltstart | `kaltstart-drafting-kommandocenter`, dann Spezial-Skill |
@@ -103,7 +103,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 
 ## Querverweise
 
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `drafting-prinzipien-klarheit-bestimmtheit-praezision`
 - `stil-und-ton-juristische-texte`
 - `kaltstart-drafting-kommandocenter`

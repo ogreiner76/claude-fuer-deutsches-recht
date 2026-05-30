@@ -95,7 +95,7 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 - `drafting-prinzipien-klarheit-bestimmtheit-praezision`
 - `anwaltsschreiben-aussergerichtlich`
 - `gutachten-memo-internes-drafting`
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 
 ## Quellen (Stand 05/2026)
 

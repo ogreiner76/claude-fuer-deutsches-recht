@@ -96,7 +96,7 @@ Phase 1 (Konzept):
 
 Phase 2 (Erstentwurf):
 - Pseudonymisierter Entwurf in Cowork.
-- Querverweise per Word-Formatvorlagen.
+- Verweislogik und Versionen vor Versand bewusst kontrollieren.
 
 Phase 3 (Mandantenfreigabe):
 - Übernahme in lokale Word-Umgebung der Kanzlei.
@@ -113,7 +113,7 @@ Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein
 
 ## Querverweise
 
-- `word-formatvorlagen-querverweise-track-changes` für sichere Word-Hygiene vor Cloud-Upload
+- `word-dokument-finish-und-layout` für sichere Versandhygiene vor Upload oder Versand
 - `revisions-prozess-redlines-comparison` für Versionsführung
 - `orientierung-drafting-triage` für die Anfangsbewertung der Risikolage
 - `geheimhaltung-nda-vertraulichkeit` für NDA-Klauseln, die das selbe Schutzgut adressieren

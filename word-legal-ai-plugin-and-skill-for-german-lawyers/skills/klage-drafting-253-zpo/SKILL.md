@@ -136,7 +136,7 @@ Rechtsanwältin
 ## Querverweise
 
 - `klageerwiderung-substantiiertes-bestreiten`
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `anwaltsschreiben-aussergerichtlich` für die vorprozessuale Mahnung
 - `revisions-prozess-redlines-comparison` für Schriftsatzwechsel mit dem Mandanten
 

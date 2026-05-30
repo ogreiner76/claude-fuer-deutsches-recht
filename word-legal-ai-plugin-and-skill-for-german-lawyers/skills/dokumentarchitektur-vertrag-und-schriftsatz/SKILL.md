@@ -1,13 +1,13 @@
 ---
-name: dokumentstruktur-makroebene-vertrag-und-schriftsatz
-description: "Makrostruktur juristischer Dokumente sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle."
+name: dokumentarchitektur-vertrag-und-schriftsatz
+description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle."
 ---
 
-# Dokumentstruktur Makroebene: Vertrag und Schriftsatz
+# Dokumentarchitektur: Vertrag und Schriftsatz
 
 ## Zweck
 
-Juristisches Drafting beginnt mit der Architektur, nicht mit dem Klauseltext. Wer einen Vertrag ohne Inhaltsverzeichnis schreibt, baut ein Haus ohne Statik. Dieser Skill liefert die Standard-Makrostruktur fuer die beiden wichtigsten Dokumenttypen: Vertrag und Schriftsatz. Daneben kurz: Memo, Anwaltsschreiben, AGB.
+Juristisches Drafting beginnt mit der Architektur, nicht mit dem Klauseltext. Wer einen Vertrag ohne Inhaltsverzeichnis schreibt, baut ein Haus ohne Statik. Dieser Skill liefert die Standardstruktur für die beiden wichtigsten Dokumenttypen: Vertrag und Schriftsatz. Daneben kurz: Memo, Anwaltsschreiben, AGB.
 
 Die Struktur ist Konvention, keine Mode. Gerichte erwarten sie. Geschaeftsleitung erwartet sie. Wer abweicht, soll wissen warum.
 
@@ -34,7 +34,7 @@ Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Kl
 2. **Standardstruktur waehlen.** Siehe Tabellen unten.
 3. **Anpassen.** Streichen Sie nicht benoetigte Bloecke, ergaenzen Sie Sonderkapitel.
 4. **Nummerierung festlegen.** § (Paragraph) oder Ziffer. M&A-Vertraege ueblich mit Ziffern, BGB-Vertraege ueblich mit Paragraphen.
-5. **Inhaltsverzeichnis automatisch erzeugen.** Word-Skill `word-formatvorlagen-querverweise-track-changes` nutzen.
+5. **Inhaltsverzeichnis und Gliederung pragmatisch prüfen.** Bei längeren Dokumenten eine lesbare Übersicht vorsehen; technische Word-Automatisierung ist nicht Gegenstand dieses Skills.
 6. **Querverweise vorbereiten.** Siehe `verweis-und-querverweis-technik`.
 
 ### Strukturbaum Vertrag (Standardfall)

@@ -177,7 +177,7 @@ investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
 
 - `anspruchsgrundlage-und-rechtsfolgen-klauseln`
 - `kuendigungsklauseln-und-vertragsbeendigung`
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `verweis-und-querverweis-technik`
 
 ## Quellen (Stand 05/2026)

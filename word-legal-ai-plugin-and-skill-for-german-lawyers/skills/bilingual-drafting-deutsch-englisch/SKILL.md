@@ -162,8 +162,8 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 
 - `boilerplate-klauseln-katalog` fuer Schlussbestimmungen
 - `klausel-bibliothek-katalog` fuer bilinguale Klauselbausteine
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
-- `word-formatvorlagen-querverweise-track-changes` fuer Side-by-Side-Tabellen-Setup
+- `dokumentarchitektur-vertrag-und-schriftsatz`
+- `word-dokument-finish-und-layout` für die Endkontrolle von Tabellen, Seitenumbrüchen und Versandfassung
 
 ## Quellen (Stand 05/2026)
 

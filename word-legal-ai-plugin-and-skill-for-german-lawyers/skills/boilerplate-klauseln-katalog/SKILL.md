@@ -163,7 +163,7 @@ Erfuellungsort fuer Lieferung und Zahlung ist der Sitz des Lieferanten.
 
 ## Querverweise
 
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `agb-konforme-klauseln-305-310-bgb`
 - `b2b-vs-b2c-klausel-strategie`
 - `verweis-und-querverweis-technik`

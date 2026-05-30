@@ -41,7 +41,7 @@ Erzeuge nach den Startfragen eine knappe Mandatsmatrix:
 |---|---|
 | Unklarer Auftrag | `orientierung-drafting-triage`, dann passender Spezial-Skill |
 | Stil noch unklar | `deutscher-kanzleistil-kalibrieren`, `stil-und-ton-juristische-texte` |
-| Word-Dokument chaotisch | `word-formatvorlagen-querverweise-track-changes`, `word-dokument-finish-und-layout` |
+| Word-Dokument chaotisch | `word-dokument-finish-und-layout`, `finaler-writing-quality-gate` |
 | Partnerkommentare im Dokument | `partner-kommentar-umsetzen`, `revisions-prozess-redlines-comparison` |
 | Schriftsatz soll richterlesbar werden | `schriftsatz-ueberarbeiten-richterlesbar`, `argumentationsarchitektur-schreiben` |
 | Mandantenmemo oder Partnerupdate | `mandantenmemo-und-partner-update`, `gutachten-memo-internes-drafting` |

@@ -9,7 +9,7 @@ description: "Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt au
 
 Jeder Vertrag, jedes Vergleichsangebot, jedes Memo, das mehr als einmal die Hand wechselt, wandert durch einen Revisions-Prozess. Dieser Skill strukturiert den Workflow: Wer schickt welche Version, in welchem Modus, in welcher Farbe, mit welcher Begleitkommunikation? Er erklärt die Compare-Funktion (Vergleichen zwei Versionen, Redline erzeugen), die Konventionen für sichtbares Markup und die Trennung zwischen Arbeitsfassung und Clean Version für die Unterschrift.
 
-Der Skill richtet sich an Drafter, die Verhandlungen führen oder Schriftsätze mit Mandanten und Co-Drafter abstimmen. Er ist die operative Anwendung der Skills `word-formatvorlagen-querverweise-track-changes` und `cowork-cloud-kollaboration-drafting`.
+Der Skill richtet sich an Drafter, die Verhandlungen führen oder Schriftsätze mit Mandanten und Co-Drafter abstimmen. Er ist die operative Anwendung von sauberer Versionsführung, sichtbarem Markup und dem sicheren Austausch nach `cowork-cloud-kollaboration-drafting`.
 
 ## Eingaben
 
@@ -126,7 +126,7 @@ Rechtsanwältin
 
 ## Querverweise
 
-- `word-formatvorlagen-querverweise-track-changes` für die Word-Mechanik
+- `word-dokument-finish-und-layout` für die finale Versandhygiene
 - `cowork-cloud-kollaboration-drafting` für sichere Übermittlungswege
 - `anwaltsschreiben-aussergerichtlich` für die Begleitkommunikation
 - `orientierung-drafting-triage` für die Stadium-Einordnung

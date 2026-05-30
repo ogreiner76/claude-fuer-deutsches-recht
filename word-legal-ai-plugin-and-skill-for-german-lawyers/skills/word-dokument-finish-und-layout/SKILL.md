@@ -60,10 +60,10 @@ Empfohlen:
 - Ampel pro Prüfblock.
 - Reparaturliste in Reihenfolge der Dringlichkeit.
 - Versand-Checkliste.
-- Optional: kurze Anweisung, welche Word-Funktion zu nutzen ist.
+- Optional: kurze manuelle Reparaturanweisung für die Versandfassung.
 
 ## Querverweise
 
-- `word-formatvorlagen-querverweise-track-changes`
 - `revisions-prozess-redlines-comparison`
 - `finaler-writing-quality-gate`
+- `verweis-und-querverweis-technik`

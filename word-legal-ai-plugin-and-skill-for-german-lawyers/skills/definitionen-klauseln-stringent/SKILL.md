@@ -128,7 +128,7 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 
 ## Querverweise
 
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `verweis-und-querverweis-technik`
 - `transparenzgebot-307-bgb`
 - `drafting-prinzipien-klarheit-bestimmtheit-praezision`

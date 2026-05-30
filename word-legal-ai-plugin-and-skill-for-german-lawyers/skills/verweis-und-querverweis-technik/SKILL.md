@@ -1,6 +1,6 @@
 ---
 name: verweis-und-querverweis-technik
-description: "Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf Klauseln und Anlagen externe Verweise auf Gesetze und Urteile. Anlagenverwaltung jede Anlage einmal benannt einmal definiert einmal eingefuehrt. Word-Querverweise (siehe Skill word-formatvorlagen-querverweise-track-changes). vorstehender vs nachstehender. Vermeidung der Klausel-Spinne. Mit Beispiel konsolidierter Verweisapparat."
+description: "Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze und Urteile. Anlagenverwaltung: jede Anlage einmal benannt, einmal definiert, einmal eingeführt. Vorstehender vs. nachstehender Verweis, Vermeidung der Klausel-Spinne, konsolidierter Verweisapparat."
 ---
 
 # Verweis- und Querverweis-Technik
@@ -9,7 +9,7 @@ description: "Verweis- und Querverweistechnik in juristischen Dokumenten. Intern
 
 Verweise machen einen Vertrag oder Schriftsatz lesbar oder zerstoeren ihn. Wer "im Sinne der vorstehenden Klausel" schreibt, hat keine Klausel benannt. Wer "Anlage 7" referenziert, ohne sie zu definieren, schafft eine Klausel-Spinne, die kein Reviewer mehr entwirrt.
 
-Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze, Verordnungen und Urteile. Er zeigt die Anlagenverwaltung mit dem Drei-Punkte-Prinzip: einmal benannt, einmal definiert, einmal eingefuehrt. Er verweist auf den Word-Skill fuer die technische Umsetzung der Querverweise.
+Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze, Verordnungen und Urteile. Er zeigt die Anlagenverwaltung mit dem Drei-Punkte-Prinzip: einmal benannt, einmal definiert, einmal eingeführt. Es geht um saubere juristische Verweislogik, nicht um Word-Makros, VBA oder Office-Automatisierung.
 
 ## Eingaben
 
@@ -23,7 +23,7 @@ Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlag
 - § 305 Abs. 2 BGB: Einbeziehung von AGB. Verweis auf AGB muss klar und auffindbar sein.
 - §§ 133, 157 BGB: Auslegung. Defekte Verweise werden gegen den Verwender ausgelegt (§ 305c Abs. 2 BGB).
 - Zitierweise nach `references/zitierweise.md` fuer externe Verweise auf Rechtsprechung und Literatur.
-- Word-Funktion: automatische Querverweise mit Aktualisierung beim Druck. Siehe `word-formatvorlagen-querverweise-track-changes`.
+- Technische Umsetzung: Wenn Word genutzt wird, reichen normale Querverweise oder eine bewusste manuelle Endkontrolle. Keine Makros, kein VBA, keine Automatisierungslogik.
 
 ## Ablauf / Checkliste
 
@@ -31,7 +31,7 @@ Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlag
 2. **Anlagen inventarisieren.** Welche Anlagen werden zitiert? Sind sie alle vorhanden?
 3. **Externe Verweise pruefen.** Sind Gesetzesangaben aktuell? Sind Rspr.-Zitate verifiziert?
 4. **Verweisform pruefen.** Klauselnummer und Klauselueberschrift nennen ("§ 7 Abs. 2 (Haftung)").
-5. **Querverweise als Word-Felder.** Bei Renumbering keine toten Verweise.
+5. **Verweise nach Renumbering kontrollieren.** Keine toten Verweise nach Verschiebung von Klauseln oder Anlagen.
 6. **Konsistenzpruefung.** Volltextsuche nach "siehe oben", "vorstehend", "nachstehend".
 7. **Anlagenverzeichnis erstellen.** Anlage 1 bis Anlage n.
 
@@ -117,7 +117,7 @@ Vermeiden Sie diese Begriffe in operativen Klauseln. Sie sind Auslegungsmuell. W
 
 ## Typische Drafting-Fehler
 
-- **Tote Verweise nach Renumbering.** Manuelle Klauselnummern statt Word-Querverweisfelder.
+- **Tote Verweise nach Renumbering.** Klauselnummern wurden verschoben, aber die Verweise im Text nicht nachgezogen.
 - **"Siehe oben" ohne Bezugsstelle.** Kein Reviewer findet die Stelle.
 - **Anlage zitiert, aber nicht vorhanden.** Anlagenverzeichnis pruefen.
 - **Externe Verweise auf veraltete Normen.** § Nummern haben sich geaendert (z.B. nach Schuldrechtsmodernisierung 2002, AGB-Reform 2002, BDSG-DSGVO-Umstellung 2018).
@@ -163,13 +163,13 @@ zur Geheimhaltung.
 
 ## Querverweise
 
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz`
+- `dokumentarchitektur-vertrag-und-schriftsatz`
 - `definitionen-klauseln-stringent`
-- `word-formatvorlagen-querverweise-track-changes`
+- `word-dokument-finish-und-layout`
 - `drafting-prinzipien-klarheit-bestimmtheit-praezision`
 
 ## Quellen (Stand 05/2026)
 
 - § 305 Abs. 2 BGB, § 305c Abs. 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
 - `references/zitierweise.md` fuer externe Verweise.
-- Word-Querverweistechnik: Microsoft-Dokumentation; konkrete Umsetzung in `word-formatvorlagen-querverweise-track-changes`.
+- Normale Word-Querverweise können helfen; Makros, VBA und Office-Automatisierung sind für diesen Skill bewusst ausgeschlossen.

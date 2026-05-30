@@ -1,3 +1,16 @@
+# v50.8.1 — Word Legal AI ohne Makro-/VBA-Ballast
+
+User-Wunsch: Im Word-Writing-Plugin sollen Skills raus, die nach Makros, Office-Automatisierung oder unnötigem Word-Technikkram aussehen.
+
+## Änderung
+
+- Skill `word-formatvorlagen-querverweise-track-changes` entfernt.
+- Skill `dokumentstruktur-makroebene-vertrag-und-schriftsatz` in `dokumentarchitektur-vertrag-und-schriftsatz` umbenannt, damit "Makroebene" nicht wie Word-Makros/VBA missverstanden wird.
+- Word-Plugin jetzt 38 statt 39 Skills; Gesamtbestand 2655 statt 2656 Skills.
+- README und Skill-Routing klargestellt: kein Makro-, VBA- oder Word-Automatisierungs-Skill.
+- `verweis-und-querverweis-technik` bleibt als juristischer Verweislogik-Skill erhalten, aber ohne Verweis auf den gelöschten Word-Technik-Skill.
+- `word-dokument-finish-und-layout` bleibt als schlanke Versand- und Finish-Kontrolle erhalten.
+
 # v50.8.0 — Word Legal AI: Kaltstart, Kanzleistil, Word-Finish und US/UK-Drafting
 
 Nachlauf zum umbenannten Word-Plugin: Der neue Slug `word-legal-ai-plugin-and-skill-for-german-lawyers` bleibt bestehen, das Plugin wurde aber vom reinen Drafting-Baukasten zu einem geführten Schreibworkflow für deutsche Anwältinnen und Anwälte ausgebaut.

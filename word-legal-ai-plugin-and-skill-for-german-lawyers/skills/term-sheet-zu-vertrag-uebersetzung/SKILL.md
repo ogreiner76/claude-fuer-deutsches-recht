@@ -30,7 +30,7 @@ Dieser Skill fuehrt strukturiert durch diese Uebersetzung. Er hilft, Luecken sys
 
 | Term-Sheet-Punkt | Vertragsabschnitt | Boilerplate-Skill |
 |---|---|---|
-| Parteien | Rubrum, Eingangsformel | `dokumentstruktur-makroebene-vertrag-und-schriftsatz` |
+| Parteien | Rubrum, Eingangsformel | `dokumentarchitektur-vertrag-und-schriftsatz` |
 | Praeambel/Hintergrund | Praeambel | - |
 | Definitionen (selten im Term Sheet) | § Definitionen | `definitionen-klauseln-stringent` |
 | Leistungsgegenstand | § Leistung | `anspruchsgrundlage-und-rechtsfolgen-klauseln` |
@@ -72,7 +72,7 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 1. **Term Sheet lesen, Punkte nummerieren.** Aktivieren Sie Track Changes parallel.
 2. **Mapping-Tabelle ausfuellen.** Welche Term-Sheet-Punkte gehen in welchen Vertragsabschnitt?
 3. **Luecken-Tabelle erstellen.** Pruefen Sie die zwoelf typischen Term-Sheet-Luecken oben.
-4. **Vertragsskelett aufbauen.** Skill `dokumentstruktur-makroebene-vertrag-und-schriftsatz`.
+4. **Vertragsskelett aufbauen.** Skill `dokumentarchitektur-vertrag-und-schriftsatz`.
 5. **Definitionen extrahieren.** Skill `definitionen-klauseln-stringent`. Term-Sheet-Begriffe in Definitionen ueberfuehren.
 6. **Term-Sheet-Punkte einarbeiten.** Wirtschaftliche Punkte nicht aendern, nur dogmatisch sauber formulieren.
 7. **Boilerplate ergaenzen.** Skill `boilerplate-klauseln-katalog`.
@@ -137,7 +137,7 @@ Der ausgearbeitete Vertrag hat den Term-Sheet-Punkt nicht veraendert (EUR 500.00
 
 ## Querverweise
 
-- `dokumentstruktur-makroebene-vertrag-und-schriftsatz` fuer das Vertragsskelett
+- `dokumentarchitektur-vertrag-und-schriftsatz` für das Vertragsskelett
 - `definitionen-klauseln-stringent` fuer den Definitionsapparat
 - `boilerplate-klauseln-katalog` fuer Schlussbestimmungen
 - `klausel-bibliothek-katalog` fuer fertige Klauselbausteine
