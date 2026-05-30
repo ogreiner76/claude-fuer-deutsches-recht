@@ -12,6 +12,48 @@ User-Wunsch: Wirklich alle Luecken im Testakten-Bestand schliessen. Pro bisher u
 - **Plugin-READMEs:** `inject-plugin-testakten-section.py` automatisiert die Demonstrationsakten-Tabelle in jedem Plugin-README; 75 Plugins haben jetzt eine eigene Demonstrationsakte.
 - **Gesamt-PDFs:** Pro Akte ein automatisch gebautes Gesamt-PDF (Skript `build-testakte-gesamt-pdf.py`, breite Tabellen >12 Spalten fallen sequentiell zurueck), oben im Akten-README verlinkt.
 - Pattern fuer Testakten festgehalten: kein YAML-Frontmatter; 38 Dateien plus README; Plot mit 5-8 individualisierten Konfliktstraengen; konsistente Beteiligten- und Aktenzeichen-Liste; ASCII in Commit-Messages und in `description` (Dezimalkommas nur im Body, nicht in der Description).
+- Marketplace-Version `51.1.0` -> `51.2.0`; Generator regeneriert SKILLS.md und skills-index/; Plugins/Skills unveraendert (110/2682).
+
+# v51.1.0 — DFG/Forschungszulage Workflow-Boost
+
+Nachlauf zu den neuen Förderplugins: Claude-Code-Ausbau übernommen und mit einem weiteren Codex-Audit veredelt.
+
+## DFG-Förderantrag
+
+- `allgemein` arbeitet jetzt adaptiv: geführter Modus für Erstantragsteller, Normalmodus, Profi-Red-Team und Rettungsmodus nach Ablehnung.
+- DFG-Kaltstart erzeugt auch aus losen Ideen eine Mini-Roadmap mit Minimalprojekt, Idealprojekt, Lückenliste und 10-Arbeitstage-Plan.
+- Koselleck-Logik korrigiert: mehrere abgeschlossene DFG-Projekte sind starkes Praxisindiz, aber kein behauptetes starres formales Muss.
+- Strategie-Skill ergänzt einen Entscheidungsmotor: minimal förderfähig, optimal wissenschaftlich, Prestige/Vision.
+
+## Forschungszulage
+
+- `allgemein` unterscheidet jetzt Einsteiger, Technikteam, CFO/Steuerberatung, Krisenmodus und Ablehnung/Nachforderung.
+- BSFZ-Projektbeschreibung auf Portalrealität umgestellt: interne Langfassung plus Portaltexte mit Zeichenbudgets nach BSFZ-Leitfaden 2026.
+- Fördercheck behandelt kleine Vorhaben nicht mehr pauschal als unwirtschaftlich; er baut bei Bedarf schlanke Anträge.
+- Bemessungsgrundlagen-Skill präzisiert § 2 Abs. 5 FZulG bei Auftragsforschung und ergänzt eine Datenqualitäts-Ampel.
+
+# v51.0.0 — DFG, Forschungszulage und weltweite DBA-Matrix
+
+User-Wunsch: Zwei neue Förderplugins für DFG-Anträge und Forschungszulage sowie ein deutlich tieferer Ausbau der DBA-Skills im Steuerrechtsplugin.
+
+## Neue Plugins
+
+- `dfg-foerderantrag`: DFG-Sachbeihilfe, elan-Formalia, kleine schnelle Anträge bis zur 200.000-Euro-Begutachtungsmarke, Koselleck-Route ab 500.000 Euro, Finanzplan, Reviewer-Red-Team, KI/Ethik/Forschungsdaten und Wiedereinreichung.
+- `forschungszulage-antragstellung`: BSFZ-Bescheinigung, FuE-Abgrenzung, Bemessungsgrundlage 2026, Finanzamt-Festsetzung, Auszahlung, Verlust-/Insolvenzlagen, Dokumentationspaket, Kumulierung und Einspruch/Nachbesserung.
+
+## Steuerrecht / DBA
+
+- Neue `references/dba-laendermatrix-2026.md` nach BMF-Stand 01.01.2026 als weltweite Routing-Matrix.
+- Neue DBA-Skills: Ländermatrix, Nicht-EU-Regionenrouter, Edge-Case-Playbook, MAP/EU-Streitbeilegung, Quellensteuer-Atlas und All-Country-Memo-Generator.
+- `rechtsstand-mai-2026-faktenbank` ergänzt um den DBA-Stand 2026 und neue DBA-Folgeskills.
+
+## Versionen und Übersichten
+
+- Marketplace-Version `50.10.0` → `51.0.0`.
+- Plugins: 108 → 110.
+- Skills: 2655 → 2682.
+- Release-Assets erwartet: 177 = 110 Plugin-ZIPs, 63 Testakten-ZIPs, `marketplace.json` und 3 Sammelarchive.
+- `SKILLS.md`, `skills-index/`, Plugin-READMEs, `README.md` und `ASSET_INDEX.md` synchronisiert.
 
 # v50.10.0 — Akten-ZIP-Download in jedem Testakten-README
 
