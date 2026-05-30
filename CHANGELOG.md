@@ -1,3 +1,18 @@
+# v51.0.0 — Plugin-Testakten-Vollbestand (64 neue Testakten)
+
+User-Wunsch: Wirklich alle Luecken im Testakten-Bestand schliessen. Pro bisher untestrierter Plugin-Familie eine vollstaendige, individualisierte Demoakte auf dem Qualitaetsniveau der `Rosengarten`-Vorbildakte (ca. 15-25 Aktenstuecke, Beteiligte mit Namen, Aktenzeichen, Konfliktstraenge, deutsche Normen). Pro Akte ein Commit, alles auf einem Branch.
+
+## Aenderungen
+
+- **64 neue Testakten** in 11 Wellen angelegt, je 38 Aktenstuecke (22 nummerierte MD plus 3 DOCX plus 2 XLSX plus 4 EML plus 2 PDF plus 3 JPG plus Gesamt-PDF) plus README. Quellen ausschliesslich aus dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de und amtlichen Behoerden-URLs; keine BeckRS-Modellzitate, kein anwalt24.de.
+- **Testakten-Bestand 63 -> 127** (siehe `testakten/README.md`).
+- **ASSET_INDEX.md** aktualisiert: 108 Plugin-ZIPs plus 127 Fallakten-ZIPs plus 4 Standalone-Assets = **239 Release-Assets** fuer `v51.0.0` und `latest`.
+- Welle-Themen: Welle 1-7 (Arbeitsrecht, Familie, Erbe, Insolvenz, Bau, IT-Recht, Strafrecht); Welle 8 (KI-Governance, KI-VO, Mandantenanfragen, MundA, Methodenlehre, Mietrecht); Welle 9 (Share-Deal, NDA, Normenkontrolle, FTO-Recherche, Produkthaftung, Zivilprozess BGH-Revision); Welle 10 (Rechtsberatungsstelle, BaFin-Regulatorik, Steuerrecht/Selbstanzeige, Strafzumessung, Subsumtions-Pruefer, Tabellenreview); Welle 11 (Richter-Urteilsbau, Verfassungsrecht, VerkehrsOWi, Drafting-Werkstatt, Zitierweise, Zwangsvollstreckung).
+- **Validatoren gruen:** `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py`, `validate-testakten-gesamt-pdf.py` (127 Testakten).
+- **Plugin-READMEs:** `inject-plugin-testakten-section.py` automatisiert die Demonstrationsakten-Tabelle in jedem Plugin-README; 75 Plugins haben jetzt eine eigene Demonstrationsakte.
+- **Gesamt-PDFs:** Pro Akte ein automatisch gebautes Gesamt-PDF (Skript `build-testakte-gesamt-pdf.py`, breite Tabellen >12 Spalten fallen sequentiell zurueck), oben im Akten-README verlinkt.
+- Pattern fuer Testakten festgehalten: kein YAML-Frontmatter; 38 Dateien plus README; Plot mit 5-8 individualisierten Konfliktstraengen; konsistente Beteiligten- und Aktenzeichen-Liste; ASCII in Commit-Messages und in `description` (Dezimalkommas nur im Body, nicht in der Description).
+
 # v50.10.0 — Akten-ZIP-Download in jedem Testakten-README
 
 User-Wunsch: In jedem Testakten-README muss ganz oben sowohl ein Link zum Gesamt-PDF als auch ein Link zur Akten-ZIP mit allen Einzeldateien stehen. Bisher gab es nur das Gesamt-PDF.
