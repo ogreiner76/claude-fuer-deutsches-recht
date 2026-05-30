@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-10 Testakten (52 Akten plus Welle 10 Rechtsberatungsstelle Regulatorik Steuerrecht Strafzumessung Subsumtions-Pruefer Tabellenreview)
+**Stand:** v51.0.0 — Welle 1-11 Testakten Vollbestand (alle 64 Lueckenakten ergaenzt: Richter Verfassungsrecht VerkehrsOWi Drafting Zitierweise Zwangsvollstreckung)
 
 ## Asset-Typen
 
@@ -172,6 +172,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip` | siehe `testakten/cybertrading-anlagebetrug-wittfeldt-bremen/` |
 | `testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip` | siehe `testakten/datenschutz-us-transfer-cloudsuite-rheinmain/` |
 | `testakte-doping-uvalkanat-handballerin-cas-lausanne.zip` | siehe `testakten/doping-uvalkanat-handballerin-cas-lausanne/` |
+| `testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip` | siehe `testakten/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben/` |
 | `testakte-dsa-dma-bayrische-baustube-meissner.zip` | siehe `testakten/dsa-dma-bayrische-baustube-meissner/` |
 | `testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip` | siehe `testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/` |
 | `testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip` | siehe `testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/` |
@@ -251,7 +252,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip` | siehe `testakten/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann/` |
 | `testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip` | siehe `testakten/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
+| `testakte-urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil.zip` | siehe `testakten/urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil/` |
+| `testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip` | siehe `testakten/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
+| `testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip` | siehe `testakten/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof/` |
 | `testakte-verkehrsowi-rotlicht-tempo.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo/` |
 | `testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip` | siehe `testakten/verkehrsunfall-quotenstreit-tannenbruck-a45/` |
 | `testakte-verlagsredaktion-morgenlage-fachverlag.zip` | siehe `testakten/verlagsredaktion-morgenlage-fachverlag/` |
@@ -262,10 +266,12 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip` | siehe `testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/` |
 | `testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip` | siehe `testakten/windpark-drittanfechtung-buergerinitiative-uckermark/` |
 | `testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip` | siehe `testakten/wirtschaftsstrafsache-uhaft-bankert-frankfurt/` |
+| `testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip` | siehe `testakten/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken/` |
 | `testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann.zip` | siehe `testakten/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
 | `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
+| `testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip` | siehe `testakten/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde/` |
 
 ## Manifest-Asset (1 Stück)
 
@@ -290,4 +296,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 233 Assets, davon 108 Plugin-ZIPs, 121 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 239 Assets, davon 108 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
