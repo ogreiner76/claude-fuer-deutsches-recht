@@ -34,3 +34,18 @@ Die Meinungsfreiheit ist besonders wichtig, wenn Bürger staatliche Machtausübu
 - Abwägungsgewicht:
 - §-188-Hinweis:
 - zulässige harte Alternativformulierung:
+
+## Schneller Arbeitsmodus
+
+- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
+- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
+- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
+- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
+
+## Ausgabeformat
+
+- Ampel mit einem Satz Begruendung.
+- Beste Verteidigungslinie.
+- Gefaehrlichster Gegeneinwand.
+- Sichere Alternativformulierung.
+- Naechste Handlung: nichts tun, belegen, loeschen, klarstellen, antworten, verteidigen oder anwaltlich eskalieren.

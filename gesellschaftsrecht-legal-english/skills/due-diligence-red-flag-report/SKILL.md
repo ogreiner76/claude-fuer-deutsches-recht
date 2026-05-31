@@ -35,3 +35,19 @@ DD-Sprache in belastbare Arbeitsschritte übersetzen.
 | Legal relevance | Warum relevant? |
 | Deal impact | Preis, CP, Indemnity, Walk-away? |
 | Next action | Q&A, SPA, Specialist, Senior Review |
+
+## Didaktischer Arbeitsmodus
+
+- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
+- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
+- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung fuer die Partnerin oder den Mandanten.
+- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+
+## Ausgabeformat
+
+1. Kurzantwort.
+2. Begriff entschluesselt.
+3. Deutsche Rechtsfunktion.
+4. Wirtschaftlicher Effekt.
+5. Typische Fallen.
+6. Naechster Drafting- oder Review-Schritt.

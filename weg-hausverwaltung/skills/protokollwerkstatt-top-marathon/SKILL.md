@@ -48,3 +48,17 @@ Frist: [...]
 - Keine unklaren Aufträge wie "Verwalter soll sich kümmern".
 - Kostenrahmen und Finanzierung sind sichtbar.
 - Bei abgelehnten Beschlüssen wird ebenfalls klar protokolliert, was abgelehnt wurde.
+
+## Schneller Arbeitsmodus
+
+- Starte mit Objekt, Beschlussgegenstand, Einladung/Tagesordnung, Kostenverteilung, Stimmen, Eigentümerrollen und Fristen.
+- Trenne Verwaltungspraxis, Beschlusskompetenz, ordnungsmäßige Verwaltung, bauliche Veraenderung, Kostenfolge und Anfechtungsrisiko.
+- Bei Protokollen: Beschlusswortlaut, Abstimmungsergebnis, Verkündung, Anlagen und abweichende Auffassungen so aufnehmen, dass ein Gericht den Vorgang nachvollziehen kann.
+
+## Ausgabeformat
+
+- TOP/Beschlusskern.
+- Formelle Risiken.
+- Materielle Risiken.
+- Vollzugsschritte der Verwaltung.
+- Anfechtungs- oder Heilungsoptionen.

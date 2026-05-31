@@ -1,6 +1,6 @@
 # patentrecherche
 
-**14 Skills** · Stand `v52.2.1`
+**14 Skills** · Stand `v52.2.2`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/patentrecherche/README.md)

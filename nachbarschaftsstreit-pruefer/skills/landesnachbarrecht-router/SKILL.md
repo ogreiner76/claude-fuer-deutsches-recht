@@ -37,3 +37,18 @@ Nachbarrecht ist föderal. Dieser Skill verhindert, dass ein NRW-Zaunfall mit Be
 ## Beispiel NRW
 
 Für Nordrhein-Westfalen sind insbesondere das Nachbarrechtsgesetz NRW, Einfriedungsvorschriften und Pflanzenabstände zu prüfen. Konkrete Normen immer am aktuellen amtlichen Landesrecht abgleichen.
+
+## Schneller Arbeitsmodus
+
+- Frage zuerst nach Bundesland, Grundstuecksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation.
+- Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich.
+- Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverstaendig geklaert werden muss.
+- Priorisiere befriedende Loesungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
+
+## Ausgabeformat
+
+- Streitstrang mit Anspruchsrichtung.
+- Benötigte Beweise.
+- Risiko fuer Mandant und Gegenseite.
+- Deeskalierender naechster Schritt.
+- Gerichtlicher naechster Schritt, falls Vergleich scheitert.

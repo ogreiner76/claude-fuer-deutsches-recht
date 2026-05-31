@@ -1,3 +1,19 @@
+# v52.2.2 — Skillset-Sanity und Kurzskill-Boost
+
+Breiter Funktionscheck über alle 2.682 Skills mit Schwerpunkt Nutzbarkeit, Kaltstart, Geschwindigkeit und klare Ausgabe.
+
+## Skill-Audit
+
+- Alle 2.682 `SKILL.md` strukturell gescannt: Frontmatter, Mindestlänge, Output-Signale, Platzhalter-/Müllmarker und Extremwerte.
+- Harte Validatoren erneut grün: YAML-Frontmatter und Plugin-Struktur.
+- Sehr kurze Skills gezielt nachgeschärft statt pauschal aufgebläht.
+
+## Boost
+
+- 92 kurze Skills in `verlagsredaktion`, `gesellschaftsrecht-legal-english`, `meinungspruefer`, `nachbarschaftsstreit-pruefer`, `barrierefreiheit-web-checker`, `subsumtions-pruefer` und `weg-hausverwaltung` mit knappem Arbeitsmodus, Mindestinput, Qualitätsgate und Ausgabeformat ergänzt.
+- Ergebnis: kein Skill mehr unter 1.200 Zeichen; Minimum jetzt ca. 1.210 Zeichen, Median unverändert schlank bei ca. 5.438 Zeichen.
+- Fokus bleibt schnell: keine langen neuen Referenzblöcke, sondern kurze operative Leitplanken.
+
 # v52.2.1 — Testakten-Download-Audit und README-Sync
 
 Nachlauf auf den vollständigen Testaktenbestand mit Schwerpunkt Downloadfähigkeit in jedem Plugin-README.

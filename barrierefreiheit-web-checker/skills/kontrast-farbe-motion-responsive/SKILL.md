@@ -29,3 +29,18 @@ Nutze diesen Skill für visuelle und responsive Barrierefreiheit.
 ## Priorität
 
 Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animationsprobleme werden gern unterschätzt, weil sie nur manche Nutzerinnen und Nutzer hart treffen.
+
+## Schneller Arbeitsmodus
+
+- Lege den Scope fest: Website, App, PDF, Checkout, Formular, Intranet oder öffentliche Stelle; dazu Normrahmen BFSG/BITV/WAD/EN 301 549/WCAG.
+- Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
+- Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
+- Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
+
+## Ausgabeformat
+
+- Befund.
+- Nutzerwirkung.
+- Norm-/Kriteriumsbezug.
+- Konkreter Fix.
+- Prioritaet und Nachweis fuer die Dokumentation.

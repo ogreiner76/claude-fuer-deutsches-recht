@@ -23,3 +23,16 @@ Dieser Skill ersetzt frühere Literatur-Empfehlungslisten. Er sagt nicht "zitier
 | Norm/TBM | Welche dogmatische Frage ist offen? | Gesetz, verifizierte Rechtsprechung oder Nutzerquelle |
 
 Kurzregel: Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur mit echter Quelle.
+
+## Schneller Arbeitsmodus
+
+- Nutze diesen Skill als Quellenhygiene-Gate: keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Frage nach vorhandenen lizenzierten Quellen oder frei zugaenglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
+- Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
+
+## Ausgabeformat
+
+- Welche Literaturfrage ist offen?
+- Welche Norm/Entscheidung muss zuerst geprueft werden?
+- Welche Suchbegriffe und Datenbanken sind geeignet?
+- Welche Aussage darf ohne Quelle noch nicht in den Schriftsatz?

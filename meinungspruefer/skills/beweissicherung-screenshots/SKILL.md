@@ -35,3 +35,18 @@ Ohne sauberen Beweis ist Äußerungsrecht oft nur Gefühl. Sichere nicht nur den
 ## Warnung
 
 Keine heimlichen Aufnahmen empfehlen. Bei Ton-/Videoaufnahmen immer gesondert Strafbarkeit und Datenschutz prüfen.
+
+## Schneller Arbeitsmodus
+
+- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
+- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
+- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
+- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
+
+## Ausgabeformat
+
+- Ampel mit einem Satz Begruendung.
+- Beste Verteidigungslinie.
+- Gefaehrlichster Gegeneinwand.
+- Sichere Alternativformulierung.
+- Naechste Handlung: nichts tun, belegen, loeschen, klarstellen, antworten, verteidigen oder anwaltlich eskalieren.
