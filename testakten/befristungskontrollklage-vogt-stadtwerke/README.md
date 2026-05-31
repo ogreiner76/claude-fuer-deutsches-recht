@@ -24,7 +24,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Beispielfall** für die `entfristung-*`-Skills im Plugin `arbeitsrecht`.
+Arbeitsakte für die `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
 ---
 
@@ -61,8 +61,9 @@ bleibt der Schriftformmangel.
 Mit E-Mail vom 09. Januar 2026 informierte Schönfeld Vogt, dass das Arbeitsverhältnis planmäßig
 zum 28. Februar 2026 auslaufen werde und kein Anschlussvertrag beabsichtigt sei. Vogt wandte
 sich daraufhin am 09. März 2026 an die beauftragte Rechtsanwaltskanzlei. Die Klagefrist nach
-§ 17 TzBfG (3 Wochen ab Vertragsende) läuft am 20. März 2026 ab; die Klage ist daher
-unverzüglich einzureichen. Vogt wünscht primär die Weiterbeschäftigung — im Kundencenter der
+§ 17 TzBfG (3 Wochen ab Vertragsende) würde rechnerisch am 21. März 2026 ablaufen; weil
+dies ein Samstag ist, verschiebt sich das Fristende auf Montag, den 23. März 2026. Die Klage
+soll gleichwohl am 13. März 2026 eingereicht werden. Vogt wünscht primär die Weiterbeschäftigung — im Kundencenter der
 Stadtwerke ist eine neue Stelle ausgeschrieben — hilfsweise Abfindung oder zumindest ein
 rechtskräftiges Feststellungsurteil.
 
@@ -83,7 +84,7 @@ rechtskräftiges Feststellungsurteil.
 | Ende AV (befristet) | 28.02.2026 |
 | Vertragsart | Befristet ohne Sachgrund, § 14 Abs. 2 TzBfG |
 | Bruttogehalt | EUR 2.950,00 / Monat |
-| Fristende § 17 TzBfG | **20.03.2026** |
+| Fristende § 17 TzBfG | **23.03.2026** (rechnerisch 21.03.2026, Samstag) |
 | Streitwert | EUR 8.850,00 (3 × Monatsgehalt, § 42 Abs. 2 GKG) |
 | Verfahrensstand | Klageeinreichung ausstehend (Frist läuft) |
 | Vorbeschäftigung | 01.07.2021–30.09.2021 (Ferienaushilfe, Lager, anderer Standort) |
@@ -133,8 +134,8 @@ rechtskräftiges Feststellungsurteil.
    Hier anderer Bereich, anderer Standort, anderer Vertragstyp → vertretbares Hilfsargument,
    aber nicht der stärkste Angriff.
 
-3. **3-Wochen-Frist § 17 TzBfG** — Frist läuft 20.03.2026 ab. Erstgespräch 09.03.2026 →
-   Klage muss noch diese Woche eingereicht werden.
+3. **3-Wochen-Frist § 17 TzBfG** — rechnerisches Fristende 21.03.2026, wegen Samstag Ablauf am 23.03.2026. Erstgespräch 09.03.2026 →
+   Klage wird aus Vorsicht bereits am 13.03.2026 eingereicht.
 
 4. **Weiterbeschäftigungsantrag** — Neue Stelle im Kundencenter ausgeschrieben → Antrag auf
    tatsächliche Weiterbeschäftigung bis zur rechtskräftigen Entscheidung (BAG GS 1/84).
@@ -162,7 +163,7 @@ Diese Akte zeigt den vollständigen Ablauf einer Befristungskontrollklage nach T
 | Skill | Was er hier prüft |
 |---|---|
 | `entfristung-triage-was-will-user` | Einstieg, Abgrenzung KüSchK vs. Entfristung |
-| `entfristung-grundwarnung-drei-wochen-frist` | Fristberechnung 20.03.2026 |
+| `entfristung-grundwarnung-drei-wochen-frist` | Fristberechnung 23.03.2026 |
 | `entfristung-schriftform-14-abs-4-erkennen` | **KERNSKILL**: E-Mail + Scan = Schriftformverstoß |
 | `entfristung-elektronische-signatur-vorsicht` | § 126a BGB vs. § 126 BGB |
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | BVerfG 2018, 2 J. 5 M. Abstand |

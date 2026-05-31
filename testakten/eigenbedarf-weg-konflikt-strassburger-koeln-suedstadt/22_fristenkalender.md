@@ -1,4 +1,4 @@
-# Fristenkalender – Testakte Straßburger / Rolandstraße 27a
+# Fristenkalender – Straßburger / Rolandstraße 27a
 
 **Kanzlei Hauck-Brüggemann Mietrecht**  
 Stand: **12. Mai 2026**  

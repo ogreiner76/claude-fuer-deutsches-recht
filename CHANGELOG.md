@@ -1,3 +1,27 @@
+# v52.2.0 — Testakten-Nachlauf und Release-Glattzug
+
+Nachlauf auf den von Perplexity/Claude eingebrachten Testakten-Vollbestand.
+
+## Testakten
+
+- 127 Testakten strukturell geprüft: Gesamt-PDF-Regel, EML-Header, PDF-Signaturen, leere Dateien und ZIP-Release-Erwartung.
+- Sichtbare "Testakte"/"Demonstrationsakte"-Marker aus mehreren Aktenstücken entfernt und durch akteninterne Arbeitsvermerke ersetzt.
+- Eingebettete Einzel-PDFs in der Bereicherungsakte und Strafsammelakte bereinigt; die jeweiligen Gesamt-PDFs wurden neu gebaut.
+- Vogt-Befristungskontrollakte korrigiert: § 17-TzBfG-Frist wegen Samstag/§ 193 BGB bis 23.03.2026, nicht 20.03.2026.
+- Rechtsberatungsstellen-, Eigenbedarfs-, Bereicherungs-, Strafsammel- und WEG/Hausverwaltungs-Akte redaktionell geglättet und Gesamt-PDFs synchronisiert.
+
+## Übersichten und Plugin-Verweise
+
+- `fachanwalt-medizinrecht` verweist nicht mehr auf das alte, nicht mehr existente Plugin `sozialrecht-kanzlei`, sondern auf `fachanwalt-sozialrecht`.
+- Marketplace und 110 Plugin-Manifeste auf `52.2.0` synchronisiert.
+- ASSET_INDEX, SKILLS.md und Skills-Index für 110 Plugins / 127 Testakten / 241 Release-Assets aktualisiert.
+
+## Checks
+
+- PDF-/EML-/Leerdaten-Schnellcheck: grün.
+- Release-ZIP-Validierung: grün.
+- Standard-Validatoren siehe Commit/Release-Protokoll.
+
 # v52.1.0 — Sanity-Pass, Bug-Hunt und Versions-Glattzug
 
 Vollstaendiger Repository-Sweep nach v52.0.0 — Validatoren, tote Links, Versions-Drift, CSV-Strukturdaten.

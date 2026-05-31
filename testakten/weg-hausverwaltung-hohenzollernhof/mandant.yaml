@@ -45,9 +45,10 @@ mandant:
     nächste_ev: 2026-06-17
     einladungsfrist_tag: 2026-05-27
   status_akte: in Vorbereitung Eigentuemerversammlung
-  testakte_zweck: |
-    Simuliert realistische Berliner Mittel-WEG mit allen typischen Konfliktthemen.
-    Bewusst unordentlich mit mehreren Fehlerquellen (Verteilungsschluessel, formale Beschluss-Maengel, CO2-Aufteilung).
-    Geeignet zum Test der weg-hausverwaltung-Skills: Eigentuemerversammlung vorbereiten,
-    Beschlussvorlagen schreiben, Wirtschaftsplan/Jahresabrechnung pruefen, Anfechtungs-
-    risiko bewerten, Hausgeldmahnung erstellen, bauliche Veraenderungen behandeln.
+  aktenzweck: |
+    Laufende Berliner Mittel-WEG mit mehreren parallel eskalierenden Konfliktfeldern.
+    Die Akte ist bewusst nicht glattgezogen: Verteilungsschluessel, Beschlussformalien
+    und CO2-Aufteilung enthalten Widersprueche, die vor der Versammlung aufgeklaert werden muessen.
+    Bearbeitungsfelder: Eigentuemerversammlung vorbereiten, Beschlussvorlagen schreiben,
+    Wirtschaftsplan/Jahresabrechnung pruefen, Anfechtungsrisiko bewerten,
+    Hausgeldmahnung erstellen und bauliche Veraenderungen behandeln.

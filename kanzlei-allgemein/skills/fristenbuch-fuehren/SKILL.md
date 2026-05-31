@@ -86,7 +86,7 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 | Berufungsantrag | § 124a VwGO | ein Monat (Zulassungsbeschwerde) |
 | Eilrechtsschutz | § 80 Abs. 5 VwGO | keine eigene Antragsfrist |
 
-### Sozialgericht (SGG) — siehe Plugin `sozialrecht-kanzlei`
+### Sozialgericht (SGG) — siehe Plugin `fachanwalt-sozialrecht`
 
 ### Finanzgericht (FGO) — siehe Plugin `steuerrecht-anwalt-und-berater`
 

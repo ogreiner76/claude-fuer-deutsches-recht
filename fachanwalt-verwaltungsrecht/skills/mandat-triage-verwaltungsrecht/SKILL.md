@@ -27,7 +27,7 @@ Verwaltungsrecht ist hochheterogen — vom Bauantrag bis zur Asylklage. Triage o
 - **Schule und Hochschule** Versetzung Abitur Zulassung
 - **Subventionsrecht** Förderbescheid Rückforderung
 - **Asyl- und Ausländerrecht** (an `fachanwalt-migrationsrecht` weiter)
-- **Sozialrecht** (an `sozialrecht-kanzlei` weiter)
+- **Sozialrecht** (an `fachanwalt-sozialrecht` weiter)
 - **Steuerrecht** (an `steuerrecht-anwalt-und-berater` weiter)
 - **Vergaberecht** (an `fachanwalt-vergaberecht` weiter)
 - **Umweltrecht**

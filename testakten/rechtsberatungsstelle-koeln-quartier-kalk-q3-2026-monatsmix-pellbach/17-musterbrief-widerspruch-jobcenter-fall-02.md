@@ -53,7 +53,7 @@ Rameeza Moussavi-Hardt
 
 ---
 
-*Hinweis: Dieses Schreiben ist ein Musterbeispiel aus der Testakte der Rechtsberatungsstelle BSBZ Kalk. Alle Namen und Aktenzeichen sind fiktiv.*
+*Interner Formulierungsstand der Rechtsberatungsstelle BSBZ Kalk; Versand erst nach Abgleich mit Bescheid, Kontoauszügen und Vollmacht.*
 
 ## Quellen
 

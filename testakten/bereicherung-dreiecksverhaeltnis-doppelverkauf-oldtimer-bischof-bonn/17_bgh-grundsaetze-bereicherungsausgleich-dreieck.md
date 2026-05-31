@@ -75,7 +75,7 @@ zu Nachteilen führen. BGH erlaubt in diesen Fällen u.U. Direktkondiktion
 
 ---
 
-## 4. Anwendung auf die Bischof-Hellberg-Testakte
+## 4. Anwendung auf die Bischof-Hellberg-Akte
 
 | Dreieck | Anweiser | Mittler | Empfänger | Fehler | BGH-Lösung |
 |---|---|---|---|---|---|

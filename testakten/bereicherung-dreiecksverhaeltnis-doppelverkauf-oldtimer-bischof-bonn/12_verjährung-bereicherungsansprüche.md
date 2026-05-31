@@ -1,7 +1,7 @@
 # 12 Verjährung — Bereicherungsansprüche und Anfechtungsfristen
 
 **Aktenzeichen:** LG Bonn 16 O 211/26, AG Hamburg 67 IN 88/26, LG Bonn 4 O 188/26
-**Rechtsfrage:** Verjährungsfristen aller Ansprüche in der Testakte
+**Rechtsfrage:** Verjährungsfristen aller Ansprüche in der Bischof-Hellberg-Akte
 
 ---
 

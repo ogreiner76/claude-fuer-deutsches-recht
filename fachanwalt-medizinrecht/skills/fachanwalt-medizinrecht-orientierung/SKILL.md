@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-orientierung
-description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin sozialrecht-kanzlei und kanzlei-allgemein."
+description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein."
 ---
 
 # Fachanwalt für Medizinrecht — Orientierung
@@ -26,7 +26,7 @@ description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisc
 ## Typische Mandate
 
 - Arzthaftung (Behandlungsfehler Aufklärungsfehler Dokumentationsmangel)
-- Patientenanspruch auf Krankenversicherung-Leistungen (siehe sozialrecht-kanzlei)
+- Patientenanspruch auf Krankenversicherung-Leistungen (siehe `fachanwalt-sozialrecht`)
 - Vertragsarztrecht (Zulassung Disziplinar Wirtschaftlichkeitsprüfung)
 - Ärztliche Berufsrechtsverfahren
 - Krankenhaus-Abrechnungsstreit (DRG)
@@ -57,7 +57,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Schnittstellen
 
-- **sozialrecht-kanzlei** bei SGB V SGB XI.
+- **fachanwalt-sozialrecht** bei SGB V SGB XI.
 - **kanzlei-allgemein** Fristen Versand.
 - **fachanwalt-strafrecht** bei Vorwurf Behandlungsfehler mit strafrechtlichem Bezug.
 
@@ -119,7 +119,7 @@ Sachgebiet?
 ├─ Behandlungsfehler / Aufklärung → behandlungsfehler-anspruch-pruefen
 ├─ Vertragsarztrecht / KV → fachanwalt-medizinrecht-kassenarztrecht
 ├─ Approbation / Widerruf → fachanwalt-medizinrecht-approbations-widerspruch
-├─ GKV-Leistungsstreit → sozialrecht-kanzlei
+├─ GKV-Leistungsstreit → fachanwalt-sozialrecht
 ├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
 └─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
 ```

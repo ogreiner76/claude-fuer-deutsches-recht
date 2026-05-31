@@ -1,4 +1,4 @@
-# Testakte: Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt
+# Akte: Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -137,5 +137,5 @@ Quellen abrufbar unter: [dejure.org](https://dejure.org) | [openjur.de](https://
 
 ---
 
-*Testakte für Plugin-Testing – alle Personen, Adressen und Sachverhalte sind fiktiv.*  
-*Kein YAML, keine Build-Scripts, keine Symlinks in diesem Ordner.*
+*Arbeitsstand der Kanzlei Hauck-Brüggemann; vor Verwendung im Mandat sind Originalvollmachten, Zustellnachweise und Grundbuch-/WEG-Unterlagen abzugleichen.*
+*Keine Build-Scripts, keine Symlinks in diesem Ordner.*

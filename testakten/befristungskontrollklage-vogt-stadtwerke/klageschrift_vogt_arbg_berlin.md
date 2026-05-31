@@ -71,7 +71,7 @@ IV. Rechtliche Würdigung
 
 1. Zulässigkeit und Fristwahrung (§ 17 TzBfG)
 
-Das Arbeitsgericht Berlin ist sachlich und örtlich zuständig (§§ 2 Abs. 1 Nr. 3a, 8 ArbGG). Die Klagefrist des § 17 Satz 1 TzBfG (3 Wochen ab vereinbartem Vertragsende 28.02.2026) läuft am 20.03.2026 ab. Die Klage wird am 13.03.2026 eingereicht -- fristwahrend.
+Das Arbeitsgericht Berlin ist sachlich und örtlich zuständig (§§ 2 Abs. 1 Nr. 3a, 8 ArbGG). Die Klagefrist des § 17 Satz 1 TzBfG (3 Wochen ab vereinbartem Vertragsende 28.02.2026) endet rechnerisch am 21.03.2026; weil dies ein Samstag ist, verschiebt sich der Fristablauf gemäß § 193 BGB auf Montag, den 23.03.2026. Die Klage wird am 13.03.2026 eingereicht -- fristwahrend.
 
 2. Hauptantrag: Schriftformverstoß § 14 Abs. 4 TzBfG
 

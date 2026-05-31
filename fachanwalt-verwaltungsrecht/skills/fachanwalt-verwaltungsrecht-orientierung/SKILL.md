@@ -77,4 +77,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - **kanzlei-allgemein** fuer Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Auslaenderrecht.
-- **sozialrecht-kanzlei** Abgrenzung Sozialgericht vs. Verwaltungsgericht.
+- **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.

@@ -1,4 +1,4 @@
-# Testakte: Bereicherungs-Dreiecksverhaeltnis / Doppelverkauf Oldtimer Bischof-Hellberg / Bonn
+# Akte: Bereicherungs-Dreiecksverhaeltnis / Doppelverkauf Oldtimer Bischof-Hellberg / Bonn
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 661 KB) | PDF | [`gesamt-pdf/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn_gesamt.pdf`](gesamt-pdf/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 658 KB) | PDF | [`gesamt-pdf/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn_gesamt.pdf`](gesamt-pdf/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -147,11 +147,10 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 
 ---
 
-## Plugin-Hinweis
+## Bearbeitungsvermerk
 
-Diese Akte ist als Demonstrations-Testakte fuer das Plugin
-`bereicherungs-und-anfechtungsrecht-pruefer` konzipiert.
-Das Plugin soll anhand dieser Akte folgende Leistungen demonstrieren:
+Diese Akte ist fachlich dem Bereich Bereicherungs- und Anfechtungsrecht zugeordnet.
+Die Bearbeitung soll insbesondere folgende Leistungen abdecken:
 
 1. **Vollstaendige Pruefschema-Erstellung** für Leistungskondiktion und Eingriffskondiktion
 2. **Automatische Klassifizierung** von Dreiecksfaellen (Anweisungslagen)
@@ -163,7 +162,7 @@ Das Plugin soll anhand dieser Akte folgende Leistungen demonstrieren:
 
 ## Quellen (Gesamtliste)
 
-Folgende Rechtsquellen werden in dieser Testakte verwendet:
+Folgende Rechtsquellen werden in dieser Akte verwendet:
 
 - Paragraf 812 ff. BGB (Bereicherungsrecht): https://dejure.org/gesetze/BGB/812.html
 - Paragraf 129 ff. InsO (Insolvenzanfechtung): https://dejure.org/gesetze/InsO/129.html

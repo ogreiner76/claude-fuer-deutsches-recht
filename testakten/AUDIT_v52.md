@@ -4,6 +4,8 @@ Stand: 30.05.2026
 Bearbeiter: Claude (Codex-Audit-Lauf)
 Bearbeitungsmethode: Pattern-Grep über `testakten/`-Verzeichnis, anschliessend punktuelle Webverifikation einzelner Aktenzeichen über `bundesgerichtshof.de`, `dejure.org` und `bundesverfassungsgericht.de`. Nur frei einsehbare Quellen, keine kostenpflichtigen Datenbanken.
 
+Nachlauf 31.05.2026: Die als hoch priorisierten Punkte aus diesem Audit wurden nachgezogen, soweit sie noch im aktuellen Arbeitsstand vorhanden waren. Konkret: BGH VIII ZR 263/22 ist in der Energierecht-Akte auf 27.09.2023 korrigiert; Testakten-Verweise auf das frühere eigenständige Sozialrechts-Plugin sind in den Testakten-Übersichten auf `fachanwalt-sozialrecht` ersetzt; die § 17-TzBfG-Frist in der Vogt-Akte wurde auf 23.03.2026 korrigiert; sichtbare "Testakte"-Marker in einzelnen Aktenstücken und eingebetteten PDFs wurden entfernt. Die übrigen Verifikationshinweise bleiben bewusst als Prüfvermerke stehen, soweit die Akte selbst Recherche- oder Red-Team-Material abbildet.
+
 ## A. Halluzinierte Aktenzeichen
 
 Nachfolgend Verdachtsfälle: Aktenzeichen, deren Existenz in den geprueften oeffentlichen Quellen nicht eindeutig nachgewiesen werden konnte oder deren Datum von der publizierten Entscheidung abweicht. "Verdacht" bedeutet nicht zwingend Falschzitat, sondern Verifikationsbedarf vor Verwendung.
@@ -89,7 +91,7 @@ Stichprobenartige Pruefung im Zwischenraum Bescheid/Widerspruch.
 
 ### D.1 Verweis auf nicht (mehr) existierendes Plugin
 
-- `testakten/README.md:69` und `testakten/sozialrecht-rollstuhl-tannenberg/README.md:109` verweisen auf `sozialrecht-kanzlei` als Plugin. Das Plugin existiert nicht. Existierende Plugins: `fachanwalt-sozialrecht` (mit Skill `sozialrecht-fallaufnahme-routing`, der in der Testakte ebenfalls referenziert wird), und `selbstvertreter-sozialgericht`. Korrekturvorschlag: in beiden Stellen `fachanwalt-sozialrecht` oder eine entsprechende Klammer mit beiden Alternativen.
+- `testakten/README.md:69` und `testakten/sozialrecht-rollstuhl-tannenberg/README.md:109` verwiesen auf ein früheres eigenständiges Sozialrechts-Plugin. Dieses Plugin existiert nicht mehr als Top-Level-Plugin. Existierende Plugins: `fachanwalt-sozialrecht` (mit Skill `sozialrecht-fallaufnahme-routing`, der in der Testakte ebenfalls referenziert wird), und `selbstvertreter-sozialgericht`. Stand Nachlauf: in den Übersichten auf `fachanwalt-sozialrecht` korrigiert.
 
 ### D.2 Bestaetigt vorhanden
 
@@ -146,7 +148,7 @@ Anzahl Dateien mit Mischfall: 25. Komplette Liste unter `find testakten -name "*
 ## G. Empfohlene Massnahmen (Priorisierung)
 
 1. **Hoch:** Datumskorrektur BGH VIII ZR 263/22 (energierecht-Akte) auf 27.09.2023.
-2. **Hoch:** Korrektur Plugin-Querverweis `sozialrecht-kanzlei` → `fachanwalt-sozialrecht` an zwei Stellen.
+2. **Hoch:** Korrektur des früheren Sozialrechts-Plugin-Querverweises auf `fachanwalt-sozialrecht` an zwei Stellen.
 3. **Mittel:** Sprachliche Korrektur "Antragsgegnerin" → "Antragsteller" in Eilantrag Sozialrecht.
 4. **Mittel:** Sammelpruefung der mit "verifizieren" markierten BGH-Aktenzeichen in der WEG-Akte; sukzessives Auflösen.
 5. **Niedrig:** Umlauthygiene auf Aktenebene vereinheitlichen (25 Mischdateien).

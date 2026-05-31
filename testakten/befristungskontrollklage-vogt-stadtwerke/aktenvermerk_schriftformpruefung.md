@@ -129,7 +129,7 @@ Klageschrift aufgeführt werden (Subsidiarität gegenüber dem Schriftformversto
 |---|---|---|
 | Schriftformverstoß § 14 Abs. 4 TzBfG | **Sehr stark** — E-Mail + Scan genügt nicht § 126 BGB | **Primär** |
 | Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG | Vertretbar, aber streitig | Subsidär |
-| 3-Wochen-Frist § 17 TzBfG | Frist läuft 20.03.2026 — kaum noch Zeit | Sofortmaßnahme |
+| 3-Wochen-Frist § 17 TzBfG | Frist läuft wegen Samstag erst am 23.03.2026 ab; Klage dennoch sofort einreichen | Sofortmaßnahme |
 
 **Empfehlung:** Unverzügliche Einreichung der Befristungskontrollklage beim ArbG Berlin
 mit dem Hauptantrag auf Feststellung des Fortbestehens des Arbeitsverhältnisses (gestützt

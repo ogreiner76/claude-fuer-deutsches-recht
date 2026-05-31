@@ -89,8 +89,8 @@
 
 ---
 
-## 5. Hinweis zur Testakte
+## 5. Quellen- und Arbeitsvermerk
 
-Diese Akte ist eine **Demonstrationsakte** fuer das Plugin `aktenaufbereiter-strafrecht`. Alle Personen, Aktenzeichen, Adressen, Kanzleinamen und Verfahrensdetails sind fiktiv. Die Rechtsausfuehrungen orientieren sich an der tatsaechlichen deutschen Rechtslage (StGB, StPO, IRG, JVollzG BW, RiVASt) und BGH-Rechtsprechung; sie ersetzen keine Rechtsberatung.
+Diese Arbeitsakte wird intern zur Strukturierung der Verteidigungsstrategie gefuehrt. Namen, Aktenzeichen, Adressen und Verfahrensdetails sind vor einer Verwendung im echten Mandat mit der Originalakte abzugleichen. Die Rechtsausfuehrungen orientieren sich an StGB, StPO, IRG, JVollzG BW, RiVASt und frei verifizierbarer Rechtsprechung; sie ersetzen keine abschliessende anwaltliche Pruefung.
 
 **Quellen-Uebersicht (dejure.org):** §§ 46, 73, 73a, 244a, 249, 250, 261 StGB; §§ 94, 99, 100a, 100b, 100g, 111b, 112, 116, 117, 119, 121, 136, 147, 163f, 240, 244, 257b, 257c, 304, 395, 396, 397, 403, 422, 455, 464a StPO; § 59 IRG; § 21a PolG BW; § 55 JVollzG BW; BGH 5 StR 457/21; BVerfG 2 BvR 2628/10; BVerfG NJW 2008, 2919; BVerfG NJW 2019, 905.

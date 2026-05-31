@@ -50,7 +50,7 @@ Elif Baran-Schlosser
 
 ---
 
-*Hinweis: Dieses Schreiben ist ein Musterbeispiel aus der Testakte der Rechtsberatungsstelle BSBZ Kalk.*
+*Interner Formulierungsstand der Rechtsberatungsstelle BSBZ Kalk; Versand erst nach Prüfung der Forderungsabtretung und der Anlagen.*
 
 ## Quellen
 

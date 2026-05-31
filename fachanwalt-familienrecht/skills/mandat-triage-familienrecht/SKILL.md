@@ -79,7 +79,7 @@ Strukturierte Eingangsabfrage beim Erstkontakt — verhindert falsche Spur, iden
 - Vermögen geschätzt (Immobilie Sparvermögen Unternehmensbeteiligungen)
 - Streitwert-Schätzung
 
-**Routing PKH:** Bei knappem Einkommen Hinweis auf Prozesskostenhilfe-Antrag. Skill `prozesskostenhilfe-antrag` aus sozialrecht-kanzlei (sofern verfügbar) oder eigener Entwurf.
+**Routing PKH:** Bei knappem Einkommen Hinweis auf Prozesskostenhilfe-Antrag. Sozialrechtliche Bedürftigkeits- und Leistungsfragen bei Bedarf an `fachanwalt-sozialrecht` routen; PKH-Antrag sonst als eigener Entwurf.
 
 ### Frage 7 — Fristen?
 

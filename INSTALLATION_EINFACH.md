@@ -77,7 +77,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
 | `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
 | `nachbarschaftsstreit-pruefer.zip`        | Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun, Immissionen, Baugrube, Notweg, Hammerschlagsrecht, Beweise, Schreiben und Vergleich |
-| `sozialrecht-kanzlei.zip`                 | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
+| `fachanwalt-sozialrecht.zip`              | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
 | `steuerrecht-anwalt-und-berater.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
 | `verfassungsrecht.zip`                    | Verfassungsbeschwerde, GG-Auslegung, BVerfG-Verfahren                                                                      |
 | `betreuungsrecht.zip`                     | Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und verdächtige Verträge (BtOG, §§ 1814 ff. BGB)                                          |
@@ -122,7 +122,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`   | `betreuungsrecht`                                            |
 | `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | `einfache-leichte-sprache-jura`                              |
-| `testakte-sozialrecht-rollstuhl-tannenberg.zip`            | `sozialrecht-kanzlei`                                        |
+| `testakte-sozialrecht-rollstuhl-tannenberg.zip`            | `fachanwalt-sozialrecht`                                     |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | `insolvenzforderungsanmeldungspruefung` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | `insolvenzplan-starug-planwerkstatt` |

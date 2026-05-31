@@ -34,7 +34,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollsta
 
 <!-- END plugin-testakten-section (autogen) -->
 
-Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen sozialrecht-kanzlei.
+Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen fachanwalt-sozialrecht und kanzlei-allgemein.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

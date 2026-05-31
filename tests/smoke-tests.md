@@ -59,7 +59,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/sozialrecht-rollstuhl-tannenberg/`.
 
-**Schritt 1 — Kaltstart:** `/sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
+**Schritt 1 — Kaltstart:** `/fachanwalt-sozialrecht:sozialrecht-kanzlei-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
 
 **Schritt 2 — Widerspruch:** Widerspruchsschrift gegen Kostenträger.
 

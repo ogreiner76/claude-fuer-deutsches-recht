@@ -103,9 +103,10 @@ Hilfsargument vertretbar, aber kein Hauptstreitpunkt.
 
 - Vertragsende: 28.02.2026
 - Fristbeginn: 28.02.2026
-- **Fristablauf: 20.03.2026 (Freitag)**
+- Rechnerischer Fristablauf: 21.03.2026 (Samstag)
+- Ablauf wegen § 193 BGB: **23.03.2026 (Montag)**
 - Heutiges Datum: 09.03.2026
-- **Verbleibende Zeit: 11 Tage → Klage muss diese Woche eingereicht werden!**
+- **Verbleibende Zeit: 14 Tage; Klage soll trotzdem diese Woche eingereicht werden.**
 
 ---
 
