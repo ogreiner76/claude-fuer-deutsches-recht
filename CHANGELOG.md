@@ -1,3 +1,48 @@
+# v52.0.0 — Testakten-Veredelung, Praktiker-Tipps und Audit-Fixes
+
+User-Wunsch: Zehn dünne Testakten zu echten Arbeitsakten ausbauen, in DFG- / Forschungszulage- / DBA-Skills die Tipps und Tricks der alten Hasen ergänzen und Codex-Findings reparieren.
+
+## Testakten — massiv ausgebaut (10 Akten)
+
+Aus 16-35 KB Gesamt-PDF wurden 76-383 KB. Jede Akte enthält jetzt zusätzlich 3-5 neue realistische Dokumente (Mandatsnotizen, Eilanträge, EML-Dateien mit Headern, CSV-/JSON-Anlagen, Aktenvermerke, Befangenheitsanträge, Compliance-Memos). Bestehende Stub-Dokumente wurden auf 60-130 Zeilen vertieft.
+
+- `verlagsredaktion-morgenlage-fachverlag` (16 → 85 KB)
+- `grunderwerbsteuer-sharedeal-closing-waldkrone` (19 → 107 KB, Closing Memo, Tax Indemnity Letter, Step Plan, BMF-Anwendungserlass)
+- `grundsteuer-rosenwinkel-bescheidkette` (20 → 105 KB, Grundsteuer-A vs. -B Verwechslung, Einsprüche, Eigentümerbrief)
+- `lobbyregister-buergerinitiative-waldmoor` (26 → 98 KB, Vorstandssitzung, Bundestags-Korrespondenz, Pressetext)
+- `bgb-at-altfraenkische-werkstatt` (26 → 105 KB, Anfechtungserklärung, Werkstattmeister-Notizen, Eltern-Mail-Konflikt)
+- `meinungspruefer-grenzfaelle-alltag` (28 → 87 KB, Anwalts-Mahnung, Polizei-Anzeige, Whistleblower-Statement)
+- `lobbyregister-public-affairs-agentur-wasserstoff` (29 → 129 KB, BMWi-Briefing, Honorarrechnung mit Aufwandsstunden, Compliance-Memo)
+- `sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` (30 → 76 KB, Befangenheitsantrag, Gegen-Gutachten, Mandanten-Mail)
+- `einfache-leichte-sprache-jura-mandantenbrief` (31 → 96 KB, zwei zusätzliche Mandantenbriefe mit Vergleichsdokumenten schwer→einfach→leicht, BITV-Hinweis)
+- `ki-vo-konformitaetsbescheinigung-bewerberpilot` (35 → 83 KB, EU-Konformitätserklärung, DSFA, Bias-Audit-Bericht, Bewerber-Beschwerde)
+
+Plus Gesamt-PDF-Regeneration für die geboosteten Akten und für `energierecht-stadtwerke-quartier` und `sozialrecht-rollstuhl-tannenberg`, in denen Audit-Fixes eingeflossen sind.
+
+## Audit-Fixes
+
+`testakten/AUDIT_v52.md` neu — Repository-weite Fehlersuche durch Background-Agent (Pattern-Grep plus Webverifikation).
+
+- **A.1 (sicher falsch):** `energierecht-stadtwerke-quartier/04_vertraege/waermeliefervertrag_hafenbogen.md` zitierte BGH VIII ZR 263/22 mit Datum 06.03.2024. Korrekt verkündet am 27.09.2023 (verifiziert über dejure.org). Datum gefixt.
+- **D (Plugin-Querverweis):** Vier Stellen verwiesen auf das nicht existierende Plugin `sozialrecht-kanzlei` — durch `fachanwalt-sozialrecht` ersetzt (in `testakten/README.md`, `sozialrecht-rollstuhl-tannenberg/README.md`, `Bildbeschreibung_Rollator_kaputt.md`, `Wohnungsskizze_Mandant_Beschreibung.md`).
+- **C (Sprachfehler):** `sozialrecht-rollstuhl-tannenberg/01-olaf-rollstuhl/Eilantrag_SG_Kiel_25-08-2026.md` hatte "Antragsgegnerin stellt den Antrag" — auf "Antragsteller hat bei der Antragsgegnerin den Antrag gestellt" korrigiert.
+- Verdachtsfälle mit "verifizieren"-Markern wurden belassen — die Akten weisen sich selbst als prüfungsbedürftig aus (z. B. WEG-Hohenzollernhof Anfechtungsrisiko-Matrix).
+
+## DFG / Forschungszulage / DBA — Praktiker-Tipps und Trade-offs
+
+Aus PR #160 in der vorigen Session (auf v51 zurückgemerged; hier in Kontext gehalten):
+
+- DFG-Plugin: 10 Skills von 378 auf 1753 Zeilen geboostet — Karrierestand-Matching, Reviewer-Killersatz-Tabelle, Drei-Brillen-Red-Team, Stellungnahme bei Wiedereinreichung.
+- Forschungszulage-Plugin: 11 Skills auf 131-167 Zeilen — BSFZ-Trigger, Q1-Antragsstrategie, Stundenaufzeichnungs-Struktur, AGVO-Kumulierung, Mehrjahresantrag.
+- DBA-Skills im Steuer-Plugin: 56 Skills mit länderspezifischen BZSt-/Cerfa-/Modelo-/Form-Hinweisen, Trade-off-Tabellen, Berechnungsbeispielen, Pillar Two, Estonian Tax Model, USA-LoB, Russland-Suspendierung (PR #161 differenzierte 30.12.2023 → ab 01.01.2024 in voller Reichweite, Übergangszeitraum 08.08.2023–31.12.2023 separat).
+
+## Versionen und Übersichten
+
+- SKILLS.md Stand `v52.0.0`.
+- README.md "Letzter Release" `v52.0.0`.
+- Validator (`scripts/validate-plugin-structure.mjs`, `scripts/validate-testakten-gesamt-pdf.py`) durchgehend grün.
+- Plugin-Versionen unverändert — diese Release-Linie ist eine Testakten-Veredelung, keine Skill-Reform.
+
 # v51.4.0 — Sofort-Download-Box in jedem Plugin-README
 
 User-Beschwerde: "beim Word-Plugin ist im README nicht direkt der Link zum Download des Plugins. Es soll bei jedem Plugin-README sofort das Plugin als ZIP-File und dann auch immer die Testakte als ZIP und als PDF herunterladbar sein." Bisher gab es zwar in jedem Plugin-README einen Plugin-ZIP-Link, beim Word-Plugin aber erst weit unten in der Installation-Sektion. Das ist jetzt fuer alle 110 Plugins einheitlich oben.
