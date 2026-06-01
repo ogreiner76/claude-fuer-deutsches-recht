@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v53.4.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v53.5.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -45,8 +45,8 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (54 Skills)
 - [fachanwalt-it-recht](./fachanwalt-it-recht.md) (54 Skills)
 - [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (54 Skills)
-- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (54 Skills)
-- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (54 Skills)
+- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (225 Skills)
+- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (376 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (83 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (54 Skills)
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (54 Skills)

@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **6943 Skills** in **118 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **7436 Skills** in **118 Plugins**.
 
-Stand: `v53.4.0`.
+Stand: `v53.5.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 6943 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 7436 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -79,8 +79,8 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **fachanwalt-internationales-wirtschaftsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-internationales-wirtschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
 | **fachanwalt-it-recht** | 54 | [Skills ansehen](skills-index/fachanwalt-it-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-it-recht.zip) |
 | **fachanwalt-medizinrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-medizinrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |
-| **fachanwalt-miet-wohnungseigentumsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-miet-wohnungseigentumsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
-| **fachanwalt-migrationsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-migrationsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
+| **fachanwalt-miet-wohnungseigentumsrecht** | 225 | [Skills ansehen](skills-index/fachanwalt-miet-wohnungseigentumsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
+| **fachanwalt-migrationsrecht** | 376 | [Skills ansehen](skills-index/fachanwalt-migrationsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
 | **fachanwalt-sozialrecht** | 83 | [Skills ansehen](skills-index/fachanwalt-sozialrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
 | **fachanwalt-sportrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-sportrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) |
 | **fachanwalt-strafrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-strafrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht.zip) |

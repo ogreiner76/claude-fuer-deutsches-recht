@@ -25,10 +25,10 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 118 |
-| **Skills (SKILL.md)** | 6943 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 7436 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 128 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v53.4.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v53.5.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -212,8 +212,8 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-it-recht`](./fachanwalt-it-recht) | Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein. |
 | [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
-| [`fachanwalt-miet-wohnungseigentumsrecht`](./fachanwalt-miet-wohnungseigentumsrecht) | Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraummiete und Gewerberaummiete. Mieterhoehung §§ 558 ff. Kündigung §§ 543 569 573 BGB. WEG-Beschlussanfechtung § 44 WEG. BetrKV. Schnittstellen kanzlei-allgemein. |
-| [`fachanwalt-migrationsrecht`](./fachanwalt-migrationsrecht) | Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle. |
+| [`fachanwalt-miet-wohnungseigentumsrecht`](./fachanwalt-miet-wohnungseigentumsrecht) | Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills: Wohnraum, Gewerberaum, Betriebskosten, Heizkosten, CO2-Kosten, Kündigung, Räumung, Mängel, Modernisierung, Mietpreisbremse, Kaution, WEG-Beschlüsse, Hausverwaltung, bauliche Veränderungen, GEG/Wärmepumpe, E-Ladung, Photovoltaik, Protokolle, Beweise, Fristen und Schriftsatz-/Beschlussentwürfe. |
+| [`fachanwalt-migrationsrecht`](./fachanwalt-migrationsrecht) | Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills: Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und Staaten-/Gebietschecks inklusive Palästina, Nordzypern und Westsahara; mit spanischer/einfacher Erklärung. |
 | [`fachanwalt-sozialrecht`](./fachanwalt-sozialrecht) | Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch. |
 | [`fachanwalt-sportrecht`](./fachanwalt-sportrecht) | Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht. |
 | [`fachanwalt-strafrecht`](./fachanwalt-strafrecht) | Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein. |

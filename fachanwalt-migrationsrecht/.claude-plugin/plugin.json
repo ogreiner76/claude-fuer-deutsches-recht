@@ -1,22 +1,27 @@
 {
   "name": "fachanwalt-migrationsrecht",
-  "version": "53.4.0",
-  "description": "Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.",
+  "version": "53.5.0",
+  "description": "Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "keywords": [
-    "migrationsrecht",
-    "auslaenderrecht",
-    "fachanwalt",
-    "aufenthg",
     "asylg",
-    "gfk",
+    "aufenthg",
+    "auslaenderrecht",
+    "blaue-karte",
     "dublin",
-    "stag",
     "einbuergerung",
-    "familiennachzug"
+    "fachanwalt",
+    "fachkraefte",
+    "familiennachzug",
+    "geas",
+    "gfk",
+    "migrationsrecht",
+    "spanisch",
+    "staatencheck",
+    "stag"
   ]
 }

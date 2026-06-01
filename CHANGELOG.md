@@ -1,3 +1,20 @@
+# v53.5.0 — Miet/WEG und Migrationsrecht auf Großformat
+
+Ausbau der beiden Fachanwalts-Plugins `fachanwalt-miet-wohnungseigentumsrecht` und `fachanwalt-migrationsrecht` auf große, workflowstarke Skillsets.
+
+## Schwerpunkt
+
+- `fachanwalt-miet-wohnungseigentumsrecht` auf 225 Skills erweitert: Laienmodus, First-Year-Coach, Wohnraum, Gewerberaum, Betriebskosten, Heizkosten, CO2-Kosten, Kündigung/Räumung, Modernisierung, Mietpreisbremse, WEG-Beschlüsse, Hausverwaltung, bauliche Veränderungen, GEG/Wärmepumpe, E-Ladung, Photovoltaik, Beweis- und Fristenworkflows.
+- `fachanwalt-migrationsrecht` auf 376 Skills erweitert: stärkere Kaltstartführung, einfache Sprache, Spanisch-Modus, Blaue Karte EU, Fachkräfte, Chancenkarte, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Staatenlosigkeit und Staaten-/Gebietschecks für nahezu alle relevanten Herkunfts-, Transit- und Zielstaaten einschließlich Palästina, Nordzypern und Westsahara.
+- Quellenanker für amtliche Normtexte, BGH/BAMF/BMI/Auswärtiges Amt, EUR-Lex, EUAA, UNHCR, HUDOC und Council of Europe ergänzt.
+- Marketplace, Plugin-READMEs, Skill-Gesamtübersicht, Asset-Index und Haupt-README auf `v53.5.0` synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v53.4.0 — AGB-Recht-Prüfer mit 200 Skills
 
 Neues Plugin `agb-recht-pruefer` als großes Werkzeug für deutsches AGB-Recht: Prüfen, Entwerfen, Redlinen, Verhandeln, Rollout und Streitverteidigung.

@@ -1,16 +1,15 @@
 # AGB-Recht-Prüfer
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktülle Version (`latest`-Release).
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
 
 ### Plugin als ZIP
 
 | Inhalt | Download |
 | --- | --- |
-| **Dieses Plugin** (`agb-recht-prüfer`) | [`agb-recht-prüfer.zip`](https://github.com/Klotzkette/claude-für-deutsches-recht/releases/latest/download/agb-recht-prüfer.zip) |
+| **Dieses Plugin** (`agb-recht-pruefer`) | [`agb-recht-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/agb-recht-pruefer.zip) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 

@@ -1,6 +1,6 @@
 # agb-recht-pruefer
 
-**200 Skills** · Stand `v53.4.0`
+**200 Skills** · Stand `v53.5.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/README.md)
