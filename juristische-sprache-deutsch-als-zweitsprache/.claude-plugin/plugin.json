@@ -1,0 +1,10 @@
+{
+  "name": "juristische-sprache-deutsch-als-zweitsprache",
+  "version": "52.3.0",
+  "description": "Plugin fuer Menschen im deutschen Recht mit anderer Herkunftssprache: einfache Erklaerungen, Juristendeutsch, Bescheide, Schriftsaetze, Grammatik, Fristen und Verfahrenslogik.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

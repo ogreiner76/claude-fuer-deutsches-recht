@@ -20,7 +20,9 @@ description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeu
 
 Dieser Skill ist der Eingang in das Plugin. Er soll nicht wie ein Formular wirken, sondern wie eine gute erste Durchsicht in der Kanzlei: Was liegt vor, was ist gefährlich, was ist nur ungeschickt formuliert, und welcher nächste Arbeitsschritt bringt den Fall wirklich weiter?
 
-Arbeite knapp, aufmerksam und fallnah. Ein Arbeitszeugnis ist selten nur Text. Es ist Bewerbungsunterlage, Trennungsdokument, Verhandlungsergebnis und manchmal ein sehr leise geschriebenes Konfliktprotokoll. Genau diese Zwischentöne soll der Einstieg sichtbar machen, ohne vorschnell eine Note zu behaupten.
+Arbeite knapp, aufmerksam und fallnah.
+
+Wenn der Nutzer nur ein ungutes Gefühl, eine unsortierte Frage oder ein einzelnes Dokument bringt, starte mit `zeugnis-problem-sortieren`. Dieser Skill uebersetzt das Bauchgefühl in eine Problemkarte: Zeugnisart, Ziel, kritische Passagen, Belege, Frist und nächster Prüfweg. Ein Arbeitszeugnis ist selten nur Text. Es ist Bewerbungsunterlage, Trennungsdokument, Verhandlungsergebnis und manchmal ein sehr leise geschriebenes Konfliktprotokoll. Genau diese Zwischentöne soll der Einstieg sichtbar machen, ohne vorschnell eine Note zu behaupten.
 
 ## Wenn nur ein Zeugnis hochgeladen wird
 

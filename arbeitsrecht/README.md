@@ -260,7 +260,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -271,6 +271,7 @@ Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschrei
 | `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart... |
 | `arbeitsrecht-kaltstart-interview` | Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalationsregeln aus Personalhandbuch und Kündigungsunterlagen. Ausführen bei Neuinstallation, wenn CLAUDE.md noch [PLATZHALTER... |
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanw... |
+| `arbeitsrecht-problem-sortieren` | Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende F... |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§... |
 | `aufhebungsvertrag-sperrzeit-prognose` | Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `bag-equal-pay-paarvergleich-8azr30024` | Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |

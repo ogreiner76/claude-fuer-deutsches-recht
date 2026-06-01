@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 110 |
-| **Skills (SKILL.md)** | 2682 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 127 |
+| **Plugins** | 112 |
+| **Skills (SKILL.md)** | 2891 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 128 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v52.2.2` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v52.3.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -239,6 +239,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`insolvenzverwaltung`](./insolvenzverwaltung) | Freistehendes Insolvenzverwaltungs-Cockpit aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Regelverfahren, Eigenverwaltung, Schutzschirm, Masse, Anfechtung, § 15b InsO, Forderungsprüfung, Insolvenzplan-/StaRUG-Planwerkstatt, § 208 InsO, Berichte, Schlussrechnung und Verteilung. |
 | [`jurastudium`](./jurastudium) | Werkzeuge für Studium und Referendariat: Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte (röm. Recht/BGB-Genese, NS-Justiz/Radbruchsche Formel, SED-Unrecht, GG 1949, Unionsrecht), Lernstrategien, Tatbestände lernen, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. Lernmodus, kein Antwortmodus. |
 | [`jveg-kostenpruefer`](./jveg-kostenpruefer) | Freistehender JVEG-Kostenprüfer: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen-/Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. |
+| [`juristische-sprache-deutsch-als-zweitsprache`](./juristische-sprache-deutsch-als-zweitsprache) | Plugin für Menschen im deutschen Recht mit anderer Herkunftssprache: erklärt Juristendeutsch, Behördenbriefe, Bescheide, Verträge, Fristen, Formulare, Gerichtstermine und Schriftsätze respektvoll in verständlichem Deutsch und hilft beim Formulieren ohne Inhaltsverlust. |
 | [`kanzlei-allgemein`](./kanzlei-allgemein) | Kanzlei-Allgemein-Plugin mit edlem Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Copilot, Mandatsannahme/GwG, KYC, PEP, Aktenanlage, Kontoblatt, Schreib-Canvas, Klage/Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, beA, Fristen, Rechnung, Geschäftskonto, Bankmatching, XRechnung, UStVA und Simulation. |
 | [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills. |
 | [`kartellrecht-marktabgrenzung-pruefung`](./kartellrecht-marktabgrenzung-pruefung) | Hochspezialisierte kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen (eigenes Team, gegnerische Partei, Behörde). § 18 GWB, Art. 101 und Art. 102 AEUV, EU-Bekanntmachung Marktdefinition 2024. SSNIP-Test, Nachfrage-/Angebotssubstitution, räumlicher Markt, Evidenzbasierung, Konsistenzcheck, Red Flags, alternative Marktdefinitionen, Marktbeherrschung und Rechtsprechung nur nach Live-Verifikation. |
@@ -367,7 +368,7 @@ Wenn Nutzerinnen und Nutzer auf dem Mac scheitern, liegt es häufig an der herun
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 110 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 112 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash
@@ -422,7 +423,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `memorandums-ersteller`, `tabellenreview-3d`
 - **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-builder-hub`, `rechtsberatungsstelle`, `verlagsredaktion`
 - **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
-- **Drafting & Word** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (38 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht)
+- **Drafting & Sprache** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (39 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Entwurfscheck/Red Team, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht), `juristische-sprache-deutsch-als-zweitsprache` (Juristendeutsch, Bescheide, Fristen und Formulare für Nichtmuttersprachler)
 
 Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [`references/rechtsgebiete-uebersicht.md`](./references/rechtsgebiete-uebersicht.md). Die kompakte Plugin-Liste findest du im Abschnitt ["Was ist drin?"](#was-ist-drin) weiter oben.
 

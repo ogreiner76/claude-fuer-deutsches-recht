@@ -170,7 +170,7 @@ Dieses Plugin folgt der einheitlichen Versionierung des Repositories `claude-fue
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 38 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 39 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -189,6 +189,7 @@ Automatisch generierte Komplett-Liste aller 38 Skills in diesem Plugin. Beschrei
 | `dokumentarchitektur-vertrag-und-schriftsatz` | Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubr... |
 | `drafting-prinzipien-klarheit-bestimmtheit-praezision` | Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessig... |
 | `englischer-vertrag-deutsches-recht` | Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity,... |
+| `entwurfscheck-aktenabgleich-red-team` | Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand, Ton und Ausgabezweck. Findet Abweichungen, unbewiesene Behauptungen, fehlende Antraege, schwache Argumente und riskante Formulierungen. |
 | `finaler-writing-quality-gate` | Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandf... |
 | `force-majeure-und-erschwerung-313-bgb` | Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt... |
 | `geheimhaltung-nda-vertraulichkeit` | Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten,... |

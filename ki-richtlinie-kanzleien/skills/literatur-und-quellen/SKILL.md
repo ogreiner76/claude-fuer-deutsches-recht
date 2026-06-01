@@ -1,6 +1,6 @@
 ---
 name: literatur-und-quellen
-description: "Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise 12/2024, DAV-Stellungnahme 32/2025, Braegelmann KIR 2024, KI-VO EU 2024/1689. Prüfraster Kernliteratur Berufsrecht Datenschutz KI-VO, Recherche aktueller Entwicklungen, offene Aktualisierungsliste für neue Entscheidungen. Output kommentierte Quellenliste mit Relevanz-Einordnung und Update-Pflicht. Abgrenzung zu Richtlinien-Update-Zyklus und zu Berufsrecht-Bausteine."
+description: "Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-Kommissionsmaterial, BNetzA-Hinweise und KI-VO EU 2024/1689. Prüfraster Kernliteratur Berufsrecht Datenschutz KI-VO, Recherche aktueller Entwicklungen, offene Aktualisierungsliste für neue Entscheidungen. Output kommentierte Quellenliste mit Relevanz-Einordnung und Update-Pflicht. Abgrenzung zu Richtlinien-Update-Zyklus und zu Berufsrecht-Bausteine."
 ---
 
 # Literatur und Quellen
@@ -46,8 +46,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - DAV, Initiativ-Stellungnahme zum Einsatz von KI in der Anwaltschaft, Stellungnahme Nr. 32/2025, Berlin, Juli 2025.
 
 **Wissenschaftliche Literatur:**
-- Braegelmann, Tom, KI-VO und Compliance — aktuelle Brennpunkte, KIR 2024, 39-42.
-- Braegelmann, Tom, KI in der Anwaltschaft, Kammerton RAK Berlin, Ausgabe 07/08-2025.
 - Martini/Wendehorst (Hrsg.), KI-VO — Kommentar zur Verordnung (EU) 2024/1689, 1. Aufl.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

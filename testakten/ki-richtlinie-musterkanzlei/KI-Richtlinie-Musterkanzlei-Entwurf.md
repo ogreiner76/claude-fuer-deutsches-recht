@@ -494,9 +494,6 @@ BRAK, Hinweise zum Einsatz von künstlicher Intelligenz (KI), Stand: Dezember 20
 
 DAV, Initiativ-Stellungnahme zum Einsatz von KI in der Anwaltschaft, Stellungnahme Nr. 32/2025, Berlin, Juli 2025.
 
-Braegelmann, KI-VO und Compliance - aktuelle Brennpunkte, KIR 2024, 39-42.
-
-Braegelmann, KI in der Anwaltschaft, Kammerton RAK Berlin, 07/08-2025
 
 FAQ der EU zur KI-Kompetenz
 

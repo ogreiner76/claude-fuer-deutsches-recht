@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v52.2.2`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v52.3.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -11,9 +11,9 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (2 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (21 Skills)
 - [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (2 Skills)
-- [arbeitsrecht](./arbeitsrecht.md) (80 Skills)
-- [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (32 Skills)
-- [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (20 Skills)
+- [arbeitsrecht](./arbeitsrecht.md) (81 Skills)
+- [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (33 Skills)
+- [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (100 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (12 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (18 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (98 Skills)
@@ -43,7 +43,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (16 Skills)
 - [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (13 Skills)
 - [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (16 Skills)
-- [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (33 Skills)
+- [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (83 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (16 Skills)
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (20 Skills)
 - [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (16 Skills)
@@ -69,8 +69,9 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [insolvenzrecht](./insolvenzrecht.md) (16 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (46 Skills)
 - [jurastudium](./jurastudium.md) (23 Skills)
+- [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (50 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (20 Skills)
-- [kanzlei-allgemein](./kanzlei-allgemein.md) (48 Skills)
+- [kanzlei-allgemein](./kanzlei-allgemein.md) (49 Skills)
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (13 Skills)
 - [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (25 Skills)
 - [ki-governance](./ki-governance.md) (11 Skills)
@@ -94,7 +95,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [patentrecht](./patentrecht.md) (20 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (2 Skills)
 - [produktrecht](./produktrecht.md) (10 Skills)
-- [prozessrecht](./prozessrecht.md) (26 Skills)
+- [prozessrecht](./prozessrecht.md) (27 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (17 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (13 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (23 Skills)
@@ -114,8 +115,8 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [vertragsausfueller](./vertragsausfueller.md) (15 Skills)
 - [vertragsrecht](./vertragsrecht.md) (17 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (33 Skills)
-- [weg-hausverwaltung](./weg-hausverwaltung.md) (28 Skills)
-- [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (38 Skills)
+- [weg-hausverwaltung](./weg-hausverwaltung.md) (29 Skills)
+- [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (39 Skills)
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (2 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (24 Skills)
 - [zwangsvollstreckung](./zwangsvollstreckung.md) (20 Skills)

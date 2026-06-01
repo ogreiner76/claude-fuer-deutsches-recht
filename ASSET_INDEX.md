@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v52.2.2 — Skillset-Sanity, Kurzskill-Boost und Release-Glattzug
+**Stand:** v52.3.0 — Skill-Erweiterung, Einstiegsworkflows und Release-Glattzug
 
 ## Asset-Typen
 
@@ -21,7 +21,7 @@
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Enthält alle Testaktenordner in Originalstruktur. **Kein Plugin-Archiv**; die Akten in den Chat bzw. Arbeitsordner ziehen. |
 | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Enthält alle Plugin-ZIPs, alle Testakten-ZIPs, `marketplace.json` und die zentralen Übersichten. |
 
-## Plugin-Assets (110 Stück)
+## Plugin-Assets (112 Stück)
 
 In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -298,4 +298,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v52.2.2` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v52.3.0` und `latest`: 244 Assets, davon 112 Plugin-ZIPs, 128 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

@@ -1,6 +1,6 @@
 # jurastudium
 
-**23 Skills** · Stand `v52.2.2`
+**23 Skills** · Stand `v52.3.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jurastudium/README.md)

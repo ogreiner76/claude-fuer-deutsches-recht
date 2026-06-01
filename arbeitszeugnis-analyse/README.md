@@ -57,7 +57,7 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 32 Skills sind sofort verfügbar.
+3. Fertig. Alle 33 Skills sind sofort verfügbar.
 
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
@@ -85,7 +85,7 @@ Rote Signale entstehen durch: das Wort "bemüht", Einschränkungen wie "im Wesen
 
 ## Enthaltene Skills
 
-Die 32 Skills sind alphabetisch geordnet:
+Die wichtigsten Skills sind alphabetisch geordnet; die vollständige automatisch generierte Liste steht weiter unten:
 
 | Skill | Funktion |
 |---|---|
@@ -117,6 +117,7 @@ Die 32 Skills sind alphabetisch geordnet:
 | `/arbeitszeugnis-analyse:verbesserungsvorschlaege-formulieren` | Konkrete Textvorschläge zur Aufwertung von roten und orangen Formulierungen |
 | `/arbeitszeugnis-analyse:verhaltensbeurteilung-analyse` | Verhalten zu Vorgesetzten, Kollegen, Kunden; Reihenfolge und Euphemismen |
 | `/arbeitszeugnis-analyse:widerspruechliche-bewertungen` | Widersprüche zwischen Leistungs-, Verhaltensteil und Schlussformel |
+| `/arbeitszeugnis-analyse:zeugnis-problem-sortieren` | Neuer Einstieg für unsortierte Fragen: Was ist eigentlich das Problem am Zeugnis? |
 | `/arbeitszeugnis-analyse:zeugnisart-erkennung` | Qualifiziertes/einfaches Zeugnis, Zwischen-/Endzeugnis, Ausbildungszeugnis |
 | `/arbeitszeugnis-analyse:zeugnis-ueberblick-extraktion` | Kopfdaten: Arbeitgeber, Arbeitnehmer, Zeitraum, Position, Unterschrift |
 | `/arbeitszeugnis-analyse:zufriedenheitsformel-decodierung` | Fünfstufige Zufriedenheitsformel von Note 1 bis Note 5 |
@@ -167,7 +168,7 @@ Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eine
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 33 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -200,6 +201,7 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschrei
 | `verbesserungsvorschlaege-formulieren` | Formuliert konkrete Verbesserungsvorschläge für orange und rote Zeugnissätze. Zeigt, wie aus einer Note-4-Formulierung eine Note-2-Formulierung wird — mit Gegenüberstellung Original/Vorschlag und Begründung der sprachlichen Änderung. |
 | `verhaltensbeurteilung-analyse` | Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu Vorgesetzten, Kollegen und Kunden. Decodiert die Reihenfolge der Genannten, Qualifikationswörter und die Bedeutung von Auslassungen als versteckte Signale. |
 | `widerspruechliche-bewertungen` | Erkennt und kommentiert Widersprüche im Arbeitszeugnis: wenn Leistungsteil grün, aber Schlussformel rot ist, oder wenn Einzelsätze sich inhaltlich ausschließen. Erklärt die Signalwirkung von Widersprüchen auf potenzielle neue Arbeitgeber. |
+| `zeugnis-problem-sortieren` | Allgemeiner Startskill fuer Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und naechsten Arbeitsweg. |
 | `zeugnis-ueberblick-extraktion` | Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbil... |
 | `zeugnisart-erkennung` | Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen... |
 | `zufriedenheitsformel-decodierung` | Decodiert die fünfstufige Zufriedenheitsformel deutscher Arbeitszeugnisse: von Note 1 bis Note 5. Tabellarische Ampelzuordnung aller Standardformulierungen mit Erklärung der sprachlichen Feinheiten und ihrer rechtlichen Bedeutung. |

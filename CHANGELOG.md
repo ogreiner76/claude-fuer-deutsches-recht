@@ -1,3 +1,28 @@
+# v52.3.0 — Außenwirtschaft, Sozialrecht-Laienhilfe und bessere Einstiege
+
+Sammelrelease mit neuen und vertieften Skills fuer Aussenwirtschaft, Sozialrecht, juristische Sprachhilfe und juristische Arbeitsmethodik.
+
+## Neue und erweiterte Skills
+
+- `aussenwirtschaft-zoll-sanktionen` auf 100 Skills erweitert: Exportkontrolle, Embargos, Sanktionen, BAFA, Zoll/TARIC, CBAM, AWV, Screening, Audit-Trail und Ermittlungs-/Selbstkorrekturworkflows.
+- `fachanwalt-sozialrecht` um 50 laienverstaendliche Skills erweitert: Bescheide, Widerspruch, Eilantrag, Pflegegrad, GdB, Krankenkasse, Buergergeld, EM-Rente, Gutachten, Fristen und Fehlervermeidung.
+- Neues Plugin `juristische-sprache-deutsch-als-zweitsprache` mit 50 Skills fuer Juristendeutsch, Bescheide, Fristen, Formulare, Gerichtstermine, eigene Formulierungen und respektvolle Sprachhilfe.
+- Bessere Einstiege in `arbeitsrecht` und `arbeitszeugnis-analyse`: neue Problem-sortieren-Skills fuer unsortierte Anfragen und Dokument-Uploads.
+- Querschnittliche Arbeitsmethodik ergaenzt: KI-Arbeitsauftrag-Briefing, Entwurfscheck/Aktenabgleich/Red Team, prozessuale Argumentationsverbesserung und WEG-TOP-Generator.
+
+## Release-Stand
+
+- Marketplace und Plugin-Manifeste auf `v52.3.0` synchronisiert.
+- `SKILLS.md`, `skills-index/`, Plugin-READMEs, Download-Bloecke und zentrale Uebersichten regeneriert.
+- Stand: 112 Plugins, 2891 Skills, 128 Testakten.
+
+## Checks
+
+- YAML-Frontmatter validiert.
+- Plugin-Struktur validiert.
+- Gesamt-PDF-Regel der Testakten validiert.
+- Whitespace-Diffcheck sauber.
+
 # v52.2.2 — Skillset-Sanity und Kurzskill-Boost
 
 Breiter Funktionscheck über alle 2.682 Skills mit Schwerpunkt Nutzbarkeit, Kaltstart, Geschwindigkeit und klare Ausgabe.

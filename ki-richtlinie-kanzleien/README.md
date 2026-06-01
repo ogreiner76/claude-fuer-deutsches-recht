@@ -84,7 +84,7 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 | `prompting-leitfaden` | Vier-Elemente-Methode für juristische Prompts: Ziel, Format, Kontext, Beispiel; Tipps und Tricks |
 | `richtlinien-update-zyklus` | Halbjährliches Review plus Trigger-Liste für sofortige Updates bei neuer Rechtslage |
 | `musterklauseln-it-vertrag` | § 43e-BRAO-Vereinbarung, Training-Opt-out, Löschpflichten, Auditrechte, Haftungsregelung |
-| `literatur-und-quellen` | Pflicht-Literatur und offene Aktualisierungsliste: BRAK, DAV, Braegelmann, EU-FAQ, BNetzA |
+| `literatur-und-quellen` | Pflicht-Literatur und offene Aktualisierungsliste: BRAK, DAV, EU-FAQ, BNetzA |
 
 ---
 
@@ -148,7 +148,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `ki-kompetenz-erwerb-plan` | KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompe... |
 | `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO... |
 | `ki-vo-hochrisiko-personalwesen` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bew... |
-| `literatur-und-quellen` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise 12/2024, DAV-Stellungnah... |
+| `literatur-und-quellen` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-... |
 | `musterklauseln-it-vertrag` | Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenhe... |
 | `prompting-leitfaden` | Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompte... |
 | `rdg-pruefung-chatbot` | Workflow-Skill zu rdg pruefung chatbot. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
