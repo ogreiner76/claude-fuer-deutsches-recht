@@ -214,7 +214,7 @@ vertragsrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 17 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -234,6 +234,9 @@ Automatisch generierte Komplett-Liste aller 17 Skills in diesem Plugin. Beschrei
 | `vertragsrecht-kaltstart-interview` | 'Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer "Plugin ein... |
 | `vertragsrecht-mandat-arbeitsbereich` | Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate... |
 | `vertragsverlaengerungs-monitor` | 'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt "welche Ver... |
+| `vr-agb-recht-grundzuege` | AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster. |
+| `vr-einfuehrung-vertragstypen-bgb` | Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle. |
+| `vr-leistungsstoerungen-spezial` | Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Pruefraster. |
 | `widerruf-fernabsatz` | Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder R... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

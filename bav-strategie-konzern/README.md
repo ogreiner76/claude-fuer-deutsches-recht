@@ -125,11 +125,13 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 18 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
+| `bav-einfuehrung-durchfuehrungswege` | Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz. |
+| `bav-grenzueberschreitend-mobil-spezial` | Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte fuer Mitarbeiter-Pakete. |
 | `buyout-im-ma-deal-asset-vs-share` | Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haft... |
 | `country-by-country-benefits-matrix-konzern` | Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Outp... |
 | `cta-contractual-trust-arrangement-strukturierung` | CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierung... |

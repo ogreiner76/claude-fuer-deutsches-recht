@@ -65,10 +65,14 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `agrar-einfuehrung-rechtsquellen` | Agrarrecht einfuehrend: Schluesselnormen BGB-Landpacht, GrdstVG, LPachtVG, LwAnpG, EU-GAP-Strategieplan, Duengeverordnung, BNatSchG, BImSchG, TierSchG. Pro Norm Anwendungsbereich, Behoerde, typische Mandantenfragen. Entscheidungstabelle. |
+| `agrar-foerderung-gap-strategieplan` | GAP-Strategieplan Deutschland und EU-Foerderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compli... |
+| `agrar-paechterbetrieb-spezial` | Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster m... |
+| `agrar-tierhaltung-spezial-tieg` | Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte. |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Agrarrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit` | Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nit... |

@@ -190,7 +190,7 @@ Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 17 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -206,6 +206,9 @@ Automatisch generierte Komplett-Liste aller 17 Skills in diesem Plugin. Beschrei
 | `mandanten-kommunikations-log` | Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentisch... |
 | `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige... |
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLIC... |
+| `rbs-beratungshilfe-und-pkh-praxis` | Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise. |
+| `rbs-einfuehrung-themen` | Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion fuer Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle. |
+| `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation. |
 | `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Stud... |
 | `rechtsberatungsstelle-anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezif... |
 | `rechtsberatungsstelle-kaltstart-interview` | Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG §... |

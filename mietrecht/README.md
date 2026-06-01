@@ -90,7 +90,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -106,6 +106,10 @@ Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschrei
 | `mietkaution-rueckforderung` | Workflow-Skill zu mietkaution rueckforderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine qualifizierte Ruege... |
 | `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsm... |
+| `mr-betriebskostenabrechnung-fehler-spezial` | Spezialfall fehlerhafte Betriebskostenabrechnung: formell und materiell pruefen, Belegrecht § 259 BGB, Einsichtnahme, Saumnis 12-Monatsfrist § 556 Abs. 3 BGB. Klage des Mieters auf Rueckzahlung. Pruefraster und Mustertexte. |
+| `mr-einfuehrung-vertragstypen` | Mietrecht einfuehrend: Wohnraum-, Gewerberaum-, Pacht-, Unter-, Index- und Staffelmiete. Schutzvorschriften pro Typ, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle. |
+| `mr-kuendigungsschutz-praxis` | Wohnraum-Kuendigungsschutz Praxis: ordentliche Kuendigung § 573 BGB nur bei berechtigtem Interesse, Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Kuendigung bei Pflichtverletzung, Zahlungsverzug. Sozialklausel § 574 BGB. Pruefraster. |
+| `mr-modernisierung-und-rolling-rent-spezial` | Spezialfall Modernisierungs-Umlage in der laufenden Mieterhoehung: Verhaeltnis § 559 BGB zur ortsueblichen Vergleichsmiete § 558 BGB, Kappungsgrenze, Haerteeinwand. Aktuelle Rechtsprechung BGH. Pruefraster. |
 | `nebenkostenabrechnung-erstellen` | Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel HeizkostenV Vorauszahlungen... |
 | `nebenkostenabrechnung-pruefen` | Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259... |
 | `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtuell... |

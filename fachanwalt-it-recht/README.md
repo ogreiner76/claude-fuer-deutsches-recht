@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -81,6 +81,10 @@ Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschrei
 | `fachanwalt-it-recht-saas-vertrag-verhandlung` | SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV... |
 | `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufre... |
 | `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe... |
+| `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills. |
+| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan. |
+| `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B. |
+| `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte. |
 | `mandat-triage-it-recht` | Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Fri... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `softwarefehler-mangelhaftung-pruefen` | Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertra... |

@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,6 +84,10 @@ Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschrei
 | `mandat-triage-urheber-medienrecht` | Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnah... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag... |
 | `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenweh... |
+| `urhmr-einfuehrung-rechtsfelder` | Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle. |
+| `urhmr-ki-generierter-content-spezial` | Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster. |
+| `urhmr-presserecht-gegendarstellung-spezial` | Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext. |
+| `urhmr-verwertungsgesellschaften-praxis` | Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte fuer Mandanten als Berechtigte und Nutzer. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungs... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
