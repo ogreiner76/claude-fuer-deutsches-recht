@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 117 |
-| **Skills (SKILL.md)** | 6743 — [Gesamtübersicht](./SKILLS.md) |
+| **Plugins** | 118 |
+| **Skills (SKILL.md)** | 6943 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 128 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v53.3.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v53.4.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -43,7 +43,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 ### Inhaltliche Cluster
 
-- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Äußerungsrecht/Meinungsfreiheit, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, digitale Barrierefreiheit, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Bürokratieverstehen, Vereinsrecht, Parteienrecht, Commercial Courts/englischsprachige Wirtschaftsverfahren, Zwangsvollstreckung.
+- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Äußerungsrecht/Meinungsfreiheit, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, AGB-Recht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, digitale Barrierefreiheit, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Bürokratieverstehen, Vereinsrecht, Parteienrecht, Commercial Courts/englischsprachige Wirtschaftsverfahren, Zwangsvollstreckung.
 - **Mechanik-Prüfer:** `bgb-at-pruefer` (BGB AT: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, Anfechtung, Stellvertretung, Verjährung, qES/beA/Formfiktion), `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung einschließlich KI-Schuldnerakten-Screening, § 135 InsO und Verteidigung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
 - **Werkstatt- und Werkstatt-Plugins:**
   - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundesministerien, Bundestag, Fraktionen/Opposition, Landesministerien, Landtage und sonstige Normgeber (Referentenentwurf Arial-Hausstil, BT-/Landtagsdrucksache, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe, Änderungsantrag, Antrag, Entschließungsantrag). DOCX/PDF im passenden offiziellen Layout.

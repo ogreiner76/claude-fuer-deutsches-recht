@@ -1,0 +1,22 @@
+{
+  "name": "agb-recht-pruefer",
+  "version": "53.4.0",
+  "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "agb",
+    "bgb",
+    "klauselkontrolle",
+    "vertragsrecht",
+    "verbraucherrecht",
+    "unternehmerverkehr",
+    "uklag",
+    "klauselentwurf",
+    "redlining",
+    "compliance"
+  ]
+}

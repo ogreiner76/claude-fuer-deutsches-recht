@@ -1,3 +1,20 @@
+# v53.4.0 — AGB-Recht-Prüfer mit 200 Skills
+
+Neues Plugin `agb-recht-pruefer` als großes Werkzeug für deutsches AGB-Recht: Prüfen, Entwerfen, Redlinen, Verhandeln, Rollout und Streitverteidigung.
+
+## Schwerpunkt
+
+- 200 neue Skills für AGB-Kaltstart, AGB-Entwurf, Live-Check auf Gesetze im Internet, Klauselinventar, B2C/B2B/B2B2C, Einbeziehung, § 305 bis § 310 BGB, UKlaG, Preisanpassung, Haftung, Laufzeit, Kündigung, Gewährleistung, digitale Bestellstrecken, SaaS, Cloud, Banking, Payment, Miete, Arbeit, Bau, Franchise, Marketplace, KI-Services und zahlreiche weitere Klausel-/Branchenfamilien.
+- Starker `allgemein`-Skill mit Weichenstellung `prüfen` oder `entwerfen`, stummem Upload, Quellenhygiene, Skill-Routing und Ausgabeformaten.
+- Quellenanker für BGB §§ 305 bis 310 und UKlaG auf Gesetze im Internet ergänzt.
+- Marketplace, Plugin-README, Skill-Gesamtübersicht, Asset-Index und Haupt-README auf `v53.4.0` synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v53.3.0 — Bank-Rechtsabteilung Spezial-Boost ZAG, PSD, eWpG und Tokenisierung
 
 Zweiter Ausbau des Plugins `bank-rechtsabteilung` von 50 auf 100 Skills. Schwerpunkt sind Spezialmaterien, die in einer Bank-Rechtsabteilung schnell schief werden können, wenn man sie nur als normales Bankrecht behandelt.
