@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -81,6 +81,10 @@ Automatisch generierte Komplett-Liste aller 16 Skills in diesem Plugin. Beschrei
 | `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen ü... |
 | `fachanwalt-iwr-icc-uncitral-schiedsverfahren` | Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung... |
 | `gerichtsstand-und-rechtswahl-pruefen` | Workflow-Skill zu gerichtsstand und rechtswahl pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `iwr-arbitration-ny-convention-spezial` | Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine. |
+| `iwr-cisg-anwendung-spezial` | Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster fuer Vertragsentwurf. |
+| `iwr-einfuehrung-rechtsquellen` | Internationales Wirtschaftsrecht einfuehrend: ROM I/II VO, EuGVVO Bruessel Ia, HKUe Vertragspflichten, UN-Kaufrecht CISG, Bilaterale Abkommen. Pro Quelle Anwendungsbereich, Schluesselbestimmungen, Beispiele. Entscheidungstabelle. |
+| `iwr-rechtswahl-gerichtsstand-praxis` | Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte fuer typische Konstellationen B2B und Verbraucher. |
 | `mandat-triage-iwr` | Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktion... |
 | `sanktions-compliance-pruefung` | Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russland-Paket 1–14), US-OFAC SDN-Liste, UK-HMT/OFSI, UN-Sicherheitsrat-Resolutionen. Asset-Freeze, sektorale Embargos, Dienstleistungsverbote, Re-Export-Klauseln. AWG §§ 18–1... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |

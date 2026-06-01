@@ -1,6 +1,6 @@
 # berufsrecht-ki-vertragspruefung
 
-**20 Skills** · Stand `v52.6.0`
+**20 Skills** · Stand `v52.7.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/README.md)
