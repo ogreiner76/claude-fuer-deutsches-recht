@@ -1,0 +1,33 @@
+{
+  "name": "robotik-recht",
+  "version": "53.6.0",
+  "description": "Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "robotikrecht",
+    "robotik",
+    "maschinenverordnung",
+    "ki-vo",
+    "ai-act",
+    "produkthaftung",
+    "produktsicherheit",
+    "prodsg",
+    "maschinenrecht",
+    "ce",
+    "konformitaet",
+    "marktueberwachung",
+    "cyber-resilience-act",
+    "data-act",
+    "datenschutz",
+    "mensch-roboter-interaktion",
+    "cobot",
+    "amr",
+    "serviceroboter",
+    "medizinrobotik",
+    "raas"
+  ]
+}

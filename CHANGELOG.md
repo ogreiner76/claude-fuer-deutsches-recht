@@ -1,3 +1,20 @@
+# v53.6.0 — Robotik-Recht-Plugin mit großer Demonstrationsakte
+
+Neues Plugin `robotik-recht` für physische Robotik in Deutschland und der EU: Maschinenverordnung, KI-VO, Produkthaftung, Produktsicherheit, Datenschutz, Cyber Resilience Act, Data Act, Medizinrobotik, Arbeitsschutz, Marktüberwachung, Rückruf, Verträge und Streitfall.
+
+## Schwerpunkt
+
+- `robotik-recht` neu mit 143 Skills: Kaltstart, Rollenmatrix, CE-/Produktakte, Maschinenverordnung, KI-VO Art. 3/5/6/Anhang III, Hochrisiko-KI, CRA/SBOM, Data Act, DSGVO/DSFA, Produkthaftung, Rückruf, Marktüberwachung, Robot-as-a-Service, Medizin-/Pflege-/Service-/Cobot-/AMR-Robotik und Litigation.
+- Neue Akte `robotikrecht-roboterflotte-vellbruck-muenchen` mit 69 Quelldateien und 184-seitigem Gesamt-PDF: Cobot-Werkbank, AMR-Flotte, Pflegepilot, Unfall, Betreiberänderung, Patch-Dilemma, Datenschutzbeschwerde, Behördenkontakt, Versicherer- und Lieferkettenstreit.
+- Quellenanker auf amtliche/frei zugängliche Quellen: EUR-Lex, Gesetze im Internet, BAuA, EU-Kommission, BGH und Safety Gate.
+- Marketplace, Plugin-READMEs, Testaktenübersicht, Skill-Gesamtübersicht, Asset-Index und Haupt-README auf `v53.6.0` synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v53.5.0 — Miet/WEG und Migrationsrecht auf Großformat
 
 Ausbau der beiden Fachanwalts-Plugins `fachanwalt-miet-wohnungseigentumsrecht` und `fachanwalt-migrationsrecht` auf große, workflowstarke Skillsets.

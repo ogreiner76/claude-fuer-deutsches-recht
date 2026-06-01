@@ -1,0 +1,11 @@
+From: jasper.rodenwald@vellbruck-robotics.example
+To: legal@vellbruck-robotics.example
+Subject: Patch 2.7.1 / Legacy Update Channel
+Date: Mon, 01 Jun 2026 09:18:00 +0200
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Der Legacy-Modus ist aus meiner Sicht nicht mehr vertretbar. Technisch kann i=
+ch ihn remote deaktivieren. Problem: Einige Kunden verlieren dann vor=C3=BCbe=
+rgehend Flottenfunktionen.

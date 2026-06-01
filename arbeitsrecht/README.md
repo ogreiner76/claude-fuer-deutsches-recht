@@ -17,6 +17,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- | --- |
 | **Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH** (`befristungskontrollklage-vogt-stadtwerke`) | [Gesamt-PDF lesen](../testakten/befristungskontrollklage-vogt-stadtwerke/gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) | [`testakte-befristungskontrollklage-vogt-stadtwerke.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 | **Kündigungsschutzklage Weber ./. TechLogix GmbH** (`kuendigungsschutzklage-weber-techlogix`) | [Gesamt-PDF lesen](../testakten/kuendigungsschutzklage-weber-techlogix/gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) | [`testakte-kuendigungsschutzklage-weber-techlogix.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
@@ -29,6 +30,7 @@ Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbet
 | --- | --- | --- |
 | **Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH** (`befristungskontrollklage-vogt-stadtwerke`) | [Gesamt-PDF lesen](../testakten/befristungskontrollklage-vogt-stadtwerke/gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 | **Kündigungsschutzklage Weber ./. TechLogix GmbH** (`kuendigungsschutzklage-weber-techlogix`) | [Gesamt-PDF lesen](../testakten/kuendigungsschutzklage-weber-techlogix/gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
 

@@ -1,0 +1,7 @@
+Dokument,Vorhanden,Version,Luecke,Prioritaet
+EU-Konformitätserklärung LumaMove,ja,draft 0.8,Unterzeichner und Normenliste unklar,rot
+Risikobeurteilung Werkbank C7,ja,2026-03-11,Update 2.7.1 nicht abgebildet,rot
+DSFA AtlasCare,teilweise,2026-05-02,Betroffeneninformation Pflegekräfte fehlt,rot
+SBOM VellNet Control,teilweise,export 2026-05-31,FOSS-Lizenzen nicht vollständig,gelb
+Wartungsnachweis Betreiber,nein,-,Schutzfeldänderung ungeklärt,rot
+Betriebsunterweisung Halle 12,teilweise,2026-02-14,Schichtteam B fehlt,gelb
