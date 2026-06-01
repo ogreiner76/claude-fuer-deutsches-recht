@@ -1,3 +1,24 @@
+# v55.0.0 — Gesellschaftsgründer, BGB BT, HGB und Methodenlehre
+
+Großer Ausbau der zivil- und wirtschaftsrechtlichen Grundwerkzeuge mit zwei neuen Plugins, stärkerem Gesellschaftsgründer und vertiefter Methodenlehre.
+
+## Schwerpunkt
+
+- Neues Plugin `bgb-bt-pruefer` mit 54 Skills: Kauf, Miete, Werk, Reise, Dienst, Auftrag, Geschäftsbesorgung, Bürgschaft, GoA, Bereicherung, Delikt, Schadensrecht, Regress, Verjährung und BGB-BT-Kaltstart.
+- Neues Plugin `handelsrecht-hgb` mit 51 Skills: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, OHG, KG, stille Gesellschaft, Handelsgeschäfte, kaufmännisches Bestätigungsschreiben, § 377 HGB, Fracht, Spedition, Lager und HGB-Verfahrensfragen.
+- `gesellschaftsgruender` auf 100 Skills ausgebaut: Anfänger-Kaltstart, einfache Sprache, Rechtsformnavigation, Gründerrollen, Notarbriefing, Bank/KYC, Transparenzregister, IP/Open Source, Daten/KI, regulierte Geschäftsmodelle, Founder Vesting, ESOP/VSOP, Seed-Runde, Registerbeanstandung und erste 100 Tage.
+- `methodenlehre-buergerliches-recht` auf 66 Skills erweitert: positivistische Rückbindung an Text und Gesetz, freiheitliche und konservative Methodenkritik, institutionelle Folgen, Empirie- und Quellenkritik, Red-Team gegen postfaktische Argumente und methodenehrliche Schriftsatzarbeit.
+- Neue Testakte `bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt` mit E-Mails, Kosten-/Fristen-CSV und Gesamt-PDF.
+- Neue Testakte `handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona` zu eGbR/OHG-Statuswechsel, KG-Investor, Prokura, Handelskauf und § 377 HGB.
+- Gesellschaftsgründer- und Methodenlehre-Akten erweitert; Gesamt-PDFs neu gebaut.
+- Marketplace, Haupt-README, Testaktenübersicht, Asset-Index und Skill-Index auf 121 Plugins, 7771 Skills und 131 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, Diff-Whitespace-Check und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v54.1.0 — Anlagen zu Schriftsätzen: K1-Sortierung und Anlagenpaket-Qualitygate
 
 Gezielter Ausbau des Plugins `anlagen-zu-schriftsaetzen` für große gerichtliche Anlagenpakete, K1-Konvolute und beA-/ERV-taugliche Einreichungen.

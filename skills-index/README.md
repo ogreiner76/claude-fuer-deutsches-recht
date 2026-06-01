@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v54.1.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v55.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -22,6 +22,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (54 Skills)
 - [betreuungsrecht](./betreuungsrecht.md) (54 Skills)
 - [bgb-at-pruefer](./bgb-at-pruefer.md) (53 Skills)
+- [bgb-bt-pruefer](./bgb-bt-pruefer.md) (54 Skills)
 - [buerokratieversteher-entbuerokratisierer](./buerokratieversteher-entbuerokratisierer.md) (100 Skills)
 - [commercial-courts-deutschland](./commercial-courts-deutschland.md) (57 Skills)
 - [common-law-kompass](./common-law-kompass.md) (54 Skills)
@@ -61,11 +62,12 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (54 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (54 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (54 Skills)
-- [gesellschaftsgruender](./gesellschaftsgruender.md) (50 Skills)
+- [gesellschaftsgruender](./gesellschaftsgruender.md) (100 Skills)
 - [gesellschaftsrecht](./gesellschaftsrecht.md) (54 Skills)
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (50 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (54 Skills)
 - [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (56 Skills)
+- [handelsrecht-hgb](./handelsrecht-hgb.md) (51 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (54 Skills)
@@ -89,7 +91,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [markenrecht-fashion-luxus](./markenrecht-fashion-luxus.md) (50 Skills)
 - [meinungspruefer](./meinungspruefer.md) (50 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (54 Skills)
-- [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (54 Skills)
+- [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (66 Skills)
 - [mietrecht](./mietrecht.md) (54 Skills)
 - [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (54 Skills)
 - [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (54 Skills)
