@@ -87,13 +87,6 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 Zum Arbeiten liegt die Akte unter `testakten/verkehrsowi-rotlicht-tempo`. Sie wird im Release als `testakte-verkehrsowi-rotlicht-tempo.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
-## Download
-
-- Plugin-ZIP: [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehrsowi-verteidiger.zip)
-- Akte: [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip)
-
-<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
-
 ## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.

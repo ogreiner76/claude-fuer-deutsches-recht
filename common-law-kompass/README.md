@@ -82,13 +82,6 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - [Uniform Law Commission: UCC](https://www.uniformlaws.org/acts/ucc)
 - [U.S. Supreme Court](https://www.supremecourt.gov/)
 
-## Download
-
-- Plugin-ZIP: [common-law-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip)
-- Akte: [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip)
-
-<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
-
 ## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.

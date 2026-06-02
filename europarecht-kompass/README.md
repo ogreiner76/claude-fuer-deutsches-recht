@@ -82,13 +82,6 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - [European Parliament: ordinary legislative procedure](https://www.europarl.europa.eu/olp/en/ordinary-legislative-procedure/overview)
 - [EUR-Lex](https://eur-lex.europa.eu/)
 
-## Download
-
-- Plugin-ZIP: [europarecht-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip)
-- Akte: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)
-
-<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
-
 ## Alle Skills im Ueberblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.

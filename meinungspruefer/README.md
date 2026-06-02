@@ -23,24 +23,6 @@ Freistehendes Plugin für die Prüfung von Äußerungen nach einfachem Recht, Ve
 
 **Keine Rechtsberatung.** Das Plugin erzeugt eine strukturierte Vorprüfung und dokumentierbare Arbeitsprodukte zur anwaltlichen Kontrolle. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwendet.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-|---|---|
-| Meinungsprüfer (`meinungspruefer`) | [meinungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Meinungsprüfer - Grenzfälle im Alltag** ([`testakten/meinungspruefer-grenzfaelle-alltag/`](../testakten/meinungspruefer-grenzfaelle-alltag/)).
-
-Direkt-Download als ZIP: [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Start
 
 ```

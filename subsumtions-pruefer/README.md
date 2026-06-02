@@ -23,22 +23,6 @@ Interaktiver Mechanik-Workflow für die juristische Subsumtion nach deutschem Re
 
 **Dieses Plugin ist keine Rechtsberatung.** Es prüft mechanisch eine vom Nutzer behauptete Norm anhand vom Nutzer behaupteter Tatsachen. Die Auswahl der richtigen Norm, die vollständige Sachverhaltsdarstellung und die Bewertung des Ergebnisses bleiben in der Verantwortung des Nutzers und eines zugelassenen Rechtsanwalts.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Subsumtions-Prüfer (`subsumtions-pruefer`, dieses Plugin) | [subsumtions-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/subsumtions-pruefer.zip) |
-
-Die URL ist stabil. Alle weiteren Plugins sind unter [Releases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases) verfügbar.
-
-### Installation
-
-1. ZIP herunterladen (Link oben).
-2. Im KI-System: **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP verwenden.
-
 ## Für wen ist dieses Plugin
 
 | Rolle | Primäre Anwendungsfälle |

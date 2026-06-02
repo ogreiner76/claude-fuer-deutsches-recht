@@ -31,24 +31,6 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 - welche Rückfragen ein First-Year Associate stellen muss,
 - welcher Output für Partner, Mandant, Notar, Register oder Gegenseite sinnvoll ist.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Gesellschaftsrecht Legal English (`gesellschaftsrecht-legal-english`) | [gesellschaftsrecht-legal-english.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht-legal-english.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Kometenfalter Systems GmbH — Series A Project Comet Moth** ([`testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/)).
-
-Direkt-Download als ZIP: [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Installation
 
 1. ZIP herunterladen.

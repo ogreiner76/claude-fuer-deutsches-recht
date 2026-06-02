@@ -51,14 +51,6 @@ Neu hinzugekommen sind kontrollierte Perspektiv-Skills, die bewusst **keine Ideo
 
 Der Zweck ist nicht, ein gewünschtes Ergebnis zu produzieren, sondern eine zivilrechtliche Lösung methodisch ehrlicher, belastbarer und angreifbarer zu machen.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Methodenlehre bürgerliches Recht (`methodenlehre-buergerliches-recht`, dieses Plugin) | [methodenlehre-buergerliches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

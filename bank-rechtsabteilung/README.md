@@ -79,14 +79,6 @@ Die erste Ausbaustufe deckt den Alltag der Rechtsabteilung ab; die zweite Ausbau
 | Handelsvertreter kündigt | `handelsvertreter-vertriebsrecht-bank` | Statusanalyse, Ausgleichsrisiko, Verhandlungsposition |
 | AGB sollen geändert werden | `agb-bankrecht-klauselkontrolle` | Klauselampel, bessere Fassung, Rollout-Hinweise |
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Bank-Rechtsabteilung (`bank-rechtsabteilung`) | [bank-rechtsabteilung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bank-rechtsabteilung.zip) |
-
-Die URL zeigt immer auf das aktuelle Release-Asset.
-
 ## Installation in Claude Code / Cowork
 
 1. ZIP aus dem Release herunterladen.

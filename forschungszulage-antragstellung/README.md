@@ -28,24 +28,6 @@ Vor jeder belastbaren Ausgabe live prüfen:
 - BMF-Forschungszulage und BMF-Schreiben vom 07.02.2023, soweit noch nicht durch ein neues finales Schreiben ersetzt.
 - Änderungen ab 2026: Bemessungsgrundlagenhöchstbetrag 12 Mio. Euro, 20-%-Pauschale für Gemein- und Betriebskosten bei nach dem 31.12.2025 begonnenen Vorhaben, Eigenleistung 100 Euro pro Stunde bis max. 40 Stunden/Woche.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Forschungszulage-Antragstellung (`forschungszulage-antragstellung`) | [forschungszulage-antragstellung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forschungszulage-antragstellung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version.
-
-### Installation
-
-1. ZIP herunterladen.
-2. Claude Code oder Cowork → **Customize Plugins** → **Install from .zip**.
-3. In einer neuen Unterhaltung starten mit:
-
-```text
-/forschungszulage-antragstellung:allgemein
-```
-
 ## Skill-Matrix
 
 | Skill | Wofür? |

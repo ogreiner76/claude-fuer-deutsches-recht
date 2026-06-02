@@ -28,51 +28,6 @@ Skills für **berufliche Betreuerinnen und Betreuer** nach dem Betreuungsorganis
 > Skills selbst für die eigene Praxis und prüft jeden generierten Bericht
 > vor Einreichung beim Betreuungsgericht.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Betreuungsrecht (`betreuungsrecht`, dieses Plugin) | [betreuungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
-### Zum Ausprobieren: Beispielakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-[testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip)
-
-Fiktive Akte einer Berufsbetreuung einer 87-jährigen Mandantin (Hildegard Sauer): Bestellungsbeschluss, Vermögensverzeichnis, erster Jahresbericht, Genehmigungsanträge.
-
-[testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip)
-
-Fiktive Akte einer Vermögenssorge-Prüfung bei Herbert Wilhelm Schmalfeld:
-Kontoauszüge 2023 bis 2025, Vertragsregister, verdächtige Zahlungen,
-Fernwartung, Auslandsanlage, Immobilienreservierung und Maßnahmenplan.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 2 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Betreuungsfall Hildegard Sauer | [`testakten/betreuung-hildegard-sauer/`](../testakten/betreuung-hildegard-sauer/) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
-| Betreuung Schmalfeld: Kontodaten und verdächtige Verträge | [`testakten/betreuung-schmalfeld-kontodaten-vertraege/`](../testakten/betreuung-schmalfeld-kontodaten-vertraege/) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Enthaltene Skills
 
 | Skill | Gegenstand | Rechtsnorm |

@@ -21,14 +21,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Schnittstellen fachanwalt-bau-architektenrecht.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Vergaberecht (`fachanwalt-vergaberecht`, dieses Plugin) | [fachanwalt-vergaberecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

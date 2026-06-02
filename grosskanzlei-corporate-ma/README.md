@@ -34,23 +34,6 @@ Für neue Nutzerinnen und Nutzer gibt es zusätzlich einen **Anfänger-/First-Ye
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
 
 
-## ⬇️ Zum Ausprobieren: Arbeitsakten (separat)
-
-Mandatsakten zum sofortigen Ausprobieren — **kein Teil des Plugins**, separater Download:
-
-| Akte | Direkt-Download |
-| --- | --- |
-| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
-| **gesellschaftsrecht legal english frankfurt startup** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Großkanzlei Corporate/M&A (`grosskanzlei-corporate-ma`) | [grosskanzlei-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
-
 ## Installation
 
 1. ZIP herunterladen.
@@ -60,16 +43,6 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 5. Mit einem konkreten Deal-Auftrag starten, zum Beispiel: `Starte das Corporate-M&A-Kommandocenter für diesen Datenraum.`
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
-
-### Zum Ausprobieren: Arbeitsakten (separat)
-
-Mandatsakten zum sofortigen Ausprobieren — **kein Teil des Plugins**, separater Download:
-
-| Akte | Direkt-Download |
-| --- | --- |
-| **Grosskanzlei Corporate M&A Datenraum** | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
-| **Gesellschaftsrecht Legal English Frankfurt Startup** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
-
 
 ## Freistehende Kernmodule
 

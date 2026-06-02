@@ -24,11 +24,6 @@ Sprache** oder **Leichte Sprache**. Es richtet sich an Kanzleien, Behörden,
 Beratungsstellen, Legal-Design-Teams und alle, die rechtliche Informationen
 verständlich, respektvoll und rechtlich belastbar erklären müssen.
 
-## Direkt herunterladen
-
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip)
-- [Beispielakte Mandantenbrief](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip)
-
 ## Showcase-Hinweis
 
 Dieses Plugin ist ein Experiment und ein Showcase. Es ist ein Versuch, sich der

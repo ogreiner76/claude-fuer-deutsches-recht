@@ -21,14 +21,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit über 200 Skills: Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und ein Staaten-/Gebietscheck für nahezu jeden relevanten Herkunfts-, Transit- oder Zielstaat einschließlich Palästina, Nordzypern und Westsahara. Der Einstiegsskill kann auf Wunsch auch spanisch und in einfacher Sprache erklären.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Migrationsrecht (`fachanwalt-migrationsrecht`, dieses Plugin) | [fachanwalt-migrationsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

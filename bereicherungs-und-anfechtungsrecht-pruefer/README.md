@@ -30,12 +30,6 @@ Kein Rechtsberatungs-Tool. Mechanische Tatbestandsprüfung mit ständigen Warnhi
 
 ---
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| bereicherungs-und-anfechtungsrecht-prüfer | [bereicherungs-und-anfechtungsrecht-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
-
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.

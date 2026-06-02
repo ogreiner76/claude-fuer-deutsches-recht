@@ -27,27 +27,6 @@ Großes freistehendes Plugin für die Insolvenzverwaltung aus Sicht des Insolven
 
 **Freistehend:** Dieses Plugin enthält eigene Skills, Vorlagen, Quellenhinweise, Vorschau und Testakte. Es verweist nicht auf andere Plugins als Voraussetzung.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Insolvenzverwaltung - IV-Cockpit (`insolvenzverwaltung`) | [insolvenzverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 2 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Insolvenzverwaltung – Möbelwerk Havelberg GmbH | [`testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/`](../testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
-| Insolvenzverwaltung Nordlicht Handels GmbH | [`testakten/insolvenzverwaltung-nordlicht-handels-kiel/`](../testakten/insolvenzverwaltung-nordlicht-handels-kiel/) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -58,14 +37,7 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
 
-### Zum Ausprobieren: Testakten (separat)
-
-Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Moebelwerk Havelberg (Insolvenzverwaltung Regelverfahren)** | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
-| **Nordlicht Handels Kiel (Insolvenzverwaltung)** | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+#
 
 ## Kernmodule
 

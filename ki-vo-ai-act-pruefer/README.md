@@ -28,24 +28,6 @@ Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-Syste
 
 ---
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| ki-vo-ai-act-pruefer | [ki-vo-ai-act-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **KI-VO: BewerberPilot TalentRank** ([`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/)).
-
-Direkt-Download als ZIP: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.
@@ -172,12 +154,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - `output-konformitaetsbescheinigung-evidence-pack` — interne Konformitätsbescheinigung/Readiness-Vermerk, EU-Konformitätserklärung, Art.-43-Nachweis, Evidence Index und Lückenliste ohne falsche finale Bescheinigung
 - `output-betreiber-checkliste-und-folgenabschaetzung`
 
-### Zum Ausprobieren: Testakte
-
-- [`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/) — fiktive Hochrisiko-Recruiting-KI mit Art.-3-/Art.-6-Vermerk, Risikoregister, Daten-Governance, Human Oversight, Art.-43-Checkliste, Konformitätsvermerk, EU-Konformitätserklärung-Entwurf und Lückenliste.
-- Download: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
-
----
+#
 
 ## Wichtige Hinweise
 

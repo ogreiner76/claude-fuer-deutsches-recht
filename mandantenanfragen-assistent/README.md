@@ -29,12 +29,6 @@ Assistent für Anwaltskanzleien zur automatisierten Erstantwort auf eingehende M
 
 ---
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Mandantenanfragen-Assistent (`mandantenanfragen-assistent`) | [mandantenanfragen-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent.zip) |
-
 ## Installation
 
 1. ZIP aus dem Release herunterladen.

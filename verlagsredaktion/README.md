@@ -23,24 +23,6 @@ Ein Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript
 
 Der erste Bildschirm soll sich für eine Sachbearbeiterin so anfühlen: Alles liegt durcheinander im Postfach, aber das Plugin macht daraus sofort eine Morgenlage, eine Prioritätenliste und den nächsten verwendbaren Arbeitsschritt.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Verlagsredaktion (`verlagsredaktion`) | [verlagsredaktion.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsredaktion.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Verlagsredaktion Morgenlage Fachverlag** ([`testakten/verlagsredaktion-morgenlage-fachverlag/`](../testakten/verlagsredaktion-morgenlage-fachverlag/)).
-
-Direkt-Download als ZIP: [testakte-verlagsredaktion-morgenlage-fachverlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Installation
 
 1. ZIP herunterladen.

@@ -20,14 +20,6 @@ Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 ---
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Aktenauszug Gerichtsverfahren (`aktenauszug-gerichtsverfahren`) | [aktenauszug-gerichtsverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

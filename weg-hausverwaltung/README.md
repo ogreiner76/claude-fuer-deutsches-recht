@@ -23,34 +23,6 @@ Operatives Plugin für Wohnungseigentümergemeinschaften, Hausverwaltungen, Verw
 
 Das Plugin arbeitet paralegal-praktisch: Es erstellt keine "Rechtsberatung aus dem Nichts", sondern strukturiert Akten, formuliert Beschluss- und Anschreibenentwürfe, baut Prüfmatrizen, markiert Fristen, trennt kaufmännische Verwaltung von Rechtsfragen und schlägt bei Risiko den passenden Anwalts- oder Gerichtspfad vor.
 
-## Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| WEG- und Hausverwaltung (`weg-hausverwaltung`, dieses Plugin) | [weg-hausverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weg-hausverwaltung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **WEG Hohenzollernhof — Hausverwaltung unter Druck** ([`testakten/weg-hausverwaltung-hohenzollernhof/`](../testakten/weg-hausverwaltung-hohenzollernhof/)).
-
-Direkt-Download als ZIP: [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
-## Zum Ausprobieren: Testakte
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Hohenzollernhof WEG/Hausverwaltung** | [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
-
-Die Arbeitsakte enthält eine unordentliche WEG-Verwaltungsakte mit Eigentümerbeschwerden, WhatsApp- und E-Mail-Fragmenten, Handwerkerangeboten, fehleranfälliger Jahresabrechnung, Entwurf einer Eigentümerversammlung, Steckersolar-/Wallbox-/PV-Anträgen, Sonderumlage, Heizungs- und Versicherungsschäden, Restaurantkonflikt, Fahrrad-/Tauben-/Kinder-/Hof-Streit und Beiratsnotizen. Zusätzlich liegt eine konsolidierte Akten-PDF mit über 100 Seiten bei.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen.

@@ -21,12 +21,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 Freistehendes Plugin für Studierende der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| hausarbeitenmacher | [hausarbeitenmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
-
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.

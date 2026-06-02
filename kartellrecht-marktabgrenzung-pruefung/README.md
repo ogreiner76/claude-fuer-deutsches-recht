@@ -21,14 +21,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 Hochspezialisierte kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen — ob vom eigenen Team, der gegnerischen Partei oder einer Wettbewerbsbehörde. Schwerpunkte: § 18 GWB, Art. 101 und Art. 102 AEUV, EU-Bekanntmachung zur Marktdefinition 2024 (ABl. 2024/C 1645), SSNIP-Test, Nachfrage- und Angebotssubstitution, Evidenzbasierung, EuGH-Leitentscheidungen, Red Flags und alternative Marktdefinitionen.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Kartellrecht Marktabgrenzungsprüfung (`kartellrecht-marktabgrenzung-pruefung`, dieses Plugin) | [kartellrecht-marktabgrenzung-pruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

@@ -26,14 +26,6 @@ Eigenständiges Corporate-Kanzlei-Plugin für große Corporate- und M&A-Mandate:
 
 Es ist als leistungsstarker Arbeitsrahmen für erfahrene Transaktionsteams gedacht, bleibt aber freundlich genug, um jüngere Anwender Schritt für Schritt durch große Deal-Workflows zu führen.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Corporate-Kanzlei Corporate/M&A (`corporate-kanzlei`) | [corporate-kanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-kanzlei.zip) |
-| Tabellenreview 3D | [tabellenreview-3d.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) |
-| Gesellschaftsrecht | Normtext, Register-/Gesetzesquellen, bereitgestellte Materialien |
-
 ## Installation
 
 1. ZIP herunterladen.

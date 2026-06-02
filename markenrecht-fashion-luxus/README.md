@@ -32,24 +32,6 @@ Markenrecht-Plugin für Luxus-Modehäuser: DPMA, EUIPO Alicante, USPTO (Lanham A
 
 ---
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Markenrecht Fashion & Luxus (`markenrecht-fashion-luxus`) | [markenrecht-fashion-luxus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH** ([`testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/`](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/)).
-
-Direkt-Download als ZIP: [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Installation
 
 1. ZIP aus dem Release herunterladen.

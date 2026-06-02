@@ -25,12 +25,6 @@ Dies ist das freistehende Corporate/M&A-Plugin für mittelständische Kanzleien 
 
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
 
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Mittelständische Kanzlei Corporate/M&A (`mittelstand-corporate-ma`) | [mittelstand-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma.zip) |
-
 ## Installation
 
 1. ZIP herunterladen.
