@@ -1,17 +1,22 @@
-# v61.2.0 — Testakten-Umlaut-Fix, NeuroChain-Akte und README-Konsolidierung
+# v61.2.0 — Testakten-Umlaut-Fix, NeuroChain-Akte, README-Konsolidierung und Beamtenrecht-Quellenanker
 
 ## Schwerpunkt
 
-- Umlaut-Sanierung über 638 Testakten-Dateien via Hunspell-Validierung (17.216 Ersetzungen `ae`/`oe`/`ue`/`ss` → `ä`/`ö`/`ü`/`ß`).
+- Umlaut-Sanierung über inzwischen 924 Testakten-Dateien (638 in Phase 1 via Hunspell, weitere 286 in Phase 2 via hash-/ID-geschütztem Skript `scripts/fix-umlaute-protected.py`). `ae`/`oe`/`ue`/`ss` → `ä`/`ö`/`ü`/`ß` in Markdown, EML, TXT und CSV.
+- Hash-Schutz in Phase 2: YAML-Frontmatter, fenced + inline Code, Markdown-Links, URLs, Hex-Strings ≥ 4 Zeichen, Slug-Tokens (lowercase-with-dashes, snake_case) und CSV-IDs sind explizit gestasht. Iterative Unstash-Auflösung verhindert geschachtelte Placeholder. Pre-Write-Check bricht ab, falls ein Umlaut direkt neben einer Hex-Sequenz landen würde.
 - Neue Testakte **NeuroChain Labs — Gründung eines KI/Krypto-Startups in Berlin** (`gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll`) mit 14 Aktenstücken, 6 E-Mails, 2 Tabellen und Gesamt-PDF.
-- Plugin-READMEs konsolidiert: veraltete `plugin-testakten-section` aus 117 READMEs entfernt; einzig verbleibende autogenerierte Liste ist die Sofort-Download-Sektion.
-- Skript `inject-plugin-testakten-section.py` ersatzlos gelöscht; `inject-plugin-sofort-download-section.py` ist die alleinige Quelle für Testakten-Listen in Plugin-READMEs.
+- Plugin-READMEs konsolidiert: veraltete `plugin-testakten-section` aus 117 READMEs entfernt; einzig verbleibende autogenerierte Liste ist die Sofort-Download-Sektion. Skript `inject-plugin-testakten-section.py` ersatzlos gelöscht; `inject-plugin-sofort-download-section.py` ist die alleinige Quelle.
+- Doppelte Testakten-Sektionen in weiteren 107 Plugin-READMEs entfernt (33× verschachtelte `<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->`-Blöcke innerhalb der `plugin-sofort-download`-Marker, plus 74× reine Duplikat-Sektionen `## Download`/`## Direkt-Download`/`## Direkt herunterladen`).
+- Manuelle Konsolidierungen in `grosskanzlei-corporate-ma`, `strafbefehl-verteidiger`, `urteilsbauer-relationsmacher`, `insolvenzrecht`, `gesellschaftsrecht` und `forderungsmanagement-klagewerkstatt`.
+- Beamtenrecht-Quellenanker korrigiert (5 Skills): § 27 BBG → § 45 BBG (begrenzte Dienstfähigkeit), § 26 → § 44 BBG (Dienstunfähigkeit), § 29 → § 46 BBG (Reaktivierung), § 6 → § 15 BEEG (Elternzeit-Anspruch), § 80 → § 79 BBG (Elternzeit-Versorgung), § 9 BeamtStG → § 9 ArbZV (Altersteilzeit-Blockmodell).
 - Gesamtzahl Testakten jetzt 141.
 
 ## Checks
 
 - `validate-plugin-structure` OK.
 - `validate-testakten-gesamt-pdf` OK (141 Testakten).
+- 0 Hash-/ID-Korruption in CSV-Spalten (`q_id`, `arbeits_id`, `sha256_kurz` etc.).
+- 0 doppelte Testakte-ZIP-Links in Plugin-READMEs.
 - YAML-Frontmatter, Whitespace und Hunspell-Wörterbuch grün.
 
 ---
