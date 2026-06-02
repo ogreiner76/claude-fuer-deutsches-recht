@@ -1,0 +1,9 @@
+{
+  "name": "goae-gebuehrenordnung-aerzte",
+  "version": "56.0.0",
+  "description": "Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten.",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

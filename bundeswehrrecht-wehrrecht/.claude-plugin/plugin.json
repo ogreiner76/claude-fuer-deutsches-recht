@@ -1,0 +1,9 @@
+{
+  "name": "bundeswehrrecht-wehrrecht",
+  "version": "56.0.0",
+  "description": "Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung.",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

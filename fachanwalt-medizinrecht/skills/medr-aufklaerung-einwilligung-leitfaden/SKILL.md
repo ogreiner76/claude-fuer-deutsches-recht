@@ -1,6 +1,6 @@
 ---
 name: medr-aufklaerung-einwilligung-leitfaden
-description: "Leitfaden Aufklaerung und Einwilligung §§ 630d, 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster fuer Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen."
+description: "Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster fuer Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen."
 ---
 
 # MedR: Aufklaerung Einwilligung

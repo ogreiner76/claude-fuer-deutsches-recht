@@ -67,7 +67,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -83,6 +83,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-it-recht-saas-vertrag-verhandlung` | SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV... |
 | `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufre... |
 | `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe... |
+| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte... |
+| `it-recht-datenschutz-im-it-vertrag` | Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbe... |
+| `it-recht-saas-avv-und-tia-bundle` | SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-fuer-Schritt fu... |
 | `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills. |
 | `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster fuer KRITIS-Betreiber und besondere Bedeutung. |
 | `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor. |

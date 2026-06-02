@@ -1,6 +1,6 @@
 ---
 name: miet-modernisierungsmieterhoehung-leitfaden
-description: "Leitfaden Modernisierungsmieterhoehung §§ 555b, 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze. Pruefraster Vermieter und Mieter. Mustertext Mieterhoehungsschreiben."
+description: "Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze. Pruefraster Vermieter und Mieter. Mustertext Mieterhoehungsschreiben."
 ---
 
 # Miet: Modernisierungsmieterhoehung

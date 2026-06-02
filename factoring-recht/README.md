@@ -1,0 +1,125 @@
+# Factoring-Recht
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`factoring-recht`) | [`factoring-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht.zip) |
+
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
+Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen.
+
+## Wofür dieses Plugin da ist
+Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+
+Das Plugin ist als Arbeitswerkzeug gedacht: Es startet mit einem Kaltstart-Interview, sortiert Unterlagen, prüft Fristen und routet dann in Spezial-Skills. Es soll Anfänger an die Hand nehmen und Profis schnell zu belastbaren Outputs bringen.
+
+## Typischer Workflow
+1. **Allgemein-Skill starten:** Rolle, Ziel, Frist, Unterlagen und gewünschtes Ergebnis klären.
+2. **Dokumente einlesen:** Verträge, Bescheide, Rechnungen, Tabellen, Registerdaten, Behördenpost oder Screenshots strukturieren.
+3. **Spezial-Skill wählen:** Das Plugin schlägt den passenden Skill vor und erklärt, welches Ergebnis damit entsteht.
+4. **Live-Quellen prüfen:** Normtext, Behördenseite, EU-Text, Formular oder frei zugängliche Rechtsprechung aktualisieren.
+5. **Output erzeugen:** Memo, Antrag, Stellungnahme, Vertragsklausel, Berechnung, Checkliste oder Mandantenbrief.
+6. **Red-Team:** Fristen, Zuständigkeit, Zahlen, Quellen und Gegenargumente kontrollieren.
+
+## Quellenanker
+- Amtliche Gesetzestexte: gesetze-im-internet.de.
+- EU-Recht: EUR-Lex und amtliche Kommissionsseiten.
+- Behördenpraxis: zuständige Bundes-/Landesbehörden, Bundesnetzagentur, BaFin, BfArM, G-BA, BKartA oder Länderstellen je nach Thema.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei/amtlich prüfbarer Quelle.
+
+## Skill-Schwerpunkte
+| Gruppe | Inhalt |
+| --- | --- |
+| Einstieg und Workflow | Kaltstart, Dokumentenintake, Fristen, Quellencheck, Output-Wahl, Red-Team |
+| Materielle Prüfung | Tatbestände, Ausnahmen, Schwellen, Beweislast, Berechnungen, Rechtsfolgen |
+| Verfahren und Kommunikation | Anträge, Anhörungen, Beschwerden, Schriftsätze, Behördenkontakt, Mandantenkommunikation |
+| Spezialthemen | Branchen-, Vertrags-, Gebühren-, Aufsichts-, EU- und Edge-Case-Prüfungen |
+
+## Quellen- und Halluzinationsschutz
+Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsicherer oder dynamischer Rechtslage wird der Live-Quellencheck ausdrücklich vorgeschaltet.
+
+## Lizenz
+Apache-2.0 OR MIT — Auswahl beim Empfänger.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote` | Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `abtretungsverbot-354a-hgb-handelsgeschaeft` | Abtretungsverbot § 354a HGB Handelsgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZA... |
+| `agb-kontrolle-factoringklauseln-b2b` | AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG,... |
+| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Factoring-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Spezial-Skills aus diesem Plugin vor. |
+| `auditrechte-stichproben-forderungspruefung` | Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG,... |
+| `aufsichtsrechtliche-schnellampel-kwg-zag` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. |
+| `auslandsfactoring-import-export-two-factor-system` | Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 35... |
+| `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko` | B2B Lieferketten Forderungsbestand und Reklamationsrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert` | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§... |
+| `beschwerde-und-anhoerung-bafin-factoring` | Beschwerde und Anhörung BaFin Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, G... |
+| `bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko` | Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `checkliste-forderungsdatenraum-factoring` | Checkliste Forderungsdatenraum Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG,... |
+| `datenschutz-debitorendaten-dsgvo-informationspflichten` | Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `debitorenbrief-hoeflich-aber-rechtssicher` | Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG,... |
+| `debitorenkommunikation-und-abtretungsanzeige` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige. |
+| `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb` | Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff... |
+| `dokumentenintake-forderungsportfolio` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Forderungsportfolio. |
+| `doppelabtretung-prioritaet-und-gutglaubensprobleme` | Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 35... |
+| `drittschuldneranzeige-und-stille-zession` | Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG,... |
+| `echtes-und-unechtes-factoring-risikoverteilung` | Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a,... |
+| `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto` | Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `erlaubnisantrag-32-kwg-unterlagen-geschaeftsleiter` | Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB §... |
+| `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht` | Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `factoring-in-gesundheitswesen-goae-ebm-krankenhaus` | Factoring in Gesundheitswesen GOÄ EBM Krankenhaus: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 35... |
+| `factoring-plattformmodelle-fintech-und-api` | Factoring Plattformmodelle Fintech und API: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG... |
+| `factoringtyp-true-false-reverse-maturity` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Factoringtyp true false reverse maturity. |
+| `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe` | Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factorin... |
+| `faelligkeitsfactoring-maturity-factoring-und-mahnservice` | Fälligkeitsfactoring Maturity Factoring und Mahnservice: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HG... |
+| `fraud-indikatoren-scheinforderungen-retouren-gutschriften` | Fraud-Indikatoren Scheinforderungen Retouren Gutschriften: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `full-service-factoring-inhouse-factoring-ausschnittsmodell` | Full-Service Factoring Inhouse Factoring Ausschnittsmodell: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.,... |
+| `geldwaesche-verdachtsmeldung-monitoring` | Geldwäsche Verdachtsmeldung Monitoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, Gw... |
+| `gerichtsstand-rechtswahl-schiedsvereinbarung` | Gerichtsstand Rechtswahl Schiedsvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, Z... |
+| `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli` | Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 39... |
+| `inkasso-rdg-abgrenzung-forderungsmanagement` | Inkasso RDG Abgrenzung Forderungsmanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZA... |
+| `insolvenz-des-debitors-forderungspruefung` | Insolvenz des Debitors Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG,... |
+| `insolvenz-des-factoringkunden-aussonderung-absonderung` | Insolvenz des Factoringkunden Aussonderung Absonderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `insolvenzanfechtung-globalzession-deckung-bargeschaeft` | Insolvenzanfechtung Globalzession Deckung Bargeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `kaltstart-factoring-mandat` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Factoring-Mandat. |
+| `konzentrationsrisiken-debitorenlimit-und-portfolio-covenants` | Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff... |
+| `kuendigung-rahmenvertrag-exit-und-rueckuebertragung` | Kündigung Rahmenvertrag Exit und Rückübertragung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354... |
+| `kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg` | KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.... |
+| `kyc-gwg-factoringinstitut-wirtschaftlich-berechtigte` | KYC GwG Factoringinstitut wirtschaftlich Berechtigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB §... |
+| `mandantenmemo-factoring-risiken-vorstandsvorlage` | Mandantenmemo Factoring-Risiken Vorstandsvorlage: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354... |
+| `npl-kauf-servicing-und-factoring-abgrenzung` | NPL Kauf Servicing und Factoring-Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZA... |
+| `oeffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff... |
+| `organisationspflichten-marisk-bait-dora-schnittstellen` | Organisationspflichten MaRisk BAIT DORA Schnittstellen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `output-vertragsentwurf-memo-anzeige` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Vertragsentwurf Memo Anzeige. |
+| `pricing-gebuehren-zins-marge-transparenz` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. |
+| `red-team-factoringvertrag-versteckte-rueckgriffshaftung` | Red-Team Factoringvertrag versteckte Rückgriffshaftung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB... |
+| `regressklauseln-delkredererisiko-rueckbelastung` | Regressklauseln Delkredererisiko Rückbelastung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a,... |
+| `reverse-factoring-lieferantenfinanzierung-und-abgrenzung-kreditg` | Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BG... |
+| `risikomatrix-insolvenz-anfechtung` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung. |
+| `sanierungskonzept-factoring-als-liquiditaetsbaustein` | Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB §... |
+| `schnittstelle-lieferkettenfinanzierung-supply-chain-finance` | Schnittstelle Lieferkettenfinanzierung Supply Chain Finance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.... |
+| `securitisation-abs-spv-abgrenzung-factoring` | Securitisation ABS SPV Abgrenzung Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZA... |
+| `sicherheiten-warenkreditversicherung-delkredere` | Sicherheiten Warenkreditversicherung Delkredere: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a... |
+| `steuer-umsatzsteuer-factoringgebuehren-und-forderungsverkauf` | Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff.... |
+| `stundung-moratorium-factoring-und-sanierung` | Stundung Moratorium Factoring und Sanierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZA... |
+| `unidroit-fci-logik-und-rechtswahl-internationale-forderungen` | UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff... |
+| `verbraucherforderungen-und-besondere-schutzvorschriften` | Verbraucherforderungen und besondere Schutzvorschriften: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HG... |
+| `verhandlung-term-sheet-factoringlinie` | Verhandlung Term Sheet Factoringlinie: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG... |
+| `zag-finanztransfergeschaeft-schnittstelle-factoring` | ZAG Finanztransfergeschäft Schnittstelle Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 3... |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

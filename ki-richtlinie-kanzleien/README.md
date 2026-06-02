@@ -114,7 +114,7 @@ Transfer (USA) und der § 43e-BRAO-Vertragsdokumentation.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -140,6 +140,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `kirk-ki-richtlinie-bauleiter` | Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT. |
 | `kirk-mandantenkommunikation-leitfaden` | Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Pruefraster fuer Mandatsverhaeltnis. |
 | `kirk-prompts-templates-versionierung-spezial` | Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management. |
+| `kr-richtlinie-executive-summary-1-pager-template` | Ein-Seiten-Executive-Summary fuer KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'N... |
 | `literatur-und-quellen` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-... |
 | `musterklauseln-it-vertrag` | Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenhe... |
 | `prompting-leitfaden` | Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompte... |
