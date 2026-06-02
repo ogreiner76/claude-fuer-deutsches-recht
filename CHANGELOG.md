@@ -1,3 +1,22 @@
+# v61.1.0 — Beamten-/Richterrecht Spezialskills konsolidiert
+
+## Schwerpunkt
+
+- 50 hochspezialisierte Skills aus PR #205 in das bestehende `beamtenrecht`-Plugin übernommen, nicht als separates Parallelplugin.
+- Cluster für Konkurrentenschutz und Beurteilung, Besoldung, Versorgung, Beihilfe und Heilfürsorge, Urlaub und Elternzeit, Dienstunfall und Krankheit, Disziplinarrecht, Nebenpflichten und Statusrecht sowie Richterrecht ergänzt.
+- Quellenhygiene im Beamtenrecht weiter geschärft: verifizierte Anker aus der Beamten-/Richterrecht-Wissenssammlung, keine BeckRS-/juris-Blindzitate, Aktenzeichen nur mit prüfbarem Quellenanker.
+
+## Synchronisierung
+
+- `beamtenrecht` wächst auf 125 Skills.
+- Marketplace, Plugin-Manifeste, Haupt-README, SKILLS.md, Skills-Index und Asset-Index auf `v61.1.0` nachgezogen.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Testakten-Gesamt-PDF-Regel und Whitespace-Check grün.
+
+---
+
 # v61.0.0 — Corporate/M&A Deal-OS Boost
 
 Großer Ausbau des freistehenden `grosskanzlei-corporate-ma`-Plugins zu einer noch agentischeren Big-Law-Deal-Workbench.
