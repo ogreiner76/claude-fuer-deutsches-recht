@@ -28,11 +28,11 @@ Der Ausbuchungsertrag von 2,4 Mio. EUR ist als laufender Gewinn der Strassburger
 
 Voraussetzung für die Ausbuchung wäre die Auslegung des Rangrücktritts dahin, dass die Tilgung **ausschliesslich** aus *zukünftigen Gewinnen* oder einem *Liquidationsüberschuss* erfolgen kann (§ 5 Abs. 2a EStG, BFH-Rspr.).
 
-Die Rangruecktrittsklausel (Aktenstück 05, § 2 Abs. 2) sieht in lit. a) und b) genau dies vor; lit. c) erweitert um "sonstiges freies Vermoegen". Ob lit. c) eigenständig wirkt oder vom FA als leere Hueelse abgetan wird, ist die Streitfrage.
+Die Rangruecktrittsklausel (Aktenstück 05, § 2 Abs. 2) sieht in lit. a) und b) genau dies vor; lit. c) erweitert um "sonstiges freies Vermögen". Ob lit. c) eigenständig wirkt oder vom FA als leere Hueelse abgetan wird, ist die Streitfrage.
 
-Die Auslegungsvariante des FA wäre: lit. c) ist deklaratorisch, denn nach Befriedigung aller anderen Gläubiger und Erfüllung des Stammkapitalrückzahlungsanspruchs ist *kein* sonstiges freies Vermoegen mehr vorhanden, das nicht bereits unter "Liquidationsüberschuss" lit. b) fällt. Folglich sei lit. c) nur eine Wiederholung von lit. b); die wirtschaftliche Tilgungsquelle sei tatsächlich **ausschliesslich** lit. a) und lit. b).
+Die Auslegungsvariante des FA wäre: lit. c) ist deklaratorisch, denn nach Befriedigung aller anderen Gläubiger und Erfüllung des Stammkapitalrückzahlungsanspruchs ist *kein* sonstiges freies Vermögen mehr vorhanden, das nicht bereits unter "Liquidationsüberschuss" lit. b) fällt. Folglich sei lit. c) nur eine Wiederholung von lit. b); die wirtschaftliche Tilgungsquelle sei tatsächlich **ausschliesslich** lit. a) und lit. b).
 
-Die Gegenauffassung: lit. c) hat eigenständige Bedeutung. Sonstiges freies Vermoegen umfasst beispielsweise *kurzfristig verfügbare Mittel* der GmbH während der Liquidationsphase, die nicht zum Überschuss am Liquidationsende gehören.
+Die Gegenauffassung: lit. c) hat eigenständige Bedeutung. Sonstiges freies Vermögen umfasst beispielsweise *kurzfristig verfügbare Mittel* der GmbH während der Liquidationsphase, die nicht zum Überschuss am Liquidationsende gehören.
 
 ### 4.2 Zwischenergebnis zur § 5 Abs. 2a EStG-Frage
 

@@ -11,7 +11,7 @@
 
 ## Rechtlicher Hintergrund: Beurkundungspflicht
 
-Die Abtretung von Geschäftsanteilen einer GmbH bedarf der notariellen Beurkundung gemaess § 15 Abs. 3 GmbHG. Ohne Beurkundung ist die Abtretung nichtig (§ 125 BGB). Die Beurkundung des Share Purchase Agreement in seiner Gesamtheit empfiehlt sich, um Formwirksamkeit des gesamten Vertragswerks sicherzustellen.
+Die Abtretung von Geschäftsanteilen einer GmbH bedarf der notariellen Beurkundung gemäß § 15 Abs. 3 GmbHG. Ohne Beurkundung ist die Abtretung nichtig (§ 125 BGB). Die Beurkundung des Share Purchase Agreement in seiner Gesamtheit empfiehlt sich, um Formwirksamkeit des gesamten Vertragswerks sicherzustellen.
 
 ---
 
@@ -51,7 +51,7 @@ Die Abtretung von Geschäftsanteilen einer GmbH bedarf der notariellen Beurkundu
 
 ### Szenario: CEO persönlich anwesend (Standard)
 
-CEO Dr. Claudia Volkenrath-Eichmueller ist allein vertretungsberechtigt gemaess Handelsregistereintragung. Keine Vollmacht erforderlich; Personalausweis genügt.
+CEO Dr. Claudia Volkenrath-Eichmueller ist allein vertretungsberechtigt gemäß Handelsregistereintragung. Keine Vollmacht erforderlich; Personalausweis genügt.
 
 ### Szenario: Vertretung durch GC (Eventualfall)
 
@@ -83,4 +83,4 @@ Falls CEO verhindert: GC Dr. Franziska Schwingenstein-Pohlmann vertritt auf Basi
 Beurkundungsgebuehr nach GNotKG richtet sich nach dem Gegenstandswert (= Kaufpreis EUR 38 Mio.):
 - Beurkundungsgebuehr (2,0-fach): ca. EUR 58.800 netto
 - Zzgl. MwSt., Auslagen (Abschriften, Einreichungsgebuehren): ca. EUR 70.000-75.000 gesamt
-- Träger: gemaess SPA-Regelung (i.d.R. Käufer oder 50/50)
+- Träger: gemäß SPA-Regelung (i.d.R. Käufer oder 50/50)

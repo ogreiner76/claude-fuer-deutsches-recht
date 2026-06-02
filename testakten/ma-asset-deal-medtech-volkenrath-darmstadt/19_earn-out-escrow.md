@@ -32,7 +32,7 @@ Earn-Out-Auszahlung: Jährlich im März des Folgejahres nach Vorlage des geprüf
 
 ## 2. Escrow-Konstruktion bei DZ Privatbank S.A. Luxembourg
 
-Zur Absicherung des Earn-Out gegen Zahlungsausfall von VENERA werden 6 Mio. EUR (50% des Gesamt-Earn-Out) auf ein Escrow-Konto bei der DZ Privatbank S.A. Luxembourg eingezahlt. Die DZ Privatbank handelt als Escrow Agent auf Basis eines Treuhandvertrags gemaess luxemburgischem Recht.
+Zur Absicherung des Earn-Out gegen Zahlungsausfall von VENERA werden 6 Mio. EUR (50% des Gesamt-Earn-Out) auf ein Escrow-Konto bei der DZ Privatbank S.A. Luxembourg eingezahlt. Die DZ Privatbank handelt als Escrow Agent auf Basis eines Treuhandvertrags gemäß luxemburgischem Recht.
 
 ### 2.1 Konditionen Escrow
 

@@ -16,7 +16,7 @@ Pellbach Logistik & Spedition GmbH, Friesenwall 17-21, 50672 Koeln, HRB 14 882 (
 
 ### II. Antrag
 
-Eröffnung des Insolvenzverfahrens über das Vermoegen der Antragstellerin wegen **Zahlungsunfähigkeit** (§§ 17, 18 InsO) und **Überschuldung** (§ 19 InsO).
+Eröffnung des Insolvenzverfahrens über das Vermögen der Antragstellerin wegen **Zahlungsunfähigkeit** (§§ 17, 18 InsO) und **Überschuldung** (§ 19 InsO).
 
 ### III. Antragsgründe
 
@@ -36,7 +36,7 @@ Eigenkapital zum 31.12.2024 (Entwurf): 334 TEUR. Ungedeckter Fehlbetrag zum Stic
 ### IV. Gläubigerverzeichnis / Vermögensaufstellung
 
 - Gläubigerverzeichnis: 187 Gläubiger; Gesamtverbindlichkeiten ca. **8,8 Mio EUR**
-- Vermoegen: Anlagevermögen ca. 5,0 Mio EUR; Umlaufvermögen ca. 4,7 Mio EUR (Buchwerte); Realisierbarkeit erheblich reduziert
+- Vermögen: Anlagevermögen ca. 5,0 Mio EUR; Umlaufvermögen ca. 4,7 Mio EUR (Buchwerte); Realisierbarkeit erheblich reduziert
 - Mitarbeitende: 195
 - Löhne / Gehälter rückständig: ca. 410 TEUR
 
@@ -60,7 +60,7 @@ Az.: **88 IN 142/25** — AG Koeln, Insolvenzgericht
 
 ### I. Tenor
 
-Über das Vermoegen der
+Über das Vermögen der
 
 **Pellbach Logistik & Spedition GmbH**, Friesenwall 17-21, 50672 Koeln (HRB 14 882),
 
@@ -108,7 +108,7 @@ Der Insolvenzverwalter Wagner-Hieronymi hat in seiner Strafanzeige vom 28.10.202
 - Anfechtungs- und Strafverfahren konkurrieren: Ein im Anfechtungsverfahren rückgängig gemachtes Geschäft kann strafrechtlich entlastend wirken (Schaden wird "geheilt", relevant für Strafmilderung).
 - Wagner-Hieronymi hat **vier Anfechtungsklagen** gegen die Wroclaw-Tochter sowie zwei Anfechtungsklagen gegen Pellbach persönlich eingereicht (Stand 28.05.2026).
 - Verteidigung sollte Anfechtungsklagen aktiv unterstützen, weil Rückführungen das Strafmass mildern (§ 46a StGB, Schadenswiedergutmachung).
-- Prüfen, ob Pellbach Ehefrau-Vermoegen einsetzen kann, um Anfechtungsklage einvernehmlich zu erledigen.
+- Prüfen, ob Pellbach Ehefrau-Vermögen einsetzen kann, um Anfechtungsklage einvernehmlich zu erledigen.
 
 ### 4. Risiko Bilanzmanipulation
 

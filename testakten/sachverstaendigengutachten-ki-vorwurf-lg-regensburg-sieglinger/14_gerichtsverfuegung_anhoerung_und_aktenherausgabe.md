@@ -14,14 +14,14 @@ ergeht folgende
 
 Verfügung:
 
-1. Termin zur mündlichen Erläuterung des Gutachtens des Sachverständigen Dipl.-Ing. Edmund Pfaffenberger vom 28.10.2025 wird gemaess § 411 Abs. 3 ZPO angesetzt auf
+1. Termin zur mündlichen Erläuterung des Gutachtens des Sachverständigen Dipl.-Ing. Edmund Pfaffenberger vom 28.10.2025 wird gemäß § 411 Abs. 3 ZPO angesetzt auf
 
 Donnerstag, den 22.01.2026, 09:30 Uhr,
 Sitzungssaal 4.142, Landgericht Regensburg, Augustenstrasse 5
 
 Der Sachverständige hat persönlich zu erscheinen. Die Parteien sind über den Termin informiert.
 
-2. Der Sachverständige wird gemaess § 407a Abs. 5 ZPO aufgefordert, bis zum 08.01.2026 die folgenden Unterlagen zur Akte zu reichen:
+2. Der Sachverständige wird gemäß § 407a Abs. 5 ZPO aufgefordert, bis zum 08.01.2026 die folgenden Unterlagen zur Akte zu reichen:
 
 a) Ortsterminprotokoll vom 16.07.2025 mit Anwesenheitsliste, Zeitprotokoll, vorgenommenen Messungen und festgehaltenen Beobachtungen;
 

@@ -8,7 +8,7 @@
 
 ## Grundlagen
 
-Die Pfaendungsfreigrenzen gemaess § 850c ZPO werden jährlich zum 01. Juli angepasst und durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt veröffentlicht. Massgeblich für den Berechnungszeitraum 2026 ist die Tabelle gültig ab 01.07.2025.
+Die Pfaendungsfreigrenzen gemäß § 850c ZPO werden jährlich zum 01. Juli angepasst und durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt veröffentlicht. Massgeblich für den Berechnungszeitraum 2026 ist die Tabelle gültig ab 01.07.2025.
 
 **Grundfreibetrag (monatlich) 2026:** **1.491,75 EUR**  
 (entspricht dem notwendigen Selbstbehalt; früherer Wert 2024: 1.402,28 EUR)

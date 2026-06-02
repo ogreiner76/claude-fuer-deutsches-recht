@@ -99,7 +99,7 @@ Anlage: Vollmacht Mautz, Photos Balkon-Mängel (PDF, 14 Seiten)
 >
 > **Strategie:**
 > 1. Schreiben mit fristgerechter Antwort (vor 30.05.) bestätigen, dass Sanierung auf TOP 6/9 der EV 17.06. steht.
-> 2. Mietminderungs-Forderung 3.198 EUR — prüfen, ob Schadensersatz gemaess § 280 BGB tatsächlich besteht. **Empfehlung:** anwaltliche Stellungnahme einholen.
+> 2. Mietminderungs-Forderung 3.198 EUR — prüfen, ob Schadensersatz gemäß § 280 BGB tatsächlich besteht. **Empfehlung:** anwaltliche Stellungnahme einholen.
 > 3. Falls EV den Beschluss nicht fasst: erhebliches Haftungsrisiko für WEG.
 >
 > Telefonisch mit RA Rotenfels gesprochen am 22.05. — RA droht bei nicht-Beschluss-Fassung mit Beschlussersetzungsklage. Anwaltskosten WEG-Seite müssten beauftragt werden, beschluss-erforderlich.

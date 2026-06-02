@@ -9,7 +9,7 @@
 
 ## Antrag
 
-Es wird beantragt, die Unterzeichnerin gemaess § 141 Abs. 1 StPO zur Pflichtverteidigerin des Beschuldigten Dr. Carlsten Pellbach-Eisenacher beizuordnen.
+Es wird beantragt, die Unterzeichnerin gemäß § 141 Abs. 1 StPO zur Pflichtverteidigerin des Beschuldigten Dr. Carlsten Pellbach-Eisenacher beizuordnen.
 
 ## Beiordnungsgründe § 140 StPO
 
@@ -21,7 +21,7 @@ Der Beschuldigte befindet sich seit 12.05.2026 in Untersuchungshaft in der JVA K
 
 ### § 140 Abs. 1 Nr. 5 StPO — Verbrechensvorwurf
 
-Die Anklage umfasst u.a. § 264 I StGB (Subventionsbetrug — Verbrechen gemaess § 12 StGB) und § 261 IV StGB (Geldwaesche bei gewerbsmaessiger Begehung). Beides sind Verbrechenstatbestände.
+Die Anklage umfasst u.a. § 264 I StGB (Subventionsbetrug — Verbrechen gemäß § 12 StGB) und § 261 IV StGB (Geldwaesche bei gewerbsmaessiger Begehung). Beides sind Verbrechenstatbestände.
 
 ### § 140 Abs. 2 StPO — Schwere der Tat und Schwierigkeit der Sach- oder Rechtslage
 

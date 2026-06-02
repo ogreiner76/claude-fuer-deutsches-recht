@@ -11,13 +11,13 @@
 
 Der Engineering-Servicevertrag (ESV) zwischen der Volkenrath Solar Eppendorf GmbH (Auftraggeber) und der SolarService GmbH (Auftragnehmer, sog. EPC-artiger Wartungsdienstleister) ist als Anlage 7 dem SPA beigefügt. Der Vertrag läuft bis 2031 (Restlaufzeit ca. 5 Jahre) und ist für den Solarpark-Betrieb essenziell.
 
-Im Rahmen der Legal-Due-Diligence wurde festgestellt, dass der ESV massgeblich von AGB der SolarService GmbH (Verwender) geprägt ist. Die AGB-Pruefung erfolgt gemaess §§ 305 ff. BGB.
+Im Rahmen der Legal-Due-Diligence wurde festgestellt, dass der ESV massgeblich von AGB der SolarService GmbH (Verwender) geprägt ist. Die AGB-Pruefung erfolgt gemäß §§ 305 ff. BGB.
 
 ---
 
 ## AGB-Einbeziehung (§ 305 Abs. 2 BGB)
 
-Die Allgemeinen Geschäftsbedingungen der SolarService GmbH wurden auf der letzten Seite des ESV als "Allgemeine Lieferbedingungen SolarService GmbH, Stand Januar 2020" einbezogen. Ausdrücklicher Hinweis bei Vertragsschluss sowie Einräumung der Möglichkeit zur Kenntnisnahme — Einbeziehungsvoraussetzungen gemaess § 305 Abs. 2 Nr. 1, 2 BGB prima facie erfüllt. Keine Überraschungsklauseln i.S.d. § 305c Abs. 1 BGB identifiziert.
+Die Allgemeinen Geschäftsbedingungen der SolarService GmbH wurden auf der letzten Seite des ESV als "Allgemeine Lieferbedingungen SolarService GmbH, Stand Januar 2020" einbezogen. Ausdrücklicher Hinweis bei Vertragsschluss sowie Einräumung der Möglichkeit zur Kenntnisnahme — Einbeziehungsvoraussetzungen gemäß § 305 Abs. 2 Nr. 1, 2 BGB prima facie erfüllt. Keine Überraschungsklauseln i.S.d. § 305c Abs. 1 BGB identifiziert.
 
 ---
 

@@ -24,7 +24,7 @@ Die Initiative finanziert sich aus Privatspenden, einer zweckgebundenen Vereinsz
 
 **Was die Initiative will**
 
-Die Initiative bittet den Deutschen Bundestag, die Finanzierung der B 449n-Trasse auszusetzen, bis eine vergleichende Alternativenpruefung gemaess §§ 7, 8 UVPG vorliegt. Eine entsprechende Petition wurde am 02.04.2026 eingereicht (Vorgangsnummer 4-26-15-928-039123), hat das Quorum aber verfehlt.
+Die Initiative bittet den Deutschen Bundestag, die Finanzierung der B 449n-Trasse auszusetzen, bis eine vergleichende Alternativenpruefung gemäß §§ 7, 8 UVPG vorliegt. Eine entsprechende Petition wurde am 02.04.2026 eingereicht (Vorgangsnummer 4-26-15-928-039123), hat das Quorum aber verfehlt.
 
 **Hintergrund Eintragung**
 

@@ -54,7 +54,7 @@
 
 ## 5. Verteidigungs-Hinweise
 
-- **Strukturindizien Geldwaesche** sind dichten — Briefkastenstruktur Zypern; wiederkehrende Mitteilungszwecke ohne nachweisbare Vertraege.
+- **Strukturindizien Geldwaesche** sind dichten — Briefkastenstruktur Zypern; wiederkehrende Mitteilungszwecke ohne nachweisbare Verträge.
 - **Verteidigungsansatz** § 261 StGB: Es liegt ein **Vortaten-Komplex** (§ 264 StGB Subventionsbetrug; § 266 StGB Untreue) vor — d.h. die Pellbach-Logistyka-Auslandszahlungen können Tathandlung der Geldwaesche sein.
 - Eingehende Klärung: ob Pellbach in seiner Funktion als GF wusste, dass die Edelweiss Holdings letztlich ihm zuzurechnen ist.
 - **Bargeldabhebungen Koeln 412k** + Wroclaw-Auslandszahlungen 459k = zusammen über 871k EUR im fraglichen Zeitraum.

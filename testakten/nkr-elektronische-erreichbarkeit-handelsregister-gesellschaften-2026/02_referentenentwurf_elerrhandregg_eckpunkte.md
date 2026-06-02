@@ -20,7 +20,7 @@ Die Gesellschaft kann wählen zwischen:
 
 a) **beA** (besonderes elektronisches Anwaltspostfach des § 31a BRAO — wo Anwaltskanzlei das Postfach betreibt)
 b) **De-Mail** (De-Mail-Gesetz)
-c) **qualifizierter eIDAS-konformer Mailbox-Dienst** (gemaess Art. 25 VO (EU) 910/2014 — eIDAS)
+c) **qualifizierter eIDAS-konformer Mailbox-Dienst** (gemäß Art. 25 VO (EU) 910/2014 — eIDAS)
 
 **Kritisch:** Keine Pruefung der **Interoperabilität**; keine Klarstellung, ob das **EUDI-Wallet** (EU Digital Identity Wallet) ab 2026 zwingend zu unterstützen ist.
 

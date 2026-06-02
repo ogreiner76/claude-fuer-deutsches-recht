@@ -40,7 +40,7 @@ Die Anmelderin hat am 02.03.2026 ein sog. „Klimacamp" als Dauerversammlung ang
 
 ### II.2 Rechtliche Würdigung
 
-**a) Bannmeile:** Gemaess § 16 SaarlVersG ist es verboten, im Bereich einer Bannmeile von 100 Metern um den Saarländischen Landtag Versammlungen unter freiem Himmel abzuhalten, die geeignet sind, die Tätigkeit des Landtags zu beeinträchtigen. Der Vorplatz des Landtags liegt innerhalb dieser Bannmeile. Das geplante Dauercamp mit Schichtbetrieb, Beschallung und optischer Dominanz beeinträchtigt die Funktionsfähigkeit des Parlaments.
+**a) Bannmeile:** Gemäß § 16 SaarlVersG ist es verboten, im Bereich einer Bannmeile von 100 Metern um den Saarländischen Landtag Versammlungen unter freiem Himmel abzuhalten, die geeignet sind, die Tätigkeit des Landtags zu beeinträchtigen. Der Vorplatz des Landtags liegt innerhalb dieser Bannmeile. Das geplante Dauercamp mit Schichtbetrieb, Beschallung und optischer Dominanz beeinträchtigt die Funktionsfähigkeit des Parlaments.
 
 **b) Keine schutzwürdige Versammlung i.S.v. Art. 8 GG:** Das geplante Dauercamp stelle keine einheitliche Versammlung im Sinne des Art. 8 I GG dar. Es fehle am gemeinsamen Thema und an einem spezifischen Anlass. Die Permanenz des Camps und der Schichtbetrieb lösten die Veranstaltung aus dem Schutzbereich des Art. 8 GG heraus.
 

@@ -6,7 +6,7 @@
 
 ## Wortlaut
 
-> Wir bitten den Deutschen Bundestag, die Finanzierung der B 449n-Trasse durch das Moorgebiet "Grosses Moor nördlich Waldmoor" auszusetzen, bis eine moorschutzfachliche Alternativenpruefung gemaess §§ 7, 8 UVPG vorliegt und veröffentlicht ist.
+> Wir bitten den Deutschen Bundestag, die Finanzierung der B 449n-Trasse durch das Moorgebiet "Grosses Moor nördlich Waldmoor" auszusetzen, bis eine moorschutzfachliche Alternativenpruefung gemäß §§ 7, 8 UVPG vorliegt und veröffentlicht ist.
 
 ## Begründung (Auszug, gekürzt)
 

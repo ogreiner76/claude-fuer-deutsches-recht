@@ -7,7 +7,7 @@ Eine self-hosted-Wallet ist eine technische Verfügungseinrichtung. Es gibt kein
 1. das Hardware-Gerät (Ledger Nano X) selbst,
 2. die verkörperte Seed-Phrase (Stahlblech Cryptosteel Capsule),
 3. nach herrschender obergerichtlicher Linie zusätzlich der "Datenwert" der privaten Schlüssel als sui generis Vermögensgegenstand,
-4. ggf. das speichernde Endgerät (MacBook Pro), wenn dort Software-Wallet mit Vermoegen liegt.
+4. ggf. das speichernde Endgerät (MacBook Pro), wenn dort Software-Wallet mit Vermögen liegt.
 
 Schwerpunkt der praktischen Verwertung ist die Mitwirkung des Schuldners: der GV lässt sich das Gerät aushändigen und verlangt die Eingabe der PIN bzw. die Offenlegung der Seed-Phrase, sodann überweisen die zur Verwertung beauftragten Personen die Coins auf eine Verwertungs-Adresse der Gläubigerin oder eines Verwerters. Ohne Mitwirkung droht Erzwingungshaft Paragraf 802g ZPO bzw. **Zwangsgeld/Zwangshaft Paragrafen 888, 890 ZPO** (Streit; pragmatisch über Paragraf 836 Abs. 3 ZPO ergänzend).
 
@@ -40,7 +40,7 @@ Marktwert per 22.4.2026 rund 43.000 EUR; Realisierungsrisiko durch Volatilität 
 ## Schuldner-Verteidigung (zu prüfen)
 
 - **Selbstbelastungsverweigerung** (Paragraf 802c Abs. 3 ZPO analog): Schuldner darf die Vermögensauskunft im strafrechtlich verwertbaren Teil verweigern; **nicht** aber die Mitwirkung an einer rechtmaessigen Vollstreckung gegen ihn selbst. Verweigert er die PIN, droht Zwangshaft Paragraf 888 ZPO.
-- **Drittwiderspruch Paragraf 771 ZPO**: könnte Dorothea Mueller geltend machen, falls Coins gemeinschaftliches Vermoegen waren - in der VA hat Bernd Mueller aber Alleineigentum erklärt.
+- **Drittwiderspruch Paragraf 771 ZPO**: könnte Dorothea Mueller geltend machen, falls Coins gemeinschaftliches Vermögen waren - in der VA hat Bernd Mueller aber Alleineigentum erklärt.
 - **Vollstreckungsschutz Paragraf 765a ZPO**: bei nahezu kompletter Kryptoanlage einer Altersversorgung denkbar; vorliegend kein Anhalt (Spekulationsguthaben).
 - **Härteanträge gegen Coins als Hausrat**? Klar: Paragraf 811 ZPO greift nicht; Krypto ist kein Hausrat.
 

@@ -22,7 +22,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Kurzbild
 
-- StA Stuttgart 4 Js 18.422/26; bandenmaessiger schwerer Raub gemaess § 250 Abs. 2 StGB am 18.10.2025, Familienjuwelier Goldhofer-Egenter, Koenigstrasse 47 Stuttgart.
+- StA Stuttgart 4 Js 18.422/26; bandenmaessiger schwerer Raub gemäß § 250 Abs. 2 StGB am 18.10.2025, Familienjuwelier Goldhofer-Egenter, Koenigstrasse 47 Stuttgart.
 - Tatbeute: ca. 1,7 Mio. EUR (Rolex, Patek Philippe, Bulgari-Halsketten); zwei Verletzte (Inhaberin Beate Goldhofer-Egenter: Schädelprellung; Mitarbeiterin Selma Aydin: HWS-Schleudertrauma, PTBS).
 - Vier Beschuldigte: Mateusz Korbiel (28, pol. Staatsangehöriger, JVA Stammheim, Verteidiger Dr. Schorlemmer), Lukas-Maxim Drebenstedt (33, Stuttgart-Bad Cannstatt, auf freiem Fuss mit Kontaktverbot § 116 StPO, Verteidiger RA Steinbach), Vasile Iordache (41, rum. Staatsangehöriger, flüchtig, Interpol Red Notice, Pflichtverteidiger RA Krämer) und Edona Krasniqi (26, kos. Staatsangehörige, JVA Schwäbisch Gmuend, schwanger SSW 24, Mutter Kleinkind Blerim, Verteidigerin RAin Dr. Mohnsen-Stoeber).
 - Hauptverhandlung geplant: LG Stuttgart 4. Grosse Strafkammer, KLs 4 Js 18.422/26, voraussichtlich Mai bis September 2026 (22 Verhandlungstage).

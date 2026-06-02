@@ -80,7 +80,7 @@ Art. 49 Abs. 3 GRCh: Das Mass der Strafe muss zur Straftat in einem angemessenen
 
 ### 4.1 Primär: Vorabentscheidungsersuchen EuGH
 
-Beim VG Düsseldorf (oder OVG NRW) wird ein Vorabentscheidungsersuchen gemaess Art. 267 AEUV angestrebt, um folgende Fragen klären zu lassen:
+Beim VG Düsseldorf (oder OVG NRW) wird ein Vorabentscheidungsersuchen gemäß Art. 267 AEUV angestrebt, um folgende Fragen klären zu lassen:
 - Darf Art. 83 DSGVO so ausgelegt werden, dass der absolute Betrag (20 Mio. EUR) auch bei KMU mit sehr viel niedrigerem Jahresumsatz angewendet wird?
 - Ist bei fehlender Absicht und vollständiger Kooperation ein Bussgeld nahe des Maximalbetrags verhaeltnismaessig (Art. 49 GRCh)?
 

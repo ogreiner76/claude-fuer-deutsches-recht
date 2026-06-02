@@ -42,7 +42,7 @@ Stand: 30.05.2026
 | M-3 Schutzschrift + Schriftsatzdrucke | Entwurf Schutzschrift, Haftprüfungsantrag, Haftbeschwerde |
 | M-4 Wirtschaftsgutachten | Bestellung Privatgutachten Insolvenzreife (Prof. Dr. Linthorst-Behrenfels, Heidelberg) |
 | M-5 Steuerstrafrecht | Korrespondenz Engelmeier, Pruefung § 371 AO, Berechnung Verkuerzungsschaden |
-| M-6 Wroclaw / Konzern | Vertraege, Lizenzgebühren-Modelle, Beratervertrag Kowalczyk-Mlocki |
+| M-6 Wroclaw / Konzern | Verträge, Lizenzgebühren-Modelle, Beratervertrag Kowalczyk-Mlocki |
 | M-7 Pressemappe | Presseanfragen, Kanzleistellungnahmen, Family Brief |
 | M-8 Strategiepapiere | Best/Worst-Case-Memos, Verstaendigungs-Memo, Plädoyer-Skizzen |
 

@@ -68,6 +68,6 @@ Es wird beantragt,
 
 Hinweis: Im Widerspruchsverfahren fällt keine PKH an (Paragraf 73a SGG iVm Paragraf 114 ZPO setzt Klage voraus). Sollte das Widerspruchsverfahren erfolglos enden, ist beim Sozialgericht Kiel parallel zur Klage PKH zu beantragen.
 
-Erforderliche Unterlagen: PKH-Vordruck SG Kiel, ALG-Bescheid, Mietvertrag, Kontoauszüge drei Monate, Erklärung zu Vermoegen (Eigentumswohnung mit Lebenspartnerin? - klären!).
+Erforderliche Unterlagen: PKH-Vordruck SG Kiel, ALG-Bescheid, Mietvertrag, Kontoauszüge drei Monate, Erklärung zu Vermögen (Eigentumswohnung mit Lebenspartnerin? - klären!).
 
 Holm - Rechtsanwalt

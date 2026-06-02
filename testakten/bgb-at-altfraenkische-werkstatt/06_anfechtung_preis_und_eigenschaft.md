@@ -53,7 +53,7 @@ Adelheid Krummstab
 2. **Annahmefrist und Empfängerhorizont**
    - "Montagabend" ist unscharf. Auslegung: bis zum Ende des allgemein verstandenen Abends, jedenfalls nicht über Mitternacht hinaus.
    - Kunigunde hätte die Mail spätestens am 13.04.2026 mit funktionsfähigem Netz absenden müssen. Die Risikosphäre "Postausgang hängt" liegt im Verantwortungsbereich des Absenders.
-   - Argumentativ möglich: Kunigunde hat die Erklärung "abgegeben" durch das Klicken auf "Senden". Aber nach § 130 Abs. 1 BGB ist nicht Abgabe massgeblich, sondern **Zugang** beim Empfänger. Zugang ist Eingang im Machtbereich des Empfängers und unter normalen Umständen zu erwartende Kenntnisnahme. Zugang dahin: nach 22:48 Uhr bei niemandem zu erwarten; über Nacht im Mailserver, aber Zustellung beim Empfängerserver gemaess Logs 14.04.2026 08:08 Uhr.
+   - Argumentativ möglich: Kunigunde hat die Erklärung "abgegeben" durch das Klicken auf "Senden". Aber nach § 130 Abs. 1 BGB ist nicht Abgabe massgeblich, sondern **Zugang** beim Empfänger. Zugang ist Eingang im Machtbereich des Empfängers und unter normalen Umständen zu erwartende Kenntnisnahme. Zugang dahin: nach 22:48 Uhr bei niemandem zu erwarten; über Nacht im Mailserver, aber Zustellung beim Empfängerserver gemäß Logs 14.04.2026 08:08 Uhr.
 
 3. **Anfechtung Adelheids**
    - § 119 Abs. 1 BGB Erklärungsirrtum: "1.480" statt "14.800" – Tippfehler. Früh genug angefochten (innerhalb von Tagen nach Entdeckung 14.04.2026).

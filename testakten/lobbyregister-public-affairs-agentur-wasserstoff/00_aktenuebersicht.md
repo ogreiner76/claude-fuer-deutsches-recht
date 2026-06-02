@@ -22,7 +22,7 @@
 
 ## Bearbeitungsziel
 
-Bis 30.06.2026 vollständige Q2-Registeraktualisierung, Auftraggebertext gemaess Mandantenkorrektur (HansaH2-Mail vom 26.05.2026), Unterauftragnehmerklassifikation OpenGrid mit eigener Eintragung oder Eintragung als Unterauftrag bei Spreebogen, Quartalsupload der Stellungnahmen, sauberer Konformitätsbericht für die GeschF.
+Bis 30.06.2026 vollständige Q2-Registeraktualisierung, Auftraggebertext gemäß Mandantenkorrektur (HansaH2-Mail vom 26.05.2026), Unterauftragnehmerklassifikation OpenGrid mit eigener Eintragung oder Eintragung als Unterauftrag bei Spreebogen, Quartalsupload der Stellungnahmen, sauberer Konformitätsbericht für die GeschF.
 
 ## Bezug zum Mandantenleitfaden
 

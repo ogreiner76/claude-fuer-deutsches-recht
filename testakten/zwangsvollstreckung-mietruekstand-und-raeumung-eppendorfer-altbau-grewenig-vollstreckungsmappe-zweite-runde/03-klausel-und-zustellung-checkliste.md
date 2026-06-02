@@ -13,7 +13,7 @@
 |---|---|---|
 | 1 | Antrag auf Klauselerteilung gestellt | ✓ durch Kanzlei am 15.11.2025 |
 | 2 | Zustaeindige Stelle | Urkundsbeamtin der Geschäftsstelle AG Hamburg-Altona |
-| 3 | Klauselart | einfache Klausel gemaess § 724 Abs. 1 ZPO |
+| 3 | Klauselart | einfache Klausel gemäß § 724 Abs. 1 ZPO |
 | 4 | Datum Klauselerteilung | 18.11.2025 |
 | 5 | Wortlaut Klausel geprüft | ✓ — vollständig, korrekte Parteibezeichnungen |
 | 6 | Erster Groessstempel vorhanden | ✓ |
@@ -47,7 +47,7 @@ Bei qualifizierter Klausel Pflicht zur Vorauszustellung (§ 750 Abs. 2 ZPO). Hie
 | Vollstreckungsart | Frist | Status |
 |---|---|---|
 | Geldforderung | Keine gesetzliche Mindestwartefrist nach Zustellung (§ 750 ZPO) | Sofort möglich |
-| Raeumung § 885 ZPO | GV setzt Räumungstermin; Ankündigungsfrist gemaess GV-Praxis mind. 2 Wochen | Zu beachten |
+| Raeumung § 885 ZPO | GV setzt Räumungstermin; Ankündigungsfrist gemäß GV-Praxis mind. 2 Wochen | Zu beachten |
 | PfUEB Drittschuldner | Wartefrist § 829 Abs. 3 ZPO: 2 Wochen nach Zustellung an Drittschuldner bis Einziehung | Zu beachten |
 
 ---

@@ -143,6 +143,6 @@ In allen Werthaltigkeits-Varianten ist die Sanierung mit § 3a EStG steuerfrei. 
 
 ## X. Ergebnis und Empfehlung
 
-Variante A (mit DES, gemaess WP-Gutachten Buchner & Voltz) ist die Plan-Vorlage. Die Sanierung ist steuerlich tragfähig, soweit die § 3a EStG- und § 7b GewStG-Anträge rechtzeitig gestellt sind (geschehen 27.05.2026). Risiko-Bewertung niedrig.
+Variante A (mit DES, gemäß WP-Gutachten Buchner & Voltz) ist die Plan-Vorlage. Die Sanierung ist steuerlich tragfähig, soweit die § 3a EStG- und § 7b GewStG-Anträge rechtzeitig gestellt sind (geschehen 27.05.2026). Risiko-Bewertung niedrig.
 
 — gez. Vogelweid (StB), 25.05.2026

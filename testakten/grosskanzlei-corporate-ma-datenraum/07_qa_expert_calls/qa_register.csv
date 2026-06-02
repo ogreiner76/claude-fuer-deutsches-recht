@@ -1,6 +1,6 @@
 q_id,workstream,frage,gestellt_am,gestellt_durch,status,owner,antwort_datum,antwort_zusammenfassung,spa_relevanz,rf_ref
 Q-001,Corporate,Aktuelle notariell beglaubigte Gesellschafterliste (Solaris Industries AG) bereitstellen,25.11.2024,Sophie Maurer,open,Seller Counsel Dr. Baeumler,,,ja (G-001),
-Q-002,Commercial,Ist für Change-of-Control gemaess C-001 (Kunde A) ein Consent des Kunden erforderlich? Bereitschaft des Kunden?,25.11.2024,Katharina Pfeiffer,open,Management / Seller,,,ja (RF-001),RF-001
+Q-002,Commercial,Ist für Change-of-Control gemäß C-001 (Kunde A) ein Consent des Kunden erforderlich? Bereitschaft des Kunden?,25.11.2024,Katharina Pfeiffer,open,Management / Seller,,,ja (RF-001),RF-001
 Q-003,Commercial,Qualifizierungsprotokoll alternativer Halbleiterlieferant (Dual Sourcing) bitte vorlegen,04.12.2024,Katharina Pfeiffer,open,COO Krause,,,,
 Q-004,Employment,Betriebsratsprotokoll zur Unterrichtung nach § 111 BetrVG: Wann genau erfolgte oder erfolgt die Unterrichtung?,04.12.2024,Tim Berger,open,Fabian Koehler,,,,ja
 Q-005,Financial,US-Darlehen Ohio-Investition: Betrag in USD und EUR (Wechselkurs Referenzdatum); Zinssatz; Fälligkeit; Rückzahlungsmodalitäten,04.12.2024,Dr. Sabine Roth,open,Thomas Bergmann,,,,ja (Debt-like Item)

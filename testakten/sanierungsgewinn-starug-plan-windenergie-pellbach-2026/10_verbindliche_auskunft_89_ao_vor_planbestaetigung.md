@@ -31,9 +31,9 @@ Wir verweisen vollumfaenglich auf den Sachverhalt der StaRUG-Anzeige v. 14.03.20
 - Sanierungseignung (Plan-Eckpunkte: Forderungsverzicht 22 Mio + DES + Pivot Direktvermarktung)
 - Sanierungsabsicht der Banken (Banken-Konsortium-Vereinbarung v. 10.03.2026)
 
-**Frage 2 (Verrechnung):** Wird der KSt-Verlustvortrag zum 31.12.2025 in Höhe von 6.000.000 EUR sowie der GewSt-Verlustvortrag zum 31.12.2025 in Höhe von 9.000.000 EUR nach § 3a Abs. 3 EStG (sinngemaess für GewSt: § 7b GewStG i.V.m. § 3a Abs. 3 EStG) **zwingend mit dem Sanierungsertrag verrechnet**, sodass der verbleibende Sanierungsertrag — 16 Mio EUR (KSt) bzw. 13 Mio EUR (GewSt) — der Steuerbefreiung nach § 3a Abs. 1 EStG bzw. § 7b GewStG unterliegt?
+**Frage 2 (Verrechnung):** Wird der KSt-Verlustvortrag zum 31.12.2025 in Höhe von 6.000.000 EUR sowie der GewSt-Verlustvortrag zum 31.12.2025 in Höhe von 9.000.000 EUR nach § 3a Abs. 3 EStG (sinngemäß für GewSt: § 7b GewStG i.V.m. § 3a Abs. 3 EStG) **zwingend mit dem Sanierungsertrag verrechnet**, sodass der verbleibende Sanierungsertrag — 16 Mio EUR (KSt) bzw. 13 Mio EUR (GewSt) — der Steuerbefreiung nach § 3a Abs. 1 EStG bzw. § 7b GewStG unterliegt?
 
-**Frage 3 (DES-Werthaltigkeit):** Bestätigen Sie, dass der Debt-Equity-Swap (DES) der Banken (Forderungsnennwert 8.000.000 EUR; Werthaltigkeit gemaess WP-Gutachten Buchner & Voltz 5.200.000 EUR) zu folgender steuerlicher Behandlung führt:
+**Frage 3 (DES-Werthaltigkeit):** Bestätigen Sie, dass der Debt-Equity-Swap (DES) der Banken (Forderungsnennwert 8.000.000 EUR; Werthaltigkeit gemäß WP-Gutachten Buchner & Voltz 5.200.000 EUR) zu folgender steuerlicher Behandlung führt:
 
 - Einlage-Anteil: 5.200.000 EUR (steuerneutral)
 - Sanierungsertrag-Anteil DES: 2.800.000 EUR (zusätzlicher Sanierungsertrag i.S.v. § 3a EStG)?

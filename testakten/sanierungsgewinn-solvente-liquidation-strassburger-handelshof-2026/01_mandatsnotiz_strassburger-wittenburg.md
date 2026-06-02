@@ -27,7 +27,7 @@ Mandatierungstermin in Präsenz: 12.02.2026, 14:00 Uhr Kantstrasse 88, Konferenz
 
 ---
 
-## 3. Sachverhaltsschilderung der Mandantin (Auszug — sinngemaess)
+## 3. Sachverhaltsschilderung der Mandantin (Auszug — sinngemäß)
 
 > "Mein Mann und ich haben den Strassburger Handelshof 1998 gegründet. Wir hatten gute Jahre — die Boutiquen in Berlin, Hamburg, Muenchen, dazu Wien und Zürich. Wir waren ein Familienbetrieb. Nach Joachims Tod 2019 habe ich allein weitergemacht. Dann kam Corona. Die Boutiquen mussten schliessen, manche kamen nicht mehr. Ich habe Geld eingeschossen, immer wieder, vor allem 2018 und 2021, insgesamt 2,4 Millionen Euro aus meinem Witwen-Erbe. Ich habe gedacht, ich kann das durchziehen. Aber seit 2024 weiss ich, dass es nicht mehr geht. Die Kunden sind abgewandert ins Online-Geschäft. Mein Lagerbestand ist seit Ende 2025 abverkauft. Ich habe noch 240.000 Euro auf dem Geschäftskonto und 60.000 Euro offene Forderungen. Lieferanten und Löhne kann ich bezahlen, die Steuern stehen im Stundungsplan. Ich will geordnet auflösen, ohne Insolvenz. Mein Steuerberater sagt aber, das Darlehen könnte am Ende noch einen Sanierungsgewinn auslösen, der versteuert werden müsste — und das verstehe ich nicht."
 

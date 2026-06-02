@@ -58,7 +58,7 @@ Ein Widerrufsmechanismus ist technisch nicht implementiert. Ergebnis: Widerrufsm
 **Tatbestand:** Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Massnahmen, die auf Anfrage der betroffenen Person erfolgen, erforderlich.
 
 **Pruefung:**
-Zwischen VCS und den Mietinteressenten besteht kein Vertrag. VCS unterhalt Vertraege mit den Privatvermietern (B2B-SaaS-Abonnement). Die Mietinteressenten sind keine Vertragsparteien. Das EDSA-Leitlinien 02/2019 (Art. 6 Abs. 1 lit. b) stellt klar, dass der Betroffene selbst Vertragspartei sein muss.
+Zwischen VCS und den Mietinteressenten besteht kein Vertrag. VCS unterhalt Verträge mit den Privatvermietern (B2B-SaaS-Abonnement). Die Mietinteressenten sind keine Vertragsparteien. Das EDSA-Leitlinien 02/2019 (Art. 6 Abs. 1 lit. b) stellt klar, dass der Betroffene selbst Vertragspartei sein muss.
 
 **Gesamtergebnis Art. 6 Abs. 1 lit. b DSGVO:** Tatbestand nicht erfullt. **Ergebnis: Nicht anwendbar.**
 

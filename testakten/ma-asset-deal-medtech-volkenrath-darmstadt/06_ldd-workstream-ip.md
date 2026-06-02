@@ -37,7 +37,7 @@ FraktoMedis Präzision hat 3 ausgehende Lizenzverträge (Lizenznehmer: Orthobion
 
 ## 5. Know-How und Betriebsgeheimnisse
 
-Interne Fertigungsverfahren sind teilweise nur als Know-How (nicht patentiert) geschützt. Key Persons: 3 leitende Ingenieure mit Non-Compete-Klauseln. Pruefung: Die Non-Compete-Klauseln sind nach deutschem Recht (§§ 74 ff. HGB) nur bei vollständiger Karenzentschaedigung durchsetzbar — dies ist gemaess Akte gewahrt.
+Interne Fertigungsverfahren sind teilweise nur als Know-How (nicht patentiert) geschützt. Key Persons: 3 leitende Ingenieure mit Non-Compete-Klauseln. Pruefung: Die Non-Compete-Klauseln sind nach deutschem Recht (§§ 74 ff. HGB) nur bei vollständiger Karenzentschaedigung durchsetzbar — dies ist gemäß Akte gewahrt.
 
 ## 6. Empfehlungen
 

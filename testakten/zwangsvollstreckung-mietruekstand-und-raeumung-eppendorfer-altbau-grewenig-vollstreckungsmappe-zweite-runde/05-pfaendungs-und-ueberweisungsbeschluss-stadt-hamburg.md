@@ -46,7 +46,7 @@ Beantragt wird:
 
 ## Pfaendungsfreigrenze 2026 — Vorberechnng
 
-Massgebliche Tabelle: Pfaendungsfreigrenzen gemaess § 850c ZPO i.V.m. Bekanntmachung BGBl. I 2025  
+Massgebliche Tabelle: Pfaendungsfreigrenzen gemäß § 850c ZPO i.V.m. Bekanntmachung BGBl. I 2025  
 (detaillierte Berechnung s. Aktenstuck 08 und XLSX-Anlage)
 
 | Parameter | Wert |

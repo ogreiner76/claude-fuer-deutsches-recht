@@ -27,7 +27,7 @@ Hildegard merkt an: "Wenn wir uns pflichtig eintragen, sagt das, dass wir die ga
 
 ## TOP 3: Beschluss zum Pflicht- oder Freiwilligstatus
 
-Antrag Luise: "Das Kernteam empfiehlt dem Plenum die Pflichteintragung im Lobbyregister beim Deutschen Bundestag mit Stichtag frühestens 25.05.2026, spätestens 31.05.2026, vorbehaltlich der vom Plenum getragenen Mehrheit. Der Eintragsentwurf wird gemaess Vorlage 16_registerentwurf_freiwillig.json unter Aktualisierung des Status auf 'Pflichteintragung' verabschiedet."
+Antrag Luise: "Das Kernteam empfiehlt dem Plenum die Pflichteintragung im Lobbyregister beim Deutschen Bundestag mit Stichtag frühestens 25.05.2026, spätestens 31.05.2026, vorbehaltlich der vom Plenum getragenen Mehrheit. Der Eintragsentwurf wird gemäß Vorlage 16_registerentwurf_freiwillig.json unter Aktualisierung des Status auf 'Pflichteintragung' verabschiedet."
 
 Stimmen: 5 ja (Luise, Navid, Greta, Anke, Tobias), 1 nein (Paul: "freiwillig und mit Vorbehalt wäre mir lieber"), 0 Enthaltungen.
 

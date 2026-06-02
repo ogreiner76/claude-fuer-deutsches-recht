@@ -9,7 +9,7 @@
 
 ## 1. Vorbemerkung: Hochprofil-Betroffene
 
-Neben Dr. Tannenbruck (s. Akte 12) haben zwei weitere Hochrisiko-Betroffene Auskunftsersuchen gemaess Art. 15 DSGVO gestellt, deren Bearbeitung einer gesonderten Analyse bedarf:
+Neben Dr. Tannenbruck (s. Akte 12) haben zwei weitere Hochrisiko-Betroffene Auskunftsersuchen gemäß Art. 15 DSGVO gestellt, deren Bearbeitung einer gesonderten Analyse bedarf:
 
 1. **Wibke Drostermann** — Sachbuchautorin, Veröffentlichung eines Buches über Diskriminierung im Mietmarkt (erscheint März 2026, Rowohlt-Verlag), mit einem Kapitel über VermieterCheck
 2. **Felix Kaltenbach** — Wissenschaftsjournalist, NDR Panorama, recherchiert für eine Sendereihe über KI-Profiling im deutschen Mietmarkt (Sendetermin geplant März 2026)
@@ -106,7 +106,7 @@ Nein. Eine solche Verweigerung wäre rechtswidrig und würde die Berichterstattu
 
 ## 5. Rechtliche Folgen bei Nichterteilung
 
-Gemaess Art. 83 Abs. 5 lit. b DSGVO ist die Verletzung der Betroffenenrechte (Art. 12–22 DSGVO) mit einem Bussgeld bis 20.000.000 EUR oder 4% des Jahresumsatzes bedroht.
+Gemäß Art. 83 Abs. 5 lit. b DSGVO ist die Verletzung der Betroffenenrechte (Art. 12–22 DSGVO) mit einem Bussgeld bis 20.000.000 EUR oder 4% des Jahresumsatzes bedroht.
 
 Zusätzlich: Klage auf Auskunftserteilung (§ 15 DSGVO) — Unterlassungsklage und Schadensersatz Art. 82 DSGVO.
 

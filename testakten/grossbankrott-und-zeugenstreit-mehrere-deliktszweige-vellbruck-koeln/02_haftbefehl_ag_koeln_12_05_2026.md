@@ -12,7 +12,7 @@ Gegen den
 
 **Dr. Carlsten Heinrich Pellbach-Eisenacher**, geboren am 18.10.1971 in Koeln, deutscher Staatsangehöriger, wohnhaft Sankt-Vither Strasse 41, 50937 Koeln, Geschäftsführer der Pellbach Logistik & Spedition GmbH,
 
-wird gemaess §§ 112 Abs. 1, Abs. 2 Nr. 2, Nr. 3, 114, 125 StPO
+wird gemäß §§ 112 Abs. 1, Abs. 2 Nr. 2, Nr. 3, 114, 125 StPO
 
 **die Untersuchungshaft angeordnet.**
 
@@ -34,11 +34,11 @@ Der Beschuldigte ist dringend verdächtig, als Geschäftsführer der Pellbach Lo
 
    b) Handelsbücher, deren Führung gesetzlich vorgeschrieben ist, nicht ordnungsgemaess geführt und die Buchhaltung zwischen Februar und März 2025 unterbrochen zu haben (§ 283 Abs. 1 Nr. 5 StGB),
 
-   c) in einer den Anforderungen einer ordnungsgemaessen Wirtschaft grob widersprechenden Weise Vermoegen vermindert zu haben durch Privatentnahmen von insgesamt 412.000 EUR im Zeitraum 01.11.2024 bis 28.02.2025 (§ 283 Abs. 1 Nr. 8 StGB),
+   c) in einer den Anforderungen einer ordnungsgemaessen Wirtschaft grob widersprechenden Weise Vermögen vermindert zu haben durch Privatentnahmen von insgesamt 412.000 EUR im Zeitraum 01.11.2024 bis 28.02.2025 (§ 283 Abs. 1 Nr. 8 StGB),
 
 — strafbar nach § 283 Abs. 1 Nr. 1, 5, 8 StGB —
 
-3. unter Verletzung seiner Pflicht aus §§ 35, 43 GmbHG durch die in Ziffer 2 c) bezeichneten Privatentnahmen das Vermoegen der GmbH geschädigt zu haben,
+3. unter Verletzung seiner Pflicht aus §§ 35, 43 GmbHG durch die in Ziffer 2 c) bezeichneten Privatentnahmen das Vermögen der GmbH geschädigt zu haben,
 
 — strafbar nach § 266 Abs. 1 StGB —
 
@@ -92,7 +92,7 @@ Mildere Mittel (§ 116 StPO) kommen nach derzeitigem Ermittlungsstand nicht in B
 
 ## VI. Belehrung
 
-Belehrung des Beschuldigten gemaess § 115 Abs. 3, § 136 Abs. 1, § 117 Abs. 1, § 304 Abs. 1 StPO ist erfolgt.
+Belehrung des Beschuldigten gemäß § 115 Abs. 3, § 136 Abs. 1, § 117 Abs. 1, § 304 Abs. 1 StPO ist erfolgt.
 
 ---
 

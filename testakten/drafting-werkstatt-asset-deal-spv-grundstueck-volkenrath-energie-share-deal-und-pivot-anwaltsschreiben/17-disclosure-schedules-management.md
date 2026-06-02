@@ -48,7 +48,7 @@ Jede Warranty erhält eine korrespondierende Schedule-Nummer:
 
 Offenlegung in DS 4.12 (Umweltverpflichtungen) kann auf Anlage 3 (Erbbaurechtsvertrag) verweisen:
 
-"In Erweiterung von Schedule 4.12 wird auf Anlage 3 (Erbbaurechtsvertrag) verwiesen; etwaige Verpflichtungen gemaess Abschnitt 7 des Erbbaurechtsvertrages (Rueckgabepflichten) sind als Teil dieser Offenlegung zu lesen."
+"In Erweiterung von Schedule 4.12 wird auf Anlage 3 (Erbbaurechtsvertrag) verwiesen; etwaige Verpflichtungen gemäß Abschnitt 7 des Erbbaurechtsvertrages (Rueckgabepflichten) sind als Teil dieser Offenlegung zu lesen."
 
 **Achtung:** Verweise müssen präzise sein (Seitennummer, Abschnittsnummer). Unklare Verweise ("wie sich aus dem Datenraum ergibt") werden von Käufer-Kanzlei als nicht-qualifizierend abgelehnt.
 

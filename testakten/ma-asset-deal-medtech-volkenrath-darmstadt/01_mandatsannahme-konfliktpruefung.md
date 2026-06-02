@@ -24,7 +24,7 @@ Das Mandat umfasst:
 
 ## 2. Interessenkonfliktprüfung (§ 43a Abs. 4 BRAO)
 
-Gemaess § 43a Abs. 4 BRAO und den Regelungen der Berufsordnung der Rechtsanwälte (BORA) wurde eine umfassende Interessenkonfliktprüfung durchgeführt.
+Gemäß § 43a Abs. 4 BRAO und den Regelungen der Berufsordnung der Rechtsanwälte (BORA) wurde eine umfassende Interessenkonfliktprüfung durchgeführt.
 
 **Pefung vom 14. Oktober 2025 — Ergebnis:**
 
@@ -32,7 +32,7 @@ Die Kanzlei Drosselberg, Mannfeldt & Partner hat in den zurückliegenden fünf J
 
 Eine Pruefung ergab keinerlei Interessenkollision im Sinne von § 43a Abs. 4 BRAO. Eine interne Mandatsnummer wurde unter DMP/2025/MA/4471 vergeben.
 
-**Datenschutzrechtliche Hinweise:** Die Mandantin wurde über die Verarbeitung personenbezogener Daten gemaess Art. 13 DSGVO informiert.
+**Datenschutzrechtliche Hinweise:** Die Mandantin wurde über die Verarbeitung personenbezogener Daten gemäß Art. 13 DSGVO informiert.
 
 ## 3. Retainer-Vereinbarung und Honorar
 

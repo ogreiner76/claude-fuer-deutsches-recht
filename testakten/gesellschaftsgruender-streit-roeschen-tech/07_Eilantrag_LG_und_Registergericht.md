@@ -44,7 +44,7 @@ Hilfsweise: Es wird beantragt, die Verfuegungsbeklagte unter Festsetzung eines O
 
 ### Verfügungsanspruch
 
-1. **Hohe Wahrscheinlichkeit der Anfechtbarkeit / Nichtigkeit** des Beschlusses gemaess Paragraf 55 IV GmbHG iVm Paragraf 138 BGB:
+1. **Hohe Wahrscheinlichkeit der Anfechtbarkeit / Nichtigkeit** des Beschlusses gemäß Paragraf 55 IV GmbHG iVm Paragraf 138 BGB:
 
    - Bezugsrechtsausschluss ohne sachliche Rechtfertigung (BGH Kali+Salz)
    - Verstoss gegen Treuepflicht (Paragraf 242 BGB)
@@ -106,7 +106,7 @@ RA Dr. Markus Meurer, Litzowufer 24, 10785 Berlin
 
 Es wird beantragt,
 
-das Registergericht möge gemaess Paragraf 16 II HGB analog iVm Paragrafen 374, 391 FamFG **anordnen**,
+das Registergericht möge gemäß Paragraf 16 II HGB analog iVm Paragrafen 374, 391 FamFG **anordnen**,
 
 dass die Eintragung der mit Beschluss der Gesellschafterversammlung der Roeschen Tech GmbH vom 18.06.2026 (TOP 3) beschlossenen Kapitalerhöhung um 12.500 EUR mit Bezugsrechtsausschluss zugunsten der Pi Mu Holding GmbH **bis zur rechtskräftigen Entscheidung** des in der Hauptsache anhängigen Anfechtungsverfahrens (LG Berlin Az. [...]) **nicht erfolgt**.
 

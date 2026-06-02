@@ -2,7 +2,7 @@
 
 ## Titel
 
-Vollstreckbare Ausfertigung der notariellen Urkunde Notar Dr. Berghoff vom 14.6.2017, URNr 882/2017. Die Schuldner haben sich darin **persönlich** der sofortigen Zwangsvollstreckung in ihr gesamtes Vermoegen unterworfen.
+Vollstreckbare Ausfertigung der notariellen Urkunde Notar Dr. Berghoff vom 14.6.2017, URNr 882/2017. Die Schuldner haben sich darin **persönlich** der sofortigen Zwangsvollstreckung in ihr gesamtes Vermögen unterworfen.
 
 ## Forderungshöhe per 25.5.2026
 

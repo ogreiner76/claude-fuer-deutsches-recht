@@ -46,7 +46,7 @@ Standardbeschluss. Voraussetzung: Plan ist plausibel.
 
 Gründe:
 1. **Höhe über niedrigsten Angebot:** 240.000 EUR (Mueller) statt 178.000 EUR (Tiefbau-Tegel). BGH V ZR 175/18 v. 18.12.2018 — verifizieren — fordert: WEG muss bei Sonderumlagen auf Wirtschaftlichkeit der Massnahme achten. Wenn drei vergleichbare Angebote vorliegen, ist die **freihändige Vergabe an das höchste** ohne Begründung anfechtbar.
-2. **Verteilung MEA für hofseitige Balkone**: Eigentümer ohne hofseitige Balkone zahlen, ohne Nutzen zu haben. Prüfe abweichende Verteilung gemaess § 16 II 2 WEG (TOP 9 dafür).
+2. **Verteilung MEA für hofseitige Balkone**: Eigentümer ohne hofseitige Balkone zahlen, ohne Nutzen zu haben. Prüfe abweichende Verteilung gemäß § 16 II 2 WEG (TOP 9 dafür).
 3. **Form**: Sonderumlage muss **eigenständiger Beschluss** sein, nicht Teil des Wirtschaftsplans (BGH V ZR 16/09 v. 21.11.2008 — verifizieren).
 
 Mitigations-Vorschlag:

@@ -98,7 +98,7 @@ BGH NJW 2022, 2187 (2188).
 BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52.
 
 **[PRÜFVERMERK — URL FEHLT (PV-URL)]**
-Die Entscheidung ist frei zugänglich unter dejure.org. Die URL-Angabe ist gemaess Hauszitierregel A.1 Abs. 6 Pflicht.
+Die Entscheidung ist frei zugänglich unter dejure.org. Die URL-Angabe ist gemäß Hauszitierregel A.1 Abs. 6 Pflicht.
 
 **Korrigiertes Zitat:**
 BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52 (54), abrufbar unter: https://dejure.org/2021,40004 (abgerufen am 01.10.2025).

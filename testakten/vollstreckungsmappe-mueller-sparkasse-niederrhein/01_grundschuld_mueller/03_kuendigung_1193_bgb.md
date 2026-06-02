@@ -24,7 +24,7 @@ Betreff: Kündigung der Grundschuld URNr 882/2017 Notar Dr. Berghoff
 
 Sehr geehrte Familie Mueller,
 
-namens und im Auftrag der Sparkasse Niederrhein AOeR kündige ich hiermit die Grundschuld über 380.000 EUR nebst 18 Prozent Zinsen und 10 Prozent einmaliger Nebenleistung, eingetragen im Grundbuch von Krefeld Blatt 12 887, Abteilung III lfd. Nr. 1, gemaess Paragraf 1193 BGB. Mit dem heutigen Tag beginnt die Kündigungsfrist von sechs Monaten. Die dingliche Forderung aus der Grundschuld wird am 14.10.2026 fällig.
+namens und im Auftrag der Sparkasse Niederrhein AOeR kündige ich hiermit die Grundschuld über 380.000 EUR nebst 18 Prozent Zinsen und 10 Prozent einmaliger Nebenleistung, eingetragen im Grundbuch von Krefeld Blatt 12 887, Abteilung III lfd. Nr. 1, gemäß Paragraf 1193 BGB. Mit dem heutigen Tag beginnt die Kündigungsfrist von sechs Monaten. Die dingliche Forderung aus der Grundschuld wird am 14.10.2026 fällig.
 
 Bereits gekündigt ist das durch die Grundschuld gesicherte Darlehen Nr. 4717-8821 mit Schreiben vom 5.4.2026. Die persönliche Forderung ist sofort fällig und beträgt zum 31.3.2026 noch 261.480,73 EUR.
 

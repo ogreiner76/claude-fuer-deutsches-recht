@@ -20,14 +20,14 @@
 
 ### Vorlauf
 
-Der GV Lattermann hat beiden Schuldnern den Termin zur Abgabe der Vermögensauskunft unter Fristsetzung gemaess § 802f ZPO gesondert zugestellt.
+Der GV Lattermann hat beiden Schuldnern den Termin zur Abgabe der Vermögensauskunft unter Fristsetzung gemäß § 802f ZPO gesondert zugestellt.
 
 **Ladung Heinrich Pohlmann-Tannenberg:** Per Postzustellung vom 15.01.2026 für 04.02.2026  
 **Ladung Carmen Pohlmann-Tannenberg:** Per Postzustellung vom 15.01.2026 für 04.02.2026
 
 ### Inhalt der Vermögensauskunft § 802c ZPO
 
-Der Schuldner hat ein vollständiges Vermögensverzeichnis vorzulegen (standardisiertes Formular GV-100 gemaess § 802c Abs. 2 ZPO i.V.m. VO vom 26.07.2012):
+Der Schuldner hat ein vollständiges Vermögensverzeichnis vorzulegen (standardisiertes Formular GV-100 gemäß § 802c Abs. 2 ZPO i.V.m. VO vom 26.07.2012):
 
 | Kategorie | Offenzulegen |
 |---|---|
@@ -49,7 +49,7 @@ Der Schuldner hat ein vollständiges Vermögensverzeichnis vorzulegen (standardi
 | Gewerbe-Einnahmen Heinrich | Unpfändbar? Pfändbar in Grenzen §§ 850a, 850b ZPO |
 | VW Crafter (Gewerbefahrzeug) | Pfändung möglich, aber § 811 Abs. 1 Nr. 5 ZPO (Berufsausübung) prüfen |
 | Aussenstaende Handwerk | Pfändung als Forderung möglich (PfUEB gegen Auftraggeber) |
-| Kapitallebensversicherung | Rückkaufswert pfändbar gemaess § 850b ZPO |
+| Kapitallebensversicherung | Rückkaufswert pfändbar gemäß § 850b ZPO |
 
 ---
 

@@ -88,7 +88,7 @@ Umsatzrückgang ca. **15,8 %**. Hauptursachen: Verlust Grosskunde HelmwerkSued (
 | Position | EUR |
 |---:|---:|
 | Liquide Mittel verfügbar zum Stichtag | 184.000 |
-| Kontokorrentkreditrahmen Volksbank Rhein-Berg (gemaess Term-Sheet 18.12.2024) | 850.000 |
+| Kontokorrentkreditrahmen Volksbank Rhein-Berg (gemäß Term-Sheet 18.12.2024) | 850.000 |
 | Hieraus zu nutzen bis 31.01.2025 (mit Sanierungsauflagen) | 620.000 |
 | Forderungseingänge erwartet 12.01.-31.01.2025 | 1.180.000 |
 | Sonstige Erträge (Wroclaw-Überlauf, Kundenanzahlung Mehrwald) | 240.000 |

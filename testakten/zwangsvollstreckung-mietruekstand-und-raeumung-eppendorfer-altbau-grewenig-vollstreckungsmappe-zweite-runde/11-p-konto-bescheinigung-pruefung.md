@@ -8,7 +8,7 @@
 
 ## Sachverhalt
 
-Nach Eingang des PfUEB-Antrags gegen die Sparda-Bank Hamburg (Drittschuldner für Konto Carmen) haben die Schuldner mitgeteilt, dass Carmen ihr Girokonto bei der Sparda-Bank Hamburg eG bereits als **Pfaendungsschutzkonto (P-Konto)** gemaess § 850k ZPO führt. Eine P-Konto-Bescheinigung (Formular gemaess § 850k Abs. 5 ZPO) soll nachgereicht werden.
+Nach Eingang des PfUEB-Antrags gegen die Sparda-Bank Hamburg (Drittschuldner für Konto Carmen) haben die Schuldner mitgeteilt, dass Carmen ihr Girokonto bei der Sparda-Bank Hamburg eG bereits als **Pfaendungsschutzkonto (P-Konto)** gemäß § 850k ZPO führt. Eine P-Konto-Bescheinigung (Formular gemäß § 850k Abs. 5 ZPO) soll nachgereicht werden.
 
 ---
 
@@ -48,7 +48,7 @@ Die Lohnpfändung (PfUEB gegen Stadt Hamburg) und die Kontopfändung sind zu unt
 
 Die Kanzlei wird die vorzulegende P-Konto-Bescheinigung prüfen:
 
-1. **Aussteller berechtigt?** Gemaess § 850k Abs. 5 ZPO sind ausstellungsberechtigt: Arbeitgeber, Sozialbehörde, Jugendamt, Rentenversicherung, Steuerberater/RA.
+1. **Aussteller berechtigt?** Gemäß § 850k Abs. 5 ZPO sind ausstellungsberechtigt: Arbeitgeber, Sozialbehörde, Jugendamt, Rentenversicherung, Steuerberater/RA.
 2. **Beträge korrekt?** Angaben zu Unterhaltsberechtigten und Höhe des Unterhalts.
 3. **Aktualität?** Bescheinigung darf nicht älter als 1 Jahr sein.
 4. **P-Konto tatsächlich eingerichtet?** Drittschuldnererklaerung Sparda Hamburg muss P-Konto-Status bestätigen.

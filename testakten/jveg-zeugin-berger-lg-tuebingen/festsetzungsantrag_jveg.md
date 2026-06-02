@@ -41,7 +41,7 @@ Vertreten durch: Rechtsanwalt Klotzkette, Kaiserstrasse 12, 72072 Tuebingen
 
 Antrag
 
-Die Antragstellerin beantragt, ihre Zeugenenischaedigung für den Verhandlungstermin am 17.02.2026 gemaess ss 19, 20 Abs. 1, 21, 22 JVEG auf insgesamt
+Die Antragstellerin beantragt, ihre Zeugenenischaedigung für den Verhandlungstermin am 17.02.2026 gemäß ss 19, 20 Abs. 1, 21, 22 JVEG auf insgesamt
 
 1.563,00 EUR
 

@@ -123,7 +123,7 @@ logging:
 
 ### 4.1 Ablehnungs-Override
 
-Der Logeintrag `[2026-05-12 09:24:18 UTC] WARN user=recruiter-23 action=attempt_reject app_id=APP-2026-04-1118 blocked_reason="reject_requires_human_text_min_15_chars"` zeigt, dass das System eine Ablehnung **erst** zulässt, wenn der Recruiter eine handschriftliche Begründung von mindestens 15 Zeichen eingibt. Dies entspricht dem Konzept "menschliche Aufsicht" gemaess Art. 14 KI-VO.
+Der Logeintrag `[2026-05-12 09:24:18 UTC] WARN user=recruiter-23 action=attempt_reject app_id=APP-2026-04-1118 blocked_reason="reject_requires_human_text_min_15_chars"` zeigt, dass das System eine Ablehnung **erst** zulässt, wenn der Recruiter eine handschriftliche Begründung von mindestens 15 Zeichen eingibt. Dies entspricht dem Konzept "menschliche Aufsicht" gemäß Art. 14 KI-VO.
 
 ### 4.2 PMM-Alert
 
@@ -154,7 +154,7 @@ Am 25.05.2026 zeigt das Readiness-Gate "gate_2_bias" als "open" wegen FairnessLa
 
 ## 6. Aufbewahrung
 
-Die Logdateien werden gemaess Konfiguration `logging.retention_days` zwischen 540 und 720 Tagen aufbewahrt. Ein vollständiger Auszug für den Pilotzeitraum wird der Pilotkundin auf Anfrage übergeben.
+Die Logdateien werden gemäß Konfiguration `logging.retention_days` zwischen 540 und 720 Tagen aufbewahrt. Ein vollständiger Auszug für den Pilotzeitraum wird der Pilotkundin auf Anfrage übergeben.
 
 ## 7. Signatur
 

@@ -67,7 +67,7 @@ Vernichtung fruhestens: 31.12.2036
 
 ## Abschlussbericht an Mandantin
 
-Kanzleirechnung und Abschlussrechnung werden bis 31.12.2026 erstellt. Gesamthonorar gemaess Mandatsvereinbarung (Stundenhonorar + Erfolgsfee-Komponente). Abrechnungsdetails werden separat übermittelt.
+Kanzleirechnung und Abschlussrechnung werden bis 31.12.2026 erstellt. Gesamthonorar gemäß Mandatsvereinbarung (Stundenhonorar + Erfolgsfee-Komponente). Abrechnungsdetails werden separat übermittelt.
 
 ---
 

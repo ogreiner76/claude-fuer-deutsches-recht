@@ -67,9 +67,9 @@
 
 ### 3.1 Korbiel (JVA Stammheim)
 
-Korbiel ist in Einzelhaft (§ 119 Abs. 1 StPO: Kontaktverbot zu anderen Beschuldigten). Besuche durch Dr. Schorlemmer: wochentlich 1 Stunde. Sprachbarriere: Korbiel spricht kaum Deutsch; Dolmetscherin Jana Ryszkowiak wurde gemaess § 187 GVG für alle Vernehmungen und Anwaltsgespräche beigeordnet.
+Korbiel ist in Einzelhaft (§ 119 Abs. 1 StPO: Kontaktverbot zu anderen Beschuldigten). Besuche durch Dr. Schorlemmer: wochentlich 1 Stunde. Sprachbarriere: Korbiel spricht kaum Deutsch; Dolmetscherin Jana Ryszkowiak wurde gemäß § 187 GVG für alle Vernehmungen und Anwaltsgespräche beigeordnet.
 
-**Kontaktverbot:** AG Stuttgart hat gemaess § 119 Abs. 3 StPO Kontaktverbot zu anderen Beschuldigten und zu Personen aus dem Umfeld Iordaches angeordnet.
+**Kontaktverbot:** AG Stuttgart hat gemäß § 119 Abs. 3 StPO Kontaktverbot zu anderen Beschuldigten und zu Personen aus dem Umfeld Iordaches angeordnet.
 
 ### 3.2 Drebenstedt (kein U-Haft, Kontaktverbot)
 

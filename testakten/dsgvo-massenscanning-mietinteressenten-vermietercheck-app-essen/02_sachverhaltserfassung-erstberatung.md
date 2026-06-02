@@ -21,7 +21,7 @@ Die VermieterCheck Solutions GmbH (nachfolgend „VCS") wurde 2019 in Essen gegr
 
 ### 1.2 Technische Systemarchitektur
 
-Das Modul ProspectScore Pro ist als Microservice in einer AWS-Infrastruktur (Frankfurt, eu-central-1) betrieben. Die Entwicklung und der Second-Level-Support erfolgen durch den indischen Dienstleister Sundara Tech Pvt. Ltd. (Bengaluru, Karnataka). Nach Aussage des DevOps-Leiters (Herr Tarkan Bilgic) besteht seit Oktober 2022 ein Datenaustausch mit Sundara Tech ohne abgeschlossene Standarddatenschutzklauseln (SCC) gemaess Art. 46 Abs. 2 lit. c DSGVO.
+Das Modul ProspectScore Pro ist als Microservice in einer AWS-Infrastruktur (Frankfurt, eu-central-1) betrieben. Die Entwicklung und der Second-Level-Support erfolgen durch den indischen Dienstleister Sundara Tech Pvt. Ltd. (Bengaluru, Karnataka). Nach Aussage des DevOps-Leiters (Herr Tarkan Bilgic) besteht seit Oktober 2022 ein Datenaustausch mit Sundara Tech ohne abgeschlossene Standarddatenschutzklauseln (SCC) gemäß Art. 46 Abs. 2 lit. c DSGVO.
 
 ### 1.3 Betriebsdauer und Verarbeitungsumfang
 
@@ -38,7 +38,7 @@ ProspectScore Pro wurde laut Mandantin im März 2023 in den Produktivbetrieb üb
 | 08. Nov 2025 | Anonyme HinSchG-Meldung bei interner Meldestelle (unbearbeitet) |
 | 17. Nov 2025 | Penetrationstest-Bericht SecureProof GmbH: SQL-Injection CVE-2026-0188 identifiziert |
 | 22. Nov 2025 | Erstbestaetigter Datenleak: 142.300 Datensätze exfiltriert |
-| 29. Nov 2025 | 72h-Frist gemaess Art. 33 DSGVO läuft ab — keine Meldung bei LDI NRW |
+| 29. Nov 2025 | 72h-Frist gemäß Art. 33 DSGVO läuft ab — keine Meldung bei LDI NRW |
 | 03. Dez 2025 | LDI NRW erhält anonymen Hinweis; leitet Vorprüfung ein |
 | 12. Dez 2025 | LDI NRW eröffnet formales Aufsichtsverfahren, AZ DSB-NW-44/26 |
 | 15. Dez 2025 | Sammelklage VDuG eingereicht: LG Essen 18 Mass 4/26 |

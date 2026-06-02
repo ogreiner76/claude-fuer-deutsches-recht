@@ -15,7 +15,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte ist eine Demonstrations-Testakte fuer das Plugin `corporate-kanzlei`. Sie bildet einen komplexen grenzueberschreitenden **Asset Deal** im MedTech-Sektor ab und deckt alle wesentlichen Mandate-Phasen von der Mandatsannahme bis zum Post-Closing ab.
+Diese Akte ist eine Demonstrations-Testakte für das Plugin `corporate-kanzlei`. Sie bildet einen komplexen grenzueberschreitenden **Asset Deal** im MedTech-Sektor ab und deckt alle wesentlichen Mandate-Phasen von der Mandatsannahme bis zum Post-Closing ab.
 
 ## Sachverhalt
 

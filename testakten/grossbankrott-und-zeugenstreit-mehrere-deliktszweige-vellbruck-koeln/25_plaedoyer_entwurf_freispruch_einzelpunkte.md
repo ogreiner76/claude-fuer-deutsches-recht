@@ -17,7 +17,7 @@ I. **Freispruch** in den Anklagepunkten zu
 - § 264 StGB Subventionsbetrug (Anklagepunkt VI)
 - § 283 Abs. 1 Nr. 5 und 8 StGB Bankrott — soweit der Bankrott-Vorwurf über die Privatentnahmen hinausgeht (Anklagepunkt II teilweise)
 
-II. **Im Übrigen** mildeste tatangemessene Strafe — gesetzlich Mindeststrafe und Aussetzung zur Bewährung gemaess § 56 II StGB.
+II. **Im Übrigen** mildeste tatangemessene Strafe — gesetzlich Mindeststrafe und Aussetzung zur Bewährung gemäß § 56 II StGB.
 
 III. Beweisaufnahme-Bezogen: Berücksichtigung der durch Beweisaufnahme zu Tage tretenden Tatsachen — insbesondere des aussagepsychologischen Gutachtens (sofern eingeholt).
 
@@ -49,7 +49,7 @@ Daher: Freispruch.
 Die Anklage stützt diesen Vorwurf auf Vermögensschmälerung und Buchführungsmängel. Die Beweisaufnahme hat ergeben:
 
 - Buchführungsmängel betreffen Erfassungsverzögerungen, die durch die Personalbelastung der Buchhalterin Quasthoff in Q4 2024 erklärbar sind.
-- Vermögensschmälerung betrifft die Privatentnahmen, die Pellbach über § 266 StGB-Anerkennung bereits einräumt. Ein **weitergehender** Bankrott-Vorwurf (z.B. Veraeusserung Vermoegen zu unangemessenem Preis) ist nicht bewiesen.
+- Vermögensschmälerung betrifft die Privatentnahmen, die Pellbach über § 266 StGB-Anerkennung bereits einräumt. Ein **weitergehender** Bankrott-Vorwurf (z.B. Veraeusserung Vermögen zu unangemessenem Preis) ist nicht bewiesen.
 
 Daher: Freispruch im weitergehenden Bankrott-Komplex; verbleibender Bankrott-Vorwurf wird als Schuld in § 266 StGB aufgehen (Tateinheit).
 

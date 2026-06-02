@@ -24,7 +24,7 @@ In Kürze: Insolvenzplanverfahren AG Erfurt 60 IN 188/26 mit Forderungsverzicht 
 
 ## II. Rechtsgrundlage § 7b GewStG
 
-§ 7b GewStG bewirkt die Anwendung von § 3a EStG sinngemaess auf die Gewerbesteuer. Die in § 3a Abs. 3 EStG vorgesehene Verlustverrechnung gilt sinngemaess für den Gewerbeverlust nach § 10a GewStG.
+§ 7b GewStG bewirkt die Anwendung von § 3a EStG sinngemäß auf die Gewerbesteuer. Die in § 3a Abs. 3 EStG vorgesehene Verlustverrechnung gilt sinngemäß für den Gewerbeverlust nach § 10a GewStG.
 
 § 36 Abs. 2c GewStG: § 7b GewStG ist anwendbar für Schuldenerlasse nach dem 08.02.2017 (zeitliche Anwendung der Sanierungsgewinnregelung).
 
@@ -34,7 +34,7 @@ Hier: Der Forderungsverzicht erfolgt im Insolvenzplanverfahren mit Bestätigung 
 
 Die unternehmensbezogene Sanierung i.S.v. § 3a Abs. 2 EStG ist begründet wie in unserem Antrag § 3a IV EStG (Aktenstück 08, Abschnitt II). Die Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung und Sanierungsabsicht sind erfüllt.
 
-## IV. Verrechnung nach § 7b GewStG i.V.m. § 3a Abs. 3 EStG (sinngemaess)
+## IV. Verrechnung nach § 7b GewStG i.V.m. § 3a Abs. 3 EStG (sinngemäß)
 
 | Position | Wert (EUR) |
 |---|---|

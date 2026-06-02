@@ -8,7 +8,7 @@
 
 ## Ausgangslage
 
-Im Rahmen der Due-Diligence-Pruefung hat die steuerliche Beraterin (Klausberg & Partner Steuerberatungsgesellschaft mbH) auf ein erhebliches Risiko hingewiesen: Der geplante Share-Deal (Erwerb 100% der Anteile an der Volkenrath Solar Eppendorf GmbH) könnte Grunderwerbsteuer gemaess § 1 Abs. 3 GrEStG auslösen.
+Im Rahmen der Due-Diligence-Pruefung hat die steuerliche Beraterin (Klausberg & Partner Steuerberatungsgesellschaft mbH) auf ein erhebliches Risiko hingewiesen: Der geplante Share-Deal (Erwerb 100% der Anteile an der Volkenrath Solar Eppendorf GmbH) könnte Grunderwerbsteuer gemäß § 1 Abs. 3 GrEStG auslösen.
 
 ---
 
@@ -18,7 +18,7 @@ Im Rahmen der Due-Diligence-Pruefung hat die steuerliche Beraterin (Klausberg & 
 
 § 1 Abs. 3 GrEStG erfasst die mittelbare Übertragung von (mindestens 90%) der Anteile an einer Gesellschaft, die ein inländisches Grundstueck oder grundstücksgleiches Recht hält, als grunderwerbsteuerpflichtige Übertragung.
 
-Das Erbbaurecht gilt gemaess § 2 Abs. 2 Nr. 1 GrEStG als grundstückgleiches Recht.
+Das Erbbaurecht gilt gemäß § 2 Abs. 2 Nr. 1 GrEStG als grundstückgleiches Recht.
 
 **Analyse:** Volkenrath Solar Eppendorf GmbH hält ein Erbbaurecht über 18 ha. Steinheim Capital Partners erbt 100% der Anteile. Damit werden mittelbar 100% der Anteile an einer grundstuecksbesitzenden Gesellschaft übertragen — § 1 Abs. 3 Nr. 1 GrEStG ist erfullt.
 
@@ -32,7 +32,7 @@ Grunderwerbsteuersatz Berlin: 6,0% (seit 2014).
 
 ### Schuldner
 
-Gemaess § 13 Nr. 5 GrEStG ist bei § 1 Abs. 3 GrEStG der Erwerber Steuerschuldner. Käufer Steinheim Capital Partners trägt die Steuerlast. Dies hat unmittelbare Auswirkungen auf Kaufpreisverhandlung (Käufer rechnet GrESt in Kaufpreis ein).
+Gemäß § 13 Nr. 5 GrEStG ist bei § 1 Abs. 3 GrEStG der Erwerber Steuerschuldner. Käufer Steinheim Capital Partners trägt die Steuerlast. Dies hat unmittelbare Auswirkungen auf Kaufpreisverhandlung (Käufer rechnet GrESt in Kaufpreis ein).
 
 ---
 
@@ -48,7 +48,7 @@ Statt Anteilsabtretung: Übertragung aller wesentlichen Vermögenswerte des SPV 
 
 **Vorteile Asset-Deal:**
 - § 1 Abs. 3 GrEStG greift nicht, wenn keine Gesellschaft mit Grundbesitz erworben wird
-- Direktübertragung Erbbaurecht auf Käufer: gemaess § 1 Abs. 1 Nr. 2 GrEStG grunderwerbsteuerpflichtig — aber Bemessungsgrundlage ggf. niedriger
+- Direktübertragung Erbbaurecht auf Käufer: gemäß § 1 Abs. 1 Nr. 2 GrEStG grunderwerbsteuerpflichtig — aber Bemessungsgrundlage ggf. niedriger
 
 **Nachteile und Risiken Asset-Deal:**
 - HGB § 25: Erwerber von Handelsgeschäft haftet für Verbindlichkeiten (Change of Position erforderlich)
@@ -67,7 +67,7 @@ Anteilsabtretung 89% (unter 90%-Schwelle des § 1 Abs. 3 GrEStG), restliche 11% 
 
 ## Verbindliche Auskunft FA Berlin-Mitte
 
-Um Rechtsklarheit zu schaffen, hat Kanzlei am 12.09.2026 einen Antrag auf verbindliche Auskunft (§ 89 Abs. 2 AO) beim Finanzamt Berlin-Mitte eingereicht (AZ: VB-GrESt-2026-0412). Gebühr gemaess § 89 Abs. 3-5 AO i.V.m. § 1 GebOSt: ca. EUR 5.216 (Streitwert EUR 288.000).
+Um Rechtsklarheit zu schaffen, hat Kanzlei am 12.09.2026 einen Antrag auf verbindliche Auskunft (§ 89 Abs. 2 AO) beim Finanzamt Berlin-Mitte eingereicht (AZ: VB-GrESt-2026-0412). Gebühr gemäß § 89 Abs. 3-5 AO i.V.m. § 1 GebOSt: ca. EUR 5.216 (Streitwert EUR 288.000).
 
 ---
 

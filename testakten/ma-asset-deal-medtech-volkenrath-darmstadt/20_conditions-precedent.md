@@ -54,7 +54,7 @@ Geplantes Closing: 31. Juli 2026, 10:00 Uhr, Kanzlei Drosselberg, Mannfeldt & Pa
 
 ### 2.2 Notar
 
-Notar: Dr. Veronika Geilenkirchen, Bockenheimer Anlage 15, 60322 Frankfurt am Main. Beurkundung des APA gemaess § 128 BGB (soweit Grundstücksübergang) sowie Eintragungsantrag HRB Darmstadt für relevante gesellschaftsrechtliche Änderungen.
+Notar: Dr. Veronika Geilenkirchen, Bockenheimer Anlage 15, 60322 Frankfurt am Main. Beurkundung des APA gemäß § 128 BGB (soweit Grundstücksübergang) sowie Eintragungsantrag HRB Darmstadt für relevante gesellschaftsrechtliche Änderungen.
 
 ### 2.3 Closing-Memorandum
 

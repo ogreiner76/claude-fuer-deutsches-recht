@@ -21,7 +21,7 @@ Anwesend: Mandant Dr. Carlsten Pellbach-Eisenacher; Verteidigerin
 | Aufenthaltsort | JVA Koeln-Ossendorf, Block C |
 | Beruf | Geschäftsführer / Inhaber Pellbach Logistik & Spedition GmbH |
 | Bildung | Diplom-Volkswirt (Uni Koeln 1999), Promotion 2004 (Logistik / Supply Chain) |
-| Vermoegen | Privatvermögen: Immobilie Koeln-Suelz (geschätzt 1.8 Mio EUR, lastenfrei); Depots ca. 340.000 EUR; Bargeld auf Konto (Pfändung läuft) |
+| Vermögen | Privatvermögen: Immobilie Koeln-Suelz (geschätzt 1.8 Mio EUR, lastenfrei); Depots ca. 340.000 EUR; Bargeld auf Konto (Pfändung läuft) |
 | Vorstrafen | Keine. Eine OWi-Geldbusse 2018 (Verkehr). |
 | Krankheiten | Bluthochdruck, Diabetes II (Insulin), Herzkatheter 2023 |
 

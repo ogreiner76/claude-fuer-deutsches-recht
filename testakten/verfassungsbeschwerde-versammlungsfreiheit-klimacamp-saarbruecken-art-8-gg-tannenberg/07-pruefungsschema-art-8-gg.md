@@ -53,7 +53,7 @@ Art. 8 I GG schützt nur friedliche, d.h. nicht zu Gewalttaten bereite Versammlu
 ### II. Persönlicher Schutzbereich
 
 - Natürliche Personen: (+) (alle BF 2-15)
-- Juristische Personen (inländische): (+) gemaess Art. 19 III GG, wenn Grundrecht seinem Wesen nach auf sie anwendbar ist. Die Versammlungsfreiheit kann korporativ wahrgenommen werden (BVerfGE 69, 315 [349]).
+- Juristische Personen (inländische): (+) gemäß Art. 19 III GG, wenn Grundrecht seinem Wesen nach auf sie anwendbar ist. Die Versammlungsfreiheit kann korporativ wahrgenommen werden (BVerfGE 69, 315 [349]).
 - **Fallprüfung:** BF 1 (e.V.): (+).
 
 ---

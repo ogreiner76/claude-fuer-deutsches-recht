@@ -56,7 +56,7 @@
 | 03.06.1998 | Gründung GmbH, Stammkapital 25.000 EUR | -- |
 | 12.11.2018 | Gewährung Gesellschafterdarlehen 1,8 Mio. EUR ohne Sicherheiten | 05 |
 | 14.03.2021 | Erste Krise nach COVID; Aufstockung Darlehen +0,6 Mio. EUR | 05 |
-| 14.03.2021 | Abschluss qualifizierter Rangrücktritt (Tilgung nur aus zukünftigem freien Vermoegen) | 05 |
+| 14.03.2021 | Abschluss qualifizierter Rangrücktritt (Tilgung nur aus zukünftigem freien Vermögen) | 05 |
 | 04.02.2026 | Steuerberater meldet sich an Kanzlei: "Wir können nicht weitermachen" | 01 |
 | 12.02.2026 | Erstgespräch mit Frau Strassburger-Wittenburg | 01 |
 | 15.04.2026 | Gesellschafterbeschluss: Auflösung nach § 60 Abs. 1 Nr. 2 GmbHG | 02 |

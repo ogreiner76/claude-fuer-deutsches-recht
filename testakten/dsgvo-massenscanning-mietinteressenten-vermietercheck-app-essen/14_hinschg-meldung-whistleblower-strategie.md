@@ -38,7 +38,7 @@ Ehemalige Beschäftigte sind geschützt (§ 1 Abs. 1 HinSchG). Anonyme Hinweisge
 
 ### 2.2 Pflichten des Unternehmens nach HinSchG
 
-VCS (38 Mitarbeiter) unterliegt gemaess § 12 HinSchG (Unternehmen ab 50 Mitarbeitern) noch nicht der zwingenden Pflicht, ein internes Meldesystem einzurichten. Jedoch:
+VCS (38 Mitarbeiter) unterliegt gemäß § 12 HinSchG (Unternehmen ab 50 Mitarbeitern) noch nicht der zwingenden Pflicht, ein internes Meldesystem einzurichten. Jedoch:
 
 - Das freiwillig eingerichtete Meldesystem unterliegt den Pflichten des § 17 HinSchG (Rückmeldung innerhalb von 3 Monaten)
 - Die Nichtbearbeitung einer eingegangenen Meldung kann eine Pflichtverletzung darstellen

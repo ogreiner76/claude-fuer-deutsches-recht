@@ -62,7 +62,7 @@ Art. 82 Abs. 1 DSGVO gewährt jeder Person, der wegen eines Verstosses gegen die
 
 ### 3.2 Zuständigkeit LG Essen
 
-Das Landgericht Essen ist sachlich (§ 71 GVG — 5.000 EUR+) und örtlich (§ 12 VDuG — Sitz der Beklagten) zuständig. Die speziell eingerichtete Kammer für Massenverfahren (18. Zivilkammer) ist gemaess Geschäftsverteilungsplan 2026 zuständig.
+Das Landgericht Essen ist sachlich (§ 71 GVG — 5.000 EUR+) und örtlich (§ 12 VDuG — Sitz der Beklagten) zuständig. Die speziell eingerichtete Kammer für Massenverfahren (18. Zivilkammer) ist gemäß Geschäftsverteilungsplan 2026 zuständig.
 
 ---
 
@@ -105,7 +105,7 @@ VCS wird anbieten, einen Schlichtungsfonds von 500.000 EUR einzurichten und Betr
 | Klageerwiderung einreichen | 15.03.2026 | Setzung Verteidigungspositionen |
 | Antrag auf Vorabentscheidung EuGH | Ggf. nach Klageerwiderung | Klärung Bagatellgrenze |
 | Vergleichsangebot | Mai 2026 | Verfahrensbeendigung |
-| Sachverstaendigengutachten | Gemaess Beweisbeschluss | Widerlegung Kausalität |
+| Sachverstaendigengutachten | Gemäß Beweisbeschluss | Widerlegung Kausalität |
 
 ---
 

@@ -55,11 +55,11 @@ Der BFH hat in **I R 34/12** ausdrücklich offengelassen, ob die Verbindlichkeit
 
 Damit ist die FG-Koeln-Linie zwar nicht höchstrichterlich entschieden, aber als vertretbare Auffassung anerkannt. Dies ist die wesentliche prozessuale Absicherung der Strategie aus Szenario A: Selbst wenn das FA Berlin-Charlottenburg die Auffassung der Mandantin nicht teilt, ist sie nicht evident rechtsfehlerhaft — der Berater haftet daher nicht aus § 280 BGB, wenn er auf dieser Grundlage berät.
 
-Das hier maszgebliche Az. **I R 34/12** ist nicht zu verwechseln mit **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** (zu § 5 Abs. 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukünftigen Gewinnen). Beide Entscheidungen wirken aber in dieselbe Richtung: solange der Rangrücktritt einen Tilgungsvorbehalt auch aus freiem Vermoegen enthält (wie bei der Mandantin), greift § 5 Abs. 2a EStG nicht (XI R 32/18); und die Verbindlichkeit ist bis zur Löschung zu passivieren (FG Koeln 13 K 3006/11, abgesichert durch BFH I R 34/12).
+Das hier maszgebliche Az. **I R 34/12** ist nicht zu verwechseln mit **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** (zu § 5 Abs. 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukünftigen Gewinnen). Beide Entscheidungen wirken aber in dieselbe Richtung: solange der Rangrücktritt einen Tilgungsvorbehalt auch aus freiem Vermögen enthält (wie bei der Mandantin), greift § 5 Abs. 2a EStG nicht (XI R 32/18); und die Verbindlichkeit ist bis zur Löschung zu passivieren (FG Koeln 13 K 3006/11, abgesichert durch BFH I R 34/12).
 
 ### 4.5 Wechselwirkung mit § 5 Abs. 2a EStG (Abgrenzung)
 
-Die FG-Koeln-Linie gilt nur, solange die Verbindlichkeit nach handels- und steuerbilanziellen Grundsätzen während der Liquidationsphase überhaupt **passivierungsfaehig** ist. Bei einer „Tilgung-nur-aus-zukünftigen-Gewinnen"-Rangruecktrittsklausel kann § 5 Abs. 2a EStG zwingend zur Ausbuchung **vor** Löschung führen — dann fällt der Sanierungsertrag in eine Zeit, in der die GmbH noch Steuersubjekt ist (Pruefung in Akte 06). Die Klausel im Mandatsfall ist als „Tilgung aus freiem Vermoegen" formuliert; eine § 5 Abs. 2a EStG-Falle wird damit grundsätzlich vermieden.
+Die FG-Koeln-Linie gilt nur, solange die Verbindlichkeit nach handels- und steuerbilanziellen Grundsätzen während der Liquidationsphase überhaupt **passivierungsfaehig** ist. Bei einer „Tilgung-nur-aus-zukünftigen-Gewinnen"-Rangruecktrittsklausel kann § 5 Abs. 2a EStG zwingend zur Ausbuchung **vor** Löschung führen — dann fällt der Sanierungsertrag in eine Zeit, in der die GmbH noch Steuersubjekt ist (Pruefung in Akte 06). Die Klausel im Mandatsfall ist als „Tilgung aus freiem Vermögen" formuliert; eine § 5 Abs. 2a EStG-Falle wird damit grundsätzlich vermieden.
 
 ### 4.6 Wechselwirkung mit § 3a EStG
 
@@ -89,7 +89,7 @@ Die in Szenario A (Akte 08) gewählte Strategie ist von der verifizierten Rechts
 
 - Die Strategie aus Szenario A (Passivierung bis Löschung) ist die wirtschaftlich und rechtlich präferierte Variante.
 - Vor finalem Antrag beim FA Berlin-Charlottenburg ist die verbindliche Auskunft § 89 Abs. 2 AO einzuholen.
-- Der Wortlaut der Rangruecktrittsklausel (Akte 05) ist abschliessend dahingehend zu prüfen, dass eine Tilgung „aus freiem Vermoegen" formuliert ist (keine reine „Tilgung aus zukünftigen Gewinnen"-Klausel).
+- Der Wortlaut der Rangruecktrittsklausel (Akte 05) ist abschliessend dahingehend zu prüfen, dass eine Tilgung „aus freiem Vermögen" formuliert ist (keine reine „Tilgung aus zukünftigen Gewinnen"-Klausel).
 
 ## 8. Querverweise
 

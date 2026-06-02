@@ -63,7 +63,7 @@ c) **Subjektiv** war dem Beschuldigten nicht klar, dass diese Entnahmen die Kris
 
 **Obersatz:** § 266 StGB setzt Verletzung der Vermögensbetreuungspflicht voraus.
 
-a) Der Beschuldigte hatte als GF gemaess §§ 35, 43 GmbHG eine Vermögensbetreuungspflicht gegenüber der GmbH.
+a) Der Beschuldigte hatte als GF gemäß §§ 35, 43 GmbHG eine Vermögensbetreuungspflicht gegenüber der GmbH.
 
 b) Privatentnahmen sind grundsätzlich **nicht per se** § 266 StGB-relevant, wenn sie als Gesellschafterdarlehen verbucht sind und Rückzahlung absehbar war. Die Frage ist daher: War zum Zeitpunkt der Entnahmen mit Rückzahlungsbereitschaft / -faehigkeit zu rechnen?
 
@@ -158,7 +158,7 @@ Bei realistischer Bewertung erwarten wir eine **Gesamtfreiheitsstrafe im Bereich
 
 Wir beantragen,
 
-1. die Anklage hinsichtlich der Komplexe 6 (Subventionsbetrug) und 7 (Geldwaesche) **nicht zur Hauptverhandlung zuzulassen** und insoweit gemaess § 204 Abs. 1 StPO abzulehnen;
+1. die Anklage hinsichtlich der Komplexe 6 (Subventionsbetrug) und 7 (Geldwaesche) **nicht zur Hauptverhandlung zuzulassen** und insoweit gemäß § 204 Abs. 1 StPO abzulehnen;
 2. das Verfahren hinsichtlich Komplexe 1 - 5 dahingehend zu eröffnen, dass dem in der vorgelegten Beweislage zweifelhaften Komplex 1 (§ 15a InsO) durch Beweisaufnahme nachgegangen wird, ggf. mit Gegengutachten;
 3. die in der Akte 09 vorgelegte Haftprüfung / Haftbeschwerde vorrangig zu bescheiden;
 4. den Beschuldigten in der Hauptverhandlung Gelegenheit zur substantiellen Einlassung zu geben.

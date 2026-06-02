@@ -7,7 +7,7 @@
 
 ## I. Rechtlicher Rahmen
 
-Gemaess § 32 I BVerfGG kann das BVerfG einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum gemeinen Wohl dringend geboten ist.
+Gemäß § 32 I BVerfGG kann das BVerfG einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum gemeinen Wohl dringend geboten ist.
 
 Das BVerfG prüft dabei in ständiger Rechtsprechung die sog. **Doppelhypothese**:
 

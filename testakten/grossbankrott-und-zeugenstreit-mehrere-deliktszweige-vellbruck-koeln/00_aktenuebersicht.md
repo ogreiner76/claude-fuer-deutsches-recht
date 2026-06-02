@@ -116,4 +116,4 @@ Aktenstärke (Stand Verteidiger 30.05.2026): **9 Bänder Hauptakte + 2 Sonderbä
 
 - Methodik aussagepsychologische Begutachtung: BGH staend. Rspr. (vgl. BGH 1 StR 618/98, BGHSt 45, 164; Verifikation in amtlicher Quelle vor Zitat erforderlich); Steller/Koehnken-Kriterien zur Realkennzeichenanalyse (Lehrbuch).
 - Methodik § 283 StGB: vgl. references/methodik-buergerliches-recht.md (analog Auslegung) und SKILL.md `strafrecht-spezial-bankrott-283-stgb`.
-- Zitierweise: gemaess `references/zitierweise.md` (Rspr. vor Lit., neueste zuerst).
+- Zitierweise: gemäß `references/zitierweise.md` (Rspr. vor Lit., neueste zuerst).

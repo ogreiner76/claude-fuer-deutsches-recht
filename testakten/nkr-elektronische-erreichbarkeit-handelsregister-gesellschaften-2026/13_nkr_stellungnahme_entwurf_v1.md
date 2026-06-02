@@ -13,7 +13,7 @@
 
 ### 1. Zusammenfassung
 
-Der NKR hat das Vorhaben innerhalb der gesetzlichen Frist von sechs Wochen gemaess § 6 Abs. 1 NKRG geprüft. Im Ergebnis:
+Der NKR hat das Vorhaben innerhalb der gesetzlichen Frist von sechs Wochen gemäß § 6 Abs. 1 NKRG geprüft. Im Ergebnis:
 
 - Das Vorhaben adressiert ein **reales und gewichtiges Regelungsdefizit**. Der NKR sieht die Erforderlichkeit als gegeben an.
 - Die im Referentenentwurf gewählte **konkrete Ausgestaltung** ist hingegen mit einem unverhaeltnismaessig hohen Erfuellungsaufwand verbunden. Eine vorzugswuerdige Alternativ-Lösung würde den Erfuellungsaufwand für die Wirtschaft auf rund ein Viertel und den für die Verwaltung auf rund ein Viertel reduzieren.

@@ -49,7 +49,7 @@ Nach Freischaltung des Datenraums und ersten Sichtungsgesprächen wurde am 10. N
 ### 2.7 Betriebsübergang
 
 - § 613a BGB anwendbar auf alle Arbeitnehmer des Geschäftsbereichs
-- Unterrichtung der Arbeitnehmer gemaess § 613a Abs. 5 BGB
+- Unterrichtung der Arbeitnehmer gemäß § 613a Abs. 5 BGB
 
 ## 3. Nicht-bindende Natur
 

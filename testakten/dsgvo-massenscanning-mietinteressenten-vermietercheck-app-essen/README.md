@@ -15,7 +15,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Demonstrations-Testakte fuer das Plugin `datenschutzrecht`. Alle Personen, Aktenzeichen und Sachverhalte sind fiktiv und dienen ausschliesslich Test- und Demonstrationszwecken.
+Demonstrations-Testakte für das Plugin `datenschutzrecht`. Alle Personen, Aktenzeichen und Sachverhalte sind fiktiv und dienen ausschliesslich Test- und Demonstrationszwecken.
 
 ## Mandantin
 
@@ -23,7 +23,7 @@ Demonstrations-Testakte fuer das Plugin `datenschutzrecht`. Alle Personen, Akten
 Ruhrallee 188, 45136 Essen
 Geschaeftsfuehrer: Karl-Heinz Schimmelpfennig-Drosthager
 Mitarbeiter: 38
-Geschaeftsmodell: SaaS-Plattform fuer Vermieter-Bonitaetsabfragen (12.400+ angeschlossene Privatvermieter)
+Geschaeftsmodell: SaaS-Plattform für Vermieter-Bonitaetsabfragen (12.400+ angeschlossene Privatvermieter)
 
 ## Vertretung
 

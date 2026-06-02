@@ -30,7 +30,7 @@ Auf Grundlage des Gutachtens des Planungsbüros Moor & Wege PartG vom 10.05.2026
 
 ## 4. Was wir bitten
 
-1. Aussetzung der Finanzierung der B 449n-Trasse bis zur Vorlage einer vergleichenden Alternativenpruefung gemaess §§ 7, 8 UVPG.
+1. Aussetzung der Finanzierung der B 449n-Trasse bis zur Vorlage einer vergleichenden Alternativenpruefung gemäß §§ 7, 8 UVPG.
 2. Beauftragung des BMDV mit der Pruefung der Korridore A und C aus dem Moor-&-Wege-Gutachten.
 3. Berücksichtigung der moorhydrologischen Stellungnahmen im weiteren Verfahren.
 

@@ -12,9 +12,9 @@ Sieglinger ./. Burgwald Energietechnik GmbH
 
 beantragen wir:
 
-1. Den Sachverständigen Dipl.-Ing. Edmund Pfaffenberger gemaess § 411 Abs. 3 ZPO zur mündlichen Erläuterung seines Gutachtens vom 28.10.2025 zu laden.
+1. Den Sachverständigen Dipl.-Ing. Edmund Pfaffenberger gemäß § 411 Abs. 3 ZPO zur mündlichen Erläuterung seines Gutachtens vom 28.10.2025 zu laden.
 
-2. Dem Sachverständigen aufzugeben, gemaess § 407a Abs. 5 ZPO sämtliche Unterlagen, die er der Begutachtung zugrunde gelegt hat, zur Akte zu reichen — insbesondere Ortsterminprotokolle, Mess- und Untersuchungsdaten, Recherchedokumentation und ggf. Beteiligungsnachweise von Mitarbeitern (§ 407a Abs. 3 ZPO).
+2. Dem Sachverständigen aufzugeben, gemäß § 407a Abs. 5 ZPO sämtliche Unterlagen, die er der Begutachtung zugrunde gelegt hat, zur Akte zu reichen — insbesondere Ortsterminprotokolle, Mess- und Untersuchungsdaten, Recherchedokumentation und ggf. Beteiligungsnachweise von Mitarbeitern (§ 407a Abs. 3 ZPO).
 
 Begründung:
 

@@ -7,7 +7,7 @@
 
 ## A. URL-Pflicht
 
-Gemaess Hauszitierregel C.1 ist bei jeder Entscheidung, die frei online zugänglich ist, die URL anzugeben. Quellen, die diese Pflicht auslösen:
+Gemäß Hauszitierregel C.1 ist bei jeder Entscheidung, die frei online zugänglich ist, die URL anzugeben. Quellen, die diese Pflicht auslösen:
 
 - dejure.org (Rechtsprechungsnachweise, z.T. Volltext)
 - openjur.de (Volltext OLG, LG, BSG, BAG u.a.)

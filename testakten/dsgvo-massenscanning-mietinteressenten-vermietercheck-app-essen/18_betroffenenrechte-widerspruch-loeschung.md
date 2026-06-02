@@ -55,7 +55,7 @@ Werden personenbezogene Daten verarbeitet, um Direktwerbung zu betreiben oder Pr
 | Rechtswidrige Verarbeitung | lit. d | Ja — nach Feststellung des Art. 6-Verstosses |
 | Rechtspflicht | lit. e | Ggf. bei gesetzl. Löschpflicht |
 
-**Ergebnis:** Gemaess Art. 17 Abs. 1 lit. d DSGVO sind sämtliche unrechtmaessig verarbeiteten Daten zu löschen. Da die Verarbeitung ohne wirksame Rechtsgrundlage erfolgte, trifft VCS eine umfassende Löschpflicht.
+**Ergebnis:** Gemäß Art. 17 Abs. 1 lit. d DSGVO sind sämtliche unrechtmaessig verarbeiteten Daten zu löschen. Da die Verarbeitung ohne wirksame Rechtsgrundlage erfolgte, trifft VCS eine umfassende Löschpflicht.
 
 ### 3.2 Ausnahmen vom Löschrecht (Art. 17 Abs. 3 DSGVO)
 

@@ -20,7 +20,7 @@ Der Corporate-Workstream der Legal Due Diligence (LDD) prüfte die gesellschafts
 
 **Vorstand:** Dr. Lukas Mayr-Forster (Vorsitzender, CEO), Dr. Hannes Schwarzbeck (CFO), Dr. Ingeborg Waltenmayer (COO).
 
-**Aufsichtsrat:** 6 Mitglieder (3 Anteilseignervertreter, 3 Arbeitnehmervertreter) gemaess MitbestG.
+**Aufsichtsrat:** 6 Mitglieder (3 Anteilseignervertreter, 3 Arbeitnehmervertreter) gemäß MitbestG.
 
 ## 3. Prüfungsergebnisse
 
@@ -53,7 +53,7 @@ Sämtliche für den Betrieb des Geschäftsbereichs erforderlichen Betriebsgenehm
 
 ## 5. Empfehlungen
 
-- Unmittelbare Einholung eines Rechtsgutachtens zur Wesentlichkeit des Carve-Outs gemaess § 179a AktG
+- Unmittelbare Einholung eines Rechtsgutachtens zur Wesentlichkeit des Carve-Outs gemäß § 179a AktG
 - Einberufung einer ausserordentlichen HV oder Einholen schriftlicher Genehmigung aller Hauptaktionäre
 - Aufnahme der Thematik in das Red-Flag-Memorandum (Priorität: HIGH)
 

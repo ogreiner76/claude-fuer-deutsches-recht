@@ -34,7 +34,7 @@ Siehe LDD Workstream IP (Finding IP-01): BPatG 3 Ni 44/24. Dieses Verfahren hat 
 
 ## 4. Contingent Liabilities
 
-Die Gesamtsumme der contingent liabilities aus Litigation-Workstream beträgt gemaess LDD-Einschätzung zwischen 5 Mio. EUR (Mindestszenario) und 22 Mio. EUR (Worst Case inkl. FCPA).
+Die Gesamtsumme der contingent liabilities aus Litigation-Workstream beträgt gemäß LDD-Einschätzung zwischen 5 Mio. EUR (Mindestszenario) und 22 Mio. EUR (Worst Case inkl. FCPA).
 
 ## 5. Empfehlungen
 

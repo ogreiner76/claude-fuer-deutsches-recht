@@ -25,7 +25,7 @@
 
 **Eingang bestätigt:** Fax-Protokoll liegt vor (Eingang 07:22 Uhr). Eingangsbestätigung per Brief vom BVerfG erhalten am 17.03.2026 (vgl. Aktenstück PDF: verfassungsbeschwerde-eingangsbestaetigung-bvg.pdf).
 
-**Aktenzeichen:** 1 BvR 188/26 (1. Senat, da Art. 8 GG betroffen; Zuständigkeit 1. Senat gemaess § 14 I BVerfGG i.V.m. Geschäftsverteilungsplan 2026).
+**Aktenzeichen:** 1 BvR 188/26 (1. Senat, da Art. 8 GG betroffen; Zuständigkeit 1. Senat gemäß § 14 I BVerfGG i.V.m. Geschäftsverteilungsplan 2026).
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### IV.1 Vorlagepflichten
 
-Gemaess § 23 I BVerfGG sind der Verfassungsbeschwerde beizufügen:
+Gemäß § 23 I BVerfGG sind der Verfassungsbeschwerde beizufügen:
 - Vollmacht (§ 22 I 1 BVerfGG) — liegt vor
 - Angaben zu Zulassigkeitsvoraussetzungen (§ 92 BVerfGG) — in VB-Schrift enthalten
 - Angegriffene Entscheidungen im Original oder in Kopie (§ 92 BVerfGG) — als Anlage beigefügt
@@ -66,7 +66,7 @@ Das BVerfG verlangt Schriftform für Verfassungsbeschwerdeschriftsätze (§ 23 I
 
 ## V. Interne BVerfG-Zuteilung
 
-Gemaess Geschäftsverteilungsplan des BVerfG 2026 ist für Art. 8 GG-Beschwerden der 1. Senat zuständig. Der Eilantrag nach § 32 BVerfGG wird vom Berichterstatter (noch nicht bekannt) vorab entschieden; bei Zeitdringlichkeit kann auch die Kammervorsitzende allein entscheiden (§ 32 VII BVerfGG).
+Gemäß Geschäftsverteilungsplan des BVerfG 2026 ist für Art. 8 GG-Beschwerden der 1. Senat zuständig. Der Eilantrag nach § 32 BVerfGG wird vom Berichterstatter (noch nicht bekannt) vorab entschieden; bei Zeitdringlichkeit kann auch die Kammervorsitzende allein entscheiden (§ 32 VII BVerfGG).
 
 ---
 

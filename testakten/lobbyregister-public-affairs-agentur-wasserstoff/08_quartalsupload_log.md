@@ -3,7 +3,7 @@
 **Bearbeitung:** Lea Sommer, Frederik Holst (Compliance)
 **Stand:** 26.05.2026, 14:00 Uhr
 **Quartal:** Q2/2026 (April bis Juni)
-**Frist Hochladen:** 30.06.2026 (gemaess § 5 Abs. 3 LobbyRG i.V.m. Eintragsmaske)
+**Frist Hochladen:** 30.06.2026 (gemäß § 5 Abs. 3 LobbyRG i.V.m. Eintragsmaske)
 
 ## Stellungnahmen im Quartal
 

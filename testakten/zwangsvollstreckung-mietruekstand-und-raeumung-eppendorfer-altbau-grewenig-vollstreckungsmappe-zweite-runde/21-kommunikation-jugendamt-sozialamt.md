@@ -50,7 +50,7 @@ Die Kanzlei hat folgendes Schreiben gesandt:
 > wir vertreten die Eigentümerin Grewenig Immobilien Verwaltung GmbH. Der Räumungstitel ist rechtskräftig. Die Raeumung ist für März 2026 geplant.
 >
 > Wir bitten um Bestätigung dass:
-> 1. Das Sozialamt für die Familie Pohlmann-Tannenberg Ersatzwohnraum bereitstellt (gemaess VG Hamburg 8 K 188/26),
+> 1. Das Sozialamt für die Familie Pohlmann-Tannenberg Ersatzwohnraum bereitstellt (gemäß VG Hamburg 8 K 188/26),
 > 2. Das Jugendamt keine unmittelbare Kindeswohlgefährdung durch die Raeumung sieht,
 > 3. Die Behörden die Raeumung nicht aktiv behindern werden.
 >

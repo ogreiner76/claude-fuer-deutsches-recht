@@ -24,7 +24,7 @@ Aktentyp: Antragsausdruck (A), Bescheidkopie (B), interne Pruefung (C)
 
 ### Antragsgegenstand
 
-Antragsgegenstand ist die Überbrückungshilfe IV für den Zeitraum Q4/2022 (Oktober - Dezember 2022) gemaess Programmrichtlinie 22-04-XX.
+Antragsgegenstand ist die Überbrückungshilfe IV für den Zeitraum Q4/2022 (Oktober - Dezember 2022) gemäß Programmrichtlinie 22-04-XX.
 
 ### Angaben zum Umsatzrückgang (kritisch)
 
@@ -38,7 +38,7 @@ Antragsgegenstand ist die Überbrückungshilfe IV für den Zeitraum Q4/2022 (Okt
 
 ### Erklärungen Antragsteller
 
-> "Die Antragstellerin erklärt, dass sie aufgrund anhaltender Corona-Belastungen, Lieferkettenprobleme und stark gestiegener Energie- und Treibstoffkosten einen erheblichen Umsatzrückgang von über 30 % erleidet. Sie versichert die Richtigkeit der Angaben und ist sich bewusst, dass falsche Angaben gemaess § 264 StGB strafbar sein können."
+> "Die Antragstellerin erklärt, dass sie aufgrund anhaltender Corona-Belastungen, Lieferkettenprobleme und stark gestiegener Energie- und Treibstoffkosten einen erheblichen Umsatzrückgang von über 30 % erleidet. Sie versichert die Richtigkeit der Angaben und ist sich bewusst, dass falsche Angaben gemäß § 264 StGB strafbar sein können."
 
 Unterschrift: **Dr. Carlsten Pellbach-Eisenacher** (GF)  
 Datum: 22.11.2022  
@@ -57,7 +57,7 @@ Auf den Antrag vom 22.11.2022 wird Überbrückungshilfe IV in Höhe von **320.00
 
 ### Auszahlungsmodalität
 
-Vorab-Auszahlung 100 % gemaess Programmlogik; Nachweis tatsächlicher Werte bis 31.05.2023; ggf. Nachforderung im Rahmen Schlussabrechnung.
+Vorab-Auszahlung 100 % gemäß Programmlogik; Nachweis tatsächlicher Werte bis 31.05.2023; ggf. Nachforderung im Rahmen Schlussabrechnung.
 
 ### Schlussabrechnung
 
@@ -65,7 +65,7 @@ Schlussabrechnung verlangt Nachweis tatsächlicher Werte. Bei Abweichungen zwisc
 
 ### Hinweis Strafrecht
 
-> "Die Antragstellerin wird darauf hingewiesen, dass unrichtige Angaben über subventionserhebliche Tatsachen den Tatbestand des Subventionsbetrugs gemaess § 264 StGB erfüllen können."
+> "Die Antragstellerin wird darauf hingewiesen, dass unrichtige Angaben über subventionserhebliche Tatsachen den Tatbestand des Subventionsbetrugs gemäß § 264 StGB erfüllen können."
 
 KfW Berlin, 09.12.2022 — gez. **Stein-Habermann**, KfW-Förderbearbeitung
 

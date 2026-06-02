@@ -46,7 +46,7 @@ Das Objekt Eppendorfer Weg 188 ist Anlageobjekt der Mandantin. Rein informativ: 
 
 ## Mobiliarpfaendung als Alternative
 
-Statt ZVG kommt für die Vollstreckung gegen die Schuldner die **Pfändung von Mobiliarsachen** gemaess §§ 808 ff. ZPO in Betracht (s. Aktenstuck 16):
+Statt ZVG kommt für die Vollstreckung gegen die Schuldner die **Pfändung von Mobiliarsachen** gemäß §§ 808 ff. ZPO in Betracht (s. Aktenstuck 16):
 
 | Gegenstand | Pfändbar | Anmerkung |
 |---|---|---|

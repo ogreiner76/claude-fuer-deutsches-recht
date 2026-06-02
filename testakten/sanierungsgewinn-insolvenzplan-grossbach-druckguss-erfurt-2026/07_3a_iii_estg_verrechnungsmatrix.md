@@ -2,7 +2,7 @@
 
 ## I. Zweck
 
-Diese Matrix zeigt die zwingende Verrechnung nach § 3a Abs. 3 EStG (sinngemaess auf KSt und GewSt) anhand der konkreten Zahlen der Schuldnerin. Sie ist Anlage 2 zum Antrag nach § 3a Abs. 4 EStG (Aktenstück 08) und Anlage 2 zum Parallelantrag nach § 7b GewStG (Aktenstück 09).
+Diese Matrix zeigt die zwingende Verrechnung nach § 3a Abs. 3 EStG (sinngemäß auf KSt und GewSt) anhand der konkreten Zahlen der Schuldnerin. Sie ist Anlage 2 zum Antrag nach § 3a Abs. 4 EStG (Aktenstück 08) und Anlage 2 zum Parallelantrag nach § 7b GewStG (Aktenstück 09).
 
 ## II. Eingangsgroessen (Stand 22.02.2026)
 

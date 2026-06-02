@@ -32,7 +32,7 @@
 > **Strassburger Handelshof GmbH**, Mommsenstrasse 71a, 10629 Berlin, vertreten durch die Geschäftsführerin Helene Strassburger-Wittenburg
 > — nachfolgend "Darlehensnehmerin" —
 >
-> § 1 Darlehensgewährung: Die Darlehensgeberin gewährt der Darlehensnehmerin ein Darlehen in Höhe von **1.800.000,00 EUR** (in Worten: eine Million achthunderttausend Euro), aufgeteilt in drei Tranchen zu je 600.000,00 EUR, fällig zur Auszahlung gemaess Anlage 1.
+> § 1 Darlehensgewährung: Die Darlehensgeberin gewährt der Darlehensnehmerin ein Darlehen in Höhe von **1.800.000,00 EUR** (in Worten: eine Million achthunderttausend Euro), aufgeteilt in drei Tranchen zu je 600.000,00 EUR, fällig zur Auszahlung gemäß Anlage 1.
 >
 > § 2 Zweck: Das Darlehen dient der Aufstockung der Liquidität und der Restrukturierung des Lagerbestandes.
 >
@@ -65,18 +65,18 @@
 >
 > § 1 Aufstockung: Die Darlehensgeberin gewährt der Darlehensnehmerin ein weiteres Darlehen in Höhe von **600.000,00 EUR**. Die Auszahlung erfolgt in drei Tranchen zu je 200.000 EUR, fällig 14.03.2021, 30.06.2021, 31.10.2021. Die Aufstockung wird Bestandteil des Darlehensvertrags SH-GD-2018-01. Insgesamt beläuft sich das Darlehen damit auf **2.400.000,00 EUR**.
 >
-> § 2 **Qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermoegen**:
+> § 2 **Qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermögen**:
 >
 > (1) Die Darlehensgeberin erklärt, mit ihrer Darlehensforderung aus dem Darlehensvertrag (in der Fassung dieser Änderungsvereinbarung) im Range hinter sämtliche gegenwärtigen und künftigen Forderungen aller anderen Gläubiger der Darlehensnehmerin zurückzutreten.
 >
 > (2) Die Darlehensgeberin kann Tilgungen und Zinsen nur verlangen aus
 >   a) einem **künftigen Bilanzgewinn**;
 >   b) einem **künftigen Liquidationsüberschuss**;
->   c) **sonstigem freien Vermoegen**, das die Darlehensnehmerin **nach Befriedigung aller anderen Gläubiger** noch hat.
+>   c) **sonstigem freien Vermögen**, das die Darlehensnehmerin **nach Befriedigung aller anderen Gläubiger** noch hat.
 >
 > (3) Solange die Darlehensnehmerin **bilanziell überschuldet** ist, sind Tilgungen und Zinsen ausgeschlossen.
 >
-> (4) Der Rangrücktritt soll die Verbindlichkeit der Darlehensnehmerin nicht in eine Eigenkapitalposition umqualifizieren; es bleibt bei der Darlehensverbindlichkeit. Die Parteien wollen den **Insolvenzgrund der Überschuldung gemaess § 19 InsO entfallen lassen**, insbesondere im Sinne des § 19 Abs. 2 S. 3 InsO (seit SanInsFoG).
+> (4) Der Rangrücktritt soll die Verbindlichkeit der Darlehensnehmerin nicht in eine Eigenkapitalposition umqualifizieren; es bleibt bei der Darlehensverbindlichkeit. Die Parteien wollen den **Insolvenzgrund der Überschuldung gemäß § 19 InsO entfallen lassen**, insbesondere im Sinne des § 19 Abs. 2 S. 3 InsO (seit SanInsFoG).
 >
 > § 3 Sonstige Bestimmungen: § 4 (Tilgung) wird aufgehoben. § 1, § 3, § 5, § 6, § 7 des Darlehensvertrags vom 12.11.2018 bleiben unverändert.
 >
@@ -103,11 +103,11 @@ Hier liegt der **steuerliche Konfliktpunkt**.
 
 - **§ 5 Abs. 2a EStG**: "Für Verpflichtungen, die nur zu erfüllen sind, soweit künftige Einnahmen oder Gewinne anfallen, sind Verbindlichkeiten oder Rückstellungen erst anzusetzen, wenn die Einnahmen oder Gewinne angefallen sind."
 - Bei einem **qualifizierten Rangrücktritt mit ausschliesslichem Tilgungsvorbehalt aus künftigen Gewinnen** greift das Passivierungsverbot nach staend. Rspr.; maszgebend ist nun **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279**.
-- Bei einem **Rangrücktritt mit zusätzlichem Tilgungsvorbehalt aus sonstigem freien Vermoegen** ist die Lage anders: Die Verbindlichkeit ist auch aus *bereits vorhandenem* freien Vermoegen tilgbar, daher greift § 5 Abs. 2a EStG **nicht**; die Verbindlichkeit bleibt steuerbilanziell **passiviert**.
+- Bei einem **Rangrücktritt mit zusätzlichem Tilgungsvorbehalt aus sonstigem freien Vermögen** ist die Lage anders: Die Verbindlichkeit ist auch aus *bereits vorhandenem* freien Vermögen tilgbar, daher greift § 5 Abs. 2a EStG **nicht**; die Verbindlichkeit bleibt steuerbilanziell **passiviert**.
 
-Im vorliegenden Vertrag (§ 2 Abs. 2 lit. c der Änderungsvereinbarung 2021) ist die Tilgung auch aus *sonstigem freien Vermoegen* der GmbH vorgesehen, das nach Befriedigung anderer Gläubiger noch vorhanden ist. Damit ist eine Tilgung **nicht** ausschliesslich an *künftige Gewinne* gebunden.
+Im vorliegenden Vertrag (§ 2 Abs. 2 lit. c der Änderungsvereinbarung 2021) ist die Tilgung auch aus *sonstigem freien Vermögen* der GmbH vorgesehen, das nach Befriedigung anderer Gläubiger noch vorhanden ist. Damit ist eine Tilgung **nicht** ausschliesslich an *künftige Gewinne* gebunden.
 
-**Vorläufige Einschätzung:** § 5 Abs. 2a EStG greift **nicht**, die Verbindlichkeit bleibt steuerbilanziell passiviert. Dies entspricht der üblichen Praxis bei qualifiziertem Rangrücktritt **mit Tilgungsvorbehalt aus freiem Vermoegen** (im Unterschied zur engen "Nur-aus-zukünftigen-Gewinnen"-Variante).
+**Vorläufige Einschätzung:** § 5 Abs. 2a EStG greift **nicht**, die Verbindlichkeit bleibt steuerbilanziell passiviert. Dies entspricht der üblichen Praxis bei qualifiziertem Rangrücktritt **mit Tilgungsvorbehalt aus freiem Vermögen** (im Unterschied zur engen "Nur-aus-zukünftigen-Gewinnen"-Variante).
 
 Ergänzend: Die allgemeinen Passivierungsvoraussetzungen nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** (bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung) sind erfüllt. Die Bewertung erfolgt nach **§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG** mit dem **Nennwert** von 2.400.000 EUR.
 

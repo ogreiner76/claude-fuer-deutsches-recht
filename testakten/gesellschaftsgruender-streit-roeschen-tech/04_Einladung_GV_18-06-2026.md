@@ -20,7 +20,7 @@ An die Gesellschafter der Roeschen Tech GmbH:
 
 Sehr geehrte Damen und Herren,
 
-hiermit lade ich Sie gemaess § 11 der Satzung der Roeschen Tech GmbH und Paragraf 49 GmbHG zur
+hiermit lade ich Sie gemäß § 11 der Satzung der Roeschen Tech GmbH und Paragraf 49 GmbHG zur
 
 **ausserordentlichen Gesellschafterversammlung**
 
@@ -48,9 +48,9 @@ Bericht über die Series-B-Verhandlungen mit der Pi Mu Holding GmbH über eine B
 
 "Die Gesellschafterversammlung beschliesst:
 
-a) Das Stammkapital der Gesellschaft wird gemaess § 4 der Satzung aus dem genehmigten Kapital um 12.500 EUR auf 51.000 EUR durch Ausgabe von 12.500 neuen Geschäftsanteilen der **Class C** im Nennwert von je 1 EUR erhöht.
+a) Das Stammkapital der Gesellschaft wird gemäß § 4 der Satzung aus dem genehmigten Kapital um 12.500 EUR auf 51.000 EUR durch Ausgabe von 12.500 neuen Geschäftsanteilen der **Class C** im Nennwert von je 1 EUR erhöht.
 
-b) Das Bezugsrecht der bestehenden Gesellschafter wird gemaess Paragraf 55 IV GmbHG und § 4 (3) der Satzung **vollständig ausgeschlossen**.
+b) Das Bezugsrecht der bestehenden Gesellschafter wird gemäß Paragraf 55 IV GmbHG und § 4 (3) der Satzung **vollständig ausgeschlossen**.
 
 c) Zur Übernahme der neuen Class-C-Anteile wird die **Pi Mu Holding GmbH** (eingetragen im HR Frankfurt unter HRB 567.890) ermächtigt, gegen Bareinlage des Nennwerts plus Aufgeld i.H.v. **999 EUR pro Anteil** (Gesamt-Aufgeld 12.487.500 EUR), zu zeichnen.
 

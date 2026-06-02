@@ -45,7 +45,7 @@ Share-Deal (Abtretung Geschäftsanteile GmbH, § 15 GmbHG). Notarielle Beurkundu
 
 ## GwG-Pruefung (§ 10 GwG)
 
-- Identitätsfeststellung CEO und GC gemaess § 10 Abs. 1 GwG: Kopien Personalausweis vorgelegen
+- Identitätsfeststellung CEO und GC gemäß § 10 Abs. 1 GwG: Kopien Personalausweis vorgelegen
 - Wirtschaftlich Berechtigter (Ultimate Beneficial Owner): Volkenrath Energie SE börsennotiert (Frankfurter Wertpapierbörse, MidCap), kein UBO > 25% — vereinfachte Sorgfaltspflicht anwendbar (§ 14 GwG)
 - Risikoeinstufung: mittel; keine PEP-Relevanz; keine Sanktionslisten-Treffer
 - Aktennotiz GwG hinterlegt

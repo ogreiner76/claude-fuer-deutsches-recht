@@ -1,4 +1,4 @@
-# WhatsApp-Verlauf "NeuroChain Gruender" — Woche 1
+# WhatsApp-Verlauf "NeuroChain Gründer" — Woche 1
 
 Gruppenchat zwischen Aylin, Jonas und Mira. Auszug der ersten Woche, exportiert aus WhatsApp. Zeitzone Europe/Berlin. Tippfehler und Sprachmischung sind so belassen, wie sie im Chat stehen. Die rechtlichen Aussagen darin sind nicht geprüft, sondern Gründermeinung.
 

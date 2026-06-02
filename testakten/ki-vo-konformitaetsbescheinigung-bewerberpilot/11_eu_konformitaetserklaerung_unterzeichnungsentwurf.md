@@ -109,7 +109,7 @@ Compliance Officer
 
 1. Eine Unterzeichnung der EU-Konformitätserklärung erfolgt **erst**, wenn alle blockierenden Lücken aus 10_lueckenliste_massnahmenplan.md geschlossen sind.
 2. Vor Unterzeichnung erfolgt eine letzte Pruefung durch Compliance Officer Dr. Lintorf und durch die externe Anwaltskanzlei Stern & Partner mbB.
-3. Die Unterzeichnung wird im Compliance-Register vermerkt und in der EU-Datenbank gemaess Art. 49 KI-VO registriert.
+3. Die Unterzeichnung wird im Compliance-Register vermerkt und in der EU-Datenbank gemäß Art. 49 KI-VO registriert.
 
 ### Bezug zum Pilotvertrag mit Elbtal Klinikservice gGmbH
 

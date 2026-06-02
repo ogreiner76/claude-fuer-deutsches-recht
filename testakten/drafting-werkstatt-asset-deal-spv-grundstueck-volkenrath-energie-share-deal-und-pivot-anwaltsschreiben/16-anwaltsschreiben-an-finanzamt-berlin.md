@@ -25,7 +25,7 @@ Berlin, 12. September 2026
 
 **Aktenzeichen:** MR-2026-DR-0717 (Kanzlei) / Ihres Zeichens: VB-GrESt-2026-0412
 
-**Antrag auf Erteilung einer verbindlichen Auskunft gemaess § 89 Abs. 2 AO i.V.m. § 1 BpO — Grunderwerbsteuerliche Beurteilung eines Share-Deals (§ 1 Abs. 3 GrEStG)**
+**Antrag auf Erteilung einer verbindlichen Auskunft gemäß § 89 Abs. 2 AO i.V.m. § 1 BpO — Grunderwerbsteuerliche Beurteilung eines Share-Deals (§ 1 Abs. 3 GrEStG)**
 
 ---
 
@@ -41,11 +41,11 @@ in steuerlicher Beratung unserer Mandantin, der **Volkenrath Energie SE**, Berli
 
 Die Volkenrath Energie SE (nachfolgend: Verkäufer) ist Alleingesellschafterin der Volkenrath Solar Eppendorf GmbH (nachfolgend: Zielgesellschaft, eingetragen im Handelsregister Berlin-Charlottenburg, HRB 72 341 B).
 
-Die Zielgesellschaft hält als einzigen dinglichen Gegenstand ein **Erbbaurecht** (gemaess § 1 Abs. 1 des Erbbaurechtsgesetzes — ErbbauRG) über 18 Hektar Fläche in Eppendorf (Landkreis Steinburg, Schleswig-Holstein). Das Erbbaurecht wurde eingetragen im Grundbuch des Amtsgerichts Itzehoe, Abt. II lfd. Nr. 7, Grundbuch Eppendorf Blatt 1124. Erbbauberechtigte: Volkenrath Solar Eppendorf GmbH. Laufzeit des Erbbaurechts: bis 31.12.2051.
+Die Zielgesellschaft hält als einzigen dinglichen Gegenstand ein **Erbbaurecht** (gemäß § 1 Abs. 1 des Erbbaurechtsgesetzes — ErbbauRG) über 18 Hektar Fläche in Eppendorf (Landkreis Steinburg, Schleswig-Holstein). Das Erbbaurecht wurde eingetragen im Grundbuch des Amtsgerichts Itzehoe, Abt. II lfd. Nr. 7, Grundbuch Eppendorf Blatt 1124. Erbbauberechtigte: Volkenrath Solar Eppendorf GmbH. Laufzeit des Erbbaurechts: bis 31.12.2051.
 
 **1.2 Geplantes Rechtsgeschäft**
 
-Steinheim Capital Partners GmbH & Co. KG (Käufer) erwirbt von der Volkenrath Energie SE 100% der Geschäftsanteile an der Zielgesellschaft (Share-Deal gemaess § 15 Abs. 3 GmbHG) im Wege der Abtretung. Kaufpreisindikation: ca. EUR 38 Mio. Signing angestrebt für Oktober/November 2026; Closing Dezember 2026.
+Steinheim Capital Partners GmbH & Co. KG (Käufer) erwirbt von der Volkenrath Energie SE 100% der Geschäftsanteile an der Zielgesellschaft (Share-Deal gemäß § 15 Abs. 3 GmbHG) im Wege der Abtretung. Kaufpreisindikation: ca. EUR 38 Mio. Signing angestrebt für Oktober/November 2026; Closing Dezember 2026.
 
 **1.3 Frage zur rechtlichen und steuerlichen Würdigung**
 
@@ -59,9 +59,9 @@ Wir bitten um verbindliche Auskunft zu folgenden Fragen:
 
 **Frage 1:** Erfullt der Erwerb von 100% der Geschäftsanteile an der Volkenrath Solar Eppendorf GmbH, die ausschliesslich ein Erbbaurecht (§ 2 Abs. 2 Nr. 1 GrEStG) hält, den Tatbestand des § 1 Abs. 3 Nr. 1 GrEStG?
 
-**Frage 2:** Falls ja — wie ist die Bemessungsgrundlage zu ermitteln? Gilt der Grundbesitzwert des Erbbaurechts gemaess § 157 BewG (Ertragswertverfahren oder Sachwertverfahren)?
+**Frage 2:** Falls ja — wie ist die Bemessungsgrundlage zu ermitteln? Gilt der Grundbesitzwert des Erbbaurechts gemäß § 157 BewG (Ertragswertverfahren oder Sachwertverfahren)?
 
-**Frage 3:** Besteht für den vorliegenden Share-Deal eine Steuerbefreiung gemaess § 6a GrEStG (Umstrukturierungen im Konzern)? — Hilfsweise gefragt für den Fall, dass das Finanzamt Frage 1 bejaht.
+**Frage 3:** Besteht für den vorliegenden Share-Deal eine Steuerbefreiung gemäß § 6a GrEStG (Umstrukturierungen im Konzern)? — Hilfsweise gefragt für den Fall, dass das Finanzamt Frage 1 bejaht.
 
 ---
 

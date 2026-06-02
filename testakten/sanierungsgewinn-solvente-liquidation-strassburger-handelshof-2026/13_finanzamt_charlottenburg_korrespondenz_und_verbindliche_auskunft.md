@@ -80,7 +80,7 @@ namens und in Vollmacht der Mandantin und ihrer Alleingesellschafterin Frau Hele
 
 Die Strassburger Handelshof GmbH wurde am 03.06.1998 gegründet. Sie betreibt den B2B-Grosshandel mit gehobener Damenmode. Seit der COVID-19-Pandemie ist das Geschäftsmodell zusammengebrochen; der Lagerbestand wurde 2025 vollständig abverkauft. Mit Beschluss der Alleingesellschafterin vom 15.04.2026 ist die Gesellschaft nach § 60 Abs. 1 Nr. 2 GmbHG aufgelöst worden.
 
-Frau Helene Strassburger-Wittenburg hat der Gesellschaft seit 2018 ein Darlehen in Höhe von zunächst 1.800.000 EUR (Vertrag SH-GD-2018-01) gewährt; 2021 wurde es um 600.000 EUR aufgestockt (Änderungsvereinbarung SH-GD-2021-02). Mit der Änderungsvereinbarung wurde ein **qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus zukünftigem Bilanzgewinn, Liquidationsüberschuss und sonstigem freien Vermoegen** vereinbart. Die Klausel ist in Anlage 1 wörtlich wiedergegeben.
+Frau Helene Strassburger-Wittenburg hat der Gesellschaft seit 2018 ein Darlehen in Höhe von zunächst 1.800.000 EUR (Vertrag SH-GD-2018-01) gewährt; 2021 wurde es um 600.000 EUR aufgestockt (Änderungsvereinbarung SH-GD-2021-02). Mit der Änderungsvereinbarung wurde ein **qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus zukünftigem Bilanzgewinn, Liquidationsüberschuss und sonstigem freien Vermögen** vereinbart. Die Klausel ist in Anlage 1 wörtlich wiedergegeben.
 
 Frau Strassburger-Wittenburg hat erklärt, sie werde **nicht** auf das Darlehen verzichten. Sie will die Liquidation ordnungsgemaess abwickeln; die Verbindlichkeit soll bis zur Löschung im Handelsregister bestehen bleiben.
 
@@ -91,7 +91,7 @@ Die Mandantin beruft sich auf:
 - **BFH, Urt. v. 26.02.2003 — II R 19/01**: Verbindlichkeiten gehen nicht allein durch Auflösung oder Vermögenslosigkeit unter.
 - **OFD Frankfurt a. M.**: Auflösungsbeschluss ist kein konkludenter Forderungsverzicht.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11**, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12): Bei qualifiziertem Rangrücktritt und Liquidation entsteht der Wegfallgewinn erst mit der Löschung der GmbH; mangels Koerperschaftsteuersubjekts ist dieser nicht festsetzbar.
-- **§ 5 Abs. 2a EStG**: Die hier vereinbarte Rangruecktrittsklausel erlaubt Tilgung **auch aus sonstigem freien Vermoegen** und ist daher nicht ausschliesslich an zukünftige Gewinne gekoppelt. § 5 Abs. 2a EStG ist nicht einschlägig.
+- **§ 5 Abs. 2a EStG**: Die hier vereinbarte Rangruecktrittsklausel erlaubt Tilgung **auch aus sonstigem freien Vermögen** und ist daher nicht ausschliesslich an zukünftige Gewinne gekoppelt. § 5 Abs. 2a EStG ist nicht einschlägig.
 
 ### 3.6 Gebühr (§ 89 Abs. 3–5 AO)
 

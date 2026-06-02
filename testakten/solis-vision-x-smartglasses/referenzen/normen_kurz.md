@@ -31,7 +31,7 @@ d) wenn sie in der für Waren dieser Art üblichen oder, falls es eine solche We
 
 ### Artikel 67 Gefahruebergang bei Versendungskauf
 
-(1) Erfordert der Kaufvertrag eine Beförderung der Ware und ist der Verkäufer nicht verpflichtet, sie an einem bestimmten Ort zu übergeben, so geht die Gefahr auf den Käufer über, sobald die Ware gemaess dem Kaufvertrag dem ersten Befoerderer zur Übermittlung an den Käufer übergeben wird.
+(1) Erfordert der Kaufvertrag eine Beförderung der Ware und ist der Verkäufer nicht verpflichtet, sie an einem bestimmten Ort zu übergeben, so geht die Gefahr auf den Käufer über, sobald die Ware gemäß dem Kaufvertrag dem ersten Befoerderer zur Übermittlung an den Käufer übergeben wird.
 
 ## DSGVO
 

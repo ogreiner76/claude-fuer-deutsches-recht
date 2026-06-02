@@ -20,7 +20,7 @@
 | Stahlauge Ventures AG (vertreten durch Vorstand Dr. Felix Stahlauge) | 10.000 | 10.000 | B |
 | **Gesamt** | **40.000** | **40.000** | |
 
-Stimmrechte gemaess § 11 (3) der Satzung: vertreten sind 100 % der Anteile -> Beschlussfähigkeit gegeben.
+Stimmrechte gemäß § 11 (3) der Satzung: vertreten sind 100 % der Anteile -> Beschlussfähigkeit gegeben.
 
 ---
 
@@ -28,7 +28,7 @@ Stimmrechte gemaess § 11 (3) der Satzung: vertreten sind 100 % der Anteile -> B
 
 Andrea Roesener eröffnet die Versammlung und stellt fest:
 
-- Die Einladung erfolgte fristgerecht (gemaess § 11 der Satzung mit 3 Wochen Frist) am 27. Mai 2026.
+- Die Einladung erfolgte fristgerecht (gemäß § 11 der Satzung mit 3 Wochen Frist) am 27. Mai 2026.
 - Alle Gesellschafter sind vertreten.
 - Die Versammlung ist beschlussfähig.
 
@@ -76,7 +76,7 @@ Diskussion: Andrea und Stahlauge widersprechen.
 
 ## TOP 3 — Beschluss zur Kapitalerhöhung mit Bezugsrechtsausschluss
 
-Beschluss-Vorlage gemaess Einladung wird vorgelesen.
+Beschluss-Vorlage gemäß Einladung wird vorgelesen.
 
 Andrea erläutert die sachliche Rechtfertigung.
 

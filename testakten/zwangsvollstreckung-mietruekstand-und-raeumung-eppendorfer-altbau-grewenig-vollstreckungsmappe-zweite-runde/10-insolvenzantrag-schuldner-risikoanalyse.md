@@ -8,7 +8,7 @@
 
 ## Ausgangslage
 
-Schuldner Heinrich Pohlmann-Tannenberg hat laut Auskunft seiner Anwälte angedeutet, einen **Eigeninsolvenzantrag gemaess § 13 Abs. 1 InsO** stellen zu wollen. Der Antrag sei noch nicht gestellt (Stand 14.01.2026). Ein Antrag auf Restschuldbefreiung gemaess § 287a InsO wäre dann parallel zu stellen.
+Schuldner Heinrich Pohlmann-Tannenberg hat laut Auskunft seiner Anwälte angedeutet, einen **Eigeninsolvenzantrag gemäß § 13 Abs. 1 InsO** stellen zu wollen. Der Antrag sei noch nicht gestellt (Stand 14.01.2026). Ein Antrag auf Restschuldbefreiung gemäß § 287a InsO wäre dann parallel zu stellen.
 
 ---
 
@@ -30,7 +30,7 @@ Der Räumungsanspruch ist ein **titulierter dinglich-schuldrechtlicher Herausgab
 
 Die Geldforderung (14.880 EUR) wird zur **Insolvenzforderung** (§ 38 InsO). Eine weitere Einzelvollstreckung in das Schuldnervermögen ist ab Insolvenzeröffnung unzulässig (§ 89 InsO).
 
-**Ausnahme:** Vollstreckungsmaßnahmen gegen Carmen als Gesamtschuldnerin bleiben bestehen. Die Insolvenz des Heinrich sperrt die Vollstreckung nur in dessen Vermoegen.
+**Ausnahme:** Vollstreckungsmaßnahmen gegen Carmen als Gesamtschuldnerin bleiben bestehen. Die Insolvenz des Heinrich sperrt die Vollstreckung nur in dessen Vermögen.
 
 ### 4. Anfechtungsrisiko § 131 InsO
 

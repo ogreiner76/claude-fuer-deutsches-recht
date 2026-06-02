@@ -76,7 +76,7 @@
 
 (1) Die Banken stimmen ausdrücklich zu, dass die Schuldnerin einen Antrag nach § 8d KStG (fortfuehrungsgebundener Verlustvortrag) stellt. Die Banken verpflichten sich, im Rahmen der Anteilsübertragung keine Massnahmen zu treffen, die § 8d KStG verletzen würden (insbesondere: keine wesentliche Änderung des Geschäftsbetriebs, keine Einstellung).
 
-(2) Die Schuldnerin verpflichtet sich, den Geschäftsbetrieb gemaess Plan-Konzept fortzuführen.
+(2) Die Schuldnerin verpflichtet sich, den Geschäftsbetrieb gemäß Plan-Konzept fortzuführen.
 
 ### § 8 Steuerliche Klausel
 

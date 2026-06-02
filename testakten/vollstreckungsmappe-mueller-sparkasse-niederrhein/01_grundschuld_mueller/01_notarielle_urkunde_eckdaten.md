@@ -28,7 +28,7 @@ Sichert alle bestehenden und zukünftigen Forderungen der Sparkasse Niederrhein 
 | Reichweite | Inhalt |
 | --- | --- |
 | Dinglich | in den belasteten Grundbesitz nach Paragraf 800 ZPO; auch gegen jeden Rechtsnachfolger im Eigentum |
-| Persönlich | beide Schuldner unterwerfen sich der sofortigen Zwangsvollstreckung in ihr gesamtes Vermoegen wegen aller durch die Grundschuld gesicherten Ansprüchen |
+| Persönlich | beide Schuldner unterwerfen sich der sofortigen Zwangsvollstreckung in ihr gesamtes Vermögen wegen aller durch die Grundschuld gesicherten Ansprüchen |
 | Klausel | vollstreckbare Ausfertigung am 16.6.2017 erteilt durch den Notar |
 | Zustellung | vollstreckbare Ausfertigung wurde 2017 nicht zugestellt - separate Zustellung nach Paragraf 750 ZPO nötig |
 
@@ -37,7 +37,7 @@ Sichert alle bestehenden und zukünftigen Forderungen der Sparkasse Niederrhein 
 - Darlehensvertrag wirksam gekündigt am 5.4.2026 (Zugang 7.4.2026).
 - Kündigung der Grundschuld nach Paragraf 1193 BGB erfolgt am 12.4.2026 (Zugang 14.4.2026). Fälligkeit dingliche Vollstreckung am 14.10.2026.
 - Klauselumschreibung Paragraf 727 ZPO nicht erforderlich (Forderung bei ursprünglicher Gläubigerin verblieben, keine Abtretung).
-- Persönliche Vollstreckung aus Unterwerfung in das Vermoegen ist sofort möglich (Paragraf 1193 BGB betrifft nur die Fälligkeit der dinglichen Vollstreckung, nicht der persönlichen Forderung).
+- Persönliche Vollstreckung aus Unterwerfung in das Vermögen ist sofort möglich (Paragraf 1193 BGB betrifft nur die Fälligkeit der dinglichen Vollstreckung, nicht der persönlichen Forderung).
 
 ## Erforderliche Schritte
 

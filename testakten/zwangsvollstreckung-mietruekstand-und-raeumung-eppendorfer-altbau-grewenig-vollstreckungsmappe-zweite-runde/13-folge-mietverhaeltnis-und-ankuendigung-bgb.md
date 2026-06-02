@@ -15,7 +15,7 @@ Nach der Raeumung durch GV Lattermann steht die Wohnung Eppendorfer Weg 188 1. O
 
 ### 1. Mietvertragsende und Nutzungsentschädigung
 
-Die fristlose Kündigung vom 15.05.2025 und die hilfsweise fristgemaesse Kündigung vom 15.06.2025 haben das Mietverhältnis beendet. Mit Ablauf der Kündigungsfrist (31.07.2025 bei fristgemaesser Kündigung) schulden die Schuldner keine Miete mehr, aber eine **Nutzungsentschädigung gemaess § 546a BGB**:
+Die fristlose Kündigung vom 15.05.2025 und die hilfsweise fristgemaesse Kündigung vom 15.06.2025 haben das Mietverhältnis beendet. Mit Ablauf der Kündigungsfrist (31.07.2025 bei fristgemaesser Kündigung) schulden die Schuldner keine Miete mehr, aber eine **Nutzungsentschädigung gemäß § 546a BGB**:
 
 > § 546a Abs. 1 BGB: Gibt der Mieter die Mietsache nach Beendigung des Mietverhältnisses nicht zurück, kann der Vermieter für die Dauer der Vorenthaltung als Entschädigung die vereinbarte Miete oder die Miete verlangen, die für vergleichbare Sachen oertsueblich ist.
 

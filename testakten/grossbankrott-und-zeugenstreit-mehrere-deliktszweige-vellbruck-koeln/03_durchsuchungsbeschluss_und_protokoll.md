@@ -11,7 +11,7 @@ Aktentyp: Beglaubigte Abschrift (Beschluss); Vermerk Sachbearbeiter KPI (Protoko
 
 ### I. Tenor
 
-Auf Antrag der Staatsanwaltschaft Koeln (122 Js 884/25) wird gemaess §§ 102, 105 StPO die Durchsuchung folgender Orte angeordnet:
+Auf Antrag der Staatsanwaltschaft Koeln (122 Js 884/25) wird gemäß §§ 102, 105 StPO die Durchsuchung folgender Orte angeordnet:
 
 1. Privatwohnung des Beschuldigten Dr. Carlsten Heinrich Pellbach-Eisenacher, **Sankt-Vither Strasse 41, 50937 Koeln**, einschliesslich Nebenräume, Garage, KFZ;
 
@@ -27,7 +27,7 @@ Auf Antrag der Staatsanwaltschaft Koeln (122 Js 884/25) wird gemaess §§ 102, 1
 
 - Buchhaltungsunterlagen 2022 bis 2026;
 - E-Mail-Korrespondenz Pellbach <-> Quasthoff, Pellbach <-> Engelmeier, Pellbach <-> Wroclaw-Tochter;
-- Vertraege mit der Wroclaw-Tochter und mit polnischen Beratern;
+- Verträge mit der Wroclaw-Tochter und mit polnischen Beratern;
 - Antragsunterlagen KfW-Coronahilfe Q4/2022;
 - Smartphone(s) des Beschuldigten, Laptops, Tablets;
 - Liquiditätsplanungen, Sanierungsgutachten, Fortbestehensprognosen;
@@ -76,7 +76,7 @@ Anwesend Bewohner: Beschuldigter Dr. Pellbach-Eisenacher; Ehefrau Frieda Pellbac
 
 Beschuldigter wurde um 06:34 Uhr durch Komm. Hartmann über Durchsuchungsbeschluss und Haftbefehl in Kenntnis gesetzt. Belehrung nach §§ 136 Abs. 1, 163a Abs. 4 StPO. Beschuldigter machte zur Person Angaben, im Übrigen keine Aussage ("ich möchte mit meiner Anwältin sprechen"). Ehefrau bestand auf telefonischer Kontaktaufnahme zu RA-Kanzlei Vellbruck; dies wurde gewährt um 06:51 Uhr.
 
-Reisepass und Personalausweis wurden gemaess § 116 Abs. 1 Nr. 2 StPO sichergestellt. Beschuldigter wurde um 11:55 Uhr in Begleitung zur StA Koeln verbracht; um 13:30 Uhr Vorführung beim Ermittlungsrichter Helmstedter; um 15:10 Uhr Erlass und Eröffnung des Haftbefehls.
+Reisepass und Personalausweis wurden gemäß § 116 Abs. 1 Nr. 2 StPO sichergestellt. Beschuldigter wurde um 11:55 Uhr in Begleitung zur StA Koeln verbracht; um 13:30 Uhr Vorführung beim Ermittlungsrichter Helmstedter; um 15:10 Uhr Erlass und Eröffnung des Haftbefehls.
 
 gez. Komm. **Hartmann**, KPI Koeln, Wirtschaftskriminalität
 
@@ -100,7 +100,7 @@ Anwesend: Frau Frieda Pellbach-Eisenacher (Mit-Gesellschafterin), später Insolv
 | B-7 | Aktenordner "Engelmeier Korrespondenz 2024" |
 | B-8 | Vertragsordner "Wroclaw 2023-2025" |
 
-**Hinweis Mandantenpost / Anwaltsgeheimnis:** Im Büro des GF wurden zwei Schriftstücke mit Briefkopf Vellbruck Strafverteidigung sichergestellt (Beratungsschreiben Vellbruck an Pellbach vom 04.05.2026 zur Insolvenzbegleitung). Auf Hinweis Verteidigerin am Folgetag wurden diese gemaess §§ 97, 160a Abs. 1, 53 StPO mit Sperrvermerk versehen und herausgegeben (Vermerk 13.05.2026, Bd. VI, Bl. 1004).
+**Hinweis Mandantenpost / Anwaltsgeheimnis:** Im Büro des GF wurden zwei Schriftstücke mit Briefkopf Vellbruck Strafverteidigung sichergestellt (Beratungsschreiben Vellbruck an Pellbach vom 04.05.2026 zur Insolvenzbegleitung). Auf Hinweis Verteidigerin am Folgetag wurden diese gemäß §§ 97, 160a Abs. 1, 53 StPO mit Sperrvermerk versehen und herausgegeben (Vermerk 13.05.2026, Bd. VI, Bl. 1004).
 
 gez. Komm.in **Stollmaier**, KPI Koeln
 

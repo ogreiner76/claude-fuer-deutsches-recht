@@ -114,7 +114,7 @@ f) Auflösung der Gesellschaft.
 Die Einziehung von Geschäftsanteilen ist zulässig:
 
 a) mit Zustimmung des betroffenen Gesellschafters,
-b) ohne Zustimmung, wenn über sein Vermoegen ein Insolvenzverfahren eröffnet wird oder dies mangels Masse abgelehnt wird,
+b) ohne Zustimmung, wenn über sein Vermögen ein Insolvenzverfahren eröffnet wird oder dies mangels Masse abgelehnt wird,
 c) ohne Zustimmung bei schwerer und wiederholter Pflichtverletzung trotz schriftlicher Abmahnung.
 
 ---
@@ -161,7 +161,7 @@ d) Empfehlungen zu Investitionen über 250.000 EUR.
 
 (2) Bekanntmachungen der Gesellschaft erfolgen ausschliesslich im Bundesanzeiger.
 
-(3) Änderungen dieser Satzung bedürfen einer Mehrheit von 75 % der abgegebenen Stimmen sowie der Zustimmung der Inhaberin der Class B gemaess § 5.
+(3) Änderungen dieser Satzung bedürfen einer Mehrheit von 75 % der abgegebenen Stimmen sowie der Zustimmung der Inhaberin der Class B gemäß § 5.
 
 ---
 

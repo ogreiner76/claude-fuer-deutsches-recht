@@ -94,7 +94,7 @@ Mit freundlichen Gruessen
 
 ### Schriftsatz: Verbindliche Auskunft FA Berlin-Mitte (GrESt)
 
-Aufbau gemaess vorstehender Musterstruktur. Besondere Anforderung (§ 89 Abs. 2 AO): Sachverhalt muss konkret und vollständig geschildert werden, da die Bindungswirkung der verbindlichen Auskunft nur für den geschilderten Sachverhalt gilt.
+Aufbau gemäß vorstehender Musterstruktur. Besondere Anforderung (§ 89 Abs. 2 AO): Sachverhalt muss konkret und vollständig geschildert werden, da die Bindungswirkung der verbindlichen Auskunft nur für den geschilderten Sachverhalt gilt.
 
 Fehler, die die Bindungswirkung ausschliessen:
 - Abstrakte Beschreibung statt konkreter Sachverhalt

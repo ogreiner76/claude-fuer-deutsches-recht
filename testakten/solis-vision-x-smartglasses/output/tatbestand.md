@@ -18,7 +18,7 @@ Die Klägerin beantragt,
 
 2. die Beklagte zu verurteilen, an die Klägerin weitere 380 EUR nebst Zinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz seit Rechtshaengigkeit zu zahlen,
 
-3. festzustellen, dass sich die Beklagte mit der Annahme der Brille gemaess Antrag zu 1 in Annahmeverzug befindet.
+3. festzustellen, dass sich die Beklagte mit der Annahme der Brille gemäß Antrag zu 1 in Annahmeverzug befindet.
 
 Die Beklagte beantragt, die Klage abzuweisen.
 

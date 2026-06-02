@@ -19,7 +19,7 @@ auf Steuerfreistellung des Sanierungsertrags aus dem Insolvenzplanverfahren AG E
 
 ## I. Sachverhalt
 
-Mit Beschluss des AG Erfurt vom 12.02.2026 (60 IN 188/26) ist über das Vermoegen der Schuldnerin das Schutzschirmverfahren nach § 270d InsO eingeleitet worden. Vorgesehen ist die Vorlage eines Insolvenzplans, dessen Eckpunkte einen Forderungsverzicht der ungesicherten Gläubiger in Höhe von 38.000.000 EUR vorsehen. Plan-Vorlage 30.04.2026; Eroerterungs- und Abstimmungstermin 18.06.2026; Plan-Bestätigung erwartet 25.06.2026.
+Mit Beschluss des AG Erfurt vom 12.02.2026 (60 IN 188/26) ist über das Vermögen der Schuldnerin das Schutzschirmverfahren nach § 270d InsO eingeleitet worden. Vorgesehen ist die Vorlage eines Insolvenzplans, dessen Eckpunkte einen Forderungsverzicht der ungesicherten Gläubiger in Höhe von 38.000.000 EUR vorsehen. Plan-Vorlage 30.04.2026; Eroerterungs- und Abstimmungstermin 18.06.2026; Plan-Bestätigung erwartet 25.06.2026.
 
 Aus dem Forderungsverzicht entsteht ein Sanierungsertrag i.S.v. § 3a Abs. 2 EStG in Höhe von 38.000.000 EUR.
 
@@ -70,7 +70,7 @@ Hinsichtlich der Gewerbesteuer (siehe Aktenstück 09, Parallelantrag § 7b GewSt
 
 Wir beantragen,
 
-1. die Steuerfreiheit des verbleibenden Sanierungsertrags nach § 3a Abs. 3 EStG für die Komplementär-GmbH in Höhe von **26.000.000 EUR** gemaess § 3a Abs. 1 EStG festzustellen;
+1. die Steuerfreiheit des verbleibenden Sanierungsertrags nach § 3a Abs. 3 EStG für die Komplementär-GmbH in Höhe von **26.000.000 EUR** gemäß § 3a Abs. 1 EStG festzustellen;
 
 2. dies im KSt-Bescheid 2026 der Grossbach Verwaltungs-GmbH (HRB 31412 AG Erfurt, StNr. 156/120/82736) sowie in der gesonderten und einheitlichen Feststellung der Einkünfte 2026 der Grossbach Druckguss & Präzision GmbH & Co. KG (HRA 6128 AG Erfurt) entsprechend zu berücksichtigen;
 

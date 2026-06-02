@@ -16,7 +16,7 @@ Diese Vorlagen sind Entwurf. Beiratsvorsitzende Dr. Vogel-Schroth hat **Anmerkun
 > Die Jahresabrechnung 2025 der Verwalterin Berlin-Domus Hausverwaltungs-GmbH vom 14.04.2026 wird genehmigt. Die Verwalterin und der Verwaltungsbeirat werden für das Wirtschaftsjahr 2025 entlastet.
 
 **!!! Beirats-Anmerkung Vogel-Schroth:**
-> Wir lehnen die Entlastung ab, solange die CO2-Aufteilung gemaess CO2KostAufG (Stufenmodell ab 01.01.2023) nicht nachgereicht ist. Der Beirat schlägt vor, **die Jahresabrechnung genehmigen, aber die Entlastung getrennt zu beschliessen und ggf. zu verweigern** (Trennung empfohlen, BGH V ZR 244/18 v. 25.10.2019).
+> Wir lehnen die Entlastung ab, solange die CO2-Aufteilung gemäß CO2KostAufG (Stufenmodell ab 01.01.2023) nicht nachgereicht ist. Der Beirat schlägt vor, **die Jahresabrechnung genehmigen, aber die Entlastung getrennt zu beschliessen und ggf. zu verweigern** (Trennung empfohlen, BGH V ZR 244/18 v. 25.10.2019).
 
 **Strittig:** Heizkosten 2025 — siehe `11-co2kostaufg-aufteilungspruefung.md`.
 
@@ -47,7 +47,7 @@ Diese Vorlagen sind Entwurf. Beiratsvorsitzende Dr. Vogel-Schroth hat **Anmerkun
 
 **Beschlussvorlage:**
 
-> Dem Eigentümer Mustafa Yildiz (WE 19) wird gestattet, auf dem ihm zugeordneten Tiefgaragen-Stellplatz Nr. TG14 eine Wallbox (Hersteller: ABL Modell eMH-1, 11 kW, Förderung) zu installieren. **Kosten trägt der Antragsteller**. Die Anbindung erfolgt unterzaehler. Die Wallbox bleibt nach Auszug des Antragstellers in seinem Eigentum. Gemaess § 20 II Nr. 2 WEG.
+> Dem Eigentümer Mustafa Yildiz (WE 19) wird gestattet, auf dem ihm zugeordneten Tiefgaragen-Stellplatz Nr. TG14 eine Wallbox (Hersteller: ABL Modell eMH-1, 11 kW, Förderung) zu installieren. **Kosten trägt der Antragsteller**. Die Anbindung erfolgt unterzaehler. Die Wallbox bleibt nach Auszug des Antragstellers in seinem Eigentum. Gemäß § 20 II Nr. 2 WEG.
 
 **!!! Beirats-Anmerkung:**
 > Korrekt. Ergänzen:

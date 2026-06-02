@@ -53,7 +53,7 @@ Wendelbert Eisenhut GmbH hat die erste Mahnung versendet. Die Forderung von 12.4
 ### B. Pruefung Verzug
 
 - Bestellung 15.04.2026, Rechnung 16.04.2026, Fälligkeit 30.04.2026. Annahme 22.04.2026.
-- Verzug nach § 286 Abs. 3 BGB: Bei einer Entgeltforderung tritt Verzug 30 Tage nach Zugang der Rechnung ein. Hier wäre das spätestens 16.05.2026. Erste Mahnung 05.05.2026 ist also vor Verzug; aber kalendermaessig ist Fälligkeit 30.04.2026 gemaess Rechnung.
+- Verzug nach § 286 Abs. 3 BGB: Bei einer Entgeltforderung tritt Verzug 30 Tage nach Zugang der Rechnung ein. Hier wäre das spätestens 16.05.2026. Erste Mahnung 05.05.2026 ist also vor Verzug; aber kalendermaessig ist Fälligkeit 30.04.2026 gemäß Rechnung.
 - Die Mahnung selbst hat keine eigenständige Mahnwirkung erforderlich gemacht, da das Datum 30.04.2026 in der Rechnung benannt ist (§ 286 Abs. 2 Nr. 1 BGB).
 - Verzugszinsen ab 01.05.2026 in Höhe von 9 Prozentpunkten über dem Basiszinssatz (Entgeltforderung zwischen Unternehmen, § 288 Abs. 2 BGB). Die Mahnung 12 EUR Pauschale ist nicht die § 288 Abs. 5 BGB-Pauschale (40 EUR), sondern eine eigene Mahngebühr.
 

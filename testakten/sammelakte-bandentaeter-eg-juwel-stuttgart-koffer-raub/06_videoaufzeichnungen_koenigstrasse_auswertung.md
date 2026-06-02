@@ -11,7 +11,7 @@
 
 ### 1.1 Stadtcam Stuttgart (Betrieb: Amt für öffentliche Ordnung Stuttgart)
 
-Die Stadt Stuttgart betreibt im Rahmen der Videobeobachtung des öffentlichen Verkehrsraums gemaess § 21a PolG BW Kameras an mehreren Standorten der Innenstadt. Im vorliegenden Fall relevante Kameras:
+Die Stadt Stuttgart betreibt im Rahmen der Videobeobachtung des öffentlichen Verkehrsraums gemäß § 21a PolG BW Kameras an mehreren Standorten der Innenstadt. Im vorliegenden Fall relevante Kameras:
 
 | Kamera-ID | Standort | Sichtfeld | Bildqualität | Speicherung |
 |-----------|---------|----------|--------------|------------|

@@ -70,7 +70,7 @@ Die Gläubiger erklären, dass sie den Verzicht in **Sanierungsabsicht** zum Zwe
 
 **§ 4 Steuerliche Hinweise**
 
-Den Gläubigern ist bekannt, dass der Forderungsverzicht bei der Schuldnerin zu einem Sanierungsertrag führt, der nach Verrechnung mit Verlustvorträgen gemaess § 3a Abs. 3 EStG die Voraussetzungen einer Steuerbefreiung nach § 3a EStG erfüllen kann. Die Schuldnerin verpflichtet sich, einen entsprechenden Antrag nach § 3a Abs. 4 EStG sowie nach § 7b GewStG rechtzeitig zu stellen.
+Den Gläubigern ist bekannt, dass der Forderungsverzicht bei der Schuldnerin zu einem Sanierungsertrag führt, der nach Verrechnung mit Verlustvorträgen gemäß § 3a Abs. 3 EStG die Voraussetzungen einer Steuerbefreiung nach § 3a EStG erfüllen kann. Die Schuldnerin verpflichtet sich, einen entsprechenden Antrag nach § 3a Abs. 4 EStG sowie nach § 7b GewStG rechtzeitig zu stellen.
 
 ## C. Sanierungsabsicht-Dokumentation (Anlage zum § 3a IV EStG-Antrag)
 

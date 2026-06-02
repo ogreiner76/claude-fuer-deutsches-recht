@@ -8,7 +8,7 @@
 
 ## I. Anzeige
 
-Hiermit zeigen wir namens und im Auftrag unserer Mandantin, der Pellbach Windenergie GmbH (HRB 28811 AG Cottbus), gemaess § 31 StaRUG das Vorhaben einer Restrukturierung an.
+Hiermit zeigen wir namens und im Auftrag unserer Mandantin, der Pellbach Windenergie GmbH (HRB 28811 AG Cottbus), gemäß § 31 StaRUG das Vorhaben einer Restrukturierung an.
 
 Wir beantragen, ein Restrukturierungsplanverfahren nach §§ 4 ff. StaRUG einzuleiten.
 
@@ -104,4 +104,4 @@ Mit Beschluss vom 17.03.2026 hat das AG Cottbus (Restrukturierungsgericht):
 
 1. die Anzeige zur Kenntnis genommen,
 2. Dr. Andreas Vellenbach (Vellenbach + Cie, Berlin) zum Restrukturierungsbeauftragten nach § 73 StaRUG bestellt,
-3. der Schuldnerin gemaess § 49 StaRUG eine Stabilisierungsanordnung erteilt (Vollstreckungs- und Verwertungssperre für die Dauer von 3 Monaten, verlängerbar bis zur Plan-Bestätigung).
+3. der Schuldnerin gemäß § 49 StaRUG eine Stabilisierungsanordnung erteilt (Vollstreckungs- und Verwertungssperre für die Dauer von 3 Monaten, verlängerbar bis zur Plan-Bestätigung).

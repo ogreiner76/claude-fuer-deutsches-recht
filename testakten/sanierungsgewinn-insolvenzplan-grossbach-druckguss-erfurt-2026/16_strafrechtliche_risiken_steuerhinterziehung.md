@@ -69,7 +69,7 @@ Im Streitfall wirkt der verspätete Antrag zugunsten des Steueraufkommens (mehr 
 
 ### 1. § 266 StGB (Untreue) gegen StB Engelmeier?
 
-Untreue setzt eine Vermögensbetreuungspflicht voraus. StB Engelmeier hat keine Vermögensbetreuungspflicht in dem Sinne, dass er über Vermoegen der Mandantin verfügen müsste. Er hat lediglich eine Beratungspflicht. Klassische Untreuekonstellation ausgeschlossen.
+Untreue setzt eine Vermögensbetreuungspflicht voraus. StB Engelmeier hat keine Vermögensbetreuungspflicht in dem Sinne, dass er über Vermögen der Mandantin verfügen müsste. Er hat lediglich eine Beratungspflicht. Klassische Untreuekonstellation ausgeschlossen.
 
 ➜ **Kein § 266 StGB.**
 

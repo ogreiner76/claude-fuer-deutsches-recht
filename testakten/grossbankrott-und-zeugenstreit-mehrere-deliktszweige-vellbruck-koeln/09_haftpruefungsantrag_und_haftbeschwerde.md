@@ -18,7 +18,7 @@ In dem oben bezeichneten Verfahren beantrage ich namens und in Vollmacht des Bes
 
 1. den Haftbefehl des Amtsgerichts Koeln vom 12.05.2026 (502 Gs 4881/26) aufzuheben,
 
-2. **hilfsweise** den Vollzug des Haftbefehls gemaess § 116 Abs. 1 Nr. 1, 2 StPO auszusetzen unter folgenden Auflagen:
+2. **hilfsweise** den Vollzug des Haftbefehls gemäß § 116 Abs. 1 Nr. 1, 2 StPO auszusetzen unter folgenden Auflagen:
 
    a) regelmaessige Meldung bei einer Dienststelle der Polizei (zweimal wöchentlich),
    b) Hinterlegung des Reisepasses (bereits erfolgt durch Sicherstellung am 12.05.2026),
@@ -26,7 +26,7 @@ In dem oben bezeichneten Verfahren beantrage ich namens und in Vollmacht des Bes
    d) Hinterlegung einer Sicherheit von 250.000 EUR durch Frau Frieda Pellbach-Eisenacher (Ehefrau),
    e) Verbot des Kontakts mit der Zeugin Mira Quasthoff und mit Mitarbeitenden der Wroclaw-Tochter.
 
-3. Termin zur mündlichen Verhandlung gemaess § 118 Abs. 1 StPO anzuberaumen.
+3. Termin zur mündlichen Verhandlung gemäß § 118 Abs. 1 StPO anzuberaumen.
 
 ### II. Begründung
 
@@ -98,7 +98,7 @@ Sollte das AG Koeln dem Antrag nicht stattgeben, lege ich namens und in Vollmach
 
 **Beschwerde** ein
 
-und beantrage, das LG Koeln möge den Haftbefehl aufheben oder hilfsweise den Vollzug gemaess § 116 StPO aussetzen.
+und beantrage, das LG Koeln möge den Haftbefehl aufheben oder hilfsweise den Vollzug gemäß § 116 StPO aussetzen.
 
 Zur Begründung wird auf Teil A verwiesen, ergänzt um folgende Beschwerdepunkte:
 
@@ -108,13 +108,13 @@ Zur Begründung wird auf Teil A verwiesen, ergänzt um folgende Beschwerdepunkte
 
 3. **Keine Würdigung milderer Mittel.** Das AG hat die im Vorgespräch der Verteidigung am 12.05.2026 angebotenen Kautions- und Auflagenvorschläge nicht berücksichtigt.
 
-4. **Pflichtverteidiger nicht beigeordnet zum Zeitpunkt Haftbefehl.** Der Antrag auf Pflichtverteidiger-Beiordnung gemaess § 140 Abs. 1 Nr. 4, 5 StPO wurde erst am 13.05.2026 gestellt; im Zeitpunkt der Vorführung (12.05.2026, 13:30 Uhr) lag dem Beschuldigten **kein Verteidiger** bei Seite. Dies ist eine besondere Schwere des Eingriffs, die haftrechtlich zu berücksichtigen ist.
+4. **Pflichtverteidiger nicht beigeordnet zum Zeitpunkt Haftbefehl.** Der Antrag auf Pflichtverteidiger-Beiordnung gemäß § 140 Abs. 1 Nr. 4, 5 StPO wurde erst am 13.05.2026 gestellt; im Zeitpunkt der Vorführung (12.05.2026, 13:30 Uhr) lag dem Beschuldigten **kein Verteidiger** bei Seite. Dies ist eine besondere Schwere des Eingriffs, die haftrechtlich zu berücksichtigen ist.
 
 ---
 
 ## C. Sonstiges
 
-Der Beschuldigte hat zur mündlichen Anhörung gemaess § 118 Abs. 1 StPO Stellungnahme angekündigt. Verteidigerin wird teilnehmen.
+Der Beschuldigte hat zur mündlichen Anhörung gemäß § 118 Abs. 1 StPO Stellungnahme angekündigt. Verteidigerin wird teilnehmen.
 
 Mit kollegialen Gruessen
 

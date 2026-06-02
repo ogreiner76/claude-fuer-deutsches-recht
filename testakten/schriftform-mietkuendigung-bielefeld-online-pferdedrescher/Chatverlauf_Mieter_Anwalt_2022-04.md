@@ -26,7 +26,7 @@ SICHTBARE NACHRICHTEN:
 [18. April 2022, 19:48 Uhr — blaue Blase, rechts]
   ■ [Bild-Symbol] Klageschrift_Seite1.jpg (Foto eines Papierdokuments, handgehalten)
   [Vorschau: Man erkennt Briefkopf "Ranftenschwedler Ostkamp", Stempel AG Bielefeld,
-   Transfervermerk gemaess § 298 Abs. 3 ZPO, handschriftliche Randnotiz:
+   Transfervermerk gemäß § 298 Abs. 3 ZPO, handschriftliche Randnotiz:
    "§ 298 Abs. 3 ZPO Transfervermerk. Das Gericht VERSTEHT das Problem!
     Ein Papier IST KEIN elektronisches Dokument. Ich wette der BGH sieht das genauso."]
 
@@ -51,7 +51,7 @@ ANMERKUNGEN ZUM BEWEISWERT:
   RA Dr. Hassenstein-Heepen.
 - Er zeigt, dass der Mieter bereits bei Erhalt der Klageschrift (April 2022) das
   Kernar-gument (qES-Ausdruck ≠ formgerechter Zugang) selbst entwickelt hat.
-- Das Bild der Klageschrift (Anlage zum Screenshot) zeigt den Transfervermerk gemaess
+- Das Bild der Klageschrift (Anlage zum Screenshot) zeigt den Transfervermerk gemäß
   § 298 Abs. 3 ZPO mit den handschriftlichen Randnotizen des Mieters.
 - Dieses Argument wurde später in BGH VIII ZR 159/23 (Leitsatz c) bestätigt.
 

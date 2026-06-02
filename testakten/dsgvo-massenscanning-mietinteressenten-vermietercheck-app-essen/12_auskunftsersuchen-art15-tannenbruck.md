@@ -22,7 +22,7 @@
 Dr. Tannenbruck ist als Soziologin, die zu algorithmischer Diskriminierung forscht, eine Hochprofil-Betroffene. Sie hat:
 - Im Marz 2025 eine Wohnung in Essen-Ruettenscheid beworben und eine Absage erhalten
 - Anschliessend erfahren, dass die Absage mit einem ROT-Score in ProspectScore Pro zusammenhing
-- Im Dezember 2025 das Auskunftsersuchen gemaess Art. 15 DSGVO an VCS gestellt
+- Im Dezember 2025 das Auskunftsersuchen gemäß Art. 15 DSGVO an VCS gestellt
 - Im Januar 2026 Klage erhoben (LG Essen 4 O 244/26) auf: Auskunftserteilung, Schadensersatz 1.500 EUR, Unterlassung weiterer Verarbeitung
 
 **Zusätzliches Risiko:** Dr. Tannenbruck hat bereits Kontakt zum NDR-Journalisten Felix Kaltenbach (s. Akte 13) aufgenommen. Eine Kooperation beider Personen als Zeugen und Informationsquellen für ein NDR-Panorama-Feature droht.
@@ -50,7 +50,7 @@ Art. 15 Abs. 3 DSGVO gibt zusätzlich ein Recht auf Kopie der personenbezogenen 
 
 ### 2.2 Besondere Relevanz Art. 15 Abs. 1 lit. h (Profiling-Auskunft)
 
-Für automatisierte Entscheidungen einschliesslich Profiling gemaess Art. 22 DSGVO muss die Auskunft enthalten:
+Für automatisierte Entscheidungen einschliesslich Profiling gemäß Art. 22 DSGVO muss die Auskunft enthalten:
 - Aussagekräftige Informationen über die involvierte Logik
 - Die Tragweite der Verarbeitung
 - Die angestrebten Auswirkungen einer solchen Verarbeitung für die betroffene Person
@@ -96,7 +96,7 @@ Art. 15 DSGVO sieht keine unmittelbaren Ausnahmen vor, aber ErwGr. 63 DSGVO gibt
 
 ## 5. Entwurf: Auskunftsschreiben an Dr. Tannenbruck
 
-**Betreff: Antwort auf Ihr Auskunftsersuchen gemaess Art. 15 DSGVO vom 12.12.2025**
+**Betreff: Antwort auf Ihr Auskunftsersuchen gemäß Art. 15 DSGVO vom 12.12.2025**
 
 **Zu verarbeiteten Daten:**
 - Name: Dr. Susanna Tannenbruck

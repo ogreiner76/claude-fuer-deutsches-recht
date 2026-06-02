@@ -16,7 +16,7 @@ stellen wir namens und in Vollmacht des Klägers
 
 **Antrag**
 
-den Sachverständigen Dipl.-Ing. Edmund Pfaffenberger gemaess § 406 Abs. 1 ZPO i. V. m. § 42 Abs. 2 ZPO wegen Besorgnis der Befangenheit abzulehnen.
+den Sachverständigen Dipl.-Ing. Edmund Pfaffenberger gemäß § 406 Abs. 1 ZPO i. V. m. § 42 Abs. 2 ZPO wegen Besorgnis der Befangenheit abzulehnen.
 
 ## Begründung
 
@@ -68,7 +68,7 @@ Hilfsweise — sollten die Voraussetzungen einer Ablehnung wider Erwarten nicht 
 
 1. die Einholung eines neuen Sachverstaendigengutachtens (§ 412 Abs. 1 ZPO);
 
-2. die Vergütung des Sachverständigen Pfaffenberger gemaess § 8a Abs. 2 S. 1 Nr. 2 JVEG nicht oder nur teilweise festzusetzen, weil die Mängel des Gutachtens auch ein Verschulden des Sachverständigen begründen;
+2. die Vergütung des Sachverständigen Pfaffenberger gemäß § 8a Abs. 2 S. 1 Nr. 2 JVEG nicht oder nur teilweise festzusetzen, weil die Mängel des Gutachtens auch ein Verschulden des Sachverständigen begründen;
 
 3. dem Sachverständigen die Vorlage einer vollständigen Liste der mit dem Schreibassistenten bearbeiteten Passagen, soweit technisch noch möglich, aufzugeben.
 

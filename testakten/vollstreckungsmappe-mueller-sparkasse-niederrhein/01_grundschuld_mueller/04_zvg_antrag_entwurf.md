@@ -32,7 +32,7 @@ beantragen wir,
 
 ### Vollstreckungstitel
 
-Vollstreckbare Ausfertigung der notariellen Urkunde des Notars Dr. Bertram Berghoff in Krefeld vom 14.6.2017, URNr 882/2017, in der sich die Schuldner wegen aller durch die nachstehende Grundschuld gesicherten Ansprüchen der sofortigen Zwangsvollstreckung in den belasteten Grundbesitz und in ihr persönliches Vermoegen unterworfen haben.
+Vollstreckbare Ausfertigung der notariellen Urkunde des Notars Dr. Bertram Berghoff in Krefeld vom 14.6.2017, URNr 882/2017, in der sich die Schuldner wegen aller durch die nachstehende Grundschuld gesicherten Ansprüchen der sofortigen Zwangsvollstreckung in den belasteten Grundbesitz und in ihr persönliches Vermögen unterworfen haben.
 
 Anlage K 1: vollstreckbare Ausfertigung
 Anlage K 2: Zustellungsnachweis vom DD.MM.JJJJ

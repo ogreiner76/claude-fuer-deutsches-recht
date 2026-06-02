@@ -33,7 +33,7 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 **Bewertung:** RED
 
 ### Issue 4 — Korruption Lateinamerika 2022 (Brasilien/Mexiko)
-**Risiko:** Bussgeldrisiko gemaess deutschem Recht (§ 30 OWiG), potenzielle DoJ-Exposure.  
+**Risiko:** Bussgeldrisiko gemäß deutschem Recht (§ 30 OWiG), potenzielle DoJ-Exposure.  
 **Massnahme:** Vorlage Klamroth-Bericht als Closing-Condition; umfassende Indemnity.  
 **Bewertung:** RED
 
@@ -73,7 +73,7 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 **Bewertung:** MEDIUM
 
 ### Issue 12 — DSGVO-Defizite (nicht-EU-Server)
-**Risiko:** Bussgeld bis 4% des weltweiten Jahresumsatzes gemaess Art. 83 DSGVO.  
+**Risiko:** Bussgeld bis 4% des weltweiten Jahresumsatzes gemäß Art. 83 DSGVO.  
 **Massnahme:** Re-Audit; Abstellungsmassnahmen als Closing-Condition.  
 **Bewertung:** MEDIUM
 

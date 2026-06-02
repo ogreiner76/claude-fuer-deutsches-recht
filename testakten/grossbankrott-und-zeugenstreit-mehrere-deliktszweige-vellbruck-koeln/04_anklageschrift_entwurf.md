@@ -30,7 +30,7 @@ Der Angeschuldigte hatte die Insolvenzreife erkannt: Steuerberater Engelmeier ha
 
 ### Komplex 2 — Bankrott (§ 283 Abs. 1 Nr. 1, 5, 8 StGB)
 
-#### 2.1 § 283 Abs. 1 Nr. 1 StGB (Verheimlichen Vermoegen)
+#### 2.1 § 283 Abs. 1 Nr. 1 StGB (Verheimlichen Vermögen)
 
 Im Zeitraum 15.02.2025 bis 09.03.2025 liess der Angeschuldigte Markenware im Wert von **ca. 478.000 EUR** (Wholesale-Wert) ohne ordnungsgemaesse buchhalterische Erfassung vom Lager Bottrop (Industriestrasse 88) in das Lager der Tochtergesellschaft Pellbach Logistik Polska Sp. z o.o., Wroclaw, verbringen. Die Verbringung erfolgte mittels 11 LKW-Fahrten. Der Angeschuldigte versuchte damit, diese Bestände dem Zugriff des Insolvenzverwalters zu entziehen.
 
@@ -46,7 +46,7 @@ Im Zeitraum 01.11.2024 bis 28.02.2025 verminderte der Angeschuldigte das Gesells
 
 ### Komplex 3 — Untreue (§ 266 Abs. 1 StGB)
 
-Identisch mit Komplex 2.3 (Privatentnahmen). Die Tat steht in Tateinheit zu § 283 Abs. 1 Nr. 8 StGB. Sie wird jedoch wegen unterschiedlicher Rechtsgüter (§ 266 StGB schützt das Vermoegen der GmbH selbst, § 283 StGB die Gläubigergesamtheit) gesondert verfolgt.
+Identisch mit Komplex 2.3 (Privatentnahmen). Die Tat steht in Tateinheit zu § 283 Abs. 1 Nr. 8 StGB. Sie wird jedoch wegen unterschiedlicher Rechtsgüter (§ 266 StGB schützt das Vermögen der GmbH selbst, § 283 StGB die Gläubigergesamtheit) gesondert verfolgt.
 
 **Strafmass-Vorstellung StA:** im Wege Tateinheit aufgehend in § 283 StGB.
 
@@ -114,9 +114,9 @@ Die StA stützt sich auf:
 Die StA Koeln beantragt,
 
 1. die Anklage zu eröffnen und das Hauptverfahren vor der Wirtschaftsstrafkammer des LG Koeln zu eröffnen,
-2. den Haftbefehl gemaess Beschluss des AG Koeln vom 12.05.2026 (502 Gs 4881/26) aufrechtzuerhalten,
-3. Beweisaufnahme gemaess Beweismittelliste durchzuführen,
-4. ergänzend einen vorläufigen Vermögensarrest gemaess §§ 111e Abs. 1, 111j StPO in Höhe von 1.485.000 EUR anzuordnen.
+2. den Haftbefehl gemäß Beschluss des AG Koeln vom 12.05.2026 (502 Gs 4881/26) aufrechtzuerhalten,
+3. Beweisaufnahme gemäß Beweismittelliste durchzuführen,
+4. ergänzend einen vorläufigen Vermögensarrest gemäß §§ 111e Abs. 1, 111j StPO in Höhe von 1.485.000 EUR anzuordnen.
 
 ---
 

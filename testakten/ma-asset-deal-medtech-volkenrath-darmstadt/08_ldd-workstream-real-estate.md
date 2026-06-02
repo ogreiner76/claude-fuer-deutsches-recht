@@ -26,7 +26,7 @@ Eigentum der FraktoMedis SE eingetragen im Grundbuch des Amtsgerichts Darmstadt,
 
 **Finding RE-01 (HIGH):** Das Grundstueck ist mit einer Grundschuld von 8 Mio. EUR zugunsten der Commerzbank AG belastet (eingetragen 22. August 2018). Diese ist vor Closing abzulösen oder an VENERA zu novieren.
 
-**Finding RE-02 (MEDIUM):** Altlastenverdacht gemaess § 9 BBodSchG: Das Grundstueck stand vor 1990 als Betriebsgelände eines Galvanikbetriebs in Nutzung. Ein Bodengutachten liegt vor (2019), identifiziert aber keine akuten Kontaminationen. Dennoch empfiehlt sich ein aktualisiertes Phase-II-Umweltgutachten vor Closing.
+**Finding RE-02 (MEDIUM):** Altlastenverdacht gemäß § 9 BBodSchG: Das Grundstueck stand vor 1990 als Betriebsgelände eines Galvanikbetriebs in Nutzung. Ein Bodengutachten liegt vor (2019), identifiziert aber keine akuten Kontaminationen. Dennoch empfiehlt sich ein aktualisiertes Phase-II-Umweltgutachten vor Closing.
 
 ### 3.2 Mietverträge
 

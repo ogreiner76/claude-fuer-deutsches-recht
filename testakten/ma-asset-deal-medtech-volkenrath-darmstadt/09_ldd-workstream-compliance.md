@@ -12,7 +12,7 @@ Behordliche Genehmigungen, Regulatory-Compliance im MedTech-Bereich, Exportkontr
 
 ## 2. Regulatorische Genehmigungen (MedTech)
 
-FraktoMedis Präzision ist als Medizinproduktehersteller gemaess EU-MDR (Verordnung (EU) 2017/745) zugelassen. Benannte Stelle: TÜV SuD Product Service GmbH.
+FraktoMedis Präzision ist als Medizinproduktehersteller gemäß EU-MDR (Verordnung (EU) 2017/745) zugelassen. Benannte Stelle: TÜV SuD Product Service GmbH.
 
 CE-Kennzeichnungen für alle in der EU vertriebenen Implantat-Serien sind aktuell und gültig (letzte Rezertifizierung: Mai 2024). QMS-Zertifizierung nach DIN EN ISO 13485:2016 ebenfalls aktuell.
 

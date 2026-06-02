@@ -14,7 +14,7 @@
 | Kodex-Offenlegung | ORANGE | Kontakt 12.04.2026 (MdB-Büro Albrecht) hat unklare Offenlegung; Nachhol-E-Mail vom 19.04.2026 vorhanden. Kontakt 12.05.2026 (MdB Reimers) hatte gemischte Erwähnung beider Auftraggeber; im Kontaktlog ergänzt. |
 | Schwellenprüfung | GRÜN | Pflichtregistrierungspflicht steht. |
 | Honorarrückstand Nordsee Elektrolyse | ORANGE | 12.500 EUR Aprilrechnung offen; Mahnstand 1 versandt. Beeinflusst Eintragspflicht nicht, aber Liquidität. |
-| Branchenformulierung | GRÜN/ORANGE | Korrigierter Eintragstext gemaess Mandantenwunsch HansaH2 ist abgenommen. OpenGrid-Vorfall Fassung 1 21.05.2026 als Vorfall im Compliance-Register vermerkt. |
+| Branchenformulierung | GRÜN/ORANGE | Korrigierter Eintragstext gemäß Mandantenwunsch HansaH2 ist abgenommen. OpenGrid-Vorfall Fassung 1 21.05.2026 als Vorfall im Compliance-Register vermerkt. |
 | Compliance-Schulung | ORANGE | Pflichtschulung 31.05.2026 für alle Mitarbeitenden; Anwesenheit überprüfen. |
 | Doppelrolle Tarek Abadi | ORANGE | Doppelrolle Auftraggebervertreter + Spreebogen-Berater im Compliance-Register dokumentiert. Pruefung, ob im Eintrag als "betraute Person Spreebogen" oder als "Vertreter Auftraggeber" geführt. |
 | Pflicht zur RFS-Anfrage | GRÜN | Anfrage am 22.05.2026 versandt; Antwort spätestens 02.06.2026 erwartet. |

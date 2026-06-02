@@ -15,7 +15,7 @@ A. VORBEMERKUNG
 Diese Notiz fasst die vier derzeit aktiven Restrukturierungsmandate zusammen und
 vergleicht die jeweiligen Krisenstadien, Symptome, angewandten Instrumente sowie
 die insolvenzrechtliche Einordnung. Sie dient der internen Fortbildung sowie der
-Qualitätssicherung im Bereich Frühwarnsysteme gemaess §§ 1, 102 StaRUG.
+Qualitätssicherung im Bereich Frühwarnsysteme gemäß §§ 1, 102 StaRUG.
 
 Die vier Fälle decken das gesamte Spektrum von drohender Zahlungsunfahigkeit
 (§ 18 InsO) bis zur akuten Insolvenzantragspflicht (§ 15a InsO) ab und
@@ -54,7 +54,7 @@ I.   VARIANTE A: VEYRA AI Foundation gGmbH, Frankfurt am Main
   BESONDERHEITEN:
     - Gemeinnützige gGmbH: Steuerliche Restriktionen bei Mitteleinsatz
     - Kein klassischer Bankkredit; kein Sicherheitennetz
-    - AR gemaess § 1 Abs. 1 Satz 2 StaRUG zur Einrichtung Frühwarnsystem verpflichtet
+    - AR gemäß § 1 Abs. 1 Satz 2 StaRUG zur Einrichtung Frühwarnsystem verpflichtet
     - § 102 StaRUG: Warnschreiben erstattet am 08.05.2026 (Fristwahrung)
 
   INSTRUMENT:

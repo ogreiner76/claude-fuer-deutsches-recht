@@ -42,9 +42,9 @@ Auf Ebene der KG (Grossbach Druckguss & Präzision GmbH & Co. KG):
 | 2024 | -1.900.000 | 12.800.000 |
 | 2025 | -1.200.000 (vorläufig) | **14.000.000** |
 
-**Bescheinigung Finanzamt Erfurt:** Bescheid über den verbleibenden Gewerbeverlust zum 31.12.2024 vom 14.03.2025, gemaess § 10a GewStG.
+**Bescheinigung Finanzamt Erfurt:** Bescheid über den verbleibenden Gewerbeverlust zum 31.12.2024 vom 14.03.2025, gemäß § 10a GewStG.
 
-**Mindestbesteuerung § 10a Satz 2 GewStG:** Bei Verrechnung mit Sanierungsertrag greift die Mindestbesteuerung von 60 % grundsätzlich nicht, weil § 7b GewStG Vorrang hat (sanierungsbezogen). Aber: § 7b Abs. 1 Satz 3 GewStG verweist auf § 3a Abs. 3 EStG sinngemaess, sodass die Verrechnungsreihenfolge zwingend ist.
+**Mindestbesteuerung § 10a Satz 2 GewStG:** Bei Verrechnung mit Sanierungsertrag greift die Mindestbesteuerung von 60 % grundsätzlich nicht, weil § 7b GewStG Vorrang hat (sanierungsbezogen). Aber: § 7b Abs. 1 Satz 3 GewStG verweist auf § 3a Abs. 3 EStG sinngemäß, sodass die Verrechnungsreihenfolge zwingend ist.
 
 ## IV. Verrechnung nach § 3a Abs. 3 EStG (Überblick)
 

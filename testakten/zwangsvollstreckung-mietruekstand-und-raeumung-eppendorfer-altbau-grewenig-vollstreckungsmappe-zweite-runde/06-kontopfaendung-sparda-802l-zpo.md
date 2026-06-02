@@ -16,7 +16,7 @@ Schuldnerin Carmen Pohlmann-Tannenberg: Lohnkonto bei Sparda Hamburg vermutet (a
 
 ## § 802l ZPO — Auskunftsersuchen Gerichtsvollzieher
 
-Gemaess § 802l ZPO kann der GV beim Bundeszentralamt für Steuern (BZSt), der Deutschen Rentenversicherung und dem Kraftfahrtbundesamt Auskunft einholen über:
+Gemäß § 802l ZPO kann der GV beim Bundeszentralamt für Steuern (BZSt), der Deutschen Rentenversicherung und dem Kraftfahrtbundesamt Auskunft einholen über:
 
 - Konten und Depotnummern (§ 802l Abs. 1 Nr. 1 ZPO — Bankauskunft BZSt nach § 93b AO)
 - Beschäftigungsverhältnisse (§ 802l Abs. 1 Nr. 2 ZPO — DRV)
@@ -24,7 +24,7 @@ Gemaess § 802l ZPO kann der GV beim Bundeszentralamt für Steuern (BZSt), der D
 
 ### Voraussetzung: Erfolglose Pfaendungsversuche / kein bekanntes Konto
 
-Gemaess § 802l Abs. 1 S. 1 ZPO ist das Auskunftsersuchen zulässig, wenn:
+Gemäß § 802l Abs. 1 S. 1 ZPO ist das Auskunftsersuchen zulässig, wenn:
 - der Schuldner seiner Pflicht zur Vermögensauskunft (§ 802c ZPO) nicht nachgekommen ist ODER
 - der GV Pfändung anderer Objekte erfolglos versucht hat ODER
 - die Aukunft zur Vollstreckung in Kontovermögen erforderlich ist.
@@ -53,7 +53,7 @@ Kosten: Gebühr Nr. 270 GVKG-KV ca. 15–25 EUR.
 
 ### Schritt 2: PfUEB gegen Sparda Hamburg
 
-Sobald Kontodaten vorliegen, Antrag auf Pfaendungs- und Überweisungsbeschluss gemaess § 829 ZPO gegen:
+Sobald Kontodaten vorliegen, Antrag auf Pfaendungs- und Überweisungsbeschluss gemäß § 829 ZPO gegen:
 
 **Drittschuldner:**  
 Sparda-Bank Hamburg eG  

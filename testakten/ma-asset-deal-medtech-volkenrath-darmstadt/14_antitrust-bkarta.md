@@ -9,7 +9,7 @@
 
 ## 1. Anmeldepflicht
 
-Gemaess §§ 35 ff. GWB war die Transaktion beim Bundeskartellamt (BKartA) in Bonn anmeldepflichtig, da sämtliche inländische Umsatzschwellen erreicht wurden:
+Gemäß §§ 35 ff. GWB war die Transaktion beim Bundeskartellamt (BKartA) in Bonn anmeldepflichtig, da sämtliche inländische Umsatzschwellen erreicht wurden:
 
 - Kombinierter weltweiter Umsatz der beteiligten Unternehmen: > 500 Mio. EUR (§ 35 Abs. 1 Nr. 1 GWB)
 - Inländischer Umsatz VENERA (konsolidiert, Vorjahr): > 25 Mio. EUR (§ 35 Abs. 1 Nr. 2 GWB)

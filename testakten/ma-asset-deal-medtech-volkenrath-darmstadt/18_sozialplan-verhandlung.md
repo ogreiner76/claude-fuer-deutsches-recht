@@ -9,7 +9,7 @@
 
 ## 1. Hintergrund
 
-Im Zusammenhang mit dem Betriebsübergang und der beabsichtigten Restrukturierung nach Closing hat der Betriebsrat Darmstadt umfangreiche Forderungen gestellt und die Einleitung eines Interessenausgleich- und Sozialplanverfahrens gemaess §§ 111–113 BetrVG verlangt.
+Im Zusammenhang mit dem Betriebsübergang und der beabsichtigten Restrukturierung nach Closing hat der Betriebsrat Darmstadt umfangreiche Forderungen gestellt und die Einleitung eines Interessenausgleich- und Sozialplanverfahrens gemäß §§ 111–113 BetrVG verlangt.
 
 ## 2. Forderungen des Betriebsrats
 
@@ -29,7 +29,7 @@ Im Zusammenhang mit dem Betriebsübergang und der beabsichtigten Restrukturierun
 
 ## 4. Einigungsstellenverfahren
 
-Da keine Einigung in direkten Verhandlungen (Sitzungen: 25. Februar, 10. März, 24. März 2026) erzielt wurde, beantragte der Betriebsrat am 28. März 2026 die Einleitung eines Einigungsstellenverfahrens beim Arbeitsgericht Darmstadt gemaess § 76 BetrVG.
+Da keine Einigung in direkten Verhandlungen (Sitzungen: 25. Februar, 10. März, 24. März 2026) erzielt wurde, beantragte der Betriebsrat am 28. März 2026 die Einleitung eines Einigungsstellenverfahrens beim Arbeitsgericht Darmstadt gemäß § 76 BetrVG.
 
 **Vorsitzender der Einigungsstelle:** Dr. Alexander Voss-Tyminski (Richter a.D.)
 

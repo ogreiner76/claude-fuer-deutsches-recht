@@ -11,7 +11,7 @@
 
 ### 1. Transaktionsgegenstand
 
-Erwerb von 100% der Geschäftsanteile an der Volkenrath Solar Eppendorf GmbH (SPV), eingetragen im Handelsregister Charlottenburg, HRB 72 341 B, durch Käufer im Wege des Share-Deals gemaess § 15 GmbHG.
+Erwerb von 100% der Geschäftsanteile an der Volkenrath Solar Eppendorf GmbH (SPV), eingetragen im Handelsregister Charlottenburg, HRB 72 341 B, durch Käufer im Wege des Share-Deals gemäß § 15 GmbHG.
 
 ### 2. Kaufpreis und Mechanismus
 

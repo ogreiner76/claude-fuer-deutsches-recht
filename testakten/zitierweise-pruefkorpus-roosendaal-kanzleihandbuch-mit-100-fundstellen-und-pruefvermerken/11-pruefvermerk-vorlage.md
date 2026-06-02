@@ -62,7 +62,7 @@ Prüfvermerke sind nicht zur Weitergabe in Schriftsaetzen bestimmt. Sie dienen d
 
 **Vorlage:**
 > **[PRÜFVERMERK — UNVOLLSTÄNDIGES ZITAT (PV-UV)]**
-> Das vorliegende Zitat enthalt nicht alle Pflichtangaben gemaess Hauszitierregel A.2 / A.3:
+> Das vorliegende Zitat enthalt nicht alle Pflichtangaben gemäß Hauszitierregel A.2 / A.3:
 >
 > Fehlend: [Gericht / Datum / Aktenzeichen / Fundstelle — Zutreffendes unterstreichen]
 >
@@ -79,7 +79,7 @@ Prüfvermerke sind nicht zur Weitergabe in Schriftsaetzen bestimmt. Sie dienen d
 
 **Vorlage:**
 > **[PRÜFVERMERK — URL FEHLT (PV-URL)]**
-> Die Entscheidung [GERICHT, DATUM, AZ] ist frei zugänglich. Die URL-Angabe ist gemaess Hauszitierregel C.1 Pflicht.
+> Die Entscheidung [GERICHT, DATUM, AZ] ist frei zugänglich. Die URL-Angabe ist gemäß Hauszitierregel C.1 Pflicht.
 >
 > Gefundene URL: [URL]
 > Abrufdatum: [DATUM]
@@ -96,7 +96,7 @@ Prüfvermerke sind nicht zur Weitergabe in Schriftsaetzen bestimmt. Sie dienen d
 
 **Vorlage:**
 > **[PRÜFVERMERK — RANGFOLGE-FEHLER (PV-RG)]**
-> Die Fundstellen sind in falscher Reihenfolge angegeben. Gemaess Hauszitierregel A.1 gilt:
+> Die Fundstellen sind in falscher Reihenfolge angegeben. Gemäß Hauszitierregel A.1 gilt:
 > Amtliche Sammlung > Fachzeitschrift > Freie Online-Quelle > BeckRS
 >
 > Vorgefundene Reihenfolge: [IST-ZUSTAND]

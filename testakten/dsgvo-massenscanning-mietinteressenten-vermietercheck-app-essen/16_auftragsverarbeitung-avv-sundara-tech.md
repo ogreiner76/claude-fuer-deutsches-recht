@@ -41,7 +41,7 @@ Art. 28 Abs. 3 DSGVO: Die Verarbeitung durch einen Auftragsverarbeiter erfolgt a
 
 ### 2.2 Maeengel des AVV (Dezember 2023)
 
-Gemaess Analyse des AVV-Dokuments (Zugang erhalten 15.01.2026) bestehen folgende Mängel:
+Gemäß Analyse des AVV-Dokuments (Zugang erhalten 15.01.2026) bestehen folgende Mängel:
 
 | AVV-Klausel | Mängel | Bewertung |
 |-------------|---------|-----------|
@@ -73,7 +73,7 @@ Es wird empfohlen, den bestehenden AVV vollständig zu ersetzen durch:
 6. Loeschungsprotokoll: Definierte Fristen und Nachweispflichten
 
 **Drittlandabsicherung:**
-7. SCC (Modul 2: Controller-to-Processor) gemaess EU-Kommissionsbeschluss 2021/914
+7. SCC (Modul 2: Controller-to-Processor) gemäß EU-Kommissionsbeschluss 2021/914
 8. Transfer Impact Assessment (TIA) Indien
 9. Zusatzmassnahmen: Pseudonymisierung aller Trainings-Datensätze vor Transfer
 
@@ -97,7 +97,7 @@ Für den Zeitraum ohne AVV haftet VCS als Verantwortlicher vollständig für all
 
 ### 4.2 Regress gegen Sundara Tech
 
-In dem Zeitraum ohne AVV ist Sundara Tech möglicherweise als eigenverantwortlicher Verantwortlicher einzustufen (kein AVV = kein Weisungsverhältnis). Gesamtschuldnerische Haftung VCS + Sundara Tech gemaess Art. 82 Abs. 4 DSGVO ist möglich. Der Regressanspruch VCS gegen Sundara Tech (Art. 82 Abs. 5 DSGVO) muss vertraglich gesichert werden.
+In dem Zeitraum ohne AVV ist Sundara Tech möglicherweise als eigenverantwortlicher Verantwortlicher einzustufen (kein AVV = kein Weisungsverhältnis). Gesamtschuldnerische Haftung VCS + Sundara Tech gemäß Art. 82 Abs. 4 DSGVO ist möglich. Der Regressanspruch VCS gegen Sundara Tech (Art. 82 Abs. 5 DSGVO) muss vertraglich gesichert werden.
 
 **Massnahme:** Einbeziehung von Regressklausel in AVV v2.0 für den historischen Zeitraum.
 

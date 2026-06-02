@@ -34,13 +34,13 @@ Laut Penetrationstest-Bericht (s. Akte 07) enthielt der Staging-Datenbankdump ni
 
 ### 2.1 Grundsatz Art. 44 DSGVO
 
-Gemaess Art. 44 DSGVO darf eine Übermittlung personenbezogener Daten, die gerade verarbeitet werden oder nach ihrer Übermittlung in ein Drittland verarbeitet werden sollen, nur erfolgen, wenn der Verantwortliche und der Auftragsverarbeiter die in Kapitel V DSGVO niedergelegten Bedingungen einhalten.
+Gemäß Art. 44 DSGVO darf eine Übermittlung personenbezogener Daten, die gerade verarbeitet werden oder nach ihrer Übermittlung in ein Drittland verarbeitet werden sollen, nur erfolgen, wenn der Verantwortliche und der Auftragsverarbeiter die in Kapitel V DSGVO niedergelegten Bedingungen einhalten.
 
 ### 2.2 Angemessenheitsbeschluss für Indien?
 
-**Stand Januar 2026:** Für Indien existiert kein Angemessenheitsbeschluss der Europäischen Kommission gemaess Art. 45 DSGVO. Das Digital Personal Data Protection Act (DPDPA) Indiens (2023) wurde bislang nicht als gleichwertig mit der DSGVO eingestuft.
+**Stand Januar 2026:** Für Indien existiert kein Angemessenheitsbeschluss der Europäischen Kommission gemäß Art. 45 DSGVO. Das Digital Personal Data Protection Act (DPDPA) Indiens (2023) wurde bislang nicht als gleichwertig mit der DSGVO eingestuft.
 
-Folge: Jede Datenübermittlung nach Indien bedarf geeigneter Garantien gemaess Art. 46 DSGVO.
+Folge: Jede Datenübermittlung nach Indien bedarf geeigneter Garantien gemäß Art. 46 DSGVO.
 
 ### 2.3 Geeignete Garantien Art. 46 DSGVO
 
@@ -88,7 +88,7 @@ Die anonyme HinSchG-Meldung vom 08.11.2025 thematisiert explizit den fehlenden S
 
 ## 5. Ordnungswidrigkeitenrechtliche Bewertung
 
-Der Verstoss gegen Art. 44 ff. DSGVO ist gemaess Art. 83 Abs. 5 lit. c DSGVO eine schwerwiegende Ordnungswidrigkeit (Bussgeld bis 20.000.000 EUR oder 4% des weltweiten Jahresumsatzes).
+Der Verstoss gegen Art. 44 ff. DSGVO ist gemäß Art. 83 Abs. 5 lit. c DSGVO eine schwerwiegende Ordnungswidrigkeit (Bussgeld bis 20.000.000 EUR oder 4% des weltweiten Jahresumsatzes).
 
 Nach dem EuGH-Urteil C-311/18 (Schrems II, 16.07.2020) und dem darauf basierenden EuGH-Urteil C-645/19 (Facebook Ireland, 15.06.2021) ist die Aufsichtsbehörde bei Kenntnis eines solchen Verstosses verpflichtet, die Übermittlung zu untersagen und Sanktionen zu verhängen.
 
@@ -104,7 +104,7 @@ Nach dem EuGH-Urteil C-311/18 (Schrems II, 16.07.2020) und dem darauf basierende
 
 ### Mittelfristige Massnahmen (bis 28.02.2026)
 
-4. **SCC-Abschluss** gemaess EU-Kommissionsbeschluss 2021/914 (Modul 2: Controller-to-Processor)
+4. **SCC-Abschluss** gemäß EU-Kommissionsbeschluss 2021/914 (Modul 2: Controller-to-Processor)
 5. **Transfer Impact Assessment (TIA)** für Indien mit externer Expertise (RA Kanzlei Mehta & Associates, Mumbai)
 6. **Pseudonymisierungsprotokoll** für ML-Trainingsdaten vor Weitergabe an Sundara Tech
 7. **Update AVV** — Einbeziehung der SCC-Konformitätsanforderungen

@@ -31,7 +31,7 @@
 | Vertragstyp | Privatdarlehen vom 17.6.2017, Nr. 4717-8821 |
 | Auszahlungsbetrag | 380.000,00 EUR (Sanierung Beethovenstrasse 12) |
 | Sicherung | Notarielle Grundschuld 380.000 EUR auf FB Krefeld Blatt 12 887, Notar Dr. Bertram Berghoff, URNr 882/2017 |
-| Unterwerfung | dinglich und persönlich, in das gesamte Vermoegen Bernd Mueller und Dorothea Mueller |
+| Unterwerfung | dinglich und persönlich, in das gesamte Vermögen Bernd Mueller und Dorothea Mueller |
 | Valuta 31.3.2026 | 261.480,73 EUR Hauptforderung |
 | Zinsen | 4,75 Prozent p.a. ab 1.1.2024 (Vertragszins), Verzugszins seit 5.3.2026 |
 | Verzug | drei Monatsraten offen (Januar, Februar, März 2026) |

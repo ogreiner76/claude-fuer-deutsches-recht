@@ -7,7 +7,7 @@
 
 ## I. Grundsatz
 
-Gemaess § 90 II 1 BVerfGG ist die Verfassungsbeschwerde grundsätzlich erst dann zulassig, wenn der Beschwerdeführer den Rechtsweg erschöpft hat. Der Grundsatz der Subsidiarität verlangt, dass alle von der Rechtsordnung bereitgestellten Möglichkeiten ergriffen werden, bevor das BVerfG angerufen wird.
+Gemäß § 90 II 1 BVerfGG ist die Verfassungsbeschwerde grundsätzlich erst dann zulassig, wenn der Beschwerdeführer den Rechtsweg erschöpft hat. Der Grundsatz der Subsidiarität verlangt, dass alle von der Rechtsordnung bereitgestellten Möglichkeiten ergriffen werden, bevor das BVerfG angerufen wird.
 
 Dies dient dem Zweck, dass die Fachgerichte Gelegenheit erhalten, die angegriffenen Massnahmen zu uberpruefen und möglicherweise den Verfassungsverstoss zu beseitigen (BVerfGE 68, 376 [380]; 77, 381 [401]).
 

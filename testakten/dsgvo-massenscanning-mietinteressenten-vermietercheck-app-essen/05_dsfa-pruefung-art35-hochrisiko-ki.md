@@ -21,7 +21,7 @@ Art. 35 Abs. 3 DSGVO nennt als typische Hochrisikoverarbeitungen:
 
 ### 1.2 Negativlisten und Positivlisten der LDI NRW
 
-Gemaess Art. 35 Abs. 4 und Abs. 5 DSGVO haben Aufsichtsbehörden Listen der Verarbeitungen zu erstellen, die einer DSFA bedürftig sind (Muss-Listen) bzw. nicht bedürftig sind (Ausnahmelisten). Die LDI NRW hat in ihrer aktuellen Muss-Liste (Stand Oktober 2025) ausdrücklich „KI-gestützte Scoring-Verfahren zur Mietinteressenten-Beurteilung" aufgeführt.
+Gemäß Art. 35 Abs. 4 und Abs. 5 DSGVO haben Aufsichtsbehörden Listen der Verarbeitungen zu erstellen, die einer DSFA bedürftig sind (Muss-Listen) bzw. nicht bedürftig sind (Ausnahmelisten). Die LDI NRW hat in ihrer aktuellen Muss-Liste (Stand Oktober 2025) ausdrücklich „KI-gestützte Scoring-Verfahren zur Mietinteressenten-Beurteilung" aufgeführt.
 
 ---
 
@@ -65,7 +65,7 @@ Gemaess Art. 35 Abs. 4 und Abs. 5 DSGVO haben Aufsichtsbehörden Listen der Vera
 
 ## 4. Inhalt einer nachzuholenden DSFA
 
-Die DSFA muss gemaess Art. 35 Abs. 7 DSGVO mindestens enthalten:
+Die DSFA muss gemäß Art. 35 Abs. 7 DSGVO mindestens enthalten:
 
 ### 4.1 Systematische Beschreibung der Verarbeitungsvorgänge (Art. 35 Abs. 7 lit. a)
 
@@ -107,7 +107,7 @@ Die Erhebung des Familienstatus und der Haushaltsgroesse ist für den legitimen 
 
 ## 5. Konsultationspflicht bei LDI NRW (Art. 36 DSGVO)
 
-Gemaess Art. 36 Abs. 1 DSGVO ist der Verantwortliche verpflichtet, vor Beginn der Verarbeitung die Aufsichtsbehörde zu konsultieren, wenn aus der DSFA ein hohes Risiko hervorgeht und der Verantwortliche keine geeigneten Massnahmen zur Eindämmung des Risikos trifft.
+Gemäß Art. 36 Abs. 1 DSGVO ist der Verantwortliche verpflichtet, vor Beginn der Verarbeitung die Aufsichtsbehörde zu konsultieren, wenn aus der DSFA ein hohes Risiko hervorgeht und der Verantwortliche keine geeigneten Massnahmen zur Eindämmung des Risikos trifft.
 
 Da die DSFA nachträglich durchgeführt wird und das Risiko als KRITISCH eingestuft wurde, ist eine Vorabkonsultation (Art. 36 DSGVO) bei der LDI NRW obligatorisch. Dies wird gleichzeitig zur Entlastung im Aufsichtsverfahren DSB-NW-44/26 genutzt.
 
@@ -130,6 +130,6 @@ Da die DSFA nachträglich durchgeführt wird und das Risiko als KRITISCH eingest
 
 - DSGVO Art. 35, 36 — [dejure.org/gesetze/DSGVO](https://dejure.org/gesetze/DSGVO)
 - DSK-Kurzpapier Nr. 5 (DSFA) — [datenschutzkonferenz-online.de](https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_5.pdf)
-- LDI NRW Muss-Liste gemaess Art. 35 Abs. 4 DSGVO — [ldi.nrw.de](https://www.ldi.nrw.de)
+- LDI NRW Muss-Liste gemäß Art. 35 Abs. 4 DSGVO — [ldi.nrw.de](https://www.ldi.nrw.de)
 - EDSA-Leitlinien 09/2022 (DSFA) — [edpb.europa.eu](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-092022-personal-data-breach-notification_de)
 - BGH VI ZR 10/24 — [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

@@ -35,7 +35,7 @@ Vor jeder formalen Übermittlung eines SPA-Entwurfs an die Gegenseite, an den No
 | Alle Defined Terms bei erster Erwähnung gross und in Anführungszeichen gesetzt | [ ] | |
 | Defined Terms-Tabelle (Art. 1) vollständig und alphabetisch | [ ] | |
 | Jeder Defined Term nur einmal definiert (kein Doppelten) | [ ] | |
-| Querverweise auf Artikel/Klauseln korrekt (z.B. "gemaess Art. 6.2(b)") | [ ] | |
+| Querverweise auf Artikel/Klauseln korrekt (z.B. "gemäß Art. 6.2(b)") | [ ] | |
 | Cross-References in Word aktualisieren: Strg+A, dann F9 | [ ] | |
 | Platzhalter "[●]" vollständig befüllt | [ ] | |
 | Datumsangaben korrekt und konsistent (TT.MM.JJJJ) | [ ] | |

@@ -8,7 +8,7 @@
 
 ## Sachverhalt Schuldnerseite
 
-Am 21.01.2026 haben die Schuldner durch ihre Prozessbevollmaechtigten (RA Steinhardt-Kues, Hamburg) einen Schuldnerschutzantrag gemaess § 765a ZPO gestellt.
+Am 21.01.2026 haben die Schuldner durch ihre Prozessbevollmaechtigten (RA Steinhardt-Kues, Hamburg) einen Schuldnerschutzantrag gemäß § 765a ZPO gestellt.
 
 **Begrunduung des Antrags:**
 

@@ -49,7 +49,7 @@ Wichtig zu trennen:
 2. **Strategischer Nutzen:** Das Wallner-II-Gutachten dient
 
    a) zur Erschütterung des Pfaffenberger-Gutachtens (Methodik, Mess-Lage);
-   b) zur Vorbereitung eines Antrags auf neues Gutachten gemaess § 412 ZPO;
+   b) zur Vorbereitung eines Antrags auf neues Gutachten gemäß § 412 ZPO;
    c) zur Untermauerung des Befangenheits- und JVEG-Antrags;
    d) zur Vorbereitung der Berufung, falls das LG dem Pfaffenberger folgt.
 

@@ -25,7 +25,7 @@ Durchschnittliche Betriebszugehörigkeit: 8,4 Jahre. Unkündbarer Kernbestand (>
 
 ## 3. Betriebsrat
 
-Ein Betriebsrat gemaess BetrVG ist am Standort Darmstadt-Nord gewählt (12 Mitglieder). Vorsitzender: Manfred Groetzsch.
+Ein Betriebsrat gemäß BetrVG ist am Standort Darmstadt-Nord gewählt (12 Mitglieder). Vorsitzender: Manfred Groetzsch.
 
 Aktuelle Betriebsvereinbarungen (5): Gleitzeit, mobiles Arbeiten, Jubilaeumspraeimien, Kurzarbeit 2023, betriebliche Altersvorsorge (BMAS-Förderung).
 
@@ -35,7 +35,7 @@ Tarifverträge: Der Bereich ist dem Tarifvertrag Metall- und Elektroindustrie He
 
 **Finding L-01 (HIGH):** Es existiert eine Betriebsvereinbarung "Standortgarantie Darmstadt-Nord" vom 12. Januar 2021 (Laufzeit bis 31. Dezember 2026). Der Asset Deal und eine anschliessende Restrukturierung könnte diese Vereinbarung verletzen. Der Betriebsrat hat bereits signalisiert, eine Verlängerung der Standortgarantie auf 5 Jahre ab Closing zu fordern.
 
-**Finding L-02 (HIGH):** Ca. 40 Mitarbeiter haben in Vorgesprächen eine mögliche Widerspruchserklärung gemaess § 613a Abs. 6 BGB in Aussicht gestellt. Bei Massenwiderspruch droht Verbleib bei FraktoMedis SE mit anschliessendem Interessenausgleich/Sozialplan, was die operative Kontinuität gefährdet.
+**Finding L-02 (HIGH):** Ca. 40 Mitarbeiter haben in Vorgesprächen eine mögliche Widerspruchserklärung gemäß § 613a Abs. 6 BGB in Aussicht gestellt. Bei Massenwiderspruch droht Verbleib bei FraktoMedis SE mit anschliessendem Interessenausgleich/Sozialplan, was die operative Kontinuität gefährdet.
 
 ## 5. Schlüsselverträge
 

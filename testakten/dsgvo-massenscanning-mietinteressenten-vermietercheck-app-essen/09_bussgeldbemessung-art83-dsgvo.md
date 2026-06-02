@@ -41,7 +41,7 @@ Fünf Verstoesse identifiziert (s. Tabelle oben). Ausgangspunkt: Schwerwiegendst
 
 **Schritt 2 — Ausgangsbetrag anhand der Schwere (Art. 83 Abs. 2 lit. a)**
 
-Gemaess EDSA-Leitlinien 04/2022, Rn. 56:
+Gemäß EDSA-Leitlinien 04/2022, Rn. 56:
 
 | Schwere-Kategorie | Ausgangspunkt | Spanne |
 |------|-------|------|

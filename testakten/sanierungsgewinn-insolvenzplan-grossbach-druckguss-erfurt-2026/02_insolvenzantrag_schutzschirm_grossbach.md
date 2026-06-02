@@ -10,7 +10,7 @@
 
 Es wird beantragt,
 
-1. das Insolvenzverfahren über das Vermoegen der Antragstellerin als Schutzschirmverfahren nach § 270d InsO anzuordnen,
+1. das Insolvenzverfahren über das Vermögen der Antragstellerin als Schutzschirmverfahren nach § 270d InsO anzuordnen,
 2. die Eigenverwaltung anzuordnen, § 270b InsO,
 3. der Antragstellerin Frist bis 12.05.2026 zur Vorlage eines Insolvenzplans zu setzen,
 4. einen vorläufigen Sachwalter zu bestellen.
@@ -43,7 +43,7 @@ Anlage 5: Bescheinigung StB Dr. Thorsten Engelmeier vom 09.02.2026, Engelmeier &
 
 ### IV. Sanierungsstrategie
 
-- Forderungsverzicht der ungesicherten Gläubiger von 38 Mio EUR (gemaess vorläufiger Plan-Eckpunkte, Anlage 6).
+- Forderungsverzicht der ungesicherten Gläubiger von 38 Mio EUR (gemäß vorläufiger Plan-Eckpunkte, Anlage 6).
 - Investor LR Industrial AG, Berlin, zugesichert: 6 Mio EUR Eigenkapital-Zuführung gegen 25 % KG-Anteile und 100 % Komplementär-GmbH.
 - Personalanpassung: 60 Stellen über Aufhebungsverträge und Sozialplan, verbleibend 180 Mitarbeiter (Sozialplan in Verhandlung).
 - Strategischer Pivot in Aluminium-Druckguss für Photovoltaik-Montage-Komponenten (Folgegeschäft mit Solarwerk Mecklenburg AG, MoU vom 02.02.2026).
@@ -56,7 +56,7 @@ Mit Beschluss vom 12.02.2026 hat das AG Erfurt:
 2. die Eigenverwaltung angeordnet,
 3. RA Klaus Hattenberg (Hattenberg Sanierung GbR, Erfurt) zum vorläufigen Sachwalter bestellt,
 4. der Schuldnerin Frist zur Vorlage eines Insolvenzplans bis 12.05.2026 gesetzt,
-5. für die Dauer des Schutzschirmverfahrens Massnahmen der Zwangsvollstreckung gegen die Schuldnerin gemaess § 21 Abs. 2 Satz 1 Nr. 3 InsO untersagt.
+5. für die Dauer des Schutzschirmverfahrens Massnahmen der Zwangsvollstreckung gegen die Schuldnerin gemäß § 21 Abs. 2 Satz 1 Nr. 3 InsO untersagt.
 
 ## Steuerrelevanz (Notiz für steuerlich Begleitende)
 

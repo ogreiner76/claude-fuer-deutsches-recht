@@ -26,7 +26,7 @@ Hamburg, 07. Januar 2026
 
 ---
 
-### Vollstreckungsauftrag gemaess § 885 ZPO — Raeumung
+### Vollstreckungsauftrag gemäß § 885 ZPO — Raeumung
 
 Wir vertreten die Gläubigerin
 
@@ -55,7 +55,7 @@ zu betreiben.
 
 ### Art der Raeumung — Entscheidung und Begründung
 
-Die Gläubigerin bittet um **Berliner Raeumung gemaess § 885 Abs. 2–4 ZPO** (Kostenoptimierung; näheres s. Aktenstuck 12).
+Die Gläubigerin bittet um **Berliner Raeumung gemäß § 885 Abs. 2–4 ZPO** (Kostenoptimierung; näheres s. Aktenstuck 12).
 
 Im Rahmen der Berliner Raeumung wird das in der Wohnung verbliebene Mobiliar und sonstige Habe der Schuldner **nicht abtransportiert**, sondern vom GV **pfanduebermittelt** — ggf. an einen Drittlagerer oder durch GV-Pfaendungsprotokoll als nicht pfändbar eingeordnet.
 

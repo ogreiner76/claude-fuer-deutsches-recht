@@ -36,7 +36,7 @@ Die Beschwerdeführer beantragen den Erlass einer **einstweiligen Anordnung** na
 
 ## II. Zulassigkeit des Eilantrags
 
-Der Eilantrag ist nach § 32 I BVerfGG statthaft. Gemaess § 32 I BVerfGG kann das BVerfG im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum gemeinen Wohl dringend geboten ist.
+Der Eilantrag ist nach § 32 I BVerfGG statthaft. Gemäß § 32 I BVerfGG kann das BVerfG im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum gemeinen Wohl dringend geboten ist.
 
 Eine Verfassungsbeschwerde liegt vor (BvR 188/26, eingereicht gleichzeitig). Der Eilantrag ist zulässig als akzessorisches Verfahren.
 

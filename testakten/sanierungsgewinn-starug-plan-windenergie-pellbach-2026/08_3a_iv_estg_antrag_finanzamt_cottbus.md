@@ -26,7 +26,7 @@ Der Restrukturierungsplan sieht vor:
 - Debt-Equity-Swap des Banken-Konsortiums für 8.000.000 EUR Forderungen gegen 35 % Anteilsübertragung;
 - Stundung des Restbetrages 5.000.000 EUR über 36 Monate.
 
-Aus dem Forderungsverzicht entsteht ein Sanierungsertrag i.S.v. § 3a Abs. 2 EStG in Höhe von 22.000.000 EUR. Der DES-Anteil (gemaess Werthaltigkeitsgutachten WP Buchner & Voltz 2,8 Mio EUR Sanierungsertrag-Anteil; finale Vorlage 15.05.2026, Anlage 8) wird in einem ergänzenden Schritt behandelt; primär beantragen wir die Steuerfreistellung des Forderungsverzichts.
+Aus dem Forderungsverzicht entsteht ein Sanierungsertrag i.S.v. § 3a Abs. 2 EStG in Höhe von 22.000.000 EUR. Der DES-Anteil (gemäß Werthaltigkeitsgutachten WP Buchner & Voltz 2,8 Mio EUR Sanierungsertrag-Anteil; finale Vorlage 15.05.2026, Anlage 8) wird in einem ergänzenden Schritt behandelt; primär beantragen wir die Steuerfreistellung des Forderungsverzichts.
 
 ## II. Voraussetzungen § 3a Abs. 2 EStG (unternehmensbezogene Sanierung)
 
@@ -79,7 +79,7 @@ Hinsichtlich der Gewerbesteuer (siehe Aktenstück 09):
 
 Wir beantragen,
 
-1. die Steuerfreiheit des verbleibenden Sanierungsertrags nach § 3a Abs. 3 EStG für die Pellbach Windenergie GmbH in Höhe von **16.000.000 EUR** gemaess § 3a Abs. 1 EStG festzustellen;
+1. die Steuerfreiheit des verbleibenden Sanierungsertrags nach § 3a Abs. 3 EStG für die Pellbach Windenergie GmbH in Höhe von **16.000.000 EUR** gemäß § 3a Abs. 1 EStG festzustellen;
 
 2. dies im KSt-Bescheid 2026 (StNr. 062/110/47728) entsprechend zu berücksichtigen;
 
@@ -93,7 +93,7 @@ Wir erklären uns mit der Bindungswirkung des Antrags i.S.v. § 3a Abs. 4 EStG e
 
 ## VI. Erläuternder Hinweis zum DES-Anteil
 
-Der DES-Sanierungsertrag-Anteil (gemaess WP-Gutachten Buchner & Voltz 2,8 Mio EUR; finale Vorlage 15.05.2026) wird in einem ergänzenden Antrag (Nachtragsantrag bis 31.10.2026 mit Steuererklaerung 2026) behandelt. Wir bitten, beide Anträge im KSt-Bescheid 2026 zu berücksichtigen.
+Der DES-Sanierungsertrag-Anteil (gemäß WP-Gutachten Buchner & Voltz 2,8 Mio EUR; finale Vorlage 15.05.2026) wird in einem ergänzenden Antrag (Nachtragsantrag bis 31.10.2026 mit Steuererklaerung 2026) behandelt. Wir bitten, beide Anträge im KSt-Bescheid 2026 zu berücksichtigen.
 
 ## VII. § 8d KStG-Antrag
 

@@ -27,11 +27,11 @@ Am 22.10.2025 führte das LKA BW auf Anordnung des AG Stuttgart (Beschluss Az. 2
 
 ### 2.1 Erstbeschlagnahme (Ort)
 
-Die Beamten beschlagnahmten den Goldbarren gemaess § 94 Abs. 2 StPO zunachst als Beweismittel. Sicherstellungsprotokoll LKA BW EG Juwel 2025-1022 vom 22.10.2025.
+Die Beamten beschlagnahmten den Goldbarren gemäß § 94 Abs. 2 StPO zunachst als Beweismittel. Sicherstellungsprotokoll LKA BW EG Juwel 2025-1022 vom 22.10.2025.
 
 ### 2.2 Beschluss zur Einziehungssicherung
 
-Am 04.11.2025 erliess das AG Stuttgart auf Antrag der StA einen Beschluss zur vorläufigen Einziehungssicherung gemaess § 111b Abs. 1 StPO (Az. 2025-3218 SIN):
+Am 04.11.2025 erliess das AG Stuttgart auf Antrag der StA einen Beschluss zur vorläufigen Einziehungssicherung gemäß § 111b Abs. 1 StPO (Az. 2025-3218 SIN):
 
 **Begründung des AG:**
 - Der Goldbarren hat einen Wert von ca. 68.000 EUR (zum Kaufzeitpunkt September 2025)

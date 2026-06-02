@@ -55,7 +55,7 @@ Hinzu kommt auf Gesellschafterebene: Auflösungsverlust nach § 17 Abs. 4 EStG, 
 | Gesellschafterbeschluss Auflösung | 02 | § 60 Abs. 1 Nr. 2 GmbHG, Bestellung Liquidatorin § 66 GmbHG |
 | Bekanntmachung und Gläubigeraufruf | 03 | § 65 GmbHG, Sperrjahr § 73 GmbHG, Unternehmensregister |
 | Liquidations-Eröffnungsbilanz | 04 | § 71 GmbHG, Bewertungsfragen, Aktiva vs. Passiva |
-| Rangruecktrittsvereinbarung | 05 | Qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermoegen |
+| Rangruecktrittsvereinbarung | 05 | Qualifizierter Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermögen |
 | § 5 Abs. 2a EStG | 06 | Passivierungsverbot bei "Tilgung nur aus zukünftigen Gewinnen" — bilanzielle Wirkung |
 | BFH II R 19/01 / OFD Frankfurt | 07 | Verifizierte Rechtsprechung zur Verbindlichkeit über Liquidation hinaus |
 | Szenario A — Passivierung bis Löschung | 08 | Steuerausfall mangels Subjekt — FG Koeln 13 K 3006/11 |

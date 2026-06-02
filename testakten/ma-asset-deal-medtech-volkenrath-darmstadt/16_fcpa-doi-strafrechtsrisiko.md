@@ -30,9 +30,9 @@ FraktoMedis Inc. ist als US-Tochtergesellschaft unmittelbar FCPA-pflichtig. Die 
 
 ## 4. Strafrechtliche Exposure Deutschland
 
-Gemaess §§ 299, 331 ff. StGB sowie § 30 OWiG besteht potenzielle Unternehmenshaftung der FraktoMedis SE in Deutschland. Das HinSchG-Hinweisgeber-Verfahren wurde ordnungsgemaess eingeleitet.
+Gemäß §§ 299, 331 ff. StGB sowie § 30 OWiG besteht potenzielle Unternehmenshaftung der FraktoMedis SE in Deutschland. Das HinSchG-Hinweisgeber-Verfahren wurde ordnungsgemaess eingeleitet.
 
-Für VENERA relevant: Käufer eines Unternehmens in der Krise übernimmt keine strafrechtliche Verantwortung für Taten der Zielgesellschaft, wenn er keine Kenntnis hatte und angemessene Compliance-Massnahmen ergreift. Dennoch: Reputation und regulatorische Compliance muss gemaess internen VENERA-Richtlinien gewahrt werden.
+Für VENERA relevant: Käufer eines Unternehmens in der Krise übernimmt keine strafrechtliche Verantwortung für Taten der Zielgesellschaft, wenn er keine Kenntnis hatte und angemessene Compliance-Massnahmen ergreift. Dennoch: Reputation und regulatorische Compliance muss gemäß internen VENERA-Richtlinien gewahrt werden.
 
 ## 5. Anpassung SPA
 

@@ -69,12 +69,12 @@ Geschäftszeichen: HRB 188742 B / 2026-LIQ-422
 
 ### Sperrjahr — § 73 Abs. 1 GmbHG
 
-> "Die Verteilung darf nicht vor Tilgung oder Sicherstellung der Schulden der Gesellschaft und nicht vor Ablauf eines Jahres seit dem Tage erfolgen, an welchem die Aufforderung an die Gläubiger (§ 65 Abs. 2 GmbHG) in dem Bundesanzeiger erfolgt ist." (§ 73 Abs. 1 GmbHG, sinngemaess; nach der Reform faktisch Unternehmensregister)
+> "Die Verteilung darf nicht vor Tilgung oder Sicherstellung der Schulden der Gesellschaft und nicht vor Ablauf eines Jahres seit dem Tage erfolgen, an welchem die Aufforderung an die Gläubiger (§ 65 Abs. 2 GmbHG) in dem Bundesanzeiger erfolgt ist." (§ 73 Abs. 1 GmbHG, sinngemäß; nach der Reform faktisch Unternehmensregister)
 
 **Beginn Sperrjahr:** 28. April 2026 (erste Bekanntmachung)
 **Ende Sperrjahr frühestens:** 28. April 2027
 
-**Bedeutung:** Vor Ablauf des Sperrjahres darf das nach Tilgung übrige Vermoegen nicht an die Alleingesellschafterin ausgekehrt werden. Die Liquidatorin wird allerdings bereits jetzt Lieferanten- und Lohnverbindlichkeiten ausserhalb des Darlehens befriedigen (vgl. Aktenstück 17 — Gläubigerbefriedigung).
+**Bedeutung:** Vor Ablauf des Sperrjahres darf das nach Tilgung übrige Vermögen nicht an die Alleingesellschafterin ausgekehrt werden. Die Liquidatorin wird allerdings bereits jetzt Lieferanten- und Lohnverbindlichkeiten ausserhalb des Darlehens befriedigen (vgl. Aktenstück 17 — Gläubigerbefriedigung).
 
 ### Steuerliche Folgen
 

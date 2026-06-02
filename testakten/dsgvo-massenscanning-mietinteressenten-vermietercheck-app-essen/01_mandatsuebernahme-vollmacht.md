@@ -29,7 +29,7 @@ Das Mandat erstreckt sich auf folgende Verfahrens- und Beratungskomplexe:
 
 ### 1.2 Interessenkollisionsprüfung
 
-Gemaess § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgeführt. Keine Interessenkollision festgestellt. Die Kanzlei SBD vertritt keine Parteien, die im vorliegenden Verfahrenskomplex als Anspruchsgegner oder Anzeigeerstatter auftreten.
+Gemäß § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgeführt. Keine Interessenkollision festgestellt. Die Kanzlei SBD vertritt keine Parteien, die im vorliegenden Verfahrenskomplex als Anspruchsgegner oder Anzeigeerstatter auftreten.
 
 ---
 
@@ -37,7 +37,7 @@ Gemaess § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgef
 
 ### 2.1 Prozessvollmacht (§ 80 ZPO)
 
-Die Mandantin, vertreten durch Geschäftsführer Karl-Heinz Schimmelpfennig-Drosthager, erteilt hiermit der Kanzlei Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH — sowie sämtlichen dort tätigen Rechtsanwälten und Rechtsanwältinnen — unwiderrufliche Prozessvollmacht mit dem Recht zur Unterbevollmächtigung gemaess § 80 ZPO für alle anhangigen und künftig entstehenden Verfahren im Zusammenhang mit dem vorliegenden Mandat.
+Die Mandantin, vertreten durch Geschäftsführer Karl-Heinz Schimmelpfennig-Drosthager, erteilt hiermit der Kanzlei Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH — sowie sämtlichen dort tätigen Rechtsanwälten und Rechtsanwältinnen — unwiderrufliche Prozessvollmacht mit dem Recht zur Unterbevollmächtigung gemäß § 80 ZPO für alle anhangigen und künftig entstehenden Verfahren im Zusammenhang mit dem vorliegenden Mandat.
 
 Die Vollmacht umfasst insbesondere:
 - Entgegennahme und Abgabe sämtlicher Erklärungen gegenüber Behörden, Gerichten und Dritten
@@ -49,11 +49,11 @@ Die Vollmacht umfasst insbesondere:
 
 ### 2.2 Verwaltungsrechtliche Vollmacht
 
-Für das Aufsichtsverfahren vor der LDI NRW (AZ DSB-NW-44/26) wird gesondert Vollmacht gemaess § 14 VwVfG NRW erteilt. Die Vollmacht berechtigt zur Akteneinsicht nach § 29 VwVfG NRW, zur Abgabe von Stellungnahmen gemaess Art. 58 Abs. 1 DSGVO sowie zur Erhebung von Rechtsmitteln gegen behordliche Anordnungen.
+Für das Aufsichtsverfahren vor der LDI NRW (AZ DSB-NW-44/26) wird gesondert Vollmacht gemäß § 14 VwVfG NRW erteilt. Die Vollmacht berechtigt zur Akteneinsicht nach § 29 VwVfG NRW, zur Abgabe von Stellungnahmen gemäß Art. 58 Abs. 1 DSGVO sowie zur Erhebung von Rechtsmitteln gegen behordliche Anordnungen.
 
 ### 2.3 Strafprozessuale Vollmacht
 
-Im Strafverfahren StA Essen 12 Js 11.422/26 wird Wahlverteidigervollmacht gemaess § 137 StPO erteilt. RA Dr. Cornelius Specht ist als Pflichtverteidiger bevollmächtigt, sämtliche Verfahrenshandlungen im Namen des Beschuldigten Karl-Heinz Schimmelpfennig-Drosthager vorzunehmen.
+Im Strafverfahren StA Essen 12 Js 11.422/26 wird Wahlverteidigervollmacht gemäß § 137 StPO erteilt. RA Dr. Cornelius Specht ist als Pflichtverteidiger bevollmächtigt, sämtliche Verfahrenshandlungen im Namen des Beschuldigten Karl-Heinz Schimmelpfennig-Drosthager vorzunehmen.
 
 ---
 

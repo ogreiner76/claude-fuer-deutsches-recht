@@ -22,7 +22,7 @@ USt-IdNr. DE 187 200 145
 
 ## Leistungsbeschreibung
 
-Public-Affairs-Beratung zum Wasserstoffbeschleunigungsgesetz (WBG) im Monat Mai 2026 gemaess Mandatsvertrag vom 01.02.2026.
+Public-Affairs-Beratung zum Wasserstoffbeschleunigungsgesetz (WBG) im Monat Mai 2026 gemäß Mandatsvertrag vom 01.02.2026.
 
 ## Aufwandsstunden (informatorisch, nicht honorarrelevant; Pauschalhonorar)
 
@@ -70,7 +70,7 @@ Public-Affairs-Beratung zum Wasserstoffbeschleunigungsgesetz (WBG) im Monat Mai 
 
 ## Hinweis zum Lobbyregister
 
-Diese Rechnung wird dem Lobbyregister nicht im Detail offengelegt. Die im Eintrag anzugebenden Finanzdaten ergeben sich aus den jährlichen Aggregaten gemaess Eintragsmaske (Schwellen 10.000 EUR / 50.000 EUR / 250.000 EUR usw.). Die HansaH2-Mandatsumsaetze fallen in der Jahresangabe über die Schwelle "über 50.000 EUR jährlich" und sind entsprechend zu kennzeichnen.
+Diese Rechnung wird dem Lobbyregister nicht im Detail offengelegt. Die im Eintrag anzugebenden Finanzdaten ergeben sich aus den jährlichen Aggregaten gemäß Eintragsmaske (Schwellen 10.000 EUR / 50.000 EUR / 250.000 EUR usw.). Die HansaH2-Mandatsumsaetze fallen in der Jahresangabe über die Schwelle "über 50.000 EUR jährlich" und sind entsprechend zu kennzeichnen.
 
 ## Unterzeichnung
 

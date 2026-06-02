@@ -5,7 +5,7 @@
 
 Aufgestellt durch StB Konstantin Werthbruch-Lange (Kanzlei Werthbruch StB) in Abstimmung mit StB/RAin Dr. Cordula Pinneberg-Talheim am 30.04.2026.
 
-Rechtsgrundlage: **§ 71 Abs. 1 GmbHG**, **§ 154 InsO** sinngemaess für Liquidationsverfahren ausserhalb der Insolvenz, **§ 11 Abs. 1, 5 KStG**.
+Rechtsgrundlage: **§ 71 Abs. 1 GmbHG**, **§ 154 InsO** sinngemäß für Liquidationsverfahren ausserhalb der Insolvenz, **§ 11 Abs. 1, 5 KStG**.
 
 ---
 
@@ -57,7 +57,7 @@ Rechtsgrundlage: **§ 71 Abs. 1 GmbHG**, **§ 154 InsO** sinngemaess für Liquid
 ### Erläuterungen Passiva
 
 - **Verlustvortrag – 2.525.000 EUR:** kumulierte Verluste seit 2020. Aufschlüsselung: 2020: – 380k, 2021: – 460k, 2022: – 410k, 2023: – 590k, 2024: – 520k, 2025: – 165k. Vortrag steuerlich (KSt) zum 31.12.2025: – 2.380.000 EUR (laut letzter KSt-Erklärung); Differenz zur HGB-Bilanz beruht auf Bewertungsdivergenzen (Vorratsabwertung in 2024 nach HGB schärfer als nach Steuerrecht). **Steuerlicher Verlustvortrag KSt zum 15.04.2026 vorläufig: 2.380.000 EUR.**
-- **Gesellschafterdarlehen 2.400.000 EUR:** Darlehensvertrag vom 12.11.2018 über 1,8 Mio. EUR (Erstvalutierung 14.11.2018, 600k); Aufstockung 14.03.2021 um 600k (Tranche 14.03.2021, 200k; Tranche 30.06.2021, 200k; Tranche 31.10.2021, 200k); seit 14.03.2021 mit **qualifiziertem Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermoegen**, schriftlich vereinbart (Aktenstück 05). Zinsen 0,00 EUR p.a. (vereinbart). Bis 15.04.2026 keine Tilgungen geleistet.
+- **Gesellschafterdarlehen 2.400.000 EUR:** Darlehensvertrag vom 12.11.2018 über 1,8 Mio. EUR (Erstvalutierung 14.11.2018, 600k); Aufstockung 14.03.2021 um 600k (Tranche 14.03.2021, 200k; Tranche 30.06.2021, 200k; Tranche 31.10.2021, 200k); seit 14.03.2021 mit **qualifiziertem Rangrücktritt mit Tilgungsvorbehalt aus freiem Vermögen**, schriftlich vereinbart (Aktenstück 05). Zinsen 0,00 EUR p.a. (vereinbart). Bis 15.04.2026 keine Tilgungen geleistet.
 
 ---
 

@@ -2,13 +2,13 @@
 
 **Akte:** MR-2026-ZV-0188  
 **Datum:** 02.02.2026  
-**Anlass:** Schuldner haben Erinnerung gemaess § 766 ZPO gegen PfUEB-Vollziehung angekündigt
+**Anlass:** Schuldner haben Erinnerung gemäß § 766 ZPO gegen PfUEB-Vollziehung angekündigt
 
 ---
 
 ## Sachverhalt
 
-Nach Zustellung des PfUEB gegen die Freie und Hansestadt Hamburg (Drittschuldner für Lohn Carmen) hat die Schuldnerseite durch RA Steinhardt-Kues angekündigt, **Erinnerung gemaess § 766 ZPO** beim AG Hamburg-Altona (Vollstreckungsgericht) einzulegen. Als Begründung wurden angeführt:
+Nach Zustellung des PfUEB gegen die Freie und Hansestadt Hamburg (Drittschuldner für Lohn Carmen) hat die Schuldnerseite durch RA Steinhardt-Kues angekündigt, **Erinnerung gemäß § 766 ZPO** beim AG Hamburg-Altona (Vollstreckungsgericht) einzulegen. Als Begründung wurden angeführt:
 
 1. Pfaendungsfreigrenze falsch berechnet (angeblich mehr als 2 Unterhaltsberechtigte)
 2. P-Konto-Schutz sei unbeachtet geblieben
@@ -20,12 +20,12 @@ Nach Zustellung des PfUEB gegen die Freie und Hansestadt Hamburg (Drittschuldner
 
 Die Erinnerung nach § 766 ZPO ist der Rechtsbehelf gegen **formelle Fehler** bei der Vollstreckung (Art und Weise der Vollstreckung), nicht gegen den Vollstreckungstitel selbst.
 
-**Zulässige Einwände gemaess § 766 ZPO:**
+**Zulässige Einwände gemäß § 766 ZPO:**
 - GV hat falsche Gegenstände gepfändet
 - Pfaendungsfreigrenzen falsch berechnet
 - Zwangsvollstreckung formell unzulässig (fehlende Klausel, fehlende Zustellung)
 
-**Nicht zulässig gemaess § 766 ZPO (sondern § 767 ZPO):**
+**Nicht zulässig gemäß § 766 ZPO (sondern § 767 ZPO):**
 - Einwand gegen den Titel selbst (z.B. Erledigung der Hauptforderung)
 - Aufrechnung mit Gegenforderungen
 
@@ -57,7 +57,7 @@ Die Erinnerung nach § 766 ZPO ist der Rechtsbehelf gegen **formelle Fehler** be
 **Schuldnervortrag:** Die Klausel sei durch eine unzuständige Urkundsbeamtin erteilt worden.
 
 **Pruefung:**
-- Klauselerteilung durch Urkundsbeamtin AG Hamburg-Altona — korrekte Zustaaendigkeit gemaess § 724 ZPO
+- Klauselerteilung durch Urkundsbeamtin AG Hamburg-Altona — korrekte Zustaaendigkeit gemäß § 724 ZPO
 - Wortlaut geprüft (s. Aktenstuck 03) — keine Fehler
 - **Ergebnis:** Einwand offensichtlich unbegründet.
 

@@ -9,7 +9,7 @@
 
 ## 1. EU-Anmeldepflicht
 
-Die Transaktion überschreitet die EU-Aufgreifkriterien gemaess Art. 1 Abs. 2 FKVO (VO (EG) 139/2004):
+Die Transaktion überschreitet die EU-Aufgreifkriterien gemäß Art. 1 Abs. 2 FKVO (VO (EG) 139/2004):
 
 - Kombinierter weltweiter Umsatz > 5 Mrd. EUR (VENERA-Konzern inkl. Beteiligungen)
 - EU-weiter Umsatz jedes Unternehmens > 250 Mio. EUR

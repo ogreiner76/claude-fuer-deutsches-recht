@@ -3,7 +3,7 @@
 **Az.:** NKR-RefE-2026-088
 **Datum:** 28.05.2026
 **Eingereicht beim:** Bundesministerium der Justiz, Referat R B 5
-**Beizufügen den Kabinettsunterlagen gemaess § 6 Abs. 4 NKRG**
+**Beizufügen den Kabinettsunterlagen gemäß § 6 Abs. 4 NKRG**
 
 ---
 
@@ -12,7 +12,7 @@
 **Stellungnahme**
 **zum Referentenentwurf des Bundesministeriums der Justiz für ein Gesetz zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften (ElErrHandRegG)**
 
-Der Nationale Normenkontrollrat hat den Entwurf gemaess § 4 NKRG geprüft.
+Der Nationale Normenkontrollrat hat den Entwurf gemäß § 4 NKRG geprüft.
 
 ### A. Zusammenfassung
 
@@ -83,7 +83,7 @@ Der NKR ist der Auffassung, dass das Regelungsanliegen wichtig und richtig ist. 
 **Prof. Dr. Christine Mertens-Vellbruck** (berichterstattend)
 **Dr. Friedrich Hartmann** (co-berichterstattend)
 
-(eingereicht am 28.05.2026 beim Bundesministerium der Justiz, beizufügen den Kabinettsunterlagen gemaess § 6 Abs. 4 NKRG)
+(eingereicht am 28.05.2026 beim Bundesministerium der Justiz, beizufügen den Kabinettsunterlagen gemäß § 6 Abs. 4 NKRG)
 
 ---
 

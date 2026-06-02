@@ -10,7 +10,7 @@ status: zweite Mahnung versandt am 02.05.2026; Mahnbescheid-Entwurf liegt vor
 
 ## Sachverhalt
 
-- Hausgeld pro Monat WE 3 (Pasternak): 684 EUR (gemaess Wirtschaftsplan 2025/2026)
+- Hausgeld pro Monat WE 3 (Pasternak): 684 EUR (gemäß Wirtschaftsplan 2025/2026)
 - Letzte Zahlung: 31.12.2025 für Dezember 2025
 - Zahlungsausfall: 01.01.2026 bis 31.05.2026 = 5 Monate × 684 = **3.420 EUR**
 - Hauptanlass: Eigentümer Pasternak hat informell mitgeteilt, dass er seinen Job verloren hat. Lebenspartner zahlt nicht. WE wurde 2019 finanziert, Eigenkapital gering, Bankdarlehen mit hoher Annuitaet.
@@ -67,7 +67,7 @@ Antragstellung **online** über https://www.online-mahnantrag.de
 > Nebenforderung: Mahnkosten 5,00 EUR (zwei Mahnungen).
 
 ### Gerichtskostenvorschuss
-Gemaess GKG-Tabelle (offen unter https://www.gerichtskostengesetz.de). Streitwert 3.420 EUR → Gerichtskosten Mahnverfahren ca. 88-95 EUR. **Live in GKG-Tabelle 2026 verifizieren.**
+Gemäß GKG-Tabelle (offen unter https://www.gerichtskostengesetz.de). Streitwert 3.420 EUR → Gerichtskosten Mahnverfahren ca. 88-95 EUR. **Live in GKG-Tabelle 2026 verifizieren.**
 
 ### Zuständigkeit
 Sachlich: AG, weil Streitsache aus Wohnungseigentum (§ 43 II Nr. 1 WEG i.V.m. § 23 Nr. 2c GVG). Örtlich: AG des Grundstücks **(§ 43 II WEG)** = AG Schoeneberg, **NICHT** AG des Wohnsitzes der Eigentümer. Mahnbescheid läuft beim zentralen AG Wedding, danach bei Widerspruch geht Verfahren an **AG Schoeneberg** ab.

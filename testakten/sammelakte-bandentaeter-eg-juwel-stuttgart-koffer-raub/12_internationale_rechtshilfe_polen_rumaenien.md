@@ -11,7 +11,7 @@
 
 ### 1.1 Veranlassung
 
-Die Staatsanwaltschaft Stuttgart hat am 28.10.2025 ein Rechtshilfeersuchen an die Generalstaatsanwaltschaft Krakau (Prokuratura Okregowa w Krakowie) gemaess Art. 3 EuRhUeB und dem bilateralen Rechtshilfeabkommen Deutschland-Polen (BGBl 2004 II, 898) gestellt.
+Die Staatsanwaltschaft Stuttgart hat am 28.10.2025 ein Rechtshilfeersuchen an die Generalstaatsanwaltschaft Krakau (Prokuratura Okregowa w Krakowie) gemäß Art. 3 EuRhUeB und dem bilateralen Rechtshilfeabkommen Deutschland-Polen (BGBl 2004 II, 898) gestellt.
 
 **Ziel des Ersuchens:**
 - Mitteilung der Vorstrafen des Mateusz Korbiel, geb. 04.03.1997, polnischer Staatsangehöriger, zuletzt wohnhaft: ul. Lipowa 14/3, 30-420 Krakow

@@ -62,7 +62,7 @@ Wie in Akte 03 (3.1) festgestellt: Die erteilten Einwilligungen sind wegen Koppe
 
 ## 4. Schutzpflichten bei zulässiger automatisierter Entscheidung (Art. 22 Abs. 3 DSGVO)
 
-Auch wenn — hypothetisch — eine Ausnahme greifen würde, hätte VCS folgende Garantien gemaess Art. 22 Abs. 3 DSGVO implementieren müssen:
+Auch wenn — hypothetisch — eine Ausnahme greifen würde, hätte VCS folgende Garantien gemäß Art. 22 Abs. 3 DSGVO implementieren müssen:
 
 | Garantie | Status bei VCS |
 |----------|----------------|
@@ -81,7 +81,7 @@ Der Familienstatus (mit/ohne Kinder) zählt nicht zu den besonderen Kategorien n
 
 ### 5.2 Gesundheitliche Indikatoren im Score
 
-Laut Penetrationstest-Bericht (s. Akte 07) verarbeitete ProspectScore Pro in einer früheren Modellversion (v2.1 bis v2.4) Daten aus Krankenversicherungsstatusdaten, die im Rahmen der Schufa-Abfrage mitgeliefert wurden. Soweit Gesundheitsdaten (Art. 9 Abs. 1 DSGVO) in den Score eingeflossen sind, gilt Art. 22 Abs. 4 DSGVO: Die ausdrückliche Einwilligung gemaess Art. 9 Abs. 2 lit. a DSGVO oder ein Rechtfertigungsgrund nach Art. 9 Abs. 2 DSGVO wäre zusätzlich erforderlich. Beides lag nicht vor.
+Laut Penetrationstest-Bericht (s. Akte 07) verarbeitete ProspectScore Pro in einer früheren Modellversion (v2.1 bis v2.4) Daten aus Krankenversicherungsstatusdaten, die im Rahmen der Schufa-Abfrage mitgeliefert wurden. Soweit Gesundheitsdaten (Art. 9 Abs. 1 DSGVO) in den Score eingeflossen sind, gilt Art. 22 Abs. 4 DSGVO: Die ausdrückliche Einwilligung gemäß Art. 9 Abs. 2 lit. a DSGVO oder ein Rechtfertigungsgrund nach Art. 9 Abs. 2 DSGVO wäre zusätzlich erforderlich. Beides lag nicht vor.
 
 ---
 
@@ -89,13 +89,13 @@ Laut Penetrationstest-Bericht (s. Akte 07) verarbeitete ProspectScore Pro in ein
 
 ### 6.1 Ordnungswidrigkeitenrecht
 
-Ein Verstoss gegen Art. 22 DSGVO ist gemaess Art. 83 Abs. 4 DSGVO mit einem Bussgeld bis 10.000.000 EUR oder 2% des weltweiten Jahresumsatzes bedroht. In Kombination mit dem Verstoss gegen Art. 6 DSGVO (Art. 83 Abs. 5 lit. a, bis 20 Mio. EUR) können gemaess Art. 83 Abs. 3 DSGVO Geldbussen kumuliert werden, wobei der Höchstbetrag nicht überschritten werden darf.
+Ein Verstoss gegen Art. 22 DSGVO ist gemäß Art. 83 Abs. 4 DSGVO mit einem Bussgeld bis 10.000.000 EUR oder 2% des weltweiten Jahresumsatzes bedroht. In Kombination mit dem Verstoss gegen Art. 6 DSGVO (Art. 83 Abs. 5 lit. a, bis 20 Mio. EUR) können gemäß Art. 83 Abs. 3 DSGVO Geldbussen kumuliert werden, wobei der Höchstbetrag nicht überschritten werden darf.
 
 **Anwendbarer Höchstbetrag:** 20.000.000 EUR (Art. 83 Abs. 5 DSGVO: höhere Sanktion).
 
 ### 6.2 Zivilrechtliche Haftung
 
-Betroffene, die nachweislich aufgrund eines fehlerhaften ROT-Scores eine Wohnung nicht erhalten haben, können gemaess Art. 82 DSGVO Schadensersatz verlangen. Der immaterielle Schaden liegt nach BGH VI ZR 10/24 bereits im Kontrollverlust über eigene Daten (s. Akte 11).
+Betroffene, die nachweislich aufgrund eines fehlerhaften ROT-Scores eine Wohnung nicht erhalten haben, können gemäß Art. 82 DSGVO Schadensersatz verlangen. Der immaterielle Schaden liegt nach BGH VI ZR 10/24 bereits im Kontrollverlust über eigene Daten (s. Akte 11).
 
 ---
 

@@ -101,10 +101,10 @@ b) keiner der Gesellschafter durch den Verkauf bewusst benachteiligt wird.
 
 (2) Insbesondere verpflichten sie sich:
 
-a) bei Kapitalerhöhungen ihrer Zustimmung gemaess den Bestimmungen dieser Vereinbarung zu erteilen,
+a) bei Kapitalerhöhungen ihrer Zustimmung gemäß den Bestimmungen dieser Vereinbarung zu erteilen,
 b) bei Anteilsübertragungen ihre Zustimmung zu erteilen, soweit der Erwerber dem Shareholder Agreement beitritt,
 c) bei Drag-Along-Beschlüssen ihre Zustimmung zur Mitveraeusserung zu erteilen,
-d) **Stahlauge-Sondervetorechte** gemaess § 5 der Satzung zu respektieren.
+d) **Stahlauge-Sondervetorechte** gemäß § 5 der Satzung zu respektieren.
 
 (3) Bei Verstoss gegen die Stimmverpflichtungen schuldet der verstossende Gesellschafter den anderen Gesellschaftern eine Vertragsstrafe in Höhe von **500.000 EUR pro Verstoss**. Daneben bleibt der Anspruch auf Schadensersatz unberührt.
 
@@ -148,7 +148,7 @@ c) **Jährlich**: Jahresabschluss und Lagebericht (binnen 3 Monaten nach Geschä
 
 (2) Bei Verstoss: Vertragsstrafe 250.000 EUR pro Verstoss.
 
-(3) Bei nachvertraglichem Wettbewerbsverbot: Karenzentschaedigung gemaess separatem Geschäftsführervertrag.
+(3) Bei nachvertraglichem Wettbewerbsverbot: Karenzentschaedigung gemäß separatem Geschäftsführervertrag.
 
 ---
 

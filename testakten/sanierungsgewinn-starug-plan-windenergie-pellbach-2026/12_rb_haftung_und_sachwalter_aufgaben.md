@@ -24,7 +24,7 @@ RB Dr. Andreas Vellenbach (Vellenbach + Cie, Berlin) wurde mit Beschluss des AG 
 
 ### 1. § 75 Abs. 4 StaRUG i.V.m. § 60 InsO
 
-§ 75 Abs. 4 StaRUG erklärt § 60 InsO sinngemaess anwendbar. Der RB haftet allen Beteiligten für schuldhafte Pflichtverletzungen.
+§ 75 Abs. 4 StaRUG erklärt § 60 InsO sinngemäß anwendbar. Der RB haftet allen Beteiligten für schuldhafte Pflichtverletzungen.
 
 ### 2. Konkrete Pflicht im Steuer-Kontext
 

@@ -57,9 +57,9 @@ Nicht angefallen (kein Gerichtstermin i.S.d. VV 3310 in diesem Zeitraum).
 
 ## Hinweis Kostenerstattung
 
-Die gezahlten Vollstreckungskosten werden gemaess § 788 ZPO **mit vollstreckt** — sie sind Teil der titulierten Forderung und werden im Zuge der Pfändung gegen die Schuldner beigetrieben. Die Kanzlei stellt gesonderten Kostenfestsetzungsantrag.
+Die gezahlten Vollstreckungskosten werden gemäß § 788 ZPO **mit vollstreckt** — sie sind Teil der titulierten Forderung und werden im Zuge der Pfändung gegen die Schuldner beigetrieben. Die Kanzlei stellt gesonderten Kostenfestsetzungsantrag.
 
-Das Anwaltshonorar (§ 13 RVG) wird gemaess Nr. 3309 VV RVG als Vollstreckungsgebühr dem Betrag nach aus dem Vollstreckungsgegenstandswert berechnet und ist ebenfalls nach § 788 ZPO erstattungsfaehig.
+Das Anwaltshonorar (§ 13 RVG) wird gemäß Nr. 3309 VV RVG als Vollstreckungsgebühr dem Betrag nach aus dem Vollstreckungsgegenstandswert berechnet und ist ebenfalls nach § 788 ZPO erstattungsfaehig.
 
 ---
 

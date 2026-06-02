@@ -24,7 +24,7 @@ Amtliche Sammlungen (BGHZ, BGHSt, BVerfGE, BFHE, BVerwGE, BSGE, BAGE) gehen frei
 
 Jedes Rechtsprechungszitat muss enthalten:
 
-- Gericht (Abkürzung gemaess Liste in Abschnitt E)
+- Gericht (Abkürzung gemäß Liste in Abschnitt E)
 - Datum der Entscheidung (TT.MM.JJJJ)
 - Aktenzeichen
 - Fundstelle (amtliche Sammlung ODER Zeitschrift ODER freie Quelle mit URL)

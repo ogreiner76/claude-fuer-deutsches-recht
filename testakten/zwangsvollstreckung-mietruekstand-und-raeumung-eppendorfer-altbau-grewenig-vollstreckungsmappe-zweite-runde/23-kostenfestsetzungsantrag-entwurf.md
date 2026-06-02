@@ -8,7 +8,7 @@
 
 ## Grundlage
 
-Nach Abschluss des Vorprozesses (AG Hamburg-Altona 188 C 4711/25 und Berufung LG Hamburg 308 S 14/26) ist die Gläubigerin berechtigt, die Kosten des Erkenntnisverfahrens gemaess § 103 ff. ZPO festzusetzen.
+Nach Abschluss des Vorprozesses (AG Hamburg-Altona 188 C 4711/25 und Berufung LG Hamburg 308 S 14/26) ist die Gläubigerin berechtigt, die Kosten des Erkenntnisverfahrens gemäß § 103 ff. ZPO festzusetzen.
 
 Die Kostenentscheidung im Urteil vom 12.11.2025 lautet:
 > „Die Beklagten tragen als Gesamtschuldner die Kosten des Rechtsstreits."

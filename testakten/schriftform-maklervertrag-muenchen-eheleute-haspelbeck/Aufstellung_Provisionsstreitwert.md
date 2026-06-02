@@ -15,7 +15,7 @@ _A.  BERECHNUNG DER STREITIGEN PROVISION_
 | A.1 | Kaufpreis EFH Muenchen-Bogenhausen | Beurk. 12.05.2023, UR-Nr. 1488/2023 | 617.000 |  |  |  |
 | A.2 | Vereinbarte Provision (Verkaeuferseitig) | 1,19 % netto vom Kaufpreis (gem. Rechnung) |  | 1,19 % |  |  |
 | A.3 | Tatsächlich gezahlter Betrag | Überweisung 02.06.2023 |  |  |  | 8.810,76 |
-| A.4 | Rechnungsbetrag (brutto lt. Rechnung Nr. 2023-0183) | gemaess Rechnung vom 25.05.2023 |  |  |  | 8.737,34 |
+| A.4 | Rechnungsbetrag (brutto lt. Rechnung Nr. 2023-0183) | gemäß Rechnung vom 25.05.2023 |  |  |  | 8.737,34 |
 | A.5 | Differenz (ungeklärt) | Aufklaerungs-bedarf |  |  |  |  |
 | A.6 | STREITWERT (zurückzufordernder Betrag) | Klageantrag |  |  |  |  |
 | B.  ANWALTSHONORAR KANZLEI HAGELBRAND & TROTZENBURG (ZEITHONORAR) |  |  |  |  |  |  |

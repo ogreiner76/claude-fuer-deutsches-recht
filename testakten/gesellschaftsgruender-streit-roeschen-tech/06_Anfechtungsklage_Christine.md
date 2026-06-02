@@ -133,7 +133,7 @@ Die Versammlungsleiterin Andrea Roesener hat die Diskussion **abgekürzt**, ohne
 
 #### II. Hilfsweise: Anfechtung
 
-Sofern Nichtigkeit nicht zu bejahen ist, wird hilfsweise die **Anfechtung** des Beschlusses gemaess Paragrafen 246, 248 AktG analog erklärt. Die Klagefrist (1 Monat ab Beschluss) ist gewahrt: Beschluss vom 18.06.2026, Klage vom 14.07.2026.
+Sofern Nichtigkeit nicht zu bejahen ist, wird hilfsweise die **Anfechtung** des Beschlusses gemäß Paragrafen 246, 248 AktG analog erklärt. Die Klagefrist (1 Monat ab Beschluss) ist gewahrt: Beschluss vom 18.06.2026, Klage vom 14.07.2026.
 
 ---
 

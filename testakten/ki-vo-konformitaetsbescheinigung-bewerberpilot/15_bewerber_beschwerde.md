@@ -34,7 +34,7 @@
 
 > "Sehr geehrte Frau Damou,
 >
-> vielen Dank für Ihre Anfrage. Wir bestätigen den Eingang Ihrer Beschwerde unter der Vorgangsnummer COMP-2026-0411. Wir werden Ihre Anfrage gemaess Art. 15 DSGVO und Art. 19 KI-VO innerhalb eines Monats nach Eingang beantworten, das ist bis spätestens 16.06.2026.
+> vielen Dank für Ihre Anfrage. Wir bestätigen den Eingang Ihrer Beschwerde unter der Vorgangsnummer COMP-2026-0411. Wir werden Ihre Anfrage gemäß Art. 15 DSGVO und Art. 19 KI-VO innerhalb eines Monats nach Eingang beantworten, das ist bis spätestens 16.06.2026.
 >
 > Bitte beachten Sie, dass:
 >

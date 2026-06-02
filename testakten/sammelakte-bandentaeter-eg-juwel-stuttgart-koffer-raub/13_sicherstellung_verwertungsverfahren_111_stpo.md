@@ -39,7 +39,7 @@
 
 ### 2.1 Vorläufige Sicherstellung
 
-Gemaess § 111b Abs. 1 StPO hat die Staatsanwaltschaft folgende Gegenstande vorläufig sichergestellt (Annahme: Sie können später eingezogen werden):
+Gemäß § 111b Abs. 1 StPO hat die Staatsanwaltschaft folgende Gegenstande vorläufig sichergestellt (Annahme: Sie können später eingezogen werden):
 
 | Gegenstand | Sicherstellungswert | Einziehungstatbestand |
 |-----------|--------------------|-----------------------|

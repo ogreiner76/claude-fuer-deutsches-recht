@@ -24,7 +24,7 @@ In Kürze: StaRUG-Restrukturierungsplan AG Cottbus 92 RES 14/26 mit Forderungsve
 
 ## II. Rechtsgrundlage § 7b GewStG
 
-§ 7b GewStG bewirkt die Anwendung von § 3a EStG sinngemaess auf die Gewerbesteuer. Die in § 3a Abs. 3 EStG vorgesehene Verlustverrechnung gilt sinngemaess für den Gewerbeverlust nach § 10a GewStG.
+§ 7b GewStG bewirkt die Anwendung von § 3a EStG sinngemäß auf die Gewerbesteuer. Die in § 3a Abs. 3 EStG vorgesehene Verlustverrechnung gilt sinngemäß für den Gewerbeverlust nach § 10a GewStG.
 
 § 36 Abs. 2c GewStG: § 7b GewStG ist anwendbar für Schuldenerlasse nach dem 08.02.2017. Hier: Forderungsverzicht im StaRUG-Plan mit Bestätigung 02.07.2026 — klar im Anwendungsbereich.
 
@@ -66,7 +66,7 @@ Wir beantragen,
 
 ## VII. Hinweis: DES-Sanierungsertrag-Anteil
 
-Der DES-Sanierungsertrag-Anteil (gemaess WP-Gutachten Buchner & Voltz 2,8 Mio EUR) wird in einem ergänzenden Antrag bei der Steuererklaerung 2026 behandelt.
+Der DES-Sanierungsertrag-Anteil (gemäß WP-Gutachten Buchner & Voltz 2,8 Mio EUR) wird in einem ergänzenden Antrag bei der Steuererklaerung 2026 behandelt.
 
 ## VIII. Verzahnung mit Finanzamt Cottbus
 

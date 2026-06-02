@@ -7,7 +7,7 @@
 
 ## 1. Rechtlicher Rahmen
 
-Gemaess § 613a Abs. 1 BGB tritt bei einem Betriebsübergang der neue Inhaber in die Rechte und Pflichten aus den zum Zeitpunkt des Übergangs bestehenden Arbeitsverhältnissen ein. Der Asset Deal über den Geschäftsbereich FraktoMedis Präzision erfullt sämtliche Voraussetzungen eines Betriebsübergangs:
+Gemäß § 613a Abs. 1 BGB tritt bei einem Betriebsübergang der neue Inhaber in die Rechte und Pflichten aus den zum Zeitpunkt des Übergangs bestehenden Arbeitsverhältnissen ein. Der Asset Deal über den Geschäftsbereich FraktoMedis Präzision erfullt sämtliche Voraussetzungen eines Betriebsübergangs:
 
 - Übergang eines funktionierenden Betriebs (wirtschaftliche Einheit)
 - Wahrung der Identität der wirtschaftlichen Einheit
@@ -28,7 +28,7 @@ Das Unterrichtungsschreiben wurde am 15. Februar 2026 (Datum der Freigabe BKartA
 **Inhalt des Unterrichtungsschreibens:**
 - Beschreibung der wirtschaftlichen Einheit
 - Angaben zu VENERA als aufnehmendem Unternehmen
-- Fortbestand aller Tarifvertragsbindungen gemaess § 613a Abs. 1 Satz 3 BGB (Mindestens 1 Jahr)
+- Fortbestand aller Tarifvertragsbindungen gemäß § 613a Abs. 1 Satz 3 BGB (Mindestens 1 Jahr)
 - Widerspruchsrecht (§ 613a Abs. 6 BGB): Frist 1 Monat ab Zugang
 
 ## 3. Widerspruchsrecht der Arbeitnehmer
@@ -44,11 +44,11 @@ Jeder Arbeitnehmer hat das Recht, dem Betriebsübergang zu widersprechen (§ 613
 
 ## 4. Tarifvertragskontinuität
 
-Gemaess § 613a Abs. 1 Satz 2 und 3 BGB gilt der Tarifvertrag Metall- und Elektroindustrie Hessen für 1 Jahr nach Übergang ungekündigt fort, sofern VENERA nicht selbst tarifgebunden ist. VENERA ist nicht Mitglied des Arbeitgeberverbands Metall- und Elektroindustrie Hessen. Daher: 1 Jahr Tarifkontinuität.
+Gemäß § 613a Abs. 1 Satz 2 und 3 BGB gilt der Tarifvertrag Metall- und Elektroindustrie Hessen für 1 Jahr nach Übergang ungekündigt fort, sofern VENERA nicht selbst tarifgebunden ist. VENERA ist nicht Mitglied des Arbeitgeberverbands Metall- und Elektroindustrie Hessen. Daher: 1 Jahr Tarifkontinuität.
 
 ## 5. Konsultationspflicht mit dem Betriebsrat
 
-Der Betriebsrat hat ein Unterrichtungs- und Beratungsrecht gemaess § 111 BetrVG bei wesentlichen Betriebsänderungen. Die Unterrichtung des Betriebsrats erfolgte am 10. Februar 2026. Beratungsgespräche: 17. und 24. Februar 2026.
+Der Betriebsrat hat ein Unterrichtungs- und Beratungsrecht gemäß § 111 BetrVG bei wesentlichen Betriebsänderungen. Die Unterrichtung des Betriebsrats erfolgte am 10. Februar 2026. Beratungsgespräche: 17. und 24. Februar 2026.
 
 ---
 

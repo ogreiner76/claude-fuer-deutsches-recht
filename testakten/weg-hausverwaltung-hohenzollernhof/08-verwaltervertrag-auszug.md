@@ -77,7 +77,7 @@ Der Vertrag kann von beiden Seiten gekündigt werden:
 
 Nachgetragener Pflicht-Punkt seit 01.01.2023:
 
-> Verwalter ist verpflichtet, die Heizkosten gemaess CO2KostAufG (Stufenmodell § 5-7) korrekt aufzuteilen. Verstoss begründet Schadensersatz-Pflicht gegenüber Mietern und Eigentümern.
+> Verwalter ist verpflichtet, die Heizkosten gemäß CO2KostAufG (Stufenmodell § 5-7) korrekt aufzuteilen. Verstoss begründet Schadensersatz-Pflicht gegenüber Mietern und Eigentümern.
 
 **Stand 27.05.2026: Beirat beanstandet, dass diese Pflicht in den Jahresabrechnungen 2023, 2024, 2025 nicht erfüllt wurde.**
 

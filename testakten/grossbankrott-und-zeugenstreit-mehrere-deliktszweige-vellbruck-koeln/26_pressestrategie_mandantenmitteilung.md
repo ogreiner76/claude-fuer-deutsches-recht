@@ -31,7 +31,7 @@ Anwaltliche Schweigeptlicht § 43a Abs. 2 BRAO bleibt strikt. Keine Stellungnahm
 - Keine direkten Mandantenkontakte (Mandant in U-Haft, keine Telefoninterviews).
 - Antwort-Vorlage:
 
-> "Wir bitten um Verständnis, dass wir uns zu Inhalten eines laufenden Strafverfahrens nicht aeussern. Es gilt die Unschuldsvermutung gemaess Art. 6 Abs. 2 EMRK und § 169 GVG. Nähere Auskünfte sind erst zu gegebener Zeit möglich. Eine mögliche Hintergrund-Information zur Insolvenzabwicklung ist bei dem Insolvenzverwalter Herrn Dr. Hattenberg in Bonn anzufragen."
+> "Wir bitten um Verständnis, dass wir uns zu Inhalten eines laufenden Strafverfahrens nicht aeussern. Es gilt die Unschuldsvermutung gemäß Art. 6 Abs. 2 EMRK und § 169 GVG. Nähere Auskünfte sind erst zu gegebener Zeit möglich. Eine mögliche Hintergrund-Information zur Insolvenzabwicklung ist bei dem Insolvenzverwalter Herrn Dr. Hattenberg in Bonn anzufragen."
 
 ## 3. Mandanten-Mitteilung (Vorlage für Mandanten-Brief)
 

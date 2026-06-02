@@ -19,7 +19,7 @@
 
 ### 1. Titelart
 
-Endurteil des AG Hamburg-Altona auf Raeumung und Zahlung. Vollstreckungsfaehiger Inhalt gemaess § 704 Abs. 1 ZPO: Ja.
+Endurteil des AG Hamburg-Altona auf Raeumung und Zahlung. Vollstreckungsfaehiger Inhalt gemäß § 704 Abs. 1 ZPO: Ja.
 
 **Tenor:**
 > „Die Beklagten werden als Gesamtschuldner verurteilt, die Wohnung im 1. Obergeschoss links des Hauses Eppendorfer Weg 188, 20251 Hamburg-Eimsbuettel bestehend aus vier Zimmern, Küche, Bad, Diele und Keller-Abstellraum zu räumen und an die Klaeagerin herauszugeben sowie an die Klaeagerin 14.880,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtskraft zu zahlen."
@@ -40,7 +40,7 @@ Einfache Klausel (§ 724 ZPO) ausreichend; keine qualifizierte Klausel erforderl
 
 ### 4. Zustellung § 750 ZPO
 
-Vor Vollstreckungsbeginn muss das Urteil dem Schuldner zugestellt sein. Zustellung bewirkt am 22.11.2025 gemaess Zustellungsurkunde. Wartefrist § 750 Abs. 1 ZPO (soweit einschlägig bei Geldtiteln): Frist beginnt mit Zustellungstag. Pruefung OK.
+Vor Vollstreckungsbeginn muss das Urteil dem Schuldner zugestellt sein. Zustellung bewirkt am 22.11.2025 gemäß Zustellungsurkunde. Wartefrist § 750 Abs. 1 ZPO (soweit einschlägig bei Geldtiteln): Frist beginnt mit Zustellungstag. Pruefung OK.
 
 ### 5. Vorläufige Vollstreckbarkeit
 

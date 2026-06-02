@@ -5,7 +5,7 @@
 | Strang | Möglicher Anspruch / Einwendung | Norm | Tatsachenanker | Tatbestand offen | Nächster Skill |
 | --- | --- | --- | --- | --- | --- |
 | Praegepresse | Lieferung aus Kaufvertrag | § 433 Abs. 1 i.V.m. §§ 145, 147 BGB | AltWerk-Klick 09.04.2026, Lieferangebot 12.04.2026, Annahme 14.04.2026 | War das Plattform-Inserat oder erst die Mail vom 12.04. das Angebot? Annahme rechtzeitig? | vertragsschluss-antrag-annahme |
-| Praegepresse | Annahme zu spät, Vertrag nicht zustande | §§ 130 Abs. 1, 147 Abs. 2, 150 Abs. 1 BGB | "bis Montagabend", Versand 14.04. 08:06 Uhr, Zugang gemaess Server-Log 08:08 Uhr | Bedeutung "Montagabend" nach Empfängerhorizont; Zugang im Machtbereich | annahmefrist-verspaetung-paragraphen-147-149 |
+| Praegepresse | Annahme zu spät, Vertrag nicht zustande | §§ 130 Abs. 1, 147 Abs. 2, 150 Abs. 1 BGB | "bis Montagabend", Versand 14.04. 08:06 Uhr, Zugang gemäß Server-Log 08:08 Uhr | Bedeutung "Montagabend" nach Empfängerhorizont; Zugang im Machtbereich | annahmefrist-verspaetung-paragraphen-147-149 |
 | Praegepresse | Anfechtung Preis (Adelheid) | § 119 Abs. 1 BGB | Schreiben 18.04.2026, behaupteter Tippfehler 1.480/14.800 | Erklaerungs- oder Kalkulations-/Motivirrtum? Kausalität? | irrtumsanfechtung-paragraph-119-1 |
 | Praegepresse | Anfechtung Eigenschaft (Adelheid) | § 119 Abs. 2 BGB | Bronze-Angabe im Inserat; Mischführung; Hildebrands Hinweis 11.04. | Eigenschaft wesentlich und kausal? Hat Adelheid Kenntnis vor Inserat haben müssen? | eigenschaftsirrtum-paragraph-119-2 |
 | Praegepresse | Schadenersatz Kunigunde (falls Anfechtung greift) | § 122 BGB | Stift-Falkenau-Auftrag; entgangene Restaurierungsauftraege | Vertrauensschaden konkret bezifferbar? | vertrauensschaden-paragraph-122 |

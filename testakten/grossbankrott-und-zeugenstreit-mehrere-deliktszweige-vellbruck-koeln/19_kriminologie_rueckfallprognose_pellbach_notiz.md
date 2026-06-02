@@ -41,7 +41,7 @@ Für Wirtschaftsstrafsachen gibt es **keine standardisierten Prognoseinstrumente
 | Familiäre Bindung | intakt — Ehefrau Frieda steht zur Familie, Tochter Marlene (16) in Gymnasialphase |
 | Soziale Bindung | bei Mandant erodiert — Logistikbranche reagiert misstrauisch |
 | Berufliche Reintegration | offen — Berufsverbot § 70 StGB nicht zwingend bei Erstaeter |
-| Vermoegen | im Insolvenzverfahren erschöpft, kein "Tatmotiv" mehr |
+| Vermögen | im Insolvenzverfahren erschöpft, kein "Tatmotiv" mehr |
 | Geographische Mobilität | hoch (Wroclaw-Tochter), Fluchtgefahr-Argument der StA |
 | Psychisches Profil | ohne klinisch relevanten Befund, keine Persönlichkeitsstörung |
 

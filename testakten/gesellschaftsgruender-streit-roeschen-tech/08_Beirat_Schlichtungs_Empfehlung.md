@@ -16,7 +16,7 @@
 
 Sehr geehrte Damen und Herren,
 
-aufgrund der Anrufung des Beirats durch die Gesellschafterin Christine Linnenbach gemaess § 12 (3) c) der Satzung und § 11 (1) des Shareholder Agreement (Schlichtungsklausel) hat sich der Beirat in einer Sondersitzung am 28. Juli 2026 mit dem Streit über die Kapitalerhöhung vom 18. Juni 2026 befasst.
+aufgrund der Anrufung des Beirats durch die Gesellschafterin Christine Linnenbach gemäß § 12 (3) c) der Satzung und § 11 (1) des Shareholder Agreement (Schlichtungsklausel) hat sich der Beirat in einer Sondersitzung am 28. Juli 2026 mit dem Streit über die Kapitalerhöhung vom 18. Juni 2026 befasst.
 
 Der Beirat hat:
 

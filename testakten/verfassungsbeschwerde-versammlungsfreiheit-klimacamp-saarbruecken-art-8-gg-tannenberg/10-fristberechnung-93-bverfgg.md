@@ -53,7 +53,7 @@ Der Eilantrag nach § 32 BVerfGG unterliegt keiner gesetzlichen Ausschlussfrst, 
 
 Eine Wiedereinsetzung in den vorigen Stand würde voraussichtlich nicht benötigt (Frist eingehalten). Nur hilfsweise sei festgehalten:
 
-Gemaess § 93 II BVerfGG kann Wiedereinsetzung gewahrt werden, wenn die Versaeumung der Frist auf einem unabwendbaren Ereignis beruht. Da die Kanzlei am 15.03.2026 um 22:14 Uhr den OVG-Beschluss erhielt und am Folgetag fristgerecht einreichte, wäre auch eine etwaige Versaeumung durch die Unmittelbarkeit der Entscheidung entschuldigt.
+Gemäß § 93 II BVerfGG kann Wiedereinsetzung gewahrt werden, wenn die Versaeumung der Frist auf einem unabwendbaren Ereignis beruht. Da die Kanzlei am 15.03.2026 um 22:14 Uhr den OVG-Beschluss erhielt und am Folgetag fristgerecht einreichte, wäre auch eine etwaige Versaeumung durch die Unmittelbarkeit der Entscheidung entschuldigt.
 
 ---
 

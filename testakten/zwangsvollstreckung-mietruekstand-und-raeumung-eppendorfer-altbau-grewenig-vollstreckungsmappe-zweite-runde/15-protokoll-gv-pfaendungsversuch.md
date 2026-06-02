@@ -12,7 +12,7 @@
 
 **09:30 Uhr:** GV Lattermann erscheint gemeinsam mit Mitarbeiterin an der Wohnung. Klingeln bleibt zunächst unbeantwortet. Nach mehrminueetigem Warten öffnet Frau Carmen Pohlmann-Tannenberg die Tür.
 
-**09:38 Uhr:** GV stellt sich vor, zeigt Dienstausweis und erlaeautert den Zweck des Besuchs (Vollstreckungsauftrag gemaess § 885 ZPO sowie Pfändungsversuch gemaess § 808 ZPO).
+**09:38 Uhr:** GV stellt sich vor, zeigt Dienstausweis und erlaeautert den Zweck des Besuchs (Vollstreckungsauftrag gemäß § 885 ZPO sowie Pfändungsversuch gemäß § 808 ZPO).
 
 **Carmen Pohlmann-Tannenberg erklärt:**
 - Ehemann Heinrich nicht anwesend (Baustelle in Norderstedt)
@@ -45,7 +45,7 @@
 
 ## Ergebnis Pfändungsversuch
 
-**Pfaendungsprotokoll aufgenommen gemaess § 762 ZPO.** Nachfolgende Massnahmen:
+**Pfaendungsprotokoll aufgenommen gemäß § 762 ZPO.** Nachfolgende Massnahmen:
 
 1. TV, Laptop, Sofa, Motorroller — **Pfändung angeordnet und protokolliert**
 2. GV hat Terminsaufschub wegen § 765a ZPO-Antrag von Schuldnerseite beachtet — kein Abtransport am 29.01.2026

@@ -34,7 +34,7 @@ Quelle: Schlussbesprechung BP Finanzamt Koeln-Mitte vom 16.02.2026 (vor Insolven
 - VAZ 02/2025: USt zu niedrig erklärt ca. 41.000 EUR.
 - **Summe Verkürzung USt: ca. 246.000 EUR.**
 
-Prüfer identifizierte als Ursache: Umsätze von 4 Geschäftsvorgängen (Kunde "WeissPunkt Frische" und "Auchan Wroclaw") wurden nicht ordnungsgemaess in den Voranmeldungen erfasst. Auf Frage des BP-Prüfers, weshalb diese Umsätze fehlten, erklärte Engelmeier in der Schlussbesprechung sinngemaess:
+Prüfer identifizierte als Ursache: Umsätze von 4 Geschäftsvorgängen (Kunde "WeissPunkt Frische" und "Auchan Wroclaw") wurden nicht ordnungsgemaess in den Voranmeldungen erfasst. Auf Frage des BP-Prüfers, weshalb diese Umsätze fehlten, erklärte Engelmeier in der Schlussbesprechung sinngemäß:
 
 > "Diese Umsätze waren nach Mitteilung des Mandanten Wechselumsätze. Wir haben sie nach Anweisung Pellbach in den jeweils nachfolgenden Monat verschoben. Tatsächlich sind sie aber nie nachgemeldet worden."
 

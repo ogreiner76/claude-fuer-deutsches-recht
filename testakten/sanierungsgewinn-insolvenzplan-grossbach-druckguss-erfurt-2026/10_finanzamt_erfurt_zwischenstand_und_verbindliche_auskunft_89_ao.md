@@ -33,7 +33,7 @@ Wir bitten um verbindliche Auskunft zu folgenden Fragen:
 - Sanierungseignung (Plan-Eckpunkte mit Forderungsverzicht 38 Mio EUR, Investor LR Industrial 6 Mio EUR, Pivot Solar)
 - Sanierungsabsicht der Gläubiger (Gläubigerausschuss-Protokoll v. 25.02.2026)
 
-**Frage 2:** Wird der KSt-Verlustvortrag der Komplementär-GmbH (Grossbach Verwaltungs-GmbH) zum 31.12.2025 in Höhe von 12.000.000 EUR sowie der GewSt-Verlustvortrag der KG zum 31.12.2025 in Höhe von 14.000.000 EUR nach § 3a Abs. 3 EStG (sinngemaess für GewSt: § 7b GewStG i.V.m. § 3a Abs. 3 EStG) **zwingend mit dem Sanierungsertrag verrechnet**, sodass der verbleibende Sanierungsertrag — 26 Mio EUR (KSt) bzw. 24 Mio EUR (GewSt) — der Steuerbefreiung nach § 3a Abs. 1 EStG bzw. § 7b GewStG unterliegt?
+**Frage 2:** Wird der KSt-Verlustvortrag der Komplementär-GmbH (Grossbach Verwaltungs-GmbH) zum 31.12.2025 in Höhe von 12.000.000 EUR sowie der GewSt-Verlustvortrag der KG zum 31.12.2025 in Höhe von 14.000.000 EUR nach § 3a Abs. 3 EStG (sinngemäß für GewSt: § 7b GewStG i.V.m. § 3a Abs. 3 EStG) **zwingend mit dem Sanierungsertrag verrechnet**, sodass der verbleibende Sanierungsertrag — 26 Mio EUR (KSt) bzw. 24 Mio EUR (GewSt) — der Steuerbefreiung nach § 3a Abs. 1 EStG bzw. § 7b GewStG unterliegt?
 
 **Frage 3 (Sequencing):** Wirkt die Verlustverrechnung nach § 3a Abs. 3 EStG **vor** dem nachfolgenden Anteilsuebertragungs-Closing (Investor LR Industrial AG, voraussichtliches Closing Q3/2026) ein, sodass der Verlustvortrag im Sanierungsjahr 2026 noch verfügbar ist (und nicht erst durch § 8c KStG nach Anteilsübertragung untergeht)? Prüfen Sie hilfsweise, ob § 8d KStG (fortfuehrungsgebundener Verlustvortrag) zur Verfügung steht.
 

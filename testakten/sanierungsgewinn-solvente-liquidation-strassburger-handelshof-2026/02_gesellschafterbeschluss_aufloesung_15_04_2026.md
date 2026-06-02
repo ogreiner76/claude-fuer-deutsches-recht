@@ -62,7 +62,7 @@ Keine weiteren Beschlüsse.
 
 Die Alleingesellschafterin erklärt ausdrücklich:
 
-1. Sie wird das ihr gegen die Gesellschaft zustehende **Gesellschafterdarlehen über 2.400.000,00 EUR** (Stand 15.04.2026; qualifizierter Rangrücktritt vom 14.03.2021) **mit dem heutigen Auflösungsbeschluss NICHT erlassen**. Der Rangrücktritt mit Tilgungsvorbehalt aus zukünftigem freien Vermoegen bleibt unverändert wirksam.
+1. Sie wird das ihr gegen die Gesellschaft zustehende **Gesellschafterdarlehen über 2.400.000,00 EUR** (Stand 15.04.2026; qualifizierter Rangrücktritt vom 14.03.2021) **mit dem heutigen Auflösungsbeschluss NICHT erlassen**. Der Rangrücktritt mit Tilgungsvorbehalt aus zukünftigem freien Vermögen bleibt unverändert wirksam.
 2. Sie hat zur Kenntnis genommen, dass die Auflösung allein das Erlöschen der werbenden Gesellschaft bewirkt; die Rechtspersönlichkeit besteht bis zur endgültigen Löschung im Handelsregister nach Beendigung der Liquidation und Ablauf des Sperrjahres (§ 73 GmbHG) fort.
 3. Sie wurde durch die anwesende Beraterin StB/RAin Dr. Pinneberg-Talheim über die steuerlichen Folgen umfassend belehrt, insbesondere über:
    - die Liquidationsbesteuerung nach § 11 KStG (Drei-Jahres-Zeitraum);

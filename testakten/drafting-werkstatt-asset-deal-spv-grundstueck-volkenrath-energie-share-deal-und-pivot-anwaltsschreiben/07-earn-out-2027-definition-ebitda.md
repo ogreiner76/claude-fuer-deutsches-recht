@@ -42,13 +42,13 @@ Degressive Abschreibung auf Solarmodule (Nutzungsdauer 20 Jahre, Inbetriebnahme 
 
 ### Problem 4 — Einflussnahme Käufer auf EBITDA
 
-Käufer kann als neuer Eigentümer nach Closing Massnahmen ergreifen, die das EBITDA 2027 negativ beeinflussen (z.B. Management Fee an Mutter-KG, Umstrukturierung, Übertragung Vertraege).
+Käufer kann als neuer Eigentümer nach Closing Massnahmen ergreifen, die das EBITDA 2027 negativ beeinflussen (z.B. Management Fee an Mutter-KG, Umstrukturierung, Übertragung Verträge).
 
 **Empfehlung:** Earn-Out Protection Covenants aufnehmen:
 - Keine ausserordentliche Erhöhung von Kosten
 - Keine Geschäftsverlagerung aus SPV heraus
 - Betrieb SPV nach Ordinary Course of Business
-- Keine neuen konzerndinternen Vertraege ohne Zustimmung Earn-Out-Schuldner
+- Keine neuen konzerndinternen Verträge ohne Zustimmung Earn-Out-Schuldner
 
 ---
 

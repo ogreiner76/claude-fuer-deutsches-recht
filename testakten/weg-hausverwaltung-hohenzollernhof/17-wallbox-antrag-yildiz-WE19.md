@@ -16,7 +16,7 @@ Berlin, den 04.04.2026
 
 ## Antrag
 
-Hiermit beantrage ich gemaess § 20 Abs. 2 Nr. 2 WEG die Genehmigung zur Installation einer **Wallbox (Ladestation für Elektrofahrzeug)** auf meinem mir zugeordneten Tiefgaragen-Stellplatz **Nr. TG14**.
+Hiermit beantrage ich gemäß § 20 Abs. 2 Nr. 2 WEG die Genehmigung zur Installation einer **Wallbox (Ladestation für Elektrofahrzeug)** auf meinem mir zugeordneten Tiefgaragen-Stellplatz **Nr. TG14**.
 
 ## Technische Spezifikation
 

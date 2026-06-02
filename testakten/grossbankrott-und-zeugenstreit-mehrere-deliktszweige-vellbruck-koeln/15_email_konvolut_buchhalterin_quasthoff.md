@@ -15,7 +15,7 @@
 
 Sehr geehrter Dr. Pellbach,
 
-bei der Verbuchung der Spesenabrechnung Oktober ist mir aufgefallen, dass der Bewirtungsbeleg vom 09.10.2024 (Restaurant Maternushof Koeln-Lindenthal, 487,80 EUR brutto) keinen Anlassvermerk und keine Teilnehmerliste enthält. Bitte ergänzen Sie diese Angaben gemaess § 4 Abs. 5 EStG.
+bei der Verbuchung der Spesenabrechnung Oktober ist mir aufgefallen, dass der Bewirtungsbeleg vom 09.10.2024 (Restaurant Maternushof Koeln-Lindenthal, 487,80 EUR brutto) keinen Anlassvermerk und keine Teilnehmerliste enthält. Bitte ergänzen Sie diese Angaben gemäß § 4 Abs. 5 EStG.
 
 Mit freundlichen Gruessen
 Mira Quasthoff

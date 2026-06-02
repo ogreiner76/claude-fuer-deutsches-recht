@@ -34,7 +34,7 @@ Die Kammer nimmt eine summarische Interessenabwägung vor. Das öffentliche Inte
 Die Kammer lässt offen, ob das geplante 46-taegige Dauercamp noch als „Versammlung" i.S.v. Art. 8 I GG zu qualifizieren ist. Es spreche viel dafür, dass bei einem Schichtbetrieb über Wochen ohne dauerhaften gemeinsamen Kundgebungscharakter der Schutzbereich nicht eroffnet sei.
 
 **b) Zur Bannmeilenregelung:**
-Selbst bei Annahme des Schutzbereichs sei § 16 SaarlVersG eine verfassungsrechtlich nicht zu beanstandende Beschränkung gemaess Art. 8 II GG. Der Saarländische Landtag sei als Parlament in besonderem Masse schutzwürdig. Die Beeinträchtigung der parlamentarischen Arbeit durch ein Dauercamp auf dem Vorplatz sei evident.
+Selbst bei Annahme des Schutzbereichs sei § 16 SaarlVersG eine verfassungsrechtlich nicht zu beanstandende Beschränkung gemäß Art. 8 II GG. Der Saarländische Landtag sei als Parlament in besonderem Masse schutzwürdig. Die Beeinträchtigung der parlamentarischen Arbeit durch ein Dauercamp auf dem Vorplatz sei evident.
 
 **c) Zur Verhaeltnismaessigkeit:**
 Die Behörde habe die Verhaaltnismaessigkeit geprüft und sei nachvollziehbar zu dem Ergebnis gelangt, dass mildere Mittel — insbesondere ein Camp in groesserer Entfernung vom Parlamentsgebäude — den Zweck des Protests gleich gut erfullen würden.

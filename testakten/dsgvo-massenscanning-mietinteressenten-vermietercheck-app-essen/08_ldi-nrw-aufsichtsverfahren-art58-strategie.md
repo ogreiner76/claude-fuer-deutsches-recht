@@ -11,7 +11,7 @@
 
 ### 1.1 Rechtsstellung der LDI NRW
 
-Die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ist die gemaess Art. 55 DSGVO i.V.m. § 17 BDSG zuständige Aufsichtsbehörde für VCS (Unternehmenssitz Essen). Sie ist nach Art. 57 Abs. 1 DSGVO verpflichtet, die Anwendung der DSGVO zu überwachen und durchzusetzen.
+Die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ist die gemäß Art. 55 DSGVO i.V.m. § 17 BDSG zuständige Aufsichtsbehörde für VCS (Unternehmenssitz Essen). Sie ist nach Art. 57 Abs. 1 DSGVO verpflichtet, die Anwendung der DSGVO zu überwachen und durchzusetzen.
 
 ### 1.2 Befugnisse der LDI NRW (Art. 58 DSGVO)
 
@@ -77,7 +77,7 @@ Die Kanzlei SBD empfiehlt eine kooperative Verteidigungsstrategie, die auf folge
 4. Nachweis der Sanierungsmassnahmen
 5. Antrag: Statt Bussgeldbescheid — Verwarnung und Anordnung konformer Verarbeitung
 6. Hilfsantrag: Bussgeldbemessung (s. Akte 09) — Reduktion auf maessiges Mass
-7. Antrag auf mündliche Anhörung gemaess § 28 VwVfG NRW
+7. Antrag auf mündliche Anhörung gemäß § 28 VwVfG NRW
 
 ### 3.3 Verfahrensrechtliche Rechte der VCS
 
@@ -118,8 +118,8 @@ Im Verwaltungsverfahren der LDI NRW stehen VCS folgende Verfahrensrechte zu:
 
 Falls die LDI NRW einen Bussgeldbescheid in unverhaeAltnismaessiger Höhe erlasst, wird folgende Rechtsbehelfs-Strategie verfolgt:
 
-1. **Widerspruch** gemaess §§ 68 ff. VwGO gegen den Bussgeldbescheid (Frist: 1 Monat nach Zustellung)
-2. **Antrag auf aufschiebende Wirkung** gemaess § 80 Abs. 5 VwGO (Vollstreckungsschutz)
+1. **Widerspruch** gemäß §§ 68 ff. VwGO gegen den Bussgeldbescheid (Frist: 1 Monat nach Zustellung)
+2. **Antrag auf aufschiebende Wirkung** gemäß § 80 Abs. 5 VwGO (Vollstreckungsschutz)
 3. **Klage vor VG Düsseldorf** (§ 42 VwGO i.V.m. § 20 Abs. 1 VwGO — zuständiges Gericht für LDI NRW)
 4. **Verfassungsbeschwerde** als letzte Instanz (s. Akte 21) — Verletzung des Verhaeltnismaessigkeitsgrundsatzes Art. 20 Abs. 3 GG, wirtschaftliche Existenz Art. 12 GG
 

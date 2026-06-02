@@ -5,7 +5,7 @@
 **Sachgebiet:** Bundesfernstrassenprogramm – Trassenführung B 449n
 **Anhörungstermin:** Mittwoch, 03.06.2026, 14:00 bis ca. 17:30 Uhr, Sitzungssaal 2.700
 
-## Einladungstext (sinngemaess)
+## Einladungstext (sinngemäß)
 
 > Der Ausschuss für Verkehr führt am 03.06.2026 eine öffentliche Anhörung zur Trassenführung der B 449n durch. Die Buergerinitiative Waldmoor 2030 wird als Sachverständige geladen. Pro Sachverständige sind eine schriftliche Stellungnahme (max. 6.000 Zeichen) bis 27.05.2026 sowie ein mündlicher Eingangsstatement von höchstens fünf Minuten vorgesehen.
 
