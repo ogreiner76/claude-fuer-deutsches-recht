@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v61.1.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v61.1.1`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -65,7 +65,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [factoring-recht](./factoring-recht.md) (62 Skills)
 - [fluggastrechte](./fluggastrechte.md) (54 Skills)
 - [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (54 Skills)
-- [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (54 Skills)
+- [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (55 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (54 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (54 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (100 Skills)

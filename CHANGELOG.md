@@ -1,3 +1,17 @@
+# v61.1.1 — Forschungszulage-Plädoyer erweitert
+
+## Schwerpunkt
+
+- `forschungszulage-antragstellung` um den neuen Skill `fz-plaedoyer-begruendung-und-verteidigung` erweitert.
+- Plädoyer-Workflow für BSFZ, Finanzamt, Einspruch, Geschäftsführung/CFO sowie Verlust-, Krisen- und Insolvenzlagen ergänzt.
+- Router, allgemeiner Einstieg, Portaltexte-Skill, README, SKILLS.md und Skills-Index auf den neuen Plädoyer-Pfad nachgezogen.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur und Whitespace-Check grün.
+
+---
+
 # v61.1.0 — Beamten-/Richterrecht Spezialskills konsolidiert
 
 ## Schwerpunkt
