@@ -1,3 +1,9 @@
+# v60.0.1 - Beamtenrecht/Richterrecht Wissenssammlung
+
+- Beamtenrecht-Plugin um vertiefte Skills zur BVerfG-Alimentationsrechtsprechung, zeitnahen Geltendmachung, Föderalismusreform, BDG-2024, Suspendierung, Verfassungstreue, Richterdienstaufsicht, Richterdienstgerichten und EU-Justizunabhängigkeit erweitert.
+- Recherchematerial aus dem Branch `recherche/beamtenrecht-richterrecht-wissenssammlung` als gesonderte Arbeitsablage übernommen.
+- Quellenhygiene im Beamtenrecht verschärft: keine privaten Datenbankzitate, keine Literatur-Blindzitate, keine ungeprüften richterdienstgerichtlichen Fundstellen.
+
 # v60.0.0 — Beamtenrecht, US-Copyright-Registrierung und Release-Sync
 
 Release-Sprung auf v60.0.0 mit zwei neuen Plugins und einer neuen Beamtenrecht-Demonstrationsakte.
