@@ -1,6 +1,6 @@
 # pruefungsrecht-hochschule
 
-**100 Skills** · Stand `v61.3.0`
+**100 Skills** · Stand `v63.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/pruefungsrecht-hochschule/README.md)

@@ -1,3 +1,56 @@
+# v63.0.0 — Gesamt-Bibliothek, neue Plugins und Skill-Qualitätsboost
+
+## Schwerpunkt
+
+- Konsolidierter Major-Bump von v62.0.0 auf v63.0.0 nach Zusammenführung der neuen Plugin-, Skill- und Testakten-Erweiterungen.
+- Bestand synchronisiert auf 158 Plugins, 12959 Skills und 152 Testakten; kein Plugin liegt mehr unter 30 Skills.
+- Alle Plugin-Manifeste und die Marketplace-Definition auf 63.0.0 angeglichen; README, SKILLS.md, Skills-Index, Testakten- und Asset-Übersichten regeneriert.
+- Durchnummerierte Platzhalter-Skillreihen in `verbraucher-rechtsstaat-alltag`, `berufsgerichtliche-verfahren-freie-berufe` und `schoeffen-handelsrichter-praxis` durch sprechende, fallnahe Spezialskills ersetzt.
+- Neue und ausgebaute Plugin-Familien u. a. für Softwarerecht, Urheberrecht, IT-Sicherheits-/NIS-2-Compliance, Hinweisgeberschutz, Handelsvertreterrecht, Hochschul-/Schul-/Prüfungsrecht, Verbraucheralltag, Staatsanwaltschaftspraxis, Schöffen/Handelsrichter, Berufsverfahren freier Berufe, AG/SE-Hauptversammlung, Aufsichtsrat, NDA, Treuepflicht, HR-Startup-Praxis, Private-Equity- und Bank-/Regulierungsthemen.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (152 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: Marketplace 158 Plugins, 158 Plugin-Manifeste, 12959 Skills, 152 Testakten; keine alten Platzhalter-Slugs der drei ersetzten Skillserien.
+
+---
+
+# v62.0.0 — Major-Bump: konsolidierter Stand nach v61-Reihe
+
+## Schwerpunkt
+
+- Major-Versionsbump von 61.2.2 auf 62.0.0. Inhaltlich identisch mit v61.2.2; signalisiert den Abschluss der v61-Reihe nach Umlaut-Fix, README-Konsolidierung, Beamtenrecht-Quellenanker-Korrektur, Vergaberecht-Workbench-Boost, Forschungszulage-Akten-Erweiterung und globalem Halluzinations-Cleanup.
+- Alle 132 plugin.json + marketplace.json (outer und alle 132 Plugin-Einträge) auf 62.0.0 synchron.
+- Doku-Stand-Marker in README.md, SKILLS.md, ASSET_INDEX.md und testakten/README.md auf v62.0.0 angeglichen (vorher leichter Drift zwischen v61.2.0 und v61.2.2).
+- Plugins: 132 · Skills: 9517 · Testakten: 142 · Fachanwalts-Profile: 24.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Alle plugin.json + marketplace.json einheitlich auf 62.0.0.
+
+---
+
+# v61.2.2 - Vergaberecht Workbench Boost
+
+## Schwerpunkt
+
+- `fachanwalt-vergaberecht` von 54 auf 83 Skills erweitert.
+- Neue Workbench-Skills fuer Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
+- Alle Vergaberecht-Skills mit v61.2.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruege-/Kausalitaetslogik.
+- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruege/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
+- Mit dem v61.2.1-Remote-Nachzug zusammengefuehrt; Gesamtbestand jetzt 132 Plugins, 9517 Skills, 142 Testakten.
+
+## Checks
+
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check im finalen Merge geprueft.
+
+---
+
 # v61.2.1 — Forschungszulage-Akte und Release-Asset-Glattzug
 
 ## Schwerpunkt

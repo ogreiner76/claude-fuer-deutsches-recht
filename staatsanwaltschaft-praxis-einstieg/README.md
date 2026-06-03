@@ -1,6 +1,5 @@
 # Staatsanwaltschaft Praxis-Einstieg
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
