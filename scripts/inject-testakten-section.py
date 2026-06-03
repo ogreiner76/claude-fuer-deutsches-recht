@@ -86,6 +86,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     ],
     "jveg-kostenpruefer": ["jveg-zeugin-berger-lg-tuebingen"],
     "kanzlei-allgemein": ["kanzlei-allgemein-alltag"],
+    "kanzlei-management": ["kanzlei-management-falkenried-partnerkreis-q2-2026"],
     "ki-richtlinie-kanzleien": ["ki-richtlinie-musterkanzlei"],
     "ki-vo-ai-act-pruefer": ["ki-vo-konformitaetsbescheinigung-bewerberpilot"],
     "kommunalrecht-laender": [
