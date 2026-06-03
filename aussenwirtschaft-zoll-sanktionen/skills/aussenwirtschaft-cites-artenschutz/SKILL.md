@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-cites-artenschutz
-description: "Vertiefter Skill fuer Cites Artenschutz. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung.'
 ---
 
-# Cites Artenschutz
+# CITES-Artenschutz: Genehmigungen fuer geschuetzte Arten im Aussenhandel
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Cites Artenschutz** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Kunsthaendler moechte Elfenbein-Schnitzereien aus den 1960er Jahren importieren; CITES-Status klaeren.
+- Reptilienhaendler exportiert Terrarien-Tiere; welche CITES-Genehmigungen erforderlich?
+- Moebelhaendler bezieht Holz aus tropischen Laendern; CITES-Holzarten pruefen.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Art und Anhang-Einstufung in CITES-Anhang A-D (VO 338/97) und CITES-Appendix I-III pruefen.
+2. Fuer Anhang A/B: Aus- und Einfuhrgenehmigung bei zustaendiger Behoerde beantragen (BfN/Landeslbehoerden).
+3. Fuer Anhang C: Exportbescheinigung des Herkunftslandes und Einfuhrnotifizierung.
+4. Fuer Pre-Convention-Objekte: Herkunftsnachweis vor CITES-Listierung (Art. 2 Abs. 2 VO 338/97).
+5. Zollanmeldung mit CITES-Referenz und Genehmigungsnummer.
+6. Archivierung und Aufbewahrung aller CITES-Unterlagen (Lebensdauer des Exemplars).
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **VO (EG) 338/97**: EU-Artenschutz-Grundverordnung.
+- **VO (EG) 865/2006**: Durchfuehrung der Artenschutzverordnung.
+- **CITES-Uebereinkommen**: Washingtoner Artenschutzuebereinkommen (1973).
+- **§§ 71-73 BNatSchG**: Nationales Strafrecht bei Artenschutzverletzungen.
+- **AWG § 18**: Aussenwirtschaftsrechtliche Strafbarkeit bei Verstoss.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Art korrekt bestimmt und CITES-Anhang-Einstufung geprueft?
+- [ ] Genehmigung fuer Anhang A/B beantragt und erteilt?
+- [ ] Pre-Convention-Herkunftsnachweis fuer aeltere Objekte vorhanden?
+- [ ] CITES-Dokumente bei Zollanmeldung beigefuegt?
+- [ ] Archivierung fuer Lebensdauer des Exemplars sichergestellt?
+- [ ] Straf- und Ordnungswidrigkeits-Risiko bewertet?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- CITES-Anhang-Einstufung aendert sich; Jahreslisten pruefen.
+- Pre-Convention-Ausnahme ist eng; Beweislast liegt beim Importeur.
+- Illegale CITES-Waren koennen nicht nachtraeglich legalisiert werden.
+- Zoll und Strafverfolgungsbehoerden kooperieren bei CITES-Kontrollen intensiv.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+CITES-Genehmigungspaket mit Antragsformularen, Artbestimmungsprotokoll, Herkunftsnachweisen und Archivierungsplan.
+
+## Quellen
+
+- [VO (EG) 338/97 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31997R0338)
+- [Bundesamt fuer Naturschutz CITES](https://www.bfn.de/themen/cites.html)
+- [Zoll.de Artenschutz](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Artenschutz/artenschutz_node.html)
+- [BNatSchG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bnatschg_2009/index.html)

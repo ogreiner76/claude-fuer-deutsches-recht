@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-finanzsanktionen-eigentum-kontrolle
-description: "Vertiefter Skill fuer Finanzsanktionen Eigentum Kontrolle. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk.'
 ---
 
-# Finanzsanktionen Eigentum Kontrolle
+# 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Finanzsanktionen Eigentum Kontrolle** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Lieferant eines deutschen Unternehmens ist zu 51 Prozent im Besitz einer sanktionierten russischen Bank.
+- Immobilientransaktion: Kaeufer wird von Holdingstruktur gehalten, deren UBO sanktioniert ist.
+- Konzerngesellschaft in Drittland hat sanktionierte Person im Aufsichtsrat mit Vetomacht.
 
-## Normfokus und Praxis (50 %-Test und Kontrolle)
-- Rechtsgrundlage: Art. 2 Abs. 1 VO 269/2014 (RU), Art. 5 VO 765/2006 (BY), Art. 23 VO 36/2012 (SY) sowie äquivalente Sanktionsverordnungen — Eigentums- und Kontrollvermutung bei direkter oder mittelbarer Beteiligung gelisteter Personen.
-- 50 %-Schwelle: EU-Best-Practice (Council Best Practice 8519/18 und Updates) — bei Beteiligung von mehr als 50 % wird Eigentum vermutet. Kontrolle kann auch unterhalb 50 % vorliegen (Stimmrechtsmehrheit, Vetorecht, Aufsichtsorgane, Geschäftsführerbenennung, faktische Steuerung, Familienverflechtung).
-- Aggregationsregel: Mehrere gelistete Personen mit kumulativem Anteil über 50 % zählen als gemeinsam beherrschend; achten auf Treuhand-, Stiftungs- und Trust-Konstruktionen sowie zwischengeschaltete Holding-Strukturen.
-- Beweislast Compliance: BAFA und Bundesbank verlangen dokumentierte UBO/Kontroll-Analyse — Handelsregister, Transparenzregister (§§ 19 ff. GwG), kommerzielle Datenbanken (z. B. Orbis, Dow Jones, World-Check) als belastbare Quellen.
-- Praktiker-Tipp: Bei unklarer Beteiligungsstruktur konservativ als gesperrt behandeln und BAFA-Auskunft (formloser Antrag, Art. 6 VO 269/2014) einholen — schriftliche Stellungnahme der Behörde sichert Compliance-Defense. Eskalationsmatrix Vertrag/Geschäftsbeziehung: vor Abschluss UBO-Check, bei jeder Listenupdate-Welle (alle 2-6 Monate) erneut prüfen.
+## Erste Schritte
 
-## Startfragen
+1. Alle juristischen Personen in der Transaktionskette identifizieren.
+2. Eigentuemerstruktur bis zur natuerlichen Person oder staatlichen Entitaet verfolgen (UBO-Analyse).
+3. 50-%-Schwelle nach Besitz und Kontrolle gesondert pruefen (Art. 2 VO 269/2014).
+4. EU-Leitlinien zur Akkumulation von Eigentumsanteilen beachten.
+5. Treuhandverhaeltnisse und Nominee-Strukturen aufdecken.
+6. Ergebnis mit Quellenbelegen und Entscheidung dokumentieren.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot fuer gelistete Personen und von ihnen kontrollierte Entitaeten.
+- **EU-Leitlinien zu Art. 2 VO 269/2014**: Interpretation der 50-%-Regel bei Eigentum/Kontrolle.
+- **VO (EU) 833/2014 Art. 11**: Eingefroren Gelder und Bereitstellungsverbot.
+- **§ 3 GwG**: UBO-Definition und Transparenzpflicht.
+- **§ 18 AWG**: Strafbarkeit bei Bereitstellung gegenueber sanktionierter Entitaet.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] UBO-Kette bis zur natuerlichen Person vollstaendig verfolgt?
+- [ ] 50-%-Schwelle nach Eigentumsanteilen und Stimmrechten getrennt geprueft?
+- [ ] Mittelbare Kontrolle (mehrstufige Holdingstrukturen) beruecksichtigt?
+- [ ] Treuhand- und Nominee-Verhaeltnisse ausgeschlossen oder aufgedeckt?
+- [ ] EU-Leitlinien zur Akkumulation konsultiert?
+- [ ] Quellenstand und Abrufdatum dokumentiert?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Kontrolle ohne Mehrheitsbesitz (Veto, Vorstandsmandat) loest ebenfalls Bereitstellungsverbot aus.
+- Sanktionierte Person haelt 25 % + eine weitere sanktionierte Person 26 % = zusammen ueber 50 %.
+- Treuhandstrukturen verschleiern wirtschaftlich Berechtigten; Gegenverifizierung noetig.
+- Tochtergesellschaften sanktionierter Banken in Drittlaendern nicht automatisch sanktioniert, aber Risiko hoch.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+UBO-Analysevermerk mit Eigentumsdiagramm, 50-%-Regel-Pruefergebnis, Quellenprotokoll und Freigabe- oder Sperrentscheidung.
+
+## Quellen
+
+- [VO (EU) 269/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
+- [EU-Leitlinien zu Eigentum/Kontrolle](https://eeas.europa.eu/topics/sanctions-policy/8442/consolidated-list-sanctions_en)
+- [GwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/index.html)
+- [BAFA Finanzsanktionen](https://www.bafa.de/DE/Aussenwirtschaft/Finanzsanktionen/finanzsanktionen_node.html)

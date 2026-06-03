@@ -1,47 +1,88 @@
 ---
 name: aussenwirtschaft-audit-trail-freigaben
-description: "Vertiefter Skill fuer Audit Trail Freigaben. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation fuer Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie.'
 ---
 
-# Audit Trail Freigaben
+# Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Audit Trail Freigaben** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- BAFA prueft Exporteur nach wiederholten Genehmigungsantraegen; Auditoren verlangen vollstaendigen Freigabe-Trail.
+- Hauptzollamt fordert bei Aussen-pruefung lueckenlosen Nachweis fuer Sanktionsscreening der letzten 3 Jahre.
+- Unternehmensberatung hilft KMU beim Aufbau ersttauglicher Exportkontroll-Dokumentation fuer ICP.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Pflicht zur Aufbewahrung von Exportkontrolldokumentation nach AWV § 24 und UZK Art. 51 feststellen (in der Regel 5-10 Jahre).
+2. Kategorien von Freigabedokumenten inventarisieren: Screening-Logs, Klassifizierungsdossiers, Genehmigungen, Endverwendungserklaerungen.
+3. Elektronisches Ablagesystem mit Zeitstempeln und Versionierung aufbauen.
+4. Freigabeprozess mit Vier-Augen-Prinzip und Unterschriftenregelung etablieren.
+5. Automatische Backup- und Loeschroutinen gem. DSGVO abstimmen.
+6. Regelmaessige interne Audit-Tests zum Vollstaendigkeitsnachweis einplanen.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **AWV § 24**: Aufzeichnungs- und Aufbewahrungspflichten.
+- **UZK Art. 51**: Aufbewahrung zollrelevanter Unterlagen (3 Jahre + Verlaehngerung).
+- **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflichten des Ausfuehrers.
+- **§ 14 AWG**: Auskunftspflichten und Kontrollbefugnisse der Behoerden.
+- **GoBD (BMF-Schreiben 2019)**: Grundsaetze ordnungsmaessiger Buchfuehrung fuer digitale Unterlagen.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Aufbewahrungspflicht je Dokument-Kategorie bekannt und umgesetzt?
+- [ ] Zeitstempel und Versionierung fuer alle elektronischen Dokumente sichergestellt?
+- [ ] Vier-Augen-Prinzip bei Freigabeentscheidungen dokumentiert?
+- [ ] Zugriffsberechtigungen und Protokollierung eingerichtet?
+- [ ] Backup und Wiederherstellbarkeit getestet?
+- [ ] DSGVO-Kompatibilitaet der Langzeitarchivierung sichergestellt?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Papier-Dokumente ungeschuetzt archiviert; im Pruefungsfall nicht auffindbar.
+- Screening-Logs ohne Datum oder Quellangabe sind als Nachweis wertlos.
+- Zugriffsberechtigungen nicht protokolliert; Manipulationsrisiko im Audit.
+- Aufbewahrungsfristen je Dokumenttyp verschieden; pauschale 5-Jahres-Regel reicht nicht.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Audit-Trail-Konzept mit Dokumentenkategorien und Aufbewahrungsfristen, Prozess-Flussdiagramm, Muster-Freigabeprotokoll und Pruefungs-FAQ fuer Auditoren.
+
+## Quellen
+
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [VO (EU) 2021/821 Art. 20 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [UZK Art. 51 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [BAFA Kontrollpflichten](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)

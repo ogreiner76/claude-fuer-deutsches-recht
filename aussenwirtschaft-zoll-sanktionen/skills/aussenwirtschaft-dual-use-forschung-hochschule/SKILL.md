@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Vertiefter Skill fuer Dual Use Forschung Hochschule. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen fuer Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk fuer Forschungsvorhaben.'
 ---
 
-# Dual Use Forschung Hochschule
+# Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Dual Use Forschung Hochschule** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Universitaet kooperiert mit chinesischem Forschungsinstitut; Frage, ob Datenuebertragung genehmigungspflichtig.
+- Doktorand aus Iran erhalt Zugang zu Laboren und Geraeten; Dual-Use-Compliance pruefen.
+- Professor moechte Konferenzbeitrag ueber Laserparameter veroeffentlichen; Dual-Use-Relevanz?
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Forschungsgegenstand und Technologie auf Dual-Use-Listeneintrag pruefen (Anhang I VO 2021/821).
+2. Ausnahme fuer Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und oeffentlich zugaengliche Info pruefen.
+3. Wissenstransfer an auslaendische Beteiligte als 'Verbringung' oder 'Ausfuhr' einordnen.
+4. Endverwender-Pruefung fuer Auslandsstudierende und Kooperationspartner.
+5. Genehmigung bei BAFA beantragen falls kein Ausnahmetatbestand greift.
+6. Hochschulleitung und Forschungsfoerderer ueber Compliance-Anforderungen informieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **Art. 2 Nr. 9 VO (EU) 2021/821**: Ausnahme fuer Grundlagenforschung.
+- **Art. 26 Abs. 1 lit. a VO (EU) 2021/821**: Ausnahme fuer oeffentlich zugaengliche Information.
+- **AWG §§ 8, 18**: Genehmigungspflicht und Strafbarkeit bei Wissenstransfer.
+- **§ 9 AWV**: Genehmigungsfreie Ausfuhren (Grenzen im akademischen Bereich).
+- **VO (EU) 2021/821 Anhang I Kategorie 5**: Telekommunikation/Informationssicherheit.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Technologie im Dual-Use-Anhang I gelistet?
+- [ ] Grundlagenforschungs-Ausnahme sachlich anwendbar?
+- [ ] Publikation nicht bereits vor Genehmigung oeffentlich zugaenglich?
+- [ ] Endverwender auslaendischer Partner geprueft?
+- [ ] Catch-All fuer nicht-gelistete sensitive Technologien geprueft?
+- [ ] Hochschulleitung und Compliance-Stelle informiert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Technische Ausbildung (Hands-on-Training) faellt nicht unter Grundlagenforschungs-Ausnahme.
+- Gemeinsame Publikation vor BAFA-Freigabe kann rechtswidrige Technologiuebertragung darstellen.
+- Fernzugriff auf IT-Systeme mit sensitiver Software gilt als Ausfuhr.
+- Kooperationsvertraege sichern keine Compliance; individuelle Pruefung jeder Datenuebertragung noetig.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Pruefvermerk fuer Forschungsvorhaben mit Listeneintrag-Analyse, Ausnahmenbegruendung und Genehmigungsempfehlung, sowie Hochschul-Leitfaden.
+
+## Quellen
+
+- [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [BAFA Technologietransfer Hochschule](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

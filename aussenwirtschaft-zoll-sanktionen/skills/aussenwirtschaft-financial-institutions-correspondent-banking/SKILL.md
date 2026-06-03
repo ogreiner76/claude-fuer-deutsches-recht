@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-financial-institutions-correspondent-banking
-description: "Vertiefter Skill fuer Financial Institutions Correspondent Banking. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung.'
 ---
 
-# Financial Institutions Correspondent Banking
+# Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Financial Institutions Correspondent Banking** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Deutsche Korrespondenzbank erhaelt USD-Zahlung ueber US-Korrespondenten aus Russland; OFAC-Exposure.
+- Bank soll Akkreditiv fuer iranischen Importeur eroeffnen; Gegenpartei nicht in SDN-Liste, aber enge Verbindungen zum Staat.
+- Finanzinstitut prueft neue Korrespondenzbankbeziehung mit Tuerkei; Sanktionsumgehungsrisiko Russland.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Transaktionsparteien und Zahlungsweg vollstaendig erfassen (Auftraggeber, Beguenstigter, alle Intermediare).
+2. Screening gegen konsolidierte EU-Sanktionsliste, OFAC SDN und sektorspezifische Listen.
+3. Eigentums- und Kontrollpruefung (50-%-Regel) aller Parteien.
+4. Korrespondenzbank-Risikoklassifizierung: CDD-Dokumente, Sanktionsprogramme des Partnerlandes.
+5. Bei Risikoindikatoren: Enhanced Due Diligence, Rueckfragen, ggf. Ablehnung.
+6. Transaktionsentscheidung mit Quellenprotokoll und Datum dokumentieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **VO (EU) 2580/2001**: Terrorismusfinanzierungs-Sanktionen.
+- **VO (EU) 833/2014 Art. 5 ff.**: Finanzierungsverbote Russland.
+- **VO (EU) 267/2012 Art. 23**: Finanzsanktionen Iran.
+- **§§ 3 ff. GwG**: Sorgfaltspflichten bei Verdacht auf Sanktionsverstoesse.
+- **§ 18 AWG i.V.m. § 17 AWV**: Bereitstellungsverbot im Zahlungsverkehr.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Alle Transaktionsparteien inkl. Intermediare gescreent?
+- [ ] 50-%-Eigentums-/Kontrollregel fuer alle juristischen Personen geprueft?
+- [ ] OFAC-Exposure bei USD-Transaktionen beachtet?
+- [ ] Korrespondenzbank-CDD-Dokumentation vollstaendig?
+- [ ] Sektorspezifische Verbote (Finanzierung, Anleihen) geprueft?
+- [ ] Transaktionsentscheidung mit Datum und Quellenstand protokolliert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Indirekte Sanktionsexponierung durch Korrespondenzbank-Kette wird unterschaetzt.
+- OFAC-Jurisdiktion bei USD-Transaktionen gilt unabhaengig von EU-Sanktionsstatus.
+- 50-%-Regel fuer Eigentum und Kontrolle wird bei komplexen Holdingstrukturen nicht vollstaendig angewendet.
+- SWIFT-Ausschluss russischer Banken schliesst nicht alle Transfermoeglichkeiten aus.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Transaktions-Pruefprotokoll mit Screening-Ergebnis, Risikoklassifizierung der Korrespondenzbank, Entscheidungsvermerk und Enhanced-Due-Diligence-Dossier.
+
+## Quellen
+
+- [EU-Finanzsanktionsliste FSAP](https://eeas.europa.eu/topics/sanctions-policy/8442/consolidated-list-sanctions_en)
+- [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
+- [GwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/index.html)
+- [BAFA Finanzsanktionen](https://www.bafa.de/DE/Aussenwirtschaft/Finanzsanktionen/finanzsanktionen_node.html)

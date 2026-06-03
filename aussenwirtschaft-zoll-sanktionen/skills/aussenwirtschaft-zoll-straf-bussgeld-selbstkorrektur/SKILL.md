@@ -1,47 +1,88 @@
 ---
 name: aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur
-description: "Vertiefter Skill fuer Zoll Straf Bussgeld Selbstkorrektur. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 4 AWG und § 22 ZollVG: Straftatbestaende (§ 18 AWG Schmuggeldelikt § 370 AO) Ordnungswidrigkeiten und Wirkung der Selbstanzeige. Strafmilderung durch Kooperation und BAFA-Praxis bei freiwilliger Offenlegung. Output: Strafbarkeits-Risikobewertung und Selbstkorrektur-Strategie.'
 ---
 
-# Zoll Straf Bussgeld Selbstkorrektur
+# Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Zoll Straf Bussgeld Selbstkorrektur** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Unternehmen hat uber Jahre Waren unter falscher KN-Nummer eingereiht; Nachzahlung und Strafbarkeit pruefen.
+- BAFA entdeckt bei Pruefung ungenehmigten Export von Dual-Use-Gut; Selbstanzeige erwagen.
+- Zollfahndung ermittelt wegen Schmuggel; Verteidigungsstrategie und Schadensbegrenzung.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Sachverhalt vollstaendig rekonstruieren: Zeitraum betroffene Waren Verfahren und Beteiligte.
+2. Strafbarkeit einordnen: § 18 AWG (vorsaetzlicher Verstoss) oder Ordnungswidrigkeit (§ 19 AWG)?
+3. Selbstkorrektur-Option pruefen: § 22 Abs. 4 AWG fuer Exportkontrolle; § 22 ZollVG fuer Zoll.
+4. Schadenspotenzial quantifizieren: Zollnacherhebung Zinsen Bussgelder und moegliche Strafbarkeit.
+5. Anwalt und ggf. Steuerberater einschalten; Legal Hold einrichten.
+6. Selbstkorrektur-Schreiben mit vollstaendiger Offenlegung und Schadensbehebungskonzept vorbereiten.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **§ 18 AWG**: Straftatbestaende im Aussenwirtschaftsrecht (Freiheitsstrafe bis 5 Jahre).
+- **§ 19 AWG**: Ordnungswidrigkeitentatbestaende mit Bussgeldbewehrung.
+- **§ 22 Abs. 4 AWG**: Strafmildernde Wirkung freiwilliger Offenlegung gegenueber BAFA.
+- **§ 370 AO**: Steuerhinterziehung bei Falschdeklaration im Zollrecht.
+- **§ 22 ZollVG**: Nacherhebung und Selbstkorrektur-Verfahren.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Strafbarkeit nach § 18 AWG oder Ordnungswidrigkeit nach § 19 AWG eingeordnet?
+- [ ] Selbstkorrektur-Option geprueft und Fristen beachtet?
+- [ ] Schadenspotenzial vollstaendig quantifiziert?
+- [ ] Legal Hold eingerichtet und Dokumentation gesichert?
+- [ ] Anwalt mit Selbstkorrektur-Erfahrung eingeschaltet?
+- [ ] Offenlegungsschreiben vollstaendig und korrekt vorbereitet?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Selbstkorrektur muss vollstaendig sein; teilweise Offenlegung verschlimmert die Situation.
+- Selbstanzeige wirkt nicht strafbefreiend wenn BAFA-Pruefung bereits eingeleitet.
+- Keine Selbstkorrektur ohne vorherige rechtliche Beratung; Reihenfolge entscheidend.
+- Konzernweite Implikationen: Andere Konzerneinheiten muessen einbezogen werden.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie mit Zeitplan und Muster-Offenlegungsschreiben fuer BAFA bzw. Hauptzollamt.
+
+## Quellen
+
+- [§ 18 AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/__18.html)
+- [§ 22 AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/__22.html)
+- [BAFA Freiwillige Offenlegung](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Allgemeine_Informationen/allgemeine_informationen_node.html)
+- [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)
+- [§ 370 AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__370.html)

@@ -1,47 +1,88 @@
 ---
 name: aussenwirtschaft-trade-finance-lc-guarantees
-description: "Vertiefter Skill fuer Trade Finance Lc Guarantees. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung.'
 ---
 
-# Trade Finance Lc Guarantees
+# Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Trade Finance Lc Guarantees** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Bank erhalt Anfrage zur Eroeffffnung eines Akkreditivs fuer Lieferung nach Russland; Sanktionspruefung.
+- Exporteur beantragt Ausfuhrgarantie fuer Lieferung an iranischen Staatskonzern; EUC und Sanktionscheck.
+- Dokumenteninkasso fuer Textillieferung nach Belarus; Korrespondenzbank-Kette pruefen.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Transaktionsstruktur aufnehmen: Akkreditivbeteiligter Importeur Exporteur eroeffnende und bestaetigende Bank.
+2. Alle Beteiligten gegen EU-Konsolidierte-Liste OFAC-SDN und BAFA-Embargo pruefen.
+3. Verbote fuer Finanzhilfe (Art. 5a VO 833/2014 fuer Russland) und Bereitstellungsverbote pruefen.
+4. Bestimmungsland und Waren-HS-Codes auf Gueter-Embargo pruefen.
+5. Korrespondenzbank-Kette auf sanktionierte Institute pruefen.
+6. Freigabeentscheidung mit Quellennachweis dokumentieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **Art. 5a VO (EU) 833/2014**: Verbot von Transaktionen mit bestimmten russischen Staatsbanken.
+- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot fuer Gelder an gelistete Personen.
+- **Art. 26 VO (EU) 267/2012 (Iran)**: Finanzhilfeverbot gegenueber iranischen Banken.
+- **§ 18 AWG**: Strafbarkeit bei verbotener Finanzhilfe an sanktionierte Entitaeten.
+- **UZK Art. 87**: Zollwertbescheinigung und Dokumentationspflicht bei Trade-Finance.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Alle Trade-Finance-Beteiligten gegen Sanktionslisten geprueft?
+- [ ] Finanzhilfe-Verbote fuer Bestimmungsland relevant?
+- [ ] Warenklassifizierung und Embargo-Relevanz der Lieferung geprueft?
+- [ ] Korrespondenzbank-Kette auf sanktionierte Banken durchsucht?
+- [ ] Quellenstand der Sanktionsliste dokumentiert?
+- [ ] Freigabe- oder Ablehungsentscheidung archiviert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Zweitbeguenstigte hinter Akkreditiv kann gelistete Person/Entitaet sein.
+- Finanzhilfe-Verbote greifen auch bei mittelbarer Unterstuetzung durch nicht-sanktionierte Partei.
+- Korrespondenzbanken in Drittlaendern haben eigene Listenpflichten; Konflikte moeglich.
+- Alte Akkreditive bleiben gueltig bis Ablauf; Sanktionsaenderungen erfordern Re-Pruefung.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Trade-Finance-Pruefprotokoll mit Sanktionslistenabgleich, Waren-Embargo-Check, Entscheidungsmatrix und archivierter Freigabe- oder Ablehungsbegruendung.
+
+## Quellen
+
+- [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
+- [VO (EU) 269/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
+- [EU-Konsolidierte Finanzsanktionsliste EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0044)
+- [BAFA Embargos](https://www.bafa.de/DE/Aussenwirtschaft/Embargos/embargos_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

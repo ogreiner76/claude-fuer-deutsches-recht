@@ -1,109 +1,87 @@
 ---
 name: aussenwirtschaft-presse-krise
-description: "Rechtliche und kommunikative Schadensbegrenzung bei Sanktionsverstoss Behördenmassnahmen oder Lieferkettenvorwuerfen. Anwendungsfall negative Berichterstattung droht oder Behoerde hat Massnahmen eingeleitet und Unternehmen braucht kombinierte Rechts- und PR-Strategie. Normen AWG § 34 Strafrecht § 19 OWiG Sanktionen Art. 215 AEUV EU-Sanktionsrecht. Prüfraster Sachverhalt Behoedenverfahren PR-Linie Kundenkommunikation Remediation Massnahmen Schadensbegrenzung. Output Krisenplan mit Rechts-Strategie Kommunikationslinie Remediation-Nachweis und Behoedenverfahrens-Fahrplan. Abgrenzung zu aussenwirtschaft-prüfung-ermittlung und aussenwirtschaft-icp-kontrollsystem."
+description: 'Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage.'
 ---
 
-# Presse, Reputation und Krisenkommunikation
+# Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill erstellt abgestimmte Holding Statements, Q&A, Faktenkern und Freigabeprozess.
+- Investigativjournalist veroeffentlicht Artikel zu Russland-Lieferungen des Unternehmens; Reaktion in 2 Stunden.
+- Staatsanwaltschaft startet Ermittlung; Presseanfrage an CEO unmittelbar danach.
+- BAFA veroeffentlicht Sanktionsnahme; Reputationsschaden muss kommunikativ begrenzt werden.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Krisenteam einberufen: CEO/GF, Rechtsanwalt, PR/Kommunikation, Compliance.
+2. Faktencheck: Was ist bekannt, was wird berichtet, was stimmt, was stimmt nicht?
+3. Kommunikationspausse bis erste rechtliche Einschaetzung vorliegt.
+4. Behoerdliche Kommunikation (BAFA, Zoll, StA) separat von Medienkommunikation koordinieren.
+5. Key-Message entwickeln: transparent, korrektiv, kooperativ.
+6. Q&A fuer alle erwarteten Pressefragen vorbereiten; Social-Media-Monitoring einrichten.
+
+## Rechtsrahmen
+
+- **§ 193 StGB**: Rechtfertigungsgrund fuer Medienartikel (Abgrenzung); kein Erstattungsrecht.
+- **§ 22 Abs. 4 AWG**: Strafmilderung bei freiwilliger Offenlegung; Kommunikation anpassen.
+- **DSGVO Art. 5**: Datenschutz bei Pressemitteilungen ueber Personen.
+- **§ 37 StPO**: Schweigerecht; Mitarbeiter nicht zur Aussage an Presse drangen.
+- **§ 130 OWiG**: Organisationsverschulden; Kommunikation darf kein Schuldanerkenntnis enthalten.**
+
+## Pruef-Raster
+
+- [ ] Krisenteam vollstaendig versammelt und Rollenverteilung klar?
+- [ ] Ersteinschaetzung durch Rechtsanwalt vor erster Kommunikation?
+- [ ] Behoerdliche und Medienkommunikation getrennt gesteuert?
+- [ ] Q&A vollstaendig und rechtlich geprueft?
+- [ ] Key-Message transparent, korrektiv und kooperativ?
+- [ ] Social-Media-Monitoring eingerichtet?
+
+## Typische Fallstricke
+
+- Vorschnelle Aussagen in Medien koennen Strafverfolgung eskalieren oder Schuldanerkenntnis enthalten.
+- Medienkommunikation und Behoerdenkommunikation muessen konsistent sein.
+- Mitarbeiter geben ohne Anweisung Interviews; einheitliche Sprachregelung noetig.
+- 'Kein Kommentar' kann fehlinterpretiert werden; Formulierungsalternative vorbereiten.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Krisenhandbuch-Gliederung, Q&A-Vorlage, Pressemitteilungs-Erstfassung, Behoerden-Kommunikationsplan und Social-Media-Anweisung.
 
-## Triage vor Pressekrisen-/Krisenmanagement
+## Quellen
 
-Kläre vor dem Krisen-Response:
-
-1. Liegt eine konkrete Presse- oder Medienanfrage vor, oder ist die Krise bereits oeffentlich (Bericht erschienen)?
-2. Was ist der Sachverhalt: Sanktionsvorwurf, Exportkontrollverstoss, Zollhinterziehung, AML-Ermittlung?
-3. Welche Behoerden sind involviert — BAFA, Zollfahndung, StA, BaFin, oder auslaendische Behoerden (OFAC, BIS)?
-4. Hat das Unternehmen bereits eine oeffentliche Position eingenommen oder schweigt es noch?
-5. Gibt es anwaltsstrategische Grenzen, was oeffentlich kommuniziert werden darf (laufendes Ermittlungsverfahren)?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Pressekrise/Krisenmanagement
-
-- §§ 823, 1004 BGB — Unterlassung und Schadensersatz bei Persoenlichkeitsrechtsverletzung
-- § 186 StGB — Ueble Nachrede, § 187 StGB — Verleumdung (strafrechtlicher Schutz)
-- LPG der Bundeslaender — Gegendarstellungspflicht, Auskunftsrechte Presse
-- § 97a UrhG — Abmahnung bei unerlaubter Veroeffentlichung von Dokumenten
-- § 203 StGB — Verletzung von Berufsgeheimnissen (Verteidiger-Kommunikation)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Krisen-Q&A / Pressestatement
-
-**Adressat:** Pressesprecher / CEO — **Tonfall:** besonnen, faktenneutral, kein Schuldeingestaendnis
-
-```
-KRISEN-Q&A — INTERN (NICHT ZUR VEROEFFENTLICHUNG)
-Datum: [DATUM]
-Sachverhalt: [KURZBESCHREIBUNG]
-Bearbeiter: [ANWALT]  Freigabe: [ ] Erteilt / [ ] Ausstehend
-
-FRAGE 1: "Hat Ihr Unternehmen Sanktionen verletzt?"
-ANTWORT: "Wir nehmen diese Vorwuerfe sehr ernst und kooperieren vollstaendig
-          mit den zusta-ndigen Behoerden. Zum jetzigen Zeitpunkt koennen wir
-          keine weiteren Angaben machen, um den Verlauf der Pruefung nicht zu
-          beeinflussen."
-
-FRAGE 2: "Wann werden Sie die Oeffentlichkeit informieren?"
-ANTWORT: "Wir werden transparent kommunizieren, sobald belastbare Informationen
-          vorliegen und es rechtlich zulassig ist."
-
----
-PRESSESTATEMENT ENTWURF (Kurz)
-"[FIRMENNAME] ist sich seiner Verantwortung im Bereich Exportkontrolle und
-Sanktions-Compliance bewusst. Wir nehmen alle Hinweise ernst und arbeiten eng
-mit den zustaendigen Behoerden zusammen. [WEITERE FAKTENAUSSAGEN NUR NACH
-ANWALTLICHER FREIGABE]."
-
-Anwaltliche Hinweise fuer Freigabe:
-- [ ] Aussagen zu laufenden Ermittlungen: vermeiden (Selbstbelastungsgefahr)
-- [ ] Kein Schuldeingestaendnis (auch nicht implizit)
-- [ ] Kein Zeitdruck bei Detailangaben — "kein Kommentar" ist legitim
-```
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [BAFA Exportkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
+- [OWiG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/index.html)
+- [DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679)

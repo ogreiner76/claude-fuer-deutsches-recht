@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-aeo-bewilligung-monitoring
-description: "Vertiefter Skill fuer Aeo Bewilligung Monitoring. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmaessige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation.'
 ---
 
-# Aeo Bewilligung Monitoring
+# AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Aeo Bewilligung Monitoring** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Spediteur mit AEOS-Status stellt Veraenderung in der Geschaeftsfuehrung fest; Frage: Meldepflicht an Hauptzollamt?
+- Hersteller mit AEOC erhaelt Hinweis aus Zollpruefung auf mangelhafte Compliance-Dokumentation.
+- Konzernmutter moechte AEO-Status auf neue Tochtergesellschaft nach Fusion ausdehnen.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Bewilligungstext und erteilte AEO-Kategorie (AEOC/AEOS/AEOF) sichten; Auflagen und Bedingungen identifizieren.
+2. Ereignis-/Aenderungslog fuer die letzten 12 Monate erstellen: Personalwechsel, IT-Systeme, Sicherheitskonzept, Eigentuemerstruktur.
+3. Meldepflicht nach Art. 23 Abs. 2 UZK-IA und Hauptzollamt-Merkblatt bewerten; Meldefrist kalkulieren.
+4. Selbstevaluationsformular des Hauptzollamts aufrufen und aktuellen Erfuellungsgrad feststellen.
+5. Etwaige Versaumnisse dokumentieren und Nachbesserungsplan mit Terminen festlegen.
+6. Monatlichen Monitoring-Rhythmus mit Verantwortlichen und Eskalationspfad einrichten.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **Art. 38-39 UZK (VO (EU) 952/2013)**: Grundvoraussetzungen und Kategorien der AEO-Zulassung.
+- **Art. 24-35 UZK-DA (VO (EU) 2015/2446)**: Beurteilungskriterien fuer Compliance, Buchfuehrung, Solvenz, Sicherheit.
+- **Art. 23 Abs. 2 UZK-IA (VO (EU) 2015/2447)**: Meldepflicht bei aenderungsrelevanten Ereignissen.
+- **§ 10 ZollVG**: Nationale Kontrollbefugnisse des Hauptzollamts.
+- **Art. 27-28 UZK-DA**: Aussetzung und Widerruf der AEO-Bewilligung.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Alle in der Bewilligung genannten Standorte und Prozesse unveraendert oder Aenderungen gemeldet?
+- [ ] Geschaeftsfuehrung, UBO und Haftungsverhaeltnisse ohne meldepflichtige Aenderung?
+- [ ] Solvenzanforderungen (Art. 26 UZK-DA) erneut geprueft?
+- [ ] IT- und Sicherheitskonzept dem aktuellen AEOS/AEOC-Standard entsprechend?
+- [ ] Interne Audits durchgefuehrt und dokumentiert?
+- [ ] Korrespondierende Behordenkommunikation mit Datum und Aktenzeichen abgelegt?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Meldepflicht nach Art. 23 Abs. 2 UZK-IA wird bei Unternehmensumstrukturierungen oft uebersehen.
+- AEO-Status wird nicht automatisch auf Tochtergesellschaften uebertragen; neuer Antrag noetig.
+- Versaumnisse bei regelmaessiger Selbstevaluation fuehren zu Aussetzungsverfahren.
+- Compliance-Luecken bei Subunternehmern im Sicherheitskonzept werden unterschaetzt.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Monitoring-Checkliste mit Bewertung jedes Kriteriums, Meldedokument an Hauptzollamt, Massnahmenplan mit Terminen und Verantwortlichen.
+
+## Quellen
+
+- [UZK Art. 38-39 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+- [Zoll.de AEO-Merkblatt](https://www.zoll.de/DE/Fachthemen/Zoelle/AEO/aeo_node.html)
+- [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)

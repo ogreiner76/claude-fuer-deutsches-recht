@@ -1,54 +1,88 @@
 ---
 name: aussenwirtschaft-asset-freeze-sofortmassnahmen
-description: "Vertiefter Skill fuer Asset Freeze Sofortmassnahmen. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument.'
 ---
 
-# Asset Freeze Sofortmassnahmen
+# Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermoegens
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Asset Freeze Sofortmassnahmen** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Bank stellt Sanktionstreffer bei Kontoinhaber fest; internes Compliance-Team fragt nach Sofortmassnahmen.
+- Notar beurkundet Immobilienkauf; Kaeufer erweist sich als UBO einer sanktionierten russischen Holdinggesellschaft.
+- Unternehmen erhalt Zahlungsauftrag von Gegenpartei, die neu auf EU-Sanktionsliste aufgenommen wurde.
 
-## Normfokus und Praxis (Asset Freeze)
-- Bei Treffer auf gelistete Person (EU-Sanktionsliste, z. B. Anh. I VO 269/2014 für RU oder VO 753/2011 für Afghanistan, KP-VO 1509/2020): Sofortige Einfrierung aller Gelder/wirtschaftlicher Ressourcen (Art. 2 Abs. 1 VO 269/2014 oder entsprechende). Bereitstellungsverbot Art. 2 Abs. 2 — auch keine mittelbare Zurverfügungstellung.
-- Meldepflichten: § 23 Abs. 2 AWG iVm § 19 AWV — Anzeige an Deutsche Bundesbank (Servicezentrum Finanzsanktionen, GS Sanctions Reporting) unverzüglich; bei finanzieller Sphäre auch BaFin/FIU informieren, falls AML-Trigger.
-- Eigentumstest 50 %+: Eigentum oder Kontrolle einer gelisteten Person — Best-Practice EU-Leitlinien (Anti-Circumvention Guidance) und Empfehlungen der EU-Kommission. Mehrstufige Beteiligungsketten und faktische Kontrolle (z. B. Stimmrechte, Aufsichtsrat) prüfen.
-- Strafbarkeit: § 18 AWG (Vorsatz, Freiheitsstrafe bis 5 Jahre, in schweren Fällen bis 10), § 19 AWG (Fahrlässigkeit, Geldbuße bis 500 000 Euro).
-- Praktiker-Tipp: Sofortmaßnahmen-Checkliste — 1. Konto sperren, 2. Bundesbank-Meldung (GS Sanctions Reporting Portal), 3. interne Sperrcode-Vergabe in ERP/Bankensystem, 4. Hold für Lieferketten/Verträge, 5. Counterparty-Information nur mit BMWK/BaFin-Genehmigung (Art. 6 VO 269/2014), 6. Antrag auf Freigabe (humanitär/vertraglich) bei Bundesbank/BAFA prüfen.
+## Erste Schritte
 
-## Startfragen
+1. Sanktionstreffer sofort dokumentieren: Name, Listennummer, Verordnung, Datum des Treffers.
+2. Gelder/wirtschaftliche Ressourcen einfrieren; keine Auszahlung, kein Transfer, keine Verrechnung.
+3. Zustaendige nationale Behoerde informieren: Bundesbank (Devisenbeschraenkungen), BaFin (Finanzsektor), BAFA (Gueter).
+4. Ggf. Freistellungs- oder Genehmigungsantrag vorbereiten (Art. 6 VO 269/2014: humanitaere Ausnahme).
+5. Rechtsbeistand einschalten; Haftungsrisiko der handelnden Personen absichern.
+6. Legal Hold fuer alle relevanten Unterlagen erteilen.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 2 VO (EU) 269/2014**: Bereitstellungsverbot und Einfrierungspflicht (Russland-Finanzsanktionen).
+- **Art. 4 VO (EU) 833/2014**: Sektorales Embargo und wirtschaftliche Ressourcen.
+- **Art. 11 VO (EU) 269/2014**: Meldepflicht bei eingefrorenen Geldern an Mitgliedstaaten.
+- **§ 18 AWG**: Strafbewehrte Bereitstellung sanktionierten Vermogens.
+- **§ 22 Abs. 4 AWG**: Freiwillige Selbstanzeige als Mildernungsmoeglichkeit.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] Trefferidentitaet eindeutig verifiziert (kein False Positive)?
+- [ ] Einfrierungsmassnahmen sofort und vollstaendig umgesetzt?
+- [ ] Zustaendige Behoerde (Bundesbank/BaFin/BAFA) rechtzeitig informiert?
+- [ ] Freistellungsantrag fuer genehmigte Transaktionen vorbereitet?
+- [ ] Legal Hold erteilt und Unterlagen gesichert?
+- [ ] Strafrecht-/Haftungsrisiko bewertet und Rechtsberatung eingeholt?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- 50/50-Regel bei Eigentum: Auch indirekt sanktionierten Gesellschaften muss eingefroren werden.
+- Einfrierung muss vollstaendig sein; Teilauszahlungen oder Verrechnung verstoessen gegen Bereitstellungsverbot.
+- Meldepflicht ist unverzueglich; Versaeumnis fuehrt zu eigenem Sanktionsrisiko.
+- Humanitaere Ausnahmen erfordern explizite Genehmigung; nicht eigenmaechtig handeln.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Einfrierungs-Protokoll mit Treffernachweis, Meldeschreiben an Bundesbank/BaFin/BAFA, Freistellungsantrag-Entwurf und Legal-Hold-Anweisung.
+
+## Quellen
+
+- [VO (EU) 269/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
+- [VO (EU) 833/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [Bundesbank Devisenbeschraenkungen](https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/finanzsanktionen)
+- [BAFA Aussenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)

@@ -1,110 +1,88 @@
 ---
 name: aussenwirtschaft-aml-kyc-sanktionen
-description: "Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Exporteur oder Haendler braucht integriertes AML- und Sanktions-Compliance-System für grenzüberschreitende Geschäfte. Normen GwG § 5 Risikoanalyse EU-Sanktionsverordnungen AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster GwG-Risikoanalyse wirtschaftlich Berechtigte KYC Sanktionsscreening Transaktionsmonitoring Schulungen Kontrollen. Output Integriertes Compliance-Handbuch mit Risikomatrix KYC-Prozess Screening-Protokoll und Schulungsplan. Abgrenzung zu aussenwirtschaft-sanktionen-embargos und geldwäsche-praevention-aml-kyc-Plugin."
+description: 'Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Pruefung von PEP-Status und Hochrisikoindikatoren. Output: KYC-Dossier mit Sanktionsabklaerungsvermerk und Eskalationspfad.'
 ---
 
-# AML, KYC und Sanktions-Compliance
+# AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill baut ein integriertes Kontrollsystem für internationale Geschäftsmodelle.
+- Bank erhalt Zahlungsauftrag aus UAE mit unklaren UBO-Angaben; Fragestellung Sanktions-Treffer moeglich?
+- Handelsunternehmen onboardet neuen Kunden aus der Tuerkei; interne KYC-Abteilung fordert enhanced due diligence.
+- Finanzdienstleister prueft, ob Russe mit Oligarchen-Nahbeziehung unter Art. 2 VO 269/2014 faellt.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Identifizierungspflicht ausloesen: Ist Geschaeftsbeziehung gemaess §§ 10 GwG begruendet?
+2. UBO-Ermittlung nach § 3 GwG und Art. 3 Nr. 6 4. EU-GwRL (AMLD4): Eigentums- und Kontrollstrukturen bis zum natuerllichen Endbeguenstigten aufloesen.
+3. Sanktionsscreening in konsolidierter EU-Finanzsanktionsliste (OFAC, UK-HMT optional ergaenzend).
+4. PEP-Status pruefen (§ 1 Abs. 12 GwG) und erweiterte Sorgfaltspflichten aktivieren.
+5. Risikobewertung nach geldwaescherechtlicher Risikoanalyse erstellen.
+6. Entscheidung: Kundenbeziehung freigeben, einschraenken oder ablehnen; Meldung an FIU pruefen.
+
+## Rechtsrahmen
+
+- **§§ 10-17 GwG**: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofaelle.
+- **Art. 2 VO (EU) 269/2014**: Bereitstellungsverbot fuer gelistete Personen/Unternehmen (Russland-Sanktionen).
+- **Art. 11 VO (EU) 269/2014**: Meldepflicht bei eingefrorenen Geldern.
+- **§ 43 GwG**: Verdachtsmeldepflicht an FIU.
+- **Zahlungsdiensteaufsichtsgesetz (ZAG)**: Erweiterter Anwendungsbereich fuer Zahlungsdienstleister.
+
+## Pruef-Raster
+
+- [ ] UBO vollstaendig und belegt ermittelt (25 %-Schwelle und Kontrollpruefung)?
+- [ ] Sanktionsscreening mit Trefferprotokoll durchgefuehrt?
+- [ ] PEP-Status und Hochrisikoindikatoren bewertet?
+- [ ] Abweichende/unklare Angaben des Kunden dokumentiert?
+- [ ] Risikoklasse korrekt eingestuft und Massnahmen angemessen?
+- [ ] Meldepflicht an FIU geprueft?
+
+## Typische Fallstricke
+
+- Indirektes Eigentum ueber Offshore-Strukturen wird unterschaetzt; nur direkte Anteilseigner pruefen reicht nicht.
+- 'Fuzzy Match' bei abweichender Schreibweise des Namens fuehrt zu Nichtentdeckung.
+- PEP-Status laeuft nach Amt-Ende weiter (mindestens 12 Monate); kein automatischer Wegfall.
+- Sanktions- und GwG-Pruefung werden organisatorisch getrennt durchgefuehrt und kommunizieren nicht.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+KYC-Dossier mit UBO-Mapping, Sanktions-Trefferlog, PEP-Klassifizierung, Risikoampel und Freigabe-/Ablehnungsvermerk.
 
-## Triage vor AML-/KYC-Sanktionspruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Handelt es sich um eine Neukunden-Onboarding-Pruefung, laufende Transaction-Monitoring-Auswertung oder retrospektiven Verdachtsfall?
-2. Welche Kundengruppe — juristischen Person mit UBO-Kette, PEP, Korrespondenzbank oder reine Privatkunde?
-3. Welche Sanktionslisten wurden bereits gescreent (EU, OFAC, UN, UK OFSI)?
-4. Liegt ein Sorgfaltspflichten-Treffer nach § 10 GwG (vereinfacht, standard, verstaerkt) vor?
-5. Wurde eine Verdachtsmeldung nach § 43 GwG bereits abgegeben oder ist sie erforderlich?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette AML/KYC/Sanktionen
-
-- §§ 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstaerkte
-- § 43 GwG — Verdachtsmeldepflicht an FIU
-- § 56 GwG — Bussgeldtatbestaende GwG, bis 1 Mio EUR
-- Art. 5-7 VO (EU) 833/2014 — Bereitstellungsverbot Finanzmittel Russland
-- FATF Recommendations 10, 15, 20 — Internationale Standards KYC/AML
-- 6. Geldwaesche-Richtlinie (EU) 2018/1673 — Strafbarkeit Geldwaesche
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: AML/KYC-Pruefungsvermerk
-
-**Adressat:** Compliance-Abteilung / Vorstand — **Tonfall:** dokumentationsintensiv, risikoorientiert
-
-```
-AML/KYC-PRUEFUNGSVERMERK
-Datum: [DATUM]
-Kunde/Entitaet: [NAME]  Typ: [Natuerliche Person / Jur. Person]
-Risikoklasse (GwG): [ ] Niedrig / [ ] Standard / [ ] Hoch / [ ] Sehr hoch (§ 15 GwG)
-Bearbeiter: [NAME]
-
-1. SANKTIONSSCREENING
-   Gescreente Listen: EU / OFAC SDN / UN SC / UK OFSI / Sonstige
-   Treffer: [ ] Kein Treffer / [ ] Treffer: [BEZEICHNUNG, Liste, Datum]
-   Bewertung: [ ] Echttreffer — Blockierung / [ ] False Positive — Freigabe
-
-2. KYC-SORGFALTSSTUFE
-   Anwendbare Sorgfaltsstufe: § [10/13/15] GwG — Begruendung: [...]
-   UBO identifiziert: [ ] Ja: [NAME, %-Anteil] / [ ] Nein — Abweichung begruendet
-
-3. PEP-CHECK
-   PEP-Status: [ ] Kein PEP / [ ] PEP — Position: [...]
-   Massnahme: [ ] Verstaerkte Pruefung — Ergebnis: [...]
-
-4. VERDACHTSMELDUNG
-   Verdacht nach § 43 GwG: [ ] Nein / [ ] Ja — Gemeldet an FIU am: [DATUM]
-
-5. ENTSCHEIDUNG
-   [ ] Geschaftsbeziehung freigegeben
-   [ ] Geschaftsbeziehung abgelehnt / beendet — Grundlage: § [GwG / AWG]
-   [ ] Erhoehte laufende Ueberwachung angeordnet
-```
+- [GwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/index.html)
+- [VO (EU) 269/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
+- [EU Finanzsanktionsliste (FSDB)](https://eeas.europa.eu/topics/sanctions-policy/8442/consolidated-list-sanctions_en)
+- [BaFin Merkblatt Geldwaeschegesetz](https://www.bafin.de/DE/Aufsicht/Geldwaeschebekaempfung/geldwaeschebekaempfung_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

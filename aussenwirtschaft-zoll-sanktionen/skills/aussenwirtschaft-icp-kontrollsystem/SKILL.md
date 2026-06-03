@@ -1,102 +1,88 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Entwurf und Haertung eines integrierten Compliance-Programms ICP für Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG § 22 Sorgfaltspflicht EU-Dual-Use-Verordnung Art. 9 internes Compliance-Programm EU-Sanktionsverordnungen Art. 15b. Prüfraster Rollen Kontrollen Schulungen Audit-Trail Screening-Integration Eskalationswege Dokumentation. Output ICP-Handbuch mit Prozessmatrix Rollenzuordnung Schulungsplan und Audit-Trail-Konzept. Abgrenzung zu aussenwirtschaft-aml-kyc-sanktionen und aussenwirtschaft-prüfung-ermittlung."
+description: 'Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schluessel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap-Analyse.'
 ---
 
-# Internal Compliance Program
+# Internal Compliance Programme (ICP): Aufbau und Gap-Analyse
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill macht Compliance praxistauglich: risikobasiert, prüffähig, verzeihend und schnell nutzbar.
+- Mittelstaendischer Exporteur muss ICP als Voraussetzung fuer Globalausfuhrgenehmigung nachweisen.
+- BAFA-Aussenpruefung beanstandet fehlendes ICP; Unternehmen hat 6 Monate zur Abhilfe.
+- Konzern integriert neue Akquisition; ICP-Standards muessen harmonisiert und ausgerollt werden.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. BAFA-ICP-Leitfaden und EU-Leitfaden Best Practices herunterladen und Pflicht-Elemente identifizieren.
+2. Ist-Stand des Unternehmens erheben: vorhandene Prozesse, Verantwortlichkeiten, IT-Systeme.
+3. Gap-Analyse durchfuehren: welche Pflicht-Elemente fehlen oder sind unvollstaendig?
+4. ICP-Handbuch-Gliederung erstellen mit allen 8 BAFA-Kernelementen.
+5. Ausfuhrverantwortlichen benennen und Stellvertreterregelung schaffen.
+6. Zeitplan fuer ICP-Implementierung und erste interne Revision festlegen.
+
+## Rechtsrahmen
+
+- **Art. 12 VO (EU) 2021/821**: ICP als Bedingung fuer globale Ausfuhrgenehmigungen.
+- **BAFA-Merkblatt ICP**: 8 Kernelement-Anforderungen des BAFA.
+- **§ 14 AWG**: Auskunftspflicht gegenueber BAFA (Pruefrelevanz ICP).
+- **AWV §§ 68 ff.**: Aufzeichnungspflichten im Ausfuhrverfahren.
+- **§ 130 OWiG**: Aufsichtspflichtverletzung bei fehlendem Compliance-System.
+
+## Pruef-Raster
+
+- [ ] Ausfuhrverantwortlicher schriftlich benannt und Stellvertreter geregelt?
+- [ ] Risikoanalyse dokumentiert und aktuell?
+- [ ] Screening-Prozess fuer Kunden und Endverwender beschrieben?
+- [ ] Schulungen fuer exportkontrollrelevante Mitarbeiter nachgewiesen?
+- [ ] Dokumentation und Archivierung nach AWV sichergestellt?
+- [ ] Internes Audit-Verfahren und Korrekturmassnahmenprozess etabliert?
+- [ ] Red-Flag-Eskalationsprozess definiert?
+
+## Typische Fallstricke
+
+- ICP auf Papier ohne gelebte Prozesse schutzt nicht bei BAFA-Aussenpruefung.
+- Ausfuhrverantwortlicher hat keine ausreichende Entscheidungsbefugnis; ICP-Wirkung entfallt.
+- Schulungsnachweis fehlt; Teilnahmelisten und Inhaltsdokumentation noetig.
+- ICP deckt Technologietransfer und Dienstleistungen nicht ab, nur Warenausfuhr.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+ICP-Handbuch-Gliederung nach BAFA-Standard, Gap-Analyse mit Priorisierung, Umsetzungsplan und Dokumentationsvorlagen fuer Screening und Entscheidungen.
 
-## Triage vor ICP-Systemaufbau oder -pruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Handelt es sich um erstmaligen Aufbau eines ICP (Internal Compliance Program) oder um ein Audit bestehender Strukturen?
-2. Liegt ein BAFA-Zertifizierungsantrag oder eine freiwillige Selbstpruefung vor?
-3. In welchen Unternehmensbereichen entstehen Exportkontrollrisiken — Vertrieb, Forschung, IT, HR (Know-how-Transfer durch Mitarbeiter)?
-4. Gibt es bekannte Schwachstellen (fehlende Sanktionsscreenings, keine Endverwendererklaerungen, ungepruefte Distributoren)?
-5. Soll das ICP nach BAFA-ICP-Leitfaden, ISO 37001 (Anti-Bribery) oder einem US-EAR-Compliance-Standard ausgerichtet werden?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette ICP/Exportkontroll-Compliance
-
-- Art. 20 VO (EU) 2021/821 — Berucksichtigung von Compliance-Massnahmen bei Genehmigungsentscheidungen
-- BAFA, ICP-Leitfaden (aktuelle Fassung) — Mindestanforderungen internes Kontrollprogramm
-- § 130 OWiG — Verletzung der Aufsichtspflicht bei Unternehmensorganisation
-- § 30 OWiG — Verbandsgeldbusse bis 10 Mio EUR
-- ISO 37001:2016 — Anti-Bribery Management System (best practice Parallele)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: ICP-Audit-Checkliste
-
-**Adressat:** Geschaftsfuhrung / Compliance-Beauftragter — **Tonfall:** systemprufend, lueckenorientiert
-
-```
-ICP-AUDIT-CHECKLISTE
-Datum: [DATUM]
-Unternehmen: [FIRMA]
-Pruefer: [NAME / extern]
-
-ICP-KERNELEMENT | VORHANDEN | MÄNGEL | MASSNAHME | FRIST
-----------------|-----------|--------|-----------|------
-1. Richtlinien (Exportkontroll-Policy) | [ ] Ja / [ ] Nein | [MANGEL] | [MASSNAHME] | [DATUM]
-2. Verantwortlichkeiten (Exportkontrollbeauftragter benannt) | [ ] | | |
-3. Guterklassifizierung (Prozess dokumentiert) | [ ] | | |
-4. Sanktionsscreening (Systeme, Frequenz) | [ ] | | |
-5. Endverwenderpruefung (EUE-Prozess) | [ ] | | |
-6. Aufzeichnungs- und Aufbewahrungspflicht (§§ 82 ff. AWV) | [ ] | | |
-7. Mitarbeiterschulung (regelmaessig, dokumentiert) | [ ] | | |
-8. Interne Kontrollen und Audits | [ ] | | |
-9. Verstoss-/Selbstanzeigeprotokoll | [ ] | | |
-10. BAFA-Kommunikationsprotokoll | [ ] | | |
-
-GESAMTBEWERTUNG: [ ] ICP BAFA-konform / [ ] Wesentliche Luecken — Massnahmen bis [DATUM]
-```
+- [BAFA ICP-Merkblatt](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Interne_Compliance/interne_compliance_node.html)
+- [EU Best Practice Guidelines ICP](https://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

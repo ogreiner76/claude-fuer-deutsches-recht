@@ -1,112 +1,87 @@
 ---
 name: aussenwirtschaft-zolltarif-vzta
-description: "Workflow-Skill zu aussenwirtschaft zolltarif vzta. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: 'Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungsanalyse und vZTA-Strategie.'
 ---
 
-# Zolltarif, TARIC und vZTA
+# Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill macht aus Produktbeschreibung, technischen Daten und Verwendungszweck eine zolltarifliche Prüfakte.
+- Importeur fragt ob Ursprungsland-Wechsel zu Praeferenzland Zollersparnis ermoeglicht.
+- Unternehmen nutzt autonome Zollaussetzung nach VO (EU) 2021/2267; Antrag stellen oder verlaengern.
+- Exporteur in Entwicklungsland fragt ob EU-APS-Praeferenz genutzt werden kann.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. TARIC-Abfrage: Zollsaetze Praeferenzregelungen Zollaussetzungen und Kontingente fuer HS-Code pruefen.
+2. APS/GSP-Berechtigung pruefen: Ist Ursprungsland beguenstigtes Land? GSP Basis EBA DFQF?
+3. Zollaussetzungen pruefen: Autonome Aussetzungen nach VO 2021/2267 fuer Industrierohstoffe.
+4. Praeferenzkalkulation: Regel des hinreichenden Umwands und spezifische Listenregeln pruefen.
+5. vZTA-Strategie: Bei Unsicherheit vZTA beantragen fuer Planungssicherheit.
+6. Zolltarif-Optimierungsanalyse: Vergleich verschiedener Einreihungsoptionen und Praeferenzoptimierung.
+
+## Rechtsrahmen
+
+- **VO (EWG) 2658/87 (KN-VO)**: Kombinierte Nomenklatur als EU-Zolltarif.
+- **VO (EU) 978/2012 (GSP-VO)**: Allgemeines Praeferenzsystem der EU.
+- **UZK Art. 33-37**: Verbindliche Zolltarifauskuenfte.
+- **VO (EU) 2021/2267**: Autonome Zollaussetzungen fuer bestimmte Industrieerzeugnisse.
+- **UZK Art. 56-58**: Zolltarif und Anwendung von Praeferenzregelungen.
+
+## Pruef-Raster
+
+- [ ] TARIC-Abfrage durchgefuehrt und alle Praeferenzen erfasst?
+- [ ] APS-Berechtigung des Ursprungslandes geprueft?
+- [ ] Zollaussetzungen auf Anwendbarkeit geprueft?
+- [ ] Praeferenzkalkulation durchgefuehrt?
+- [ ] vZTA-Strategie fuer Unsicherheitsfaelle bewertet?
+- [ ] Zolltarif-Optimierungspotenzial quantifiziert?
+
+## Typische Fallstricke
+
+- APS-Praeferenzen benoetigen korrekte Ursprungsnachweise; fehlende Dokumente kosten die Praeferenz.
+- Zollaussetzungen sind jedes Jahr neu zu beantragen und nicht automatisch.
+- Kumulierung von Praeferenzursprungsregeln zwischen Partnerlaendern komplex; Fehler kosten Praeferenz.
+- TARIC aktualisiert sich taeglich; Abfrage vor jeder Anmeldung empfohlen.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Zolltarif-Optimierungsanalyse mit Praeferenzvergleich, Zollaussetzungs-Kalender und vZTA-Antragsberatung.
 
-## Triage vor Zolltarifpruefung
+## Quellen
 
-Kläre vor der Tarifierung:
-
-1. Liegt eine technische Beschreibung, ein Datenblatt oder eine Materialanalyse der Ware vor?
-2. Gibt es eine bestehende KN-Nummer, eine fruehste Einstufung oder eine auslaendische Tarifauskunft?
-3. Soll eine verbindliche Zolltarifauskunft (vZTA) beantragt werden oder handelt es sich um interne Vorabpruefung?
-4. Sind Antidumping- oder Ausgleichsmassnahmen fuer die fragliche KN-Position bekannt?
-5. Gibt es Abweichungen zwischen EU-KN und HS-Nomenklatur auf 6-Steller-Ebene (WTO-Einheitlichkeit)?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Zolltarif/vZTA
-
-- Art. 33, 34 UZK — Verbindliche Zolltarifauskunft (vZTA), Gueltigkeit 3 Jahre
-- Anhang I Verordnung (EWG) 2658/87 — Kombinierte Nomenklatur (KN) mit Allgemeinen Vorschriften
-- TARIC-Datenbank (EUR-Lex) — KN-Unterpositionen, Antidumping, Zollaussetzungen
-- VO (EU) 952/2013 Art. 56 — Zollsaetze und zolltarifarische Einstufung
-- GZT (Gemeinsamer Zolltarif) i.V.m. HS-Erlauterungen (WZO)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Tarifierungsvermerk
-
-**Adressat:** Zollabteilung / Buchhaltung — **Tonfall:** technisch, nomenklatur-prazise
-
-```
-TARIFIERUNGSVERMERK
-Datum: [DATUM]
-Ware: [HANDELSBEZEICHNUNG]
-Technische Beschreibung: [KURZBESCHREIBUNG]
-Bearbeiter: [NAME]
-
-1. VORGESCHLAGENE EINREIHUNG
-   KN-Nr. (8-steller): [NUMMER]
-   TARIC-Code (10-steller): [NUMMER]
-   Kapitel / Position: [KAP.] / [POS.]
-   Begründung: Allgemeine Vorschrift Nr. [1/2/3a/3b/3c/4/5/6]
-   Angewandte KN-Erlauterung: [FUNDSTELLE ABl.]
-
-2. ZOLLSATZ
-   Drittlandzollsatz: [%]
-   Praferenzzollsatz (Abkommen [NAME]): [%]
-   Antidumping/Ausgleichszoll: [%] (VO (EU) [NR.])
-
-3. VZTA-STATUS
-   Bestehende vZTA: [ ] Nr. [NUMMER] gueltig bis [DATUM] / [ ] Keine
-   vZTA-Antrag empfohlen: [ ] Ja / [ ] Nein
-
-4. RISIKEN
-   Alternativposition: [KN-NR.] — Risiko: [BESCHREIBUNG]
-   Empfehlung: [vZTA / interne Dokumentation / Anwaltliches Opinion Letter]
-```
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 014:
--->
+- [TARIC-Datenbank EU-Kommission](https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp)
+- [VO (EU) 978/2012 (GSP) auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0978)
+- [UZK Art. 33 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Zolltarif](https://www.zoll.de/DE/Fachthemen/Zoelle/Zolltarif/zolltarif_node.html)

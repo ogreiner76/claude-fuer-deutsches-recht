@@ -1,123 +1,87 @@
 ---
 name: aussenwirtschaft-cbam-co2-zoll
-description: "Carbon Border Adjustment Mechanism CBAM CO2-Grenzausgleich für Einfuhren aus Drittlaendern. Anwendungsfall Unternehmen importiert CBAM-pflichtige Waren Stahl Aluminium Zement Duenger Strom und muss CBAM-Pflichten erfuellen. Normen EU-CBAM-Verordnung 2023/956 EU-ETS-Richtlinie 2003/87/EG Zollrecht UZK. Prüfraster CBAM-Waren Anmelderstatus Emissionsdaten Standardwerte Drittland-CO2-Preis Zertifikate Register Lieferantendaten Zollschnittstellen. Output CBAM-Prüfprotokoll mit Emissionsberechnung Zertifikatsbedarf und Meldungsplan. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-vub-einfuhr-ausfuhr."
+description: 'Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung.'
 ---
 
-# CBAM und CO2-Grenzausgleich
+# CBAM CO2-Zoll: Zertifikatspflicht und Kostenberechnung ab 2026
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill strukturiert CBAM-Pflichten seit dem definitiven Zeitraum und trennt harte Daten von Platzhaltern.
+- Stahlimporteur plant 2026 weiterhin grosse Mengen aus Nicht-EU-Laendern einzufuehren; CBAM-Kosten kalkulieren.
+- Aluminium-Importeur fragt, ob Vorleistungsemissionen in Drittland abgezogen werden koennen.
+- Elektrizitaetsimporteur aus Schweiz prueft CBAM-Relevanz nach Ende der Uebergangsphase.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. CBAM-pflichtige Waren nach Anhang I VO 2023/956 und KN-Code pruefen.
+2. Eingebettete Emissionen je Tonne Ware ermitteln (Lieferantendaten oder Standardwerte).
+3. Anzahl der erforderlichen CBAM-Zertifikate berechnen: Emissionen - angerechnetes Drittland-CO2-Preis.
+4. CBAM-Zertifikatspreis (CO2-Preis EU-ETS aktuell) fuer Kostenschaetzung ansetzen.
+5. CBAM-Konto als 'Declarant' beim nationalen Zustaendigkeitspunkt anlegen.
+6. Jaehrliche Zertifikatsabgabepflicht nach 31. Mai des Folgejahres einplanen.
+
+## Rechtsrahmen
+
+- **Art. 6-7 VO (EU) 2023/956**: CBAM-Zertifikate und Jahreserklarungspflicht.
+- **Art. 4-5 VO (EU) 2023/956**: Meldepflichten und Erklaerungspflichten ab 2026.
+- **Richtlinie 2003/87/EG (ETS-RL)**: EU-Emissionshandelssystem als Bezugssystem.
+- **UZK Art. 56**: CBAM-Abgaben als Teil des Zolltarifs.
+- **Art. 9 VO (EU) 2023/956**: Befreiungen fuer Laender mit vergleichbarem CO2-Preis.
+
+## Pruef-Raster
+
+- [ ] Alle CBAM-pflichtigen Waren und KN-Codes korrekt ermittelt?
+- [ ] Emissionsintensitaet vom Lieferanten dokumentiert?
+- [ ] CBAM-Konto als Declarant eingerichtet?
+- [ ] Anrechenbares Drittland-CO2-Preis ermittelt?
+- [ ] Kostenabschaetzung und Budget-Planung erstellt?
+- [ ] Jahrliche Abgabepflicht nach 31. Mai eingeplant?
+
+## Typische Fallstricke
+
+- Standardwerte koennen hoeher sein als tatsaechliche Emissionen; Lieferantendaten einholen.
+- CBAM und Antidumping/Safeguards sind kumulativ anwendbar; Gesamtkosten summieren.
+- Drittland-CO2-Preis muss tatsaechlich entrichtet worden sein; Scheinzahlungen nicht anerkannt.
+- CBAM-Zertifikatspreis schwankt mit EU-ETS; Kalkulation regelmaessig aktualisieren.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+CBAM-Kostenkalkulation mit Emissionsschema und Zertifikatsanzahl, Zertifikatspreis-Szenarioanalyse und Jahresplanung, Muster-Erklaerungsformular.
 
-## Triage vor CBAM-Pruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Handelt es sich um CBAM-Pflichtware — Zement, Aluminium, Duenger, Eisen/Stahl, Strom, Wasserstoff?
-2. Wer ist CBAM-Anmelder (zugelassener CBAM-Anmelder ab Definitivphase Pflicht; vorher EU-Importeur oder indirekter Zollvertreter)?
-3. Liegt ein Zertifikat einer akkreditierten Pruefstelle für die eingebetteten Emissionen des Drittlandsherstellers vor?
-4. Mengenrelevanz: Liegt die Einfuhr über der De-minimis-Schwelle von 50 Tonnen jährlich (ab Definitivphase 2026)?
-5. Besteht ein Karbonpreismechanismus im Ursprungsland, der auf CBAM-Abgaben angerechnet werden kann?
-
-## Aktualität CBAM Definitivphase
-
-Stand 05/2026:
-
-- **Definitivphase seit 01.01.2026:** Wer über 50 t/Jahr CBAM-pflichtige Waren einführt, muss Status "zugelassener CBAM-Anmelder" besitzen. Ca. 90 % der Importeure fallen damit aus dem Anwendungsbereich; ca. 99 % der grauen Emissionen werden weiterhin erfasst.
-- **Zollanmeldung:** Dokumentcode für Status (unter Schwelle / zugelassen / Antrag gestellt) bei Einfuhrzollanmeldung pflichtig.
-- **Zertifikatserwerb** ab 01.02.2027 möglich.
-- **Erste verbindliche CBAM-Erklärung:** Abgabe bis 30.09.2027 für alle CBAM-relevanten Einfuhren des Jahres 2026.
-- **Sanktionen:** Sanktionsmechanismus für nicht abgegebene/abgegebene Zertifikate bei verspäteter Erklärung — vor Mandantenberatung tagesaktuell über [taxation-customs.ec.europa.eu](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) und [zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Schutz-der-Umwelt/CO2-Grenzausgleichssystem-CBAM/co2-grenzausgleichssystem-cbam_node.html) verifizieren.
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-Rechtsprechung im Mandat live verifizieren über [curia.europa.eu](https://curia.europa.eu/) — keine Aktenzeichen aus Modellwissen.
-
-- VO (EU) 2023/956 (CBAM-Grundverordnung) — [EUR-Lex 32023R0956](https://eur-lex.europa.eu/eli/reg/2023/956/oj)
-- DurchführungsVO (EU) 2023/1773 — CBAM-Übergangszeitraum 2023-2025 — [EUR-Lex 32023R1773](https://eur-lex.europa.eu/eli/reg_impl/2023/1773/oj)
-- Folgeakte zur Definitivphase über EUR-Lex und EU-Kommissionsseite tagesaktuell prüfen.
-
-## Normen-Kette CBAM
-
-- VO (EU) 2023/956 — CBAM-Grundverordnung (Produkte, Berichtspflicht, Zertifikate ab 2026)
-- Durchfuehrungs-VO (EU) 2023/1773 — Ubergangszeitraum 2023-2025, Berichtsformat
-- Art. 14 VO (EU) 2023/956 — Emissionsverifizierung durch akkreditierte Pruefstelle
-- § 3 BEHG — Brennstoffemissionshandelsgesetz als nat. Karbonpreis (anrechenbar)
-- Art. 30 AEUV, Art. 110 AEUV — Verbot gleichwirkender Abgaben und diskriminierender Besteuerung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: CBAM-Berichtspruefung
-
-**Adressat:** Importeur / Nachhaltigkeitsbeauftragter — **Tonfall:** technisch-klimabezogen, normkonform
-
-```
-CBAM-PRUEFUNGSVERMERK
-Datum: [DATUM]
-Quartal/Jahr: [Q/YYYY]
-Importeur (CBAM-Anmelder): [FIRMA]
-Bearbeiter: [NAME]
-
-1. CBAM-PFLICHTIGE WAREN IM BERICHTSZEITRAUM
-   KN-Nr. | Bezeichnung | Ursprungsland | Menge [t] | Eingebettete Emissionen [tCO2e]
-   --------|-------------|--------------|-----------|--------------------------------
-   [NR.]   | [BEZ.]      | [LAND]       | [MENGE]   | [EMISSIONEN]
-
-2. EMISSIONSNACHWEIS
-   Pruefstelle akkreditiert: [ ] Ja (Bescheinigung anliegend) / [ ] Nein — Standardwert angewendet
-   Methode: [ ] Tatsaechliche Emissionen / [ ] Standardwert EU-Kommission
-
-3. KARBONPREIS-ANRECHNUNG
-   Karbonpreis im Ursprungsland: [LAND — Preis: EUR/tCO2e]
-   Anrechenbar gemaess Art. 9 VO 2023/956: [ ] Ja — Betrag: [EUR] / [ ] Nein
-
-4. BERICHTSSTATUS (UBERGANGSZEITRAUM 2023-2025)
-   Bericht eingereicht via CBAM-Meldeportal: [ ] Ja, am [DATUM] / [ ] Ausstehend, Frist: [DATUM]
-   Fehler/Korrekturbedarf: [ ] Nein / [ ] Ja: [Beschreibung]
-
-5. NAECHSTE SCHRITTE (AB 2026 VOLLPFLICHT)
-   - CBAM-Zertifikate kaufen: geschaetzter Bedarf [ANZAHL] Zertifikate a EUR [PREIS]
-   - Akkreditierte Pruefstelle beauftragen bis: [DATUM]
-```
+- [VO (EU) 2023/956 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
+- [EU-Kommission CBAM-Info](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
+- [ETS-Richtlinie 2003/87/EG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32003L0087)
+- [Zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Steuern/Einfuhrumsatzsteuer/cbam/cbam_node.html)

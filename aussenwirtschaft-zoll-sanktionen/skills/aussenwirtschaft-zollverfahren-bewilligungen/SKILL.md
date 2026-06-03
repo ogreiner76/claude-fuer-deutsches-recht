@@ -1,111 +1,87 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Zollverfahren und Bewilligungen im Union-Zollkodex für AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Prüfraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste für Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
+description: 'Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage.'
 ---
 
-# Zollverfahren, Bewilligungen und Vereinfachungen
+# Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill führt Unternehmen durch besondere Zollverfahren und Bewilligungsmanagement.
+- Produktionsunternehmen fragt welches Zollverfahren fuer Import von Vorprodukten mit Wiederausfuhr optimal ist.
+- Unternehmen hat Bewilligung fuer aktive Veredelung erhalten; wirtschaftliche Voraussetzungen nachweisen.
+- AEO-Inhaber fragt welche Verfahrenserleichterungen er bei Bewilligungsantrag nutzen kann.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Verwendungszweck der Ware klaren: Verarbeitung Lagerung Durchfuhr oder Endverwendung?
+2. Verfahren auswaehlen: Aktive Veredelung (Rueckaustausch) Zolllager Voruebergehende Verwendung oder Versand?
+3. Wirtschaftliche Voraussetzungen nach UZK Art. 211 Abs. 3 pruefen: EU-Produktionsinteressen nicht beeintraechtigt?
+4. Bewilligungsantrag in ATLAS-Antragsmodul vorbereiten; AEO-Status angeben.
+5. Buergschaft/Sicherheitsleistung kalkulieren und bei Zollbehoerde hinterlegen.
+6. Bewilligungsdokument prufen: Gueltigkeitsdauer Waren-Scope Mengendeckel und Abrechnungsfristen.
+
+## Rechtsrahmen
+
+- **UZK Art. 210-225**: Besondere Verfahren und Bewilligungsrahmen.
+- **UZK Art. 211**: Bewilligungsvoraussetzungen und wirtschaftliche Pruefung.
+- **UZK-DA Art. 161-184**: Detailregeln fuer besondere Verfahren.
+- **UZK Art. 38-41**: AEO-Zulassung und Erleichterungen.
+- **UZK-IA Art. 13-17**: AEO-Verfahrensvereinfachungen.
+
+## Pruef-Raster
+
+- [ ] Verwendungszweck klar und Verfahren optimal ausgewaehlt?
+- [ ] Wirtschaftliche Voraussetzungen nach Art. 211 Abs. 3 geprueft?
+- [ ] Bewilligungsantrag vollstaendig und korrekt ausgefuellt?
+- [ ] Sicherheitsleistung ausreichend und gueltig?
+- [ ] AEO-Status fuer Erleichterungen genutzt?
+- [ ] Bewilligungsdokument auf Scope und Fristen geprueft?
+
+## Typische Fallstricke
+
+- Wirtschaftliche Voraussetzungen muessen regelmaessig nachgewiesen werden; nicht nur bei Erstantrag.
+- Verfahren mischen (z.B. aktive Veredelung + Zolllager) ist moeglich aber erfordert separate Bewilligungen.
+- Abrechnung nach Ablauf der Bewilligungsfrist vergessen loest Zollschuld aus.
+- AEO-Status verloren: Erleichterungen enden automatisch; Bewilligung erneut prufen.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Verfahrens-Auswahlmatrix mit Kosten-Nutzen-Analyse, Bewilligungsantrag-Vorlage und Abrechnungskalender.
 
-## Triage vor Zollverfahrenspruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Welches Zollverfahren ist beantragt oder fehlerhaft angewendet worden (Ueberfuehrung in den freien Verkehr, Versand, Lagerung, aktive/passive Veredelung, voruebergehende Verwendung, Ausfuhr)?
-2. Liegt eine Zollbewilligung (AEO, Vereinfachung, Zugelassener Ausf.) vor oder wird sie beantragt?
-3. Gibt es einen Abgabenbescheid, eine Nacherhebung oder eine Pruefungsanordnung?
-4. Handelt es sich um Versandabgaben, Einfuhr-USt, Antidumping oder Praeferenzrecht?
-5. Ist die 3-Jahres-Festsetzungsfrist (Art. 103 UZK) oder die 10-Jahres-Frist bei Hinterziehung relevant?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Zollverfahren
-
-- Art. 77-112 UZK (VO (EU) 952/2013) — Entstehung Zollschuld, Nacherhebung, Verjaehrung
-- Art. 162-236 UZK — Besondere Zollverfahren (Lagerung, Veredelung, Versand)
-- Art. 38-41 UZK — AEO-Status (Zugelassener Wirtschaftsbeteiligter)
-- § 21 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer
-- §§ 370, 378 AO — Steuerhinterziehung / leichtfertige Steuerverk�rzung bei Zollabgaben
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Zollverfahrenspruefung
-
-**Adressat:** Zollbeauftragter / Steuerabteilung — **Tonfall:** verfahrenstechnisch, fristen-bewusst
-
-```
-ZOLLVERFAHRENS-PRUEFUNGSVERMERK
-Datum: [DATUM]
-Ware: [BEZEICHNUNG]  KN-Nr.: [NUMMER]
-Verfahren: [BEZEICHNUNG — z.B. aktive Veredelung Art. 256 UZK]
-Bearbeiter: [NAME]
-
-1. BEWILLIGUNGSSTATUS
-   AEO-Zertifikat: [ ] Vorhanden (Nr. [NUMMER]) / [ ] Nicht vorhanden
-   Relevante Bewilligung: [Art und Nummer]
-   Gueltigkeit bis: [DATUM]
-
-2. VERFAHRENS-COMPLIANCE
-   Fristerledigung Verfahren: [ ] Eingehalten / [ ] Ueberschritten
-   Ursprungsnachweise vollstaendig: [ ] Ja / [ ] Nein
-   Warenbeschreibung Anmeldung korrekt: [ ] Ja / [ ] Korrektur erforderlich
-
-3. ABGABENBERECHNUNG
-   Zollwert (Art. 70 UZK): [BETRAG EUR]
-   Zollsatz TARIC: [%]
-   Einfuhr-USt (§ 21 UStG): [BETRAG EUR]
-   Ggf. Antidumping/Ausgleichszoll: [BETRAG EUR]
-   Gesamt Abgaben: [BETRAG EUR]
-
-4. OFFENE RISIKEN / NACHERHEBUNG
-   [Beschreibung] — Rechtsgrundlage: [ART. UZK] — Betrag ca.: [EUR]
-
-5. NAECHSTE SCHRITTE
-   - [Schritt mit Frist]
-```
+- [UZK Art. 211 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Besondere Verfahren](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Besondere-Verfahren/besondere-verfahren_node.html)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+- [BAFA AEO](https://www.bafa.de/DE/Aussenwirtschaft/AEO/aeo_node.html)

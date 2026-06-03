@@ -1,47 +1,86 @@
 ---
 name: aussenwirtschaft-cbam-lieferantendaten-emissionen
-description: "Vertiefter Skill fuer CBAM Lieferantendaten Emissionen. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten fuer Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll.'
 ---
 
-# CBAM Lieferantendaten Emissionen
+# CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **CBAM Lieferantendaten Emissionen** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Importeur muss Lieferanten in Indien zur Emissionsoffenlegung auffordern; wie formulieren?
+- Hersteller in der Tuerkei liefert keine vollstaendigen Emissionsdaten; Standardwerte zwingend?
+- Mehrere Lieferanten fuer gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klaeren.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Emissionsdaten-Anforderungsschreiben an Drittland-Produzent auf Basis VO 2023/956 Anhang IV verfassen.
+2. Datenformat klaeren: direkte Emissionen (Scope 1) und indirekte (Strom), je Tonne Ware.
+3. Verifikation durch akkreditierten Prufer im Drittland oder EU anfordern.
+4. Empfangene Daten auf Plausibilitaet gegenueber Branchenstandards pruefen.
+5. Standardwerte der EU-Kommission als Fallback vorbereiten und Mehrkosten kalkulieren.
+6. Emissionsdaten in CBAM-Bericht und spaeter in CBAM-Erklaerung einarbeiten.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **Anhang IV VO (EU) 2023/956**: Methodik zur Berechnung eingebetteter Emissionen.
+- **Art. 10 VO (EU) 2023/956**: Verifizierungspflicht fuer Drittlandsanlagen.
+- **VO (EU) 2023/1773 Anhang IX**: Standardwerte bei fehlenden Anlagendaten.
+- **ISO 14064**: Internationale Norm fuer Treibhausgasmessungen als Referenz.
+- **Art. 35 Abs. 4 VO (EU) 2023/956**: Meldepflichten bei Unklarheit der Emissionsdaten.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Emissionsdaten-Anforderungsschreiben an Lieferanten versendet?
+- [ ] Direktemissionen (Scope 1) und Stromemissionen (Scope 2) separat ermittelt?
+- [ ] Verifikation durch akkreditierten Prufer angefordert?
+- [ ] Plausibilitaetspruefung gegenueber Branchenstandard durchgefuehrt?
+- [ ] Standardwerte als Fallback-Szenario berechnet?
+- [ ] Emissionsdaten sicher archiviert und versioniert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Fehlende Scope-2-Emissionen (indirekter Strom) fuehrt zu systematischer Unterbewertung.
+- Ohne akkreditierten Prufer werden Lieferantendaten in der Uebergangsphase moeglicherweise nicht anerkannt.
+- Standardwerte sind oft signifikant hoeher als reale Emissionen.
+- Produktionsprozessaenderungen beim Lieferanten erfordern Datenaktualisierung.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Lieferanten-Datenanforderungsschreiben, Emissionsverifikationsprotokoll, Standardwert-Vergleichstabelle und CBAM-Bericht-Datenstruktur.
+
+## Quellen
+
+- [VO (EU) 2023/956 Anhang IV auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
+- [VO (EU) 2023/1773 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1773)
+- [EU-Kommission CBAM-Leitlinien](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)

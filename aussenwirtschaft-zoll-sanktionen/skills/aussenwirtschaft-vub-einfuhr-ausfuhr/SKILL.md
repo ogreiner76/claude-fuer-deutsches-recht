@@ -1,114 +1,87 @@
 ---
 name: aussenwirtschaft-vub-einfuhr-ausfuhr
-description: "Verbote und Beschraenkungen VuB für besondere Waren wie Dual-Use Kulturgut CITES F-Gase Lebensmittel und Russland-Iranembargos. Anwendungsfall Import oder Export einer Ware koennte VuB-Beschraenkungen unterliegen. Normen CITES-Verordnung EU 338/97 F-Gas-Verordnung 517/2014 Iran-VO 267/2012 Russland-VO 833/2014 Kulturgutschutzgesetz. Prüfraster Dual-Use Kulturgut CITES F-Gase Veterinaeranforderungen Lebensmittelsicherheit Luxuswaren Iran-Nordkorea-Russland-Bezuege Dokumentencodes. Output VuB-Prüfbericht mit Warenklassifizierung Beschraenkungsnachweis und Genehmigungsplan. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta."
+description: 'Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan.'
 ---
 
-# Verbote und Beschränkungen bei Ein- und Ausfuhr
+# Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behoerdenkoordination
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill verbindet TARIC, Fachrecht und Zollanmeldung.
+- Importeur von Gewuerzen erhalt VuB-Sperrung in ATLAS; BLE-Genehmigung fehlt.
+- Exporteur von Antiquitaeten benötigt Kulturgut-Ausfuhrgenehmigung vor ATLAS-Abfertigung.
+- Pharmazeutischer Importeur muss Genehmigung nach BtMG und BAFA-Erfordernis koordinieren.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Warenklassifizierung: HS-/KN-Code und TARIC auf VuB-Eintraege pruefen.
+2. Relevante Behoerde identifizieren: BLE (Lebensmittel) BZSt (Drogen) BAFA (Dual-Use/Embargo) BMUV (Umwelt) Kulturbehoerde.
+3. Genehmigung/Lizenz bei zustaendiger Behoerde vor Zollanmeldung beantragen.
+4. ATLAS-Zollanmeldung: VuB-Code eintragen und Dokument-Referenz hinterlegen.
+5. Begleitdokumentation (CITES-Zertifikat BLE-Genehmigung etc.) bei Abfertigung vorlegen.
+6. Abfertigungszeitraum kalkulieren: VuB-Pruefungen verlaengern Zollabfertigung.
+
+## Rechtsrahmen
+
+- **UZK Art. 134**: Nichtpraefer enzielle Ursprungsregeln und Verbote.
+- **VO (EG) 338/97 (CITES-VO)**: Artenschutzregelungen beim Im-/Export.
+- **EG-Drogenvorstufen-VO 111/2005**: Einfuhrgenehmigungen fuer Praekursoren.
+- **§§ 1-5 KultSchG**: Kulturgutschutz bei Ausfuhr.
+- **BtMG §§ 3 ff.**: Betaeubungsmittelrecht bei Im- und Export.
+
+## Pruef-Raster
+
+- [ ] TARIC auf VuB-Eintraege fuer HS-Code geprueft?
+- [ ] Zustaendige Behoerde korrekt identifiziert?
+- [ ] Genehmigung/Lizenz vor Zollanmeldung beantragt und erhalten?
+- [ ] VuB-Code und Dokument-Referenz in ATLAS-Anmeldung eingetragen?
+- [ ] Begleitdokumentation vollstaendig bei Abfertigung vorhanden?
+- [ ] Zeitpuffer fuer VuB-Pruefung in Lieferplanung beruecksichtigt?
+
+## Typische Fallstricke
+
+- VuB-Genehmigung nach Zollanmeldung nicht mehr moeglich; Vorab-Beantragung Pflicht.
+- TARIC-VuB-Eintraege werden regelmaessig aktualisiert; Check vor jeder Sendung noetig.
+- Multiples VuB mehrerer Behoerden bei ein und derselben Ware moeglich.
+- Zeitverzug bei Behoerden-Genehmigungen kann Lieferketten erheblich stoeren.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+VuB-Pruefprotokoll mit Behoerdenidentifikation, Genehmigungs-Checkliste, ATLAS-Eintragungsanleitung und Lieferketten-Zeitplanung.
 
-## Triage vor Vorabentscheidungs-/VUB-Pruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Geht es um eine verbindliche Ursprungsauskunft (vUA), eine verbindliche Zolltarifauskunft (vZTA), oder ein anderes vorausgehend-bindendes Bescheidverfahren?
-2. Handelt es sich um Einfuhr- oder Ausfuhrverfahren, und liegt ein entsprechender Handels- oder Produktionsvorgang zugrunde?
-3. Besteht ein laufendes Hauptzollamt-Verfahren (Anmeldung, Pruefung, Nacherhebung)?
-4. Welche Waren-/Ursprungspruefung soll abgesichert werden — Praeferenz, Antidumping, Einfuhrpolitik?
-5. Gibt es zeitliche Dringlichkeit durch anstehende Lieferungen oder laufende Zollanmeldungen?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette VUB/Einfuhr-Ausfuhr
-
-- Art. 33-34 UZK — Verbindliche Zolltarifauskunft (vZTA), Gueltigkeit 3 Jahre
-- Art. 33-37 UZK — Verbindliche Ursprungsauskunft (vUA)
-- Art. 59-67 UZK — Praeferenzieller und nichtpraferentieller Ursprung
-- Art. 103 UZK — Verjaehrungsfrist Zollschuld (3 Jahre; 10 Jahre bei Hinterziehung)
-- Art. 9 UZK — Recht auf gerichtliche Ueberpruefung von Zollentscheidungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: VUB/Einfuhr-Ausfuhr-Antrag-Checkliste
-
-**Adressat:** Zollabteilung / Importeur — **Tonfall:** verfahrenstechnisch, fristenbewusst
-
-```
-VUB-ANTRAG-CHECKLISTE (vZTA / vUA)
-Datum: [DATUM]
-Antragsteller: [FIRMA]
-Zustaendiges Hauptzollamt: [HZA]
-Art des Antrags: [ ] vZTA / [ ] vUA
-
-1. ANTRAGSINHALTE
-   Ware: [HANDELSBESCHREIBUNG]
-   Technische Parameter: [SCHLUESSELDATEN]
-   Beantragte KN-Nr.: [VORSCHLAG] / Ursprung: [LAND]
-
-2. ANLAGEN
-   [ ] Detaillierte Warenbezeichnung
-   [ ] Technisches Datenblatt
-   [ ] Muster (sofern zumutbar)
-   [ ] Nachweis vorhandener Ursprungsdokumente (bei vUA)
-
-3. FRISTEN
-   Bearbeitungszeit Zollbehoerde: ca. [WOCHEN]
-   Erforderlicher vZTA-Beginn: [DATUM]
-   Erster Einfuhrtermin: [DATUM]
-   Risiko Verzoegerung: [ ] Gering / [ ] Relevant — Massnahme: [...]
-
-4. GUELTIGKEIT DES BESCHEIDS
-   vZTA: 3 Jahre ab Ausstellung (Art. 34 I UZK)
-   vUA: Unbefristet bis Widerruf (Art. 37 I UZK)
-   Nutzungspflicht: [ ] Ja, ab Ausstellung verpflichtend
-
-5. RECHTSBEHELF (FALLS ABLEHNUNG)
-   Einspruch bei ausstellender Behoerde: Frist [DATUM]
-   Klage: FG [STANDORT], Frist nach Einspruchsentscheidung
-```
+- [Zoll.de TARIC-Datenbank](https://www.zoll.de/DE/Fachthemen/Zoelle/Zolltarif/Taric/taric_node.html)
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [BAFA Ausfuhrkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

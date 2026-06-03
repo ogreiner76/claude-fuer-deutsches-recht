@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-voruebergehende-verwendung-ata-carnet
-description: "Vertiefter Skill fuer Voruebergehende Verwendung ATA Carnet. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuldentstehung. Output: ATA-Carnet-Antragsmappe und Verwendungsnachweis.'
 ---
 
-# Voruebergehende Verwendung ATA Carnet
+# Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Voruebergehende Verwendung ATA Carnet** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Messebauer transportiert Ausstellungsexponate nach Dubai; ATA-Carnet fuer Nicht-EU-Land beantragen.
+- Filmproduktion nimmt Kameraausruestung zum Drehen nach Kanada mit; ATA-Carnet Berufsausruestung.
+- Maschinenexporteur bringt Demonstrationsgeraet nach Japan; Zollabruf und Wiedereinf uehrung.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Bestimmungsland pruefen: ATA-Carnet-Partnerland (WCO-Mitglied) oder EU-Bewilligung voruebergehende Verwendung?
+2. Warenart pruefen: Messeware Berufsausruestung Transportmittel oder Ersatzteile?
+3. ATA-Carnet bei zustaendiger Handelskammer (IHK) beantragen; Buergschaftshoehe kalkulieren.
+4. Carnet vollstaendig ausfuellen; Warenliste mit HS-Codes Werten und Seriennummern.
+5. Ausreise: Carnet bei Abgangszollstelle abstempeln lassen.
+6. Wiedereinf uehrung innerhalb der Gueltigkeitsdauer; Gegenzeichnung bei Rieder eintrittszollstelle.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **UZK Art. 250-262**: Voruebergehende Verwendung als EU-Zollverfahren.
+- **Istanbul-Konvention (1990)**: Voelkerrechtliche Grundlage fuer ATA-Carnet-System.
+- **UZK-DA Art. 322 ff.**: Voraussetzungen fuer Bewilligung voruebergehende Verwendung.
+- **UZK Art. 79**: Zollschuldentstehung bei Nichtrueckfuehr.
+- **ATA-Convention Annex B.2 (Messe)**: Spezifische Regeln fuer Ausstellungsgueter.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Bestimmungsland ist ATA-Carnet-Partnerland?
+- [ ] Warenart unter ATA-Carnet-Anwendung?
+- [ ] Carnet vollstaendig und mit korrekten Warenbeschreibungen ausgefuellt?
+- [ ] Buergschaft gueltig und ausreichend?
+- [ ] Abgangszollstelle hat Carnet korrekt abgestempelt?
+- [ ] Rueckfuehrungsfrist eingehalten und Gegenzeichnung erhalten?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Rueckfuehrungsfrist versaeumt: Zollschuldentstehung und IHK haftet aus Buergschaft.
+- Warenveraenderung im Ausland (Reparatur) fuehrt zu Statusverlust voruebergehende Verwendung.
+- ATA-Carnet gilt nicht in der EU selbst; dort gelten EU-Zollverfahren.
+- Verlust des Carnets im Ausland: Notfallverfahren ueber IHK und WCO.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+ATA-Carnet-Antragsmappe mit Warenliste, Buergschaftsberechnung, Ausfuhr-/Einf uehrer-Abstempelungsanleitung und Wiedereinf uehrungsnachweis.
+
+## Quellen
+
+- [UZK Art. 250 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Voruebergehende Verwendung](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Besondere-Verfahren/Voruebergehende-Verwendung/voruebergehende-verwendung_node.html)
+- [DIHK ATA-Carnet](https://www.dihk.de/de/themen-und-positionen/internationales/zoll/ata-carnet)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)

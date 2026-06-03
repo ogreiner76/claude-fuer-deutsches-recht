@@ -1,47 +1,86 @@
 ---
 name: aussenwirtschaft-versandverfahren-ncts
-description: "Vertiefter Skill fuer Versandverfahren NCTS. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Output: Versandanmeldungs-Anleitung und Sicherheitsleistungs-Kalkulation.'
 ---
 
-# Versandverfahren NCTS
+# NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Versandverfahren NCTS** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Spediteur benoetigt T1-Anmeldung fuer Nicht-Unionsware durch Deutschland nach Polen.
+- AEO-Inhaber moechte Erleichterungen beim Versandverfahren (vereinfachte Verfahren zulassige Abgangsstelle) nutzen.
+- Transitpapier nicht bei Bestimmungsstelle vorgelegt; Zollschuldentstehung und Nacherhebung.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Versandverfahren-Typ bestimmen: T1 (Nicht-Unionsware) oder T2 (Unionsware auSSERhalb EU-Zollgebiet).
+2. Sicherheitsleistung kalkulieren: Art. 89 ff. UZK; Gesamtbuergschaft oder Einzelsicherheit.
+3. NCTS-Anmeldung bei Abgangsstelle; Felder Waren-Code Menge Wert Empfaenger Bestimmungsstelle.
+4. Transit-Begleitdokument (TAD) drucken und Sendung begleiten.
+5. Bestimmungsstelle: Warenankunft melden und Entladungsprotokoll erstellen.
+6. Freigabe in NCTS beantragen; Sicherheitsleistung freigeben nach Beendigung.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **UZK Art. 226-236**: Unionsversandverfahren T1 und T2.
+- **UZK-DA Art. 275-285**: Vereinfachungen fuer zugelassene Versender/Empfaenger.
+- **UZK Art. 89-100**: Sicherheitsleistung im Versandverfahren.
+- **UZK Art. 79**: Zollschuldentstehung bei nicht ordnungsgemaesser Erledigung.
+- **AEO-Leitlinien (TAXUD/B2/047/2011)**: AEO-Erleichterungen im Versandverfahren.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Versandverfahren-Typ (T1/T2) korrekt bestimmt?
+- [ ] Sicherheitsleistung ausreichend und gueltig?
+- [ ] NCTS-Anmeldung vollstaendig und korrekt?
+- [ ] TAD korrekt ausgedruckt und Sendung begleitend?
+- [ ] Bestimmungsstelle rechtzeitig angemeldet?
+- [ ] Freigabe in NCTS und Entlastung der Sicherheitsleistung bestaetigt?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Nicht-Vorlage bei Bestimmungsstelle loest automatische Mahnverfahren und Zollschuld aus.
+- Sicherheitsleistung bei haeufigen Sendungen schnell erschoepft; Monitoring noetig.
+- Vereinfachte Verfahren (zugelassener Versender) erfordern separate Bewilligung.
+- TIR-Carnets als Alternative haben andere Sicherheitsleistungsstruktur.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+NCTS-Versandanmeldungs-Anleitung, Sicherheitsleistungs-Kalkulator, Checkliste Bestimmungsstellen-Vorgang und Muster-Eskalationsprotokoll bei Transit-Nichtbeendigung.
+
+## Quellen
+
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Versandverfahren](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Versandverfahren/versandverfahren_node.html)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)

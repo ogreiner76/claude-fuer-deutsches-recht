@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-catch-all-pruefung
-description: "Vertiefter Skill fuer Catch-all-Pruefung bei kritischer Endverwendung, Militaerbezug oder Massenvernichtungswaffenrisiko. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung.'
 ---
 
-# Catch All Pruefung
+# Catch-All-Pruefung: Genehmigungspflicht fuer nicht-gelistete Gueter
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Catch-all-Pruefung bei kritischer Endverwendung, Militaerbezug oder Massenvernichtungswaffenrisiko** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Maschinenhersteller bekommt Hinweis, dass sein Industriekunde in Iran Gueter fuer Raketenprogramm einsetzt.
+- Exporteur empfaengt E-Mail mit ungewoehnlichen Anforderungen nach bestimmten technischen Spezifikationen.
+- Bank verweigert Akkreditiv und teilt mit, ein Regierungsbehorde habe Embargobezug signalisiert.
 
-## Normfokus und Praxis (Catch-all)
-- Kerngrundlagen: Art. 4 Dual-Use-VO (EU) 2021/821 (Catch-all für nicht gelistete Güter mit militärischer/MVW-Endverwendung), § 8 AWV (nationaler Catch-all bei drohendem Sicherheits-/Schadensrisiko), § 9 AWV (Catch-all für innere Repression). Auch Art. 5 (Catch-all Cyber-Surveillance) und Art. 10 (Genehmigungspflicht bei Kenntnis) der Dual-Use-VO beachten.
-- Auslösetatbestand: positive Kenntnis oder Unterrichtung durch BAFA — Unterrichtungsschreiben löst formelle Genehmigungspflicht aus. Auch konkrete Anhaltspunkte (Red Flags) können nach Art. 4 Abs. 2 Dual-Use-VO Pflicht zur Anfrage beim BAFA begründen.
-- Red Flags (BAFA-FAQ): militärische/staatliche Endverwender, ungewöhnliche Mengen, fehlende technische Begründung, Drittland mit Transit nach Embargostaat, fehlende Endverbleibserklärung, ungewöhnliche Zahlungswege, ungenaue Adresse.
-- Tatbestand "wissentliche" Beteiligung: § 18 Abs. 5 AWG iVm Art. 4 Dual-Use-VO — Strafbarkeit bei vorsätzlicher Verletzung; bei Fahrlässigkeit OWi nach § 19 AWG (Bußgeld bis 500 000 Euro).
-- Praktiker-Tipp: Bei Zweifel BAFA-Nullbescheid (AZG-Antrag) oder formloser Anfrage einholen — Antwort des BAFA bindet die Behörde nach Art der Verwaltungspraxis. Treffen Red Flags zu, sofort Hold auf Lieferung, Eingangsbestätigung dokumentieren; bei bereits erfolgter Ausfuhr Selbstanzeige (§ 22 Abs. 4 AWG) prüfen.
+## Erste Schritte
 
-## Startfragen
+1. Catch-All-Ausloeser bestimmen: positive Kenntnis (Art. 4 Abs. 1 VO 2021/821) oder Information durch BAFA (Art. 4 Abs. 2).
+2. Gueter und Technologie beschreiben; auch nicht-gelistete Gueter koennen betroffen sein.
+3. Endverwendungszweck und Endverwender ermitteln: militaer, WMD, Raketenprogramm, Embargoland?
+4. BAFA unverzueglich informieren falls Anhaltspunkte fuer kontrollpflichtige Endverwendung vorliegen.
+5. Lieferstopp (Stop-Ship) anordnen bis BAFA-Klaerung.
+6. Interne Dokumentation und Legal Hold fuer alle relevanten Unterlagen.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 4 VO (EU) 2021/821**: Catch-All-Genehmigungspflicht.
+- **Art. 4 Abs. 2 VO (EU) 2021/821**: BAFA-Informationspflicht und Informationswirkung.
+- **§ 18 AWG**: Strafbarkeit bei Ausfuhr ohne Genehmigung.
+- **§ 9 AWG**: Grundtatbestand des Genehmigungserfordernisses.
+- **Anhang I VO (EU) 2021/821**: Ausschuss-Regime und gelistete Gueter (Abgrenzung).
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] Positive Kenntnis oder BAFA-Hinweis vorhanden?
+- [ ] Endverwender und Endverwendung vollstaendig ermittelt?
+- [ ] WMD-/Militaer-/Embargoland-Nexus ausgeschlossen oder dokumentiert?
+- [ ] BAFA informiert falls Catch-All-Anhaltspunkte bestehen?
+- [ ] Stop-Ship-Massnahme bei Catch-All-Risiko ausgeloest?
+- [ ] Dokumentation und Legal Hold eingerichtet?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Catch-All greift auch ohne Listenpflichtigkeit; 'keine ECCN' heisst nicht automatisch keine Pflicht.
+- Positive Kenntnis reicht aus; keine Notwendigkeit bewussten Vorsatzes fuer Strafbarkeit.
+- BAFA-Hinweis per Schreiben oder Telefongespraech kann Genehmigungspflicht ausloesen.
+- Unterlassung der BAFA-Meldung bei Verdacht ist eigenstaendiger Straftatbestand.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Catch-All-Pruefungsvermerk mit Begruendung, BAFA-Meldungsschreiben falls erforderlich, Stop-Ship-Protokoll und Eskalationsentscheidung.
+
+## Quellen
+
+- [VO (EU) 2021/821 Art. 4 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [BAFA Catch-All](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

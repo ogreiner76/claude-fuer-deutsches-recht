@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-bafa-elan-k2-antragspaket
-description: "Vertiefter Skill fuer BAFA-ELAN-K2-Antrag mit Anlagen, technischer Beschreibung und Endverbleibsdokumenten. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket fuer BAFA-Genehmigungsantrag.'
 ---
 
-# BAFA Elan K2 Antragspaket
+# BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **BAFA-ELAN-K2-Antrag mit Anlagen, technischer Beschreibung und Endverbleibsdokumenten** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Maschinenbauunternehmen muss BAFA-Einzelgenehmigung fuer Lieferung von CNC-Maschinen nach Russland (vor Embargo) einholen.
+- Elektronikexporteur reicht Dual-Use-Genehmigungsantrag ein; BAFA fordert Nachbesserung der EUC.
+- Ruestungslieferant stellt Sammelgenehmigungsantrag fuer laufende Lieferbeziehung in NATO-Partnerland.
 
-## Normfokus und Praxis (ELAN-K2)
-- Rechtsrahmen: Antragsformulare im BAFA-Portal ELAN-K2 (Einzelausfuhrgenehmigung AG, Sammelgenehmigung SAG, allgemeine Genehmigung AGG, Nullbescheid AZG, Vorratsgenehmigung). Pflichtangaben aus AWV (§§ 11, 17 AWV) und Dual-Use-VO (EU) 2021/821.
-- Pflichtanlagen: technische Beschreibung mit Funktionsweise (kein Marketingtext), Datenblatt mit Spezifikationen zur Listenposition (AL/Dual-Use-Anhänge), Endverbleibsdokumente (EUC, IIC, BMWK-EUC bei sensiblen Empfängern), HS/KN-/AL-Code, Vertragsunterlagen, ggf. Kundenfragebogen, ICP-Erklärung.
-- Klassifizierungstiefe: Bei Dual-Use Position der Liste konkret (Kategorien 0–9), bei nationaler Liste (Teil I Abschn. A AL) inkl. Unterposition; bei Software/Technologie auch Klassifizierung Hard-/Software-Kombination dokumentieren.
-- Bearbeitungszeit BAFA: gesetzlich keine starre Frist, in der Praxis je nach Empfängerstaat und Güterart 4-12 Wochen; bei kritischen Destinationen interministerielle Beteiligung (BMWK, AA, BMVg). Nullbescheid (AZG) zur Klärung, ob Antrag erforderlich, ist häufig schneller.
-- Praktiker-Tipp: Antragspaket nicht als "Brain Dump" einreichen — strukturieren mit Inhaltsverzeichnis, Querverweise zwischen technischer Beschreibung und Klassifizierung, EUC unterschrieben im Original (Scan reicht in ELAN-K2). Bei Nachforderung des BAFA: Frist setzen lassen und vollständig nachliefern, sonst Antragsablehnung; bei Ablehnung Widerspruch (§ 35 AWG iVm § 70 VwGO).
+## Erste Schritte
 
-## Startfragen
+1. Gueterlisten-Code und einschlaeige Genehmigungsnorm (VO 2021/821 oder AWV) bestimmen.
+2. ELAN-K2-Systemzugang einrichten; Benutzerkonto und Vollmachten klaeren.
+3. Endverwendungserklaerung (EUC) vom Endverwender unterschrieben einholen und pruefen.
+4. Technische Spezifikation mit Gueterlisten-Referenz und Leistungsparametern aufbereiten.
+5. Lieferplan, Wert und Mengenangaben vollstaendig eintragen.
+6. Antrag vollstaendig auf Luecken pruefen; BAFA-Merkblatt Antragstellung als Checkliste nutzen.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 10 VO (EU) 2021/821**: Voraussetzungen der Einzelgenehmigung.
+- **AWV §§ 8-12**: Nationale Genehmigungsverfahren.
+- **BAFA-Merkblatt ELAN-K2**: Formale Antragsanforderungen.
+- **Art. 9 VO (EU) 2021/821**: ICP-Voraussetzungen als Antragsbestandteil.
+- **§ 18 AWG**: Strafbarkeit bei unerlaubter Ausfuhr ohne Genehmigung.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] Gueterlisten-Code eindeutig und korrekt?
+- [ ] EUC vollstaendig, unterschrieben und authentisch?
+- [ ] Technische Beschreibung mit Leistungsparametern vollstaendig?
+- [ ] Lieferplan mit Datum, Menge, Wert vollstaendig?
+- [ ] Antrag ohne Lueckenfelder eingereicht?
+- [ ] Begleitdokumente in ELAN-K2 hochgeladen?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Unvollstaendige EUC ist haeufigster Rueckweisungsgrund; Authentizitaet des Unterschreibers pruefen.
+- Technische Parameter nicht auf Listeneintrag abgestimmt; keine pauschale Beschreibung.
+- Sammelgenehmigungsantrag erfordert abweichende Formularwahl von Einzelantrag.
+- Lieferplan muss realistisch sein; spaetere Aenderungen erfordern Nachtrag.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Vollstaendiges Antragspaket: EUC-Vorlage, technische Beschreibungstemplate, ELAN-K2-Checkliste und Einreichungsprotokoll.
+
+## Quellen
+
+- [BAFA ELAN-K2 Portal](https://elan-k2.bafa.de)
+- [BAFA Ausfuhrkontrolle Genehmigungen](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
+- [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

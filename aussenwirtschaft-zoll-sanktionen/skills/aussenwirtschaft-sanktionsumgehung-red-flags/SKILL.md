@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-flags
-description: "Vertiefter Skill fuer Sanktionsumgehung Red Flags. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll.'
 ---
 
-# Sanktionsumgehung Red Flags
+# Sanktionsumgehung: Red Flags erkennen und bewerten
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Sanktionsumgehung Red Flags** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Bestellung von Dual-Use-Elektronik aus UAE in ungewoehnlich grosser Menge; aehnliche Bestellung vor 6 Monaten nach Russland.
+- Zahlungseingang ueber kasachischen Finanzintermediaer fuer Lieferung an tuerkisches Unternehmen.
+- Handelsvertreter schlaegt ungewoehnliche Lieferoute ueber Armenien vor; Preiszuschlag erklaert.
 
-## Normfokus und Praxis (Umgehung)
-- Rechtsgrundlage: Art. 12 VO 833/2014 (RU-Umgehungsverbot, "Wissentlich und vorsätzlich"), Art. 12a (Pflicht zu Compliance-Maßnahmen für EU-Unternehmen mit Tochterunternehmen in Drittstaaten), Art. 8a (Sorgfaltspflicht im Lieferweg). § 18 Abs. 5 AWG (Strafbarkeit Umgehung).
-- Typische Red Flags (BAFA, BMWK, OFAC, OFSI Common High Priority Items Liste): Bestellung über ungewöhnliche Drittländer (z. B. Türkei, VAE, Armenien, Kasachstan, Kirgisistan, Serbien, China für RU-bezogene Güter), neue Briefkastenfirmen, fehlende technische Begründung, ungewöhnliche Zahlungsstrukturen (Kryptowährung, Mehrfach-Splitting, Bar), Speditionswege mit Umladungen, Endverwender ohne Geschäftsmodell, plötzliche Bestellmengensteigerung, Lieferung an "Trade Hub"-Adressen.
-- Common High Priority Items: 9 HS-Kategorien (Mikroelektronik, GPS-Module, Lager, Maschinenwerkzeuge etc.) — bei Drittland-Transit besonders strenge KYC-Pflichten der EU-Kommission und BAFA-FAQ.
-- Sorgfaltspflichten: dokumentiertes End-User-Statement, IIC (International Import Certificate), Wedelverbot via Vertragsklauseln (No-Russia-Clause Art. 12g VO 833/2014), nach Lieferung Wieder­ausfuhrverbot überwachen.
-- Praktiker-Tipp: Bei zwei oder mehr Red Flags Hold-Status; vor Freigabe vertiefte Due-Diligence (Internet-Recherche Endverwender, Telefonkontakt mit Werk, Auszug aus Handelsregister Drittland, ggf. externe Dienstleister). Bei begründetem Verdacht Catch-all-Anfrage BAFA und ggf. freiwillige Offenlegung (§ 22 Abs. 4 AWG); strikte Aufzeichnung in Audit-Trail mit Owner/Zeitstempel.
+## Erste Schritte
 
-## Startfragen
+1. BAFA-Red-Flag-Liste und EU-Kommissions-Guidance zu Art. 12g VO 833/2014 konsultieren.
+2. Verdachtsausloeser systematisch durchgehen: Route, Preis, Menge, Zahlungsweg, Endverwender.
+3. Lieferlandanalyse: Transitlaender und Umgehungslaender-Risiko (UAE, Tuerkei, Kasachstan, Armenien).
+4. Voranfrage an Exporteur oder Zwischenhaendler mit spezifischen Red-Flag-Fragen.
+5. Quellenrecherche: Pressedatenbank, BAFA-Bekanntmachungen, US-Denied-Parties.
+6. Risikoprotokoll erstellen: Red Flags dokumentiert, Bewertung, Entscheidung.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 12 VO (EU) 833/2014**: Umgehungsverbot, Bereitstellungsverbot indirekt.
+- **Art. 12g VO (EU) 833/2014**: No-Russia-Clause; Sorgfaltspflicht bei Drittlandslieferung.
+- **AWG § 18**: Leichtfertigkeit als Strafbarkeitsmassstab.
+- **Art. 4 VO (EU) 2021/821**: Catch-All wenn Umgehungsabsicht bekannt.
+- **§ 130 OWiG**: Aufsichtspflichtverletzung bei unterlassenem Red-Flag-Screening.**
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] BAFA-Red-Flags-Liste systematisch durchgegangen?
+- [ ] Lieferkette auf Umgehungslaender geprueft?
+- [ ] Zahlungsweg auf Auffaelligkeiten analysiert?
+- [ ] Menge und Preis auf Abweichungen vom Marktstandard geprueft?
+- [ ] Voranfrage an Handelspartner gestellt und dokumentiert?
+- [ ] Risikoprotokoll mit Entscheidung archiviert?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Einzelne Red Flags koennen harmlos sein; Gesamtbild ist entscheidend.
+- Spaeteres 'Nichtwissen wollen' bei offensichtlichen Red Flags reicht fuer Leichtfertigkeits-Strafbarkeit.
+- Zwischenhaendler in Umgehungslaendern muessen nicht bos handelnd sein; aber Sorgfaltsmassnahmen zwingend.
+- No-Russia-Clause im Vertrag genuegt nicht; aktives Monitoring der Compliance noetig.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Red-Flags-Checkliste nach BAFA-Standard, Risikoprotokoll, Voranfrage-Schreiben an Handelspartner und Entscheidungsvermerk.
+
+## Quellen
+
+- [BAFA Red-Flags-Merkblatt](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
+- [VO (EU) 833/2014 Art. 12g auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
+- [EU-Kommissions-Guidance Umgehung](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/sanctions-policy-and-legal-framework_en)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-chemikalien-reach-pic
-description: "Vertiefter Skill fuer Chemikalien Reach Pic. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote fuer nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben.'
 ---
 
-# Chemikalien Reach Pic
+# REACH und PIC: Chemikalien-Compliance im Aussenhandel
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Chemikalien Reach Pic** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Chemie-Exporteur moechte bestimmte Pflanzenschutzmittel in Drittlaender ausliefern; PIC-Meldung klaeren.
+- Importeur von Industriechemikalien fragt nach REACH-Registrierungspflicht fuer den EU-Markt.
+- Lagerhalter erhaelt Zollruecklage wegen fehlender Sicherheitsdatenblatt-Dokumentation.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Stoff identifizieren: REACH-Registrierung geprueft (ECHA-Datenbank) und SDS vorliegt?
+2. PIC-Pflicht nach VO 649/2012 pruefen: Stoff in Anhang I (verbotene Stoffe) oder Anhang V?
+3. Vorab-Benachrichtigungsverfahren (DNS) bei ECHA einleiten falls PIC-pflichtig.
+4. Import: Registrierung und Sicherheitsdatenblatt-Pflicht bei Importen ueber 1 Tonne.
+5. Export: Exportbenachrichtigung an ECHA und Einwilligung des Importlandes einholen.
+6. ECHA-Dokumentation archivieren; Zollabfertigung mit PIC-Konformitaetsnachweis unterstuetzen.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **VO (EG) 1907/2006 (REACH)**: Registrierung, Bewertung, Zulassung und Beschraenkung.
+- **VO (EU) 649/2012 (PIC)**: Verfahren der vorherigen Zustimmung bei bestimmten Chemikalien.
+- **Art. 56-67 VO 1907/2006**: Zulassungspflicht und Export-Einschraenkungen.
+- **CLP-VO (EG) 1272/2008**: Einstufung, Kennzeichnung, Verpackung.
+- **§ 6 ChemVerbotsV**: Nationale Chemikalienverbote.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Stoff in ECHA-REACH-Datenbank registriert?
+- [ ] PIC-Anhang I oder V-Listencheck durchgefuehrt?
+- [ ] Sicherheitsdatenblatt (SDS) aktuell und korrekt?
+- [ ] Exportbenachrichtigung an ECHA durchgefuehrt?
+- [ ] Einwilligung des Importlandes nachgewiesen?
+- [ ] Zolldokumentation mit PIC-Konformitaetsnachweis vollstaendig?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- PIC-Verfahren dauert Monate; Liefertermine muessen eingeplant werden.
+- Fehlende SDS-Dokumentation fuehrt zu Zollruecklage; nicht nachreichbar ohne Neulieferung.
+- REACH-Registrierung verfaellt bei Jahres-Mengenunterschreitung.
+- Weiterverkauf registrierter Stoffe in EU erfordert eigene Downstream-User-Pflichten.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+REACH/PIC-Compliance-Checkliste, Exportbenachrichtigungsschreiben an ECHA, SDS-Pruef-Protokoll und Zolldokumentationstemplate.
+
+## Quellen
+
+- [VO (EG) 1907/2006 REACH auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1907)
+- [VO (EU) 649/2012 PIC auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0649)
+- [ECHA REACH-Datenbank](https://echa.europa.eu/de/information-on-chemicals)
+- [Zoll.de Gefahrgut Chemikalien](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Chemikalien/chemikalien_node.html)

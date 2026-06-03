@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-allgemeingenehmigung-agg-finder
-description: "Vertiefter Skill fuer Allgemeingenehmigung Agg Finder. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen.'
 ---
 
-# Allgemeingenehmigung Agg Finder
+# Allgemeine Genehmigungen: Finder und Nutzungsbedingungen fuer Exportkontrolle
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Allgemeingenehmigung Agg Finder** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Maschinenhersteller moechte Ersatzteile in USA liefern; Frage ob EU001 (NATO) anwendbar.
+- Elektroniklieferant fragt, ob EU007 (Forschung und Entwicklung) fuer Technologielieferung in die Schweiz gilt.
+- KMU prueft, ob nationale AGG 29 fuer Lieferung bestimmter Gueter nach Israel nutzbar ist.
 
-## Normfokus und Praxis (Allgemeingenehmigungen)
-- Zwei Schienen: EU-Allgemeingenehmigungen (EU001-EU008, Anh. II Dual-Use-VO 2021/821) und nationale Allgemeingenehmigungen (AGG; nach § 8 Abs. 1 AWG iVm AWV, von BAFA veröffentlicht). Beide setzen Listengüter und qualifizierte Empfängerstaaten/-typen voraus.
-- EU001 (Ausfuhr in privilegierte Empfängerländer USA, CA, JP, AU, NZ, NO, CH, UK), EU002 (Ausfuhr bestimmter Dual-Use nach mehreren Staaten), EU003 (Wiederausfuhr nach Reparatur), EU004 (vorübergehende Ausfuhr für Messen), EU005 (Telekommunikation), EU006 (Chemikalien), EU007 (konzerninterner Software-/Technologietransfer), EU008 (verschlüsselungsbezogene Software).
-- Pflicht zur Registrierung: vor erstmaliger Nutzung beim BAFA registrieren (§ 8 Abs. 2 AWV iVm jeweiliger AGG). Dokumentations- und Meldepflichten der jeweiligen Allgemeingenehmigung beachten — meist Jahresmeldung bis Ende Januar des Folgejahres.
-- Ausschlussgründe: kritische Endverwendung (Catch-all Art. 4 Dual-Use-VO), Embargos, gelistete Empfänger; bei Unterrichtung durch BAFA Sperre der Nutzung.
-- Praktiker-Tipp: Vor Nutzung Eignung der AGG für konkrete Ware/Land prüfen — bei Zweifel Nullbescheid (AZG) oder Einzelantrag (AG). Sammelgenehmigung (SAG) kommt bei wiederkehrenden Vorgängen mit gleichem Profil in Betracht. Jede Nutzung mit Rechnung, EUC und Verweis auf AGG dokumentieren — Audit-Trail vorhalten.
+## Erste Schritte
 
-## Startfragen
+1. Gueterlistenklassifizierung feststellen (Anhang I VO 2021/821, ECCN, Dual-Use-Code).
+2. Zielland und Endverwender (Regierung, Zivil, Militaer) bestimmen.
+3. Alle EU-Allgemeingenehmigungen EU001-EU009 systematisch durchpruefen.
+4. Nationale Allgemeingenehmigungen (AWV) fuer nicht von EU-Regelung erfasste Faelle pruefen.
+5. Bedingungen der anwendbaren AGG pruefen: Ausschluesse, Exporteurdokumentation, Registrierung.
+6. Registrierungspflicht beim BAFA beachten und Nutzungslog anlegen.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 12 VO (EU) 2021/821**: Rahmenbedingungen EU-Allgemeingenehmigungen (EU001-EU009).
+- **Anhang II VO (EU) 2021/821**: Texte der einzelnen EU-Ausfuhrgenehmigungen.
+- **§§ 2, 8 AWG**: Genehmigungstatbestand und Ausnahmen fuer genehmigte Ausfuhr.
+- **§§ 8 ff. AWV**: Nationale Allgemeingenehmigungen.
+- **BAFA-Merkblatt Allgemeine Genehmigungen**: Anwendungshinweise.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] Gueterlistencode vollstaendig ermittelt?
+- [ ] Zielland-Ausschlusslisten jeder AGG einzeln geprueft?
+- [ ] Endverwender-Einschraenkungen der AGG (kein Militaer, keine WMD-Nutzung) geprueft?
+- [ ] Registrierungspflicht beim BAFA beachtet?
+- [ ] Nachweisdokumentation fuer Compliance-Zwecke angelegt?
+- [ ] AGG-Nutzung im Export-Management-System vermerkt?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- EU-Allgemeingenehmigungen schliessen bestimmte Laender explizit aus; Ausschlusslisten aktuell pruefen.
+- Registrierungspflicht bei EU002/EU003 wird oft vergessen.
+- AGG deckt keine Embargosituationen ab; vorrangige Embargopruefen erforderlich.
+- Nationale AWV-AGGs koennen durch spaeteres EU-Recht ueberholt sein.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+AGG-Zuordnungsvermerk mit anwendbarer Genehmigung, Nutzungsbedingungen, Ausschlussliste und Nachweis-Template fuer Compliance-Ordner.
+
+## Quellen
+
+- [VO (EU) 2021/821 mit Anhang II auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [BAFA Allgemeine Genehmigungen](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Allgemeine_Genehmigungen/allgemeine_genehmigungen_node.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

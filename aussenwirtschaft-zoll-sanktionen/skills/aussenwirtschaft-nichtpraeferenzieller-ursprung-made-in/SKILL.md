@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in
-description: "Vertiefter Skill fuer Nichtpraeferenzieller Ursprung Made In. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt.'
 ---
 
-# Nichtpraeferenzieller Ursprung Made In
+# Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Nichtpraeferenzieller Ursprung Made In** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Maschinenbauer assembliert in Deutschland Teile aus China; 'Made in Germany' korrekt verwendbar?
+- Antidumping-Massnahmen auf Ware aus China; Ursprung nach Zusammenbau in Polen wird geprueft.
+- Exporteur verwendet 'Made in EU' Kennzeichnung; Ursprungsberechnung fuer UZK-Zwecke geprueft.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. HS-Code der Fertigware bestimmen.
+2. Ursprungsregel fuer den HS-Code nach UZK-DA Anhang 22-01 ermitteln (HS-Wechsel oder Wertschwell).
+3. Wertschwell-Berechnung wenn Wertkriterium anwendbar (Nicht-Ursprungsmaterialienanteil am EXW-Preis).
+4. Letzte wesentliche Bearbeitung oder Verarbeitung feststellen.
+5. 'Made in Germany' Zulassigkeit pruefen: Kernprozess und wesentliche Teile in Deutschland.
+6. Ursprungsgutachten mit HS-Code-Wechsel-Dokumentation oder Wertschwell-Berechnung erstellen.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **UZK Art. 59-61**: Nichtpraeferenzieller Ursprung, Definition und Kriterien.
+- **UZK-DA Art. 31-36**: Bearbeitungs- und Verarbeitungsregeln fuer nichtpraeferenziellen Ursprung.
+- **UZK-DA Anhang 22-01**: Listenregeln HS-Code-Wechsel fuer nichtpraeferenziellen Ursprung.
+- **VO (EG) 1215/2009**: Antidumping-Ursprungsregeln (Referenz).
+- **UWG § 5**: Irrefuehrende 'Made in'-Angaben als Wettbewerbsverstoß.**
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] HS-Code der Fertigware eindeutig bestimmt?
+- [ ] Ursprungsregel nach UZK-DA Anhang 22-01 fuer HS-Code abgerufen?
+- [ ] HS-Wechsel-Anforderung bei allen Nicht-Ursprungsmaterialien geprueft?
+- [ ] Wertschwell-Berechnung mit EXW-Preis und Nicht-Ursprungsmaterialienwert?
+- [ ] 'Made in'-Bezeichnung wettbewerbsrechtlich zulassig?
+- [ ] Ursprungsgutachten vollstaendig und archiviert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Einfaches Assemblieren von Fertigteilen (Minimal Operations) verleiht keinen Ursprung.
+- HS-Wechsel muss fuer ALLE Nicht-Ursprungsmaterialien erfolgen, nicht nur die wichtigsten.
+- 'Made in Germany' ist gesetzlich nicht definiert; Irrefuehrungs-Risiko nach UWG.
+- Antidumping-Umgehung durch Ursprungsverlagerung loest erhoehte Zollpruefung aus.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Ursprungsgutachten mit HS-Code-Analyse, Listenregelnachweis, Wertschwell-Berechnung und Empfehlung zur 'Made in'-Kennzeichnung.
+
+## Quellen
+
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [UZK-DA Anhang 22-01](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+- [Zoll.de Ursprung](https://www.zoll.de/DE/Fachthemen/Zoelle/Ursprung-Praeferenzen/ursprung-praeferenzen_node.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

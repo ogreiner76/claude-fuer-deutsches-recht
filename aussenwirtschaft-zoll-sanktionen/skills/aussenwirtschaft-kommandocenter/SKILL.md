@@ -1,109 +1,87 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Kommandocenter für alle Aussenhandels- Zoll- Sanktions- CBAM- und Ermittlungsmandate vom Intake bis zum Handlungsvorschlag. Anwendungsfall Anwalt oder Compliance-Beauftragter will grenzüberschreitendes Mandat schnell triagieren. Normen AWG AWV UZK EU-Sanktionsverordnungen CBAM-Verordnung GwG. Prüfraster Sachgebiet Mandantenrolle Fristen Eskalationsbedarf Zuständigkeit. Output Routing-Ergebnis mit Statusampel Handlungspriorisierung und Weiterleitung zum passenden Skill. Abgrenzung zu aussenwirtschaft-icp-kontrollsystem und aussenwirtschaft-prüfung-ermittlung."
+description: 'Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan.'
 ---
 
-# Außenwirtschaft-Kommandocenter
+# Kommandocenter Aussenwirtschaft: Mehrfach-Sachverhalts-Steuerung
 
-## Zweck
+## Mandantenfall
 
-Nutze diesen Skill als Einstieg für jedes Mandat mit Export, Import, Dienstleistungen, Software, Technologie, Zahlungen, Zoll, Sanktionen, CBAM, Prüfung oder Ermittlungsdruck.
+- Konzern hat gleichzeitig laufende BAFA-Pruefung, Russland-Sanktionsfall, CBAM-Implementierung und AEO-Verlaengerung.
+- Kanzlei betreut drei Mandanten gleichzeitig mit Zollpruefungen und einer internen Exportkontroll-Investigation.
+- Compliance-Abteilung muss Jahresbericht, Neukunden-KYC-Backlog und Systemmigration gleichzeitig bewaltigen.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Alle offenen Aussenwirtschafts-Sachverhalte mit Status, Fristen und Zustaendigkeit erfassen.
+2. Prioritaetenbewertung: Strafrisiko, Fristen, Geldwert, Reputationsschaden.
+3. Ressourcen zuordnen: externe Berater, interne Experten, IT-Kapazitaet.
+4. Kritische-Pfad-Analyse fuer zeitkritische Verfahren.
+5. Eskalationsprozess und Berichtslinien fuer Geschaeftsfuehrung definieren.
+6. Woechentliche Statusuebersicht und Fristen-Dashboard einrichten.
+
+## Rechtsrahmen
+
+- **AWG § 14**: Auskunftspflichten mit Fristen gegenueber Behoerden.
+- **UZK Art. 22**: Bescheidfrist bei Bewilligungsantraegen.
+- **AWV § 61**: Meldefristen AWV-Zahlungsmeldungen.
+- **BAFA-Verfahrensordnung**: Bearbeitungsfristen fuer Genehmigungsantraege.
+- **§ 130 OWiG**: Organisationspflichtverletzung als Bussgelstatbestand.
+
+## Pruef-Raster
+
+- [ ] Alle offenen Sachverhalte vollstaendig erfasst?
+- [ ] Fristen fuer Behoerdenverfahren identifiziert und im Kalender eingetragen?
+- [ ] Prioritaetenbewertung nach Risikokategorien durchgefuehrt?
+- [ ] Ressourcenzuordnung realistisch und bestaetigt?
+- [ ] Eskalationsweg zur Geschaeftsfuehrung definiert?
+- [ ] Statusreporting-Format und Rhythmus festgelegt?
+
+## Typische Fallstricke
+
+- Behordliche Fristen werden unter Last von Parallelverfahren verpasst.
+- Niedrig priorisierte Sachverhalte akkumulieren sich zu Krisenfall.
+- Externe Berater haben keine Gesamtsicht; Koordinationsfehler.
+- BAFA- und Zollfristen laufen unabhaengig voneinander; kein zentrales Fristenmanagement.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Sachverhalts-Priorisierungsmatrix, Ressourcen- und Fristenplan, Eskalations-Regelwerk und Wochen-Dashboard-Vorlage.
 
-## Triage vor Mandatseinstieg
+## Quellen
 
-Kläre vor dem ersten Schritt:
-
-1. Liegt eine laufende Behördenmassnahme vor (BAFA-Pruefung, Zollbescheid, Ermittlungsverfahren) oder eine praeventive Beratungsanfrage?
-2. Welche Jurisdiktionen sind berührt — EU-Sanktionen, US-OFAC, UN, nationale Aussenwirtschaftsregeln?
-3. Handelt es sich um Waren, Software, Technologie, Dienstleistungen oder Finanzierungen?
-4. Liegt eine aktuelle KN/HS-Tarifnummer, Güterlistenposition oder technische Spezifikation vor?
-5. Gibt es bereits eine Selbstanzeige, einen Auskunftsbescheid oder eine Fristvorgabe?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Aussenwirtschaft
-
-- §§ 1, 4, 18, 19 AWG — Grundsaetze, Verbote, Straftatbestaende Aussenwirtschaft
-- §§ 74 ff. AWV — Anmeldepflichten und Allgemeine Genehmigungen
-- Art. 3-9 VO (EU) 2021/821 — Dual-Use-Genehmigungspflichten (Neufassung)
-- Art. 2 VO (EU) 833/2014 (konsolidiert) — Russland-Sektorsanktionen
-- § 370 AO — Steuerhinterziehung bei Einfuhrabgabenhinterziehung
-- Art. 42, 83 UZK (VO (EU) 952/2013) — Zollsanktionen und Geldbussen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Aussenwirtschaft-Kurzlage
-
-**Adressat:** Mandant/Compliance — **Tonfall:** sachlich, risikofokussiert
-
-```
-AUSSENWIRTSCHAFT-KURZLAGE
-Datum: [DATUM]
-Mandat: [BEZEICHNUNG]
-Bearbeiter: [NAME]
-
-1. TRANSAKTIONSPROFIL
-   Ware/Technologie: [BEZEICHNUNG] — KN/TARIC: [NUMMER]
-   Export/Import-Land: [LAND]
-   Endverwender: [NAME / UNBEKANNT]
-
-2. AMPEL-GESAMTBEWERTUNG
-   Sanktionen:         GRUEN / GELB / ROT
-   Exportkontrolle:    GRUEN / GELB / ROT
-   Zoll/Praeferenz:    GRUEN / GELB / ROT
-
-3. KRITISCHE BEFUNDE
-   [Befund 1]: [Risiko] — Empfehlung: [...]
-
-4. SOFORTMASSNAHMEN
-   [ ] Stop-Ship / Stop-Pay angeordnet? Ja / Nein
-   [ ] Legal Hold eingeleitet?
-   [ ] BAFA / Zoll informiert? (nur wenn Pflicht besteht)
-
-5. NAECHSTE SCHRITTE
-   - [Schritt mit Frist und Verantwortlichem]
-```
+- [BAFA Aussenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [Zoll.de](https://www.zoll.de/DE/Home/home_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

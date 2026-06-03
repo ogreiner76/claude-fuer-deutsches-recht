@@ -1,47 +1,86 @@
 ---
 name: aussenwirtschaft-awv-z4-z10-z11-meldungen
-description: "Vertiefter Skill fuer AWV Z4 Z10 Z11 Meldungen. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe.'
 ---
 
-# AWV Z4 Z10 Z11 Meldungen
+# AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **AWV Z4 Z10 Z11 Meldungen** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Unternehmen gewahrt auslaendischem Tochterunternehmen Darlehen; Z11-Meldepflicht pruefen.
+- Kapitalanlagegesellschaft kauft Aktien einer US-Gesellschaft; Z10 vs. Z4 klaeren.
+- GmbH in Deutschland vergibt Gesellschafterdarlehen an Muttergesellschaft im Ausland.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Transaktionstyp einordnen: Direktinvestition (Z4), Wertpapier (Z10) oder Darlehen/Kapitalverkehr (Z11).
+2. Meldepflichtige Schwellenwerte pruefen (§ 67 AWV, spezifische Regelung je Formular).
+3. Fristen bestimmen: Z4 trimestrisch oder jaehrlich, Z10/Z11 monatlich.
+4. Bundesbank-Ausfuellhinweise zum jeweiligen Formular heranziehen.
+5. Formular vollstaendig ausfuellen und fristgerecht ueber ExtraNet einreichen.
+6. Einreichungsbestaetigung archivieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **AWV §§ 56-71**: Gesamtes Meldewesen fuer Kapitalverkehr und Direktinvestitionen.
+- **§ 57 AWV**: Z4-Meldepflicht fuer Direktinvestitionen.
+- **§ 68 AWV**: Wertpapiermeldungen (Z10).
+- **§ 69 AWV**: Kreditgeschaefte mit dem Ausland (Z11).
+- **AWG § 13**: Allgemeine Auskunftspflicht.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Transaktionstyp eindeutig klassifiziert?
+- [ ] Richtiges Formular (Z4/Z10/Z11) ausgewaehlt?
+- [ ] Meldepflicht-Schwellenwert getriggert?
+- [ ] Fristen (monatlich/trimestrisch/jaehrlich) bekannt?
+- [ ] Meldung elektronisch eingereicht?
+- [ ] Archivierung und Bestaetigung gesichert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Gesellschafterdarlehen und Direktinvestitionsdarlehn koennen sowohl Z4 als auch Z11 ausloesen.
+- Wertpapiertransaktionen ueber auslaendische Depotbanken koennen trotzdem Z10-Pflicht ausloesen.
+- Fristen Z4 und Z10/Z11 unterscheiden sich; Kumulierung uebersehen.
+- Automatische Verrechnung von Forderungen und Verbindlichkeiten loescht Meldepflicht nicht.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Ausgefuellte Z4/Z10/Z11-Formulare, Transaktions-Einstufungstabelle, Fristen-Kalender und Muster-Einreichungsbestaetigung.
+
+## Quellen
+
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+- [Bundesbank Meldewesen Formulare](https://www.bundesbank.de/de/aufgaben/aussenwirtschaft/meldepflichten)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

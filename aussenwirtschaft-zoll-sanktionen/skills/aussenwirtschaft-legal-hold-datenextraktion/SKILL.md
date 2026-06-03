@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-legal-hold-datenextraktion
-description: "Vertiefter Skill fuer Legal Hold Datenextraktion. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll.'
 ---
 
-# Legal Hold Datenextraktion
+# Legal Hold und Datenextraktion bei Aussenwirtschafts-Ermittlungen
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Legal Hold Datenextraktion** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- BAFA kuendigt Aussenpruefung an; Legal Hold fuer alle Exportdaten der letzten 5 Jahre notwendig.
+- OFAC-Anfrage zu Transaktionen; US-eDiscovery-Standards und deutsches Datenschutzrecht kollidieren.
+- Interne Investigation nach Hinweisgeber-Meldung; IT-forensische Sicherung vor regulaerer Loeschung noetig.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Legal-Hold-Anordnung formulieren und an IT, Compliance, Archiv und betroffene Abteilungen senden.
+2. Datenkategorien definieren: ATLAS-Daten, ERP-Exportmodule, E-Mails, Vertraege, EUC, Sanktionsscreening-Logs.
+3. Technische Sicherungsmassnahmen einrichten: Backup-Stopp fuer relevante Datenbereiche.
+4. DSGVO-Rechtsgrundlage fuer Datensicherung pruefen (Art. 6 Abs. 1 lit. c fuer gesetzliche Pflicht).
+5. Bei US-eDiscovery: Datenschutzkonforme Transfer-Grundlage beachten (SCCs, DSGVO Art. 49).
+6. Protokollierung der gesicherten Datenbestaende mit Hash-Werten fuer Integritaetssicherung.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **AWV § 24**: Aufbewahrungspflicht fuer Ausfuhrunterlagen (10 Jahre).
+- **UZK Art. 51**: Aufbewahrungspflicht fuer Zollanmeldungen.
+- **DSGVO Art. 6**: Rechtsgrundlage fuer Datensicherung.
+- **§ 146 AO**: Buchfuehrungsunterlagen-Aufbewahrungspflicht.
+- **§ 97 StPO**: Beschlagnahmefreiheit anwaltlicher Unterlagen.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Legal-Hold-Anordnung alle relevante Datenkategorien erfassend?
+- [ ] IT-Sicherungsmassnahmen zeitnah eingeleitet?
+- [ ] DSGVO-Rechtsgrundlage fuer Datenzugriff geprueft?
+- [ ] US-eDiscovery-Anforderungen mit deutschem Datenschutzrecht abgestimmt?
+- [ ] Integritaets-Hash-Werte fuer gesicherte Datenbestaende erstellt?
+- [ ] Aufbewahrungsfristen (AWV 10 Jahre) gegen Legal-Hold-Anforderungen abgeglichen?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Legal Hold zu spaet: regulaere Loeschroutinen haben Daten vernichtet.
+- US-eDiscovery und DSGVO kollidieren direkt; ohne datenschutzkonforme Grundlage keine Uebertragung.
+- Hash-Werte fehlen; Integritaet der gesicherten Daten nicht nachweisbar.
+- ERP-Daten enthalten keine Exportkontroll-spezifischen Felder; separate ATLAS-Sicherung noetig.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Legal-Hold-Anordnung, Datenkategorie-Inventar, IT-Sicherungsprotokoll mit Hash-Werten, DSGVO-Pruefvermerk und eDiscovery-Transfergrundlage-Analyse.
+
+## Quellen
+
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+- [UZK Art. 51 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679)
+- [AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/index.html)

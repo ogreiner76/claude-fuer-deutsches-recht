@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-antidumping-erstattung-review
-description: "Vertiefter Skill fuer Antidumping Erstattung Review. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfahren nach Art. 11 VO (EU) 2016/1036: Rueckerstattungsantrag (Art. 11 Abs. 8), Interim-Review und Sunset-Review. Prueft Fristen beim Hauptzollamt und EU-Kommission. Fallkonstellation: Importeur hat ueberhohten Antidumping-Zoll gezahlt und moechte Erstattung oder Margenkorrektur. Output: Erstattungsantrag mit Kalkulationsnachweis.'
 ---
 
-# Antidumping Erstattung Review
+# Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Antidumping Erstattung Review** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Importeur hat in den letzten drei Jahren Antidumping-Zoelle gezahlt; moechte pruefen, ob tatsaechliches Dumping nachgewiesen wurde.
+- Hersteller in China hat Dumping-Marge signifikant reduziert; Lieferant moechte Review-Antrag stellen.
+- Massnahme gegen bestimmten Warenwert laeuft in 12 Monaten aus; Frage nach Sunset-Review und Auswirkungen.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Pruefen ob Erstattungsantrag nach Art. 11 Abs. 8 VO 2016/1036 in Frage kommt (Zoll bezahlt, Exportpreis gestiegen).
+2. Antrag auf Erstattung beim Hauptzollamt (DE) und koordiniert mit EU-Kommission einreichen.
+3. Interim-Review-Antrag (Art. 11 Abs. 3) bei geaenderter Dumping-Situation des Exporteurs.
+4. Sunset-Review-Antrag (Art. 11 Abs. 2) bei Auslauf der Massnahme vorbereiten.
+5. Preisvergleich und Dumping-Margin-Dokumentation fuer Review aufbereiten.
+6. Fristen beachten: Erstattungsantrag innerhalb 6 Monate nach Zollzahlung.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **Art. 11 VO (EU) 2016/1036**: Erstattung, Interim-Review, Sunset-Review und Neuzulassung.
+- **Art. 11 Abs. 8 VO 2016/1036**: Erstattungsantragsverfahren bei gesunkenem Exportpreis.
+- **UZK Art. 116-123**: Allgemeines Zollerstattungsrecht.
+- **Art. 21 UZK-IA**: Antragstellung und Fristen fuer Zollerstattung.
+- **§ 21 ZollVG**: Nationale Kontrollbefugnisse.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Zollzahlung dokumentiert und innerhalb der Erstattungsfrist (6 Monate)?
+- [ ] Exportpreis nach Erhebung des Antidumping-Zolls gestiegen?
+- [ ] Dumping-Margin-Berechnung und Preisvergleich aufbereitet?
+- [ ] Interim-Review-Antrag oder Sunset-Review-Antrag sinnvoll?
+- [ ] Koordination mit EU-Kommission eingeplant?
+- [ ] Zollbescheide und Einfuhrdokumentation vollstaendig gesichert?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Erstattungsantrag muss koordiniert mit Hauptzollamt und Kommission gestellt werden.
+- Sunset-Review-Antrag hat strenge Fristen; bei Versaeumnis bleiben Massnahmen automatisch in Kraft.
+- Beweislast fuer gesunkenem Exportpreis liegt beim Importeur; unzureichende Dokumentation fuehrt zu Ablehnung.
+- Preisverpflichtungsbruch des Exporteurs kann Erstattungsantrag gefaehrden.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Erstattungsantrag mit Exportpreisvergleich und Dumping-Kalkulation, Interim-Review-Antrag, Fristen-Uebersicht und Verfahrensstrategie.
+
+## Quellen
+
+- [VO (EU) 2016/1036 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1036)
+- [UZK Art. 116-123 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [EU Kommission Antidumping-Verfahren](https://ec.europa.eu/trade/policy/accessing-markets/trade-defence/actions-against-imports-into-the-eu/anti-dumping/)
+- [Zoll.de Erstattungen](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollanmeldung-Zollverfahren/Erstattung-Erlass/erstattung-erlass_node.html)

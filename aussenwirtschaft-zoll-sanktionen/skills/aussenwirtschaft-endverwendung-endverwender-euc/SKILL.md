@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-endverwendung-endverwender-euc
-description: "Vertiefter Skill fuer Endverwendung Endverwender Euc. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen und Zwischenhaendlern. Output: EUC-Pruefprotokoll und Vervollstaendigungsanforderung.'
 ---
 
-# Endverwendung Endverwender Euc
+# Endverwender-Pruefung und EUC: Authentizitaet und Risikoeinschaetzung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Endverwendung Endverwender Euc** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Exporteur erhalt EUC von unbekannter Firma in Pakistan; Authentizitaet zweifelhaft.
+- BAFA fordert Nachweise ueber tatsaechlichen Endverwender; Lieferant hat nur Handelsgesellschaft angegeben.
+- Technologie-Transfer an staatliches Forschungsinstitut in sensitivem Land; EUC-Pruefung noetig.
 
-## Normfokus und Praxis (EUC)
-- Rechtsgrundlage: Art. 4 Abs. 2 Dual-Use-VO (EU) 2021/821 (Endverwendung), Art. 21 (Endverbleibsbescheinigung), § 11 AWV (national); EUC als Beleg für Sorgfaltspflicht des Exporteurs. Bei sensiblen Empfängern BMWK-EUC mit zusätzlichem Wiederausfuhrverbot.
-- EUC-Standard­inhalt: Vollständiger Name und Anschrift Endverwender, genaue Beschreibung der Ware (HS-Code, AL/Dual-Use-Position, Menge, Wert), spezifischer Verwendungszweck (konkret, nicht "industrial use"), Wiederausfuhrverbot ohne EU-Genehmigung, Verifikations- und Inspektionsklausel ("on-site verification right"), Unterschrift Bevollmächtigter mit Firmenstempel.
-- Varianten: IIC (International Import Certificate, ausgestellt von Behörde des Empfängerlandes — für hochsensible Güter, z. B. Wassenaar-Liste), Delivery Verification Certificate (DVC, nach Lieferung), BMWK-EUC (Vorlage BMWK für RU/CN/IR usw.).
-- Praxisfallen: Generische "industrial use"-Angabe reicht oft nicht für BAFA-Genehmigung; bei Großhändlern als Endverwender nochmals Endabnehmer ermitteln (Pass-Through); bei Forschungseinrichtungen Projektzweck dokumentieren; Hochschulen China nach UK-Forced Tech Transfer-Vorgaben kritisch.
-- Praktiker-Tipp: EUC vor Genehmigungsantrag prüfen — Stimmigkeit mit Auftragsmenge, technischem Bedarf, Branche; bei Zweifel telefonische Verifikation Endverwender (Telefonnotiz Audit-Trail); EUC für mindestens 5 Jahre archivieren (§ 22 AWG, EU-Recht teils 10 Jahre); bei nachträglicher Erkenntnis falscher EUC sofort BAFA informieren und ggf. § 22 Abs. 4 AWG Selbstanzeige.
+## Erste Schritte
 
-## Startfragen
+1. EUC-Formular auf Vollstaendigkeit pruefen: Endverwender-Name und -Adresse, Verwendungszweck, Unterschrift und Firmenstempel.
+2. Authentizitaetspruefung: Unternehmensregister, Web-Praesenz, Gegencheck mit Handelspartnern.
+3. Abgleich der EUC-Angaben mit technischer Spezifikation; plausibel fuer zivilen Verwendungszweck?
+4. Red Flags der BAFA-Checkliste abarbeiten: Staatsunternehmen, Ruestungsnaeehe, ungewoehnliche Spezifikation.
+5. BAFA-Anfrage an Exporteur oder Nachfrage-Schreiben an Endverwender wenn Luecken.
+6. Ergebnis und Entscheidung im Compliance-System dokumentieren.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 10 Abs. 1 lit. g VO (EU) 2021/821**: EUC als Genehmigungsbestandteil.
+- **BAFA-Merkblatt Endverwendung**: Anforderungen an EUC-Inhalt und Authentizitaet.
+- **AWG § 9**: Genehmigungsvoraussetzungen inkl. Endverwender-Nachweis.
+- **§ 18 AWG**: Strafbarkeit bei Falschangaben zur Endverwendung.
+- **Art. 4 Abs. 1 VO (EU) 2021/821**: Catch-All bei Kenntnis militaerischer Endverwendung.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] EUC vollstaendig ausgefuellt und unterschrieben?
+- [ ] Endverwender-Identitaet verifiziert?
+- [ ] Endverwendungszweck plausibel und zivil?
+- [ ] Red Flags der BAFA-Checkliste negativ?
+- [ ] Dokumentation archiviert und mit Freigabeentscheidung verknuepft?
+- [ ] Catch-All-Tatbestand ausgeschlossen?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Zwischenhaendler als angeblicher Endverwender reicht nicht; tatsaechliche Nutzung muss identifizierbar sein.
+- Staatlliche Forschungseinrichtungen in Hochrisikolaendern haben oft Dual-Use-Kapazitaeten.
+- EUC-Faelschungen durch Lieferanten nehmen zu; Gegenverifizierung ueber unabhaengige Kanaele noetig.
+- Nachtraegliche EUC-Einholung nach Lieferung schutzt nicht vor Strafverfolgung.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+EUC-Pruefprotokoll mit Authentizitaetsnachweis, Red-Flag-Checkliste, Vervollstaendigungs-Anforderungsschreiben und Freigabe-/Sperrprotokoll.
+
+## Quellen
+
+- [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [BAFA Endverwendung und EUC](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)

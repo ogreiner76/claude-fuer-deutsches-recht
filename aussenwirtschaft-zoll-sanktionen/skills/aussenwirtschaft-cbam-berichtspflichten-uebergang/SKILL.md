@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-cbam-berichtspflichten-uebergang
-description: "Vertiefter Skill fuer CBAM-Uebergangsberichte, CN-Codes, direkte und indirekte Emissionen und Lieferantendaten. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte fuer Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation.'
 ---
 
-# CBAM Berichtspflichten Uebergang
+# CBAM-Uebergangspflichten: Quartalsbericht fuer eingebettete Emissionen
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **CBAM-Uebergangsberichte, CN-Codes, direkte und indirekte Emissionen und Lieferantendaten** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Stahlimporteur hat erste CBAM-Quartalsmeldung versaeumst; Frage zu Nachmeldemoelichkeit und Bussgeld.
+"- Zementhersteller fragt, ob er fuer Importe aus der Tuerkei CBAM-Standardwerte oder Lieferantendaten nutzen muss.
+- Haendler importiert Aluminiumprofile aus mehreren Laendern; unterschiedliche Emissionsfaktoren je Ursprungsland.
 
-## Normfokus und Praxis (CBAM)
-- Rechtsgrundlagen: VO (EU) 2023/956 (CBAM-Grundverordnung), Durchführungsverordnung (EU) 2023/1773 (Übergangsphase 1.10.2023-31.12.2025), Anhang I CBAM-VO (erfasste Waren: Zement, Eisen/Stahl, Aluminium, Düngemittel, Strom, Wasserstoff; Erweiterungsdebatte für Kunststoff, Chemikalien).
-- Übergangsphase: nur Berichtspflichten, keine Zertifikatspflicht. CBAM-Quartalsbericht im CBAM-Übergangsregister bis Ende Folgemonat des Quartals (z. B. Q1 bis 30.4.). Verstoß: Bußgeld nach Art. 16 DurchführungsVO 2023/1773 (10-50 Euro/t nicht gemeldete CO2äq).
-- Inhalt: eingebettete direkte und indirekte Emissionen (Anh. III/IV), Methoden EU/equivalent-method/default values (Default Values nur bis 31.7.2024 zulässig, danach gemessene/berechnete Werte oder begrenzte Ausnahmen).
-- Endgültige Phase ab 1.1.2026: CBAM-Anmelderstatus (autorisierter CBAM-Anmelder, Art. 5), Zertifikatskauf entsprechend EU-ETS-Preis, jährlicher Bericht bis 31.5. Folgejahr (Art. 6).
-- Praktiker-Tipp: Lieferantendaten frühzeitig vertraglich sichern (Klausel zur Emissionsdatenübermittlung), Auditfähigkeit nach Anh. IV DurchführungsVO. Verifizierer (akkreditiert nach VO (EG) 765/2008) ab 2026 zwingend. Default Values erkenntlich nutzen, aber dokumentieren, warum keine genauen Daten verfügbar — Bußgeld droht bei systematischer Nutzung trotz Verfügbarkeit.
+## Erste Schritte
 
-## Startfragen
+1. CBAM-pflichtige Waren identifizieren (Anhang I VO 2023/956): Zement, Aluminium, Eisen/Stahl, Duenger, Elektrizitaet, Wasserstoff.
+2. KN-Codes je Warenkategorie pruefen.
+3. Eingebettete Emissionen ermitteln: Lieferantendaten oder EU-Standardwerte (Durchfuehrungs-VO).
+4. Quartalsbericht in CBAM-Transitional-Registry der EU-Kommission einstellen.
+5. Fristen: Bericht bis zum Ende des Monats nach Quartalsende.
+6. Fehler in vergangenen Berichten durch Nachmeldung korrigieren.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **Art. 35-37 VO (EU) 2023/956**: Berichtspflichten in der Uebergangsphase.
+- **VO (EU) 2023/1773**: Durchfuehrungs-VO fuer Uebergangsberichte und Standardwerte.
+- **UZK Art. 162**: Pflichten des Einführers.
+- **§ 11 ZollVG**: Informationspflichten gegenueber Zollbehoerden.
+- **VO (EU) 2023/956 Art. 3**: Definition eingebetteter Emissionen.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] Alle CBAM-pflichtigen Waren und KN-Codes identifiziert?
+- [ ] Emissionsdaten vom Lieferanten eingeholt oder EU-Standardwert verwendet?
+- [ ] Quartalsbericht vollstaendig und fristgerecht?
+- [ ] Nachkorrektur vergangener Berichte geprueft?
+- [ ] Bussgeldrisiko bei verspaeteter Meldung kalkuliert?
+- [ ] Uebergangsregister-Zugang korrekt eingerichtet?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- Standardwerte sind hoeher als tatsaechliche Emissionen; Lieferantendaten vermindern CBAM-Pflicht.
+- Quartalsberichte koennen nachgebessert werden, aber Fristversaeumnis loest Bussgeld aus.
+- CBAM gilt nicht fuer alle Laender gleich; EWR und bestimmte Laender ausgenommen.
+- Mischlieferungen erfordern getrennte Emissionsermittlung je Warenart.
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+CBAM-Quartalsbericht mit Emissionsdaten und Quellenangaben, Korrekturprotokoll, Lieferanten-Datenanforderungstemplate.
+
+## Quellen
+
+- [VO (EU) 2023/956 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
+- [VO (EU) 2023/1773 Durchfuehrungs-VO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1773)
+- [EU-Kommission CBAM-Portal](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
+- [Zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Steuern/Einfuhrumsatzsteuer/cbam/cbam_node.html)

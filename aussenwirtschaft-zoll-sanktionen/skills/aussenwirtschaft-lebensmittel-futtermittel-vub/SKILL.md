@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-lebensmittel-futtermittel-vub
-description: "Vertiefter Skill fuer Lebensmittel Futtermittel VUB. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen fuer Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste.'
 ---
 
-# Lebensmittel Futtermittel VUB
+# Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Lebensmittel Futtermittel VUB** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Importeur bringt Getrocknetenfischprodukte aus Vietnam ein; amtliche Kontrolle am Grenzuebergangsstelle notwendig?
+- Einfuhr von Gewuerzen aus Indien; Pestizidruckstaende-Anforderungen und RASFF-Warnungen.
+- Tierhalter importiert Futtermittel aus Weissrussland; Ursprungszeugnisse und Seuchenschutzanforderungen.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Produkt nach VO (EG) 178/2002 und VO (EG) 853/2004 einordnen; tierischen oder pflanzlichen Ursprungs?
+2. Bestimmung des Grenzuebergangsstelle mit amtlicher Kontrollstelle (BVVG-Liste).
+3. RASFF-Datenbank auf aktuell laufende Warnungen fuer Produkt/Ursprungsland pruefen.
+4. Veterinar-/Phytosanitaere Zertifikate aus Exportland beschaffen.
+5. IMPORT-Voranmeldung im TRACES NT-System vornehmen.
+6. Probennahme und Laboranalyse planen; Lieferverzugsrisiko einkalkulieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **VO (EG) 178/2002**: Allgemeines Lebensmittelrecht, Sicherheitsanforderungen.
+- **VO (EU) 2017/625**: Amtliche Kontrollen bei Einfuhr; Grenzkontrollstellen.
+- **VO (EG) 853/2004**: Hygieneanforderungen fuer Lebensmittel tierischen Ursprungs.
+- **RL 2000/29/EG**: Pflanzenschutz-Einfuhrverbote.
+- **VO (EU) 142/2011**: Tierische Nebenprodukte (ANP); Einfuhrverbote.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Produkt-Einstufung (tierisch/pflanzlich) und anwendbares EU-Hygienerecht klar?
+- [ ] Grenzkontrollstelle mit amtlicher Kontrollfunktion fuer Produkt identifiziert?
+- [ ] RASFF-Warnungen fuer Produkt und Ursprungsland geprueft?
+- [ ] Gesundheits-/Veterinarzertifikate vollstaendig und aktuell?
+- [ ] TRACES NT-Voranmeldung rechtzeitig erfolgt?
+- [ ] Probennahme-Risiko in Lieferzeitplan eingeplant?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- TRACES NT-Voranmeldung zu spaet kann amtliche Kontrolle verzoegern und Ware einfrieren.
+- RASFF-Warnungen veraendern sich schnell; vor jeder Sendung pruefen.
+- Einfuhr aus bestimmten Drittlaendern erfordert zusaetzliche Einfuhrbescheinigungen.
+- Futtermittel unterliegen eigenen Regelwerken (VO (EG) 183/2005); nicht mit Lebensmittelrecht verwechseln.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Einfuhr-VuB-Checkliste fuer Lebensmittel/Futtermittel, TRACES NT-Voranmeldeprotokoll, Grenzkontrollstellen-Uebersicht und RASFF-Pruefprotokoll.
+
+## Quellen
+
+- [VO (EG) 178/2002 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002R0178)
+- [RASFF-Datenbank EU-Kommission](https://webgate.ec.europa.eu/rasff-window/screen/search)
+- [Zoll.de Lebensmittel](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Lebensmittel-Futtermittel/lebensmittel-futtermittel_node.html)
+- [BVL Lebensmitteleinfuhr](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucherinnen_und_Verbraucher/lebensmittel_node.html)

@@ -1,54 +1,87 @@
 ---
 name: aussenwirtschaft-ofac-sdn-non-sdn
-description: "Vertiefter Skill fuer US-Sanktionslisten, SDN-, Non-SDN- und Fifty-Percent-Rule als Risikohinweis fuer deutsche Unternehmen. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung.'
 ---
 
-# OFAC SDN Non SDN
+# US-OFAC-Sanktionen fuer EU-Unternehmen: SDN, Sektoral und Secondary Sanctions
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **US-Sanktionslisten, SDN-, Non-SDN- und Fifty-Percent-Rule als Risikohinweis fuer deutsche Unternehmen** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Deutsches Unternehmen kauft Oel aus Drittland; Frachtschiff steht auf OFAC-SDN-Liste.
+- EU-Bank wickelt USD-Zahlung ab; Gegenpartei auf SSI-Liste; US-Korrespondenzbank blockiert.
+- Blocker-Statute VO 2271/96: europaeischer Tochterbetrieb von US-Muttergesellschaft weigert sich, Verbot zu befolgen.
 
-## Normfokus und Praxis (US-Sanktionen für DE-Unternehmen)
-- US-Listen-Universum: SDN-Liste (Specially Designated Nationals), SSI-Liste (Sectoral Sanctions Identifications), Non-SDN-Listen (z. B. Iran Financial Sanctions, Foreign Sanctions Evaders), Entity List/Unverified List (BIS), Section 1260H DoD-Liste. OFAC SDN-Suche unter sdnsearch.ofac.treas.gov; konsolidierte Liste OFAC SDN List.
-- Fifty-Percent-Rule (OFAC FAQ 401, 50 Percent Rule Guidance): direkt oder mittelbar 50 %+ Beteiligung einer SDN-Person = automatisch gesperrt, auch ohne eigene Listung; aggregierte Beteiligung mehrerer SDN-Personen zählt.
-- US-Nexus für deutsche Unternehmen: USD-Clearing (US-Korrespondenzbank), US-Personen im Geschäft (Visa, Greencard, USA-Einreisen, US-Tochter), US-origin goods (10 %-De-Minimis ggf. EAR), US-Software/Technologie (gem. EAR § 734.3). Secondary Sanctions können auch ohne US-Nexus zuschlagen (z. B. CAATSA bei RU, NDAA-Sanktionen IR/NK).
-- Konflikt EU vs. US: EU-Blocking-VO (EG) 2271/96 verbietet bestimmte Befolgung von US-Sekundärsanktionen (IR, Kuba); Selbsthilfeantrag bei EU-Kommission möglich.
-- Praktiker-Tipp: Screening gegen OFAC SDN/SSI bei jedem neuen US-Touchpoint, Aufzeichnung sechs Jahre (31 CFR § 501.601). Bei Treffer keine eigenmächtige Freigabe — OFAC-Lizenz via TFAR; bei US-Tochter parallel internal investigation und Voluntary Self-Disclosure (VSD) erwägen.
+## Erste Schritte
 
-## Startfragen
+1. US-Nexus feststellen: USD-Transaktion, US-Technologie (EAR/ITAR), US-Person/Unternehmen beteiligt?
+2. SDN-Liste und SSI-Liste (OFAC) auf alle Transaktionsparteien pruefen.
+3. Sektoral sanctions (SSI) pruefen: welche Finanzierungsformen sind fuer SSI-Personen verboten?
+4. Secondary-sanctions-Risiko bewerten: Exposure fuer Drittland-Unternehmen.
+5. EU-Blocking-Statute VO 2271/96 pruefen: gilt es fuer den Sachverhalt? Pflicht zur Befolgung des US-Verbots?
+6. Handlungsempfehlung: Transaktion fortsetzen, anpassen oder abbrechen; Kommunikationsstrategie.
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+## Rechtsrahmen
 
-## Workflow
+- **50 CFR Parts 500 ff. (OFAC-Vorschriften)**: Grundlage fuer SDN und Sektorsanktionen.
+- **VO (EG) 2271/96**: EU-Blocking-Statute gegen extraterritoriale US-Sanktionen.
+- **VO (EU) 2018/1100**: Aktualisierung des Blocking-Statutes fuer Iran-Sanktionen.
+- **AWG § 4 Abs. 1 Nr. 4**: Schutz wesentlicher Sicherheitsinteressen als Rechtsgrundlage.
+- **§ 18 AWG**: Strafbarkeit bei Sanktionsverstoss nach deutschem Recht.
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+## Pruef-Raster
 
-## Ausgabe
+- [ ] US-Nexus (USD, US-Person, US-Technologie) identifiziert?
+- [ ] SDN-Liste und SSI-Liste fuer alle Parteien geprueft?
+- [ ] Sektorsanktionen fuer relevante Finanzierungsform analysiert?
+- [ ] Secondary-sanctions-Risiko quantifiziert?
+- [ ] EU-Blocking-Statute Anwendbarkeit geprueft?
+- [ ] Handlungsempfehlung mit Risiko-Abwaegung dokumentiert?
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+## Typische Fallstricke
 
-## Quellen- und Sicherheitsregel
+- SDN und SSI sind verschiedene Listen; SSI-Verbote sind enger als SDN-Totalverbot.
+- USD-Clearing durch US-Korrespondenzbank schafft automatisch US-Jurisdiktion.
+- Blocking-Statute und US-Recht kollidieren; Unternehmen in echtem Dilemma ohne rechtssichere Loesung.
+- Secondary sanctions treffen EU-Unternehmen auch ohne direkten US-Kontakt (Iran CAATSA).
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+## Arbeitsweise
 
-## Qualitaetsgate
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+US-Sanktions-Touchpoint-Analyse mit SDN/SSI-Pruefprotokoll, Secondary-sanctions-Risikobewertung, Blocking-Statute-Analyse und Handlungsempfehlung.
+
+## Quellen
+
+- [OFAC Sanctions List](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx)
+- [VO (EG) 2271/96 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31996R2271)
+- [BAFA US-Sanktionen](https://www.bafa.de/DE/Aussenwirtschaft/Finanzsanktionen/finanzsanktionen_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

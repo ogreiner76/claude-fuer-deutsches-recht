@@ -1,110 +1,87 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Verbrauchsteuerrecht für Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prüft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG StromStG TabakStG BierStG §§ 1-39 Steuerlager EMCS-Verfahren UZK Art. 189 ff. Prüfraster Energieerzeugnisse Strom Tabak Alkohol Steuerlager Steueraussetzung EMCS Entlastung Steuerentstehung. Output Verbrauchsteuer-Prüfprotokoll mit Steuerlagerkonzept EMCS-Begleitung und Entlastungsantrag. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
+description: 'Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. Output: Verbrauchsteuer-Pruefmatrix und EMCS-Eintragungsanleitung.'
 ---
 
-# Verbrauchsteuer
+# Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill minimiert ungewollte Verbrauchsteuerentstehung und dokumentiert Bewilligungen, Befreiungen und Meldungen.
+- Brauerei exportiert Bier in Drittland; Verbrauchsteuer-Erstattungsantrag und Ausfuhrnachweise.
+- Mineralolhaendler transportiert Dieselkraftstoff im Steueraussetzungsverfahren durch EU.
+- Importeur von Tabakwaren muss Verbrauchsteuer bei Einfuhr anmelden und abfuehren.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Ware auf Verbrauchsteuerpflicht pruefen: Energieerzeugnisse Alkohol Tabak Strom?
+2. Steueraussetzungsverfahren: Ist Ware in zugelassenem Lager (Steuerlager) und EMCS aktiviert?
+3. Befoerderungsdokument (elektronisches Verwaltungsdokument e-VD) in EMCS anlegen.
+4. Ausfuhrerstattungsantrag: Ausfuhrnachweise (ATLAS-Ausgangsvermerk) fuer Verbrauchsteuer-Erstattung.
+5. Steuerterritorium pruefen: Sondergebiete (Kanalinsel Buesingen) und Ueberschneidung mit Zollgebiet.
+6. Nationale Verbrauchsteuerbehoerde (Hauptzollamt) und EMCS-Zugangsberechtigung pruefen.
+
+## Rechtsrahmen
+
+- **RL 2008/118/EG (Systemrichtlinie)**: Allgemeine Regelung fuer verbrauchsteuerpflichtige Waren.
+- **EnergieStG**: Energiesteuer bei Mineral- und Biokraftstoffen.
+- **BierStG AlkStG TabStG**: Warenbezogene Verbrauchsteuern.
+- **§ 38 EnergieStG**: Steuerbefreiung bei Ausfuhr von Energieerzeugnissen.
+- **UZK Art. 5 Nr. 2**: Zollgebiet abgegrenzt von Verbrauchsteuerterritorium.
+
+## Pruef-Raster
+
+- [ ] Ware korrekt als verbrauchsteuerpflichtig identifiziert?
+- [ ] Steueraussetzungsverfahren und EMCS korrekt eroeffnet?
+- [ ] e-VD vollstaendig und korrekt ausgefuellt?
+- [ ] Ausfuhrnachweise fuer Erstattungsantrag vorhanden?
+- [ ] Steuerterritorium-Sonderregelungen beachtet?
+- [ ] Zustaendiges Hauptzollamt fuer Verbrauchsteuer korrekt bestimmt?
+
+## Typische Fallstricke
+
+- Verwechslung Zollgebiet und Verbrauchsteuerterritorium bei Sondergebieten wie Buesingen.
+- Fehlendes e-VD fuehrt zur Steuerschuldentstehung bei Transport.
+- Ausfuhrerstattung setzt lueckenlosen Ausfuhrnachweis voraus; ATLAS-Ausgangsvermerk allein meist nicht ausreichend.
+- EMCS-Systemausfall muss mit Notfallverfahren ueberbrueckt werden.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Verbrauchsteuer-Pruefmatrix mit Waren-Einordnung, EMCS-Eintragungsanleitung, Erstattungsantrag-Muster und Abgrenzungstabelle Zoll/Verbrauchsteuer.
 
-## Triage vor Verbrauchsteuer-Pruefung
+## Quellen
 
-Kläre vor der Pruefung:
-
-1. Welche Verbrauchsteuer ist betroffen — Energiesteuer, Alkoholsteuer, Tabaksteuer, Kaffeesteuer, oder Stromsteuer?
-2. Handelt es sich um eine Einfuhr aus Drittland (Verbindung Zoll/EVSt) oder um innergemeinschaftlichen Erwerb?
-3. Liegt eine Steueraussetzung (Verfahren unter Steueraussetzung), eine Steuerlagererlaubnis oder eine Versandverfahren-Genehmigung vor?
-4. Besteht eine Erstattungs- oder Verguetungsmoglichkeit (energiesteuerrechtliche Beginstigung, Steuererlass § 65 EnergieStG)?
-5. Liegt ein Hauptzollamt-Bescheid (Nacherhebung, Widerruf einer Erlaubnis) vor, gegen den Einspruch eingelegt werden soll?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Verbrauchsteuer
-
-- §§ 1 ff. EnergieStG — Energiesteuer (Mineral-/Erdgas, Strom, Kohle)
-- §§ 1 ff. TabStG — Tabaksteuer
-- §§ 1 ff. AlkStG — Alkoholsteuer (ab 2018)
-- §§ 1 ff. StromStG — Stromsteuer
-- Art. 7, 9, 10 Systemrichtlinie RL 2020/262/EU — Harmonisierte Verbrauchsteuerregeln EU
-- §§ 21-23 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer-Entstehung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Verbrauchsteuer-Pruefungsvermerk
-
-**Adressat:** Steuerabteilung / Zollbeauftragter — **Tonfall:** abgabenrechtlich-praezise
-
-```
-VERBRAUCHSTEUER-PRUEFUNGSVERMERK
-Datum: [DATUM]
-Steuerart: [ENERGIESTEUER / TABAKSTEUER / ALKOHOLSTEUER / STROMSTEUER]
-Ware/Energietraeger: [BEZEICHNUNG]  Menge: [MENGE + EINHEIT]
-Bearbeiter: [NAME]
-
-1. STEUERENTSTEHUNG
-   Tatbestand: [§ [GESETZ] Abs. [ABSATZ] — Beschreibung]
-   Zeitpunkt: [DATUM DES AUSLOESENDEM EREIGNIS]
-   Schuldner: [LAGERHALTER / EINFU-HRER / ERWERBER]
-
-2. STEUERAUSSETZUNG
-   Verfahren unter Steueraussetzung: [ ] Ja — Erlaubnis Nr.: [NR.] / [ ] Nein
-   Regelmaessige Beendigung: [ ] Ja / [ ] Nein — Risiko: [BESCHREIBUNG]
-
-3. STEUERBERECHNUNG
-   Steuersatz: [EUR/EINHEIT gemaess § [GESETZ]]
-   Steuerbetrag: [EUR]
-   Erlass/Verguetung moeglich: [ ] Ja — Grundlage: § [NORM] — Betrag: [EUR]
-
-4. RECHTSMITTEL
-   Einspruch gegen Bescheid: [ ] Eingereicht am [DATUM] / [ ] Zu erwaegen
-   Frist: [DATUM] (1 Monat ab Bekanntgabe § 355 AO)
-
-5. NAECHSTE SCHRITTE
-   - [Schritt mit Frist]
-```
+- [EnergieStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/energiestg/index.html)
+- [Zoll.de Verbrauchsteuern](https://www.zoll.de/DE/Fachthemen/Steuern/Verbrauchsteuern/verbrauchsteuern_node.html)
+- [RL 2008/118/EG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008L0118)
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)

@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-zollpruefung-aussenpruefung
-description: "Vertiefter Skill fuer Zollpruefung Aussenpruefung. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvorbereitungs-Checkliste und Risikobewertungsmatrix.'
 ---
 
-# Zollpruefung Aussenpruefung
+# Zollaußenpruefung: Vorbereitung Prueferempfang und Risikobegrenzung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Zollpruefung Aussenpruefung** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Hauptzollamt kuendigt Zollaußenpruefung an; Unternehmen hat 4 Wochen Vorbereitungszeit.
+- Pruefung fokussiert auf Zollwert von Konzerntransaktionen; Verrechnungspreisdokumentation bereitstellen.
+- Nach Pruefung Nacherhebungsbescheid fuer Zollwert-Unterdeklaration; Einspruch vorbereiten.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Pruefungsankuendigung analysieren: Pruefungszeitraum Pruefungsschwerpunkte zustaendige Pruefstelle.
+2. Dokumentenarchiv aufbauen: Zollanmeldungen Rechnungen Ursprungsdokumente Genehmigungen.
+3. Interne Vorabpruefung: Typische Schwachstellen (Zollwert Praeferenz KN-Einreihung) analysieren.
+4. Prueferempfang vorbereiten: Ansprechpartner bestimmen Auskunftspersonen schulen.
+5. Nacherhebungsrisiko kalkulieren und Rueckstellungen pruefen.
+6. Rechtsberatung einschalten fuer komplexe Sachverhalte und Einspruchsstrategie.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **§§ 196-207 AO**: Außenpruefung als Verfahren.
+- **UZK Art. 48**: Zollkontrolle und Nachpruefungsrecht der Zollbehoerden.
+- **§ 21 ZollVG**: Auskunftspflichten gegenueber Zollbehoerden.
+- **UZK Art. 108**: Zollschuldnacherhebung nach Pruefung.
+- **§ 347 AO**: Einspruch gegen Steuerbescheide auch Zollbescheide.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Pruefungsankuendigung vollstaendig analysiert?
+- [ ] Dokumentenarchiv fuer Pruefungszeitraum vollstaendig?
+- [ ] Interne Vorabpruefung auf Schwachstellen abgeschlossen?
+- [ ] Ansprechpartner und Auskunftspersonen bestimmt und geschult?
+- [ ] Nacherhebungsrisiko quantifiziert und Rueckstellungen geprueft?
+- [ ] Rechtsberatung fuer Einspruchsstrategie eingeschaltet?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Freiwillige Offenlegung von Fehlern vor Pruefungsbeginn wirkt strafmildernd; danach nicht mehr.
+- Auskunftspersonen ohne Vorbereitung machen unbedachte Aussagen die Nacherhebungen auslosen.
+- Unvollstaendige Dokumentation wird als Verschulden gewertet.
+- Pruefungsschwerpunkte koennen sich auf weitere Jahre ausweiten.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Pruefungsvorbereitungs-Checkliste mit Dokumentenanforderungen, Risikobewertungsmatrix fuer Pruefungsschwerpunkte und Einspruchs-Strategie-Memo.
+
+## Quellen
+
+- [§ 196 AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__196.html)
+- [UZK Art. 48 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Zollpruefung](https://www.zoll.de/DE/Fachthemen/Zoelle/zoll_node.html)
+- [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)

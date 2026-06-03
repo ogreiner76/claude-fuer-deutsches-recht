@@ -1,113 +1,87 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Begleitung von Aussenwirtschaftsprüfungen Zollprüfungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Prüfung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19 Sanktionen ZK Art. 48 Zollprüfung StPO §§ 102 ff. Durchsuchung. Prüfraster Vorbereitung Prüfung Anhörung Selbstanzeige freiwillige Offenlegung Bußgeldbescheid Strafverfahren. Output Prüfungsbegleitpaket mit Dokumentenliste Anhoerungsstrategie und Sanktions-Risikobewertung. Abgrenzung zu aussenwirtschaft-presse-krise und aussenwirtschaft-icp-kontrollsystem."
+description: 'Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rechtsmittelschriftsatz.'
 ---
 
-# Prüfungen, Ermittlungen und Offenlegung
+# BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill führt Sofortmaßnahmen, Verteidigung, Kommunikationskanal, Aktenlog und Behördenstrategie zusammen.
+- BAFA kuendigt Aussenpruefung fuer den naechsten Monat an; Unternehmen muss sich vorbereiten.
+- Zollbetriebspruefung deckt Fehler bei Praeferenzursprungsangaben auf; Nachzoll droht.
+- Laufende Zollpruefung geht in strafrechtliche Ermittlung ueber; Rechtsanwalt sofort einschalten.
 
-## Wann verwenden
+## Erste Schritte
 
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
+1. Pruefungsankuendigung analysieren: Pruefungsgegenstand, Zeitraum, Pruefungsteam.
+2. Relevante Unterlagen zusammenstellen und Lueckenanalyse durchfuehren.
+3. Auskunftspflichtige Mitarbeiter identifizieren und briefen (keine Spontanaussagen).
+4. Rechtsanwalt fuer Pruefungsbegleitung einschalten.
+5. Pruefung protokollieren: alle Fragen, Antworten und ausgehaendigten Unterlagen dokumentieren.
+6. Bei Uebergang zu Ermittlung: sofort Schweigerecht belehren und Verteidiger beiziehen.
+
+## Rechtsrahmen
+
+- **AWG § 14**: Auskunftspflichten gegenueber Behoerden.
+- **§ 393 AO**: Steuerliche Auskunftspflicht und strafrechtliches Schweigerecht.
+- **UZK Art. 48**: Zollamtliche Pruefung; Rechte und Pflichten.
+- **§ 148 AO**: Akteneinsicht und Gegendarstellung.
+- **StPO § 97**: Beschlagnahmefreiheit; Schutz anwaltlicher Unterlagen.**
+
+## Pruef-Raster
+
+- [ ] Pruefungsgegenstand und -zeitraum verstanden?
+- [ ] Unterlagen vollstaendig und vorbereitet?
+- [ ] Mitarbeiter gebriefte: keine Spontanaussagen, Weiterleitung an Rechtsanwalt?
+- [ ] Alle Fragen und Antworten protokolliert?
+- [ ] Ausgehae ndigte Dokumente kopiert und protokolliert?
+- [ ] Bei Ermittlungsuebergang: Schweigerecht und Verteidiger sofort?
+
+## Typische Fallstricke
+
+- Spontanaussagen von Mitarbeitern ohne Rechtsberatung koennen Ermittlungen ausloesen.
+- Unterlagen aushändigen ohne Kopie behalten; Kontrollverlust ueber Beweislage.
+- Auskunftspflicht nach AWG gilt nicht fuer selbstbelastende Angaben.
+- Zollpruefung und BAFA-Pruefung laufen parallel; keine koordinierte Verteidigung.
 
 ## Arbeitsweise
 
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
 
-## Rückfragen, wenn unklar
+## Schnittstellen zu anderen Skills
 
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
 
-## Ausgabeformat
+## Qualitaetsanforderungen
 
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Typische Fehler vermeiden
+## Output
 
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+Pruefungsbegleit-Protokoll-Vorlage, Mitarbeiter-Briefing-Handout, Dokumentenherg abe-Protokoll und Rechtsmittelschriftsatz-Gliederung.
 
-## Triage bei Behoerdenpruefung oder Ermittlung
+## Quellen
 
-Kläre vor der Erstreaktion:
-
-1. Handelt es sich um eine verwaltungsrechtliche BAFA-/Zoll-Pruefung oder ein strafrechtliches Ermittlungsverfahren (Zollfahndungsamt, StA)?
-2. Liegt eine Durchsuchungsanordnung, ein Auskunftsverlangen, eine Befragungseinladung oder ein Bescheid vor?
-3. Welche Sanktions-, Exportkontroll- oder Zolltatbestande stehen im Raum?
-4. Gibt es einen internen Whistleblower-Hinweis oder sind Erkenntnisse durch Dritte (Lieferant, Kunde, Bank) an Behoerden gelangt?
-5. Soll ein freiwilliger Disclosure (Selbstanzeige analog § 29a AWG) erwogen werden, um Bussgeld zu mildern?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette Pruefung/Ermittlung
-
-- §§ 102, 103 StPO — Durchsuchung beim Beschuldigten / Dritten
-- § 97 StPO — Beschlagnahmeverbot anwaltlicher Unterlagen
-- § 18 AWG — Straftatbestand Aussenwirtschaft (Freiheitsstrafe bis 15 Jahre)
-- § 19 AWG — Ordnungswidrigkeiten bis 500.000 EUR
-- § 29a AWG — Erweiterter Verfall / Einziehung von Tatvorteilen
-- § 153a StPO — Einstellung gegen Auflage (relevant fuer Compliance-Kooperation)
-- § 130 OWiG — Aufsichtspflichtverletzung, Verbandsgeldbusse § 30 OWiG bis 10 Mio EUR
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Erste-Reaktion-Checkliste Behoerdenmassnahme
-
-**Adressat:** Geschaftsfuehrung / Verteidiger — **Tonfall:** defensiv-strukturiert, beweissichernd
-
-```
-ERSTE-REAKTION-CHECKLISTE — BEHOERDENMASSNAHME
-Datum: [DATUM]
-Art der Massnahme: [ ] Durchsuchung / [ ] Auskunftsverlangen / [ ] Befragung / [ ] Bescheid
-Behoerde: [BAFA / ZFA [STANDORT] / StA [STANDORT] / Hauptzollamt]
-Aktenzeichen: [FALLS BEKANNT]
-Bearbeiter: [VERTEIDIGER]
-
-SOFORTMASSNAHMEN (T+0)
-[ ] Verteidiger mandatiert — Name: [NAME], Tel: [TEL]
-[ ] Mitarbeiter angewiesen, keine Aussagen zu machen ohne Anwalt
-[ ] Legal Hold ausgegeben — betroffene Bereiche: [LISTE]
-[ ] Dokumente, E-Mails, Chats — KEIN Loeschen
-
-PARALLEL (T+1 bis T+3)
-[ ] Durchsuchungsprotokoll / Bescheid aufbewahren (Original)
-[ ] Beschlagnahmte Unterlagen protokollieren
-[ ] Internes Reporting an Aufsichtsrat / Gesellschafter (soweit erforderlich)
-[ ] Erste Einschaetzung Sachverhalt intern dokumentieren
-
-STRATEGISCHE ENTSCHEIDUNGEN (T+5 bis T+14)
-[ ] Freiwilliger Disclosure (§ 29a AWG Analogie) erwogen: [ ] Ja / [ ] Nein
-[ ] Kooperation mit Behoerde geplant: [ ] Ja — Umfang: [...]
-[ ] Strafanzeige gegen Dritte: [ ] Erwogen / [ ] Nicht relevant
-
-VERTEIDIGUNGSSTRATEGIE
-Vorwurf: [KURZBESCHREIBUNG]
-Kernargument Verteidigung: [...]
-Erste Einschaetzung Strafbarkeitsrisiko: [ ] Gering / [ ] Mittel / [ ] Hoch
-```
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+- [AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/index.html)
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [BAFA Aussenpruefung](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)

@@ -1,47 +1,87 @@
 ---
 name: aussenwirtschaft-produktsicherheit-vub-schnittstelle
-description: "Vertiefter Skill fuer Produktsicherheit VUB Schnittstelle. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien.'
 ---
 
-# Produktsicherheit VUB Schnittstelle
+# Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **Produktsicherheit VUB Schnittstelle** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Importeur bringt Elektrogeraete aus China ein; RAPEX-Warnung fuer aehnliches Modell im System.
+- Zollamt haelt Sendung auf; CE-Kennzeichnung nicht erkennbar echt; Pruefpflicht.
+- Spielzeug-Einfuhr aus Drittland; Zollstelle fordert Konformitaetserklarung und technische Dokumentation.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. Produktkategorie identifizieren und anwendbare EU-Richtlinien/Verordnungen bestimmen (LVD, EMV, SpielzeugRL).
+2. CE-Kennzeichnungspflicht pruefen und Konformitaetserklarung vollstaendig?
+3. RAPEX-Datenbank auf Warnmeldungen fuer Produkt und Modell pruefen.
+4. Technische Dokumentation und Pruefberichte vorbereiten.
+5. Zollstellen-VuB-Codes in TARIC fuer Produktkategorie pruefen.
+6. Bei Aufhaltung: Rechtsmittel und Schnellpruefverfahren koordinieren.
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **VO (EU) 2019/1020**: Marktueberwaechung und Zollbehordenzusammenarbeit.
+- **RL 2014/35/EU (LVD)**: Niederspannungsgeraete, CE-Pflicht.
+- **RL 2009/48/EG**: Spielzeugsicherheit.
+- **RL 2014/53/EU (RED)**: Funkanlagen.
+- **§ 6 ProdSG**: Bereitstellungsverbote bei unsicheren Produkten im nationalen Recht.**
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] Anwendbare EU-Richtlinien und CE-Pflicht fuer Produktkategorie geprueft?
+- [ ] CE-Kennzeichnung und Konformitaetserklarung vollstaendig?
+- [ ] RAPEX-Datenbank auf Produkttyp und Hersteller geprueft?
+- [ ] Technische Dokumentation vollstaendig und zugaenglich?
+- [ ] TARIC-VuB-Codes fuer Produktkategorie abgerufen?
+- [ ] Zollstellen-Reaktionsprotokoll bei Aufhaltung vorbereitet?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- CE-Faelschungen aus Drittlaendern; Zollamt und Marktueberwaechungsbehoerde pruefen auf Echtheit.
+- RAPEX-Meldung loest automatische verstaerkte Kontrolle aus; Importeur nicht immer informiert.
+- Technische Dokumentation nur auf Chinesisch; Zollstelle verlangt deutsche Uebersetzung.
+- Spielzeug-Einzel-Spezifikationen wurden seit Produktionsstart geaendert; Konformitaetserklarung nicht aktualisiert.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+Einfuhr-VuB-Matrix fuer relevante Produktkategorien, RAPEX-Pruefprotokoll, CE-Dokumentations-Checkliste und Rechtsmittelvorlage bei Aufhaltung.
+
+## Quellen
+
+- [RAPEX-Datenbank EU-Kommission](https://ec.europa.eu/safety-gate-alerts/screen/webReport)
+- [VO (EU) 2019/1020 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R1020)
+- [Zoll.de Produktsicherheit](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Produktsicherheit/produktsicherheit_node.html)
+- [ProdSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/prodsg_2011/index.html)

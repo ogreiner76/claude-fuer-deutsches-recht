@@ -1,47 +1,86 @@
 ---
 name: aussenwirtschaft-eori-registrierung-stammdaten
-description: "Vertiefter Skill fuer EORI Registrierung Stammdaten. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: 'EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsformular und Stammdaten-Pruefcheckliste.'
 ---
 
-# EORI Registrierung Stammdaten
+# EORI-Registrierung: Beantragung und Stammdatenpflege
 
-## Zweck
+## Mandantenfall
 
-Dieser Skill behandelt **EORI Registrierung Stammdaten** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
+- Neugegründetes Unternehmen moechte erstmalig exportieren; EORI-Nummer beantragen.
+- UK-Tochtergesellschaft nach Brexit hat keine EU-EORI; Regelungsalternativen.
+- Unternehmen hat Sitzverlegung nicht gemeldet; Zollanmeldungen werden abgelehnt.
 
-## Startfragen
+## Erste Schritte
 
-- Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?
-- Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen?
-- Welche Laender, Parteien, Eigentums- und Kontrollverhaeltnisse, Endverwender und Zwischenhaendler sind sichtbar?
-- Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklaerung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid?
-- Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behoerdenfrist, Ermittlungsdruck oder interne Freigabe?
+1. EORI-Antragsformular beim Hauptzollamt herunterladen und vollstaendig ausfuellen.
+2. Erforderliche Belege zusammenstellen: Handelsregisterauszug, Steuernummer, Adresse.
+3. Antrag online einreichen (zoll.de Antragsformular oder Zoll-Portal).
+4. EORI-Nummer in alle relevanten Systeme (ATLAS, Zollagent, Bankinstrument) eintragen.
+5. Stamdaten-Update-Pflicht nach UZK Art. 9 Abs. 3 bei Aenderungen von Anschrift, Rechtsform oder GF.
+6. UK-Tochtergesellschaft: Separate UK-EORI bei HMRC beantragen (kein EU-EORI nach Brexit).
 
-## Workflow
+## Rechtsrahmen
 
-1. **Sachverhalt einfrieren:** Beteiligte, Gueter, Werte, Laender, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-2. **Rechtsrahmen abgrenzen:** EU-Recht, AWG/AWV, Dual-Use, Embargo, Zollkodex, nationale Verbote, US-/UK-/CH-Touchpoints nur als Risikoanker markieren.
-3. **Listen- und Red-Flag-Pruefung:** Gueterlisten, Sanktionslisten, Eigentum/Kontrolle, Endverwendung, Umgehung, Zahlungsauffaelligkeiten.
-4. **Beleglage pruefen:** Welche Annahme ist belegt, welche nur behauptet, welche muss von Vertrieb, Einkauf, Logistik, Zollbroker oder Bank nachgereicht werden?
-5. **Entscheidungsvorschlag:** Freigabe, Hold, BAFA-/Zoll-/BMWK-Anfrage, Nullbescheid, Genehmigungsantrag, interne Eskalation oder freiwillige Offenlegung.
-6. **Audit-Trail:** Entscheidung, Quellenstand, Pruefschritte, offene Punkte und Verantwortliche nachvollziehbar dokumentieren.
+- **UZK Art. 9**: EORI-Registrierungspflicht fuer Wirtschaftsbeteiligte.
+- **UZK-DA Art. 3**: Informationspflichten fuer EORI-Registrierung.
+- **UZK-IA Art. 7**: Elektronische Systeme und EORI-Datenbank.
+- **§ 10 ZollVG**: Nationale Erweiterung fuer EORI-Verfahren.
+- **UZK Art. 5 Nr. 27**: Definition des Wirtschaftsbeteiligten mit EORI-Pflicht.
 
-## Ausgabe
+## Pruef-Raster
 
-- Kurzbild mit Ampel: Gruen / Gelb / Rot.
-- Pruefmatrix mit Tatsachen, Belegen, Rechtsanker und offenen Punkten.
-- Entscheidungsvorschlag fuer Legal/Compliance/Business.
-- Behoerden- oder Gegenparteien-Fragenkatalog.
-- Freigabeprotokoll oder Sperrvermerk.
+- [ ] EORI-Registrierung vollstaendig und aktuell?
+- [ ] Stammdaten nach jeder relevanten Aenderung aktualisiert?
+- [ ] EORI in ATLAS und Zollsystemen korrekt hinterlegt?
+- [ ] UK-Tochtergesellschaft separat mit UK-EORI ausgestattet?
+- [ ] Vertretungsbefugnis fuer EORI-Nutzung durch Bevollmaechtigte geregelt?
+- [ ] EORI-Nummer in Shipping-Dokumenten korrekt angegeben?
 
-## Quellen- und Sicherheitsregel
+## Typische Fallstricke
 
-Keine veraltete Listenlage behaupten. Bei konkreter Freigabe immer aktuelle amtliche oder frei zugaengliche Quellen live pruefen oder sichtbar als noch zu pruefen markieren. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn Sanktionen, Embargos oder Zolltarifdaten entscheidend sind, den Quellenstand mit Datum protokollieren.
+- Veraltete Stammdaten fuehren zu Ablehnungen in ATLAS.
+- UK-EORI und EU-EORI nach Brexit nicht kompatibel; separate Registrierungen noetig.
+- EORI-Delegation an Zollagenten bedarf korrekter Vollmachtserteilung.
+- Konzerngesellschaften benoetigen je eine eigene EORI-Nummer.
 
-## Qualitaetsgate
+## Arbeitsweise
 
-- Sind alle Parteien inklusive UBO/Eigentum/Kontrolle betrachtet?
-- Sind Ware, Software, Technologie und Dienstleistung getrennt geprueft?
-- Ist die Entscheidung fuer Nichtjuristen im Business verstaendlich?
-- Sind offene Punkte nicht als Freigabe versteckt?
-- Gibt es eine klare naechste Handlung mit Verantwortlichem und Frist?
+Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
+Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
+dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
+Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
+oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
+protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
+Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
+(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Output
+
+EORI-Antragsformular, Stammdaten-Pruefcheckliste, Update-Protokoll fuer Aenderungen und UK-EORI-Antragshilfe.
+
+## Quellen
+
+- [UZK Art. 9 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de EORI-Registrierung](https://www.zoll.de/DE/Fachthemen/Zoelle/EORI-Nummer/eori-nummer_node.html)
+- [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)
