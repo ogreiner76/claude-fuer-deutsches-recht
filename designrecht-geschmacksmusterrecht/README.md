@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart** ([`testakten/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat/`](../testakten/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat/)).
-
-Direkt-Download als ZIP: [testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin führt durch das Designrecht, also das frühere Geschmacksmusterrecht, vom ersten Produktfoto bis zur Anmeldung, Registerstrategie, Verletzungsprüfung, Nichtigkeit und gerichtlichen Durchsetzung. Es ist bewusst praktisch gebaut: erst Bild, Produkt, Offenbarung und Frist klären, dann Schutzweg und Risiko bestimmen, dann den verwertbaren Output liefern.
 
 ## Arbeitsmodus

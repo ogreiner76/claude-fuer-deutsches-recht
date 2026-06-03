@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Umweltverbandsakte Moorbach** ([`testakten/umweltschutzverband-windpark-moorbach-umwrg/`](../testakten/umweltschutzverband-windpark-moorbach-umwrg/)).
-
-Direkt-Download als ZIP: [testakte-umweltschutzverband-windpark-moorbach-umwrg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin ist für anerkannte und werdende Umweltvereinigungen gebaut: Beteiligung, Einwendungen, Akteneinsicht, Umweltinformationen, Verbandsklage, Normenkontrolle und strategische, aber sorgfältige Prozessführung.
 
 ## Start

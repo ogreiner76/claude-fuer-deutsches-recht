@@ -21,18 +21,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Kanzlei-Allgemein-Plugin** ([`testakten/kanzlei-allgemein-alltag/`](../testakten/kanzlei-allgemein-alltag/)).
-
-Direkt-Download als ZIP: [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Technischer Plugin-Name: `kanzlei-allgemein`.
 
 Eigenständiges großes Kanzlei-Plugin für den gesamten Arbeitszyklus einer Kanzlei. **Mit v11.0.0 wurden die Skills des früheren `kanzlei-cowork`-Plugins vollständig in `kanzlei-allgemein` integriert** — Fristenbuch, Timesheet, RVG-Rechnung, Versand-Vor-Check, beA-Versand-Prüfung, Posteingang/Postausgang, Mandantenakte, Aktenbestandspflege, Honorar-Mahnwesen, Mandantenbriefe, Geburtstage, Weihnachtskarten und Sekretariats-Tagesbrief.

@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Selbstvertreter Sozialgericht — Heizkosten und Eilantrag** ([`testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/`](../testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/)).
-
-Direkt-Download als ZIP: [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Für wen ist das?
 
 Sie sind versichert oder beziehen Sozialleistungen. Sie haben einen Bescheid bekommen und sind nicht einverstanden. Sie haben keinen Anwalt oder können sich keinen leisten. Dieses Plugin hilft Ihnen Schritt für Schritt.

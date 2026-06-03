@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Falkenried & Partner mbB — Managementakte Q2/2026** ([`testakten/kanzlei-management-falkenried-partnerkreis-q2-2026/`](../testakten/kanzlei-management-falkenried-partnerkreis-q2-2026/)).
-
-Direkt-Download als ZIP: [testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Ein Mega-Plugin für die Leitung einer deutschen mittelständischen Kanzlei aus Sicht des Managing Partners, der Geschäftsführung, eines Management Committees oder einer starken COO-/CFO-Rolle.
 
 Es geht um das ganze schöne, anstrengende Betriebsleben: Partnerkreis, Praxisgruppen, Cashflow, Pricing, Associate-Retention, WIP, UBT, FTE, Utilization, offene Posten, Business Development, Legal Tech, Fristen- und Qualitätsrisiken, Egos, Kultur und die Frage, wie man eine Kanzlei führt, ohne sie in ein Controlling-Museum oder einen Stuhlkreis zu verwandeln.

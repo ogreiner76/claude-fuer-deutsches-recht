@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Schifffahrtsakte** ([`testakten/seerecht-schiffshypothek-werft-wrack-bermuda/`](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/)).
-
-Direkt-Download als ZIP: [testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin verbindet deutsches Seehandels- und Registerrecht mit internationaler Schifffahrtspraxis: Schiffbau, Verkauf, Finanzierung, Schiffshypothek, Arrest, Wrack/Bergung, Charter, Kollision, Insolvenz und ITLOS/UNCLOS.
 
 ## Start

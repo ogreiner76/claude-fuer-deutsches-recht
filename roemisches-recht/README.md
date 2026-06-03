@@ -1,6 +1,5 @@
 # Römisches Recht
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -24,18 +23,6 @@ Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Insti
 
 Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafeltradition über Klassik und Justinian bis zum byzantinischen Recht. Es erzeugt je nach Bedarf Memos, Quellenmatrizen, Synopsen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Römischrechtliche Fallakte Aventinus** ([`testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/`](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/)).
-
-Direkt-Download als ZIP: [testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Arbeitsweise
 
 1. Rolle, Ziel und Material klären.
@@ -53,7 +40,6 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 ## Quellen- und Qualitätsdisziplin
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

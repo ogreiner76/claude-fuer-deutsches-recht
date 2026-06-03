@@ -1,6 +1,5 @@
 # Festlandchina Wirtschaftsverkehr
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -24,18 +23,6 @@ China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunde
 
 Dieses Plugin führt durch **Festlandchina Wirtschaftsverkehr** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **China-Wirtschaftsakte Morgenstern** ([`testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/`](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/)).
-
-Direkt-Download als ZIP: [testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Arbeitsweise
 
 1. Rolle, Ziel und Material klären.
@@ -53,7 +40,6 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 ## Quellen- und Qualitätsdisziplin
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

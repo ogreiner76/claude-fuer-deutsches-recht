@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **ÖPP-Akte Schulcampus Havelstadt** ([`testakten/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt/`](../testakten/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt/)).
-
-Direkt-Download als ZIP: [testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarbeiten dürfen: Organisationsform, Vergabe, Beihilfe, ÖPP, kommunale Wirtschaft, Daseinsvorsorge, Privatisierung und Kontrolle.
 
 ## Start

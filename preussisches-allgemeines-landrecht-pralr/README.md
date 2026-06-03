@@ -1,6 +1,5 @@
 # Preußisches Allgemeines Landrecht (PrALR)
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -24,18 +23,6 @@ Das PrALR-Plugin macht das **Allgemeine Landrecht für die Preußischen Staaten*
 
 Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unterschiedlichen Jahren oder Drucktraditionen stammen können. Der erste Schritt ist deshalb immer: **Welcher Textzeuge liegt vor?** Danach kommen Systemstelle, Geltungsraum, heutige Fortwirkung und Output.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** ([`testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/`](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/)).
-
-Direkt-Download als ZIP: [testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Arbeitsweise
 
 1. Textzeuge und Ausgabejahr klären: Scan, OCR, PDF, 1794-Druck, spätere Ausgabe oder Sekundärhinweis.
@@ -55,7 +42,6 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 ## Quellen- und Qualitätsdisziplin
 
 Keine Scheinfundstellen, keine OCR-Fundstellen ohne Scan-Gegenprobe, keine Gleichsetzung verschiedener Digitalisate. Für aktuelle Rechtsanwendung: immer Live-Check mit heutiger Norm, Landesrecht und frei zugänglicher Rechtsprechung.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

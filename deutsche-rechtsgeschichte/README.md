@@ -1,6 +1,5 @@
 # Deutsche Rechtsgeschichte
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -24,18 +23,6 @@ Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen,
 
 Dieses Plugin führt durch **Deutsche Rechtsgeschichte** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Rechtsgeschichtliche Akte Falkenau** ([`testakten/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet/`](../testakten/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet/)).
-
-Direkt-Download als ZIP: [testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Arbeitsweise
 
 1. Rolle, Ziel und Material klären.
@@ -53,7 +40,6 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 ## Quellen- und Qualitätsdisziplin
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien** ([`testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/`](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/)).
-
-Direkt-Download als ZIP: [testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin behandelt Mode nicht als hübschen Sonderfall, sondern als verdichteten Rechtslebenszyklus: Entwurf, Rechtekette, Produktion, Lieferkette, Label, Launch, Vertrieb, Plattform, Influencer, Nachhaltigkeit, Krise, Kopie und Exit. Es ist für Kanzlei, Inhouse Legal, Founder, Kreativteam und Retail gebaut.
 
 ## Arbeitsmodus

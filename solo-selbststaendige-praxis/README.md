@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** ([`testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/`](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/)).
-
-Direkt-Download als ZIP: [testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Ein Alltags-Cockpit für Menschen, die alleine selbstständig arbeiten und trotzdem mit Finanzamt, Kunden, Krankenkasse, DRV, KSK, Datenschutz, Verträgen, Rechnungen, Mahnungen und dem eigenen Kontostand klarkommen müssen.
 
 Das Plugin ist bewusst praktisch: Es fragt zuerst, ob die Person Anfängerin/Anfänger ist, ob es Haupt- oder Nebenerwerb ist, ob Gewerbe oder Freiberuf in Betracht kommt, ob gerade eine Frist läuft und ob ein Dokument vorliegt. Danach erzeugt es keine Wolke aus Ratschlägen, sondern ein konkretes Ergebnis: Mail, Checkliste, Rechnungstext, Vertragsbaustein, Statusmatrix, Fristenlog oder Entscheidungsmemo.

@@ -30,24 +30,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 5 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte | [`testakten/beispielakte-edelholz-berlin/`](../testakten/beispielakte-edelholz-berlin/) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| Fortbestehensprognose Paragrafix GmbH | [`testakten/fortbestehensprognose-paragrafix-gmbh/`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| Großkanzlei Corporate/M&A Datenraum | [`testakten/grosskanzlei-corporate-ma-datenraum/`](../testakten/grosskanzlei-corporate-ma-datenraum/) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
-| Grunderwerbsteuer Share Deal Waldkrone | [`testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/`](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/) | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-| Grundsteuer Rosenwinkel-Bescheidkette | [`testakten/grundsteuer-rosenwinkel-bescheidkette/`](../testakten/grundsteuer-rosenwinkel-bescheidkette/) | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 > **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
 >
 > Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.

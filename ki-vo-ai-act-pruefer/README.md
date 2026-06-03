@@ -25,18 +25,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **KI-VO: BewerberPilot TalentRank** ([`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/)).
-
-Direkt-Download als ZIP: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Konformitäts-Evidence-Pack, Sanktionen und Entscheidungsbaum-Workflow.
 
 **Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.**

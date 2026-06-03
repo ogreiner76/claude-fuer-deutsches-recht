@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Einheitsvertragsakte Lindenau** ([`testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/`](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/)).
-
-Direkt-Download als ZIP: [testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.
 
 ## Start

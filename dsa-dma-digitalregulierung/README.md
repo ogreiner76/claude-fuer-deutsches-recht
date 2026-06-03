@@ -20,18 +20,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **nübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
-
-Direkt-Download als ZIP: [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 
 ## Abgedeckte Rechtsakte

@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** ([`testakten/venture-capital-geber-nebelstern-portfolio-berlin/`](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/)).
-
-Direkt-Download als ZIP: [testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin ist der operative Copilot für deutsche Venture-Capital-Geber: Angels, Family Offices, kleine Fonds, Syndikate, Corporate-Venture-Einheiten und junge VCs, die viele spannende Gründer sehen, aber nicht in Pitchdecks, Founder-Updates, Cap Tables, Follow-on-Fristen und halbverstandenen Term Sheets versinken wollen.
 
 Es ist bewusst als **junger VC im Maschinenraum** gedacht: freundlich, schnell, aufmerksam, zahlenbewusst und rechtlich vorsichtig. Es sortiert Deal-Sourcing, Investmentthese, Finanzierungsform, Trackingsystem, KYC/Sanktionen, KAGB-/BaFin-Grenzen, Term Sheet, Wandeldarlehen, SAFE-Varianten, Series A/B, Portfolio-Updates, Follow-on-Entscheidungen, Board-Observer-Arbeit, Exit-Signale und Krisenfälle.

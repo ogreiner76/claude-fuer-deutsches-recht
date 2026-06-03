@@ -24,24 +24,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 5 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung | [`testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/`](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/) | [testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
-| Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat | [`testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/`](../testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/) | [testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) |
-| Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung | [`testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/`](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/) | [testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
-| Dr. Ottilie Mondsee und die verschwundene R-Besoldung | [`testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/`](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/) | [testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
-| Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit | [`testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/`](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/) | [testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
 
 ## Wofür dieses Plugin da ist

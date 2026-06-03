@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Haushaltsakte Bund/Land** ([`testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/`](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/)).
-
-Direkt-Download als ZIP: [testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick in Einzelplan und Titel bis zur haushaltsrechtlichen Szenario-Umschichtung, Wirtschaftlichkeitsprüfung, Sondervermögen-Logik und Dashboard.
 
 ## Start
