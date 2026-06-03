@@ -1,50 +1,84 @@
 ---
 name: chn-003-china-strategie-bundesregierung-umsetzen
-description: "Festlandchina Wirtschaftsverkehr: China Strategie Bundesregierung Umsetzen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan.'
 ---
 
-# China Strategie Bundesregierung Umsetzen
+# China-Strategie der Bundesregierung: Unternehmensumsetzung
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **China Strategie Bundesregierung Umsetzen** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Aufsichtsrat bittet um Überblick, welche konkreten Pflichten die China-Strategie 2023 für das Unternehmen auslöst.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Eine Compliance-Abteilung will prüfen, ob bestehende Richtlinien die Anforderungen der Bundesstrategie abdecken.
 
-## Fachlicher Zugriff
+**Fall 3:** Ein Mittelständler fragt, ob und wann er seine China-Aktivitäten gegenüber BMWK oder BAFA melden muss.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. China-Strategie der Bundesregierung (Juli 2023) lesen: Schwerpunkte De-risking, Reziprozität, Menschenrechte, Technologieschutz.
+2. Gap-Analyse: Welche der benannten Risikobereiche treffen das Unternehmen?
+3. AWV-Meldepflichten und BAFA-Lizenzen auf Aktualität prüfen.
+4. LkSG-Risikoanalyse um China-spezifische Aspekte ergänzen.
+5. Interne Richtlinien (Export, Einkauf, JV) auf Strategie-Konformität prüfen.
+6. Berichterstattung an Aufsichtsrat und Investoren strukturieren.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- China-Strategie der Bundesregierung 2023: Politisch-strategischer Rahmen, kein unmittelbares Gesetz.
+- §§ 55 ff. AWG, §§ 55-62a AWV: Investitionsprüfung als konkretes Rechtsinstrument.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus EU-Ebene.
+- §§ 3-10 LkSG: Sorgfaltspflichten, Risikomanagement, Risikoanalyse.
+- BAFA-Merkblatt Exportkontrolle: Genehmigungspflichten als Umsetzungsinstrument.
+- Critical Raw Materials Act EU 2024: Diversifizierungsziele für kritische Rohstoffe.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Welche Strategie-Cluster betreffen das Unternehmen (Technologie, Rohstoffe, FDI, Menschenrechte)?
+- Bestehen Meldepflichten, die noch nicht erfüllt sind?
+- Sind Lücken in der LkSG-Risikoanalyse zu China erkennbar?
+- Gibt es Board-Reporting-Anforderungen an Investoren oder Aufsichtsrat?
+- Welche Vertragsklauseln müssen bei Neuabschlüssen ergänzt werden?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Strategie als rein politisches Dokument ignorieren: Behörden orientieren sich zunehmend daran.
+- AWV-Fristen versäumen bei Übernahmen durch chinesische Investoren.
+- LkSG-Risikoanalyse ohne China-Kapitel ist unvollständig und anfechtbar.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Gap-Analyse bestehender Compliance vs. China-Strategie 2023, priorisierter Maßnahmenplan, Board-Memo-Entwurf.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [BMWK China-Strategie 2023](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)

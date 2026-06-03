@@ -1,50 +1,83 @@
 ---
 name: chn-007-single-source-risk
-description: "Festlandchina Wirtschaftsverkehr: Single Source Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen.'
 ---
 
-# Single Source Risk
+# Single-Source-Risiko China: Bewertung und Notfallplanung
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Single Source Risk** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Pharmaunternehmen bezieht 80 Prozent eines API-Wirkstoffs ausschließlich von einem chinesischen Hersteller.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Ein Elektronikhersteller hat keinen Alternativlieferanten für eine spezifische Halbleiter-Komponente aus China.
 
-## Fachlicher Zugriff
+**Fall 3:** Eine Rechtsabteilung fragt, wie Single-Source-Risiken vertraglich abgesichert werden können.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Single-Source-Güter identifizieren: Produktgruppen ohne alternativen Lieferanten.
+2. Kritikalitätsbewertung: Produktionsausfall bei Lieferstop, Zeithorizont Substitution.
+3. Lieferantenrisiken prüfen: Staatsbeteiligung, XUAR-Bezug, Finanzkraft, Compliance-Status.
+4. Vertragliche Analyse: Bestehen Force-Majeure-, Lieferpflicht- und Pönale-Klauseln?
+5. Dual-Sourcing-Optionen identifizieren: Kosten, Qualität, Vorlaufzeit.
+6. Notfallplan erstellen: Lagerhaltung, Substitutionsplan, Kommunikationspflichten.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- § 5 LkSG: Risikoanalyse muss Abhängigkeiten von einzelnen Lieferanten erfassen.
+- Critical Raw Materials Act EU 2024: Strategische Rohstoffe dürfen nicht über 65 Prozent aus einem Drittland bezogen werden.
+- § 313 BGB: Wegfall der Geschäftsgrundlage bei Lieferausfall.
+- § 275 BGB: Unmöglichkeit der Leistung bei Exportverbot Ursprungsland.
+- Force-Majeure-Klauseln in Verträgen nach CISG Art. 79.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Welche Güter haben keinen außerchinesischen Alternativlieferanten?
+- Wie lange kann die Produktion ohne den China-Lieferanten aufrechterhalten werden?
+- Sind Puffer-Lagerbestände definiert und finanziert?
+- Bestehen vertragliche Lieferverpflichtungen gegenüber Kunden, die gefährdet sind?
+- Gibt es regulatorische Diversifizierungspflichten (CRMA, LkSG)?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Scheinvielfalt: Mehrere chinesische Lieferanten aus dem gleichen Ort/Konzern sind kein Dual-Sourcing.
+- Force-Majeure-Lücke: Exportverbote werden in vielen Klauseln nicht als Force Majeure anerkannt.
+- Substitution teurer als gedacht: Qualitätsunterschiede erfordern oft teure Neuzulassungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Single-Source-Risikobericht (Güter, Kritikalität, Optionen), Dual-Sourcing-Roadmap, Notfallplan-Vorlage, Vertragsklausel-Empfehlung.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [Critical Raw Materials Act EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1252)
+- [BGB Volltext §§ 275 und 313](https://www.gesetze-im-internet.de/bgb/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)

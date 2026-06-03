@@ -1,50 +1,83 @@
 ---
 name: chn-010-importeur-eu-compliance
-description: "Festlandchina Wirtschaftsverkehr: Importeur EU Compliance. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Checkliste und Behördenkoordinations-Plan.'
 ---
 
-# Importeur EU Compliance
+# Importeur EU-Compliance: Waren aus China
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Importeur EU Compliance** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Elektrohändler importiert Verbraucherprodukte aus China und fragt, welche CE-Pflichten er hat.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Ein Logistikunternehmen fragt, wie Anti-Dumping-Zölle auf Stahlprodukte aus China berechnet werden.
 
-## Fachlicher Zugriff
+**Fall 3:** Eine Beschaffungsabteilung will wissen, welche Dokumente beim Import von Chemikalien aus China EU-seitig erforderlich sind.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Warengruppe klassifizieren: Welche EU-Richtlinien/Verordnungen gelten (CE, REACH, RoHS, Batterien-VO)?
+2. Anti-Dumping- und Antisubventionszölle prüfen: Betroffene CN-Codes in EU-TARIC abfragen.
+3. Zollursprungsregeln prüfen: Wird chinesischer Ursprung korrekt angegeben?
+4. LkSG-Pflichten: Importeur als mittelbare Zulieferer-Kette nach § 2 Abs. 7 LkSG.
+5. Forced-Labour-VO (EU) 2024/3015: Prüfen ob Waren von Verbots-Tatbestand erfasst.
+6. Marktüberwachungskoordination: Zuständige Behörden in Deutschland (BAuA, BNetzA, Zoll).
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EU-VO 2023/988 (Produktsicherheits-VO): Pflichten des Importeurs, Rückverfolgbarkeit.
+- EU-VO 2019/1020 (Marktüberwachungs-VO): Wirtschaftsakteur-Pflichten bei Import.
+- EU-VO 2016/1036 (Anti-Dumping): Zusatzzölle China-Import.
+- EU-VO 2024/3015 (Forced-Labour-VO): Marktverbot für Zwangsarbeits-Waren.
+- § 2 Abs. 7 LkSG: Mittelbare Zulieferer – Importeur ist Risikoträger.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Sind alle relevanten EU-Produktvorschriften für die importierten Waren erfüllt?
+- Bestehen Anti-Dumping-Zölle auf die betreffenden CN-Codes?
+- Ist der Zollursprung China korrekt deklariert?
+- Gibt es Hinweise auf Forced-Labour-Bezug beim Hersteller?
+- Sind LkSG-Risikoindikatoren für Lieferanten dokumentiert?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- CE-Selbsterklärung ungeprüft übernommen: Importeur haftet nach Produktsicherheits-VO selbst.
+- Anti-Dumping-Zölle ausgeblendet: Nachzahlungsforderung des Zolls mit Zinsen.
+- Ursprungsverschleierung: Re-Export über Drittland löscht nicht den chinesischen Ursprung.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Import-Compliance-Checkliste, Behörden-Mapping, Anti-Dumping-Prüfprotokoll, LkSG-Risikodokumentation.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [EU-VO 2023/988 Produktsicherheit EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0988)
+- [EU-VO 2019/1020 Marktüberwachung EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R1020)
+- [EU-VO 2016/1036 Anti-Dumping EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1036)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)

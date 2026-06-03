@@ -1,50 +1,83 @@
 ---
 name: chn-006-lieferantenmapping-tier-1-bis-tier-n
-description: "Festlandchina Wirtschaftsverkehr: Lieferantenmapping Tier 1 Bis Tier N. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan.'
 ---
 
-# Lieferantenmapping Tier 1 Bis Tier N
+# Lieferantenmapping Tier-1 bis Tier-n: China-Exposition erfassen
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Lieferantenmapping Tier 1 Bis Tier N** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Automobilzulieferer muss nach LkSG nachweisen, dass er seine mittelbaren Lieferanten in China kennt.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Ein Elektronikhersteller will prüfen, ob Tier-2-Lieferanten Komponenten aus XUAR beziehen.
 
-## Fachlicher Zugriff
+**Fall 3:** Eine Beschaffungsabteilung sucht eine Vorlage für strukturiertes Lieferantenmapping für China-Einkauf.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Direkte Lieferanten (Tier-1) identifizieren: Vertragspartner mit China-Bezug.
+2. Tier-2 ermitteln: Selbstauskunft Tier-1 oder Einkaufsberichte anfordern.
+3. Tier-3 und tiefer: Fokus auf Rohstoffquellen und XUAR-Bezüge.
+4. China-Expositions-Score je Lieferant berechnen: Umsatzanteil, Substituierbarkeit, XUAR-Bezug.
+5. LkSG-Risikoindikatoren ergänzen: Menschenrechts-, Umwelt-, Arbeitsrechtsrisiken.
+6. BAFA-Relevanzprüfung: Dual-Use-Güter in der Lieferkette identifizieren.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- §§ 5-7 LkSG: Risikoanalyse, unmittelbare und mittelbare Zulieferer.
+- § 10 LkSG: Beschwerdeverfahren für Lieferkettenrisiken.
+- EU CSDDD (2024/1760) Art. 8: Sorgfaltspflichten für mittelbare Geschaeftsbeziehungen.
+- XUAR-Bezug: Uyghur Forced Labor Prevention Act (USA) als Compliance-Referenz (kein DE-Recht).
+- BAFA-Merkblatt Dual-Use: Güter in Lieferkette auf AL-Listung prüfen.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Sind alle Tier-1-Lieferanten mit China-Bezug identifiziert?
+- Gibt es Hinweise auf XUAR-Ursprung von Materialien (Baumwolle, Polysilizium, Aluminium)?
+- Sind kritische Single-Source-Lieferanten in der Mapping-Matrix markiert?
+- Werden LkSG-Risikoindikatoren für jeden Lieferanten dokumentiert?
+- Gibt es Lücken im Mapping unterhalb Tier-2?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Tier-1-Fokus als LkSG-Fehler: Mittelbare Zulieferer müssen bei konkreten Hinweisen ebenfalls geprüft werden.
+- Selbstauskünfte ungeprüft übernommen: Lieferanten-Fragebogen ohne Audit ist unzureichend.
+- XUAR-Bezug schwer nachweisbar: Kein Zertifikat belegt zweifelsfrei XUAR-Freiheit.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Lieferanten-Mapping-Vorlage (Tier-1 bis Tier-n), China-Expositions-Score, Risiko-Ampel, Prüfungsplan, LkSG-Risikomatrix.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU CSDDD EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1760)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)

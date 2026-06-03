@@ -1,27 +1,27 @@
 ---
-name: chn-025-trade-defence-anti-dumping
-description: 'EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe.'
+name: chn-096-red-team-ideologischer-druck
+description: 'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, Gegenstrategien (Distanz wahren, Dokumentation), Rechtliche Grenzen CN-staatlicher Eingriffe. Output: Red-Team-Analyse ideologischer Risiken und Gegenstrategiepapier.'
 ---
 
-# EU Anti-Dumping China: Verfahren und laufende Maßnahmen
+# Red-Team: Ideologischer Druck auf Unternehmen in China
 
 Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
 Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
 ## Mandantenfall
 
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Trade Defence Anti Dumping beim Chinageschaeft.
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Red Team Ideologischer Druck beim Chinageschaeft.
 
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Trade Defence Anti Dumping für ein laufendes China-Projekt.
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Red Team Ideologischer Druck für ein laufendes China-Projekt.
 
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Trade Defence Anti Dumping im Kontext der De-risking-Strategie.
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Red Team Ideologischer Druck im Kontext der De-risking-Strategie.
 
 ## Erste Schritte
 
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Trade Defence Anti Dumping geprüft/erstellt werden?
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Red Team Ideologischer Druck geprüft/erstellt werden?
 2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
 3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Trade Defence Anti: Kritikalitätsbewertung nach De-risking-Matrix.
+4. Risikoeinschätzung Red Team Ideologischer: Kritikalitätsbewertung nach De-risking-Matrix.
 5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
 6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
 
@@ -44,7 +44,7 @@ Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand 
 
 Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-- Ist Trade Defence Anti-Relevanz für das konkrete Vorhaben gegeben?
+- Ist Red Team Ideologischer-Relevanz für das konkrete Vorhaben gegeben?
 - Welche Normen und Behörden sind zuständig?
 - Bestehen Genehmigungs- oder Meldepflichten?
 - Welche Fristen sind zu beachten?
@@ -55,7 +55,7 @@ Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
 Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
 
-- Trade Defence Anti-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Red Team Ideologischer-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
 - Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
 - Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
 
@@ -70,7 +70,7 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 
 ## Output
 
-Prüfbericht Trade Defence Anti, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
+Prüfbericht Red Team Ideologischer, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
 
 Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
 Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.

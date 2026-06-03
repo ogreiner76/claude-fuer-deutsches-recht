@@ -1,50 +1,85 @@
 ---
 name: chn-002-de-risking-nicht-decoupling
-description: "Festlandchina Wirtschaftsverkehr: De Risking Nicht Decoupling. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung.'
 ---
 
-# De Risking Nicht Decoupling
+# De-risking statt Decoupling: Strategie und operative Umsetzung
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **De Risking Nicht Decoupling** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein DAX-Konzern will seiner China-Geschaeftsstrategie eine formal belastbare De-risking-Dokumentation geben, die Investoren und Aufsichtsrat überzeugt.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Ein Mittelständler fragt, welche seiner China-Lieferanten echte Risiken darstellen und welche unbedenklich weiterlaufen können.
 
-## Fachlicher Zugriff
+**Fall 3:** Eine Anwaltskanzlei erarbeitet Compliance-Memo zu De-risking für drei Industriemandanten in unterschiedlichen Sektoren.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Begriffe klären: De-risking (selektive Risikominderung) vs. Decoupling (Totalentkopplung) nach EU-Kommissionsterminologie.
+2. Risikomatrix erstellen: Abhängigkeitsgrad, Substituierbarkeit, sicherheitspolitische Sensitivität je Lieferant/Technologie.
+3. Kritikalitätssektoren gemäß AWV-Anlage und KRITIS-Definition des BSI abgleichen.
+4. Bestehende JV- und Lieferverträge auf Change-of-Control und Kündigungsklauseln prüfen.
+5. De-risking-Fahrplan mit Zeithorizonten 1/3/5 Jahre erstellen.
+6. Board-Paper-Vorlage erstellen mit Risiko-Ampel, Maßnahmenplan und KPIs.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EU-Kommission Mitteilung 'Ein fairer und nachhaltiger Wirtschaftsansatz gegenüber China' 2023: Konzept De-risking.
+- § 55 AWG: Ermächtigungsgrundlage für Beschränkungen im nationalen Sicherheitsinteresse.
+- §§ 55-62a AWV: Sektorale Zuständigkeiten und Untersagungsvoraussetzungen.
+- Critical Raw Materials Act (EU) 2024 VO: Diversifizierungspflichten für kritische Rohstoffe.
+- EU-VO 2019/452 Art. 4: FDI-Screening-Kriterien als Risikoindikatoren.
+- § 4 LkSG: Risikomanagement-System als Referenzrahmen für De-risking-Dokumentation.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Welche Produkte/Technologien haben keinen außerchinesischen Substituten?
+- Welche Lieferanten sind staatsnah oder unter SAMR-Kontrolle?
+- Welcher Anteil des Umsatzes hängt von einem einzigen chinesischen Abnehmer ab?
+- Bestehen Transferverpflichtungen für Technologie in JV-Verträgen?
+- Sind kritische Rohstoffe (Seltene Erden, Gallium, Germanium) involviert?
+- Wie ist der Zeithorizont für Alternativbeschaffung realistisch einzuschätzen?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- De-risking als Alibi: Rein kosmetische Maßnahmen ohne operative Wirkung schaffen Haftungsrisiken.
+- Überregulierung unterschätzt: Zu schnelles Decoupling kann bestehende Verträge brechen und Schadenersatzpflichten auslösen.
+- Rohstoffketten ignoriert: Tier-2/Tier-3-Abhängigkeiten werden erst sichtbar, wenn Krise eintritt.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+De-risking-Fahrplan (Priorisierungsmatrix, Zeitplan, KPIs), Risiko-Ampel je Lieferant/Technologie, Board-Paper-Entwurf.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [BMWK China-Strategie 2023](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)

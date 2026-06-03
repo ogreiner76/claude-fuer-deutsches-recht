@@ -1,50 +1,83 @@
 ---
 name: chn-004-eu-china-trade-risk-dashboard
-description: "Festlandchina Wirtschaftsverkehr: EU China Trade Risk Dashboard. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus.'
 ---
 
-# EU China Trade Risk Dashboard
+# EU-China Trade-Risk-Dashboard: Aufbau und Betrieb
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **EU China Trade Risk Dashboard** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Konzern-CFO will ein monatliches China-Risikomonitoring, das er dem Aufsichtsrat vorlegen kann.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Eine Compliance-Abteilung sucht ein Tool, das Handelsrestriktionen, Anti-Dumping-Verfahren und FDI-Prüfungen automatisch trackt.
 
-## Fachlicher Zugriff
+**Fall 3:** Ein M&A-Team fragt, welche Datenpunkte ein China-Risk-Score für potenzielle Akquisitionsziele enthalten sollte.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Risikodimensionen festlegen: Handelsbilanz, Lieferkettenkonzentration, Regulierungs-/Sanktionsrisiko, politisches Risiko.
+2. Datenquellen identifizieren: Eurostat Außenhandel, BMWK-Handelsberichte, BAFA-Bescheide, EU-Amtsblatt (Anti-Dumping), BIS-Entity-List.
+3. KPI-Struktur definieren: Lieferantenkonzentration, Single-Source-Anteil, Genehmigungsquote BAFA.
+4. Aktualisierungsrhythmus festlegen: monatlich für Handelsdaten, täglich für Sanktions-/Exportkontrolllisten.
+5. Dashboard-Tool wählen: Excel, Power BI, interne Compliance-Plattform.
+6. Eskalationslogik definieren: ab welchem KPI-Wert geht Alarm an Geschäftsführung.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EU-VO 2019/452 Art. 4 und 9: Sektoren und Informationspflichten im FDI-Screening.
+- EU-VO 2016/1036: Anti-Dumping-Basisverordnung, Verfahrensübersicht.
+- EU-VO 2016/1037: Antisubventionsrecht, Countervailing-Verfahren.
+- §§ 55-62a AWV: Meldepflichten und Fristen als Dashboard-Trigger.
+- BIS Entity List (USA) – keine DE-Rechtsquelle, aber Compliance-Referenz für Export-Touchpoints.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Sind alle relevanten Handelsdatenquellen angebunden?
+- Werden Anti-Dumping- und Antisubventions-Verfahren der EU-Kommission automatisch erfasst?
+- Ist der FDI-Meldestatus nach AWV und EU-VO 2019/452 integriert?
+- Gibt es einen Sanktions-/Entity-List-Abgleich für Lieferanten und Abnehmer?
+- Ist der Aktualisierungsrhythmus für alle Datenquellen dokumentiert?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Veraltete Daten: Handelsstatistiken haben Verzögerung von 2-3 Monaten – für Tagesentscheidungen nicht geeignet.
+- Fehlende Tier-2/Tier-3-Daten: Dashboard erfasst nur direkte Lieferanten, nicht tiefere Lieferkette.
+- Keine Eskalationslogik: Dashboard ohne automatischen Alert ist wirkungslos.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Dashboard-Struktur (Dimensionen, KPIs, Datenquellen), Datenquellen-Matrix, Aktualisierungsplan, Muster-Folie für Board-Reporting.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [EU Anti-Dumping VO 2016/1036](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1036)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)

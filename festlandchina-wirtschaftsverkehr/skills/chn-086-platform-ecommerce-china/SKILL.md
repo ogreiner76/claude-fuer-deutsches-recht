@@ -1,50 +1,87 @@
 ---
 name: chn-086-platform-ecommerce-china
-description: "Festlandchina Wirtschaftsverkehr: Platform Ecommerce China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen.'
 ---
 
-# Platform Ecommerce China
+# E-Commerce China: Tmall/JD/Plattformrecht/PIPL
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Platform Ecommerce China** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Platform Ecommerce China beim Chinageschaeft.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Platform Ecommerce China für ein laufendes China-Projekt.
 
-## Fachlicher Zugriff
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Platform Ecommerce China im Kontext der De-risking-Strategie.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Platform Ecommerce China geprüft/erstellt werden?
+2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
+3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
+4. Risikoeinschätzung Platform Ecommerce China: Kritikalitätsbewertung nach De-risking-Matrix.
+5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
+6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- AWG §§ 55 ff.
+- AWV §§ 55-62a
+- LkSG §§ 3-10
+- EU-VO 2019/452
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Ist Platform Ecommerce China-Relevanz für das konkrete Vorhaben gegeben?
+- Welche Normen und Behörden sind zuständig?
+- Bestehen Genehmigungs- oder Meldepflichten?
+- Welche Fristen sind zu beachten?
+- Gibt es De-risking- oder Diversifizierungsanforderungen?
+- Ist die Dokumentation für Behörden und Investoren belastbar?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Platform Ecommerce China-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
+- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Prüfbericht Platform Ecommerce China, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)

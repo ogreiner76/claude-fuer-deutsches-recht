@@ -1,50 +1,83 @@
 ---
 name: chn-008-dual-sourcing-und-china-plus-one
-description: "Festlandchina Wirtschaftsverkehr: Dual Sourcing Und China Plus One. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst.'
 ---
 
-# Dual Sourcing Und China Plus One
+# Dual-Sourcing und China-Plus-One: Planung und Umsetzung
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Dual Sourcing Und China Plus One** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Elektronikhersteller will Vietnam als Alternativstandort zu Shenzhen aufbauen und benötigt rechtliche Strukturierung.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Ein Automobilzulieferer prüft, ob er seine China-Produktion zu 30 Prozent nach Indien verlagern kann.
 
-## Fachlicher Zugriff
+**Fall 3:** Eine Beschaffungsabteilung sucht einen Mustervertrag für Parallellieferanten mit technischen Spezifikationen.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Alternativstandorte evaluieren: Vietnam, Indien, Mexiko, Thailand, Malaysia nach Kosten/Qualität/Risiko.
+2. Make-or-Buy-Analyse: Eigenfertigung vs. neuer Lieferant im Zielland.
+3. LkSG-Due-Diligence für neue Lieferanten im Alternativland.
+4. BAFA prüfen: Erfordert Technologietransfer an Alternativlieferant eine Exportgenehmigung?
+5. Vertragsstruktur festlegen: Technologie-Lizenzvertrag, Qualitätssicherungsvertrag, Abnahmeverpflichtung.
+6. Kostenmodell erstellen: Anlaufkosten, Zertifizierungskosten, Logistikveränderungen.
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- §§ 5-6 LkSG: Risikoanalyse und Präventionsmaßnahmen auch für neue Lieferanten.
+- §§ 55-62a AWV: Technologietransfer an Nicht-EU-Lieferant kann AWV-Prüfpflicht auslösen.
+- BAFA AL-Liste: Überprüfung ob Technologie zu Alternativlieferant genehmigungspflichtig.
+- EU-VO 2021/821 (Dual-Use-VO): Neue Abnehmerstruktur muss auf Endverbleib geprüft werden.
+- § 307 BGB: AGB-Kontrolle bei Lieferantenverträgen (Qualitäts- und Haftungsklauseln).
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Erfüllen Alternativlieferanten technische Mindestanforderungen (Qualität, Kapazität, Zertifizierung)?
+- Sind LkSG-Risikoindikatoren für Alternativstandorte geprüft?
+- Erfordert Technologietransfer BAFA-Exportgenehmigung?
+- Gibt es Produkthaftungsrisiken durch Qualitätsschwankungen beim Lieferantenwechsel?
+- Sind Abnahmeverpflichtungen gegenüber altem China-Lieferant vertraglich geregelt?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- China-Plus-One als Alibi: Lieferant in Vietnam bezieht Vorprodukte weiterhin aus China.
+- Technologietransfer ohne BAFA-Prüfung: Rüge und ggf. Bußgeld.
+- Qualitätsprobleme bei neuem Lieferant: Produktrückruf und Kundenhaftung.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Dual-Sourcing-Businessplan, Alternativstandort-Bewertungsmatrix, LkSG-Checkliste für neue Lieferanten, Vertragsgerüst.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU Dual-Use VO 2021/821](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BGB Volltext](https://www.gesetze-im-internet.de/bgb/)

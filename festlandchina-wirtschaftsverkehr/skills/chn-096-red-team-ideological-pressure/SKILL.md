@@ -1,50 +1,87 @@
 ---
 name: chn-096-red-team-ideological-pressure
-description: "Festlandchina Wirtschaftsverkehr: Red Team Ideological Pressure. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: 'Red-Team-Analyse ideologischer Drucksituationen im China-Geschaeft: CCP-Zellenpräsenz, Markennamen-/Kartographiepolitik (Taiwan als Teil Chinas), Mitarbeiterloyalitäts-Anforderungen, Anti-Sanktions-Gesetz CN 2021 Gegenmaßnahmen, Abgrenzung Compliance vs. Konformitätsdruck. Output: Red-Team-Bericht und Gegenstrategiepapier.'
 ---
 
-# Red Team Ideological Pressure
+# Red-Team: Ideologischer Druck auf Unternehmen in VR China
 
-## Arbeitsauftrag
+Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
-Dieser Skill bearbeitet **Red Team Ideological Pressure** im Plugin **Festlandchina Wirtschaftsverkehr**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+## Mandantenfall
 
-## Sofortsortierung
+**Fall 1:** Ein Unternehmen erhält Druck von lokalen Behörden, seine Webseite so zu ändern, dass Taiwan als Teil der VR China dargestellt wird.
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+**Fall 2:** Eine Führungskraft berichtet, dass CCP-Mitglieder in der Belegschaft regelmäßig Informationen an Behörden weitergeben.
 
-## Fachlicher Zugriff
+**Fall 3:** Ein Konzern wird aufgefordert, sich öffentlich zur Ein-China-Politik zu bekennen – unter Androhung von Geschäftseinschränkungen.
 
-- Deutsche China-Strategie, EU De-risking, FDI Screening, Anti-Coercion Instrument
-- BAFA/EU-Dual-Use, AWG/AWV, Sanktionen, US/EU-China-Exportkontrollschnittstellen
-- Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
-- China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
+## Erste Schritte
 
-## Prüfroutine
+1. Drucksituation dokumentieren: Was wird gefordert, von wem, mit welchen angedrohten Konsequenzen?
+2. Rechtsgrundlage prüfen: Ist die Forderung durch chinesisches Recht gedeckt oder ist sie informeller Druck?
+3. Anti-Sanktions-Gesetz CN 2021 prüfen: Droht Gegenmaßnahme bei Befolgung westlicher Compliance-Anforderungen?
+4. Interne Eskalation: Wer in der Konzernzentrale muss informiert werden?
+5. Externe Beratung: Lokaler Anwalt, Konsulat DE, Kammer (AHK China).
+6. Entscheidungsrahmen: Welche Optionen bestehen (Befolgung/Widerspruch/Exit/Stillhalten)?
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+## Rechtsrahmen
 
-## Typische Ausgabe
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Anti-Sanktions-Gesetz VR China 2021: Gegenmaßnahmen gegen westliche Sanktionen.
+- National Security Law VR China 2015 (Guojia Anquan Fa): Weitgehende Pflichten für in CN tätige Unternehmen.
+- Foreign Investment Law VR China 2020 Art. 5: Schutz vor Enteignung (theoretisch).
+- § 1 AWG: Außenwirtschaftsfreiheit schützt nicht vor ausländischem Zwang.
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
 
-## Red-Team-Fragen
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+## Prüfraster
 
-## Quellenregel
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+- Ist die Drucksituation schriftlich dokumentiert?
+- Welche chinesische Rechtsgrundlage wird für die Forderung angeführt?
+- Besteht Widerspruch zu deutschen/EU-Compliance-Anforderungen (DSGVO, LkSG, Kartellrecht)?
+- Gibt es vergleichbare Präzedenzfälle anderer Unternehmen?
+- Welche Eskalationsstufen und Zeitfenster bestehen?
+- Ist Exit-Option rechtlich und operativ vorbereitet?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Stiller Gehorsam ohne Dokumentation: Spätere Nachweisbarkeit fehlt.
+- Fehleinschätzung: Informeller Druck hat keine Rechtskraft – oft kann man widersprechen.
+- Anti-Sanktions-Gesetz übersehen: Befolgung westlicher Anforderungen kann CN-Gegenmaßnahme auslösen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Output
+
+Red-Team-Analysebericht mit Druckszenarien, Handlungsoptionen-Matrix und Gegenstrategiepapier.
+
+Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
+Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
