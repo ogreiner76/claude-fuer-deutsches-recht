@@ -1,3 +1,23 @@
+# v64.0.0 — Medizinrecht Hightech-Boost und Kanzlei-Mandant-Lifecycle
+
+## Schwerpunkt
+
+- `fachanwalt-medizinrecht` von 54 auf 136 Skills erweitert: ATMP, Gentherapie, CAR-T, CRISPR/Base Editing, Hospital Exemption, PEI/EMA-Verfahren, Pharmakovigilanz, ePA, DiGA, EHDS/Genomdaten, KI-Medizinprodukte, IVDR, Companion Diagnostics, Krankenhausreform, Robotik, Implantat-/Rückruf- und Hightech-Haftung.
+- Neue Quellenkarte für modernes Medizinrecht mit amtlichen und frei zugänglichen Startquellen zu ATMP/Gentherapie, Patientenrechten, ePA/DiGA, EHDS, EU-HTA und Produkthaftung.
+- Neues Plugin `kanzlei-mandant-lifecycle` mit 115 Skills für die gesamte Kanzlei-/Mandant-/Rechtsabteilungsbeziehung: Mandatsstart, Scope, Outside Counsel Guidelines, Budget, eBilling, Rechnungskontrolle, Dashboards, Gerichtsakten-Fortschritt, Erwartungsmanagement, Eskalationen, Quickwins, Closeout und gemeinsame KI-Arbeitsräume.
+- Neue Demonstrationsakte `mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech` mit Markdown-Aktenstücken, EML-Mails, CSV/XLSX-Budgetdaten, DOCX-Entwürfen, PDF-Anlagen, Whiteboard-Bild und Gesamt-PDF.
+- README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index, Plugin-READMEs und Downloadsektionen auf 159 Plugins, 13156 Skills, 153 Testakten und v64.0.0 synchronisiert.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (153 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: 159 Plugins, 13156 Skills, 153 Testakten; kein Plugin unter 30 Skills.
+
+---
+
 # v63.0.0 — Gesamt-Bibliothek, neue Plugins und Skill-Qualitätsboost
 
 ## Schwerpunkt

@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v63.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v64.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -59,7 +59,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (57 Skills)
 - [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (54 Skills)
 - [fachanwalt-it-recht](./fachanwalt-it-recht.md) (114 Skills)
-- [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (54 Skills)
+- [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (136 Skills)
 - [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (225 Skills)
 - [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (376 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (83 Skills)
@@ -99,6 +99,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (54 Skills)
 - [kanzlei-allgemein](./kanzlei-allgemein.md) (50 Skills)
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (54 Skills)
+- [kanzlei-mandant-lifecycle](./kanzlei-mandant-lifecycle.md) (115 Skills)
 - [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (300 Skills)
 - [ki-governance](./ki-governance.md) (54 Skills)
 - [ki-richtlinie-kanzleien](./ki-richtlinie-kanzleien.md) (55 Skills)
