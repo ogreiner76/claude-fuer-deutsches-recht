@@ -2,7 +2,7 @@
 
 Diese Übersicht wird aus den Plugin-Manifesten gepflegt. Sie soll schnell zeigen, welche Rechtsgebiete als Plugin vorhanden sind; Installation, ZIP-Downloads und Testakten stehen in der Haupt-README und im Asset-Index.
 
-**Stand v70.0.2:** 192 Plugins, 16810 Skills.
+**Stand v70.0.3:** 193 Plugins, 16861 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 |---|---|---:|---:|
@@ -145,6 +145,7 @@ Diese Übersicht wird aus den Plugin-Manifesten gepflegt. Sie soll schnell zeige
 | [`patentrecht`](../patentrecht/) | Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen. | `70.0.1` | 54 |
 | [`phishing-vorfall-pruefer`](../phishing-vorfall-pruefer/) | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. | `70.0.1` | 54 |
 | [`private-equity-praxis`](../private-equity-praxis/) | Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed. | `70.0.1` | 103 |
+| [`preussisches-allgemeines-landrecht-pralr`](../preussisches-allgemeines-landrecht-pralr/) | PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte. | `70.0.3` | 51 |
 | [`produktrecht`](../produktrecht/) | Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. | `70.0.1` | 60 |
 | [`prozessrecht`](../prozessrecht/) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. | `70.0.1` | 54 |
 | [`pruefungsrecht-hochschule`](../pruefungsrecht-hochschule/) | Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz. | `70.0.1` | 100 |

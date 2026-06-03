@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v70.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v70.0.3`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -146,6 +146,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [patentrecht](./patentrecht.md) (54 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (54 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (103 Skills)
+- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (51 Skills)
 - [produktrecht](./produktrecht.md) (60 Skills)
 - [prozessrecht](./prozessrecht.md) (54 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (100 Skills)
