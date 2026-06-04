@@ -567,8 +567,8 @@
     {
       "name": "fachanwalt-strafrecht",
       "source": "./fachanwalt-strafrecht",
-      "description": "Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage und Zeugenbeistand plus Strafprozess-Cockpit fuer Fristen, Aktenlog, U-Haft, Akteneinsicht, HV-Tagesmappe, Antragslog und Mandanteninstruktionen.",
-      "version": "74.0.0",
+      "description": "Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage, Zeugenbeistand, Strafprozess-Cockpit, U-Haft, Akteneinsicht, digitale Ermittlungsmaßnahmen und biometrischer Internetabgleich.",
+      "version": "74.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1350,8 +1350,8 @@
     {
       "name": "prozessrecht",
       "source": "./prozessrecht",
-      "description": "Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.",
-      "version": "74.0.0",
+      "description": "Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung, Schriftsätze und StPO-Spezialfragen wie biometrischen Internetabgleich, KI-Analyseplattformen und digitale Ermittlungsmaßnahmen.",
+      "version": "74.0.1",
       "author": {
         "name": "Klotzkette"
       }

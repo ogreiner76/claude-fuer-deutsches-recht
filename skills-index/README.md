@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v73.1.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -8,7 +8,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 
 ## Alle Detailseiten
 
-- [agb-recht-pruefer](./agb-recht-pruefer.md) (200 Skills)
+- [agb-recht-pruefer](./agb-recht-pruefer.md) (230 Skills)
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (54 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (54 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (100 Skills)
@@ -70,7 +70,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (376 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (93 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (54 Skills)
-- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (211 Skills)
+- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (212 Skills)
 - [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (54 Skills)
 - [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (54 Skills)
 - [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (83 Skills)
@@ -84,7 +84,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (54 Skills)
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (55 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (54 Skills)
-- [franchiserecht-praxis](./franchiserecht-praxis.md) (52 Skills)
+- [franchiserecht-praxis](./franchiserecht-praxis.md) (60 Skills)
 - [gebrauchsmusterrecht](./gebrauchsmusterrecht.md) (50 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (54 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (100 Skills)
@@ -157,7 +157,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (282 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (103 Skills)
 - [produktrecht](./produktrecht.md) (60 Skills)
-- [prozessrecht](./prozessrecht.md) (54 Skills)
+- [prozessrecht](./prozessrecht.md) (55 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (100 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (54 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (47 Skills)
@@ -193,7 +193,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (100 Skills)
 - [venture-capital-geber](./venture-capital-geber.md) (100 Skills)
 - [verbraucher-rechtsstaat-alltag](./verbraucher-rechtsstaat-alltag.md) (60 Skills)
-- [verbraucherinsolvenz-schuldenbereinigung](./verbraucherinsolvenz-schuldenbereinigung.md) (60 Skills)
+- [verbraucherinsolvenz-schuldenbereinigung](./verbraucherinsolvenz-schuldenbereinigung.md) (68 Skills)
 - [verbraucherschutzrecht-pruefer](./verbraucherschutzrecht-pruefer.md) (112 Skills)
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (100 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)
@@ -208,7 +208,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [wahlkampfrecht-praxis](./wahlkampfrecht-praxis.md) (118 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (50 Skills)
 - [weg-hausverwaltung](./weg-hausverwaltung.md) (54 Skills)
-- [weltraumrecht](./weltraumrecht.md) (97 Skills)
+- [weltraumrecht](./weltraumrecht.md) (102 Skills)
 - [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (50 Skills)
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (54 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (54 Skills)
