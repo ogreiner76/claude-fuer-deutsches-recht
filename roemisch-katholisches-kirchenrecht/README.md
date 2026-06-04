@@ -32,17 +32,11 @@ Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären
 
 ## Mehrsprachiger Schnellstart
 
-| Sprache | Arbeitsauftrag |
-| --- | --- |
-| Deutsch | Bitte zuerst Rolle, Sprache, Sakrament/Status/Verfahren, zuständige Stelle und vorhandene Urkunden klären. Danach CIC, Katechismus, Partikularrecht und staatliches Recht getrennt prüfen und in einer kirchentreuen, pastoralen Antwort zusammenführen. |
-| English | Start by identifying the role, language, sacramental/status/procedural issue, competent ecclesial authority and available documents. Then separate canon law, catechetical doctrine, particular law and civil law before drafting a loyal, pastoral Catholic answer. |
-| Español | Comenzar con la función de la persona, el idioma, la cuestión sacramental, de estado o de procedimiento, la autoridad competente y los documentos disponibles. Después distinguir derecho canónico, catecismo, derecho particular y derecho civil. |
-| Português | Começar pela função da pessoa, língua, questão sacramental, estatuto, procedimento, autoridade competente e documentos. Em seguida separar CIC, catecismo, direito particular e direito estatal, sem perder o tom pastoral católico. |
-| Français | Commencer par le rôle, la langue, la question sacramentelle, statutaire ou procédurale, l'autorité ecclésiale compétente et les pièces disponibles. Distinguer ensuite droit canonique, catéchisme, droit particulier et droit civil. |
-| Italiano | Iniziare da ruolo, lingua, sacramento/status/procedura, autorità competente e documenti disponibili. Poi distinguere CIC, Catechismo, diritto particolare e diritto statale, con risposta fedele al Magistero e pastoralmente prudente. |
-| العربية | ابدأ بتحديد صفة السائل، اللغة المطلوبة، المسألة الكنسية أو الأسرارية أو الإجرائية، الجهة المختصة، والوثائق الموجودة. بعد ذلك افصل بين القانون الكنسي، والتعليم الكاثوليكي، والقانون الخاص المحلي، والقانون المدني. |
-| Latine | Primo persona, lingua, status sacramentalis vel processualis, auctoritas competens et documenta cognoscantur. Deinde Codex Iuris Canonici, Catechismus, ius particulare et ius civile distincte examinentur. |
-| 简体中文 | 先确认提问者身份、所需语言、圣事/身份/程序问题、教会主管机关以及现有文件；再分别核对《天主教法典》、教理、本地特别法和国家法律，并形成忠于教会训导且适合牧灵沟通的答复。 |
+Neun Sprachen, Spalten nebeneinander. Auf schmalen Bildschirmen horizontal scrollen.
+
+| Deutsch | English | Español | Português | Français | Italiano | العربية | Latine | 简体中文 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bitte zuerst Rolle, Sprache, Sakrament/Status/Verfahren, zuständige Stelle und vorhandene Urkunden klären. Danach CIC, Katechismus, Partikularrecht und staatliches Recht getrennt prüfen und in einer kirchentreuen, pastoralen Antwort zusammenführen. | Start by identifying the role, language, sacramental/status/procedural issue, competent ecclesial authority and available documents. Then separate canon law, catechetical doctrine, particular law and civil law before drafting a loyal, pastoral Catholic answer. | Comenzar con la función de la persona, el idioma, la cuestión sacramental, de estado o de procedimiento, la autoridad competente y los documentos disponibles. Después distinguir derecho canónico, catecismo, derecho particular y derecho civil. | Começar pela função da pessoa, língua, questão sacramental, estatuto, procedimento, autoridade competente e documentos. Em seguida separar CIC, catecismo, direito particular e direito estatal, sem perder o tom pastoral católico. | Commencer par le rôle, la langue, la question sacramentelle, statutaire ou procédurale, l'autorité ecclésiale compétente et les pièces disponibles. Distinguer ensuite droit canonique, catéchisme, droit particulier et droit civil. | Iniziare da ruolo, lingua, sacramento/status/procedura, autorità competente e documenti disponibili. Poi distinguere CIC, Catechismo, diritto particolare e diritto statale, con risposta fedele al Magistero e pastoralmente prudente. | ابدأ بتحديد صفة السائل، اللغة المطلوبة، المسألة الكنسية أو الأسرارية أو الإجرائية، الجهة المختصة، والوثائق الموجودة. بعد ذلك افصل بين القانون الكنسي، والتعليم الكاثوليكي، والقانون الخاص المحلي، والقانون المدني. | Primo persona, lingua, status sacramentalis vel processualis, auctoritas competens et documenta cognoscantur. Deinde Codex Iuris Canonici, Catechismus, ius particulare et ius civile distincte examinentur. | 先确认提问者身份、所需语言、圣事/身份/程序问题、教会主管机关以及现有文件；再分别核对《天主教法典》、教理、本地特别法和国家法律，并形成忠于教会训导且适合牧灵沟通的答复。 |
 
 ## Haltung und Arbeitsweise
 
