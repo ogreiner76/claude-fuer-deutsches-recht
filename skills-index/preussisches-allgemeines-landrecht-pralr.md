@@ -2,7 +2,7 @@
 
 PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte.
 
-**Stand:** `v71.3.0` — **282 Skills**.
+**Stand:** `v73.1.0` — **282 Skills**.
 
 > Zusätzlich zu den thematischen Skills enthält dieses Plugin PrALR-Normblock-Skills zu je 100 Paragraphen; die einzelnen Dateien liegen im Pluginordner `skills/`.
 

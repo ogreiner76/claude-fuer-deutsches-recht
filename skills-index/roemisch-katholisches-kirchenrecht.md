@@ -1,6 +1,6 @@
 # roemisch-katholisches-kirchenrecht
 
-**1852 Skills** · Stand `v71.3.0`
+**1852 Skills** · Stand `v73.1.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/README.md)

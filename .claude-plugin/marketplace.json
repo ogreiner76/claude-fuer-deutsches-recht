@@ -307,7 +307,7 @@
       "name": "datenschutz-sanktionsverfahren-verteidigung",
       "source": "./datenschutz-sanktionsverfahren-verteidigung",
       "description": "Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie.",
-      "version": "73.0.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -433,7 +433,7 @@
       "name": "fachanwalt-arbeitsrecht",
       "source": "./fachanwalt-arbeitsrecht",
       "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -460,7 +460,7 @@
       "name": "fachanwalt-erbrecht",
       "source": "./fachanwalt-erbrecht",
       "description": "Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -469,7 +469,7 @@
       "name": "fachanwalt-familienrecht",
       "source": "./fachanwalt-familienrecht",
       "description": "Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -550,7 +550,7 @@
       "name": "fachanwalt-sozialrecht",
       "source": "./fachanwalt-sozialrecht",
       "description": "Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1243,7 +1243,7 @@
       "name": "normenkontrolle-bauleitplanung",
       "source": "./normenkontrolle-bauleitplanung",
       "description": "Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1324,7 +1324,7 @@
       "name": "preussisches-allgemeines-landrecht-pralr",
       "source": "./preussisches-allgemeines-landrecht-pralr",
       "description": "PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1414,7 +1414,7 @@
       "name": "roemisch-katholisches-kirchenrecht",
       "source": "./roemisch-katholisches-kirchenrecht",
       "description": "Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1675,7 +1675,7 @@
       "name": "verbraucherinsolvenz-schuldenbereinigung",
       "source": "./verbraucherinsolvenz-schuldenbereinigung",
       "description": "Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1684,7 +1684,7 @@
       "name": "verbraucherschutzrecht-pruefer",
       "source": "./verbraucherschutzrecht-pruefer",
       "description": "Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag.",
-      "version": "71.3.0",
+      "version": "73.1.0",
       "author": {
         "name": "Klotzkette"
       }
