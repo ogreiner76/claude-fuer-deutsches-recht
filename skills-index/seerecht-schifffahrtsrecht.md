@@ -1,6 +1,6 @@
 # seerecht-schifffahrtsrecht
 
-**120 Skills** · Stand `v74.3.2`
+**120 Skills** · Stand `v74.4.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/seerecht-schifffahrtsrecht/README.md)

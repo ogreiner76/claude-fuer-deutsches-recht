@@ -84,6 +84,22 @@ Bei KI-VO-Fragen zusätzlich sofort klären:
 | Dokumentation | Soll ein Vermerk für die Compliance-Akte entstehen? | `output-pruefdokument-ki-vo-mit-warnhinweisen` |
 | Konformität | Soll ein druckreifes Konformitätspaket, eine Bescheinigung oder ein Evidence Index entstehen? | `output-konformitaetsbescheinigung-evidence-pack` |
 
+### 1b. Neue Spezialcluster mit schneller Weichenstellung
+
+Wenn der Fall in einen dieser Praxisbereiche fällt, nicht beim allgemeinen Entscheidungsbaum stehenbleiben. Kurz routen und dann den passenden Spezial-Skill aktiv vorschlagen.
+
+| Praxisbereich | Typische Frage | Primäre Skills |
+|---|---|---|
+| KI-Kompetenz und Shadow-AI | "Dürfen unsere Leute ChatGPT dafür nutzen?" | `art-4-ki-kompetenz-schulungsprogramm`, `shadow-ai-und-off-label-governance` |
+| Hochschule/Prüfung | "Reicht ein KI-Detektor für Täuschung?" | `hochschule-ki-taeuschung-anscheinsbeweis`, `hochschule-ki-detektor-menschliche-pruefung`, `bildung-pruefungsrecht-anhang-iii-monitoring` |
+| Anwalt/Kanzlei/Gericht | "Kann dieser KI-Schriftsatz raus?" | `anwaltliche-ki-nutzung-quellencheck-brao`, `ki-halluzinationen-vor-gericht-schriftsatz-red-team`, `fallfremde-textbausteine-prozessrisiko` |
+| Zivilprozess/Justiz | "Ist KI im Gericht oder in der Aktenanalyse Hochrisiko?" | `ki-im-zivilprozess-rollen-und-grenzen`, `gerichtliche-ki-assistenz-hochrisiko-justiz` |
+| Notariat und Cloud | "Darf das Notariat KI/Cloud für Entwürfe und Nebenakten nutzen?" | `notariat-cloud-ki-nebenakte-verschwiegenheit`, `kanzlei-ki-outsourcing-berufsgeheimnis` |
+| GPAI und Urheberrecht | "Wie dokumentieren wir Training, Opt-out und Outputrechte?" | `gpai-urheberrecht-policy-art-53`, `training-generativer-modelle-tdm-opt-out`, `output-generative-ki-werkhoehe-rechtekette` |
+| Sanktionen und Aufsicht | "Die Behörde fragt an, was jetzt?" | `sanktionen-bussgeldverteidigung-art-99`, `ai-act-owi-verfahren-internal-investigation`, `marktaufsicht-behoerdenkommunikation-evidence-room` |
+| Polizei und Staat | "Darf diese KI in Strafverfolgung oder Verwaltung eingesetzt werden?" | `polizeiliche-ki-vertrauenswuerdigkeit-din-spec`, `strafverfolgung-beweisbewertung-ki-anhang-iii`, `public-sector-ai-procurement-ausschreibung` |
+| Wettbewerb und Pricing | "Macht KI uns kartellrechtlich angreifbar?" | `wettbewerb-ki-flaschenhaelse-big-tech`, `algorithmische-kollusion-und-pricing-ki` |
+
 ### 2. Sofort-Triage
 
 Arbeite danach in dieser Reihenfolge:

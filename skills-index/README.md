@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.3.2`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.4.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -124,7 +124,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (305 Skills)
 - [ki-governance](./ki-governance.md) (54 Skills)
 - [ki-richtlinie-kanzleien](./ki-richtlinie-kanzleien.md) (55 Skills)
-- [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (55 Skills)
+- [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (89 Skills)
 - [kommunalrecht-laender](./kommunalrecht-laender.md) (160 Skills)
 - [krankenhausrecht](./krankenhausrecht.md) (67 Skills)
 - [krankenkassenrecht-krankenversicherung](./krankenkassenrecht-krankenversicherung.md) (81 Skills)
@@ -166,7 +166,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [rentenpruefer](./rentenpruefer.md) (50 Skills)
 - [robotik-recht](./robotik-recht.md) (143 Skills)
 - [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (1852 Skills)
-- [roemisches-recht](./roemisches-recht.md) (140 Skills)
+- [roemisches-recht](./roemisches-recht.md) (190 Skills)
 - [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (80 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (54 Skills)
 - [schulrecht-laender](./schulrecht-laender.md) (100 Skills)

@@ -1,6 +1,6 @@
 ---
 name: zeitlicher-geltungsbereich-uebergangsfristen
-description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan. Prüfraster: Inkrafttreten 1. August 2024 Verbote Art. 5 ab 2. Februar 2025 GPAI-Pflichten ab 2. August 2025 Hochrisiko-Pflichten ab 2. August 2026 Hochrisiko-Bestandssysteme ab 2. August 2027. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender für jede Systemkategorie. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Projektroadmap)."
+description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025, GPAI/Governance/Sanktionen ab 2. August 2025, allgemeine Anwendung ab 2. August 2026, Art. 6 Abs. 1 samt korrespondierenden Pflichten ab 2. August 2027, Bestandssysteme nach Art. 111. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender für jede Systemkategorie."
 ---
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO
@@ -26,10 +26,10 @@ Ab dem 2. Februar 2025 sind verbotene KI-Praktiken nach Art. 5 KI-VO verboten un
 **Praxisrelevanz:** Systeme zur biometrischen Echtzeitidentifikation im öffentlichen Raum, Social-Scoring-Systeme und Systeme zur Manipulation von Verhalten müssen sofort überprüft werden.
 
 Ebenfalls ab 2. Februar 2025 anwendbar:
-- Art. 6 Abs. 1 und 2 KI-VO (Hochrisiko-Klassifikation) — Klassifikationsregeln gelten
-- Kapitel I (Begriffsbestimmungen) und Kapitel II (Verbote)
-- Art. 89 KI-VO (Befugnisübertragung)
-- Art. 95 KI-VO (Aufhebung delegierter Rechtsakte)
+- Kapitel I (allgemeine Bestimmungen, insbesondere Begriffe wie KI-System, Anbieter, Betreiber, GPAI)
+- Kapitel II (verbotene Praktiken)
+
+**Wichtig:** Art. 6 KI-VO ist nicht bereits als eigene Hochrisiko-Pflichtenmechanik seit Februar 2025 voll anwendbar. Die Klassifikation wird zwar praktisch vorlaufend gebraucht, die Verbindlichkeit folgt aber dem Stufenplan in Art. 113 KI-VO.
 
 ### 2. August 2025 — GPAI-Modelle
 
@@ -43,9 +43,9 @@ Ebenfalls ab 2. August 2025:
 - Art. 78 KI-VO (Vertraulichkeit)
 - Art. 99 und 100 KI-VO (Sanktionen)
 
-### 2. August 2026 — Hochrisiko-KI-Systeme (Anhang III)
+### 2. August 2026 — Allgemeine Anwendung und Hochrisiko-KI nach Anhang III
 
-Ab dem 2. August 2026 gelten alle Pflichten für Hochrisiko-KI-Systeme nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO vollständig.
+Ab dem 2. August 2026 gilt die KI-VO grundsätzlich. Damit werden insbesondere die Hochrisiko-Pflichten für Systeme nach Art. 6 Abs. 2 i.V.m. Anhang III praktisch scharf, soweit keine Sonderregel oder Bestandssystemregel greift.
 
 **Praxisrelevanz:** Anbieter von Hochrisiko-KI-Systemen müssen bis dahin:
 - Risikomanagementsystem (Art. 9 KI-VO) implementiert haben
@@ -54,32 +54,33 @@ Ab dem 2. August 2026 gelten alle Pflichten für Hochrisiko-KI-Systeme nach Art.
 - CE-Kennzeichnung angebracht haben
 - In der EU-Datenbank registriert sein (Art. 71 KI-VO)
 
-### 2. August 2027 — Hochrisiko-KI in bestehenden Produkten (Anhang I)
+### 2. August 2027 — Art. 6 Abs. 1 und Produkt-Sicherheitskomponenten
 
-Für KI-Systeme, die als Sicherheitskomponenten in Produkte nach Anhang I (z.B. Maschinen, Medizinprodukte) integriert sind und die vor dem 2. August 2026 bereits in Verkehr gebracht oder in Betrieb genommen wurden, gilt eine verlängerte Übergangsfrist bis zum 2. August 2027.
+Art. 6 Abs. 1 und die korrespondierenden Pflichten gelten nach Art. 113 KI-VO ab dem 2. August 2027. Das betrifft den Pfad über KI als Sicherheitsbauteil oder selbst reguliertes Produkt im Zusammenspiel mit Anhang I.
 
 ## Relevanz für bestehende Systeme
 
 Systeme, die vor dem jeweiligen Anwendungsdatum bereits in Verkehr gebracht wurden, können von Bestandsschutz profitieren — aber nur bis zu wesentlichen Änderungen. Eine wesentliche Änderung löst erneute Konformitätsbewertungspflichten aus.
 
-## Aktueller Handlungsbedarf (Stand: 05/2026)
+## Aktueller Handlungsbedarf (Stand: 06/2026)
 
 - **Verbote Art. 5:** Seit 02.02.2025 vollständig verbindlich; bei Bestandssystemen sofortige Abschaltungs- oder Umgestaltungspflicht.
 - **GPAI-Pflichten Art. 51-55:** Seit 02.08.2025 vollständig verbindlich; technische Dokumentation (Anhang XI), Informationen fuer nachgelagerte Anbieter, Urheberrechts-Compliance-Strategie und Trainingsdaten-Zusammenfassung im Kommissions-Format Pflicht.
-- **Hochrisiko Anhang III:** Ab 02.08.2026 vollständig verbindlich. **Jetzt zeitkritisch** — Konformitaetsbewertung, technische Dokumentation und EU-Datenbank-Registrierung muessen binnen weniger Wochen abgeschlossen sein.
-- **Hochrisiko Anhang I (KI als Sicherheitskomponente):** Frist bis 02.08.2027; Bestandsschutz nur bis zu wesentlicher Aenderung.
+- **Hochrisiko Anhang III:** Ab 02.08.2026 im Grundsatz verbindlich. **Jetzt zeitkritisch** — Konformitaetsbewertung, technische Dokumentation und EU-Datenbank-Registrierung muessen vorbereitet sein; bei Bestands- und Public-Sector-Faellen Art. 111 KI-VO gesondert pruefen.
+- **Hochrisiko Anhang I / Art. 6 Abs. 1 (KI als Sicherheitskomponente oder reguliertes Produkt):** Art. 6 Abs. 1 und die korrespondierenden Pflichten gelten nach Art. 113 ab 02.08.2027.
+- **Bestandssysteme und oeffentliche Hand:** Art. 111 KI-VO enthaelt Sonderregeln, insbesondere fuer vor dem 02.08.2026 platzierte oder in Betrieb genommene Hochrisiko-Systeme und Hochrisiko-Systeme fuer oeffentliche Stellen. Diese Regeln nie uebersehen.
 - **GPAI mit systemischem Risiko (>= 10^25 FLOPs Trainings-Compute, Art. 51 KI-VO):** Modellbewertungen, adversarial testing, Risikominderung und Cybersicherheits-Mass­nahmen seit 02.08.2025 Pflicht. Quelle: VO 2024/1689 Art. 55; Konkretisierung durch GPAI Code of Practice.
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
-## Faktische Updates (Stand 05/2026)
+## Faktische Updates (Stand 06/2026)
 
 - **02.08.2025 — GPAI-Pflichten in Kraft:** Anbieter von General-Purpose-KI-Modellen (Art. 51 ff. KI-VO) muessen seit dem 02.08.2025 technische Dokumentation nach Anhang XI sowie eine Zusammenfassung der Trainingsdaten in dem von der Kommission bereitgestellten Template veroeffentlichen (Art. 53 Abs. 1 lit. d KI-VO). Quelle: VO (EU) 2024/1689, eur-lex.europa.eu/eli/reg/2024/1689/oj.
 - **GPAI Code of Practice:** Die Kommission und das EU-AI-Office foerdern einen Code of Practice fuer GPAI-Modellanbieter; bei freiwilligem Anschluss sollen Anbieter als pflichtkonform vermutet werden (Art. 56 KI-VO). Quelle live pruefen ueber digital-strategy.ec.europa.eu sowie das EU AI Office.
-- **02.08.2026 — Hochrisiko Anhang III:** Die vollumfaenglichen Anbieter- und Betreiberpflichten fuer Hochrisiko-Systeme nach Anhang III treten in Kraft. Risikomanagement (Art. 9), Datenqualitaet (Art. 10), technische Dokumentation (Art. 11 i.V.m. Anhang IV), Logging (Art. 12), Transparenz (Art. 13), menschliche Aufsicht (Art. 14), Genauigkeit/Robustheit/Cybersicherheit (Art. 15), Konformitaetsbewertung (Art. 43-49), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71). Achtung: Konkretisierung durch Durchfuehrungsrechtsakte und harmonisierte Normen (CEN/CENELEC) laufend; vor Ausgabe Stand pruefen.
-- **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Uebergangsfrist fuer KI als Sicherheitskomponente in Produkten nach Anhang I (Maschinen, Medizinprodukte, Spielzeug).
+- **02.08.2026 — allgemeiner Anwendungsbeginn / Hochrisiko Anhang III:** Anbieter- und Betreiberpflichten fuer Hochrisiko-Systeme nach Anhang III werden im Grundsatz relevant: Risikomanagement (Art. 9), Datenqualitaet (Art. 10), technische Dokumentation (Art. 11 i.V.m. Anhang IV), Logging (Art. 12), Transparenz (Art. 13), menschliche Aufsicht (Art. 14), Genauigkeit/Robustheit/Cybersicherheit (Art. 15), Konformitaetsbewertung (Art. 43-49), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71). Achtung: Konkretisierung durch Durchfuehrungsrechtsakte und harmonisierte Normen laufend; vor Ausgabe Stand pruefen.
+- **02.08.2027 — Art. 6 Abs. 1 / Anhang I-Pfad:** Art. 6 Abs. 1 und korrespondierende Pflichten gelten erst ab diesem Datum. Nicht mit dem Anhang-III-Pfad vermischen.
 - **Sanktionen Art. 99 KI-VO:** ab 02.08.2025 vollumfaenglich anwendbar — bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz bei Verstoss gegen Art. 5; bis 15 Mio. EUR / 3 % bei Hochrisiko- oder GPAI-Pflichtverletzungen; bis 7.5 Mio. EUR / 1 % bei Falschangaben gegenueber Behoerden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (curia.europa.eu) verifizieren.
 
