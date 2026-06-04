@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills und Einzel-Downloads. Stand: `v71.2.0`.
+Eine Detailseite pro Plugin mit allen Skills und Einzel-Downloads. Stand: `v71.2.1`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei sehr grossen Tabellen abstuerzt oder die Seite endlos neu laedt.
 

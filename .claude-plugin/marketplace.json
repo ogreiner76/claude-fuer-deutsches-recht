@@ -1414,7 +1414,7 @@
       "name": "roemisch-katholisches-kirchenrecht",
       "source": "./roemisch-katholisches-kirchenrecht",
       "description": "Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.",
-      "version": "71.2.0",
+      "version": "71.2.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1843,5 +1843,5 @@
       }
     }
   ],
-  "version": "71.2.0"
+  "version": "71.2.1"
 }

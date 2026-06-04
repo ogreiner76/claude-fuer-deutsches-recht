@@ -1,5 +1,5 @@
 ---
-name: quellenhierarchie-cic-katechismus-partikularrecht-staatliches-recht
+name: quellenhierarchie
 description: "Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
 ---
 

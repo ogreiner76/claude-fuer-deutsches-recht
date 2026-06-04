@@ -138,7 +138,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `portugiesische-pastoralantworten` | Portugiesische Pastoralantworten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `predigt-lehre-und-lehrbeanstandung` | Predigt, Lehre und Lehrbeanstandung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `publikationen-imprimatur-und-nihil-obstat` | Publikationen, Imprimatur und nihil obstat: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `quellenhierarchie-cic-katechismus-partikularrecht-staatliches-recht` | Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `quellenhierarchie` | Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `red-team-einer-ehenichtigkeitsakte` | Red-Team einer Ehenichtigkeitsakte: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `red-team-einer-kirchlichen-antwort` | Red-Team einer kirchlichen Antwort: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
