@@ -15,7 +15,7 @@ Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, Fremdbesitz, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.
+Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Fremdbesitz, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.
 
 ## Worum es geht
 
@@ -32,6 +32,7 @@ Der Allgemein-Skill startet kurz, sortiert Rolle, Verfahrensstand, Frist, Unterl
 - Fragenliste an Behörde, Gericht, Kammer, Mandant, Partei oder Zeugen
 - Entwurf für Verfügung, Vermerk, Schriftsatz, Antrag, E-Mail oder Gesprächsleitfaden
 - Red-Team-Check gegen Fristenfehler, Zuständigkeitsfehler und Scheingenauigkeit
+- KI-/Outsourcing-Freigabevermerk nach § 43e BRAO mit Consumer-Tool-Abgrenzung, No-Training, Drittstaat, Schatten-KI-Policy, KI-VO-Transparenz und anwaltlicher Endkontrolle
 
 ## Installation
 
@@ -46,12 +47,13 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 204 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `aktenfuehrung` | Aktenführung: vertiefter Berufsrechts-Skill für Anwälte; prüft Aktenführung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `allgemein-kaltstart-und-routing` | Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Anwälte; prüft führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung... |
+| `anwaelte-ai-act-transparenz-kanzlei-chatbot` | AI-Act-Transparenz in der Kanzlei prüfen: Mandantenchatbot, Website, Marketing, Legal-Update, Schriftsatzentwurf, Art. 4 und Art. 50 KI-VO, Anbieter-/Betreiberrolle, redaktionelle Kontrolle und Kennzeichnung ab 02.08.2026. |
 | `anwaelte-aktenherausgabe-und-zurueckbehaltung-kaltstart-und-fak` | Anwälte: aktenherausgabe und zurueckbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-aktenherausgabe-und-zurueckbehaltung-kammerantwort-und` | Anwälte: aktenherausgabe und zurueckbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-aktenherausgabe-und-zurueckbehaltung-organisationspfli` | Anwälte: aktenherausgabe und zurueckbehaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -136,6 +138,8 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 | `anwaelte-kanzleisitz-und-zweigstelle-kammerantwort-und-verfahre` | Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-kanzleisitz-und-zweigstelle-organisationspflicht-und-p` | Anwälte: kanzleisitz und zweigstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-kanzleisitz-und-zweigstelle-rechtsprechungscheck-und-r` | Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-ki-dienstleister-43e-brao-praxis` | Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzlei... |
+| `anwaelte-ki-output-endkontrolle-und-signatur` | Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävent... |
 | `anwaelte-ki-tool-in-der-kanzlei-kaltstart-und-faktenmatrix` | Anwälte: ki tool in der kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-ki-tool-in-der-kanzlei-kammerantwort-und-verfahrensstr` | Anwälte: ki tool in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-ki-tool-in-der-kanzlei-organisationspflicht-und-praeve` | Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -168,6 +172,7 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 | `anwaelte-sanktionen-und-mandatsannahme-kammerantwort-und-verfah` | Anwälte: sanktionen und mandatsannahme - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-sanktionen-und-mandatsannahme-organisationspflicht-und` | Anwälte: sanktionen und mandatsannahme - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-sanktionen-und-mandatsannahme-rechtsprechungscheck-und` | Anwälte: sanktionen und mandatsannahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+| `anwaelte-schatten-ki-und-team-policy` | Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. |
 | `anwaelte-social-media-kanzleimarketing-kaltstart-und-faktenmatr` | Anwälte: social media kanzleimarketing - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-social-media-kanzleimarketing-kammerantwort-und-verfah` | Anwälte: social media kanzleimarketing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-social-media-kanzleimarketing-organisationspflicht-und` | Anwälte: social media kanzleimarketing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |

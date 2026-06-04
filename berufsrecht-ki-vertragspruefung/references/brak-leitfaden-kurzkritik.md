@@ -13,10 +13,10 @@ Drei Gründe:
    - Sie verkennt die Unterscheidung zwischen Verbraucher-KI und § 43e-konformen Fach-Dienstleistern.
    - Sie verschiebt den Bezugspunkt der Erforderlichkeit auf den "Stand der Technik" anstatt auf den Zweck der Offenlegung.
 
-3. **DAV-Stellungnahme korrigiert sie.** Die DAV-Initiativstellungnahme Nr. 32/2025 (insbesondere Seiten 11 bis 16) stellt klar, dass die Übermittlung von Mandatsdaten an einen § 43e-konform verpflichteten Dienstleister im Rahmen der Erforderlichkeit zulässig ist. Eine pauschale Pflicht zur Anonymisierung oder Pseudonymisierung besteht in diesen Fällen nicht.
+3. **Neuere berufsrechtliche Gegenposition.** Die spätere Fachdiskussion arbeitet die Differenzierung zwischen Consumer-Tool und §-43e-konform verpflichteter Dienstleistung deutlicher heraus. Danach kann die Übermittlung von Mandatsdaten an einen entsprechend gebundenen Dienstleister im Rahmen der Erforderlichkeit zulässig sein; eine pauschale Pflicht zur Anonymisierung oder Pseudonymisierung besteht in dieser Konstellation nicht.
 
 ## Konsequenz für dieses Plugin
 
-- Maßstab ist und bleibt die DAV-Stellungnahme.
+- Maßstab sind Gesetz, Gesetzesmaterialien, verifizierbare Kammerpraxis, Rechtsprechung und der aktuelle berufsrechtliche Debattenstand.
 - Der BRAK-Leitfaden wird gegebenenfalls als historischer Beleg für die zurückhaltende Anfangsphase der Diskussion zitiert.
 - Eine zeitnahe Aktualisierung des BRAK-Leitfadens, die sich der DAV-Position annähert, ist zu erwarten — Aktualisierung dieses Plugins dann zu prüfen.

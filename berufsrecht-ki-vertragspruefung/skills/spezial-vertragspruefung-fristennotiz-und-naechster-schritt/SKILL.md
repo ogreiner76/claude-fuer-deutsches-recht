@@ -6,7 +6,7 @@ description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin ber
 # Vertragspruefung: Fristennotiz und nächster Schritt
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `berufsrecht-ki-vertragspruefung`. Ausgangspunkt ist: Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. DAV-Stellungnahme. Gutachten Rückfragebrief Klauseln.
+Dieser Skill ist ein konkreter Fachbaustein für `berufsrecht-ki-vertragspruefung`. Ausgangspunkt ist: Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Anwälte StB WP Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. berufsrechtliche KI-Debatte. Gutachten Rückfragebrief Klauseln.
 
 Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Vertragspruefung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
@@ -15,7 +15,7 @@ Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Vertragsp
 
 - **Thema:** Vertragspruefung.
 - **Arbeitsfokus:** Fristennotiz und nächster Schritt.
-- **Plugin-Rahmen:** Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 6....
+- **Plugin-Rahmen:** Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Anwälte StB WP Patentanwälte Notare. §§ 43e BRAO 6....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
@@ -57,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rot**: Stopp; alternatives Tool prüfen oder vertragliche Nachschärfung als Hard-Stop-Bedingung formulieren.
 
 ## Trade-off
-Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. Die "DAV-Stellungnahme Nr. 26/2023" zur Nutzung von KI-Tools betont die Verantwortung des Berufsträgers für Tool-Auswahl und Mandantenaufklärung; Inhalt im Original prüfen, da Stellungnahmen fortgeschrieben werden.
+Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. Maßgeblich sind Tool-Auswahl, Mandanten- und Berufsgeheimnisschutz, dokumentierte Endkontrolle und Aktualisierung bei neuen Kammerhinweisen, Rechtsprechung oder Gesetzesänderungen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

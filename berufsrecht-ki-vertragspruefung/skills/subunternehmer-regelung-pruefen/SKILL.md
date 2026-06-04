@@ -7,7 +7,7 @@ description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absat
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Norm
 
@@ -46,7 +46,7 @@ Auch wenn die Norm das nicht ausdrücklich verlangt, ist eine **abschließende L
 
 ### Zustimmungsvorbehalt
 
-Ein **Zustimmungsvorbehalt der Kanzlei vor Hinzunahme oder Wechsel von Subunternehmern** ist nicht durch das Berufsrecht zwingend gefordert, aber sehr empfehlenswert. Die DAV-Stellungnahme stellt klar, dass die Kanzlei für die Auswahl die berufsrechtliche Verantwortung trägt (Sorgfaltsanforderung Abs. 2 der Dienstleisterregelung).
+Ein **Zustimmungsvorbehalt der Kanzlei vor Hinzunahme oder Wechsel von Subunternehmern** ist nicht durch das Berufsrecht zwingend gefordert, aber sehr empfehlenswert. Die berufsrechtliche KI-Debatte stellt klar, dass die Kanzlei für die Auswahl die berufsrechtliche Verantwortung trägt (Sorgfaltsanforderung Abs. 2 der Dienstleisterregelung).
 
 ### Weiterverpflichtung in Textform
 

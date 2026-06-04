@@ -31,7 +31,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **§ 203 StGB**: gesetze-im-internet.de — Vorsicht bei Mitwirkenden-Klausel Abs. 4.
 - **DSGVO + BDSG**: eur-lex.europa.eu, gesetze-im-internet.de.
 - **KI-VO (VO (EU) 2024/1689)**: eur-lex.europa.eu — insb. Art. 4 KI-Kompetenz.
-- **DAV-Stellungnahme zur KI**: anwaltverein.de — orientierend.
+- **berufsrechtliche KI-Debatte zur KI**: anwaltverein.de — orientierend.
 - **BRAK-Stellungnahmen**: brak.de — orientierend.
 - **Anwaltsgerichtshof-Rechtsprechung** (für BRAO/FAO-Auslegung): regional verschieden; einige Entscheidungen frei zugänglich.
 

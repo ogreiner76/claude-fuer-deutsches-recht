@@ -1,13 +1,13 @@
 ---
 name: erforderlichkeit-dokumentieren
-description: "Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist nach DAV-Stellungnahme zweiunddreissig der Zweck der Offenlegung nicht die KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
+description: "Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist der Zweck der konkreten Offenlegung, nicht die abstrakte KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
 ---
 
 # Erforderlichkeit dokumentieren
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Norm
 
@@ -19,21 +19,21 @@ Pro Beruf wird auf Absatz 1 der jeweiligen Dienstleisterregelung verwiesen. Dies
 - § 39c Abs. 1 PAO — wortgleich für Patentanwalt bezogen auf § 39a Abs. 2 Satz 1 PAO.
 - § 26a Abs. 1 BNotO — wortgleich für Notar bezogen auf § 18 BNotO. Beim Notar wird ausdrücklich klargestellt, dass die Eröffnung "ohne Einwilligung der Beteiligten" zulässig ist (Abs. 1 Satz 1).
 
-## Bezugspunkt nach DAV
+## Bezugspunkt der Erforderlichkeit
 
-Maßgeblich ist nicht, ob die Kanzlei KI braucht — diese unternehmerische Entscheidung wird vorausgesetzt. Maßgeblich ist, ob die konkrete Offenlegung der Mandatsdaten gegenüber dem konkreten Dienstleister für den konkreten Zweck erforderlich ist. Das hat die DAV-Stellungnahme 32/2025 (Seite 12) sehr deutlich ausgeführt. Der Beurteilungsspielraum der Kanzlei ist weit.
+Maßgeblich ist nicht, ob die Kanzlei KI braucht — diese unternehmerische Entscheidung wird vorausgesetzt. Maßgeblich ist, ob die konkrete Offenlegung der Mandatsdaten gegenüber dem konkreten Dienstleister für den konkreten Zweck erforderlich ist. Der Beurteilungsspielraum der Kanzlei ist nicht grenzenlos, aber praktisch relevant.
 
 Praktisch heißt das: Wer ein Tool zur Vertragsanalyse einsetzt, muss nicht begründen, warum er überhaupt KI nutzt. Er muss begründen, warum die Offenlegung der Mandatsdaten gegenüber genau diesem Anbieter zur Erfüllung dieses Zwecks erforderlich ist.
 
 ## Erforderlich ≠ unerlässlich
 
-DAV-Stellungnahme Seite 12: Erforderlichkeit verlangt nicht, dass das Tool den günstigsten oder einzig denkbaren Weg darstellt. Es darf eine sinnvolle, fachlich gerechtfertigte Wahl sein. Die Kanzlei darf zwischen verschiedenen Anbietern abwägen — Preis, Funktionsumfang, Sicherheit. Diese Abwägung ist Teil der Berufsausübungsfreiheit.
+Erforderlichkeit verlangt nicht, dass das Tool der einzig denkbare Weg ist. Es darf eine sinnvolle, fachlich gerechtfertigte Wahl sein. Die Kanzlei darf zwischen verschiedenen Anbietern abwägen — Preis, Funktionsumfang, Sicherheit. Diese Abwägung ist Teil der Berufsausübungsfreiheit, muss bei Mandatsgeheimnissen aber dokumentierbar bleiben.
 
 ## Grenzen
 
 Bei zwei Konstellationen verlässt der Vorgang den Bereich des nach Abs. 1 Erforderlichen:
 
-1. **KI-Training mit Mandatsdaten** — Die Übermittlung von Mandatsdaten zu Trainingszwecken erreicht die Erforderlichkeitsschwelle nicht (DAV S. 14). Hier muss vertraglich "no training" zugesichert sein.
+1. **KI-Training mit Mandatsdaten** — Die Übermittlung von Mandatsdaten zu allgemeinen Trainings- oder Modellverbesserungszwecken überschreitet regelmäßig den beauftragten Dienstleistungszweck. Hier muss vertraglich "no training" zugesichert sein.
 2. **Datenmengen weit jenseits des Zwecks** — Wird das Tool nur für Recherche eingesetzt, müssen nicht alle Aktenbestandteile hochgeladen werden.
 
 ## Prüfpunkte am Vertrag
@@ -130,4 +130,3 @@ Begruendung: [...]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-

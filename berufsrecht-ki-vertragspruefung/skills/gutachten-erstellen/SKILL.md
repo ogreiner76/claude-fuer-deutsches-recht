@@ -1,13 +1,13 @@
 ---
 name: gutachten-erstellen
-description: "Erstelle das zusammenfassende Forprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdrücklich keine Rechtsberatung sondern strukturierte Argumentationshilfe für das Anbietergespraech."
+description: "Erstelle das zusammenfassende Vorprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lückenliste Handlungsempfehlung. Ausdrücklich keine Rechtsberatung sondern strukturierte Argumentationshilfe für das Anbietergespräch."
 ---
 
-# Forprüfungs-Gutachten erstellen
+# Vorprüfungs-Gutachten erstellen
 
 ## Disclaimer
 
-**Diese Forprüfung ist keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+**Diese Vorprüfung ist keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Zweck
 
@@ -25,7 +25,7 @@ Aus `parallelnormen-andere-berufe`. Tabelle der einschlägigen Normen. Hinweis a
 
 ### 3. Maßstab
 
-Goldstandard: DAV-Stellungnahme Nr. 32/2025. BRAK-Leitfaden Dezember 2024 wird kurz erwähnt — zurückhaltend.
+Maßstab sind zuerst die geltenden Normen und ihre Gesetzesmaterialien. Berufsrechtliche Stellungnahmen, Kammerhinweise und Fachdebatten werden nur als Auslegungshilfe verarbeitet und in ihrer Bindungswirkung kenntlich gemacht.
 
 ### 4. Einzelne Prüfpunkte
 
@@ -43,7 +43,7 @@ Pro Skill ein Abschnitt:
 Jeder Abschnitt enthält:
 
 - die einschlägige Norm
-- die DAV-Lesart
+- die vertretbare Auslegungslinie und Gegenpositionen
 - die konkrete Bewertung am vorgelegten Vertrag (Ampel grün/gelb/rot)
 - Lücken und offene Punkte
 
@@ -78,7 +78,7 @@ Drei Stufen:
 
 Am Ende jedes Gutachtens steht:
 
-> Dieses Forprüfungs-Gutachten ist keine Rechtsberatung. Es ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten. Quellen: Memorandum zu § 43e BRAO und § 203 StGB; DAV-Initiativstellungnahme Nr. 32/2025; BT-Drs. 18/12940; einschlägige Gesetzestexte (BRAO StBerG WPO PAO BNotO StGB StPO DS-GVO).
+> Dieses Vorprüfungs-Gutachten ist keine Rechtsberatung. Es ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten. Quellenbasis: geltende Gesetzestexte, Gesetzesmaterialien, verifizierbare Kammerhinweise, Rechtsprechung und aktueller berufsrechtlicher Debattenstand.
 
 ## Stil
 
@@ -127,12 +127,12 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Output-Template — Forprüfungs-Gutachten (Auszug)
+## Output-Template — Vorprüfungs-Gutachten (Auszug)
 
 **Adressat:** Kanzlei intern (ggf. auszugsweise für Anbieter) — Tonfall: sachlich-juristisch
 
 ```
-Forpruefungs-Gutachten KI-Anbietervertrag
+Vorpruefungs-Gutachten KI-Anbietervertrag
 Datum: [DATUM] | Verfasser: [SACHBEARBEITER]
 Anbieter: [NAME] | Produkt: [PRODUKT]
 Beruf: [BERUF] | Norm-Adapter: § [NORM]
@@ -166,14 +166,13 @@ V. Handlungsempfehlung
 [Konkrete naechste Schritte]
 
 VI. Disclaimer
-Dieses Forpruefungs-Gutachten ist keine Rechtsberatung. Es ist strukturierte
-Argumentationshilfe. Abschliessende Beurteilung bleibt der inhabilen Kanzlei
+Dieses Vorpruefungs-Gutachten ist keine Rechtsberatung. Es ist strukturierte
+Argumentationshilfe. Abschließende Beurteilung bleibt der nutzenden Kanzlei
 beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
-Quellen: DAV-Stellungnahme Nr. 32/2025; BRAO, StBerG, WPO, PAO, BNotO; StGB; StPO; DSGVO.
+Quellen: geltende Gesetzestexte, Gesetzesmaterialien, verifizierbare Kammerhinweise, Rechtsprechung und aktueller berufsrechtlicher Debattenstand.
 ```
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-

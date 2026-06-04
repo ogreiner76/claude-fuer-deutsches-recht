@@ -1,7 +1,7 @@
 {
   "name": "berufsrecht-ki-vertragspruefung",
-  "version": "74.1.0",
-  "description": "Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. DAV-Stellungnahme. Gutachten Rückfragebrief Klauseln.",
+  "version": "74.1.1",
+  "description": "Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -20,7 +20,9 @@
     "paragraph-50a-wpo",
     "paragraph-39c-pao",
     "paragraph-26a-bnoto",
-    "dav-stellungnahme",
+    "ai-act",
+    "schatten-ki",
+    "consumer-ki",
     "dienstleister",
     "vertragspruefung",
     "klauselvorschlaege",

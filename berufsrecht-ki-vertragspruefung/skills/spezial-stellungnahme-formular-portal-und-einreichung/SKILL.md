@@ -6,7 +6,7 @@ description: "Stellungnahme: Formular, Portal und Einreichungslogik im Plugin be
 # Stellungnahme: Formular, Portal und Einreichungslogik
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `berufsrecht-ki-vertragspruefung`. Ausgangspunkt ist: Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. DAV-Stellungnahme. Gutachten Rückfragebrief Klauseln.
+Dieser Skill ist ein konkreter Fachbaustein für `berufsrecht-ki-vertragspruefung`. Ausgangspunkt ist: Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Anwälte StB WP Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. berufsrechtliche KI-Debatte. Gutachten Rückfragebrief Klauseln.
 
 Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Stellungnahme**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
@@ -15,7 +15,7 @@ Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Stell
 
 - **Thema:** Stellungnahme.
 - **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
-- **Plugin-Rahmen:** Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 6....
+- **Plugin-Rahmen:** Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Anwälte StB WP Patentanwälte Notare. §§ 43e BRAO 6....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 

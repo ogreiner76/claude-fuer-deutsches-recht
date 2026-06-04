@@ -35,7 +35,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **Ggf. Einwilligungsformular** bei besonders sensiblen Datenarten oder fehlender Anonymisierung.
 
 ## Praxis-Tipp
-Die berufsrechtliche Aufklärungspflicht über KI-Einsatz wird in Rechtsprechung und Standesvertretung noch diskutiert — vorsichtig sein und im Zweifel transparent kommunizieren. Die DAV-Stellungnahme zur KI-Nutzung in Kanzleien (frei zugänglich auf anwaltverein.de) gibt eine Orientierung, ist aber nicht bindend.
+Die berufsrechtliche Aufklärungspflicht über KI-Einsatz wird in Rechtsprechung und Standesvertretung noch diskutiert — vorsichtig sein und im Zweifel transparent kommunizieren. Die berufsrechtliche KI-Debatte zur KI-Nutzung in Kanzleien (frei zugänglich auf anwaltverein.de) gibt eine Orientierung, ist aber nicht bindend.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

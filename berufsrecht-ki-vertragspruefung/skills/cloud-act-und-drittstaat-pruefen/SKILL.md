@@ -1,13 +1,13 @@
 ---
 name: cloud-act-und-drittstaat-pruefen
-description: "Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR werden als gleichwertig unterstellt. Drittstaaten benoetigen vergleichbares Schutzniveau. US-CLOUD Act und Foreign Intelligence Surveillance Act schaffen Restzugriff. Professional Secrecy Addendum empfohlen. DAV-Stellungnahme Seite fuenfzehn sechzehn."
+description: "Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR sind regelmäßig leichter vertretbar; Drittstaaten benötigen eine eigene Berufsgeheimnisprüfung. US-CLOUD Act, FISA, Supportzugriffe, EU-US-DPF, SCC und Professional Secrecy Addendum sauber trennen."
 ---
 
 # Cloud Act und Drittstaat prüfen
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Norm
 
@@ -15,9 +15,9 @@ Absatz 4 der jeweiligen Dienstleisterregelung. Wortlaut (am Beispiel § 43e Abs.
 
 "Bei der Inanspruchnahme von Dienstleistungen, die im Ausland erbracht werden, darf der Rechtsanwalt dem Dienstleister den Zugang zu fremden Geheimnissen unbeschadet der übrigen Voraussetzungen dieser Vorschrift nur dann eröffnen, wenn der dort bestehende Schutz der Geheimnisse dem Schutz im Inland vergleichbar ist, es sei denn, dass der Schutz der Geheimnisse dies nicht gebietet."
 
-## DAV-Lesart
+## Berufsrechtliche Auslegungslinie
 
-DAV-Stellungnahme 32/2025 (Seite 15): EU-Mitgliedstaaten erfüllen aufgrund der Harmonisierung anwaltlicher Berufspflichten in der Regel das Erfordernis des vergleichbaren Schutzes. Außerhalb der EU/des EWR ist die Vergleichbarkeit einzelfallabhängig zu prüfen.
+EU-/EWR-Konstellationen sind wegen gemeinsamer Datenschutz- und Berufsrechtsnähe regelmäßig leichter vertretbar. Außerhalb der EU/des EWR ist die Vergleichbarkeit des Geheimnisschutzes einzelfallabhängig zu prüfen.
 
 Wichtig: Die Vergleichbarkeit bezieht sich auf den Schutz der Geheimnisse, nicht auf das allgemeine Rechtsschutzniveau. Selbst wenn ein Land eine funktionierende Justiz hat, kann der Schutz von Berufsgeheimnissen mangelhaft sein.
 
@@ -31,11 +31,11 @@ Der US-Clarifying Lawful Overseas Use of Data Act verpflichtet US-Anbieter und i
 
 ### FISA Section 702
 
-Der Foreign Intelligence Surveillance Act erlaubt US-Geheimdiensten Zugriff auf elektronische Kommunikation von Nicht-US-Personen ohne richterlichen Beschluss. Praktisch betroffen sind insbesondere große Cloudanbieter und KI-System-Provider.
+FISA Section 702 kann unter bestimmten Voraussetzungen Zugriffe auf elektronische Kommunikation von Nicht-US-Personen über US-Dienste ermöglichen. Für die Kanzlei genügt deshalb nicht die Frage "Wo steht der Server?", sondern es sind Konzern-, Support-, Administrations- und Herausgabezugriffe mitzudenken.
 
 ### Konsequenz
 
-Bei US-Anbietern besteht ein struktureller Restzugriff durch US-Behörden, der mit dem deutschen Berufsgeheimnis nicht vollständig kompatibel ist. Die DAV-Stellungnahme verlangt nicht den vollständigen Verzicht auf US-Anbieter, aber sie verlangt eine sorgfältige Abwägung und vertragliche Absicherung.
+Bei US-Anbietern kann ein struktureller Restzugriff durch US-Behörden bestehen, der mit dem deutschen Berufsgeheimnis kollidieren kann. Daraus folgt nicht automatisch ein Totalverbot; erforderlich sind aber eine sorgfältige Abwägung, Datenminimierung, Vertragszusätze und dokumentierte Restrisikoentscheidung.
 
 ## Professional Secrecy Addendum
 
@@ -47,7 +47,7 @@ Bei US-Anbietern empfehlenswert: ein eigenes Berufsgeheimnis-Addendum zum Hauptv
 - den Anbieter zur Datenminimierung in Richtung USA verpflichtet (keine US-Backups, keine US-Logs)
 - Gerichtsstand und anwendbares Recht in Deutschland
 
-Microsoft und Google haben für ihre Cloud-Dienste teilweise solche Addenda anerkannt; OpenAI nur eingeschränkt.
+Ob ein Anbieter solche Zusätze akzeptiert, muss am konkreten Vertragsstand live geprüft werden. Keine Produktbehauptung aus Modellwissen übernehmen.
 
 ## Prüfschema
 
@@ -157,4 +157,3 @@ Empfehlung: [Nutzung freigegeben / Addendum erforderlich / Anbieterwechsel]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-

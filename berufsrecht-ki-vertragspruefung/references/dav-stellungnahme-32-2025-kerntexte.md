@@ -1,92 +1,57 @@
-# DAV-Stellungnahme Nr. 32/2025 — Kerntexte und Fundstellen
+# Berufsrechtliche KI-Debatte 2025 — Arbeitslinien und Fundstellenlogik
 
-Initiativstellungnahme des Deutschen Anwaltvereins zum KI-Einsatz in der anwaltlichen Praxis, Juli 2025. Hauptquelle für dieses Plugin.
+Diese Referenz ist eine intern paraphrasierte Arbeitsunterlage. Sie ersetzt nicht Gesetz, Rechtsprechung, Kammerpraxis oder aktuelle Quellenprüfung. Sie soll verhindern, dass die Skills aus bloßem Bauchgefühl antworten.
 
-## Gliederung der Stellungnahme
+## Normativer Kern
 
-- I. Einleitung (S. 1-2)
-- II. Use Cases (S. 2-7)
-- III. Wirtschaftlichkeit (S. 7-8)
-- IV. Berufsrecht (S. 8-17) — Kernabschnitt
-- V. Datenschutz (S. 17-19)
-- VI. KI-VO (S. 19-21)
-- VII. Urheberrecht (S. 21-22)
-- VIII. GeschGehSchG (S. 22)
-- IX. Fazit (S. 22-23)
+- § 43e BRAO erlaubt Dienstleisterzugriff auf Berufsgeheimnisse nur, soweit der Zugriff für die beauftragte Dienstleistung erforderlich ist.
+- § 43e Abs. 3 BRAO verlangt Textform, Verschwiegenheitsverpflichtung, Belehrung über strafrechtliche Folgen, Zugriff nur nach Need-to-know und kontrollierte Subunternehmer.
+- § 43e Abs. 4 BRAO verlangt bei Auslandsdienstleistungen einen vergleichbaren Geheimnisschutz; DSGVO-Transferinstrumente ersetzen diese Berufsrechtsprüfung nicht.
+- § 43e Abs. 5 BRAO ist besonders zu prüfen, wenn ein Tool unmittelbar für ein konkretes Einzelmandat eingesetzt wird.
+- § 203 StGB ist eigenständig zu prüfen. Berufsrechtliche Pflichtwidrigkeit und Strafbarkeit laufen nicht automatisch deckungsgleich.
 
-## Berufsrecht — Kernaussagen (Abschnitt IV)
+## Arbeitslinien für KI-Outsourcing
 
-### Zwei Konstellationen (S. 11)
+### Consumer-Tool und gebundener Dienstleister trennen
 
-Die DAV unterscheidet zwischen zwei Konstellationen:
+Öffentlich zugängliche KI-Frontends ohne berufsspezifische Bindung sind für Mandatsgeheimnisse kein normaler Arbeitsort. Dort nur anonymisiert, abstrahiert oder synthetisch arbeiten. Anders kann es bei bewusst beauftragten Fach- oder Enterprise-Dienstleistern sein, wenn die gesamte §-43e-Kette tragfähig dokumentiert ist.
 
-- **Konstellation 1**: Einsatz von Verbraucher-KI (etwa öffentlich zugängliches ChatGPT-Frontend), die nicht § 43e-konform verpflichtet ist. Hier ist eine Anonymisierung bzw. Pseudonymisierung der Mandatsdaten erforderlich.
-- **Konstellation 2**: Einsatz eines spezialisierten Fach-Dienstleisters, der nach § 43e BRAO vertraglich verpflichtet ist. Hier besteht **keine** zwingende Pflicht zur Anonymisierung oder Pseudonymisierung — die berufsrechtliche Verpflichtung übernimmt den Schutz.
+### Erforderlichkeit richtig verstehen
 
-### Bezugspunkt der Erforderlichkeit (S. 12)
+Die Prüfung fragt nicht abstrakt, ob eine Kanzlei KI nutzen darf oder ob die anwaltliche Arbeit auch manuell möglich wäre. Sie fragt, ob der konkrete Zugriff auf die konkreten Geheimnisse für die beauftragte Dienstleistung in dieser Kanzleiorganisation erforderlich und verhältnismäßig begrenzt ist.
 
-> Bezugspunkt der Erforderlichkeit ist der Zweck der Offenlegung, nicht die Frage, ob die Kanzlei KI nutzen darf oder muss. Der Beurteilungsspielraum der Kanzlei ist weit.
+### No-Training als harter Vertragsbaustein
 
-Die unternehmerische Entscheidung der Kanzlei für oder gegen ein Tool ist nicht Gegenstand der § 43e-Prüfung.
+Mandatsdaten dürfen nicht in allgemeines Training, Fine-Tuning, Produktverbesserung, Promptdatenbanken oder Benchmarking abfließen, wenn dafür keine eigene tragfähige Grundlage besteht. Gleiches gilt funktional für Telemetrie, Supportzugriffe und Logdaten mit Inhaltsbezug.
 
-### Verschlüsselung darf die Dienstleistung nicht entwerten (S. 13)
+### Verschlüsselung praktisch statt symbolisch
 
-Es besteht keine Pflicht zu einer Verschlüsselung, die das KI-Inferencing unmöglich macht. Die Ende-zu-Ende-Verschlüsselung gegen den Anbieter würde den Dienst entwerten und ist daher nicht zu verlangen.
+Verschlüsselung, Transport- und Speichersicherheit, Zugriffskontrolle und Protokollierung sind zentrale TOM. Eine Architektur, bei der der Anbieter die beauftragte KI-Dienstleistung technisch gar nicht mehr erbringen kann, ist aber nicht automatisch der einzig denkbare Maßstab. Entscheidend ist die risikogerechte, vertraglich und technisch kontrollierte Zugriffsbeschränkung.
 
-### "no training" als Erfordernis (S. 14)
+### Kanzleiinfrastruktur und Einzelmandats-Tool trennen
 
-> Die Übermittlung von Mandatsdaten zu Trainingszwecken erreicht die Erforderlichkeitsschwelle des § 43e Abs. 1 BRAO nicht. Bei KI-Dienstleistern muss vertraglich geregelt sein, dass die Daten nicht zum Training verwendet werden.
+Ein allgemein freigegebenes Kanzleitool ist anders zu behandeln als ein für ein bestimmtes Mandat individuell eingesetztes Tool. Bei Mandatsbezug können Aufklärung, Einwilligung oder zumindest eine gesonderte Mandatsentscheidung erforderlich werden.
 
-### Einwilligung Mandant nur bei Einzelmandats-Tools (S. 15)
+### Schatten-KI ernst nehmen
 
-Nach § 43e Abs. 5 BRAO ist die Einwilligung des Mandanten nur erforderlich, wenn das Tool unmittelbar einem einzelnen Mandat dient. Für Kanzleiinfrastruktur (übergreifende Tools) ist keine Einwilligung erforderlich.
+Private Accounts, Smartphone-Apps, Übersetzer, Diktattools, PDF-Dienste und Meeting-Transkription sind oft gefährlicher als das offiziell geprüfte Tool. Eine Kanzlei braucht deshalb Toolinventar, Freigabeliste, Schulung, technische Leitplanken und Incident Response.
 
-### Auslandsregelung (S. 15)
+## KI-VO-Schnittstellen
 
-§ 43e Abs. 4 BRAO. EU-Mitgliedstaaten erfüllen das Erfordernis des vergleichbaren Schutzes regelmäßig wegen der harmonisierten anwaltlichen Berufspflichten. Außerhalb der EU/des EWR ist eine Einzelfallprüfung erforderlich.
+- Art. 4 KI-VO verlangt eine realistische KI-Kompetenzorganisation für Personen, die im Auftrag der Kanzlei mit KI arbeiten.
+- Interne anwaltliche Entwurfsnutzung ist anders zu bewerten als Mandantenchatbot, Website, Newsletter oder Marketinginhalt.
+- Art. 50 KI-VO muss für Chatbots und veröffentlichte KI-Inhalte gesondert geprüft werden; menschliche redaktionelle Verantwortung und anwaltliche Endkontrolle sind zu dokumentieren.
+- Eine Kanzlei ist nicht automatisch Anbieterin des zugrunde liegenden Modells. Eigene APIs, White-Label-Systeme oder Mandantenportale können aber zusätzliche Rollenfragen auslösen.
 
-### Verhältnis Berufsrecht und Strafrecht (S. 16)
+## Output-Regel für Skills
 
-> Eine Verletzung von § 43e BRAO ist nicht automatisch eine Strafbarkeit nach § 203 StGB. § 43e geht über § 203 hinaus. Umgekehrt knüpft die Strafbarkeit nach § 203 Abs. 4 Satz 2 Nr. 1 StGB an die Verletzung der vertraglichen Verpflichtungspflicht an.
+Jeder Skill soll am Ende mindestens eines liefern:
 
-BT-Drs. 18/12940, S. 8 (zitiert in DAV S. 16).
-
-## Datenschutz (V) — Kernaussagen
-
-### Beide Regime gelten parallel (S. 17)
-
-DSGVO und Berufsrecht stehen nebeneinander. Die berufsrechtliche Verschwiegenheit ist breiter als der personenbezogene Datenschutz.
-
-### Art. 22 DS-GVO bei Vorbereitung (S. 18-19)
-
-Reine Vorbereitung anwaltlicher Entscheidungen durch KI fällt regelmäßig nicht unter das Verbot ausschließlich automatisierter Entscheidungen.
-
-## KI-VO (VI)
-
-### Hochrisiko-Einstufung nur für Justizbehörden (S. 20)
-
-Anhang III Nr. 8 KI-VO erfasst KI-Systeme der Justizbehörden — Rechtsanwälte fallen nicht darunter (Erwägungsgrund 61).
-
-### Art. 4 KI-VO (KI-Kompetenz)
-
-Anwälte müssen auf KI-Kompetenz ihrer Mitarbeiter hinwirken — Norm ist generalklauselartig und sanktionsfrei.
-
-### Art. 50 KI-VO (Transparenz)
-
-Bei Chatbots zur Mandantenkommunikation Hinweis erforderlich. KI-erzeugte Inhalte ab August 2026 in maschinenlesbarer Form zu kennzeichnen.
-
-## Urheberrecht (VII)
-
-§§ 44a, 44b UrhG. Nutzungsvorbehalte sind zu beachten; "no training" empfohlen.
-
-## GeschGehSchG (VIII)
-
-§ 1 Abs. 3 Nr. 1 GeschGehG: Berufsrecht bleibt unberührt. Berufs- und strafrechtliche Vorschriften überlagern.
-
-## Fazit (IX, S. 22-23)
-
-KI-Einsatz ist berufsrechtlich beherrschbar, wenn § 43e BRAO eingehalten wird. Zentrale Punkte: Verschwiegenheitspflicht in Textform, sorgfältige Dienstleisterauswahl, Beachtung des Datenschutzes.
-
-## Bezug zur BRAK-Stellungnahme (Dezember 2024)
-
-Die BRAK-Stellungnahme ist im Tenor zurückhaltender und enthält eine missverständliche Aussage zur "Erforderlichkeit der Übermittlung". Sie ist nicht maßgeblich. Bezugspunkt dieses Plugins bleibt die DAV-Stellungnahme.
+- Toolklassifikation
+- §-43e-Erforderlichkeitsvermerk
+- Vertragslückenliste
+- No-Training-/Telemetrie-Prüfung
+- Drittstaat- und Subunternehmermatrix
+- KI-VO-Rollenvermerk
+- Team-Policy gegen Schatten-KI
+- anwaltlichen Endkontrollvermerk

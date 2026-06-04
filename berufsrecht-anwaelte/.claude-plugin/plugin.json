@@ -1,7 +1,7 @@
 {
   "name": "berufsrecht-anwaelte",
-  "version": "74.1.0",
-  "description": "Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, Fremdbesitz, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.",
+  "version": "74.1.1",
+  "description": "Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -11,6 +11,9 @@
     "anwaelte",
     "berufsrecht",
     "kammer",
-    "aufsicht"
+    "aufsicht",
+    "ki-outsourcing",
+    "paragraph-43e-brao",
+    "paragraph-203-stgb"
   ]
 }

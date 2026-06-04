@@ -7,7 +7,7 @@ description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtsc
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Zweck
 
@@ -56,7 +56,7 @@ Sind mehrere Berufsgruppen in einer Sozietät gemischt vertreten (Anwalts-Steuer
 
 ## Heuristik Kanzleiinfrastruktur vs. Einzelmandats-Tool
 
-Nach DAV-Stellungnahme 32/2025 (Seite 15) ist die Einwilligung des Mandanten oder Beteiligten regelmäßig nicht erforderlich, wenn das Tool als allgemeine Kanzleiinfrastruktur eingesetzt wird. Sie ist erforderlich, wenn das Tool unmittelbar einem einzelnen Mandat oder einem einzelnen Amtsgeschäft dient (Abs. 5 der jeweiligen Dienstleisterregelung).
+Nach berufsrechtliche KI-Debatte 32/2025 (Seite 15) ist die Einwilligung des Mandanten oder Beteiligten regelmäßig nicht erforderlich, wenn das Tool als allgemeine Kanzleiinfrastruktur eingesetzt wird. Sie ist erforderlich, wenn das Tool unmittelbar einem einzelnen Mandat oder einem einzelnen Amtsgeschäft dient (Abs. 5 der jeweiligen Dienstleisterregelung).
 
 Indikatoren für **Kanzleiinfrastruktur** (kein Einzelmandatsbezug, keine Einwilligung erforderlich):
 

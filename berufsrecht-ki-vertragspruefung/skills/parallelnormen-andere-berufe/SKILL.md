@@ -7,7 +7,7 @@ description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Recht
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung bleibt der nutzenden Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Übersichtstabelle
 
@@ -122,7 +122,7 @@ Beteiligte Berufsgruppen: [LISTE]
 |--------------------|-----------------------|-----------------------|-----------------|
 | Rechtsanwalt       | § 43a Abs. 2 BRAO     | § 43e BRAO            | Abs. 1 Nr. 3    |
 | Steuerberater      | § 57 Abs. 1 StBerG    | § 62a StBerG          | Abs. 1 Nr. 3    |
-| Wirtschaftspruefer | § 43 Abs. 1 WPO       | § 50a WPO             | Abs. 1 Nr. 3    |
+| Wirtschaftsprüfer | § 43 Abs. 1 WPO       | § 50a WPO             | Abs. 1 Nr. 3    |
 | Patentanwalt       | § 39a Abs. 2 PAO      | § 39c PAO             | Abs. 1 Nr. 3    |
 | Notar              | § 18 BNotO            | § 26a BNotO           | Abs. 1 Nr. 1    |
 
