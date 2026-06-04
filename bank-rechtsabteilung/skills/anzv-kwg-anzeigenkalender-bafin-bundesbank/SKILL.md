@@ -3,55 +3,45 @@ name: anzv-kwg-anzeigenkalender-bafin-bundesbank
 description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-Workflow bringen."
 ---
 
-# AnzV-Anzeigenkalender KWG
+# AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 
-## Zweck
+## Worum es geht
 
-Dieser Skill baut aus KWG und AnzV einen operativen Anzeigenkalender. Er ist für Bank-Legal, Vorstandsbüro, Compliance, HR, Beteiligungsmanagement, IT-Auslagerung, Risk und Finance gedacht. Ziel: keine Anzeige vergessen, keine falsche Bundesbank-Stelle wählen, keine Unterlagen in der falschen Form einreichen.
+Dieser Skill erstellt einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und § 24 KWG. Er deckt alle meldepflichtigen Ereignisse ab: Organpersonenwechsel, qualifizierte Beteiligungen, enge Verbindungen, Auslagerungen, Vergütungssysteme, Millionenkredite und LEI-Aktualisierungen. Einreichweg (BaFin-Portal oder Bundesbank-Meldewesen) und Unterlagen werden für jede Anzeige konkret benannt.
 
-## Intake
+## Kernnormen
 
-Frage sofort:
+- **§ 24 Abs. 1 KWG** – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge Verbindungen, Nr. 16 Beteiligungen an Unternehmen, Nr. 19 wesentliche IT-Auslagerungen
+- **§ 24 Abs. 1a KWG** – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate
+- **AnzV §§ 1–21** – Formvorschriften für jede Anzeigeart: § 4 Organpersonen, § 5 Beteiligungen, § 11 Millionenkredite (§ 14 KWG-Anzeige), § 13 Auslagerungen, § 21 Vergütungssystem
+- **§ 14 KWG** – Millionenkreditmeldung: Meldegrenze 1 Mio. Euro, vierteljährliche Meldung an Bundesbank, COREP-Schnittstelle
+- **§ 25h KWG** – Anzeigepflichten bei Geldwäscheverdacht; Zusammenspiel mit GwG §§ 43–48
+- **§ 2c KWG** – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare
+- **AnzV § 11 i.V.m. § 14 KWG** – Millionenkreditregister; monatliche Meldung bei Überschreitung, Korrekturen bis zum 10. des Folgemonats
+- **Bundesbank FINREP/COREP** – aufsichtliche Finanz- und Eigenmittelmeldungen; Turnus quartalsweise, jährlich; XML-Schema EBA-XBRL
 
-- Welcher Anlass liegt vor: Organperson, Beteiligung, enge Verbindung, Auslagerung, Auslandsbezug, Vergütung, LEI, Registerdaten?
-- Ist das Institut CRR-Kreditinstitut, Finanzdienstleistungsinstitut, Finanzholding, gemischte Finanzholding oder Teil einer Gruppe?
-- Ist BaFin, Bundesbank, EZB/SSM oder ein elektronischer Einreichweg betroffen?
-- Gibt es Closing, Organbestellung, Vertragsbeginn oder sonstigen Vollzugstermin?
-- Welche Unterlagen liegen vor und wer ist Owner?
+## Prüfschritte
 
-## Anzeigenmatrix
+1. **Anlass identifizieren**: Organwechsel, Beteiligungsänderung, Auslagerung, Vergütungsänderung, Kreditschwelle – welche AnzV-Norm greift?
+2. **Institut-Typ** (§ 1 Abs. 1 KWG, CRR): CRR-Kreditinstitut, Finanzdienstleistungsinstitut, Finanzholding, gemischte Finanzholding – unterschiedliche Meldepflichten.
+3. **Frist berechnen**: § 24 KWG Nr. 1 (sofortige Anzeige), § 2c (60 Werktage vor Vollzug), § 14 KWG (10. des Folgequartals).
+4. **Einreichweg**: BaFin-Meldung über MVPportal (Organpersonen, Beteiligungen), Bundesbank-Meldewesen (FINREP/COREP, Millionenkredite); bei SSM-Instituten: EZB-Direktmeldung.
+5. **Unterlagen zusammenstellen** (AnzV §§ 4, 5, 13): Lebenslauf, Führungszeugnis, Selbstauskunft, Organigramm, Vertragsauszüge.
+6. **Vergütungssystem** (AnzV § 21, InstVergV): Jährliche Anzeige bei wesentlicher Änderung; Offenlegungspflicht nach CRR Art. 450.
+7. **Vollständigkeitskontrolle**: Hemmt unvollständige Anzeige BaFin-Fristlauf (§ 2c Abs. 1b KWG)?
 
-| Anlass | Typische Unterlagen | Legal-Prüfung |
-| --- | --- | --- |
-| Geschäftsleiter/Aufsichtsorgan | Lebenslauf, Führungszeugnis, Registerauszüge, Eignung, Zeitbudget | Vollständigkeit, Widersprüche, Interessenkonflikte |
-| LEI/Rechtsträgerkennung | LEI-Nachweis, Stammdaten | Aktualität und Zuordnung zur richtigen Einheit |
-| Aktivische Beteiligung | Quoten, Stimmrechte, Unternehmensdaten, Ausland | Schwellen 20/30/50 %, enge Verbindung, Risikofolge |
-| Passive Beteiligung | Aktionärs-/Gesellschafterstruktur, Stimmrechtsabreden | Inhaberkontrolle und KWG-Meldepflicht trennen |
-| Auslagerung | Vertrag, Risikoanalyse, Registereintrag, Beginn/Änderung/Ende | DORA/MaRisk/KWG-Melde- und Registerlogik |
-| Auslandsbezug | Sitz, Tochter/Zweigstelle, Aufsicht, Bilanzsumme | Zuständigkeit und Gruppenfolgen |
-| Vergütung/Risikoträger | Vergütungsdaten, Rollen, Kontrollfunktionen | Frist, Format, Datenschutz, Board-Review |
+## Typische Fallkonstellationen
 
-## Verfahrenslogik
-
-1. Anlasstag bestimmen: Beschluss, Absicht, Vertragsschluss, Vollzug, Änderung, Beendigung.
-2. Anzeigepflicht aus KWG und AnzV herleiten.
-3. Einreichadressat bestimmen: BaFin, zuständige Bundesbank-Hauptverwaltung, EZB/SSM-Schnittstelle oder elektronischer Kanal.
-4. Unterlagenstand prüfen: vollständig, unterschrieben, aktuell, übersetzt, plausibel.
-5. Interne Freigabe: Vorstand, Aufsichtsrat, Compliance, Risk, HR, Datenschutz.
-6. Versand- und Nachweislog: Datum, Kanal, Aktenzeichen, Empfang, Nachforderung.
+- CFO-Wechsel: § 24 Abs. 1 Nr. 1 KWG sofortige Anzeige, AnzV § 4 Formular, Fit-and-Proper-Unterlagen § 25c KWG
+- Investor überschreitet 20 %: § 2c KWG Inhaberkontrolle vor Vollzug, InhKontrollV-Formular, BaFin 60-Tage-Prüfung
+- Neue Cloud-Auslagerung Kernbank: § 24 Abs. 1 Nr. 19 KWG, AnzV § 13, Risikoanalyse § 25b KWG
+- Kreditlinie erstmals über 1 Mio. Euro: § 14 KWG Millionenkreditmeldung, Bundesbank-Formular, Meldetermin quartalsweise
+- Vergütungssystem-Änderung (Bonus-Caps): AnzV § 21, InstVergV, EBA-Leitlinie EBA/GL/2021/04
 
 ## Output
 
-Erzeuge einen Anzeigenkalender mit:
+Anzeigenkalender (tabellarisch) mit Ereignis, Norm, Frist, Einreichweg und Verantwortlichem; Checkliste Unterlagen pro Anzeigeart; Entwurf Anschreiben an BaFin/Bundesbank; Risikoampel für überfällige Anzeigen.
 
-- Anzeigeanlass und Normanker.
-- Einreichadressat und Kanal.
-- Frist/Trigger.
-- Unterlagenliste.
-- Owner.
-- Status: Entwurf, Freigabe, eingereicht, Nachforderung, erledigt.
-- Red Flag: Vollzug vor Anzeige, unvollständige Fit-and-Proper-Unterlagen, falsche Einheit, fehlende LEI, nicht gepflegtes Auslagerungsregister.
+## Quellenregel
 
-## Qualität
-
-Nicht behaupten, ein PDF-Formular oder Portalweg sei aktuell, ohne Live-Check auf BaFin/Bundesbank. Bei SSM-Instituten immer prüfen, ob nationale AnzV-Route, IMAS/MVP oder EZB-Prozess den praktischen Einreichweg bestimmt.
+gesetze-im-internet.de (KWG, AnzV, InhKontrollV, InstVergV), bafin.de (Formular-Center, Anzeigenkalender), bundesbank.de (Meldewesen FINREP/COREP, ExtraNet). Live-Check bei AnzV-Änderungsrundschreiben BaFin und bei EBA-XBRL-Taxonomie-Updates.

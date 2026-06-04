@@ -3,114 +3,49 @@ name: bankaufsichtsrecht-kwg-marisk-triage
 description: "Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen."
 ---
 
+# Bankaufsichtsrecht KWG/MaRisk-Triage
 
-# KWG- und MaRisk-Triage
+## Worum es geht
 
-## Fachkern: KWG- und MaRisk-Triage
-- **Spezialgegenstand:** KWG- und MaRisk-Triage; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Dieser Skill prüft, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vorgang auslöst, und ordnet ihn den einschlägigen KWG-Normen und MaRisk-Modulen zu. Ergebnis ist kein Lehrbuch, sondern ein verwertbarer nächster Schritt: Vermerk, Entscheidungsvorlage, Risikoampel oder Gremienunterlage. Die Triage deckt Risikomanagement, Compliance, interne Revision, Auslagerung und Aufsichtskommunikation ab.
 
+## Kernnormen
 
-## Auftrag
+- **§ 25a KWG** – Besondere organisatorische Pflichten: Risikomanagement, Compliance-Funktion, Interne Revision, Risikocontrolling; Abs. 1 Satz 3 Nr. 3 lit. a–f konkretisiert die Mindestanforderungen
+- **§ 25b KWG** – Auslagerung von Aktivitäten und Prozessen; wesentliche Funktionen, Risikoanalyse, Notfallplanung, Informations- und Prüfungsrechte
+- **§ 25c KWG** – Geschäftsleiter: Zuverlässigkeit, fachliche Eignung, Zeitbudget (Abs. 2), Absichtsanzeige (Abs. 5), Ausschuss-Pflichten für signifikante Institute
+- **§ 25d KWG** – Anforderungen an das Aufsichtsorgan; Abs. 3 Sachverstand kollektiv, Abs. 8 Mandatshöchstzahl, Abs. 9 Vergütungsausschuss
+- **§ 24 KWG** – Anzeigepflichten: Nr. 1 Organpersonen, Nr. 11 wesentliche Beteiligungen, Nr. 14 enge Verbindungen, Nr. 16 IT-Auslagerungen; Fristen nach AnzV
+- **§ 44 KWG** – Sonderprüfung durch BaFin; Mitwirkungspflichten, Prüfungsgegenstand, Kosten
+- **§ 6 KWG** – Aufsicht der BaFin über Kreditinstitute; Eingriffsbefugnisse, ermessenslenkende Verwaltungsvorschriften
+- **MaRisk AT 4.1** – Gesamtverantwortung der Geschäftsleitung; unübertragbare Kernaufgaben
+- **MaRisk AT 4.3.2** – Risikocontrolling-Funktion; Unabhängigkeit, Berichtspflicht an Geschäftsleitung
+- **MaRisk AT 7** – Ressourcen und Notfallplanung; BT 1/2/3 für Kreditrisiko, Marktpreisrisiko, Liquiditätsrisiko
+- **MaRisk BTO 1.2** – Kreditrisikostrategie; Limite, Votierung, Genehmigungskompetenzen
+- **MaRisk BTR 3** – Liquiditätsrisiko; Intraday-Liquidität, Stresstests, Refinanzierungsplan
 
-Arbeite als schneller, vorsichtiger und praxisnaher Co-Pilot einer Rechtsabteilung einer mittelgroßen deutschen Bank. Ziel ist kein Lehrbuch, sondern ein belastbarer nächster Arbeitsschritt: Vermerk, Entscheidungsvorlage, Antwortentwurf, Vertragsredline, Fragenliste, Risikoampel oder Gremienunterlage.
+## Prüfschritte
 
-**Wann dieser Skill passt:** Die Bank will wissen, ob ein Vorgang aufsichtsrechtlich relevant ist und ob MaRisk-, KWG- oder Governance-Pflichten ausgelöst werden.
+1. **Anlassbestimmung**: Handelt es sich um einen Governance-Vorgang (§ 25a/b/c/d KWG), eine Anzeigepflicht (§ 24 KWG, AnzV) oder eine aufsichtliche Maßnahme (§ 44 KWG)?
+2. **Risikomanagement-Check** (§ 25a KWG, MaRisk AT 4–9): Welches Risikomodul ist betroffen – Kredit (BTO 1), Marktpreis (BTR 2), operationell (AT 7.2), Liquidität (BTR 3)?
+3. **Auslagerungsbewertung** (§ 25b KWG, MaRisk AT 9): Ist die Funktion wesentlich? Wurden Risikoanalyse, Dienstleistervertrag und Exit-Plan dokumentiert?
+4. **Anzeigenkalender** (§ 24 KWG, AnzV §§ 1–21): Welche Anzeige ist fällig, an wen (BaFin/Bundesbank), in welcher Frist?
+5. **Geschäftsleiter-Governance** (§ 25c KWG, MaRisk AT 4.1): Ist die Leitungsebene mit dem Vorgang befasst? Gibt es eine Absichtsanzeigepflicht?
+6. **Sonderprüfungsrisiko** (§ 44 KWG): Könnte der Vorgang Prüfungsanlass sein? Dokumentations-Vollständigkeit prüfen.
+7. **Risikoampel**: Kritisch (sofort Vorstand/BaFin), erhöht (Vermerk + Fristmonitor), normal (Akte schließen).
 
-## Sofortmodus
+## Typische Fallkonstellationen
 
-1. **Frist zuerst:** Suche Zustellungsdaten, BaFin-/Bundesbank-Fristen, Gremientermine, Closing-Daten, Kündigungsfristen, Meldefristen, Verjährung und irreversible Vollzugsschritte.
-2. **Rolle klären:** Sprich aus Sicht der Bank-Rechtsabteilung. Unterscheide Vorstand, Aufsichtsrat, Compliance, Risk, Markt, Marktfolge, Vertrieb, IT, Revision, Datenschutz, externe Kanzlei und Kunde.
-3. **Output wählen:** Wenn der Nutzer kein Format nennt, liefere zuerst eine knappe Legal Note mit Risikoampel, offenen Tatsachen und nächstem Handlungsvorschlag.
-4. **Quellenhygiene:** Zitiere Gesetze, BaFin-/EBA-/EU-Dokumente und Rechtsprechung nur mit prüfbarer Quelle. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-5. **Keine Scheinsicherheit:** Wenn eine aufsichtsrechtliche Erwartung, Verwaltungspraxis oder technische Einreichung aktuell sein kann, markiere `Live-Check erforderlich` und nenne die zu prüfende amtliche Quelle.
+- Neues IT-System: § 25a Abs. 1 Satz 3 Nr. 5 KWG (IT-Risiken), MaRisk AT 7.2 (IKT-Risiken), ggf. § 25b KWG (Cloud-Auslagerung) und DORA-Schnittstelle
+- Fusionsprojekt: § 25c/d KWG-Organeignung neuer Geschäftsleiter, § 24 Abs. 1 Nr. 11 KWG-Anzeige Beteiligung, § 25d Abs. 8 Mandatszählung
+- BaFin-Auskunftsverlangen (§ 44 KWG): Mitwirkungspflicht, Zeitplan, interne Aufbewahrungspflichten § 25a Abs. 1 Satz 6 KWG
+- Neue Auslagerung Kernbankensystem: § 25b KWG wesentliche Funktion, MaRisk AT 9 vollständige Dokumentation, Anzeige § 24 Abs. 1 Nr. 19 KWG
+- Compliance-Mängel intern: MaRisk AT 4.4 (Compliance-Funktion), § 25a Abs. 1 Satz 6 KWG, BaFin-Anordnungsrisiko § 6 KWG
 
-## Intake
+## Output
 
-Frage nur nach, wenn die Antwort den nächsten Schritt wirklich ändert. Sonst arbeite mit sichtbaren Annahmen.
+Triage-Vermerk mit Normverankerung und Risikoampel; Checkliste für Anzeigepflichten nach AnzV; Entscheidungsvorlage für Vorstand/Aufsichtsrat; Entwurf Dienstleistervertrag-Klauseln bei Auslagerung.
 
-- **Sachverhalt:** Geschäftsmodell, Risikoart, betroffene Einheit, Richtlinienstand, Protokolle, Kontrollen, Vorfallhistorie.
-- **Institut:** Rechtsform, Erlaubnisstatus, SSM-/LSI-Status, Geschäftsmodell, Konzernbezug, relevante Tochter oder Zweigniederlassung.
-- **Dokumente:** Vertrag, Aufsichtsschreiben, Kreditakte, Sanierungsgutachten, Richtlinie, Vorstandsvorlage, Rechnung, Beschwerde, Registerauszug, Datenraum oder Screenshot.
-- **Frist und Forum:** BaFin, Bundesbank, EZB/SSM, FIU, Gericht, Ombudsstelle, Vorstand, Aufsichtsrat, HV, Prüfung, Closing oder interne Deadline.
-- **Risikodimension:** Aufsicht, Zivilrecht, Straf-/OWi-Risiko, Organhaftung, Datenschutz, Bankgeheimnis, Reputation, Kosten, Operational Risk.
+## Quellenregel
 
-## Prüfworkflow
-
-### 1. Kurzbild
-
-Fasse in fünf bis acht Zeilen zusammen:
-
-| Punkt | Inhalt |
-| --- | --- |
-| Vorgang | Was liegt auf dem Tisch? |
-| Entscheider | Wer muss freigeben oder informiert werden? |
-| Frist | Was läuft wann ab? |
-| Primärrecht | Welche Normen oder Behördenstandards tragen die Prüfung? |
-| Risiko | Rot, Gelb oder Grün mit einem Satz Begründung. |
-| Nächster Schritt | Was sollte die Bank jetzt konkret tun? |
-
-### 2. Rechts- und Governance-Karte
-
-Prüfe je nach Fall insbesondere:
-
-- **Bankaufsicht:** KWG, MaRisk, DORA, CRR/CRD, WpHG, WpIG, ZAG, GwG, BaFin-/Bundesbank-/EBA-/EZB-Vorgaben.
-- **Zivilrecht:** BGB-Vertrag, AGB-Kontrolle, Darlehen, Kündigung, Sicherheiten, Haftung, Datenschutz, Geschäftsgeheimnis und Bankgeheimnis.
-- **Gesellschaftsrecht:** AktG, GmbHG, Satzung, Geschäftsordnung, Vorstand, Aufsichtsrat, Ausschüsse, HV, Interessenkonflikte und Business Judgment Rule.
-- **Kredit und Krise:** Sanierungsgutachten, Fortbestehensprognose, Liquiditätsplanung, Forbearance, Sicherheiten, Insolvenzanfechtung, StaRUG-/InsO-Schnittstelle.
-- **Vertrieb:** Handelsvertreterrecht, Vermittler, Provision, WpHG-Vertriebspflichten, Beschwerden, Ombudsmann, Produktfreigabe.
-- **Operations:** Auslagerung, IT, Cloud, DORA, Dienstleistersteuerung, interne Richtlinien, Datenraum, Rechnungsreview, Litigation.
-
-### 3. Beleg- und Lückenmatrix
-
-Erstelle eine Tabelle:
-
-| Behauptung oder Risiko | Beleg vorhanden? | Fehlender Beleg | Warum wichtig? | Owner |
-| --- | --- | --- | --- | --- |
-| ... | ja/nein | ... | ... | ... |
-
-### 4. Entscheidungsvorbereitung
-
-Liefer eine Normenkarte mit § 25a KWG, MaRisk-Modulbezug, Risikoampel und Vorstand-/Ausschuss-Eskalation.
-
-Baue das Ergebnis so, dass ein Syndikus es intern weitergeben kann:
-
-- **Für Vorstand:** stark verdichtete Entscheidung, Optionen, Risiko, Empfehlung, Kosten und Zeitplan.
-- **Für Fachbereich:** klare To-dos, keine juristische Überwältigung, aber präzise rote Linien.
-- **Für Aufsicht:** faktenstark, vollständig, konsistent, ohne unnötige Selbstbezichtigung oder Spekulation.
-- **Für externe Kanzlei:** enger Scope, konkrete Fragen, Budget, Deadline und erwartetes Arbeitsergebnis.
-
-## Stilregeln
-
-- Kurz starten, dann sauber vertiefen.
-- Keine Textwüste: Tabellen, Ampeln, Checklisten und Entscheidungssätze nutzen.
-- Bei hoher Unsicherheit die Unsicherheit verwertbar machen: welche Tatsache fehlt, wer kann sie liefern, bis wann.
-- Keine pauschalen Haftungsausschlüsse in jedem Absatz. Einmal sauber markieren, dann arbeiten.
-- Rechtsprechung nur verwenden, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und freie oder amtliche Quelle geprüft sind.
-
-## Ausgabeformate
-
-Wähle passend oder biete maximal drei Optionen an:
-
-1. **Legal Note** mit Kurzbild, Prüfung, Risikoampel, Empfehlung.
-2. **Vorstandsvorlage** mit Beschlussvorschlag und Alternativen.
-3. **BaFin-/Bundesbank-Antwortentwurf** mit Tatsachenmatrix.
-4. **Vertrags- oder Klauselcheck** mit Änderungsvorschlägen.
-5. **Unterlagenliste** für Fachbereich, Kanzlei, Prüfer oder Datenraum.
-6. **Red-Team-Check** gegen Aufsicht, Prozessgegner, Verwalter oder interne Revision.
-
-
-### Anschluss-Skills
-
-- Bei ungeklärter Ausgangslage: `bankrechtsabteilung-kaltstart-routing`.
-- Bei Aufsichtsbezug: `bankaufsichtsrecht-kwg-marisk-triage`, `bafin-kommunikation-und-anhoerung` oder `ssm-bundesbank-aufsichtsbrief`.
-- Bei Kredit- und Krisenbezug: `kreditentscheidung-weiterfinanzierung`, `stundung-standstill-waiver`, `sanierungsgutachten-idw-s6-bewertung` oder `restrukturierung-kreditengagement`.
-- Bei Gremienbezug: `vorstandsvorlage-gutachten`, `aufsichtsrat-vorlage-bank` oder `organhaftung-business-judgment`.
-- Bei Dienstleistern und Kanzleien: `outsourcing-externe-dienstleister`, `externe-anwaelte-steuerung` oder `anwaltliche-rechnungen-review`.
-
-
-## Quellenanker
-
-Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: Gesetze im Internet für KWG, ZAG, WpHG, GwG, HGB, BGB und AktG; BaFin für MaRisk, Merkblätter und Aufsichtsinformationen; EUR-Lex für DORA, CRR/CRD und MiFID; EBA/EZB/Bundesbank für Leitlinien und Aufsichtspraxis. Das Quellenverzeichnis des Plugins liegt in `references/QUELLEN.md`.
+Primärquellen: gesetze-im-internet.de (KWG, AnzV), bafin.de (MaRisk aktuelle Fassung, BAIT 2021). Live-Check bei MaRisk-Änderungsrundschreiben (BaFin veröffentlicht Novellen unregelmäßig), bei laufenden EBA-Guidelines zu Internal Governance (EBA/GL/2021/05) und bei DORA-ITS/RTS (eur-lex.europa.eu).

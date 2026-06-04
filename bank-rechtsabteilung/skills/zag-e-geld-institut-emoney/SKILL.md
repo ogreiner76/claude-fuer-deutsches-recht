@@ -3,98 +3,46 @@ name: zag-e-geld-institut-emoney
 description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage."
 ---
 
+# E-Geld-Institut und E-Geld-Geschäft nach ZAG
 
-# E-Geld nach ZAG
+## Worum es geht
 
-## Fachkern: E-Geld nach ZAG
-- **Spezialgegenstand:** E-Geld nach ZAG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Dieser Skill prüft das E-Geld-Geschäft nach ZAG: ob ein Produkt E-Geld im Sinne von § 1 Abs. 2 ZAG ist, welche Erlaubnisanforderungen gelten und wie Eigenmittel, Sicherung, Ausgabe und Rücktausch rechtssicher ausgestaltet werden. Abgrenzungen zu Gutscheinen, Kryptowerten (MiCAR) und Bankeinlagen (KWG) werden durchgeführt.
 
+## Kernnormen
 
-## Aufgabe
+- **§ 1 Abs. 2 ZAG** – E-Geld-Definition: elektronisch gespeicherter monetärer Wert in Form einer Forderung gegen den Emittenten, ausgegeben gegen Zahlung, zur Durchführung von Zahlungsvorgängen; drei kumulative Voraussetzungen
+- **§ 11 Abs. 1 Nr. 1 ZAG** – E-Geld-Institut-Erlaubnis: Antrag bei BaFin, Inhalt wie § 10 ZAG; Erlaubnis umfasst Zahlungsdienste nach § 1 Abs. 1 Satz 2 Nr. 1–6 ZAG automatisch
+- **§ 17 ZAG** – Anfangskapital E-Geld-Institut: 350 TEUR (gegenüber 50/125 TEUR bei reinen ZI); laufende Eigenmittel nach Methode D (2 % des durchschnittlichen E-Geld-Umlaufs)
+- **§ 11a ZAG** – Ausgabe und Rücktausch: Ausgabe zum Nennwert, Rücktauschpflicht auf Verlangen des Inhabers, Entgeltbeschränkung beim Rücktausch
+- **§ 23a ZAG** – E-Geld-Agenten: Vertrieb durch Agenten; Registrierung, Haftung des E-Geld-Instituts für Agentenverhalten, AML-Schulungspflichten
+- **§ 16 ZAG** – Sicherung der Kundengelder (gilt auch für E-Geld-Institut): Treuhandkonto oder gleichwertige Sicherung für alle eingenommenen Gelder
+- **§ 1 Abs. 2 ZAG i.V.m. § 1 Abs. 10 Nr. 10 ZAG** – Gutschein-Ausnahme: begrenzte Netze (Einkaufsgutschein, Tankkarte) sind kein E-Geld wenn Akzeptanzstellenkreis eng begrenzt
+- **Art. 1 EMD2** (Richtlinie 2009/110/EG) – E-Geld-Definition europarechtliche Grundlage; harmonisierte Anforderungen; Umsetzung im ZAG
 
-Bearbeite diesen Spezialfall aus Sicht einer Bank-Rechtsabteilung. Das Ergebnis muss intern verwendbar sein: als Legal Note, Vorstandsvorlage, BaFin-Fragenpaket, Produktfreigabe, Vertragscheck, Red-Team-Vermerk oder Umsetzungs-Backlog.
+## Prüfschritte
 
-**Wann nutzen:** Wallet, Prepaid, Stablecoin-ähnliches Produkt, Gutschein- oder Plattformguthaben soll rechtlich eingeordnet werden.
+1. **E-Geld-Definition** (§ 1 Abs. 2 ZAG): Ist der Wert elektronisch gespeichert, stellt er eine Forderung gegen den Emittenten dar, wird er gegen Zahlung ausgegeben und für Zahlungsvorgänge akzeptiert?
+2. **Abgrenzung Einlage vs. E-Geld**: E-Geld ist keine rückzahlbare Einlage (§ 1 Abs. 2 Satz 3 ZAG); kein Zinsanspruch; kein Einlagensicherungsschutz (§ 11a Abs. 4 ZAG).
+3. **Gutschein-Ausnahme** (§ 1 Abs. 10 Nr. 10 ZAG): Akzeptanzstellen auf klar definierten Kreis begrenzt? BaFin-Merkblatt E-Geld Abgrenzungsfälle beachten.
+4. **Anfangskapital** (§ 17 ZAG): 350 TEUR nachweisen; laufende Eigenmittel 2 % des Durchschnitts-E-Geld-Umlaufs (Methode D).
+5. **Sicherungskonzept** (§ 16 ZAG): Treuhandkonto für alle E-Geld-Kundengelder; getrennt von Eigengeldern des Instituts.
+6. **Rücktauschpflicht** (§ 11a ZAG): Jederzeit auf Verlangen; Entgelt nur wenn vertraglich vereinbart und kostendeckend.
+7. **Agenten** (§ 23a ZAG): Registrierung im BaFin-Register, Haftung des Instituts, AML-Schulungen nach GwG.
+8. **MiCAR-Abgrenzung**: E-Geld-Token (EMT) unter MiCAR VO 2023/1114 Art. 48 ff. – spezifischer Regulierungsweg wenn Kryptowert; kein Doppelregime.
 
-## Schnellmodus
+## Typische Fallkonstellationen
 
-1. **Eilpunkt erkennen:** Fristen, Anzeigewege, Launch-Termine, Register-/Portal-Einreichung, Aufsichtskontakt, Kundenkommunikation und irreversible Vollzugsschritte zuerst markieren.
-2. **Regime sauber trennen:** Geltendes Recht, Verwaltungspraxis, EU-Entwurf/Vorschau und reine Produktidee nicht vermischen. Bei PSD3/PSR oder Roadmap-Themen ausdrücklich als Monitoring oder Gap-Vorschau kennzeichnen.
-3. **Tatbestand vor Meinung:** Erst Geschäftsmodell, Zahlungsfluss, Tokenrecht, Organrolle oder Registerfunktion sauber beschreiben, dann rechtlich einordnen.
-4. **Quellenhygiene:** Gesetze, BaFin, Bundesbank, EBA, EZB und EUR-Lex bevorzugen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier oder amtlicher Quelle.
-5. **Bankrealität:** Nicht nur sagen, ob etwas erlaubt ist. Immer mitliefern: wer entscheidet, welche Unterlagen fehlen, welcher Fachbereich Owner ist und wie die Bank das dokumentiert.
+- Prepaid-Karte mit breitem Akzeptanznetz: § 1 Abs. 2 ZAG E-Geld, § 11 ZAG Erlaubnis, Anfangskapital 350 TEUR, § 16 Treuhand
+- Supermarkt-Geschenkkarte (nur eigene Filialen): § 1 Abs. 10 Nr. 10 ZAG Ausnahme; kein E-Geld, keine Erlaubnispflicht
+- Crypto-Stablecoin (EUR-backed): MiCAR Art. 48 ff. EMT-Regime statt ZAG; BaFin-Abstimmung empfehlen
+- Mobile-Wallet mit E-Geld-Funktion: § 11 ZAG Erlaubnis, § 23a ZAG wenn Vertrieb über Agenten, § 16 Sicherung pro App-Nutzer
+- Rücktauschverweigerung durch Institut: § 11a ZAG, zivilrechtlicher Anspruch des Inhabers; BaFin-Beschwerdeweg
 
-## Intake
+## Output
 
-Frage nur nach, wenn ohne Antwort ein falscher nächster Schritt droht. Andernfalls mit Annahmen arbeiten und sie sichtbar markieren.
+E-Geld-Prüfungsschema (Definition-Checkliste); Erlaubnisantrags-Checkliste § 11 ZAG; Eigenmittelberechnung Methode D; Sicherungskonzept-Vorlage; Agenten-Registrierungsanforderungen § 23a ZAG.
 
-- **Kerninformationen:** Produkt, Aufladung, Rücktausch, Akzeptanznetz, Kundenanspruch, Bilanzierung, Händlerstruktur.
-- **Institut und Rolle:** Bank, Zahlungsinstitut, E-Geld-Institut, Wertpapierinstitut, CRR-Kreditinstitut, FinTech-Tochter, Vermittler, Agent, Registerführer, CASP, Emittent oder Dienstleister.
-- **Produkt oder Vorgang:** Zahlungsdienst, E-Geld, Kredit, Wertpapier, Token, Register, Organwechsel, Auslagerung, Betrugsfall, Trade Finance oder Kooperation.
-- **Aufsicht und Einreichweg:** BaFin, Bundesbank, EZB/SSM, EBA, FIU, Register, MVP, IMAS, Bundesanzeiger, Handelsregister oder interner Ausschuss.
-- **Dokumente:** Produktbeschreibung, Flow-of-Funds, Vertragsentwurf, API-Doku, Token Terms, Organ-CV, Eignungsmatrix, Registerauszug, Kundenkommunikation, Logs oder Vorstandsvorlage.
+## Quellenregel
 
-## Prüfaufbau
-
-### 1. Kurzbild
-
-| Punkt | Klärung |
-| --- | --- |
-| Ergebnisbedarf | Vermerk, Freigabe, BaFin-Anfrage, Vertrag, Vorstandsvorlage oder Prozessstrategie |
-| Rechtsregime | KWG, ZAG, WpHG, WpIG, eWpG, MiCAR, DORA, GwG, BGB, HGB, AktG, SEPA-/EU-Regime oder Entwurf |
-| Risiko | Aufsicht, Bußgeld, Zivilhaftung, Organhaftung, Kundenstreit, AML, Datenschutz, IT oder Reputation |
-| Frist | Anzeige, Launch, Antwort, Rückgabe, Register, Gremium oder Verjährung |
-| Entscheidung | Go, Go mit Auflagen, Stop, BaFin-Vorabklärung oder externe Spezialprüfung |
-
-### 2. Subsumtion und Geschäftsmodell
-
-Arbeite in dieser Reihenfolge:
-
-1. Lebenssachverhalt und Rollen in einfachen Sätzen festhalten.
-2. Geld-, Daten-, Wertpapier- oder Tokenfluss als Tabelle beschreiben.
-3. Tatbestandsmerkmale einzeln prüfen.
-4. Ausnahmen, Privilegierungen, Bestandsschutz, Übergangsregeln oder Entwurfsstand gesondert behandeln.
-5. Gegenargumente und Red-Team-Sicht der Aufsicht formulieren.
-6. Praktische Auflagen für Launch, Fortführung, Korrektur oder Ablehnung schreiben.
-
-### 3. Beleg- und Unterlagenliste
-
-| Frage | Beleg | Fehlt | Owner | Wirkung |
-| --- | --- | --- | --- | --- |
-| Wer erbringt welche Leistung? | Vertrag, Produktbild, Prozess | ... | Legal/Produkt | Regimewahl |
-| Fließen Kundengelder oder Kryptowerte? | Flow-of-Funds, Wallet-/Kontoauszug | ... | Operations/Risk | Erlaubnis/Haftung |
-| Gibt es Aufsichtskontakt? | Schreiben, Ticket, Portalnachweis | ... | Legal/Compliance | Frist/Strategie |
-| Sind Kunden betroffen? | AGB, FAQ, Beschwerde, Marketing | ... | Vertrieb/Legal | Transparenz/Haftung |
-
-### 4. Ergebnis
-
-Erzeuge E-Geld-Prüfung, Ausnahmecheck, Erlaubnispfad, Vertragslücken und Produktfreigabeauflagen.
-
-Baue das Ergebnis mit diesen Elementen:
-
-- **Entscheidungssatz:** Ein Satz, der intern zitiert werden kann.
-- **Risikoampel:** Rot/Gelb/Grün mit kurzer Begründung.
-- **Auflagen:** Welche Bedingungen müssen vor Go-Live oder vor Antwort erfüllt sein?
-- **Offene Punkte:** konkrete Rückfragen statt allgemeiner Rechercheaufträge.
-- **Anschluss-Skills:** passende Skills aus `bank-rechtsabteilung` nennen, insbesondere `bafin-kommunikation-und-anhoerung`, `bankaufsichtsrecht-kwg-marisk-triage`, `dora-ict-vertraege-vorfall`, `gwg-aml-kyc-verdachtsmeldung`, `vorstandsvorlage-gutachten` oder `produktfreigabe-new-product-process`.
-
-## Spezialhinweise
-
-- **PSD3/PSR:** Als EU-Gesetzgebungsvorschau behandeln, bis finaler Text und nationale Umsetzung/Anpassung greifbar sind. Keine Scheingeltung behaupten.
-- **eWpG/MiCAR:** Immer zuerst trennen, ob der Token ein Finanzinstrument, elektronisches Wertpapier, Kryptowert, E-Geld-Token, vermögenswertreferenzierter Token oder etwas anderes ist.
-- **ZAG:** Zahlungsfluss und Besitz an Kundengeldern sind zentral. Grafische Flow-of-Funds-Logik in Worte übersetzen.
-- **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
-- **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Steht klar da, was geltendes Recht ist und was Entwurf/Monitoring ist?
-- Sind BaFin-/EBA-/EUR-Lex-Quellen als Live-Check markiert, wenn sie tragen?
-- Gibt es eine konkrete Unterlagenliste?
-- Ist die Bankentscheidung dokumentationsfest?
-- Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+gesetze-im-internet.de (ZAG), eur-lex.europa.eu (EMD2 2009/110/EG, MiCAR VO 2023/1114), bafin.de (Merkblatt E-Geld, Abgrenzungsfälle). Live-Check: BaFin-Merkblatt E-Geld zuletzt 2022; MiCAR EMT-Regime ab Juni 2024 in Kraft.

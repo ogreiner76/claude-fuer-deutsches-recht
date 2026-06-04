@@ -3,50 +3,45 @@ name: wpig-und-zag-pruefung
 description: "WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen fuer Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster fuer Geschaeftsmodelle und Sandbox-Optionen."
 ---
 
-# WpIG und ZAG Lizenzpruefung
+# WpIG und ZAG: Abgrenzung und Erlaubnisraster
 
-## Spezialwissen: WpIG und ZAG Lizenzpruefung
-- **Spezialgegenstand:** WpIG und ZAG Lizenzpruefung / wpig und zag pruefung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** WpIG, ZAG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Worum es geht
 
+Dieser Skill prüft die Abgrenzung zwischen WpIG-Erlaubnis, ZAG-Erlaubnis und KWG-Erlaubnis für Geschäftsmodelle an der Schnittstelle von Wertpapierdienstleistung und Zahlungsdienst. Das WpIG setzt die IFD/IFR um und klassifiziert Wertpapierinstitute in Klassen 1, 2 und 3 mit stark unterschiedlichen Eigenmittelanforderungen. Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst.
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Kernnormen
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+- **WpIG § 2 Abs. 1** – abschließende Liste der Wertpapierdienstleistungen: Anlagevermittlung, Anlageberatung, Portfolioverwaltung, Eigenhandel, Abschluss- und Emissionsgeschäft; Abgrenzung zu § 1 Abs. 1a KWG Finanzdienstleistungen
+- **WpIG § 15** – Erlaubnispflicht für Wertpapierinstitute: Antrag bei BaFin, Geschäftsplan, Angaben zu Inhabern, Geschäftsleitern; Erlaubnis je nach Klasse mit unterschiedlichem Umfang
+- **WpIG § 17** – Eigenmittelanforderungen nach IFR-Klasse: Klasse 3 (kleine nicht-verflochtene Institute) mind. 75 TEUR; Klasse 2 mind. 150 TEUR + Kapitalzuschlag nach K-Faktoren IFR Art. 15; Klasse 1 (systemrelevant) = KWG-Institute, CRR anwendbar
+- **IFR VO 2019/2033 Art. 9–15** – K-Faktoren-System: AUM (Art. 17), CMH (Art. 18), ASA (Art. 19), COH (Art. 20), DTF (Art. 21), NPR/CMG (Art. 22–23), TCD (Art. 24), ON/OFF Balance-Sheet (Art. 25); laufende Eigenmittelanforderung
+- **IFR Art. 43** – Meldepflichten Wertpapierinstitute: vierteljährliche Meldung an BaFin; COREP-Schemata nach EBA-ITS; IFR-Klasse beeinflusst Meldeumfang
+- **ZAG § 10** – Erlaubnis Zahlungsinstitut: kommt in Betracht wenn Wertpapierinstitut auch Zahlungsdienste erbringt (z.B. Kontoführung für Kundengelder); ggf. doppelte Erlaubnis oder WpIG-Annex-Erlaubnis
+- **WpIG § 35 i.V.m. § 25c KWG** – Fit-and-Proper Geschäftsleiter Wertpapierinstitut: Zuverlässigkeit, Sachkunde analog KWG; Absichtsanzeige bei BaFin; Zeitbudget
+- **MiCAR Art. 59–76** (VO 2023/1114) – Crypto-Asset-Service-Provider (CASP): Erlaubnispflicht für CASP-Dienstleistungen (Verwahrung, Handel, Transfer von Kryptowerten); Abgrenzung zu WpIG (E-Wertpapiere nach DLT-VO) und ZAG (E-Geld-Token)
 
-## Pruefraster
+## Prüfschritte
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+1. **Dienstleistungs-Klassifikation** (WpIG § 2 Abs. 1): Liegt eine WpIG-Wertpapierdienstleistung vor? Oder ZAG-Zahlungsdienst (§ 1 ZAG)? Oder KWG-Bankgeschäft? Überlagerungen dokumentieren.
+2. **WpIG-Klassen-Bestimmung** (IFR Art. 9–12): Klasse 1 (KWG-Schwelle), Klasse 2 (Standard), Klasse 3 (small non-interconnected)? Bilanzsumme, AUM, COH, NPR, DTF prüfen.
+3. **Eigenmittelberechnung** (WpIG § 17, IFR Art. 15): Mindestkapital je Klasse; K-Faktoren berechnen; Vergleich mit 25 %-Kostenkennzahl (IFR Art. 13).
+4. **ZAG-Schnittstelle** (§ 10 ZAG): Erbringt das WpIG-Institut auch Zahlungsdienste (Überweisungen für Kunden, Depotkonto)? Doppel-Erlaubnis oder Ausnahme § 1 Abs. 10 ZAG?
+5. **MiCAR-CASP-Prüfung** (MiCAR Art. 59): Werden Kryptowerte verwahrt, gehandelt oder übertragen? CASP-Erlaubnis parallel zu WpIG erforderlich? Abgrenzung E-Wertpapier (DLT-Pilot-VO 2022/858) vs. Kryptowert.
+6. **Fit-and-Proper** (WpIG § 35, § 25c KWG, EBA/GL/2021/06): Geschäftsleiter-Eignung analog KWG; Absichtsanzeige BaFin.
+7. **Meldepflichten** (IFR Art. 43, EBA-ITS): Quartalsweise COREP; Klasse 2 umfangreichere K-Faktor-Meldung; Klasse 3 vereinfacht.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Typische Fallkonstellationen
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+- Neo-Broker (Anlagevermittlung ohne Eigenhandel): WpIG § 2 Abs. 1 Nr. 1, Klasse 3 wenn small, Eigenmittel 75 TEUR; keine ZAG-Erlaubnis wenn Kundengelder bei KWG-Bank gehalten
+- Robo-Advisor (Portfolioverwaltung): WpIG § 2 Abs. 1 Nr. 7, Klasse 2, K-Faktor AUM anwendbar; Fit-and-Proper Algorithmus-Governance
+- Krypto-Exchange mit Fiat-Zahlungen: MiCAR Art. 59 CASP-Erlaubnis + ggf. ZAG § 10 (Zahlungsauslösung oder Finanztransfer) – doppelte Regulierung
+- WpIG expandiert in Kredit (z.B. Wertpapierkredit): § 1 Abs. 1 Nr. 2 KWG Kreditgeschäft; WpIG-Erlaubnis reicht nicht; KWG-Erlaubnis erforderlich
+- Sandbox-Option: BaFin-Innovationsbereich-Kontakt; regulatorische Erprobung unter FinDAG § 4a; DLT-Pilot-VO 2022/858 für Marktinfrastrukturen
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Output
+
+WpIG/ZAG/KWG-Abgrenzungsmatrix; K-Faktoren-Berechnungsblatt (IFR); Erlaubnisantrags-Checkliste WpIG § 15; MiCAR-CASP-Prüfschema; Sandbox-Optionen-Übersicht (BaFin, DLT-Pilot).
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+gesetze-im-internet.de (WpIG, ZAG, KWG), eur-lex.europa.eu (IFR VO 2019/2033, IFD 2019/2034, MiCAR VO 2023/1114, DLT-Pilot VO 2022/858), bafin.de (WpIG-Merkblatt, Erlaubnisantrag WpIG), eba.europa.eu (EBA-ITS IFR-Meldewesen). Live-Check: CRR3 (VO 2024/1623) Klasse-1-Schwelle ab 01.01.2025; MiCAR CASP-Erlaubnispflicht ab Dezember 2024.

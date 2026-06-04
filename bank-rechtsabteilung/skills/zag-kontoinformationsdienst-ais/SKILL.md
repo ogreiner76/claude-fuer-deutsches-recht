@@ -3,98 +3,45 @@ name: zag-kontoinformationsdienst-ais
 description: "Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, Datenzugriff, Schnittstelle, Consent, Versicherung, Datenschutz, Open-Banking-Verträge und White-Label-Modelle."
 ---
 
+# Kontoinformationsdienst (AIS) nach ZAG und PSD2
 
-# Kontoinformationsdienst AIS
+## Worum es geht
 
-## Fachkern: Kontoinformationsdienst AIS
-- **Spezialgegenstand:** Kontoinformationsdienst AIS; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Dieser Skill prüft Kontoinformationsdienste (Account Information Services, AIS) nach § 1 Abs. 1 Satz 2 Nr. 8 ZAG und Art. 67 PSD2. AIS-Provider unterliegen einem Light-Registrierungsregime (§ 34 ZAG) statt einer vollständigen Erlaubnis. Datenzugriffsrechte, Consent-Management, Haftungskette und die Anforderungen aus RTS-SCA Art. 36 (dedizierte Schnittstellen) werden normseitig verankert.
 
+## Kernnormen
 
-## Aufgabe
+- **§ 1 Abs. 1 Satz 2 Nr. 8 ZAG** – Definition Kontoinformationsdienst: Online-Dienst zur Bereitstellung konsolidierter Informationen über ein oder mehrere Zahlungskonten; kein Zahlungsvorgang, nur Datenabruf
+- **§ 34 ZAG** – Registrierungspflicht (nicht Erlaubnis); erleichtertes Verfahren; Mindestanforderungen: Berufshaftpflichtversicherung oder gleichwertige Garantie
+- **§ 50 ZAG** – Zugangsrecht des AIS-Providers zu Kontoinformationen beim kontoführenden Zahlungsdienstleister; Nicht-Diskriminierungsgebot
+- **§ 51 ZAG** – Haftungskette: AIS-Provider haftet für Schäden durch unbefugten Datenzugriff oder Datenweitergabe; Nachweis autorisierter Sitzung Voraussetzung
+- **§ 46 ZAG i.V.m. RTS-SCA Art. 10** – SCA auch beim AIS-Datenabruf: erstmaliger Zugang und alle 90 Tage erneute SCA (Art. 10 Abs. 2 RTS-SCA VO 2018/389)
+- **Art. 67 PSD2** (Richtlinie 2015/2366) – Rechte und Pflichten des AIS-Providers: Zugang nur auf explizite Zustimmung des Nutzers, Verbot der Verwendung für andere Zwecke als Informationsbereitstellung, keine Datenanreicherung ohne Einwilligung
+- **RTS-SCA Art. 36** (VO 2018/389) – AIS-spezifische Schnittstellenanforderungen: kontoführender PSP muss AIS denselben Zugang gewähren wie dem Kontoinhaber; Fallback-Mechanismus
+- **DSGVO Art. 6 Abs. 1 lit. a** – Rechtsgrundlage Einwilligung für AIS-Datenzugriff; Zweckbindung, Datensparsamkeit; Schnittstelle zu § 25 DSGVO Datenschutz by Design
 
-Bearbeite diesen Spezialfall aus Sicht einer Bank-Rechtsabteilung. Das Ergebnis muss intern verwendbar sein: als Legal Note, Vorstandsvorlage, BaFin-Fragenpaket, Produktfreigabe, Vertragscheck, Red-Team-Vermerk oder Umsetzungs-Backlog.
+## Prüfschritte
 
-**Wann nutzen:** Ein Dienst liest Zahlungskonten aus oder nutzt Kontoinformationen für Scoring, Haushaltsbuch, Kreditentscheidung oder Dashboard.
+1. **Dienst-Klassifikation** (§ 1 Abs. 1 Satz 2 Nr. 8 ZAG): Nur Kontoinfos oder auch Zahlungsauslösung? Kombi-Dienst erfordert PIS-Erlaubnis (§ 10 ZAG) zusätzlich.
+2. **Registrierung** (§ 34 ZAG): Berufshaftpflichtversicherung beschaffen (EBA-Mindestdeckung: 0,5 Mio. Euro pro Schaden); Registrierungsantrag BaFin.
+3. **Consent-Mechanismus**: Explizite Einwilligung des Nutzers nach Art. 67 Abs. 2 lit. a PSD2; DSGVO-konforme Consent-UI; Scope klar begrenzen.
+4. **SCA-Implementierung** (§ 46 ZAG, RTS-SCA Art. 10): 90-Tage-Erneuerungs-SCA; erstmaliger Zugang mit vollständiger SCA.
+5. **API-Anforderungen** (RTS-SCA Art. 36, § 50 ZAG): Kontoführer muss Zugang ermöglichen; Qualitätsmessung gem. EBA-Leitlinie EBA/GL/2018/07 (jetzt RTS Art. 32).
+6. **Datenschutz-Check** (DSGVO, Bundesdatenschutzgesetz): Zweckbindung (nur Kontoinformation), Speicherbegrenzung, Auskunftsrechte des Nutzers.
+7. **Haftung** (§ 51 ZAG): Schadensersatzpflicht bei unbefugtem Zugriff; Nachweis gültiger Sitzung und Nutzer-Consent als Haftungsbefreiung.
 
-## Schnellmodus
+## Typische Fallkonstellationen
 
-1. **Eilpunkt erkennen:** Fristen, Anzeigewege, Launch-Termine, Register-/Portal-Einreichung, Aufsichtskontakt, Kundenkommunikation und irreversible Vollzugsschritte zuerst markieren.
-2. **Regime sauber trennen:** Geltendes Recht, Verwaltungspraxis, EU-Entwurf/Vorschau und reine Produktidee nicht vermischen. Bei PSD3/PSR oder Roadmap-Themen ausdrücklich als Monitoring oder Gap-Vorschau kennzeichnen.
-3. **Tatbestand vor Meinung:** Erst Geschäftsmodell, Zahlungsfluss, Tokenrecht, Organrolle oder Registerfunktion sauber beschreiben, dann rechtlich einordnen.
-4. **Quellenhygiene:** Gesetze, BaFin, Bundesbank, EBA, EZB und EUR-Lex bevorzugen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier oder amtlicher Quelle.
-5. **Bankrealität:** Nicht nur sagen, ob etwas erlaubt ist. Immer mitliefern: wer entscheidet, welche Unterlagen fehlen, welcher Fachbereich Owner ist und wie die Bank das dokumentiert.
+- PFM-App (Personal Finance Management): § 1 Abs. 1 Satz 2 Nr. 8 ZAG, § 34 Registrierung, DSGVO Consent, 90-Tage-SCA-Erneuerung
+- White-Label AIS für Kreditprüfung: § 50 ZAG Datenzugang, DSGVO Art. 22 Profilierungsverbot prüfen, Zweckbindung dokumentieren
+- Kontoführer verweigert AIS-Zugang: § 50 ZAG Diskriminierungsverbot, RTS-SCA Art. 36, EBA-Eskalationsverfahren
+- AIS-Dienstleister gibt Daten weiter: § 51 ZAG Haftung, DSGVO Art. 83 Abs. 4 Bußgeld bis 10 Mio. Euro
+- Kombi AIS+PIS: Erlaubnis § 10 ZAG (PIS) + Registrierung § 34 ZAG (AIS) kombinieren
 
-## Intake
+## Output
 
-Frage nur nach, wenn ohne Antwort ein falscher nächster Schritt droht. Andernfalls mit Annahmen arbeiten und sie sichtbar markieren.
+Registrierungsantrag-Checkliste § 34 ZAG; Consent-Framework-Template nach PSD2/DSGVO; SCA-Flow-Diagram für 90-Tage-Erneuerung; Haftungsanalyse-Vermerk; Datenschutz-Impact-Assessment Outline.
 
-- **Kerninformationen:** Datenzugriff, Kontoart, Einwilligung, API, Partner, Kundengruppe, Speicherung, Vergütung.
-- **Institut und Rolle:** Bank, Zahlungsinstitut, E-Geld-Institut, Wertpapierinstitut, CRR-Kreditinstitut, FinTech-Tochter, Vermittler, Agent, Registerführer, CASP, Emittent oder Dienstleister.
-- **Produkt oder Vorgang:** Zahlungsdienst, E-Geld, Kredit, Wertpapier, Token, Register, Organwechsel, Auslagerung, Betrugsfall, Trade Finance oder Kooperation.
-- **Aufsicht und Einreichweg:** BaFin, Bundesbank, EZB/SSM, EBA, FIU, Register, MVP, IMAS, Bundesanzeiger, Handelsregister oder interner Ausschuss.
-- **Dokumente:** Produktbeschreibung, Flow-of-Funds, Vertragsentwurf, API-Doku, Token Terms, Organ-CV, Eignungsmatrix, Registerauszug, Kundenkommunikation, Logs oder Vorstandsvorlage.
+## Quellenregel
 
-## Prüfaufbau
-
-### 1. Kurzbild
-
-| Punkt | Klärung |
-| --- | --- |
-| Ergebnisbedarf | Vermerk, Freigabe, BaFin-Anfrage, Vertrag, Vorstandsvorlage oder Prozessstrategie |
-| Rechtsregime | KWG, ZAG, WpHG, WpIG, eWpG, MiCAR, DORA, GwG, BGB, HGB, AktG, SEPA-/EU-Regime oder Entwurf |
-| Risiko | Aufsicht, Bußgeld, Zivilhaftung, Organhaftung, Kundenstreit, AML, Datenschutz, IT oder Reputation |
-| Frist | Anzeige, Launch, Antwort, Rückgabe, Register, Gremium oder Verjährung |
-| Entscheidung | Go, Go mit Auflagen, Stop, BaFin-Vorabklärung oder externe Spezialprüfung |
-
-### 2. Subsumtion und Geschäftsmodell
-
-Arbeite in dieser Reihenfolge:
-
-1. Lebenssachverhalt und Rollen in einfachen Sätzen festhalten.
-2. Geld-, Daten-, Wertpapier- oder Tokenfluss als Tabelle beschreiben.
-3. Tatbestandsmerkmale einzeln prüfen.
-4. Ausnahmen, Privilegierungen, Bestandsschutz, Übergangsregeln oder Entwurfsstand gesondert behandeln.
-5. Gegenargumente und Red-Team-Sicht der Aufsicht formulieren.
-6. Praktische Auflagen für Launch, Fortführung, Korrektur oder Ablehnung schreiben.
-
-### 3. Beleg- und Unterlagenliste
-
-| Frage | Beleg | Fehlt | Owner | Wirkung |
-| --- | --- | --- | --- | --- |
-| Wer erbringt welche Leistung? | Vertrag, Produktbild, Prozess | ... | Legal/Produkt | Regimewahl |
-| Fließen Kundengelder oder Kryptowerte? | Flow-of-Funds, Wallet-/Kontoauszug | ... | Operations/Risk | Erlaubnis/Haftung |
-| Gibt es Aufsichtskontakt? | Schreiben, Ticket, Portalnachweis | ... | Legal/Compliance | Frist/Strategie |
-| Sind Kunden betroffen? | AGB, FAQ, Beschwerde, Marketing | ... | Vertrieb/Legal | Transparenz/Haftung |
-
-### 4. Ergebnis
-
-Liefer AIS-Einordnung, Registrierungsbedarf, Datenschutzschnittstelle, Vertragscheck und Kontrollfragen.
-
-Baue das Ergebnis mit diesen Elementen:
-
-- **Entscheidungssatz:** Ein Satz, der intern zitiert werden kann.
-- **Risikoampel:** Rot/Gelb/Grün mit kurzer Begründung.
-- **Auflagen:** Welche Bedingungen müssen vor Go-Live oder vor Antwort erfüllt sein?
-- **Offene Punkte:** konkrete Rückfragen statt allgemeiner Rechercheaufträge.
-- **Anschluss-Skills:** passende Skills aus `bank-rechtsabteilung` nennen, insbesondere `bafin-kommunikation-und-anhoerung`, `bankaufsichtsrecht-kwg-marisk-triage`, `dora-ict-vertraege-vorfall`, `gwg-aml-kyc-verdachtsmeldung`, `vorstandsvorlage-gutachten` oder `produktfreigabe-new-product-process`.
-
-## Spezialhinweise
-
-- **PSD3/PSR:** Als EU-Gesetzgebungsvorschau behandeln, bis finaler Text und nationale Umsetzung/Anpassung greifbar sind. Keine Scheingeltung behaupten.
-- **eWpG/MiCAR:** Immer zuerst trennen, ob der Token ein Finanzinstrument, elektronisches Wertpapier, Kryptowert, E-Geld-Token, vermögenswertreferenzierter Token oder etwas anderes ist.
-- **ZAG:** Zahlungsfluss und Besitz an Kundengeldern sind zentral. Grafische Flow-of-Funds-Logik in Worte übersetzen.
-- **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
-- **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Steht klar da, was geltendes Recht ist und was Entwurf/Monitoring ist?
-- Sind BaFin-/EBA-/EUR-Lex-Quellen als Live-Check markiert, wenn sie tragen?
-- Gibt es eine konkrete Unterlagenliste?
-- Ist die Bankentscheidung dokumentationsfest?
-- Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+gesetze-im-internet.de (ZAG, BDSG), eur-lex.europa.eu (PSD2 2015/2366, RTS-SCA VO 2018/389), bafin.de (Merkblatt AIS-Registrierung), eba.europa.eu (EBA/GL/2018/07 API-Qualität, Q&A). Live-Check: PSD3-Entwurf COM(2023)366 verschärft Datenzugangsregeln; eba.europa.eu Q&A-Datenbank.

@@ -3,98 +3,45 @@ name: zag-zahlungsausloesedienst-pis
 description: "Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, starke Kundenauthentifizierung, Haftungskette, Interface, technische Dienstleister und Händlerkommunikation."
 ---
 
+# Zahlungsauslösedienst (PIS) nach ZAG und PSD2
 
-# Zahlungsauslösedienst PIS
+## Worum es geht
 
-## Fachkern: Zahlungsauslösedienst PIS
-- **Spezialgegenstand:** Zahlungsauslösedienst PIS; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Dieser Skill prüft Zahlungsauslösedienste (Payment Initiation Services, PIS) nach § 1 Abs. 1 Satz 2 Nr. 7 ZAG und Art. 66 PSD2. Er deckt die Erlaubnisanforderungen, die starke Kundenauthentifizierung (SCA), die Haftungskette zwischen PIS-Provider und kontoführender Bank sowie die technischen Schnittstellenanforderungen nach der RTS-SCA (Delegierte VO 2018/389) ab.
 
+## Kernnormen
 
-## Aufgabe
+- **§ 1 Abs. 1 Satz 2 Nr. 7 ZAG** – Definition Zahlungsauslösedienst: Dienst zur Auslösung eines Zahlungsauftrags auf Veranlassung des Zahlungsdienstnutzers vom Zahlungskonto bei einem anderen Zahlungsdienstleister
+- **§ 10 ZAG** – Erlaubnispflicht; Anfangskapital für PIS nach § 17 ZAG: 50 TEUR (alternativ Berufshaftpflichtversicherung nach § 16 Abs. 3 ZAG)
+- **§ 49 ZAG** – Pflichten und Rechte des kontoführenden Zahlungsdienstleisters gegenüber PIS-Providern: Schnittstellenbereitstellung, Nicht-Diskriminierung, Authentifizierungs-Weiterleitung
+- **§ 55 ZAG** – Anmeldepflichten des PIS-Providers; Registrierung im BaFin-Zahlungsinstituts-Register
+- **§ 46 ZAG** – Starke Kundenauthentifizierung (SCA): Pflicht zur SCA bei elektronischen Zahlungsvorgängen; Ausnahmen nach RTS-SCA Art. 10–18
+- **§ 27 ZAG** – Haftung des PIS-Providers: bei nicht autorisierten Zahlungen Haftung gegenüber kontoführender Bank; Regress bei Verschulden des PIS-Providers
+- **Art. 66 PSD2** (Richtlinie 2015/2366) – Rechte des Zahlungsauslösedienstleisters: Zugang zum Zahlungskonto, Informationspflichten, Authentifizierungsweiterleitung, Verbot Speicherung von Zahlungsdaten
+- **Delegierte VO 2018/389 (RTS-SCA)** – technische Standards für SCA und sichere Kommunikation: Art. 4 SCA-Elemente, Art. 10–18 SCA-Ausnahmen, Art. 19–32 sichere Kommunikation (API/Fallback-Interface), Art. 33–36 dedizierte Schnittstelle
 
-Bearbeite diesen Spezialfall aus Sicht einer Bank-Rechtsabteilung. Das Ergebnis muss intern verwendbar sein: als Legal Note, Vorstandsvorlage, BaFin-Fragenpaket, Produktfreigabe, Vertragscheck, Red-Team-Vermerk oder Umsetzungs-Backlog.
+## Prüfschritte
 
-**Wann nutzen:** Ein Produkt löst auf Wunsch des Kunden Zahlungen von fremden Zahlungskonten aus oder bindet PIS-Partner ein.
+1. **Dienst-Klassifikation** (§ 1 Abs. 1 Satz 2 Nr. 7 ZAG): Löst der Dienst tatsächlich einen Zahlungsauftrag aus (nicht nur Weiterleitung), vom Konto bei einem Dritten?
+2. **Erlaubnis** (§ 10 ZAG): Anfangskapital 50 TEUR oder Berufshaftpflichtversicherung (Deckungssumme nach EBA-Orientierung 0,5 Mio. Euro pro Schaden, 1 Mio. Euro pro Jahr).
+3. **SCA-Pflicht** (§ 46 ZAG, RTS-SCA Art. 4): Prüfe ob Ausnahme greift (geringer Betrag Art. 16, vertrauenswürdige Empfänger Art. 13, Unternehmenstransaktionen Art. 17).
+4. **Schnittstellenrecht** (§ 49 ZAG, RTS-SCA Art. 30): Kontoführer muss API bereitstellen; Fallback nur wenn dedizierte Schnittstelle nicht verfügbar.
+5. **Haftungskette** (§ 27 ZAG): PIS-Provider haftet unmittelbar bei Verschulden; Beweislast: Kontoführer muss Autorisierung nachweisen (§ 675w BGB).
+6. **Informationspflichten** (Art. 66 Abs. 3 PSD2): Transaktionsreferenz, Betrag, Empfänger; keine Speicherung von Authentifizierungsdaten.
+7. **Registrierung** (§ 55 ZAG): Eintragung im BaFin-Zahlungsinstituts-Register; Passporting in andere EWR-Staaten via § 38 ZAG-Notifizierung.
 
-## Schnellmodus
+## Typische Fallkonstellationen
 
-1. **Eilpunkt erkennen:** Fristen, Anzeigewege, Launch-Termine, Register-/Portal-Einreichung, Aufsichtskontakt, Kundenkommunikation und irreversible Vollzugsschritte zuerst markieren.
-2. **Regime sauber trennen:** Geltendes Recht, Verwaltungspraxis, EU-Entwurf/Vorschau und reine Produktidee nicht vermischen. Bei PSD3/PSR oder Roadmap-Themen ausdrücklich als Monitoring oder Gap-Vorschau kennzeichnen.
-3. **Tatbestand vor Meinung:** Erst Geschäftsmodell, Zahlungsfluss, Tokenrecht, Organrolle oder Registerfunktion sauber beschreiben, dann rechtlich einordnen.
-4. **Quellenhygiene:** Gesetze, BaFin, Bundesbank, EBA, EZB und EUR-Lex bevorzugen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier oder amtlicher Quelle.
-5. **Bankrealität:** Nicht nur sagen, ob etwas erlaubt ist. Immer mitliefern: wer entscheidet, welche Unterlagen fehlen, welcher Fachbereich Owner ist und wie die Bank das dokumentiert.
+- E-Commerce-Händler integriert PIS-API: § 1 Abs. 1 Satz 2 Nr. 7 ZAG Erlaubnispflicht des PIS-Providers; Händler selbst erlaubnisfrei
+- Bank verweigert API-Zugang: § 49 ZAG Diskriminierungsverbot; EBA-Beschwerdeverfahren; RTS-SCA Art. 33 Qualitätsanforderungen
+- SCA-Ausnahme für Dauerauftrag: RTS-SCA Art. 14 (wiederkehrende Transaktionen gleicher Betrag/Empfänger); Erstauslösung mit SCA
+- Unbefugter Zahlungsvorgang über PIS: § 27 ZAG Haftung PIS; § 675u BGB Erstattungsanspruch Zahler gegen Kontoführer; Regress
+- Cross-Border-Betrieb (Deutschland + Frankreich): § 38 ZAG Notifizierung; RTS-SCA einheitlich anwendbar im EWR
 
-## Intake
+## Output
 
-Frage nur nach, wenn ohne Antwort ein falscher nächster Schritt droht. Andernfalls mit Annahmen arbeiten und sie sichtbar markieren.
+Erlaubnisantrags-Checkliste PIS (50 TEUR oder Versicherung); SCA-Ausnahmen-Matrix mit RTS-SCA-Artikeln; Haftungs-Analyse-Vermerk; API-Anforderungs-Checkliste nach RTS-SCA Art. 30–33; Passporting-Checkliste.
 
-- **Kerninformationen:** Payment Flow, Händler, Konto, Kundenauthentifizierung, API, Ausfallrisiko, Verträge.
-- **Institut und Rolle:** Bank, Zahlungsinstitut, E-Geld-Institut, Wertpapierinstitut, CRR-Kreditinstitut, FinTech-Tochter, Vermittler, Agent, Registerführer, CASP, Emittent oder Dienstleister.
-- **Produkt oder Vorgang:** Zahlungsdienst, E-Geld, Kredit, Wertpapier, Token, Register, Organwechsel, Auslagerung, Betrugsfall, Trade Finance oder Kooperation.
-- **Aufsicht und Einreichweg:** BaFin, Bundesbank, EZB/SSM, EBA, FIU, Register, MVP, IMAS, Bundesanzeiger, Handelsregister oder interner Ausschuss.
-- **Dokumente:** Produktbeschreibung, Flow-of-Funds, Vertragsentwurf, API-Doku, Token Terms, Organ-CV, Eignungsmatrix, Registerauszug, Kundenkommunikation, Logs oder Vorstandsvorlage.
+## Quellenregel
 
-## Prüfaufbau
-
-### 1. Kurzbild
-
-| Punkt | Klärung |
-| --- | --- |
-| Ergebnisbedarf | Vermerk, Freigabe, BaFin-Anfrage, Vertrag, Vorstandsvorlage oder Prozessstrategie |
-| Rechtsregime | KWG, ZAG, WpHG, WpIG, eWpG, MiCAR, DORA, GwG, BGB, HGB, AktG, SEPA-/EU-Regime oder Entwurf |
-| Risiko | Aufsicht, Bußgeld, Zivilhaftung, Organhaftung, Kundenstreit, AML, Datenschutz, IT oder Reputation |
-| Frist | Anzeige, Launch, Antwort, Rückgabe, Register, Gremium oder Verjährung |
-| Entscheidung | Go, Go mit Auflagen, Stop, BaFin-Vorabklärung oder externe Spezialprüfung |
-
-### 2. Subsumtion und Geschäftsmodell
-
-Arbeite in dieser Reihenfolge:
-
-1. Lebenssachverhalt und Rollen in einfachen Sätzen festhalten.
-2. Geld-, Daten-, Wertpapier- oder Tokenfluss als Tabelle beschreiben.
-3. Tatbestandsmerkmale einzeln prüfen.
-4. Ausnahmen, Privilegierungen, Bestandsschutz, Übergangsregeln oder Entwurfsstand gesondert behandeln.
-5. Gegenargumente und Red-Team-Sicht der Aufsicht formulieren.
-6. Praktische Auflagen für Launch, Fortführung, Korrektur oder Ablehnung schreiben.
-
-### 3. Beleg- und Unterlagenliste
-
-| Frage | Beleg | Fehlt | Owner | Wirkung |
-| --- | --- | --- | --- | --- |
-| Wer erbringt welche Leistung? | Vertrag, Produktbild, Prozess | ... | Legal/Produkt | Regimewahl |
-| Fließen Kundengelder oder Kryptowerte? | Flow-of-Funds, Wallet-/Kontoauszug | ... | Operations/Risk | Erlaubnis/Haftung |
-| Gibt es Aufsichtskontakt? | Schreiben, Ticket, Portalnachweis | ... | Legal/Compliance | Frist/Strategie |
-| Sind Kunden betroffen? | AGB, FAQ, Beschwerde, Marketing | ... | Vertrieb/Legal | Transparenz/Haftung |
-
-### 4. Ergebnis
-
-Erzeuge PIS-Prüfung, Erlaubnispfad, Haftungsmatrix, Vertragslücken und Go-Live-Gate.
-
-Baue das Ergebnis mit diesen Elementen:
-
-- **Entscheidungssatz:** Ein Satz, der intern zitiert werden kann.
-- **Risikoampel:** Rot/Gelb/Grün mit kurzer Begründung.
-- **Auflagen:** Welche Bedingungen müssen vor Go-Live oder vor Antwort erfüllt sein?
-- **Offene Punkte:** konkrete Rückfragen statt allgemeiner Rechercheaufträge.
-- **Anschluss-Skills:** passende Skills aus `bank-rechtsabteilung` nennen, insbesondere `bafin-kommunikation-und-anhoerung`, `bankaufsichtsrecht-kwg-marisk-triage`, `dora-ict-vertraege-vorfall`, `gwg-aml-kyc-verdachtsmeldung`, `vorstandsvorlage-gutachten` oder `produktfreigabe-new-product-process`.
-
-## Spezialhinweise
-
-- **PSD3/PSR:** Als EU-Gesetzgebungsvorschau behandeln, bis finaler Text und nationale Umsetzung/Anpassung greifbar sind. Keine Scheingeltung behaupten.
-- **eWpG/MiCAR:** Immer zuerst trennen, ob der Token ein Finanzinstrument, elektronisches Wertpapier, Kryptowert, E-Geld-Token, vermögenswertreferenzierter Token oder etwas anderes ist.
-- **ZAG:** Zahlungsfluss und Besitz an Kundengeldern sind zentral. Grafische Flow-of-Funds-Logik in Worte übersetzen.
-- **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
-- **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Steht klar da, was geltendes Recht ist und was Entwurf/Monitoring ist?
-- Sind BaFin-/EBA-/EUR-Lex-Quellen als Live-Check markiert, wenn sie tragen?
-- Gibt es eine konkrete Unterlagenliste?
-- Ist die Bankentscheidung dokumentationsfest?
-- Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+gesetze-im-internet.de (ZAG), eur-lex.europa.eu (PSD2 Richtlinie 2015/2366, RTS-SCA VO 2018/389), bafin.de (Merkblatt PIS, FAQ Open Banking), eba.europa.eu (EBA Opinion on SCA-Ausnahmen, Q&A-Datenbank). Live-Check: RTS-SCA läuft unter PSD3/PSR-Reform (Entwurf COM(2023)366); eba.europa.eu für aktuelle Q&A.
