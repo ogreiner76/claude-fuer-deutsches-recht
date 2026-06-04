@@ -17,6 +17,7 @@ Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhal
 - §§ 812 ff. BGB: Bereicherungsrechtliche Ansprüche
 - §§ 823 ff. BGB: Deliktsrechtliche Ansprüche
 - Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
+- Bei Unsicherheit über Normstand oder Vertragstyp: `amtlicher-bgb-bt-normcheck`
 
 ## Intake
 
@@ -36,6 +37,7 @@ Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhal
 6. Gläubiger und Schuldner: Wer kann gegen wen aus welchem Grund vorgehen?
 7. Fristen und Verjährung für jeden Anspruch separat prüfen
 8. Priorität: Welcher Anspruch ist am aussichtsreichsten?
+9. Bei Prozessziel: ZPO-Pfad für Klage, Mahnbescheid, Beweisverfahren oder Eilrechtsschutz ergänzen.
 
 ## Fallstricke
 

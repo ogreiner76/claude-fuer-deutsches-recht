@@ -25,11 +25,7 @@ description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schr
 - § 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
 
 ## Rechtsprechung
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 
@@ -41,6 +37,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - § 46h ArbGG — arbeitsgerichtliche Formfiktion
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Referenzanker: `references/amtlicher-formkern-bgb-zpo.md`
+- Spezialskill: `amtlicher-formkern-bgb-zpo-check`
 
 ## Workflow
 
@@ -186,7 +184,6 @@ Schritt 4: Risikobewertung
 | Rechtsgeschäft | Zwingend | Empfohlen | Elektronisch möglich? |
 |---------------|----------|-----------|----------------------|
 | Grundstückskauf | Notar | Notar | Nein |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Gewerbemietvertrag >1 Jahr | Schriftform | Papier + Urkundeneinheit | qES möglich |
 | Maklervertrag Wohnraum | Textform | E-Mail | Ja |
 | Bürgschaft | Schriftform | Papier + Unterschrift | qES nur nach Spezialprüfung |

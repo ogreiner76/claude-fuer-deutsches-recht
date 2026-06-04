@@ -19,6 +19,7 @@ description: "Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und proz
 4. Rechtsfolge nach § 125 BGB: Nichtigkeit bei gesetzlicher Form.
 5. Heilungsmöglichkeit prüfen: § 311b Abs. 1 S. 2 BGB (Grundstück), § 518 Abs. 2 BGB (Schenkung).
 6. Prozessuale Dimension: Beweisbarkeit des Vertrags, Urkundenform.
+7. Wenn elektronische Einreichung, beA oder gerichtliche Zustellung eine Rolle spielt: `amtlicher-bgb-zpo-normcheck` oder `schriftform-und-textform-bgb:amtlicher-formkern-bgb-zpo-check` zuschalten.
 
 ## Rechtsrahmen
 
@@ -28,6 +29,8 @@ description: "Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und proz
 - § 126b BGB: Textform — lesbare Erklärung auf dauerhaftem Datenträger.
 - § 128 BGB: Notarielle Beurkundung für bestimmte Vertragstypen.
 - § 311b Abs. 1 BGB: Heilung formnichtiger Grundstücksverträge durch Auflassung und Eintragung.
+- §§ 130a, 130d, 130e ZPO: elektronisches Dokument, Nutzungspflicht und Formfiktion bei vorbereitenden Schriftsätzen.
+- § 371a ZPO: Beweiskraft elektronischer Dokumente.
 
 ## Prüfraster
 
@@ -60,6 +63,7 @@ description: "Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und proz
 - [§ 311b BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__311b.html)
 - [dejure.org § 125 BGB](https://dejure.org/gesetze/BGB/125.html)
 - [dejure.org § 126 BGB](https://dejure.org/gesetze/BGB/126.html)
+- [Amtlicher BGB/ZPO-Normkern](../../references/amtlicher-bgb-zpo-normkern.md)
 
 ## Vertiefung
 

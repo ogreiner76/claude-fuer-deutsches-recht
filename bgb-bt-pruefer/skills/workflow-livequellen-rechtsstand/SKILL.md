@@ -11,6 +11,8 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 ## Normanker
 
 - Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
+- Plugin-Referenz: `references/amtlicher-bgb-bt-normkern.md`
+- Neuer Normcheck-Skill: `amtlicher-bgb-bt-normcheck`
 - BGH-Rechtsprechungsdatenbank: https://www.bundesgerichtshof.de/
 - EUR-Lex für EU-Richtlinien: https://eur-lex.europa.eu/
 - dejure.org: https://dejure.org/gesetze/BGB
@@ -27,7 +29,7 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 ## Prüfraster
 
 1. Normtext-Verifikation: https://www.gesetze-im-internet.de/bgb/ als amtliche Primärquelle
-2. Reformstand prüfen: Letzte Änderungen am BGB (Datum, Gesetz, Konsequenzen)
+2. Reformstand prüfen: XML-/HTML-Stand, letzte Änderungen am BGB, dokumentarisch noch nicht abgeschlossene Hinweise und Konsequenzen für die konkrete Norm
 3. BGH-Rechtsprechung: Aktenzeichen, Datum, Entscheidungsform, Leitsatz über offizielle Datenbank prüfen
 4. EU-Richtlinien-Umsetzung: DSM-RL 2019/770 und 2019/771 in §§ 327 ff. und 475b ff. BGB
 5. Verbraucherrecht-Reformen: aktuelle Fassungen der §§ 474 ff. und 312 ff. BGB prüfen
@@ -66,6 +68,7 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 - workflow-dokumentenintake
 - workflow-anspruchslandkarte
 - bt-fristen-erklaerungen-zugang
+- amtlicher-bgb-bt-normcheck
 
 
 ## Quellen

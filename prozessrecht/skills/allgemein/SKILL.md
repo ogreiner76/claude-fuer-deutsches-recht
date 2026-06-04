@@ -84,6 +84,7 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Bei tragenden ZPO-Fragen zuerst `amtlicher-zpo-verfahrenscheck` zuschalten, damit Zuständigkeit, Schriftsatzform, Zustellung, Frist, Beweis, Mahnverfahren, Vollstreckung und Eilrechtsschutz gegen die aktuelle ZPO-Fassung laufen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
 
 ### 4. Antwortformat für den Einstieg

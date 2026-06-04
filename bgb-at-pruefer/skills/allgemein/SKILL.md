@@ -23,7 +23,7 @@ Fallfrage und Arbeitsmodus klären, Themenkarte bauen, Spezial-Skills vorschlage
 
 ## Normanker
 
-BGB AT insgesamt
+BGB AT insgesamt. Bei tragenden Normen `amtlicher-bgb-zpo-normcheck` zuschalten und den aktuellen Gesetzestext prüfen, insbesondere bei §§ 104-113, 116-124, 125-130, 133-157, 164-185, 186-218 BGB sowie bei ZPO-Schnittstellen zu §§ 130a, 130d, 130e, 166-190, 222, 371a ZPO.
 
 ## Intake
 
@@ -65,6 +65,7 @@ BGB AT insgesamt
 - stellvertretung-routing-paragraphen-164-181
 - elektronische-form-bea-qes-formfiktion
 - verjaehrung-grundschema-paragraphen-194-218
+- amtlicher-bgb-zpo-normcheck
 
 
 ## Qualitäts-Hardening

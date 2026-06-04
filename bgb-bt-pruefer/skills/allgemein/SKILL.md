@@ -18,6 +18,7 @@ Führe den Nutzer in maximal fünf Fragen vom unsortierten Sachverhalt zum passe
 ## Rechts- und Quellenanker
 
 BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+Bei tragenden Normfragen `amtlicher-bgb-bt-normcheck` zuschalten; er nutzt den neuen BGB-BT-Normkern und routet in ZPO-Durchsetzung, wenn ein Klage-, Mahn- oder Eilprodukt entstehen soll.
 
 ## Stoppschilder
 
