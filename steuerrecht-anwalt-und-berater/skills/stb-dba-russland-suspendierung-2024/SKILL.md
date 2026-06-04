@@ -5,6 +5,15 @@ description: "DBA Deutschland Russland Suspendierung wesentlicher Verguenstigung
 
 # DBA Deutschland-Russland: Suspendierung wesentlicher Verguenstigungen (Stand BMF 15.01.2024)
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Russland: Suspendierung wesentlicher Verguenstigungen (Stand BMF 15.01.2024)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Russland hat mit Verbalnote vom 08.08.2023 die Anwendung der Art. 5 bis 22 und 24 sowie der Nummern 2 bis 7 des Protokolls zum DBA Deutschland-Russland vom 29.05.1996 von russischer Seite suspendiert. Deutschland hat als Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056) die Russische Foederation durch die Zweite Verordnung zur Aenderung der Steueroasen-Abwehrverordnung (BGBl. 2023 I Nr. 375) in die Liste nicht kooperativer Steuerhoheitsgebiete der StAbwV (BGBl. 2021 I S. 5236) aufgenommen. Der konsolidierte BMF-Stand der DBA zum 01.01.2024 (BMF-Schreiben vom 15.01.2024, GZ IV B 2 - S 1301/21/10048 :003) dokumentiert die Suspendierung. Das DBA besteht formell weiter ist aber in seinen praxisrelevanten Teilen ausser Vollzug. Die Folgen sind tiefgreifend fuer laufende Mandate mit Russlandbezug.

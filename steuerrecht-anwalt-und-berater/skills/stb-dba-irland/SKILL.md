@@ -5,6 +5,15 @@ description: "DBA Deutschland Irland 2011. Anwendungsfall IT- und Pharma-Holding
 
 # DBA Deutschland-Irland (2011)
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Irland (2011)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Pruefung von Substanz nach § 50d Abs. 3 EStG.

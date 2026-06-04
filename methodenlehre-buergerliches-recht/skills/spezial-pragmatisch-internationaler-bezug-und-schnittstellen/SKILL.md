@@ -5,6 +5,15 @@ description: Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von 
 
 # Internationaler Bezug und Schnittstellen im bürgerlichen Recht
 
+## V90 Fachkern — Juristische Methodenlehre
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Internationaler Bezug und Schnittstellen im bürgerlichen Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
+- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
+- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
+- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Sachverhalte mit internationalem Bezug stellen Anwälte vor methodische Zusatzanforderungen: Welches Recht gilt? Welcher Richter ist zuständig? Können Urteile vollstreckt werden? Dieses Skill gibt eine pragmatische Anleitung, wie internationale Schnittstellen effizient erkannt und die relevanten Rechtsfragen priorisiert werden, ohne sich in kollisionsrechtlichen Details zu verlieren, wenn der Fall es nicht verlangt.
 
 ## Mandantenfall

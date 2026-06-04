@@ -5,6 +5,15 @@ description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende A
 
 # Arbeitszeugnisse für leitende Positionen
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitszeugnisse für leitende Positionen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Zeugnisse für Führungskräfte und leitende Angestellte unterliegen erhöhten inhaltlichen Erwartungen. Zu den allgemeinen Bausteinen (Leistung, Verhalten, Schlussformel) treten positionsspezifische Erwartungsbausteine: Mitarbeiterführung und -entwicklung, strategische Verantwortung, wirtschaftliche Verantwortung (Budget, P&L), Repräsentation nach außen und Unternehmensloyalität auf Führungsebene. Das Fehlen eines solchen Bausteins ist vor allem dann ein starkes rotes Signal, wenn die Führungsverantwortung unstreitig war und im Aufgabenblock selbst genannt wird.
 
 Die Mitarbeiterführungsaussage ist das wichtigste Merkmal des Führungskräfte-Zeugnisses. Formeln wie "führte ihre Mitarbeiter stets motivierend und mit großem Erfolg" (Grün) bis zu "pflegte einen kooperativen Führungsstil" (Orange) bis zum Fehlen jeglicher Führungsaussage (Rot) decken die Bandbreite ab. Besonders abwertend ist das Fehlen einer Aussage zur Führungsleistung kombiniert mit einer allgemeinen Kollegen-Verhaltensaussage — es suggeriert, dass die Führungsaufgabe gar nicht ausgeübt wurde.

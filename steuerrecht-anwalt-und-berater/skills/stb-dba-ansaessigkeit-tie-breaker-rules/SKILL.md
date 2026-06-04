@@ -5,6 +5,15 @@ description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Rege
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschaeftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.

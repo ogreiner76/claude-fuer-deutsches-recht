@@ -5,6 +5,15 @@ description: Dieses Skill definiert und strukturiert das juristische Abschlusspr
 
 # Bürgerliches Abschlussprodukt und Übergabe
 
+## V90 Fachkern — Juristische Methodenlehre
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bürgerliches Abschlussprodukt und Übergabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
+- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
+- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
+- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Das Ende eines Mandats ist methodisch genauso wichtig wie sein Beginn. Ein vollständiges Abschlussprodukt umfasst nicht nur das zentrale Rechtsdokument, sondern auch eine strukturierte Übergabe mit Risikohinweisen, offenen Folgeschritten und der Sicherung aller relevanten Unterlagen. Dieses Skill stellt sicher, dass kein Mandant ohne vollständige Aufklärung entlassen wird.
 
 ## Mandantenfall

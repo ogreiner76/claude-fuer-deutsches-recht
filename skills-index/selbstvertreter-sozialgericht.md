@@ -1,6 +1,6 @@
 # selbstvertreter-sozialgericht
 
-**130 Skills** · Stand `v80.0.0`
+**130 Skills** · Stand `v90.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-sozialgericht/README.md)

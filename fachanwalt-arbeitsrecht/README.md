@@ -54,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -112,6 +112,7 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `spezial-urlaub-livequellen-und-rechtsprechungscheck` | Urlaubsrecht: BUrlG §§ 1–13, Übertragung § 7 BUrlG, Verfall ohne Hinweis (EuGH-Linie), Urlaubsabgeltung § 7 Abs. 4, BAG 9 AZR 104/24 kein Urlaubsverzicht durch Prozessvergleich, Mindesturlaub 24 Werktage, Urlaubsentgelt-Berechnung. |
 | `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und indiv... |
 | `spezial-verifizierter-mandantenentscheidung` | Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidun... |
+| `v90-entgeltgleichheit-paarvergleich-agg-entgtranspg` | Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüfworkflow für Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um. |
 | `vergleich-arbeitsgericht-abrechnung` | Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nä... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills-Router für fachanwalt-arbeitsrecht: wählt nach Thema, Phase und Output-Bedarf den passenden Spezial-Skill aus dem Plugin aus und erklärt in einem Satz, warum der Wechsel die Arbeit beschleunigt. |

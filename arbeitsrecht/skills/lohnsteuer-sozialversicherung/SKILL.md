@@ -5,6 +5,15 @@ description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbst�
 
 # Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Zweck
 
 Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus sowie damit zusammenhängender lohnsteuerlicher Fragen. Er ist einschlägig, wenn die Abgrenzung zwischen abhängiger Beschäftigung (§ 7 Abs. 1 SGB IV) und selbständiger Tätigkeit rechtlich zu klären ist, ein Statusfeststellungsverfahren nach § 7a SGB IV eingeleitet werden soll oder bereits von der Deutschen Rentenversicherung Bund (DRV) durchgeführt wird, ein Verdacht auf Scheinselbständigkeit besteht (mit Nachzahlungsrisiken nach § 28e SGB IV, § 28p SGB IV) oder strafrechtliche Risiken nach § 266a StGB zu bewerten sind. Der Skill berücksichtigt die BSG-Rechtsprechung zu den Abgrenzungskriterien sowie die steuerrechtliche Einordnung (Lohnsteuer vs. Einkommensteuer / Umsatzsteuer).

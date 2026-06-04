@@ -5,6 +5,15 @@ description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für 
 
 # Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Zweck
 
 Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pillar Two / GloBE), die in Deutschland durch das **Mindestbesteuerungsgesetz (MinBestG)** seit 1.1.2024 implementiert ist. Anwendungsbereich: multinationale und große inländische Konzerne mit konsolidiertem Konzernumsatz **≥ 750 Mio. EUR** in mindestens zwei der letzten vier Jahre. Ziel: weltweiter effektiver Mindeststeuersatz von **15 %** auf Konzernebene pro Land.

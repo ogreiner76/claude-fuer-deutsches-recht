@@ -1,6 +1,6 @@
 # fachanwalt-bau-architektenrecht
 
-**94 Skills** · Stand `v80.0.0`
+**94 Skills** · Stand `v90.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-bau-architektenrecht/README.md)

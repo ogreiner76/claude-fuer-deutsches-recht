@@ -131,7 +131,7 @@ Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrec
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -146,6 +146,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `begruendung-anhoerung-und-adressatenfaehigkeit` | Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung. |
 | `bverfg-grenzen-richterlicher-rechtsfortbildung` | Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die... |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-p... |
+| `dworkin-prinzipien-integritaet-zivilrecht` | Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente. |
 | `empirie-im-zivilrecht-quellenkritik` | Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statis... |
 | `eu-auslegung-autonom-mehrsprachig` | Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwisc... |
 | `folgenorientierte-auslegung-empirie` | Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen... |
@@ -159,6 +160,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `historischer-normzweck-erster-schritt` | Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeit... |
 | `institutionelle-folgen-und-regelbindung` | Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann... |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: rati... |
+| `kelsen-normstufen-kompetenz-bgb-methode` | Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung. |
 | `kodifikationsalterung-und-lueckendisziplin` | Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill z... |
 | `konservative-methodenkritik-gesetzesbindung` | Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und... |
 | `kontrolle-abwaegungsentscheidungen` | Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wi... |
@@ -173,6 +175,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Si... |
 | `methodenehrlichkeit-ideologiekritik-check` | Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität... |
 | `methodenfragen-als-verfassungsfragen` | Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz gebote... |
+| `methodenkritik-larenz-canaris-zivilrecht` | Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene. |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch... |
 | `methodenstreit-red-team-gutachten` | Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerich... |
 | `methodenwahl-ergebnisoffenheit-audit` | Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturier... |

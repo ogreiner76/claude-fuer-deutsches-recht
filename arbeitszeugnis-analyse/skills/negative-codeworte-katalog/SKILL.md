@@ -5,6 +5,15 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 # Negative Codeworte und ihre kodierte Bedeutung
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Negative Codeworte und ihre kodierte Bedeutung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Neben der Notenskala kennt die Zeugnissprache eine zweite Schicht: thematische Codeworte, die scheinbar positive Aussagen treffen, aber konkrete Negativinformationen tragen. Sie sind das eigentliche Geheimcode-System, das die Notenskala umgeht und gezielt fuer Eingeweihte sichtbar wird. Wer als Personalverantwortlicher solche Formulierungen sieht, weiss sofort, was gemeint ist; ein juristischer Laie liest sie als Lob.
 
 Dieser Katalog ist alphabetisch nach thematischen Clustern geordnet. Die genannten Formulierungen sind die haeufigsten Auspraegungen; das System ist lebendig und entwickelt regelmaessig neue Varianten. Wer den Mechanismus verstanden hat, erkennt auch neue Codeworte am Muster: positiv klingende Aussage, die in einem normalen Zeugnis nichts verloren haette, weil sie eine Selbstverstaendlichkeit explizit hervorhebt.

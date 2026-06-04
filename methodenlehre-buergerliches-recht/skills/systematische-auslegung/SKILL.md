@@ -5,6 +5,15 @@ description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm
 
 # Systematische Auslegung
 
+## V90 Fachkern — Juristische Methodenlehre
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systematische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
+- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
+- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
+- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Worum geht es?
 
 Die systematische Auslegung fragt: Wo steht die Norm im Gesetz, und wie verhaelt sie sich zu den Nachbarnormen? Sie nutzt die Architektur des Gesetzbuchs als Bedeutungsquelle. Bei Savigny umfasste sie das "logische" und das "systematische" Element zugleich; heute werden beide unter "Systematik" gefuehrt.

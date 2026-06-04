@@ -48,7 +48,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -145,6 +145,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `umfassende-sperrminoritaet` | Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF. |
 | `unternehmerisches-risiko` | Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt. |
 | `urlaub-krankheit-fortzahlung` | Prüft Urlaubs-, Krankheits-, Ausfall- und Vertretungsregeln als Statusindizien. |
+| `v90-statusfeststellung-geschaeftsfuehrer-lehrer-freelancer` | Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern. |
 | `verguetung-nach-zeit-oder-erfolg` | Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance. |
 | `vermittler-dreiecksverhaeltnis` | Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht. |
 | `vertragswirklichkeit-gelebte-praxis` | Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung. |

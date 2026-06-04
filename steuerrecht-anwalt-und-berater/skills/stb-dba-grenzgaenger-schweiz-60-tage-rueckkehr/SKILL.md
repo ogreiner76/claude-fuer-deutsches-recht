@@ -5,6 +5,15 @@ description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichke
 
 # Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm fuer einen sehr grossen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemaess Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.

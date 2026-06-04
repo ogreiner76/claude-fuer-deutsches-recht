@@ -210,7 +210,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 90 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -295,6 +295,7 @@ Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschrei
 | `untersuchung-eroeffnen` | Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertra... |
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten En... |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden... |
+| `v90-kuendigung-zugang-beweiswerkstatt` | Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach § 623 BGB und § 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix. |
 | `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment` | Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |

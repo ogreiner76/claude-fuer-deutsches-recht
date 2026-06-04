@@ -5,6 +5,15 @@ description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des 
 
 # Aktueller Mindestlohn 2026 — Anpassung und Wirkung
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aktueller Mindestlohn 2026 — Anpassung und Wirkung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung der Mindestlohnkommission, durch Verordnung der Bundesregierung oder durch Gesetz. Stand 01.01.2024: 12,41 EUR. Stand 01.01.2025: 12,82 EUR (Vierte Verordnung zur Anpassung der Hoehe des Mindestlohns, MiLoV4). **Stand 01.01.2026: 13,90 EUR**, **Stand 01.01.2027: 14,60 EUR** (Fuenfte Verordnung zur Anpassung der Hoehe des Mindestlohns — MiLoV5 — vom 05.11.2025, BGBl. 2025 I Nr. 268, ausgegeben 07.11.2025; Berichtigung BGBl. 2025 I Nr. 312). Die Empfehlung der Mindestlohnkommission stammt vom 27.06.2025; das Kabinett hat sie Ende Oktober 2025 angenommen. Der Mindestlohn betrifft direkt Mini-/Midi-Job-Grenzen, viele Arbeitsvertraege und MiLoG-Aufzeichnungspflichten.

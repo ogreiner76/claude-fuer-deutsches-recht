@@ -5,6 +5,15 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Dieses anonymisierte Schulungszeugnis demonstriert ein Muster, das in der Praxis besonders haeufig vorkommt und besonders haeufig uebersehen wird: ein Zeugnis, das in jedem Themenbereich mindestens einen Satz auf Note-1-Niveau enthaelt und damit auf den ersten Blick exzellent wirkt — bei genauer Lektuere aber unmittelbar daneben Saetze auf Note-3-Niveau platziert. Wer nur die Highlights liest, sieht eine Eins; wer die Drift erkennt, sieht eine hochgezogene Zwei bis solide Drei.
 
 Das Beispiel eignet sich zur Schulung von Mitarbeitern, Personalverantwortlichen und Mandanten. Alle Namen, Daten und Branchenbezuege sind frei erfunden. Die Berufsbezeichnung wurde absichtlich passend gewaehlt, um die Inkonsistenz von Stellenbeschreibungen nicht zusaetzlich zu belasten.

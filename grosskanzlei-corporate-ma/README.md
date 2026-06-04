@@ -138,7 +138,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 170 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 171 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -312,5 +312,6 @@ Automatisch generierte Komplett-Liste aller 170 Skills in diesem Plugin. Beschre
 | `rechtsabteilung-locked-box-leakage-aus-konzerncashpool` | Rechtsabteilungs-Spezialskill für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Hand... |
 | `rechtsabteilung-mac-klausel-bei-signing-closing-bruch` | Rechtsabteilungs-Spezialskill für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
 | `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall` | Rechtsabteilungs-Spezialskill für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schnel... |
+| `v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

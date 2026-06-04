@@ -5,6 +5,15 @@ description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anw
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auch die StB-Kanzlei: Textgenerierung, Recherche, Belegklassifizierung, Pruef-Assistenten. Berufsrechtliche Pflichten: Berufsverschwiegenheit nach § 57 Abs. 1 StBerG, strafrechtlich abgesichert durch § 203 Abs. 1 Nr. 3 StGB, ergaenzt durch die DSGVO. § 203 Abs. 3 S. 2 StGB erlaubt die Einbeziehung "mitwirkender Personen" (umfasst auch externe Dienstleister wie KI-Anbieter) nur unter strikten Voraussetzungen — insbesondere schriftliche Verpflichtung zur Verschwiegenheit. Zusaetzlich gilt seit 01.08.2024 die EU-KI-Verordnung (VO 2024/1689) mit gestaffelter Anwendung; allgemeine Pflichten und Verbote ab 02.02.2025, Vorschriften fuer General Purpose AI ab 02.08.2025, Vollanwendung fuer Hochrisiko-KI im Wesentlichen ab 02.08.2026.

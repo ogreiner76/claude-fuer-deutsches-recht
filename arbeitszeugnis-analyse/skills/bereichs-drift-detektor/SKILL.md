@@ -5,6 +5,15 @@ description: "Erkennt das Schaufenster-Pattern in Arbeitszeugnissen: einzelne Sp
 
 # Bereichs-Drift-Detektor (Schaufenster-Pattern)
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bereichs-Drift-Detektor (Schaufenster-Pattern)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Ein Zeugnis kann handwerklich gut aussehen und trotzdem in der Gesamtschau eine schlechtere Note tragen als die Spitzensätze suggerieren. Das geschieht, wenn der Aussteller jedem Themenbereich einen starken Eröffnungssatz (Note 1) voranstellt und unmittelbar darauf einen abschwächenden Folgesatz (Note 3) zum selben Thema platziert. Der unbedarfte Leser bleibt an den ersten Sätzen hängen und übersieht die Korrektur. Eingeweihte lesen die Drift und schließen auf eine systematische Abwertung.
 
 Der Skill bildet acht Themenbereiche ab, in denen sich Drift typischerweise verbirgt: Fachkenntnisse, Weiterbildung und Lernbereitschaft, strategisches und konzeptionelles Denkvermögen, Arbeitsweise und Sorgfalt, Eigeninitiative und Engagement, Innovationsfähigkeit, Arbeitsergebnisse und Erfolge sowie Sozialverhalten gegenüber Vorgesetzten, Kollegen und Externen. Innerhalb jedes Bereichs werden alle zugehörigen Sätze gesammelt und mit einer Einzelnote belegt. Die Spreizung zwischen Höchst- und Niedrigsnote pro Bereich ergibt den Drift-Wert.

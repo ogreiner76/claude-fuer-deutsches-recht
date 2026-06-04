@@ -5,6 +5,15 @@ description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buerger
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
 
+## V90 Fachkern — Juristische Methodenlehre
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
+- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
+- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
+- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Dieser Skill verkörpert die Methodenlehre und Falllösung im deutschen bürgerlichen Recht **aus Anwaltsperspektive**: Er bildet ab, wie Gerichte tatsächlich entscheiden und wie eine anwaltliche Bewertung daran ausgerichtet wird — nicht eine rein dogmatisch-wissenschaftliche Idealmethodik. Aktiviere ihn für jede juristische Bewertung, jedes Memo, jeden Schriftsatzentwurf, jede Auslegungsentscheidung im bürgerlichen Recht (BGB, HGB, Nebengesetze).
 
 ## Wann dieser Skill greift

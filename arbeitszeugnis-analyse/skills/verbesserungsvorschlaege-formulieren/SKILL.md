@@ -5,6 +5,15 @@ description: "Formuliert konkrete Verbesserungsvorschläge für orange und rote 
 
 # Verbesserungsvorschläge formulieren
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verbesserungsvorschläge formulieren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Dieser Skill wandelt identifizierte orange und rote Zeugnisformulierungen in bessere, verhandelbare Alternativen um. Er liefert konkrete Textentwürfe, die der Arbeitnehmer oder die Kanzlei dem Arbeitgeber vorschlagen kann. Wichtig ist: Nicht jeder Wunschtext ist einklagbar. Der Skill formuliert deshalb zu jeder Änderung auch, warum sie sprachlich sinnvoll und tatsächlich belegbar ist.
 
 Das Grundprinzip der Aufwertung ist immer dasselbe: (1) Abwertende Adverbien entfernen oder durch Steigerungsadverbien ersetzen. (2) Einschränkende Qualifizierer löschen. (3) Bewertungsadjektive in Superlative überführen. (4) Fehlende Steigerungen ergänzen. (5) Passive oder distanzierte Formulierungen durch aktive, engagierte Formulierungen ersetzen. Diese fünf Operationen decken den Großteil aller Zeugnisaufwertungen ab.

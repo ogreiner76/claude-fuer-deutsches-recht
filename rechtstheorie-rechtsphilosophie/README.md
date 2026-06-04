@@ -50,7 +50,7 @@ Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtspr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -63,6 +63,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
 | `demokratie-gesetzgeber-gericht` | Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen. |
 | `dezisionismus-ausnahmezustand-red-team` | Red-Team gegen dezisionistische Ausnahmezustandsrhetorik: Krise, Notstand, Souveraenitaet, Exekutivmacht, gerichtliche Kontrolle, Grundrechte und die Gefahr, Recht durch politische Macht zu ersetzen. |
+| `dworkin-law-as-integrity-hard-cases` | Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür. |
 | `fallnarrativ-tatsachen-beweis` | Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben. |
 | `formalismus-und-begriffszauber-kritik` | Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten. |
 | `freiheit-privatautonomie-paternalismus` | Prueft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus. |
@@ -74,6 +75,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `kanzlei-briefing-rechtstheorie` | Uebersetzt rechtstheoretische Probleme fuer Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen. |
 | `kelsen-demokratie-verfahren-minderheitenschutz` | Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
 | `kelsen-normativismus-und-reine-rechtslehre` | Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik. |
+| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz. |
 | `kelsen-stufenbau-kompetenz-und-grundnorm` | Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf. |
 | `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
 | `kritisches-red-team-ideologie` | Red-Team fuer verdeckte Ideologie, Systemrhetorik, Moralueberschuss, Marktglauben, Staatsglauben und Methodenbeliebigkeit. |
@@ -82,6 +84,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `legitimitaet-richterlicher-rechtsfortbildung` | Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen. |
 | `machtkritik-und-interessenanalyse` | Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten. |
 | `menschenwuerde-grundrechte-theoriekern` | Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
+| `methodenkritik-larenz-canaris-ordnung-und-system` | Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein. |
 | `objektivitaet-methodenpluralismus` | Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen. |
 | `pluralismus-mehrebenenordnung` | Prueft rechtlichen Pluralismus in EU, Bund, Land, Satzung, Soft Law, Verbandsrecht, Plattformregeln und privaten Ordnungen. |
 | `positivismus-normgeltung-ohne-moralautomat` | Prueft positivistische Argumente, ohne moralische Fragen zu verdrängen: Gesetzesbindung, Rechtsquellenklarheit, Trennung von Geltung und Bewertung. |

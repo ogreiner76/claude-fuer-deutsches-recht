@@ -5,6 +5,15 @@ description: "Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstrei
 
 # Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
 
+## V90 Fachkern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ausbildungszeugnis-Analyse (Azubi-Zeugnis)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 Das Ausbildungszeugnis nach § 16 BBiG unterscheidet sich grundlegend vom Arbeitszeugnis für Angestellte. Es beurteilt nicht die berufliche Leistung einer Vollkraft, sondern den Lern- und Entwicklungsfortschritt während der Ausbildung. Die Formulierungen sind anders, der Maßstab ist ein anderer, und die Ampelsignale folgen teilweise anderen Mustern.
 
 Das Ausbildungszeugnis enthält üblicherweise vier Hauptblöcke: (1) Beschreibung der Ausbildungsstelle und des Ausbildungsberufs, (2) Beurteilung der praktischen Ausbildungsleistung im Betrieb, (3) Beurteilung der Berufsschulleistungen (sofern zutreffend), und (4) Verhalten im Betrieb und in der Berufsschule sowie eine Schlussformel. Fehlt der Berufsschulabschnitt, kann das bei einem dualen Ausbildungsberuf ein orangefarbenes Signal sein.

@@ -1,6 +1,6 @@
 # handelsvertreterrecht
 
-**105 Skills** · Stand `v80.0.0`
+**105 Skills** · Stand `v90.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsvertreterrecht/README.md)

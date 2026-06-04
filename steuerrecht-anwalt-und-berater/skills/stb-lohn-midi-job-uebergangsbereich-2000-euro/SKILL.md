@@ -5,6 +5,15 @@ description: "Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anw
 
 # Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR
 
+## V90 Fachkern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
 ## Kernsachverhalt
 
 Der Uebergangsbereich (umgangssprachlich Midi-Job) liegt zwischen 538,01 EUR (Stand 01.01.2024) und 2.000 EUR (Stand 01.01.2023). In diesem Bereich werden die AN-SV-Beitraege progressiv geminderter berechnet, um den Sprung vom SV-freien Minijob in die volle SV-Pflicht abzufedern. Der AG-Anteil bleibt voll. Die Berechnung erfolgt mit einer Formel auf Basis der jeweiligen Beitragssaetze; DATEV LODAS / Lohn und Gehalt erledigen das automatisch.

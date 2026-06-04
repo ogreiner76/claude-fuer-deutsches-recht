@@ -1,6 +1,6 @@
 # roemisches-recht
 
-**178 Skills** · Stand `v80.0.0`
+**178 Skills** · Stand `v90.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisches-recht/README.md)
