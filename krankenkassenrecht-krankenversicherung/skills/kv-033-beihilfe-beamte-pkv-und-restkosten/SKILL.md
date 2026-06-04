@@ -1,47 +1,82 @@
 ---
 name: kv-033-beihilfe-beamte-pkv-und-restkosten
-description: "Krankenversicherung: Beihilfe Beamte PKV und Restkosten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen."
 ---
 
-# Krankenversicherung: Beihilfe Beamte PKV und Restkosten
+# Beihilfe, Beamte, PKV und Restkosten
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Beihilfe Beamte PKV und Restkosten** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beamte finanzieren ihre Krankenversorgung aus zwei Quellen: **staatliche Beihilfe und private Krankenversicherung**. Dieser Skill klärt Beihilfesätze, beihilfefähige Aufwendungen und die Koordination mit der PKV.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 80 BBG** – Beihilfe für Bundesbeamte (Referenznorm)
+- **Bundesbeihilfeverordnung (BBhV)** – Bundesbeamte: §§ 1–98 BBhV
+- **Landesbeihilfeverordnungen** (je nach Land verschieden: BayBhV, BW-BVO etc.)
+- **§ 193 VVG** – Restkostenversicherung PKV (Pflicht für Beamte)
+- GOÄ, GOZ, GHD (Beihilfefähigkeit nach BBhV)
+- BSG ist unzuständig; Verwaltungsgerichte (VG) entscheiden über Beihilfestreitigkeiten
+- BVerwG Urt. v. 12.09.2018 – 5 C 7.17 (Beihilfe und medizinische Notwendigkeit)
+
+## Beihilfesätze (Bundesbeamte, BBhV)
+
+| Gruppe | Beihilfesatz |
+|--------|-------------|
+| Beamter selbst | 50 % |
+| Mit ≥ 2 berücksichtigungsfähigen Kindern | 70 % |
+| Ehegatten/eingetragene Lebenspartner | 70 % |
+| Kinder | 80 % |
+| Versorgungsempfänger (Pensionäre) | 70 % |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Beihilfefähigkeit der Aufwendung
+- Ist die Leistung im Katalog der beihilfefähigen Aufwendungen (§§ 18–42 BBhV)?
+- Ärztliche Behandlung: GOÄ-Abrechnung, Steigerungsfaktoren prüfen (Beihilfe nur bis Faktorgrenzen)
+- Zahnarztkosten: GOZ, auch hier Steigerungsfaktoren begrenzt
+- Arzneimittel: Nur wenn mit ärztlicher Verordnung und zugelassen; Lifestyle-Ausschluss
+
+### Schritt 2 – PKV-Restkostenversicherung
+- Beihilfe deckt 50/70/80 %; PKV deckt Restbetrag
+- PKV muss so abgestimmt sein dass keine Überschneidung entsteht
+- Wichtig: PKV-Tarif als Ergänzungsversicherung, nicht als Vollversicherung bei Beamten
+
+### Schritt 3 – Beihilfeantrag
+- Antrag binnen 1 Jahr nach Aufwendung (Ausschlussfrist, je nach Land variiert)
+- Belege: Originalrechnungen, Rezepte, Arztberichte
+- Dienstherr (Bundeskasse, Landesamt etc.) bearbeitet Antrag
+
+### Schritt 4 – Ablehnung und Widerspruch
+- Verwaltungsgerichtsweg: Widerspruch gegen Beihilfebescheid
+- Dann Klage beim Verwaltungsgericht (nicht Sozialgericht!)
+- Typische Ablehnungsgründe: fehlende medizinische Notwendigkeit, nicht beihilfefähige Methode, überhöhte GOÄ-Abrechnung
+
+### Schritt 5 – Landesvariationen
+- Bayern: BayBhV abweichend von BBhV; Steigerungsfaktoren oft strenger
+- Baden-Württemberg: Pauschale Beihilfe für Anfänger (→ kv-034)
+- Berlin: Öffnungsklausel GKV möglich; beachte Wechseloptionen
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Ausschlussfrist**: 1-Jahres-Frist (manche Länder 2 Jahre) für Antragstellung; verpasste Frist = kein Anspruch.
+- **Rechnungsfehler GOÄ**: Arzt rechnet falsch ab → PKV kürzt → Differenz zu Lasten des Beamten.
+- **Außenseitermethoden**: Homöopathie, Anthroposophie – beihilfefähig nach BBhV § 18; aber landesspezifisch unterschiedlich.
+- **Belegärzte**: Kosten belegärztlicher Behandlung werden oft unterschätzt; PKV-Tarif prüfen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Beihilfeantrag (Muster, Bund)
+- Widerspruch gegen Beihilfe-Ablehnung
+- PKV-Ergänzungsversicherungs-Checkliste
+- GOÄ-Abrechnungsprüfung
+- Verwaltungsgerichtsklage (kurze Übersicht)
+
+## Quellen
+
+- [Bundesbeihilfeverordnung BBhV](https://www.gesetze-im-internet.de/bbhv/)
+- [§ 80 BBG – Beihilfe](https://www.gesetze-im-internet.de/bbg_2009/__80.html)
+- [§ 193 VVG – Versicherungspflicht](https://www.gesetze-im-internet.de/vvg_2008/__193.html)
+- [BVerwG Beihilfe-Entscheidungen](https://www.bverwg.de/entscheidungen)
+- [PKV-Verband Beamte](https://www.pkv.de/wissen/beihilfe/)
+- [dejure.org BBhV](https://dejure.org/gesetze/BBhV)

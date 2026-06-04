@@ -1,47 +1,82 @@
 ---
 name: kv-070-leistungsbescheid-lesen-fuer-laien
-description: "Krankenversicherung: Leistungsbescheid lesen für Laien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse."
 ---
 
-# Krankenversicherung: Leistungsbescheid lesen für Laien
+# Leistungsbescheid lesen für Laien
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Leistungsbescheid lesen für Laien** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Viele Versicherte verstehen Bescheide ihrer Krankenkasse nicht. Dieser Skill erklärt **den Aufbau von GKV-Leistungsbescheiden, typische Ablehnungsgründe in einfacher Sprache und konkrete nächste Schritte**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 31 SGB X** – Was ist ein Verwaltungsakt (Bescheid)?
+- **§ 33 SGB X** – Bestimmtheit und Form des Bescheids
+- **§ 35 SGB X** – Begründungspflicht
+- **§ 36 SGB X** – Rechtsbehelfsbelehrung (muss im Bescheid stehen)
+- **§ 37 SGB X** – Bekanntgabe (3-Tage-Fiktion)
+- **§ 84 SGG** – Widerspruchsfrist: 1 Monat
+
+## Bescheid-Aufbau erklärt
+
+| Teil | Was steht darin? | Was bedeutet das? |
+|------|-----------------|------------------|
+| Kopfzeile | Kassen-Logo, Bescheid-Nr., Datum | Für Identifikation und Fristen wichtig |
+| Tenor | Entscheidung (Ablehnung oder Bewilligung) | DAS ist das Ergebnis; hier steht ob Leistung gewährt wird |
+| Begründung | Warum hat Kasse so entschieden? | Hier steckt der Angriffspunkt für Widerspruch |
+| Rechtsbehelfsbelehrung | Widerspruch innerhalb 1 Monat | Fristbeginn und Adresse der Widerspruchsstelle |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Datum feststellen
+- Datum des Bescheids + 3 Tage = Bekanntgabe (§ 37 SGB X)
+- Widerspruchsfrist: 1 Monat ab Bekanntgabe
+- Konkretes Fristende notieren: Welcher Tag des Folgemonats?
+
+### Schritt 2 – Tenor lesen
+- Was hat die Kasse entschieden? (Ablehnung vollständig? Teilbewilligung? Kürzung?)
+- Wird eine konkrete Leistung verweigert? Welche?
+- Beträge prüfen: Festzuschuss korrekt? Zuzahlung korrekt?
+
+### Schritt 3 – Begründung verstehen
+- Typische Ablehnungsgründe:
+  - „Medizinisch nicht notwendig": MDK hat Ablehnung empfohlen
+  - „Nicht im Leistungskatalog": kein GKV-Anspruch auf diese Leistung
+  - „Wirtschaftlichkeitsgebot": günstigere Alternative verfügbar
+  - „Ausschluss nach § 34 SGB V": Lifestyle-Medikament oder ausgeschlossene Leistung
+- Normzitate im Bescheid: aufschlagen und nachschlagen
+
+### Schritt 4 – Rechtsbehelfsbelehrung
+- Steht eine Belehrung drin? Wenn nicht: Frist verlängert sich auf 1 Jahr
+- Adresse der Widerspruchsstelle: oft Kasse selbst oder Widerspruchsausschuss
+- Frist ist Eingangs- nicht Absendungsfrist: rechtzeitig ankommen lassen
+
+### Schritt 5 – Nächste Schritte
+- Versteht man Ablehnungsgrund nicht: Akteneinsicht beantragen (§ 25 SGB X)
+- Frist sichern: Widerspruch fristwahrend einlegen bevor Begründung fertig
+- Beratung: Verbraucherzentrale, Sozialverband VdK, unabhängige Patientenberatung (UPD)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Bescheid ignorieren**: Frist läuft; nach 1 Monat ist Bescheid bestandskräftig.
+- **Rechtsbehelfsbelehrung falsch gelesen**: Frist gilt per Eingang beim Absender; nicht per Poststempel.
+- **Begründung nicht verstanden**: Trotzdem Widerspruch einlegen; Begründung kann nachgereicht werden.
+- **Bewilligung nicht geprüft**: Manchmal wird Leistung zwar bewilligt, aber fehlerhaft begrenzt.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Bescheid-Erklärungsprotokoll (für Versicherten)
+- Widerspruchs-Mustertext (allgemein)
+- Fristenkarte
+- Akteneinsichtsantrag (einfach)
+- Liste Beratungsstellen (regional anpassbar)
+
+## Quellen
+
+- [§ 35 SGB X – Begründungspflicht](https://www.gesetze-im-internet.de/sgb_10/__35.html)
+- [§ 36 SGB X – Rechtsbehelfsbelehrung](https://www.gesetze-im-internet.de/sgb_10/__36.html)
+- [§ 37 SGB X – Bekanntgabe](https://www.gesetze-im-internet.de/sgb_10/__37.html)
+- [§ 84 SGG – Widerspruchsfrist](https://www.gesetze-im-internet.de/sgg/__84.html)
+- [Unabhängige Patientenberatung Deutschland (UPD)](https://www.patientenberatung.de)
+- [dejure.org § 35 SGB X](https://dejure.org/gesetze/SGB_X/35.html)

@@ -1,47 +1,80 @@
 ---
 name: kv-035-tarifwechsel-pkv-204-vvg
-description: "Krankenversicherung: Tarifwechsel PKV § 204 VVG mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mitnahme der Altersrückstellungen, Risikoprüfung und Durchsetzung."
 ---
 
-# Krankenversicherung: Tarifwechsel PKV § 204 VVG
+# Tarifwechsel PKV: § 204 VVG
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Tarifwechsel PKV § 204 VVG** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wer in der PKV zu einem günstigeren oder leistungsfähigeren Tarif beim gleichen Versicherer wechseln will, hat ein gesetzliches Recht dazu. Dieser Skill klärt **§ 204 VVG: Voraussetzungen, Altersrückstellungen und Durchsetzungsstrategien**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 204 VVG** – Tarifwechselrecht: gleicher Versicherer, gleichartiger Tarif, Mitnahme Altersrückstellungen
+- **§ 146 Abs. 1 VAG** – Kalkulationsvorschriften (Altersrückstellungen)
+- **MB/KK 2009 § 13** – Tarifwechsel-Klausel in den Bedingungen
+- BGH IV ZR 118/11 (§ 204 VVG, Altersrückstellungen), BGH IV ZR 307/20 (Tarifwechsel und neue Risikoprüfung)
+- OLG München 25 U 5677/18 (Ablehnung Tarifwechsel, Begründungspflicht)
+
+## § 204 VVG – Kerngehalt
+
+| Recht | Inhalt |
+|-------|--------|
+| Wechselrecht | Anspruch auf Wechsel in anderen Tarif beim gleichen Versicherer |
+| Altersrückstellungen | Anteilige Mitnahme in neuen Tarif |
+| Risikoprüfung | Grundsätzlich nicht zulässig für Altrückstellungs-Anteil |
+| Mehrleistungen | Für Mehrleistungen des neuen Tarifs: Risikoprüfung erlaubt |
+| Wartezeiten | Für bisher versicherte Leistungen keine neue Wartezeit |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Tarif-Vergleich
+- Welcher Tarif ist das Ziel? Gleichartiger Tarif nach § 204 VVG: ähnliche Leistungsstruktur
+- Ist der Zieltarif noch für Neukunden offen? (manche Tarife geschlossen)
+- Leistungsunterschiede: Mehrleistungen können Risikoprüfung auslösen
+
+### Schritt 2 – Altersrückstellungen berechnen
+- PKV-Versicherer führen für jeden Versicherten Altersrückstellungen
+- Bei Tarifwechsel innerhalb des Versicherers: volle Mitnahme der angesammelten Rückstellungen
+- Mathematisch: Rückstellungen erhöhen den Wechselwert; Versicherer muss transparente Berechnung liefern
+
+### Schritt 3 – Risikoprüfung bei Mehrleistungen
+- Zieltarif bietet Mehrleistungen (z.B. Chefarztbehandlung im Ausland): für diesen Teil neue Risikoprüfung möglich
+- PKV darf Leistungsausschluss setzen oder Risikozuschlag für Mehrleistungsanteil verlangen
+- Für gleiche Leistungen wie bisher: keine neue Risikoprüfung
+
+### Schritt 4 – Antragstellung und PKV-Verhalten
+- Schriftlicher Antrag beim Versicherer
+- PKV hat keine bestimmte Antwortfrist; aber unverzüglich (AGB-Kontrolle)
+- Ablehnung: BGH → PKV muss Ablehnung begründen; bloßes „nicht möglich" reicht nicht
+- Klage: Zivilgericht; Anspruch auf Tarifwechsel durchsetzen
+
+### Schritt 5 – Wechsel zum anderen Versicherer
+- § 204 VVG gilt nur innerhalb desselben Versicherers
+- Wechsel zu neuem Versicherer: neue Risikoprüfung, keine Rückstellungsmitnahme
+- Ausnahme: Basistarif-Wechsel ohne Risikoprüfung (§ 152 VAG)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Geschlossener Tarif**: Versicherer behauptet Tarif ist geschlossen; Rechtsprechung: Bestandsversicherte haben trotzdem Wechselrecht.
+- **Transparenz der Rückstellungen**: Versicherer weist Rückstellungen nicht aus; Auskunftsrecht (§ 305 VVG analog).
+- **Kombination mit Beitragsanpassung**: Nach BA-Erhöhung ist § 204-Wechsel besonders interessant (günstigerer Tarif ohne Beitragserhöhung).
+- **Ehegatten-Mitversicherung**: Mitversicherte Ehegatten haben eigenes Wechselrecht; separat prüfen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Tarifwechsel-Antrag (§ 204 VVG, Muster)
+- Altersrückstellungs-Auskunftsverlangen
+- Ablehnung-Widerspruch (Begründungspflicht)
+- Zivilklageschrift Tarifwechsel
+- Tarif-Vergleichsmatrix
+
+## Quellen
+
+- [§ 204 VVG – Tarifwechsel](https://www.gesetze-im-internet.de/vvg_2008/__204.html)
+- [BGH IV ZR 118/11](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [BGH IV ZR 307/20](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [§ 146 VAG – Altersrückstellungen](https://www.gesetze-im-internet.de/vag_2016/__146.html)
+- [dejure.org § 204 VVG](https://dejure.org/gesetze/VVG/204.html)
+- [PKV-Verband Tarifwechsel](https://www.pkv.de)

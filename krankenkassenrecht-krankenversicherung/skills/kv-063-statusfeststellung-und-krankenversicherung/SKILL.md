@@ -1,47 +1,82 @@
 ---
 name: kv-063-statusfeststellung-und-krankenversicherung
-description: "Krankenversicherung: Statusfeststellung und Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken."
 ---
 
-# Krankenversicherung: Statusfeststellung und Krankenversicherung
+# Statusfeststellung und Krankenversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Statusfeststellung und Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wer als selbstständig gilt, muss sich selbst krankenversichern. Wenn der Status als scheinselbstständig festgestellt wird, drohen erhebliche Nachzahlungen. Dieser Skill klärt **Statusfeststellung, Krankenversicherungsfolgen und Abwehrstrategien**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 7 SGB IV** – Beschäftigungsbegriff: persönliche Abhängigkeit, Weisungsgebundenheit
+- **§ 7a SGB IV** – Anfrageverfahren bei der Deutschen Rentenversicherung (DRV)
+- **§ 5 Abs. 1 Nr. 1 SGB V** – Pflichtversicherung bei Beschäftigung
+- **§ 25 SGB IV** – Verjährung von Beitragsansprüchen: 4 Jahre (vorsätzlich: 30 Jahre)
+- **§ 28p SGB IV** – Betriebsprüfung durch DRV
+- BSG B 12 KR 14/14 R (Statusfeststellung Honorarärzte), BSG B 12 R 11/18 R (Kriterien Selbstständigkeit)
+
+## Statuskriterien (BSG-Maßstäbe)
+
+| Merkmal Selbstständigkeit | Merkmal Beschäftigung |
+|--------------------------|----------------------|
+| Eigene Betriebsstätte | Arbeitsort vorgegeben |
+| Eigenes unternehmerisches Risiko | Festes Entgelt, kein Risiko |
+| Mehrere Auftraggeber | Nur ein Auftraggeber |
+| Eigene Mitarbeiter | Allein tätig im fremden Betrieb |
+| Freie Zeiteinteilung | Arbeitszeitvorgaben |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Statusfeststellungsverfahren (§ 7a SGB IV)
+- Freiwilliges Anfrageverfahren bei DRV Bund
+- Antragsteller: Auftraggeber oder Auftragnehmer
+- DRV prüft Einzelfall: Gesamtbild der Tätigkeit entscheidend
+- Bindende Entscheidung für alle Sozialversicherungsträger
+
+### Schritt 2 – Scheinselbstständigkeit und KV-Folgen
+- Feststellung Beschäftigungsverhältnis: rückwirkende KV-Pflichtversicherung
+- Nachzahlung: KV-Beiträge für gesamten Zeitraum der Beschäftigung
+- AN-Anteil (7,3 %): zahlt Beschäftigter; AG-Anteil (7,3 %): zahlt Auftraggeber
+- Wenn private KV während falscher Selbstständigkeit: PKV-Beiträge keine Anrechnung; GKV-Nachzahlung trotzdem
+
+### Schritt 3 – Verjährung und Schutz
+- 4 Jahre ab Ende des Jahres der Beitragsfälligkeit (§ 25 SGB IV)
+- Bei Vorsatz: 30 Jahre; schwierige Abgrenzung
+- Betriebsprüfung durch DRV: bis 4 Jahre rückwirkend; bei Verstößen auch länger
+
+### Schritt 4 – Widerspruch gegen Statusfeststellungsbescheid
+- Widerspruch bei DRV möglich; dann Klage beim SG
+- Argumente: Gesamtbild zeigt Selbstständigkeit; Einzelmerkmale unzureichend gewichtet
+- Einstweiliger Rechtsschutz: bei hohen Nachzahlungen
+
+### Schritt 5 – Honorarärzte und Sonderfälle
+- BSG B 12 KR 14/14 R: Honorarärzte in Klinik häufig als Beschäftigte eingestuft
+- Hebammen, Rettungsdienstpersonal: zunehmend als abhängig Beschäftigte bewertet
+- Plattformarbeit: BSG prüft zunehmend App-Fahrer etc.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Ein-Auftraggeber-Falle**: Ausschließliche Tätigkeit für einen Auftraggeber ist starkes Indiz für Abhängigkeit.
+- **Frühzeitige Anfrage vergessen**: Ohne Anfrageverfahren kein Vertrauensschutz; DRV kann rückwirkend feststellen.
+- **PKV-Versichert als Scheinselbstständiger**: PKV-Beiträge laufen weiter; GKV-Nachzahlung kommt zusätzlich; keine Erstattung der PKV-Beiträge.
+- **Arbeitgeberhaftung**: Auftraggeber muss AG-Anteil nachzahlen; strafrechtliche Konsequenzen bei Vorsatz.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Statusfeststellungsantrag DRV
+- Selbstständigkeitsmerkmale-Dokumentation
+- Widerspruch gegen Statusfeststellungsbescheid
+- Nachzahlungs-Ratenantrag
+- Statusrisiko-Bewertungsmatrix
+
+## Quellen
+
+- [§ 7 SGB IV – Beschäftigungsbegriff](https://www.gesetze-im-internet.de/sgb_4/__7.html)
+- [§ 7a SGB IV – Anfrageverfahren](https://www.gesetze-im-internet.de/sgb_4/__7a.html)
+- [BSG B 12 KR 14/14 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [DRV Statusfeststellung](https://www.deutsche-rentenversicherung.de)
+- [§ 25 SGB IV – Verjährung](https://www.gesetze-im-internet.de/sgb_4/__25.html)
+- [dejure.org § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)

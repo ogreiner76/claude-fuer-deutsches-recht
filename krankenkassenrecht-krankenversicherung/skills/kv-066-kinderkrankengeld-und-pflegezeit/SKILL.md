@@ -1,47 +1,81 @@
 ---
 name: kv-066-kinderkrankengeld-und-pflegezeit
-description: "Krankenversicherung: Kinderkrankengeld und Pflegezeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht."
 ---
 
-# Krankenversicherung: Kinderkrankengeld und Pflegezeit
+# Kinderkrankengeld und Pflegezeit
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Kinderkrankengeld und Pflegezeit** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrankter Kinder, die seit Covid-Pandemie erhöhten Anspruchszeiten und Abgrenzungen zur Pflegezeit.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 45 SGB V** – Kinderkrankengeld: Anspruch, Dauer, Voraussetzungen
+- **§ 616 BGB** – Entgeltfortzahlung bei vorübergehender Verhinderung (parallel)
+- **§ 45 Abs. 2a SGB V** – Erweiterte Tage durch Corona (bis Ende 2023)
+- **§ 2 PflegeZG** – Kurzzeitige Arbeitsverhinderung bei Pflege nahestehender Personen
+- BSG B 1 KR 19/18 R (Kinderkrankengeld, Voraussetzungen)
+
+## Kinderkrankengeld-Systematik 2025
+
+| Parameter | Inhalt |
+|-----------|--------|
+| Anspruch pro Elternteil | 15 Arbeitstage je Kind (bis 12 Jahre) |
+| Alleinerziehend | 30 Arbeitstage je Kind |
+| Gesamtbegrenzung | 35 AT/Person (Alleinerziehend: 70 AT) |
+| Kind mit Behinderung | Ohne Altersgrenze wenn dauerhaft pflegebedürftig |
+| Höhe | 90 % des ausgefallenen Nettolohns |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Anspruchsvoraussetzungen (§ 45 SGB V)
+- Kind erkrankt und ärztlich attestiert?
+- Kind unter 12 Jahre (oder pflegebedürftiges Kind ohne Altersgrenze)?
+- Keine andere aufsichtspflichtige Person vorhanden?
+- Arbeitgeber informiert; Beschäftigungsverbot oder Unmöglichkeit der Arbeit
+
+### Schritt 2 – Kinderkrankengeld beantragen
+- Krankenkasse des betreuenden Elternteils (nicht des Kindes)
+- Ärztliche Bescheinigung für das Kind (§ 45 Abs. 1 Satz 3 SGB V)
+- Arbeitgeberbescheinigung über Verdienstausfall
+- Kasse zahlt direkt; AG muss nicht vorleisten
+
+### Schritt 3 – Dauer und Erweiterung
+- 15 Arbeitstage pro Elternteil und Kind; ggf. übertragbar zwischen Elternteilen
+- Mehrere Kinder: 35 Arbeitstage max. (Alleinerziehend 70)
+- Überschreitung nur bei Verlängerungsantrag; medizinische Begründung
+
+### Schritt 4 – § 616 BGB als Alternative/Ergänzung
+- § 616 BGB: kurzfristige Entgeltfortzahlung durch AG (einige wenige Tage)
+- Tarifverträge: oft großzügigere Regelungen
+- Kinderkrankengeld: subsidiär; erst wenn AG-Anspruch erschöpft oder ausgeschlossen
+
+### Schritt 5 – Abgrenzung Pflegezeit
+- PflegeZG (§ 2): kurzfristige Arbeitsverhinderung für Pflege nahestehender Personen (bis 10 AT)
+- Bezahlte Pflegezeit: Pflegeunterstützungsgeld (§ 44a SGB XI)
+- Kinderkrankengeld vs. Pflegeunterstützungsgeld: Kinderkrankengeld bei Erkrankung des Kindes; Pflegeunterstützungsgeld bei Pflegesituation
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Kind über 12 und krank**: Kinderkrankengeld endet mit 12. Geburtstag; Ausnahme: Behinderung.
+- **Beide Elternteile beantragen gleichzeitig**: Jeder Elternteil hat eigene 15-AT-Kontingent; gleichzeitige Inanspruchnahme möglich wenn beide Eltern getrennt betreuen.
+- **Schließung von Schule/Kita (nicht Krankheit)**: Kein Kinderkrankengeld bei Schließung ohne Erkrankung des Kindes (außer Corona-Sonderregeln waren befristet).
+- **Freiwillig Versicherte**: Haben Anspruch; aber Höhe begrenzt (§ 45 Abs. 4 SGB V: analog).
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Kinderkrankengeld-Antrag
+- Ärztliche Bescheinigung-Anforderung
+- Arbeitgeberbescheinigung-Formular
+- Resttage-Berechnung (Jahresübersicht)
+- § 616 BGB vs. § 45 SGB V Vergleich
+
+## Quellen
+
+- [§ 45 SGB V – Kinderkrankengeld](https://www.gesetze-im-internet.de/sgb_5/__45.html)
+- [§ 2 PflegeZG – Kurzzeitige Arbeitsverhinderung](https://www.gesetze-im-internet.de/pflegezg/__2.html)
+- [§ 616 BGB – Entgeltfortzahlung](https://www.gesetze-im-internet.de/bgb/__616.html)
+- [BSG B 1 KR 19/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [GKV-Spitzenverband Kinderkrankengeld](https://www.gkv-spitzenverband.de)
+- [dejure.org § 45 SGB V](https://dejure.org/gesetze/SGB_V/45.html)

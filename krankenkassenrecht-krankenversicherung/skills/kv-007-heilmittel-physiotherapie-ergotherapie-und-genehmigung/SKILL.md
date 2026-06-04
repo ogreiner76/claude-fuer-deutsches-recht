@@ -1,47 +1,80 @@
 ---
 name: kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung
-description: "Krankenversicherung: Heilmittel Physiotherapie Ergotherapie und Genehmigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch."
 ---
 
-# Krankenversicherung: Heilmittel Physiotherapie Ergotherapie und Genehmigung
+# Heilmittel: Physiotherapie, Ergotherapie und Genehmigung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Heilmittel Physiotherapie Ergotherapie und Genehmigung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Gegenstand von Ablehnungen und Mengenbeschränkungen. Dieser Skill klärt den **Anspruch, die Verordnungssystematik und Genehmigungsverfahren** nach der Heilmittel-Richtlinie (HM-RL) des G-BA.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 32 SGB V** – Heilmittelanspruch (Physiotherapie, Ergotherapie, Sprachtherapie, Podologie)
+- **§ 12 SGB V** – Wirtschaftlichkeitsgebot
+- **§ 73 SGB V** – Vertragsärztliche Versorgung; Verordnungsrecht des Arztes
+- **§ 92 SGB V** – G-BA: Heilmittel-Richtlinie (HM-RL)
+- **Heilmittel-Richtlinie des G-BA** (aktuell 2024): Diagnoseliste, Verordnungsmengen, Langfristversorgung
+- **§ 106b SGB V** – Wirtschaftlichkeitsprüfung der Verordnungen (KV-Regressgefahr für Arzt)
+- BSG B 3 KR 10/21 R (Heilmittel Langfristversorgung)
+
+## Heilmittel-Systematik (HM-RL)
+
+| Kategorie | Bedeutung |
+|-----------|-----------|
+| Orientierende Behandlungsmenge | Regelfall; innerhalb dieser keine Genehmigung nötig |
+| Gesamtverordnungsmenge | Maximalmenge je Diagnosengruppe |
+| Langfristversorgung | Bei chronisch-schweren Erkrankungen, Genehmigung durch Kasse erforderlich |
+| Besonderer Verordnungsbedarf | Diagnosen, die außerhalb der Regelmengen liegen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Verordnungsinhalt prüfen
+- Liegt eine gültige Verordnung vor (Formular Muster 13, Muster 18)?
+- Indikationsschlüssel korrekt? Behandlungsart und Frequenz angegeben?
+- Ausnahmetatbestand eingetragen (z.B. besonderer Verordnungsbedarf)?
+
+### Schritt 2 – Genehmigungspflicht klären
+- Innerhalb orientierende Behandlungsmenge (G-BA Heilmittelkatalog): keine Genehmigung nötig
+- Langfristversorgung: Antrag an Kasse, spätestens 4 Wochen vor Ablauf der laufenden Versorgung
+- Genehmigungsfiktion: § 13 Abs. 3a SGB V – bei fehlender Entscheidung innerhalb 5 Wochen gilt Genehmigung als erteilt
+
+### Schritt 3 – Ablehnungsgründe analysieren
+- **Wirtschaftlichkeit**: Verordnungsmenge überschritten → Heilmittelkatalog konsultieren, Ausnahmetatbestand dokumentieren
+- **Indikationsschlüssel falsch**: Verordnung durch Arzt korrigieren lassen; keine Heilung im Nachhinein
+- **MDK-Prüfung**: Gegengutachten des Therapeuten oder Facharztes
+
+### Schritt 4 – Widerspruch und Klage
+- Ablehnungsbescheid anfechtbar, § 84 SGG (1 Monat)
+- Im Widerspruch: ärztliches Attest über Behandlungsnotwendigkeit, Befundberichte des Therapeuten
+- Eilantrag (§ 86b SGG): bei akuter Verschlechterung ohne laufende Therapie
+
+### Schritt 5 – Arztregress-Schnittstelle
+- Arzt haftet bei Überverordnung aus wirtschaftlichen Gründen; Versicherte sind nicht betroffen
+- Arzt darf Verordnung nicht aus Regressangst verweigern wenn medizinisch indiziert
+- Bei Verordnungsverweigerung: Zweitmeinung oder Beschwerde an KV
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Verordnungsformular falsch**: Heilmittel auf Kassenrezept (Muster 13), nicht auf Privatrezept; Privatverordnung löst Kostenerstattungsverfahren aus.
+- **Therapeutenwechsel**: Neue Verordnung erforderlich bei Wechsel des Therapeuten (außer Praxisübernahme).
+- **Genehmigungsfiktion vergessen**: Kasse reagiert nicht innerhalb von 5 Wochen → schriftlich auf Fiktion hinweisen, Behandlung beginnen.
+- **Zuzahlung**: 10 % je Verordnung + 10 € Rezeptgebühr; Befreiungsgrenze (2 % / 1 % des Bruttoeinkommens) prüfen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Antragsschreiben Langfristversorgung
+- Widerspruch gegen Heilmittelablehnung
+- Genehmigungsfiktion-Schreiben
+- Arzt-Briefing zur korrekten Verordnung
+- Fristenplan (Verlängerungsanträge)
+
+## Quellen
+
+- [§ 32 SGB V – Heilmittel](https://www.gesetze-im-internet.de/sgb_5/__32.html)
+- [Heilmittel-Richtlinie G-BA](https://www.g-ba.de/richtlinien/12/)
+- [§ 13 Abs. 3a SGB V – Genehmigungsfiktion](https://www.gesetze-im-internet.de/sgb_5/__13.html)
+- [§ 92 SGB V – G-BA](https://www.gesetze-im-internet.de/sgb_5/__92.html)
+- [BSG Heilmittelrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 32 SGB V](https://dejure.org/gesetze/SGB_V/32.html)

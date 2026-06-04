@@ -1,47 +1,81 @@
 ---
 name: kv-044-kuenstlersozialkasse-und-krankenversicherung
-description: "Krankenversicherung: Künstlersozialkasse und Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung."
 ---
 
-# Krankenversicherung: Künstlersozialkasse und Krankenversicherung
+# Künstlersozialkasse und Krankenversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Künstlersozialkasse und Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publizisten eine GKV-ähnliche Absicherung. Dieser Skill klärt **Versicherungspflicht, Beitragsberechnung und KSK-Prüfverfahren**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **KSVG** (Künstlersozialversicherungsgesetz) §§ 1–29
+- **§ 1 KSVG** – Versicherungspflichtige Künstler und Publizisten
+- **§ 15 KSVG** – Abgabepflicht der Vermarkter (KSK-Abgabe)
+- **§ 3 KSVG** – Halbe Beiträge: Künstler zahlt 50 %, KSK und Vermarkter 50 %
+- **§ 10 KSVG** – Meldepflicht Einkommen
+- **§ 35 SGB IV** – Prüfpflichten Rentenversicherung (KSK-Arbeitgeberprüfung)
+- BSG B 3 KS 2/16 R (KSK-Versicherungspflicht), BSG B 3 KS 5/12 R (Einkommensgrenze)
+
+## KSK-Versicherungssystematik
+
+| Beitragsanteil | Träger | Höhe |
+|---------------|--------|------|
+| Künstler/Publizist | Versicherter | ~50 % des KV-Beitrags |
+| Künstlersozialabgabe | Verwerter/Vermarkter | ~25 % |
+| Bundeszuschuss | Bund | ~25 % |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Versicherungspflicht KSK
+- Tätigkeit als Künstler oder Publizist (§ 1 KSVG): selbstständig, hauptberuflich
+- Mindestjahreseinkommen: 3.900 € (2025); unter dieser Grenze keine KSK-Pflicht (§ 3 Abs. 1 KSVG)
+- Berufsanfänger: erste 3 Jahre Ausnahme von der Mindesteinkommensgrenze
+- Kein Beschäftigung von mehr als 1 sozialversicherungspflichtigem AN (dann gewerblich, nicht künstlerisch)
+
+### Schritt 2 – Meldepflicht Einkommen (§ 10 KSVG)
+- Jährliche Einkommensmeldung an KSK bis 1. Dezember des laufenden Jahres
+- Basis: voraussichtliches Jahresarbeitseinkommen
+- Bei wesentlicher Abweichung: unterjährige Korrektur möglich
+- Unterschätzung: Nachzahlung; Überschätzung: Erstattung
+
+### Schritt 3 – Beitragsberechnung
+- Beitrag = 50 % des allgemeinen KV-Beitragssatzes + Zusatzbeitrag aus Jahresarbeitseinkommen / 12
+- Mindestbemessungsgrundlage: wie § 236 SGB V (ca. 1.178 €/Monat)
+- Maximum: Beitragsbemessungsgrenze GKV
+
+### Schritt 4 – KSK-Prüfung durch Rentenversicherung
+- Prüfung ob KSK-Abgabe korrekt gezahlt wurde (Verwerterprüfung)
+- Auch Versicherungspflicht des Künstlers geprüft
+- Nachforderungen möglich; Widerspruch gegen Beitragsbescheid
+
+### Schritt 5 – Leistungen und GKV-Integration
+- Versicherter ist Pflichtmitglied in gewählter GKV
+- Gleiche GKV-Leistungen wie Pflichtmitglieder
+- Kassenwahlrecht besteht
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Angestelltentätigkeit parallel**: KSK-Versicherung endet wenn Arbeitsentgelt aus Anstellung > Jahresarbeitsentgeltgrenze.
+- **Mindesteinkommen unterschritten**: KSK-Mitgliedschaft endet; kein automatisches Auffangversicherung → freiwillige GKV binnen 3 Monaten.
+- **Vermarkter-Abgabe vergessen**: Wer künstlerische Leistungen einkauft und vermarktet, schuldet KSK-Abgabe; gilt auch für Agenturen und Unternehmen.
+- **Mehrfachbeschäftigung**: Wenn Gesamteinkommen überwiegend aus Anstellung → KSK-Pflicht entfällt.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- KSK-Aufnahmeantrag-Checkliste
+- Einkommensmeldung-Vordruck
+- Widerspruch gegen KSK-Ausschluss
+- KSK-Beitragsberechnung
+- Vermarkter-Abgabe-Überprüfungsanfrage
+
+## Quellen
+
+- [KSVG – Künstlersozialversicherungsgesetz](https://www.gesetze-im-internet.de/ksvg/)
+- [Künstlersozialkasse – Bundesagentur](https://www.kuenstlersozialkasse.de)
+- [BSG B 3 KS 2/16 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [§ 10 KSVG – Meldepflicht](https://www.gesetze-im-internet.de/ksvg/__10.html)
+- [dejure.org KSVG](https://dejure.org/gesetze/KSVG)
+- [GKV-Spitzenverband KSK](https://www.gkv-spitzenverband.de)

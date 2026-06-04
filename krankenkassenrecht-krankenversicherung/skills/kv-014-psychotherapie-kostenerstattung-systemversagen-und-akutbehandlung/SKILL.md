@@ -1,47 +1,83 @@
 ---
-name: kv-014-psychotherapie-kostenerstattung-systemversagen-und-akutbe
-description: "Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: kv-014-psychotherapie-kostenerstattung-systemversagen-und
+description: "GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und Kostenerstattung privater Therapeuten, Akutbehandlung nach § 92 SGB V."
 ---
 
-# Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung
+# Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **GKV-Psychotherapieleistungen**: Anspruch auf Richtlinienpsychotherapie, die Systemversagen-Rechtsprechung des BSG bei Wartezeiten und die Kostenerstattung für Privattherapie.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 27 Abs. 1 SGB V** – Psychotherapie als Krankenbehandlung
+- **§ 92 SGB V i.V.m. Psychotherapie-Richtlinie (PT-RL)** – G-BA-Richtlinie: Verfahren, Indikationen, Stundenkontingente
+- **§ 13 Abs. 3 SGB V** – Kostenerstattung bei Systemversagen (Selbstbeschaffung)
+- **§ 28 Abs. 3 SGB V** – Akutbehandlung durch Psychotherapeuten
+- **§ 92 Abs. 6a SGB V** – Psychotherapeutische Sprechstunde
+- **§ 73b SGB V** – Hausarztzentrierte Versorgung (Schnittstelle)
+- BSG B 1 KR 6/14 R (Systemversagen), BSG B 1 KR 10/11 R (Wartezeit)
+- BVerfG Beschl. v. 26.03.2019 – 1 BvR 673/17 (Zugang zu Psychotherapie)
+
+## Psychotherapie-Systematik (PT-RL)
+
+| Verfahren | Stundenkontingent GKV | Voraussetzung |
+|-----------|----------------------|---------------|
+| Verhaltenstherapie (VT) | Bis 80 h (Einzeltherapie) | Richtlinienindikation |
+| Tiefenpsychologisch fundierte PT | Bis 100 h | Richtlinienindikation |
+| Analytische PT | Bis 300 h | Richtlinienindikation |
+| Systemische PT | Bis 48 h (seit 2020) | Richtlinienindikation |
+| Akutbehandlung | 12 Sitzungen | Akute Notlage |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Anspruch prüfen
+- Indikation gemäß PT-RL (Depressionen, Angststörungen, PTBS, Persönlichkeitsstörungen etc.)?
+- Therapeut mit Kassenzulassung? (Kassenzulassung = Zulassung zur vertragsärztlichen Versorgung)
+- Probatorische Sitzungen (max. 4–8) vor Antragstellung absolviert?
+
+### Schritt 2 – Systemversagen feststellen
+- Kasse schuldet zeitnahe Versorgung; Wartezeit > 3 Monate gilt nach BSG als systemisches Versagen
+- Dokumentation der Wartezeit: mindestens 5 erfolglose Anfragen bei Kassenzugelassenen Therapeuten dokumentieren
+- Kasse auffordern, kassenärztliche Vereinigung einzuschalten (§ 75 Abs. 1 SGB V: KV-Sicherstellungsauftrag)
+
+### Schritt 3 – Kostenerstattungsantrag (§ 13 Abs. 3 SGB V)
+- Antrag bei Kasse: Systemversagen belegen, Privattherapeut benennen, Kosten vorlegen
+- Kasse muss Kostenerstattung in Höhe des Kassensatzes zahlen (nicht GOÄ-Privatpreis)
+- BSG B 1 KR 6/14 R: Erstattung muss auf Kassenleistungsniveau begrenzt sein
+
+### Schritt 4 – Akutbehandlung (§ 28 Abs. 3 SGB V)
+- Psychotherapeutische Sprechstunde: bis 6 Sitzungen ohne Antrag, Erstabklärung
+- Akutbehandlung: 12 Sitzungen à 50 Minuten bei akuter Krise
+- Kein Gutachterverfahren nötig; Therapeut entscheidet über Indikation
+
+### Schritt 5 – Stationäre Psychotherapie
+- Bei schwerer psychischer Erkrankung: stationäre/tagesklinische psychosomatische Behandlung
+- § 39 SGB V: Krankenhausbehandlung bei stationärer Psychotherapie
+- Psychiatrische Klinik vs. Psychosomatik: unterschiedliche Versorgungsstrukturen
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Kein Kassenzugelassener Therapeut gefunden**: Dokumentation der Suche essentiell; Kasse kann sonst Systemversagen ablehnen.
+- **Probatorische Sitzungen beim Privattherapeuten**: Begründen keinen Anspruch auf Kostenerstattung; erst nach Systemversagensnachweis.
+- **Gutachterverfahren**: Bei Kurzzeittherapie (bis 24 h) kein Gutachten; bei Langzeittherapie Therapeut stellt Antrag an Kasse.
+- **Rezidivprophylaxe**: Neue Therapieepisode nach Ablauf der Sperrfrist möglich; kein automatisches neues Recht.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Systemversagen-Dokumentationsbogen
+- Kostenerstattungsantrag § 13 Abs. 3 SGB V
+- Widerspruch gegen Ablehnungsbescheid
+- KV-Beschwerdeschreiben (Sicherstellungsauftrag)
+- Eilantrag SG (akute psychische Erkrankung)
+
+## Quellen
+
+- [§ 13 SGB V – Kostenerstattung](https://www.gesetze-im-internet.de/sgb_5/__13.html)
+- [Psychotherapie-Richtlinie G-BA](https://www.g-ba.de/richtlinien/20/)
+- [§ 28 SGB V – Akutbehandlung](https://www.gesetze-im-internet.de/sgb_5/__28.html)
+- [BSG B 1 KR 6/14 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [BVerfG 1 BvR 673/17](https://www.bverfg.de/entscheidungen.html)
+- [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
+- [Kassenärztliche Bundesvereinigung PT](https://www.kbv.de/html/psychotherapie.php)

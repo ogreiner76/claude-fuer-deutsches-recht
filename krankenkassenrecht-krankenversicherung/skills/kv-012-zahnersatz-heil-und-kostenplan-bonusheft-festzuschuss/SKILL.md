@@ -1,47 +1,81 @@
 ---
 name: kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss
-description: "Krankenversicherung: Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen."
 ---
 
-# Krankenversicherung: Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss
+# Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schuldet die Kasse, wie funktioniert der Festzuschuss, wie wirkt das Bonusheft und wann entstehen Mehrkosten für den Versicherten?
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 55 SGB V** – Zahnersatz-Anspruch (Regelversorgung)
+- **§ 56 SGB V** – Befundorientierte Festzuschüsse
+- **§ 57 SGB V** – Eigenanteil und Kostentragung
+- **§ 55 Abs. 2 SGB V** – Erhöhung des Festzuschusses bei langjährigem Bonusheft
+- **§ 92 SGB V** – G-BA: Zahnersatz-Richtlinie (ZE-RL)
+- **Zahnersatz-Richtlinie G-BA** (ZE-RL): Befundbeschreibungen und Regelversorgungen
+- **GOZ** (Gebührenordnung Zahnärzte) §§ 1–12 für Privatleistungen
+- BSG B 1 KR 11/14 R (Zahnersatz, Regelversorgung)
+
+## Festzuschuss-Systematik
+
+| Bonusheft-Status | Festzuschuss-Erhöhung |
+|-----------------|----------------------|
+| Kein Bonusheft | Basisfestzuschuss (50 % der Regelversorgungskosten) |
+| 5 Jahre regelmäßig | Erhöhung auf 60 % |
+| 10 Jahre regelmäßig | Erhöhung auf 65 % |
+| Sozialhilfe/Grundsicherung | 100 % (§ 55 Abs. 2 SGB V) |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Befund und Regelversorgung
+- Heil- und Kostenplan (HKP) vom Zahnarzt: liegt er vor, von Kasse genehmigt?
+- Befund gemäß ZE-RL: welcher Befund (z.B. B1–B6), welche Regelversorgung ist zugeordnet?
+- Kasse muss Festzuschuss für Regelversorgung zahlen; Mehr-/Andersversorgung auf Kosten des Patienten
+
+### Schritt 2 – Bonusheft prüfen
+- Mindestens 1 Untersuchung/Jahr lückenlos dokumentiert?
+- 5 Jahre: ab Bescheidung Anspruch auf erhöhten Festzuschuss
+- Lücke im Bonusheft: Erhöhung verfällt; Kulanzantrag möglich
+- Bonusheft-Nachweise: Zahnarztpraxis-Bestätigung, altes Zahnersatz-Bonusheft
+
+### Schritt 3 – Gleichartige/Andersartige Versorgung
+- Gleichartig: gleiche Funktion wie Regelversorgung, aber anderen Material/Technik → Festzuschuss wie Regelversorgung, Mehrkosten privat
+- Andersartig: Implantat statt Brücke → kein Festzuschuss der Kasse (außer Ausnahmefälle)
+- Ausnahme Implantat: G-BA kann in Einzelfällen zulassen (seltene Indikationen)
+
+### Schritt 4 – Wirtschaftlichkeitsprüfung und Genehmigung
+- HKP muss vor Behandlungsbeginn genehmigt sein (Ausnahme: Notfall)
+- Kasse prüft Wirtschaftlichkeit; MDZ (Zahnärztlicher Dienst) kann eingeschaltet werden
+- Ablehnung: Widerspruch mit zahnärztlicher Stellungnahme
+
+### Schritt 5 – Sozialtarif und Härtefälle
+- Sozialhilfe, Grundsicherung: Kasse übernimmt Eigenanteil → 100 % der Regelversorgung
+- Antrag: Nachweis über SGB II/XII-Bezug, Attest, HKP
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **HKP-Genehmigungsfehler**: Behandlung vor Genehmigung → Kasse kann Festzuschuss verweigern.
+- **Bonusheft-Lücke durch Umzug/Arztwechsel**: Lücke entsteht oft; frühzeitig nachweisen oder Kulanzantrag.
+- **Implantat als Standardversorgung**: Kasse zahlt in der Regel keinen Festzuschuss für Implantate; Ausnahmen sehr eng.
+- **Mehrwertsteuer im HKP**: Zahntechniker-Laborkosten mit MwSt.; Kasse übernimmt anteilig; Kontrolle der Aufschlüsselung.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- HKP-Checkliste (vor Einreichung)
+- Festzuschuss-Berechnung
+- Widerspruch gegen HKP-Ablehnung
+- Bonusheft-Rekonstruktionsantrag
+- Antrag auf Härtefallregelung (Sozialtarif)
+
+## Quellen
+
+- [§ 55 SGB V – Zahnersatz](https://www.gesetze-im-internet.de/sgb_5/__55.html)
+- [§ 56 SGB V – Festzuschüsse](https://www.gesetze-im-internet.de/sgb_5/__56.html)
+- [Zahnersatz-Richtlinie G-BA](https://www.g-ba.de/richtlinien/23/)
+- [GKV-Spitzenverband Zahnersatz](https://www.gkv-spitzenverband.de)
+- [BSG Zahnersatzrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 55 SGB V](https://dejure.org/gesetze/SGB_V/55.html)

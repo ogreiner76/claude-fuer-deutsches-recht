@@ -1,47 +1,84 @@
 ---
 name: kv-068-klagebegruendung-sozialgericht-gesundheitsakte
-description: "Krankenversicherung: Klagebegründung Sozialgericht Gesundheitsakte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht."
 ---
 
-# Krankenversicherung: Klagebegründung Sozialgericht Gesundheitsakte
+# Klagebegründung Sozialgericht: Gesundheitsakte
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Klagebegründung Sozialgericht Gesundheitsakte** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Nach erfolglosem Widerspruch folgt die Klage beim Sozialgericht. Dieser Skill bereitet eine **substantiierte Klagebegründung in Krankenversicherungssachen** vor: Struktur, Beweismittel, Gesundheitsakte und Sachverständigenfragen.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **SGG §§ 78–131** – Verfahren beim Sozialgericht
+- **§ 103 SGG** – Amtsermittlungsgrundsatz (Gericht erforscht Sachverhalt von Amts wegen)
+- **§ 118 SGG i.V.m. ZPO §§ 404–414** – Sachverständige
+- **§ 128 SGG** – Freie Beweiswürdigung
+- **§ 193 SGG** – Kostenentscheidung
+- **§ 183 SGG** – Kostenfreiheit (keine Gerichtskosten für Versicherte!)
+- BSG B 1 KR 19/21 R (Beweismaß Krankenversicherungssachen), BSG B 1 KR 22/17 R
+
+## Klagebegründungs-Struktur
+
+| Teil | Inhalt |
+|------|--------|
+| Sachanträge | Was begehrt die Klägerin konkret? (Leistung, Aufhebung Bescheid) |
+| Sachverhalt | Chronologisch; vollständig; mit Beweismitteln |
+| Rechtliche Begründung | Norm + BSG-Rechtsprechung + Subsumtion |
+| Beweisangebote | Ärztliche Atteste, Sachverständigengutachten, Zeugen |
+| Amtsermittlung | Antrag auf gerichtliche Ermittlungen (Beiziehung Akten, Gutachten) |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Klageerhebung und Form
+- Frist: 1 Monat nach Widerspruchsbescheid (§ 87 SGG)
+- Form: Schriftlich oder zu Protokoll beim SG
+- Kein Anwaltszwang im 1. Instanzgericht (§ 73 SGG)
+- Zuständiges Gericht: SG am Wohnort (§ 57 SGG)
+
+### Schritt 2 – Gesundheitsakte zusammenstellen
+- Vollständige ärztliche Unterlagen: Arztbriefe, Befundberichte, Laborbefunde
+- MDK-Gutachten (falls vorhanden): aus Akteneinsicht
+- Behandlungsverläufe: chronologisch; wichtig für Kausalität
+- Leitlinien: als Anlage beifügen (AWMF, G-BA)
+
+### Schritt 3 – Klagebegründung formulieren
+- Sachverhalt: kurz, präzise, ohne Wertungen
+- Rechtliche Begründung: Anspruchsgrundlage benennen, BSG-Urteile zitieren (Aktenzeichen)
+- Prüfung des Ablehnungsgrunds: jeden Ablehnungsgrund einzeln entkräften
+- Beweisangebote: am Ende jedes strittigen Punkts Beweis anbieten
+
+### Schritt 4 – Beweismittel im Sozialgerichtsverfahren
+- Sachverständigengutachten: beantragen (§ 118 SGG) wenn medizinische Fragen streitig
+- Zeugen: Arzt als Zeuge laden; selten notwendig wenn Arztbriefe vorliegen
+- Amtsermittlung: Gericht von Amts wegen tätig; Hinweis auf notwendige Ermittlungen
+
+### Schritt 5 – Kostenrecht
+- Keine Gerichtskosten für Versicherte (§ 183 SGG)
+- Anwaltskosten: bei Obsiegen trägt Kasse die außergerichtlichen Kosten (§ 193 SGG)
+- Beratungshilfe: für einkommensschwache Kläger
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Klagefrist versäumt**: 1 Monat ab Widerspruchsbescheid; Wiedereinsetzung bei unverschuldetem Fristversäumnis.
+- **Klagebegründung zu allgemein**: „Die Kasse hat unrecht" reicht nicht; konkrete Normen und Sachverhalte.
+- **Sachverständigengutachten nicht beantragt**: Gericht kann mangels Antrag Frage offen lassen; aktiv beantragen.
+- **BSG-Rechtsprechung falsch zitiert**: BSG-Entscheidungen prüfen ob auf vorliegenden Fall anwendbar; nicht pauschal.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Klageschrift (vollständige Vorlage)
+- Beweisantrags-Schreiben
+- Sachverständigenfragen-Liste
+- Akteneinsichtsantrag beim SG
+- Vergleichsangebot-Bewertung
+
+## Quellen
+
+- [§ 87 SGG – Klagefrist](https://www.gesetze-im-internet.de/sgg/__87.html)
+- [§ 103 SGG – Amtsermittlung](https://www.gesetze-im-internet.de/sgg/__103.html)
+- [§ 183 SGG – Kostenfreiheit](https://www.gesetze-im-internet.de/sgg/__183.html)
+- [BSG Prozessrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Sozialgericht Anleitungen](https://www.sozialgerichtsbarkeit.de)
+- [dejure.org SGG § 87](https://dejure.org/gesetze/SGG/87.html)

@@ -1,47 +1,84 @@
 ---
 name: kv-026-untaetigkeitsklage-krankenkasse-und-akteneinsicht
-description: "Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage (§ 88 SGG), Akteneinsichtsrecht (§ 25 SGB X), Fristen und Beschleunigungsstrategien."
 ---
 
-# Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht
+# Untätigkeitsklage, Krankenkasse und Akteneinsicht
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Untätigkeitsklage Krankenkasse und Akteneinsicht** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Krankenkassen entscheiden manchmal nicht oder zu spät. Dieser Skill nutzt die **Untätigkeitsklage (§ 88 SGG)** und das **Akteneinsichtsrecht (§ 25 SGB X)** als Druckmittel und Informationsquelle zur Rechtsdurchsetzung.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 88 SGG** – Untätigkeitsklage: 6 Monate nach Antragstellung oder 3 Monate nach Widerspruch
+- **§ 13 Abs. 3a SGB V** – Genehmigungsfiktion: 5 Wochen bei Leistungsantrag, 3 Wochen bei Eilbedarf
+- **§ 25 SGB X** – Akteneinsicht: Recht auf Einsicht in Verwaltungsvorgänge
+- **§ 19 SGB X** – Amtsermittlungspflicht der Kasse
+- **§ 84 Abs. 1 SGG** – Widerspruchsfrist (relevant für Ausgangspunkt Untätigkeit)
+- **§ 193 Abs. 4 SGG** – Kostenentscheidung bei Untätigkeitsklage
+- BSG B 3 KR 9/10 R (Untätigkeitsklage, Fristberechnung)
+
+## Untätigkeitsklage-Fristen
+
+| Fallgruppe | Wartepflicht | Rechtsgrundlage |
+|-----------|-------------|-----------------|
+| Erstantrag auf Leistung | 6 Monate | § 88 Abs. 1 SGG |
+| Widerspruch eingelegt | 3 Monate | § 88 Abs. 2 SGG |
+| Ausnahme: besondere Gründe | Kürzere Frist möglich | Gericht entscheidet |
+| Genehmigungsfiktion | 5 Wochen (3 Wochen Eilbedarf) | § 13 Abs. 3a SGB V |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Wartepflicht prüfen
+- Antragsdatum feststellen (Eingangsbestätigung der Kasse)
+- Ergebnis noch nicht ergangen? 6 Monate ab Antrag abgelaufen?
+- Widerspruch eingelegt? 3 Monate ab Widerspruchseingang abgelaufen?
+- Ausnahme: besonders wichtige Gründe (z.B. Lebensgefahr) → kürzere Frist
+
+### Schritt 2 – Genehmigungsfiktion (§ 13 Abs. 3a SGB V)
+- Leistungsantrag → 5-Wochen-Frist (3 Wochen bei Eilbedarf)
+- Keine Entscheidung innerhalb Frist → Genehmigung gilt als erteilt
+- Schriftlich auf Fiktion hinweisen, Behandlung beginnen
+- Kasse muss Behandlung finanzieren; nachträgliche Ablehnung nur in sehr engen Grenzen
+
+### Schritt 3 – Akteneinsicht (§ 25 SGB X)
+- Recht auf Einsicht in alle Verwaltungsvorgänge der eigenen Akte
+- Antrag schriftlich an Kasse; Kasse hat keine bestimmte Frist (aber zeitnah)
+- Verzögerung oder Verweigerung: Klage auf Akteneinsicht gesondert (Untätigkeitsklage oder Feststellungsklage)
+- Kopien anfertigen: Verwaltungsakte, MDK-Gutachten, interne Vermerke
+
+### Schritt 4 – Untätigkeitsklage einreichen
+- Klage beim Sozialgericht am Wohnort
+- Keine Anwaltspflicht im 1. Instanzgericht
+- Klageinhalt: Verpflichtungsantrag (Kasse zu bescheiden), Sachverhalt, Fristen
+- Kosten: im Untätigkeitsklage-Urteil trägt Kasse Kosten wenn sie ohne Grund nicht entschieden hat
+
+### Schritt 5 – Druckmittel und Praxis
+- Kasse beschleunigt oft wenn Untätigkeitsklage angekündigt wird
+- Kassenaufsicht einschalten (Skill kv-072): ergänzend, kein Ersatz für Klage
+- Patientenbeauftragte/Ombudsmann: bei Beratungsfragen; keine Rechtsdurchsetzung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Frist noch nicht abgelaufen**: Untätigkeitsklage zu früh → unzulässig; Gericht weist ab.
+- **Besondere Gründe**: BSG-Rechtsprechung: erhebliche Verzögerung durch Kasse selbst begründet kürzere Frist (z.B. MDK-Auftrag vergessen).
+- **Genehmigungsfiktion praktisch**: Kasse macht nichts → nach 5 Wochen Anspruch durchsetzen; aber Kasse kann noch ablehnen wenn Behandlung noch nicht begonnen.
+- **Datenschutz in Akteneinsicht**: Akte enthält Daten Dritter (z.B. Arbeitgeber-Auskunft) → diese Teile können geschwärzt werden.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Genehmigungsfiktion-Schreiben (Muster)
+- Akteneinsichtsantrag (Muster)
+- Untätigkeitsklage (Muster)
+- Fristenkalender Untätigkeit
+- Kassenaufsichts-Beschwerde (ergänzend)
+
+## Quellen
+
+- [§ 88 SGG – Untätigkeitsklage](https://www.gesetze-im-internet.de/sgg/__88.html)
+- [§ 13 Abs. 3a SGB V – Genehmigungsfiktion](https://www.gesetze-im-internet.de/sgb_5/__13.html)
+- [§ 25 SGB X – Akteneinsicht](https://www.gesetze-im-internet.de/sgb_10/__25.html)
+- [BSG Untätigkeitsklage](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 88 SGG](https://dejure.org/gesetze/SGG/88.html)
+- [Sozialgericht Klageanleitung](https://www.sozialgerichtsbarkeit.de)

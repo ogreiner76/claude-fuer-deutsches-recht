@@ -1,47 +1,86 @@
 ---
 name: kv-015-long-covid-post-vac-und-beweisprobleme
-description: "Krankenversicherung: Long Covid Post Vac und Beweisprobleme mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-Vac-Syndrom: Leistungsansprüche, Beweisschwierigkeiten, MDK-Problematik und Kausalitätsfragen."
 ---
 
-# Krankenversicherung: Long Covid Post Vac und Beweisprobleme
+# Long Covid, Post-Vac und Beweisprobleme
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Long Covid Post Vac und Beweisprobleme** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Long Covid und Post-Vac-Syndrom stellen **neue Beweisherausforderungen** im Krankenversicherungsrecht dar: fehlende Laborwerte, unklare Kausalität, skeptische MDK-Gutachten. Dieser Skill entwickelt Strategien zur Anspruchsdurchsetzung.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 27 SGB V** – Krankenbehandlungsanspruch (Anspruch auf Diagnostik und Therapie)
+- **§ 44 SGB V** – Krankengeld (Arbeitsunfähigkeit bei Long Covid)
+- **§ 33 SGB V** – Hilfsmittel (z.B. bei Fatigue: Rollator, Gehhilfe)
+- **§ 40 SGB V** – Reha-Leistungen
+- **§ 2 Abs. 1a SGB V** – Grundrechtsorientierte Auslegung bei lebensbedrohlichen Erkrankungen
+- **§ 275 SGB V** – MDK-Prüfung (kritisch zu begleiten)
+- WHO-Definition Long Covid (Oktober 2021), S1-Leitlinie Long COVID (AWMF 020-027)
+- BSG-Grundsätze zur Kausalitätslehre im Sozialrecht: Vollbeweis der Erkrankung, Wahrscheinlichkeit des Kausalzusammenhangs
+- OEG § 1 (Post-Vac als Impfschaden, ggf. Versorgungsamt)
+
+## Beweisrechtliche Grundlagen
+
+| Beweisstandard | Inhalt |
+|---------------|--------|
+| Vollbeweis | Erkrankung muss mit an Sicherheit grenzender Wahrscheinlichkeit vorliegen |
+| Wahrscheinlichkeitsmaßstab | Kausalzusammenhang: mehr Gründe sprechen dafür als dagegen |
+| Glaubhaftmachung | Nur im einstweiligen Rechtsschutz ausreichend |
+| Non-liquet | Beweislast beim Anspruchsteller; Ausnahmen bei Beweisnot |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Diagnose und Dokumentation
+- ICD-10: U09.9 (Post-Covid-Zustand), U12.9 (Unerwünschte Wirkung Impfstoff)
+- Ärztliche Dokumentation: Vorgeschichte (positiver Test), Symptomverlauf, Ausschlussdiagnostik
+- Befundberichte: Erschöpfungssymptomatik (Fatigue), kognitive Störungen, Dyspnoe, Schmerzen
+- CPET (Spiroergometrie), Tilt-Table-Test, neuropsychologische Testung als Objektivierungsbausteine
+
+### Schritt 2 – Leistungsansprüche identifizieren
+- Krankenbehandlung (§ 27): Diagnostik, Medikamente (auch Off-Label bei fehlenden Zulassungen)
+- Krankengeld: Arbeitsunfähigkeit durch Long Covid, Blockfrist 78 Wochen beachten
+- Hilfsmittel: bei Mobilitätseinschränkung oder Fatigue
+- Reha (§ 40): Long-Covid-Rehaprogramme; Rentenversicherung häufig federführend
+
+### Schritt 3 – MDK-Gutachten begleiten
+- MDK-Gutachten häufig skeptisch bei unsichtbaren Symptomen
+- Gegengutachten durch Spezialambulanz (Uniklinik Long Covid-Ambulanz)
+- Akteneinsicht: MDK-Gutachten und -Unterlagen anfordern (§ 25 SGB X)
+- Sachverständigen im Sozialgerichtsverfahren beantragen
+
+### Schritt 4 – Post-Vac und Impfschaden
+- Rechtsgrundlage Impfschaden: § 60 IfSG, OEG-Entschädigung
+- Zuständig: Versorgungsamt (Landesversorgungsamt), nicht GKV
+- GKV bleibt für Behandlung zuständig; Schaden wird über Versorgungsrecht erstattet
+- Beweisschwierigkeiten noch ausgeprägter als bei Long Covid
+
+### Schritt 5 – Eilverfahren bei akuter Not
+- Krankengeld-Einstellung während Long Covid → Eilantrag SG § 86b SGG
+- Reha-Verweigerung → einstweilige Anordnung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Fehldiagnose Depression**: MDK wertet Long Covid-Fatigue als psychisch; richtige Diagnose und Abgrenzung wichtig.
+- **Blockfrist Krankengeld**: 78 Wochen können erschöpft sein; Übergangsgeld Reha als Alternative prüfen.
+- **Impfschaden vs. Long Covid**: Andere Rechtsträger (Versorgungsamt vs. GKV); Doppelantragstellung empfehlen.
+- **Beweissicherung versäumt**: Symptomtagebuch, Arztbriefe sichern, Krankheitsverlauf dokumentieren.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Dokumentationsleitfaden für Betroffene
+- Widerspruch gegen Krankengeldeinstellung
+- MDK-Gegengutachten-Briefing
+- Eilantrag SG (Mustertext)
+- Übersicht Leistungsträger Long Covid
+
+## Quellen
+
+- [§ 27 SGB V – Krankenbehandlung](https://www.gesetze-im-internet.de/sgb_5/__27.html)
+- [§ 44 SGB V – Krankengeld](https://www.gesetze-im-internet.de/sgb_5/__44.html)
+- [S1-Leitlinie Long COVID (AWMF)](https://www.awmf.org/leitlinien/detail/ll/020-027.html)
+- [§ 60 IfSG – Impfschaden](https://www.gesetze-im-internet.de/ifsg/__60.html)
+- [BSG Kausalitätslehre](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 44 SGB V](https://dejure.org/gesetze/SGB_V/44.html)
+- [WHO Long Covid Definition](https://www.who.int/publications/i/item/9789240025035)

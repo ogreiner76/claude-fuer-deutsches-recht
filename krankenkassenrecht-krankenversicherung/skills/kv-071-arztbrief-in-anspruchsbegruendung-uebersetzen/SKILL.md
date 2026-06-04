@@ -1,47 +1,80 @@
 ---
 name: kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen
-description: "Krankenversicherung: Arztbrief in Anspruchsbegründung übersetzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV."
 ---
 
-# Krankenversicherung: Arztbrief in Anspruchsbegründung übersetzen
+# Arztbrief in Anspruchsbegründung übersetzen
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Arztbrief in Anspruchsbegründung übersetzen** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Arztbriefe enthalten die entscheidenden medizinischen Argumente für GKV-/PKV-Ansprüche – aber in einer Sprache, die Kassen und Gerichte nicht direkt nutzen können. Dieser Skill übersetzt **medizinische Befunde in rechtlich verwertbare Anspruchsbegründungen**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 12 SGB V** – Notwendigkeit, Zweckmäßigkeit, Wirtschaftlichkeit (Maßstab für Anspruchsbegründung)
+- **§ 27 SGB V** – Krankenbehandlung: ärztliche Behandlung, Hilfsmittel, Medikamente
+- **§ 192 VVG** – PKV: medizinische Notwendigkeit
+- **BSG-Dreitest Off-Label**: Erkrankungsschwere + Alternativlosigkeit + Behandlungsaussicht
+- **AWMF-Leitlinien**: Therapiestandards als Anspruchsgrundlage
+- G-BA-Richtlinien: konkrete Leistungskriterien
+
+## Arztbrief-Übersetzungs-Schema
+
+| Arztbrief-Element | Rechtliche Übersetzung |
+|------------------|----------------------|
+| Diagnose (ICD-10) | Identifiziert die Erkrankung; prüft ob GKV-Leistungsfall vorliegt |
+| Befund | Objektiviert Erkrankungsschwere (für Notwendigkeits-Prüfung) |
+| Therapieempfehlung | Anspruchsgrundlage für die konkrete Leistung |
+| Prognose | Begründet Eilbedürftigkeit oder Langzeitbedarf |
+| Diagnose-Zusatz | Komorbiditäten können Anspruch erweitern oder begründen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Diagnose rechtlich einordnen
+- ICD-10-Code: Welcher Paragraph SGB V ist einschlägig?
+- Beispiel: F32.2 (schwere depressive Episode) → § 27 SGB V + PT-RL → Psychotherapie-Anspruch
+- Schweregrad: aus Befund herausarbeiten (z.B. GAF-Score, PHQ-9, MMSE)
+
+### Schritt 2 – Befunde in Notwendigkeits-Sprache übersetzen
+- „Eingeschränkte Mobilität wegen Lumbalgie" → „Behinderungsausgleich § 33 SGB V; Rollator medizinisch notwendig"
+- „Schlafapnoe AHI 35/h" → „§ 33 SGB V CPAP-Gerät; Sicherung Behandlungserfolg"
+- „Krebsdiagnose T3N2M0" → „Lebensbedrohliche Erkrankung § 2 Abs. 1a SGB V"
+
+### Schritt 3 – Therapieempfehlung mit Leitlinie verbinden
+- Arzt empfiehlt Medikament X → AWMF-Leitlinie für Erkrankung Y empfiehlt Medikament X als First-line
+- Leitlinienreferenz: Herausgeber, Klasse (S3 stärker als S1), Empfehlungsgrad
+- G-BA-Richtlinie: wenn Leistung in G-BA-RL gelistet → direkter Anspruch
+
+### Schritt 4 – Alternativlosigkeit dokumentieren
+- Alle vorherigen Therapien: Arztbrief enthält Vorbehandlungen?
+- Wenn nicht: Nachfrage beim Arzt; Liste der gescheiterten Therapien beifügen
+- Off-Label: Keine andere zugelassene Therapie → BSG-Dreitest-Zweites Kriterium erfüllt
+
+### Schritt 5 – Anspruchsschreiben formulieren
+- Gliederung: Diagnose (mit ICD) → Befund/Schwere → Anspruchsgrundlage (Norm) → Leitlinie → Vorbehandlungen → Bitte
+- Beifügen: Arztbrief (Kopie), Leitlinie (Auszug), eventuelle Fachliteratur
+- Sprache: sachlich, klar; keine emotionalen Appelle
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Arztbrief unvollständig**: Diagnose ohne Schweregrad; Bitte an Arzt ergänzen lassen.
+- **Leitlinie überholt**: S3-Leitlinie von 2018 zitiert; neuere Version von 2023 übernimmt; aktuelle Version verwenden.
+- **ICD-10 vs. ICD-11**: Übergangsphase; meiste Kassen noch ICD-10; prüfen.
+- **Zu technisch für Kasse**: Anspruchsschreiben zu medizinisch; Übersetzungshilfe für Sachbearbeiter einbauen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Anspruchsschreiben (aus Arztbrief-Vorlage)
+- Übersetzungsprotokoll (Arztbrief → Rechtsbegriffe)
+- Leitlinien-Referenztabelle
+- Ärztliche Ergänzungsbitte (Muster)
+- Off-Label-Antragsbrief (aus medizinischen Unterlagen)
+
+## Quellen
+
+- [§ 27 SGB V – Krankenbehandlung](https://www.gesetze-im-internet.de/sgb_5/__27.html)
+- [AWMF Leitlinien-Datenbank](https://www.awmf.org/leitlinien.html)
+- [G-BA Richtlinien](https://www.g-ba.de/richtlinien/)
+- [BSG Off-Label-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [§ 192 VVG – PKV-Notwendigkeit](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
+- [dejure.org § 27 SGB V](https://dejure.org/gesetze/SGB_V/27.html)

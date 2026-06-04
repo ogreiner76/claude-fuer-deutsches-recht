@@ -1,47 +1,92 @@
 ---
 name: kv-004-beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung
-description: "Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leistungsruhen, Schuldenbereinigung und Wiederherstellung des Versicherungsschutzes."
 ---
 
-# Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung
+# Beitragsschuld, Säumniszuschlag und Ruhen der Leistung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Beitragsschuld Säumniszuschlag und Ruhen der Leistung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beitragsrückstände können den Versicherungsschutz suspendieren. Dieser Skill analysiert **Beitragsschulden**, berechnet Säumniszuschläge, klärt die Voraussetzungen des Leistungsruhens und entwickelt eine Strategie zur Wiederherstellung des vollen Versicherungsschutzes.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 16 Abs. 3a SGB V** – Ruhen der Leistungsansprüche bei Beitragsrückstand > 2 Monatsbeiträge (freiwillig Versicherte)
+- **§ 24 SGB IV** – Säumniszuschlag: 1 % des rückständigen Betrags je angefangenen Monat
+- **§ 26 SGB IV** – Erstattung zu Unrecht entrichteter Beiträge
+- **§ 256a SGB V** – Beitragsrückstände und Stundung
+- **§ 193 Abs. 6–9 VVG** – Leistungssuspendierung PKV, Notlagentarif
+- **§ 12h VAG** – PKV-Notlagentarif
+- BSG B 12 KR 26/09 R (Ruhen der Leistung verfassungskonform)
+- BVerfG 1 BvR 347/98 (Grundrecht auf Leben und körperliche Unversehrtheit bei Leistungsruhen)
+
+## Berechnungslogik Säumniszuschlag
+
+| Parameter | Wert |
+|-----------|------|
+| Säumniszuschlag | 1 % pro angefangenen Monat (§ 24 SGB IV) |
+| Mindestbetrag | 50 € Schuld erforderlich |
+| Fälligkeit | Beitrag am drittletzten Bankarbeitstag des Monats |
+| Verjährung | 4 Jahre ab Ende des Kalenderjahrs (§ 25 SGB IV) |
+| Stundungsmöglichkeit | § 76 SGB IV, besondere Härtegründe |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Höhe der Beitragsschuld ermitteln
+- Kontoauszug der Kasse anfordern (§ 25 SGB X: Akteneinsicht)
+- Hauptforderung, Säumniszuschläge und Mahnkosten trennen
+- Verjährte Forderungen identifizieren (§ 25 SGB IV: 4 Jahre)
+
+### Schritt 2 – Ruhenstatbestand GKV (§ 16 Abs. 3a SGB V)
+- Gilt nur für freiwillig Versicherte
+- Rückstand > 2 Monatsbeiträge (Bruttobeitrag)
+- Während Ruhen: nur Behandlung bei akuten Erkrankungen und Schmerzen, Schwangerschaft und Mutterschaft
+- Wiederherstellung: vollständige Zahlung oder verbindliche Ratenzahlungsvereinbarung
+
+### Schritt 3 – PKV-Leistungssuspendierung (§ 193 VVG)
+- Voraussetzung: Beitragsrückstand > 1 Monat nach 2. Mahnung
+- Übergang in Notlagentarif automatisch bei Rückstand > 2 Monate
+- Notlagentarif: nur Akutbehandlung, Schmerzen, Schwangerschaft
+- Rückkehr: Begleichung aller Rückstände inkl. Notlagentarifbeiträge
+
+### Schritt 4 – Schuldenbereinigungsstrategie
+- Verhandlung mit Kasse: Stundung (§ 76 SGB IV), Ratenzahlung, Erlass des Säumniszuschlags bei unbilliger Härte
+- Insolvenzverfahren: Beitragsschulden sind insolvenzfeste Forderungen; besondere Prüfung nötig
+- Jobcenter-Übernahme: § 26 SGB II (Leistungsberechtigte), § 32 SGB XII (Sozialhilfe)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Pflichtversicherte**: § 16 Abs. 3a SGB V gilt nicht für Pflichtmitglieder; bei diesen gibt es kein Leistungsruhen wegen Beitragsrückstand.
+- **Mindestbehandlung im Ruhen**: Kasse muss trotz Ruhen akute Behandlung finanzieren; Arzt darf nicht ablehnen.
+- **Säumniszuschlag-Verjährung**: Die 4-Jahres-Frist beginnt mit dem Ende des Jahres, in dem der Zuschlag entstanden ist – nicht ab Hauptschuld.
+- **PKV-Notlagentarif-Falle**: Beiträge im Notlagentarif laufen weiter und summieren sich; Schulden wachsen, auch wenn Leistungen nicht in Anspruch genommen werden.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Schuldenaufstellung mit Verjährungsprüfung
+- Stundungsantrag (Mustertext)
+- Ratenzahlungsvereinbarung
+- Widerspruch gegen Festsetzungsbescheid (Höhe Säumniszuschlag)
+- PKV-Wiederherstellungsschreiben
+
+## Quellen
+
+- [§ 16 SGB V – Ruhen](https://www.gesetze-im-internet.de/sgb_5/__16.html)
+- [§ 24 SGB IV – Säumniszuschlag](https://www.gesetze-im-internet.de/sgb_4/__24.html)
+- [§ 193 VVG – PKV-Beitragsverzug](https://www.gesetze-im-internet.de/vvg_2008/__193.html)
+- [§ 76 SGB IV – Stundung](https://www.gesetze-im-internet.de/sgb_4/__76.html)
+- [BVerfG 1 BvR 347/98](https://www.bverfg.de/e/rs19990109_1bvr034798.html)
+- [dejure.org SGB V § 16](https://dejure.org/gesetze/SGB_V/16.html)
+## Hinweis: Insolvenz und Beitragsschuld
+
+- Bei Insolvenz des Versicherten: Beitragsschuld ist Insolvenzforderung
+- Krankenkasse meldet Forderung zur Insolvenztabelle an (§ 174 InsO)
+- Nach Restschuldbefreiung: Beitragsforderungen aus der Zeit vor Insolvenz erlöschen
+- Pflichtversicherung bleibt bestehen; neue Beiträge laufen weiter
+
+## Weiterführende Quellen
+
+- [§ 24 SGB IV – Säumniszuschlag](https://www.gesetze-im-internet.de/sgb_4/__24.html)
+- [§ 16 SGB V – Ruhen der Leistung](https://www.gesetze-im-internet.de/sgb_5/__16.html)
+- [§ 256a SGB V – Beiträge aus Versorgungsbezügen](https://www.gesetze-im-internet.de/sgb_5/__256a.html)
+

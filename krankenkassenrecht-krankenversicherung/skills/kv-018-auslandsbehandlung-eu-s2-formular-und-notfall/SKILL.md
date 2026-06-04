@@ -1,47 +1,85 @@
 ---
 name: kv-018-auslandsbehandlung-eu-s2-formular-und-notfall
-description: "Krankenversicherung: Auslandsbehandlung EU S2 Formular und Notfall mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, Notfallbehandlung, Kostenerstattung und EU-Patientenrechte-Richtlinie."
 ---
 
-# Krankenversicherung: Auslandsbehandlung EU S2 Formular und Notfall
+# Auslandsbehandlung: EU, S2-Formular und Notfall
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Auslandsbehandlung EU S2 Formular und Notfall** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill klärt **GKV-Leistungen für Behandlungen im Ausland**: Notfallversorgung mit EHIC, geplante Behandlung mit S2-Genehmigung und Kostenerstattung nach EU-Patientenrechterichtlinie.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 13 SGB V** – Kostenerstattung (Auslandsbehandlung als Sonderfall)
+- **§ 18 SGB V** – Auslandsbehandlung: GKV zahlt wenn Behandlung im Inland nicht möglich/unzumutbar
+- **VO (EG) 883/2004** – Koordinierung der Systeme sozialer Sicherheit (EU)
+- **VO (EG) 987/2009** – Durchführungsverordnung
+- **Richtlinie 2011/24/EU** – EU-Patientenrechterichtlinie (grenzüberschreitende Gesundheitsversorgung)
+- **§ 140e SGB V** – Inanspruchnahme von Leistungen in EU/EWR (Umsetzung der Richtlinie)
+- S2-Formular (Genehmigung geplanter Behandlung im EU-Ausland)
+- Europäische Krankenversicherungskarte (EHIC) – Notfall und notwendige Behandlung
+
+## Fallübersicht
+
+| Situation | Rechtgrundlage | Anspruch |
+|-----------|---------------|----------|
+| Notfall im EU-Ausland | EHIC, VO 883/2004 | Wie Inländer im Behandlungsland |
+| Geplante Behandlung EU/EWR | S2-Formular (§ 18 SGB V analog) | Nur bei Genehmigung oder Kostenerstattung |
+| EU-Patientenrechterichtlinie | § 140e SGB V | Kostenerstattung auf dt. Kassenniveau |
+| Nicht-EU-Ausland | § 13 SGB V | Ausnahme: unaufschiebbar, notwendig |
+| Auslandsstudium, Entsendung | VO 883/2004 | Sonderregelungen, S1-Formular |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Notfallbehandlung im Ausland
+- EHIC-Karte gültig? (Ausgestellt von Kasse, kostenlos)
+- Im EU/EWR: Behandlung wie gesetzlich Versicherter des Gastlandes; kein Vorschuss nötig
+- Kosten direkt zwischen Kassen abgerechnet; Eigenanteil des Gastlandes trägt Versicherter
+- Nachträgliche Erstattung: wenn Notfall bezahlt wurde, Antrag bei Heimatkasse
+
+### Schritt 2 – Geplante Behandlung (S2-Formular)
+- S2-Antrag bei Heimatkasse stellen: ärztliche Begründung, Behandlungsplan, Kostenvoranschlag
+- Kasse genehmigt wenn Behandlung in Deutschland nicht zeitgerecht möglich (§ 20 VO 883/2004)
+- Ablehnung: Widerspruch; BSG-Maßstab: unzumutbare Wartezeit im Inland
+- S2 deckt Kosten ab, die im Gastland gesetzlich versicherte zahlen würden
+
+### Schritt 3 – EU-Patientenrechterichtlinie (§ 140e SGB V)
+- Recht auf Behandlung in jedem EU/EWR-Staat ohne S2-Genehmigung
+- Erstattung: in Höhe der deutschen Kassenleistung (nicht mehr als im Inland)
+- Kein Recht auf Erstattung über deutsches Leistungsniveau hinaus
+- Antrag nach Behandlung mit Rechnungen, Arztberichten
+
+### Schritt 4 – Nicht-EU-Ausland (§ 13 SGB V, § 18 SGB V)
+- § 18 SGB V: Behandlung im Ausland wenn in Deutschland nicht oder nicht rechtzeitig möglich
+- Sehr enge Voraussetzungen: Vorab-Genehmigung fast immer erforderlich
+- Notfall: unverzügliche Notfallversorgung, Erstattung auf deutschem Kassenniveau
+
+### Schritt 5 – Grenzgänger und entsandte Arbeitnehmer
+- S1-Formular: für Grenzgänger, entsandte AN, Rentner die im Ausland wohnen
+- Doppelter Leistungsanspruch möglich; Koordinierungsrecht beachten (skill kv-019)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **EHIC ≠ Reisekrankenversicherung**: EHIC deckt keinen Rücktransport, keine Repatriierung; separate Reisekrankenversicherung sinnvoll.
+- **Eigenanteil im Gastland**: Zuzahlungen des Gastlandes sind vom Versicherten zu tragen, auch wenn im Inland befreit.
+- **Nicht-kassenzugelassene Behandlung im EU-Ausland**: EU-Richtlinie deckt nur EU-Leistungen ab; experimentelle Therapien nicht erstattet.
+- **Zahnbehandlung im Ausland**: Grundsätzlich erstattungsfähig nach EU-Richtlinie; aber nur bis deutschem Festzuschuss.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- S2-Antrag (Mustertext)
+- Erstattungsantrag EU-Behandlung
+- Widerspruch gegen S2-Ablehnung
+- EHIC-Nutzungsanleitung
+- Kostenvergleich: Ausland vs. Inland
+
+## Quellen
+
+- [§ 18 SGB V – Auslandsbehandlung](https://www.gesetze-im-internet.de/sgb_5/__18.html)
+- [§ 140e SGB V – EU-Patientenrechte](https://www.gesetze-im-internet.de/sgb_5/__140e.html)
+- [VO (EG) 883/2004](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0883)
+- [Richtlinie 2011/24/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0024)
+- [GKV-Spitzenverband Ausland](https://www.gkv-spitzenverband.de)
+- [Europäische Kommission EHIC](https://ec.europa.eu/social/main.jsp?catId=559)
+- [dejure.org § 18 SGB V](https://dejure.org/gesetze/SGB_V/18.html)

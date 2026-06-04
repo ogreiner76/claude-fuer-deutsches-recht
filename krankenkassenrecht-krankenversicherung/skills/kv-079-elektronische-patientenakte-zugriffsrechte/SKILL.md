@@ -1,47 +1,85 @@
 ---
 name: kv-079-elektronische-patientenakte-zugriffsrechte
-description: "Krankenversicherung: Elektronische Patientenakte Zugriffsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen."
 ---
 
-# Krankenversicherung: Elektronische Patientenakte Zugriffsrechte
+# Elektronische Patientenakte: Zugriffsrechte
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Elektronische Patientenakte Zugriffsrechte** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die elektronische Patientenakte (ePA) wird ab 2025 für alle GKV-Versicherten angelegt. Dieser Skill klärt **Zugriffsrechte, Datenschutzkontrolle, opt-out und Pflichten der beteiligten Akteure**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 341 SGB V** – Elektronische Patientenakte: Inhalt, Zugriffsrechte, Datenschutz
+- **§ 342 SGB V** – Nutzung der ePA durch Versicherte und Leistungserbringer
+- **§ 344 SGB V** – Datenschutzrechte in der ePA
+- **§ 360 SGB V** – eRezept (Schnittstelle ePA)
+- **DSGVO Art. 9** – Gesundheitsdaten als besondere Datenkategorie
+- **TSGB** (Patientendaten-Schutz-Gesetz 2020) – Grundlage ePA
+- BfDI (Bundesdatenschutzbeauftragter): Stellungnahmen zur ePA
+- Gematik GmbH: technischer Betreiber der Telematik-Infrastruktur
+
+## ePA-Zugriffsrechte im Überblick
+
+| Akteur | Zugriffsrecht | Beschränkung |
+|--------|--------------|--------------|
+| Versicherter | Voller Zugriff auf eigene Daten | – |
+| Arzt / Zahnarzt | Lesend und schreibend bei Einwilligung | Nur für Behandlung |
+| Apotheke | Lesend (Medikationsplan) bei Einwilligung | Zeitlich begrenzt |
+| Krankenhaus | Wie Arzt bei stationärer Behandlung | Behandlungszeitraum |
+| Krankenkasse | Nur Verwaltungsdaten; KEINE Behandlungsdaten | Strenge Trennung |
+| Arbeitgeber | KEIN Zugriff | Absolut verboten |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – opt-out-Erklärung
+- Ab 2025: ePA automatisch angelegt
+- Widerspruch (opt-out): schriftlich bei der Kasse; begründungslos möglich
+- Widerspruch führt zur Nicht-Anlage der ePA; rückwirkende Löschung möglich
+
+### Schritt 2 – Zugriffsrechte verwalten
+- Welcher Arzt darf welche Daten sehen?
+- App der Kasse oder Kiosk-System: Zugriffsrechte granular einstellen
+- Zeitliche Begrenzung: Zugriff nur für Behandlungszeitraum; danach abschalten
+- Daten löschen: einzelne Dokumente löschbar; nicht alle (Pflichtdaten wie Medikationsplan)
+
+### Schritt 3 – Sicherheit und Missbrauch
+- Datenmissbrauch durch Arzt: strafbar (§ 203 StGB, DSGVO); Beschwerde bei Datenschutzbehörde
+- Datenpanne: Gematik und Kasse müssen informieren (DSGVO Art. 34)
+- Technische Sicherheit: Ende-zu-Ende-Verschlüsselung; keine Speicherung im Klartext
+
+### Schritt 4 – ePA-Inhalte
+- Befunde: ärztliche Dokumente, Laborbefunde, Arztbriefe
+- Medikationsplan: alle verordneten Medikamente (Aktualisierung durch Apotheke)
+- Mutterpass, Impfpass, Zahnbonusheft: integrierbar
+- DiGA-Daten: nur mit separater Einwilligung
+
+### Schritt 5 – Forschungszugang
+- Pseudonymisierte Daten für medizinische Forschung: opt-out möglich
+- Datentransparenzgesetz: GKV-Daten für Forschungszwecke (pseudonymisiert)
+- Opt-out-Erklärung: bei Kasse oder national (Datentransparenz)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **opt-out und ePA**: Wer widerspricht, verliert auch Vorteile (zentrale Medikationsliste); individuelle Abwägung.
+- **Arzt sieht alle Daten**: Nur wenn Versicherter freigibt; Einschränkung möglich auf bestimmte Bereiche.
+- **Kasse sieht Behandlungsdaten**: VERBOTEN; nur administrative Daten (Beiträge, Mitgliedschaft); Verstoß meldepflichtig.
+- **Vererbung der ePA**: Nach Tod kein automatischer Zugang für Erben; Sonderlösung nötig.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- ePA-opt-out-Schreiben
+- Zugriffsberechtigungs-Übersicht
+- Datenmissbrauch-Beschwerde (BfDI)
+- Forschung-opt-out
+- ePA-Erklärungsblatt (Laienerklärung)
+
+## Quellen
+
+- [§ 341 SGB V – ePA](https://www.gesetze-im-internet.de/sgb_5/__341.html)
+- [§ 344 SGB V – Datenschutzrechte](https://www.gesetze-im-internet.de/sgb_5/__344.html)
+- [Gematik ePA](https://www.gematik.de/anwendungen/e-patientenakte/)
+- [BfDI ePA-Stellungnahmen](https://www.bfdi.bund.de)
+- [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
+- [dejure.org § 341 SGB V](https://dejure.org/gesetze/SGB_V/341.html)

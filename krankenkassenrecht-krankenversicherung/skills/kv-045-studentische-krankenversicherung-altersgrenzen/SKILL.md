@@ -1,47 +1,80 @@
 ---
 name: kv-045-studentische-krankenversicherung-altersgrenzen
-description: "Krankenversicherung: Studentische Krankenversicherung Altersgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen."
 ---
 
-# Krankenversicherung: Studentische Krankenversicherung Altersgrenzen
+# Studentische Krankenversicherung: Altersgrenzen
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Studentische Krankenversicherung Altersgrenzen** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber nur bis zu bestimmten Altersgrenzen. Dieser Skill klärt **Altersgrenzen, Fachsemesterlimits, Übergangslösungen und Folgen des Versicherungsendes**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 9 SGB V** – Versicherungspflicht Studierender an staatlich anerkannten Hochschulen
+- **§ 5 Abs. 1 Nr. 9 Satz 2 SGB V** – Altersgrenzen und Semesterlimit
+- **§ 190 Abs. 9 SGB V** – Ende der Mitgliedschaft bei Exmatrikulation
+- **§ 9 SGB V** – Freiwillige Weiterversicherung nach Studienende
+- **§ 226 SGB V** – Beitragsbemessung (Mindestbeitrag für Studierende)
+- BSG B 12 KR 9/10 R (Studentische KV, Urlaubssemester), BSG B 12 KR 6/15 R
+
+## Grenzwerte Studentische KV
+
+| Parameter | Wert |
+|-----------|------|
+| Altersgrenze | 25. Lebensjahr (d.h. bis zum Ende des Semesters in dem 25 wird) |
+| Fachsemesterlimit | 14. Fachsemester |
+| Beitrag (2025) | Einheitlich ca. 106 €/Monat (ca. 14,6 % von Mindestbemessungsgrundlage) |
+| Urlaubssemester | Zählen für Alters-/Semesterlimit |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Altersgrenzen prüfen
+- Vollendung des 25. Lebensjahres: Ende der studentischen KV zum Ende des Semesters
+- Verlängerung bei Ableistung von Wehr-/Bundesfreiwilligendienst (§ 5 Abs. 1 Nr. 9 Satz 3 SGB V): je nach Dauer
+- Behinderung: keine Altersgrenze wenn Behinderung Studium verzögert hat
+
+### Schritt 2 – Fachsemesterlimit
+- Nach dem 14. Fachsemester: Ende der studentischen KV, auch wenn unter 25
+- Urlaubssemester zählen mit (BSG bestätigt)
+- Ausnahmsweise Verlängerung: wenn studienzeitverlängernd gewirkt hat (Krankheit, Behinderung, Gremientätigkeit)
+
+### Schritt 3 – Übergang nach Studienende
+- Exmatrikulation oder Ablauf Grenzen → freiwillige Versicherung (§ 9 SGB V): 3 Monate Beitrittsfrist
+- Noch kein Job? Freiwillig versichern mit Mindestbeitrag
+- Job sofort: Pflichtmitglied als Arbeitnehmer (§ 5 Abs. 1 Nr. 1 SGB V)
+- Familienversicherung möglich wenn Elternteil GKV und Einkommen unter 505 €/Monat
+
+### Schritt 4 – Beitrag Studierender
+- Einheitlicher Beitrag ca. 106 €/Monat (Beitrag + Zusatzbeitrag)
+- Bei Nebentätigkeit: ab gewisser Höhe erhöhter Beitrag; unter 520 €/Monat kein Einfluss
+- Hauptberufliche Selbstständigkeit neben Studium: Versicherungsfreiheit prüfen (§ 5 Abs. 5)
+
+### Schritt 5 – Auslandssemester
+- Pflichtversicherung gilt auch bei Auslandssemester an EU-Hochschule (EHIC)
+- Außereuropäisches Ausland: prüfen ob EHIC gilt; ggf. Zusatzversicherung
+- Auslandspraktikum > 3 Monate: Pflichtversicherung kann enden → freiwillige Weitervesicherung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Urlaubssemester als Fachsemester**: Viele Studierende wissen nicht, dass Urlaubssemester zählen.
+- **Exmatrikulations-Zeitpunkt**: Mitgliedschaft endet nicht mit Exmatrikulation, sondern mit Ende des Prüfungssemesters.
+- **Abschluss und Lücke**: Wer abschlussarbeitet, aber noch eingeschrieben ist: Pflichtversicherung läuft; nach Exmatrikulation sofort handeln.
+- **PKV für Studierende**: Günstiger als freiwillige GKV; aber Rückkehr schwieriger; Langzeitperspektive bedenken.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Altersgrenzen-Fristenkalender
+- Exmatrikulationsbescheinigung-Checkliste
+- Freiwillige GKV-Antrag nach Studium
+- Studierendenversicherungs-Berechnung
+- Informationsblatt Auslandssemester-Versicherung
+
+## Quellen
+
+- [§ 5 SGB V Nr. 9 – Studierende](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 190 SGB V – Ende der Mitgliedschaft](https://www.gesetze-im-internet.de/sgb_5/__190.html)
+- [§ 9 SGB V – Freiwillige Versicherung](https://www.gesetze-im-internet.de/sgb_5/__9.html)
+- [BSG studentische KV](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [GKV-Spitzenverband Studierende](https://www.gkv-spitzenverband.de)
+- [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)

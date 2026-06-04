@@ -1,47 +1,90 @@
 ---
 name: kv-055-versicherte-im-ausland-lebend-deutsche-rente
-description: "Krankenversicherung: Versicherte im Ausland lebend deutsche Rente mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen."
 ---
 
-# Krankenversicherung: Versicherte im Ausland lebend deutsche Rente
+# Versicherte im Ausland lebend mit deutscher Rente
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Versicherte im Ausland lebend deutsche Rente** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe Krankenversicherungsansprüche. Dieser Skill klärt **Leistungsansprüche, zuständige Träger und praktische Umsetzung**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 11 SGB V** – KVdR auch für auslandswohnende Rentner
+- **VO (EG) 883/2004 Art. 23, 24** – Rentenempfänger im Ausland: Leistungsanspruch im Wohnstaat
+- **§ 140e SGB V** – EU-Patientenrechte
+- **S1-Formular** – Registrierung im Wohnstaat für vollständige Leistungen
+- Bilaterale Sozialversicherungsabkommen (z.B. mit USA, Türkei, Kanada)
+- BSG B 12 KR 8/16 R (KVdR-Anspruch Auslandsrenter)
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – KVdR-Anspruch auch im Ausland
+- Deutsche Rente + GKV-Vorversicherungszeit → KVdR-Mitgliedschaft auch wenn im EU-Ausland wohnhaft
+- Beitrag: wird von Rentenversicherungsträger einbehalten (§ 256 SGB V)
+- Kasse in Deutschland bleibt Mitgliedskasse
+
+### Schritt 2 – S1-Formular für EU-Auslandsrentner
+- S1 ausstellen lassen: bei der GKV-Kasse in Deutschland
+- Im Wohnstaat registrieren: Krankenversicherungsträger des Wohnstaates
+- Ergebnis: Voller Leistungsanspruch nach dem Recht des Wohnstaates
+- Rückvergütung: Wohnstaat rechnet mit Deutschland ab
+
+### Schritt 3 – Behandlung im Wohnstaat
+- Versicherter erhält Leistungen wie Einheimische des Wohnstaates
+- Eigenbeteiligungen des Wohnstaates sind zu zahlen (nicht durch deutsche GKV erstattet)
+- Geplante Behandlung in Deutschland: wie Inländer; Kasse trägt Kosten
+
+### Schritt 4 – Nicht-EU-Ausland
+- Bilaterale Abkommen: z.B. D-Türkei → gegenseitige Leistungsansprüche
+- Länder ohne Abkommen (USA, Australien): kein gegenseitiger Anspruch; freiwillige GKV-Mitgliedschaft in Deutschland möglich
+- GKV-Mitglied im Ausland ohne Abkommen: Leistungen nur in Deutschland; teuer
+
+### Schritt 5 – Freiwillige GKV für Auslandsrentner
+- KVdR nicht erfüllbar (Vorversicherungszeit fehlt) → freiwillige GKV
+- Wohnsitz im Ausland: GKV zahlt grundsätzlich nur in Deutschland; Auslandsleistungen eingeschränkt
+- Alternative: lokale Krankenversicherung im Wohnstaat + freiwillige GKV für Deutschland-Aufenthalte
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **S1 nicht beantragt**: Rentner wohnt im EU-Ausland ohne S1 → voller Leistungsanspruch dort entgeht; nur Notfallversorgung mit EHIC.
+- **Unterschied EHIC/S1**: EHIC für vorübergehende Aufenthalte; S1 für dauerhaften Wohnort.
+- **Pflegeversicherung im Ausland**: Ähnliche Regelungen wie KV; PV zahlt bei dauerhaftem EU-Aufenthalt an Wohnstaatträger.
+- **Rückkehr nach Deutschland**: KVdR bleibt; Leistungen sofort in Deutschland abrufbar.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- S1-Antrag (Muster)
+- KVdR-Anspruchscheck für Auslandsrentner
+- Bilaterale Abkommens-Übersicht
+- Leistungsüberblick EU-Ausland-Rentner
+- Kassenanschreiben (S1-Registrierung)
+
+## Quellen
+
+- [§ 5 SGB V – KVdR](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [VO (EG) 883/2004 Art. 23–24](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0883)
+- [Deutsche Verbindungsstelle Krankenversicherung Ausland (DVKA)](https://www.dvka.de)
+- [S1-Formular Informationen](https://www.dvka.de)
+- [BSG Auslandsrentner](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+## Schritt 6 – Rückkehr nach Deutschland und Statusänderung
+
+- Bei Rückkehr nach Deutschland endet S1-Registrierung im Ausland
+- KVdR-Mitgliedschaft in Deutschland bleibt bestehen; Leistungsanspruch sofort aktiv
+- Wohnortwechsel der Kasse melden (§ 175 SGB V analog)
+- Pflegeversicherungsansprüche prüfen (§ 34 SGB XI für Auslandsaufenthalte)
+
+## Hinweis: Pflegeversicherung im Ausland
+
+- Gleiche Koordinierungsregeln wie Krankenversicherung (VO 883/2004 Art. 35)
+- Pflegegeld bei dauerhaftem EU-Aufenthalt: Zahlung an Wohnstaatträger, dort nach lokalem Recht
+- Bei Nicht-EU-Ausland ohne Abkommen: kein Anspruch auf Pflegeleistungen im Wohnstaat
+
+## Weiterführende Quellen (ergänzend)
+
+- [§ 256 SGB V – Beitragseinbehalt Rentenversicherungsträger](https://www.gesetze-im-internet.de/sgb_5/__256.html)
+- [DVKA – Deutsche Verbindungsstelle Krankenversicherung Ausland](https://www.dvka.de)
+- [VO (EG) 987/2009 – Durchführungsverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009R0987)
+

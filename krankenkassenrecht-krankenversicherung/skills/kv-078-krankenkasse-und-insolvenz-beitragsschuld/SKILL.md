@@ -1,47 +1,81 @@
 ---
 name: kv-078-krankenkasse-und-insolvenz-beitragsschuld
-description: "Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse."
 ---
 
-# Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld
+# Krankenkasse und Insolvenz: Beitragsschuld
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Krankenkasse und Insolvenz Beitragsschuld** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beitragsschulden bei der Krankenversicherung können erheblich sein. In der Insolvenz stellen sich besondere Fragen. Dieser Skill klärt **Rang der Beitragsschulden, Insolvenzverfahren, Restschuldbefreiung und Krankenversicherungsschutz während Insolvenz**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 38 InsO** – Insolvenzforderungen (vor Insolvenzeröffnung)
+- **§ 55 InsO** – Masseverbindlichkeiten (nach Insolvenzeröffnung)
+- **§ 286 InsO** – Restschuldbefreiung
+- **§ 302 InsO** – Ausnahmen von der Restschuldbefreiung (vorsätzliche unerlaubte Handlungen; gilt für Sozialversicherungsbeiträge? → BSG prüfen)
+- **§ 25 SGB IV** – Verjährung Beitragsansprüche (4 Jahre, vorsätzlich: 30 Jahre)
+- **§ 24 SGB IV** – Säumniszuschlag
+- BSG B 12 KR 26/09 R (Insolvenz und GKV-Beiträge)
+
+## Insolvenzrechtliche Einordnung GKV-Beiträge
+
+| Zeitraum | Insolvenzrechtliche Einordnung |
+|----------|-------------------------------|
+| Beiträge vor Insolvenzeröffnung | Insolvenzforderungen (§ 38 InsO); quotal befriedigt |
+| Beiträge nach Eröffnung (Selbstständiger) | Masseverbindlichkeiten (§ 55 InsO); vorrangig |
+| Angestelltenanteil (AG-Pflicht) | Masseforderung wenn nach Eröffnung |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Beitragsschulden zeitlich einordnen
+- Welche Beitragsschulden entstanden vor Insolvenzeröffnung? → Insolvenzforderung
+- Welche entstanden nach Eröffnung? → Masseverbindlichkeit oder neue Pflichtmitgliedschaft
+- GKV muss Insolvenzforderungen beim Insolvenzverwalter anmelden
+
+### Schritt 2 – Krankenversicherung im Insolvenzverfahren
+- Pflichtmitglied bleibt pflichtmitglied; kein Ruhen der Mitgliedschaft
+- Freiwillig Versicherter: Beitragsrückstand → Leistungsruhen (§ 16 Abs. 3a SGB V) weiterhin möglich
+- Insolvenzverwalter zahlt laufende Beiträge aus Masse (wenn vorhanden)
+
+### Schritt 3 – Restschuldbefreiung
+- § 286 InsO: nach 3 Jahren wird Versicherter von Restschulden befreit
+- GKV-Beitragsschulden: grundsätzlich von Restschuldbefreiung umfasst
+- Ausnahme § 302 InsO: nur bei vorsätzlicher unerlaubter Handlung; strittig ob GKV-Beiträge hierunter fallen
+- BSG: keine generelle Ausnahme für Sozialversicherungsbeiträge von Restschuldbefreiung
+
+### Schritt 4 – Verhalten der GKV im Insolvenzverfahren
+- GKV kann eigene Versicherungsschutzpflicht während Insolvenz nicht einstellen
+- Beitragseinzug: über Insolvenzverwalter für Masseverbindlichkeiten
+- Leistungsruhen möglich aber Akutversorgung immer
+- Kasse sollte Schuldenbescheid nicht erlassen während laufendem Insolvenzverfahren
+
+### Schritt 5 – Nach Restschuldbefreiung
+- Schulden erlöschen mit Restschuldbefreiung
+- Neue GKV-Mitgliedschaft auf sauberem Stand
+- PKV: Schulden erlöschen ebenfalls; aber Neuvertrag erfordert Risikoprüfung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Säumniszuschläge in Insolvenz**: Laufen weiter solange nicht Insolvenzforderung; sorgfältig abgrenzen.
+- **Freiwillig Versicherter und Selbstständige**: Beiträge als Masseverbindlichkeit wenn Selbstständigkeit fortgesetzt; erhebliche Priorität für Insolvenzverwalter.
+- **GKV kündigt Mitgliedschaft**: Nicht möglich; Pflichtmitgliedschaft kann nicht wegen Insolvenz beendet werden.
+- **Strafrecht und Beitragsschulden**: Vorsätzliche Beitragshinterziehung (§ 266a StGB); auch GKV-Beiträge umfasst.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Insolvenzforderungsanmeldung (GKV-intern)
+- Restschuldbefreiungsantrag mit GKV-Schuldenübersicht
+- Stundungsantrag während Insolvenz
+- Masseverbindlichkeits-Berechnung
+- Post-Insolvenz GKV-Neustartplanung
+
+## Quellen
+
+- [§ 38 InsO – Insolvenzforderungen](https://www.gesetze-im-internet.de/inso/__38.html)
+- [§ 286 InsO – Restschuldbefreiung](https://www.gesetze-im-internet.de/inso/__286.html)
+- [§ 25 SGB IV – Verjährung](https://www.gesetze-im-internet.de/sgb_4/__25.html)
+- [BSG B 12 KR 26/09 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 286 InsO](https://dejure.org/gesetze/InsO/286.html)
+- [§ 302 InsO – Ausnahmen](https://www.gesetze-im-internet.de/inso/__302.html)

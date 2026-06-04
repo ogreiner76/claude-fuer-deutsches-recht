@@ -1,47 +1,85 @@
 ---
 name: kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht
-description: "Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung."
 ---
 
-# Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht
+# PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht**: Wer Gesundheitsfragen falsch beantwortet, riskiert Vertragsanfechtung oder Leistungsausschluss. Dieser Skill klärt Pflichten, Grenzen und Rechtsbehelfe.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 19 VVG** – Anzeigepflicht vor Vertragsschluss (gefahrerhebliche Umstände)
+- **§ 20 VVG** – Ausschluss der Anzeigepflichtverletzung bei Kenntnis des Versicherers
+- **§ 21 VVG** – Rücktritt und Kündigung wegen Anzeigepflichtverletzung
+- **§ 22 VVG** – Anfechtung wegen arglistiger Täuschung
+- **§ 28 VVG** – Obliegenheiten, Kausalitätsprinzip
+- **§ 194 VVG** – Leistungspflicht PKV (Grundsatz medizinische Notwendigkeit)
+- **MB/KK 2009** §§ 1–10 (Musterbedingungen PKV)
+- BGH IV ZR 91/14 (Anzeigepflichtverletzung, Kausalität), BGH IV ZR 311/14
+
+## Prüfschema Anzeigepflichtverletzung
+
+| Stufe | Versicherer-Recht | Voraussetzung |
+|-------|------------------|---------------|
+| Arglist (§ 22 VVG) | Anfechtung, Rückwirkend ex tunc | Vorsätzliche Täuschungsabsicht |
+| Vorsatz (§ 21 Abs. 1 VVG) | Rücktritt ohne Frist | Bewusst unwahre Antwort |
+| Grobe Fahrlässigkeit | Rücktritt; Leistungskürzung möglich | Hätte wissen müssen |
+| Einfache Fahrlässigkeit | Nur Kündigung mit Frist | Versehen, ohne Gewissen |
+| Keine Fahrlässigkeit | Kein Recht; nur Prämienanpassung | Unkenntnis ohne Verschulden |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Gesundheitsfragen im Antrag analysieren
+- Welche Fragen wurden gestellt? (Genaue Formulierung entscheidend)
+- Zeitraum: Meist 3–5 Jahre, manchmal 10 Jahre rückwirkend
+- Diagnosen, Behandlungen, Krankenhausaufenthalte, Medikamente
+- Unbewusst vergessene Erkrankungen: kein Vorsatz, möglicherweise keine Fahrlässigkeit
+
+### Schritt 2 – Kausalitätsprüfung
+- § 21 Abs. 2 VVG: Kein Rücktrittsrecht wenn verschwiegener Umstand für den Versicherungsfall nicht kausal war
+- Beispiel: Rücken-Vorerkrankung verschwiegen → Herzinfarkt → kein Kausalzusammenhang → kein Rücktritt wegen Herzbehandlung
+- Kausalität muss der Versicherer nachweisen
+
+### Schritt 3 – Fristen prüfen
+- Rücktrittsrecht: 1 Monat nach Kenntnis der Verletzung (§ 21 Abs. 1 Satz 2 VVG)
+- Anfechtungsrecht Arglist: keine Verjährung, aber verwirkt bei langem Zuwarten
+- Absolute Grenze: Vertrag besteht 10 Jahre → kein Rücktritt mehr, nur Kündigung
+
+### Schritt 4 – Verteidigung gegen Rücktritt
+- War Frage unklar formuliert? (ambigue Formulierungen gehen zu Lasten des Versicherers)
+- Hat Versicherer Risiko von sich aus im Antragsgespräch ausgeblendet? (§ 20 VVG)
+- Untersuchung durch Arzt des Versicherers: Arzt hätte Erkrankung feststellen müssen?
+- Eigenrecherche: PKV durfte eigene Voruntersuchung vornehmen; Pflicht dann weniger streng
+
+### Schritt 5 – Leistungsausschluss als Alternative
+- Statt Rücktritt: Versicherer bietet Vertragserhaltung mit Risikoausschluss (§ 19 Abs. 4 VVG)
+- Risikoausschluss: Versicherungsschutz ausgenommen für bestimmte Erkrankung
+- Sollte bevorzugt werden: Versicherungsschutz bleibt für alles andere erhalten
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Bagatellerkrankungen vergessen**: Erkältungen, banale Beschwerden sind keine anzeigegefahrenerhebliche Umstände; nicht jede Arztbesuche muss angegeben werden.
+- **Psychische Erkrankungen**: Besonders häufig Streitpunkt; Depression, Burnout gelten als anzeigeerheblich.
+- **Rückwirkende Anfechtung**: Versicherer zahlt gar nichts zurück und verlangt alle Prämien; Klage auf Rückzahlung.
+- **Maklerformular ≠ Versicherungsformular**: Angaben beim Makler binden nur wenn an Versicherer weitergeleitet.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Anzeigepflicht-Checkliste (Antragsvorbereitung)
+- Widerspruch gegen Vertragsanfechtung
+- Kausalitätsanalyse (Erkrankung vs. Versicherungsfall)
+- Klageschrift gegen PKV-Rücktritt
+- Risikoausschluss-Verhandlungsstrategie
+
+## Quellen
+
+- [§ 19 VVG – Anzeigepflicht](https://www.gesetze-im-internet.de/vvg_2008/__19.html)
+- [§ 21 VVG – Rücktrittsrecht](https://www.gesetze-im-internet.de/vvg_2008/__21.html)
+- [§ 22 VVG – Arglistanfechtung](https://www.gesetze-im-internet.de/vvg_2008/__22.html)
+- [BGH IV ZR 91/14](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [MB/KK 2009 – PKV-Musterbedingungen](https://www.pkv.de)
+- [dejure.org § 19 VVG](https://dejure.org/gesetze/VVG/19.html)
+- [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)

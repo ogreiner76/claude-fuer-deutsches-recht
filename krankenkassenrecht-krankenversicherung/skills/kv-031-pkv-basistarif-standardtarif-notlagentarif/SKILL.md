@@ -1,47 +1,85 @@
 ---
 name: kv-031-pkv-basistarif-standardtarif-notlagentarif
-description: "Krankenversicherung: PKV Basistarif Standardtarif Notlagentarif mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten."
 ---
 
-# Krankenversicherung: PKV Basistarif Standardtarif Notlagentarif
+# PKV: Basistarif, Standardtarif und Notlagentarif
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **PKV Basistarif Standardtarif Notlagentarif** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basistarif, Standardtarif und Notlagentarif** bieten reduzierte Beiträge gegen eingeschränkte Leistungen. Dieser Skill klärt die Voraussetzungen, den Leistungsumfang und Wechselmöglichkeiten.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 152 VAG** – Basistarif: Leistungsumfang wie GKV; keine Risikoprüfung
+- **§ 153 VAG** – Notlagentarif: bei Beitragsrückstand > 2 Monate
+- **§ 193 Abs. 5 VVG** – Wechselrecht in Basistarif
+- **§ 204 VVG** – Tarifwechsel innerhalb desselben Versicherers
+- **§ 12 Abs. 1a VVG a.F.** – Standardtarif für Altverträge (vor 2009)
+- Basistarif-Leistungsverordnung (BT-LV)
+- BGH IV ZR 117/18 (Basistarif und Beitragsberechnung), BVerfG 1 BvR 2019/17
+
+## Vergleich der Tarife
+
+| Tarif | Beitrag | Leistung | Wechselmögl. | Personenkreis |
+|-------|---------|----------|--------------|---------------|
+| Basistarif | Max. GKV-Höchstbeitrag | GKV-Niveau | Jederzeit für Berechtigte | PKV-Versicherte ohne andere Option |
+| Standardtarif | Begrenzt | Definierter Umfang | Nur für Altverträge | PKV-Versicherte vor 2009 |
+| Notlagentarif | Niedrig | Nur Akutbehandlung | Automatisch bei Rückstand | Säumige PKV-Versicherte |
+| Normaltarif | Marktpreis | Vollumfänglich | Nach Antragsprüfung | Neuverträge |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Basistarif-Anspruch (§ 152 VAG)
+- Wer hat Anspruch auf Wechsel in Basistarif?
+  - PKV-Versicherte ohne anderweitigen Pflichtversicherungsanspruch
+  - Versicherungspflichtige ohne KV-Schutz (Auffangpflichtversicherung)
+  - GKV-Versicherte, die in PKV wechseln (nur Neuabschluss)
+- Keine Risikoprüfung: PKV muss jeden aufnehmen
+- Beitrag: max. allgemeiner GKV-Beitragssatz (14,6 %) * Beitragsbemessungsgrenze
+
+### Schritt 2 – Leistungsumfang Basistarif
+- GKV-ähnlich (Basisleis-Verordnung)
+- KEIN Zusatzschutz (Einzel-/Zweibettzimmer, Chefarzt)
+- Heilpraktiker und alternative Methoden: grundsätzlich ausgeschlossen
+- Wichtig: Leistungen nach GKV-Standards, nicht nach GOÄ
+
+### Schritt 3 – Notlagentarif (§ 153 VAG)
+- Automatischer Wechsel bei Beitragsrückstand > 2 Monate
+- Leistungen: nur Akutbehandlung, Schmerzen, Schwangerschaft (wie GKV-Ruhen)
+- Beitrag: reduzierter Beitrag; aber Schulden laufen weiter
+- Rückkehr: Begleichung aller Schulden inkl. Notlagentarifbeiträge
+
+### Schritt 4 – Rückkehr aus Notlagentarif
+- Vollständige Zahlung aller Rückstände + Notlagentarifbeiträge
+- Übergang automatisch zurück in Normaltarif (oder Basistarif wenn beantragt)
+- Sozialamt oder Grundsicherung: können Beitragsübernahme gewähren
+
+### Schritt 5 – Standardtarif (Altverträge)
+- Nur für PKV-Verträge abgeschlossen vor 1. Januar 2009
+- Begrenzter Personenkreis: Versicherte ab 65 oder bei langer Mitgliedschaft
+- Heute seltener relevant; Basistarif hat Standardtarif weitgehend verdrängt
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Basistarif und GOÄ**: Ärzte müssen für Basistarif-Patienten GKV-Vergütung akzeptieren (§ 75 Abs. 3a SGB V) – kein GOÄ-Honorar.
+- **Rückkehr in Normaltarif aus Basistarif**: Neue Risikoprüfung kann verlangt werden; Zuschläge oder Ausschlüsse möglich.
+- **Notlagentarif dauert an**: Ohne Bereinigung der Schulden kein Entkommen.
+- **Wechsel und Wartezeiten**: Basistarif-Wechsel ohne neue Wartezeiten; aber Leistungseinschränkungen sofort.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Basistarif-Wechselantrag
+- Notlagentarif-Schuldenbereinigungsplan
+- Leistungsvergleich Normal-/Basistarif
+- Sozialamt-Übernahmeantrag (PKV-Beiträge)
+- Rückkehr Normaltarif – Antrag
+
+## Quellen
+
+- [§ 152 VAG – Basistarif](https://www.gesetze-im-internet.de/vag_2016/__152.html)
+- [§ 153 VAG – Notlagentarif](https://www.gesetze-im-internet.de/vag_2016/__153.html)
+- [§ 193 VVG – Wechsel](https://www.gesetze-im-internet.de/vvg_2008/__193.html)
+- [BVerfG 1 BvR 2019/17](https://www.bverfg.de/entscheidungen.html)
+- [PKV-Verband Tarife](https://www.pkv.de)
+- [dejure.org § 152 VAG](https://dejure.org/gesetze/VAG/152.html)

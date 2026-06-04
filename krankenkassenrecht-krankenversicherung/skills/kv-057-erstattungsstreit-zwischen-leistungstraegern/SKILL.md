@@ -1,47 +1,92 @@
 ---
 name: kv-057-erstattungsstreit-zwischen-leistungstraegern
-description: "Krankenversicherung: Erstattungsstreit zwischen Leistungsträgern mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung."
 ---
 
-# Krankenversicherung: Erstattungsstreit zwischen Leistungsträgern
+# Erstattungsstreit zwischen Leistungsträgern
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Erstattungsstreit zwischen Leistungsträgern** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träger zuständig wäre, entstehen **Erstattungsansprüche zwischen den Trägern** nach §§ 102 ff. SGB X. Dieser Skill klärt diese Ansprüche und ihre Auswirkungen auf den Versicherten.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 102 SGB X** – Erstattungsanspruch bei nachrangiger Verpflichtung
+- **§ 103 SGB X** – Erstattungsanspruch bei vorläufiger Leistung
+- **§ 104 SGB X** – Erstattungsanspruch des nachrangigen Leistungsträgers
+- **§ 105 SGB X** – Erstattungsanspruch bei unzuständiger Bearbeitung
+- **§ 111 SGB X** – Frist: Anmeldung innerhalb 12 Monate
+- **§ 113 SGB X** – Verjährung: 4 Jahre nach Entstehung
+- **§ 14 SGB IX** – Erstattungspflicht des erstangegangenen Reha-Trägers
+- BSG B 3 P 7/05 R (Erstattungsstreit GKV/PV), BSG B 1 KR 10/07 R
+
+## Erstattungsansprüche-Matrix
+
+| Anspruchsart | Rechtsgrundlage | Voraussetzung |
+|-------------|-----------------|---------------|
+| Nachrangigkeit | § 102 SGB X | Träger A leistet; Träger B wäre primär zuständig |
+| Vorläufige Leistung | § 103 SGB X | Vorläufig Leistender; späteres Endurteil zugunsten anderer Träger |
+| Unzuständige Bearbeitung | § 105 SGB X | Träger A bearbeitet Antrag, obwohl Träger B zuständig |
+| Reha-Erstattung | § 14 SGB IX | Erstangegangener muss leisten; Regress bei eigentlich Zuständigen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Wer hat geleistet?
+- GKV hat Krankenhausbehandlung bezahlt; war eigentlich Unfallversicherung zuständig?
+- PV hat Pflegeleistungen bezahlt; war eigentlich GKV (Behandlungspflege) zuständig?
+- AG hat Entgeltfortzahlung geleistet; dann § 6 EFZG-Übergang auf Kasse
+
+### Schritt 2 – Erstattungsanspruch anmelden
+- Träger A muss Anspruch bei Träger B innerhalb 12 Monate anmelden (§ 111 SGB X)
+- Versäumnis: Anspruch erlischt!
+- Form: schriftlich, konkret (Versicherter, Leistungszeit, Leistungsart)
+
+### Schritt 3 – Auswirkungen auf Versicherten
+- Versicherter hat in der Regel keinen Nachteil: Träger regeln intern
+- Aber: wenn GKV Leistungen verweigert weil BG zuständig sein soll → GKV muss vorleisten (§ 105)
+- Versicherter sollte beide Träger gleichzeitig informieren
+
+### Schritt 4 – Verjährung
+- 4 Jahre ab Entstehung des Anspruchs (§ 113 SGB X)
+- Kenntnis nicht erforderlich für Verjährungsbeginn (anders als § 199 BGB)
+
+### Schritt 5 – Regresskoordination
+- § 116 SGB X: Schadensersatz-Übergang auf Kasse bei Behandlungsfehler
+- Verletztengeld-Erstattung: BG zahlt, GKV hatte vorher Krankengeld geleistet → BG erstattet GKV
+- Koordination über § 105–116 SGB X
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **12-Monats-Ausschlussfrist**: Träger vergisst Anmeldung → Anspruch verloren; bei großen Beträgen sehr kritisch.
+- **Streit über Zuständigkeit**: Träger A sagt „Träger B zuständig"; Träger B sagt „Träger A zuständig" → Versicherter steht ohne Leistung da → beide Träger gleichzeitig beantragen.
+- **GKV nimmt SGB-IX-§ 14 nicht wahr**: Erstangegangener Reha-Träger muss leisten und kann dann Regress nehmen; GKV lehnt ab trotzdem.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Träger-Informationsschreiben (gleichzeitig an beide)
+- Erstattungsanmeldungs-Protokoll (für GKV-intern)
+- Widerspruch gegen GKV-Ablehnung mit Hinweis auf § 105 SGB X
+- Zeitplan Erstattungsanmeldung
+- Träger-Koordinierungs-Matrix
+
+## Quellen
+
+- [§ 102 SGB X – Erstattungsansprüche](https://www.gesetze-im-internet.de/sgb_10/__102.html)
+- [§ 105 SGB X – Unzuständige Bearbeitung](https://www.gesetze-im-internet.de/sgb_10/__105.html)
+- [§ 111 SGB X – Anmeldefrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
+- [§ 14 SGB IX – Reha-Erstangegangener](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
+- [BSG Erstattungsrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 102 SGB X](https://dejure.org/gesetze/SGB_X/102.html)
+## Hinweis: Ausschluss- und Verjährungsfristen
+
+- Erstattungsansprüche zwischen Trägern: 4-Jahres-Frist nach § 111 SGB X
+- Fristbeginn: Ende des Jahres, in dem der leistende Träger Kenntnis erhält
+- Rückforderung nach § 103 SGB X (Erstattung bei vorläufiger Leistung): andere Fristen beachten
+- BSG: Fristversäumnis führt zum Anspruchsverlust auch bei berechtigter Forderung
+
+## Weiterführende Quellen
+
+- [§ 102 SGB X – Erstattungsanspruch vorläufig leistender Träger](https://www.gesetze-im-internet.de/sgb_10/__102.html)
+- [§ 111 SGB X – Ausschlussfrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
+- [BSG-Rechtsprechung zu § 105 SGB X](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

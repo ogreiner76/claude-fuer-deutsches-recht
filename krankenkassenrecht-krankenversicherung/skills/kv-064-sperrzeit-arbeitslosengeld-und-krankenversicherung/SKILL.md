@@ -1,47 +1,80 @@
 ---
 name: kv-064-sperrzeit-arbeitslosengeld-und-krankenversicherung
-description: "Krankenversicherung: Sperrzeit Arbeitslosengeld und Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen."
 ---
 
-# Krankenversicherung: Sperrzeit Arbeitslosengeld und Krankenversicherung
+# Sperrzeit, Arbeitslosengeld und Krankenversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Sperrzeit Arbeitslosengeld und Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Arbeitslose sind in der GKV pflichtversichert. Bei Sperrzeit entfällt jedoch das ALG – aber bleibt der Krankenversicherungsschutz? Dieser Skill klärt **KV-Status während Sperrzeit, Beitragsübernahme und Überbrückungsoptionen**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 2 SGB V** – Pflichtversicherung ALG-Bezieher
+- **§ 5 Abs. 1 Nr. 2a SGB V** – Pflichtversicherung Bürgergeld-Bezieher
+- **§ 251 Abs. 4a SGB V** – Beitragstragung: Bundesagentur für Arbeit bei ALG-Bezug
+- **§ 159 SGB III** – Sperrzeit: Ruhen des ALG-Anspruchs
+- **§ 192 Abs. 1 Nr. 2 SGB V** – Mitgliedschaftserhaltung durch Krankengeldanspruch
+- **§ 157 SGB III** – Dauer der Sperrzeit (12 Wochen in der Regel)
+- BSG B 12 KR 3/10 R (KV während Sperrzeit)
+
+## Sperrzeit und KV-Schutz
+
+| Zeitraum | KV-Status |
+|----------|-----------|
+| ALG-Bezug regulär | Pflichtversicherung; BA zahlt Beiträge |
+| Sperrzeit (ruhendes ALG) | KV bleibt erhalten; ABER kein Beitragszuschuss mehr |
+| Bürgergeld-Bezug | Pflichtversicherung; Jobcenter zahlt Beiträge |
+| Keine Leistungen mehr | Freiwillige Versicherung (3 Monate Frist) oder Pflichtversicherung wenn Voraussetzungen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – KV-Status während Sperrzeit
+- Sperrzeit = Ruhen des ALG; keine Zahlungen der BA
+- GKV-Mitgliedschaft bleibt weiterhin durch § 5 Abs. 1 Nr. 2 SGB V erhalten solange ALG grundsätzlich besteht
+- ABER: Beiträge ruhen auch; Kasse fordert Beitrag selbst? → klären
+
+### Schritt 2 – Beitragspflicht während Sperrzeit
+- Kein ALG = kein Arbeitsentgelt als Beitragsgrundlage
+- Kasse berechnet Beitrag aus Eigenanteil des Arbeitslosen (Mindestbeitrag für Nichtpflichtversicherte?)
+- Faktisch: Sperrzeit oft nur 12 Wochen; danach wieder ALG-Bezug; Beitragsrückstände entstehen
+
+### Schritt 3 – Bürgergeld als Auffang
+- Nach ALG-Anspruchserschöpfung: Bürgergeld (SGB II) → neue Pflichtversicherung
+- Jobcenter zahlt Beiträge (§ 251 Abs. 4 SGB V)
+- Kein Versicherungsschutz-Lücke wenn Bürgergeld nahtlos folgt
+
+### Schritt 4 – Freiwillige Versicherung
+- Wenn kein ALG und kein Bürgergeld: 3-Monats-Frist für freiwillige GKV (§ 9 SGB V)
+- Beitrag: Mindestbemessungsgrundlage; oft erheblich
+- Alternative: Partnerkasse (Familienversicherung) prüfen
+
+### Schritt 5 – Sperrzeit-Widerspruch
+- Sperrzeit-Bescheid durch Arbeitsamt anfechten (nicht GKV-Zuständigkeit)
+- Widerspruch beim Jobcenter/Arbeitsagentur
+- Aufschiebende Wirkung: ALG läuft weiter bis Entscheidung über Widerspruch (§ 86a SGG)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Sperrzeit und KV-Ruhen**: Manche meinen KV ruht auch während Sperrzeit; das ist FALSCH – KV-Mitgliedschaft bleibt.
+- **Eigeninitiative-Kündigung und Sperrzeit**: Selbst kündigen löst Sperrzeit aus; ALG wird für 12 Wochen gesperrt.
+- **ALG erschöpft ohne Bürgergeld-Antrag**: Lücke entsteht; sofort Bürgergeld beantragen.
+- **Hartz-IV/Bürgergeld und KV**: Neues Bürgergeld-Recht (seit 2023) hat gleiche GKV-Regelungen wie früheres ALG II.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Sperrzeit-KV-Informationsblatt
+- Freiwillige GKV-Antrag bei Sperrzeit
+- Bürgergeld-Antrag-Checkliste
+- Widerspruch Sperrzeit-Bescheid (an Arbeitsverwaltung)
+- Beitragsschuldvermeidungs-Plan
+
+## Quellen
+
+- [§ 5 SGB V Nr. 2 – KV Arbeitslose](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 159 SGB III – Sperrzeit](https://www.gesetze-im-internet.de/sgb_3/__159.html)
+- [§ 251 SGB V – Beitragstragung](https://www.gesetze-im-internet.de/sgb_5/__251.html)
+- [BSG B 12 KR 3/10 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Bundesagentur für Arbeit – KV](https://www.arbeitsagentur.de)
+- [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)

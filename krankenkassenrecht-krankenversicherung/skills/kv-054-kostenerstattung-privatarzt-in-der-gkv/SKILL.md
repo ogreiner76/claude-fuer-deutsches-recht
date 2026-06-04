@@ -1,47 +1,82 @@
 ---
 name: kv-054-kostenerstattung-privatarzt-in-der-gkv
-description: "Krankenversicherung: Kostenerstattung Privatarzt in der GKV mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV."
 ---
 
-# Krankenversicherung: Kostenerstattung Privatarzt in der GKV
+# Kostenerstattung: Privatarzt in der GKV
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Kostenerstattung Privatarzt in der GKV** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen und Kostenerstattung von der Kasse verlangen. Dieser Skill klärt **Wahlerklärung, Systemversagen, Notfall und Erstattungsgrenzen nach § 13 SGB V**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 13 SGB V** – Kostenerstattung: mehrere Varianten
+- **§ 13 Abs. 1 SGB V** – Kostenerstattungswahlrecht: freiwillig Versicherte wählen Kostenerstattung
+- **§ 13 Abs. 2 SGB V** – Ermächtigung Kasse bei Systemversagen
+- **§ 13 Abs. 3 SGB V** – Systemversagen und Notfall: Erstattung selbst beschaffter Leistungen
+- **§ 13 Abs. 3a SGB V** – Genehmigungsfiktion
+- BSG B 1 KR 35/04 R (Systemversagen), BSG B 1 KR 3/13 R (Kostenerstattungsgrenze)
+
+## Kostenerstattungs-Typen (§ 13 SGB V)
+
+| Variante | Voraussetzung | Erstattungshöhe |
+|----------|--------------|-----------------|
+| § 13 Abs. 1 | Wahlerklärung Kostenerstattung | GKV-Ausgaben abzgl. Abzüge |
+| § 13 Abs. 3 Alt. 1 | Systemversagen (Kasse konnte Leistung nicht rechtzeitig verschaffen) | Kassenleistungsniveau |
+| § 13 Abs. 3 Alt. 2 | Notfall | Kassenleistungsniveau |
+| § 13 Abs. 3a | Genehmigungsfiktion | Volle Kostenerstattung |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Wahlerklärung (§ 13 Abs. 1 SGB V)
+- Freiwillig Versicherte können Kostenerstattung wählen statt Sachleistung
+- Wahlerklärung gegenüber Kasse: bindet für mindestens 1 Quartal
+- Erstattung: was Kasse für Sachleistung aufgewendet hätte abzgl. 5 % Verwaltungskosten
+- Nicht für jeden sinnvoll: Sachleistungsprinzip ist meist günstiger
+
+### Schritt 2 – Systemversagen (§ 13 Abs. 3 Alt. 1)
+- Kasse konnte Leistung nicht rechtzeitig beschaffen oder hatte sie zu Unrecht abgelehnt
+- Vorabablehnung durch Kasse: direkte Pflicht zur Kostenerstattung
+- Systemversagen bei Wartezeiten: Psychotherapie-Fälle häufigster Anwendungsfall
+- Dokumentation: Nachweis Wartezeiten, erfolglose Suche nach Kassenleistungserbringer
+
+### Schritt 3 – Notfall (§ 13 Abs. 3 Alt. 2)
+- Sofortige Behandlung erforderlich, kein Kassenarzt erreichbar
+- Keine Vorabgenehmigung möglich
+- Erstattung: auf GKV-Sachleistungsniveau
+- Wichtig: Sofort nach Notfall Kasse informieren
+
+### Schritt 4 – Erstattungsgrenzen
+- BSG B 1 KR 3/13 R: Erstattung maximal auf GKV-Sachleistungsniveau
+- Privatärztliche Mehrleistungen über GKV-Niveau: trägt Versicherter selbst
+- GOÄ-Rechnung oft höher als GKV-Leistung → Differenz wird nicht erstattet
+
+### Schritt 5 – Genehmigungsfiktion (§ 13 Abs. 3a SGB V)
+- Kasse entscheidet nicht innerhalb von 5 Wochen (3 Wochen bei Eilbedarf)
+- Leistung gilt als genehmigt
+- Selbstbeschaffung nach Fiktionseintritt: volle Kostenerstattung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Kostenerstattung vor Behandlung nicht erklärt**: § 13 Abs. 1 muss VOR Behandlung gewählt werden; nachträgliche Umstellung nicht möglich.
+- **Systemversagen nicht dokumentiert**: Ohne Nachweis erfolgloser Kassenleistungssuche kein Systemversagen.
+- **Erstattungsgrenze missachtet**: GOÄ-Rechnung übersteigt GKV-Niveau erheblich; Differenz bleibt beim Versicherten.
+- **IGeL und Kostenerstattung**: IGeL ist keine GKV-Leistung; keine Kostenerstattung möglich.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Wahlerklärung Kostenerstattung (§ 13 Abs. 1)
+- Systemversagen-Dokumentationsbogen
+- Kostenerstattungsantrag nach § 13 Abs. 3
+- Genehmigungsfiktion-Schreiben
+- GKV/GOÄ-Leistungsvergleichsanalyse
+
+## Quellen
+
+- [§ 13 SGB V – Kostenerstattung](https://www.gesetze-im-internet.de/sgb_5/__13.html)
+- [BSG B 1 KR 35/04 R – Systemversagen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [BSG B 1 KR 3/13 R – Erstattungsgrenze](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
+- [GKV-Spitzenverband Kostenerstattung](https://www.gkv-spitzenverband.de)
+- [Kassenärztliche Bundesvereinigung](https://www.kbv.de)

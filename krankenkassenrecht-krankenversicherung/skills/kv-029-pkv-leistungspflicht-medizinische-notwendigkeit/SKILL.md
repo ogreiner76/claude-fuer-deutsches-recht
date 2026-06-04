@@ -1,47 +1,80 @@
 ---
 name: kv-029-pkv-leistungspflicht-medizinische-notwendigkeit
-description: "Krankenversicherung: PKV Leistungspflicht medizinische Notwendigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast."
 ---
 
-# Krankenversicherung: PKV Leistungspflicht medizinische Notwendigkeit
+# PKV-Leistungspflicht: Medizinische Notwendigkeit
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **PKV Leistungspflicht medizinische Notwendigkeit** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Heilbehandlungen**. Dieser Skill analysiert den Leistungsanspruch, die Prüfung der medizinischen Notwendigkeit und typische Streitfälle.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 192 VVG** – Leistungspflicht des Versicherers: Erstattung ärztlicher Kosten
+- **§ 193 VVG** – Versicherungspflicht in der PKV (Basistarif)
+- **MB/KK 2009 § 1** – Gegenstand der Versicherung: medizinisch notwendige Heilbehandlungen
+- **MB/KK 2009 § 4** – Umfang der Leistungspflicht; Ausschlüsse
+- **GOÄ, GOZ** – Ärztliche und zahnärztliche Honorarordnungen
+- BGH IV ZR 194/07 (medizinische Notwendigkeit), BGH IV ZR 231/15 (Kostenbegrenzung)
+- BVerfG 1 BvR 2019/17 (Basistarif-Leistungsumfang)
+
+## Begriff der medizinischen Notwendigkeit
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Diagnose | Muss gesichert oder hinreichend wahrscheinlich sein |
+| Behandlungserforderlichkeit | Behandlung muss zur Bekämpfung der Krankheit oder Minderung von Beschwerden geeignet und erforderlich sein |
+| Wissenschaftlicher Standard | Schulmedizin grundsätzlich maßgeblich; Außenseitermethoden → Evidenzprüfung |
+| Prognose | Exante-Beurteilung: was war zum Behandlungszeitpunkt vertretbar? |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Leistungsanspruch bestimmen
+- Liegt eine Krankheit vor? (Krankenbehandlungs-Begriff: Abweichung vom normalen Körper- oder Geisteszustand)
+- Welche Behandlung ist ärztlich verordnet und warum?
+- Welcher Tarif gilt? (Tarif, Zusatztarif, Basistarif) – Tarif­bedingungen lesen
+
+### Schritt 2 – Medizinische Notwendigkeit prüfen
+- PKV-Gutachter: überprüft ex ante, ob Behandlung zum Zeitpunkt der Durchführung notwendig war
+- BGH-Maßstab: „ex ante Betrachtung eines verständigen, informierten Arztes"
+- Nachträgliche Erfolglosigkeit der Behandlung schließt Notwendigkeit nicht aus
+
+### Schritt 3 – Außenseitermethoden
+- Methode nicht in schulmedizinischen Leitlinien: PKV darf ablehnen wenn wissenschaftliche Wirksamkeit fehlt
+- Ausnahme: PKV-Tarif deckt explizit alternative Methoden ab
+- BGH IV ZR 194/07: Alternativmethode erstattungsfähig wenn ernsthaft auf Heilung gerichtet und keine schulmedizinische Alternative
+
+### Schritt 4 – Stationäre Notwendigkeit
+- PKV prüft: War stationäre Behandlung notwendig oder ambulant ausreichend?
+- Kriterien: Überwachungsbedarf, Infusionen, Bettruhe, fehlende ambulante Kapazität
+- Gutachten der PKV: Gegengutachten des Krankenhauses organisieren
+
+### Schritt 5 – Kostenbegrenzungsklauseln
+- Tarif enthält Kostenbegrenzung (z.B. max. Tagessatz, Modultarif): Klausel prüfen auf AGB-Kontrolle (§§ 307–309 BGB)
+- BGH: überraschende und unangemessene Klauseln unwirksam
+- Transparenzgebot: Klausel muss klar und verständlich sein
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Schönheitsoperation**: Grundsätzlich keine medizinische Notwendigkeit; außer krankhafte Entstellung, psychische Erkrankungsfolge.
+- **Wahlleistungen Krankenhaus**: Einzelzimmer, Chefarzt: Wahlleistung = PKV-Leistung nach Tarif; immer im Tarif nachsehen.
+- **Präventionsleistungen**: PKV schuldet keine vorsorgebezogenen Leistungen; aber Tarif kann Prävention einschließen.
+- **GOÄ-Abrechnung**: Arzt rechnet nach GOÄ ab; Steigerungsfaktoren können PKV-interne Beschränkungen unterliegen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- PKV-Leistungsbrief (Anspruchsbegründung)
+- Widerspruch gegen PKV-Ablehnung
+- Gutachten-Briefing (medizinische Notwendigkeit)
+- GOÄ-Prüfungsprotokoll
+- Klageschrift gegen PKV (Amtsgericht, wenn < 5.000 €)
+
+## Quellen
+
+- [§ 192 VVG – PKV-Leistungspflicht](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
+- [MB/KK 2009](https://www.pkv.de/service/broschueren/mustervertragsbedingungen/)
+- [BGH IV ZR 194/07](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [GOÄ – Ärztliche Gebührenordnung](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/GOAe_20130901.pdf)
+- [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
+- [PKV-Verband Leistungspflicht](https://www.pkv.de)

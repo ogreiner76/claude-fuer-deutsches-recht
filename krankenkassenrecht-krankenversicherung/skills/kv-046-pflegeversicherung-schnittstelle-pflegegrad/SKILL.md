@@ -1,47 +1,83 @@
 ---
 name: kv-046-pflegeversicherung-schnittstelle-pflegegrad
-description: "Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung."
 ---
 
-# Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad
+# Pflegeversicherung: Schnittstelle Pflegegrad
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Pflegeversicherung Schnittstelle Pflegegrad** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Krankenpflege und Reha. Dieser Skill klärt die **Leistungsabgrenzung zwischen § 37 SGB V und SGB XI** und löst Zuständigkeitskonflikte.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 14 SGB XI** – Pflegebedürftigkeit: Pflegegradmaßstab (NBA)
+- **§ 36 SGB XI** – Pflegesachleistung: Körperpflege, Mobilität, Hauswirtschaft
+- **§ 40 SGB XI** – Pflegehilfsmittel
+- **§ 37 SGB V** – Häusliche Krankenpflege: Behandlungspflege, Grundpflege
+- **§ 38 SGB V** – Haushaltshilfe GKV
+- **§ 33 SGB V** – Hilfsmittel GKV (vs. § 40 SGB XI Pflegehilfsmittel)
+- **§ 13 Abs. 2 SGB XI** – Nachrang Pflegeversicherung gegenüber anderen Leistungsträgern
+- BSG B 3 P 7/05 R (Abgrenzung GKV/PV), BSG B 1 KR 26/16 R
+
+## Abgrenzungsmatrix GKV vs. PV
+
+| Leistung | GKV (SGB V) | PV (SGB XI) |
+|----------|-------------|-------------|
+| Behandlungspflege | § 37 Abs. 2 SGB V: bei Krankheit | Nachrangig |
+| Grundpflege (Körperpflege) | Nein (außer häusliche Krankenpflege) | § 36 SGB XI |
+| Hauswirtschaftliche Versorgung | § 38 SGB V (eng) | § 36 SGB XI |
+| Hilfsmittel (Rollstuhl, Prothese) | § 33 SGB V | – |
+| Pflegehilfsmittel (Pflegebett, Inkontinenzartikel) | – | § 40 SGB XI |
+| Wohnraumanpassung | Nein | § 40 Abs. 4 SGB XI |
+| Reha | § 40 SGB V | Nein (nachrangig) |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Pflegegrad feststellen
+- Antrag beim zuständigen Pflegekassenträger (bei GKV meist gleiche Organisation)
+- Begutachtung durch MD (Medizinischer Dienst): NBA-Systematik
+- Pflegegrade 1–5: je höher, desto mehr Leistungen
+
+### Schritt 2 – Behandlungspflege vs. Grundpflege
+- Behandlungspflege (§ 37 Abs. 2 SGB V): ärztliche angeordnete Behandlungsmaßnahmen (Verbandwechsel, Insulin, Medikamentengabe) → GKV
+- Grundpflege: Waschen, Anziehen → PV
+- Kombination: wenn beides nötig → beide Träger müssen koordinieren
+
+### Schritt 3 – Hilfsmittel vs. Pflegehilfsmittel
+- Hilfsmittel § 33 SGB V: Ausgleich einer Behinderung (Rollstuhl, Hörgerät) → GKV
+- Pflegehilfsmittel § 40 SGB XI: Erleichterung der Pflege (Pflegebett, Greifzange, Einmalhandschuhe) → PV
+- Graubereich: Inkontinenzartikel → § 40 SGB XI (wenn vorwiegend Pflegecharakter)
+
+### Schritt 4 – Nachrangigkeit PV (§ 13 SGB XI)
+- PV ist nachrangig gegenüber GKV, Unfallversicherung und anderen Trägern
+- Kasse muss zuerst leisten; PV-Träger kann dann Regress nehmen
+- Doppelbeantragung: immer sinnvoll; Träger klären intern ab
+
+### Schritt 5 – Kombinationspflege
+- Sachleistung (§ 36 SGB XI) + Geldleistung (§ 37 SGB XI): kombinierbar bei hälftigem Einsatz
+- Bei Überlastung pflegender Angehöriger: Verhinderungspflege (§ 39 SGB XI) + Kurzzeitpflege
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Behandlungspflege vs. Grundpflege verwechselt**: Kasse lehnt ab weil Grundpflege; eigentlich Behandlungspflege (Insulingabe, Medikamentengabe durch Pflegedienst).
+- **Hilfsmittelgutachten und Pflegegrad**: Pflegegrad-Gutachten beeinflusst Hilfsmittelbedarf; koordinieren.
+- **Stationäre Pflege**: Im Pflegeheim übernimmt PV die Pflegekosten; GKV nur für Behandlung im Krankenhaus.
+- **Rückforderung**: Wenn PV geleistet hat und GKV zuständig war → Erstattungsstreit (→ kv-057).
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Leistungsabgrenzungs-Matrix (individuell)
+- Pflegehilfsmittelantrag (§ 40 SGB XI)
+- Häusliche Krankenpflege-Antrag (§ 37 SGB V)
+- Widerspruch gegen Pflegegrad-Ablehnung
+- Koordinationsschreiben GKV ↔ PV
+
+## Quellen
+
+- [§ 14 SGB XI – Pflegebedürftigkeit](https://www.gesetze-im-internet.de/sgb_11/__14.html)
+- [§ 40 SGB XI – Pflegehilfsmittel](https://www.gesetze-im-internet.de/sgb_11/__40.html)
+- [§ 37 SGB V – Häusliche Krankenpflege](https://www.gesetze-im-internet.de/sgb_5/__37.html)
+- [§ 13 SGB XI – Nachrang PV](https://www.gesetze-im-internet.de/sgb_11/__13.html)
+- [BSG GKV/PV-Abgrenzung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 37 SGB V](https://dejure.org/gesetze/SGB_V/37.html)

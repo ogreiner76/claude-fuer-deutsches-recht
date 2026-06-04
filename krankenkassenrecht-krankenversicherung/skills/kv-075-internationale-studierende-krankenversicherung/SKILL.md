@@ -1,47 +1,81 @@
 ---
 name: kv-075-internationale-studierende-krankenversicherung
-description: "Krankenversicherung: Internationale Studierende Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherungspflicht für ausländische Studierende in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten."
 ---
 
-# Krankenversicherung: Internationale Studierende Krankenversicherung
+# Internationale Studierende: Krankenversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Internationale Studierende Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ausländische Studierende in Deutschland müssen sich krankenversichern. Dieser Skill klärt **GKV-Pflichtversicherung, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten gegenüber der Hochschule**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 9 SGB V** – Versicherungspflicht Studierende (auch ausländische)
+- **§ 6 SGB V** – Versicherungsfreiheit: Überschreiten der JAEG; Ausnahmen für Ausländer
+- **§ 8 SGB V** – Befreiung von der Versicherungspflicht für ältere/ausländische Studierende
+- **VO (EG) 883/2004** – EU-Koordinierungsrecht (für EU-Studierende)
+- **Aufenthaltsgesetz (AufenthG) § 5** – Krankenversicherung als Einreisevoraussetzung
+- BSG B 12 KR 6/17 R (Ausländische Studierende, Pflichtversicherung)
+
+## Versicherungsoptionen für internationale Studierende
+
+| Option | Voraussetzung | Kosten |
+|--------|--------------|--------|
+| GKV-Pflichtversicherung | Immatrikulation; unter 30 J. oder unter 14. FS | Ca. 120 €/Monat |
+| GKV-Befreiung + Privat | Antrag bei Kasse; private Alternative nachweisen | Privattarif (oft günstiger für Junge) |
+| EU-Studierende mit EHIC | Herkunftsland GKV zahlt | Kostenlos (meist) |
+| Auslandskrankenversicherung | Nicht alle Anbieter für Deutschland | 30–80 €/Monat |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – GKV-Pflichtversicherung
+- Studierende an deutschen Hochschulen: grundsätzlich pflichtversichert (§ 5 Abs. 1 Nr. 9 SGB V)
+- Altersgrenzen gelten gleich: 25 Jahre oder 14. Fachsemester
+- Ausländische Staatsangehörigkeit: kein Ausschlusskriterium
+
+### Schritt 2 – Befreiungsmöglichkeiten (§ 8 Abs. 1 Nr. 5 SGB V)
+- Befreiung möglich wenn: privater Krankenversicherungsschutz nachgewiesen
+- Antrag binnen 3 Monaten nach Immatrikulation
+- Privater Schutz: muss für Deutschland gültig und ausreichend sein
+- Einmal befreit: gilt für gesamtes Studium; Rückkehr in GKV möglich bei Ende privater KV
+
+### Schritt 3 – EU-Studierende
+- EU-Mitgliedsstaat-Bürger mit EHIC: können sich von deutscher GKV befreien lassen
+- Heimatkasse verbleibt zuständig; EHIC gilt auch in Deutschland
+- Vorteil: oft keine Beitragserhöhung durch deutsches Studentenbeitragsmodell
+
+### Schritt 4 – Nachweis gegenüber Hochschule
+- Immatrikulation: Hochschule verlangt KV-Nachweis
+- GKV-Kasse stellt Bescheinigung aus
+- Private KV: Versicherungsbestätigung
+- Befreiungsbescheid der GKV: auch akzeptiert
+
+### Schritt 5 – Visumpflicht und Krankenversicherung
+- Studienvisum (§ 16 AufenthG): KV-Nachweis für Visum erforderlich
+- Botschaft prüft: ausreichend? Gilt für Deutschland?
+- Verlängerung Aufenthaltserlaubnis: KV weiterhin Voraussetzung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Befreiungsfrist versäumt**: 3 Monate nach Immatrikulation; danach keine Befreiung mehr für dieses Studium möglich.
+- **Auslandskrankenversicherung nicht für Deutschland gültig**: Manche Policen schließen Heimatland oder dauerhaften Aufenthalt aus.
+- **EHIC und Schengen**: EHIC gilt nur innerhalb EU; für Länder außerhalb Schengen andere Regelungen.
+- **Einmalige Beitragszahlung**: Studentenbeiträge günstig; aber Leistungsumfang gleich.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Befreiungsantrag § 8 SGB V (Muster)
+- GKV-Anmeldung für internationale Studierende
+- EHIC-Nutzungsanleitung
+- KV-Nachweischeckliste für Hochschule
+- Visums-KV-Nachweis-Formular
+
+## Quellen
+
+- [§ 5 SGB V Nr. 9 – Studentische KV](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 8 SGB V – Befreiung](https://www.gesetze-im-internet.de/sgb_5/__8.html)
+- [VO (EG) 883/2004](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0883)
+- [Bundesagentur für Arbeit Studentische KV](https://www.arbeitsagentur.de)
+- [DAAD Krankenversicherung](https://www.daad.de/de/studieren-und-forschen-in-deutschland/studium-planen/krankenversicherung/)
+- [dejure.org § 8 SGB V](https://dejure.org/gesetze/SGB_V/8.html)

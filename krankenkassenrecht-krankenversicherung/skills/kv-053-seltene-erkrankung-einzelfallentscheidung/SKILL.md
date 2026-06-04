@@ -1,47 +1,81 @@
 ---
 name: kv-053-seltene-erkrankung-einzelfallentscheidung
-description: "Krankenversicherung: Seltene Erkrankung Einzelfallentscheidung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung."
 ---
 
-# Krankenversicherung: Seltene Erkrankung Einzelfallentscheidung
+# Seltene Erkrankung: Einzelfallentscheidung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Seltene Erkrankung Einzelfallentscheidung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse. Dieser Skill entwickelt die **Argumentation nach § 2 Abs. 1a SGB V und dem Nikolaus-Beschluss des BVerfG**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 2 Abs. 1a SGB V** – Grundrechtsorientierte Auslegung: bei lebensbedrohlicher/regelmäßig tödlicher Erkrankung
+- **BVerfG 1 BvR 347/98** – „Nikolaus-Beschluss": Grundrecht auf Leben schlägt Wirtschaftlichkeit
+- **§ 31 Abs. 1 Satz 4 SGB V** – Nicht-verschreibungspflichtige AM auf Einzelantrag
+- **§ 35c SGB V** – Besondere Therapierichtungen (Off-Label mit Sonderregelung)
+- **§ 116b SGB V** – Ambulante spezialfachärztliche Versorgung (ASV): für seltene Erkrankungen
+- VO (EG) 141/2000 – Orphan-Drug-Verordnung (EU-Zulassung)
+- BSG B 1 KR 37/04 R (Off-Label-Dreitest), BSG B 1 KR 10/12 R (§ 2 Abs. 1a SGB V)
+
+## § 2 Abs. 1a SGB V – Normvoraussetzungen
+
+| Voraussetzung | Inhalt |
+|--------------|--------|
+| Erkrankung | Lebensbedrohlich oder regelmäßig tödlich |
+| Keine zugelassene Therapie | Oder Therapiealternative nicht wirksam/unzumutbar |
+| Behandlungsaussicht | Nicht ganz fernliegende Aussicht auf Heilung oder Linderung |
+| Anspruchsgrundlage | Trotz fehlendem G-BA-Beschluss |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Erkrankung einordnen
+- Seltene Erkrankung (Orphan Disease): Prävalenz < 5 von 10.000 (EU-Definition)
+- ICD-10 / ORPHA-Code: verwenden
+- Lebensbedrohlichkeit: ist die Erkrankung in ihrem natürlichen Verlauf lebensbedrohlich?
+
+### Schritt 2 – Behandlungsoptionen prüfen
+- Alle GKV-anerkannten Therapien ausgeschöpft oder kontraindiziert?
+- Ist eine alternative zugelassene Behandlung verfügbar und wirksam?
+- Wenn keine Alternative: § 2 Abs. 1a SGB V greift potenziell
+
+### Schritt 3 – Off-Label nach BVerfG-Maßstäben
+- BSG B 1 KR 37/04 R: 3-Voraussetzungen-Test (Erkrankung, Alternativlosigkeit, Aussicht)
+- Wissenschaftliche Belege: Phase II/III-Studien, Fallberichte, Fachgesellschafts-Empfehlungen
+- Kein Beschluss des G-BA erforderlich wenn BVerfG-Voraussetzungen erfüllt
+
+### Schritt 4 – ASV für seltene Erkrankungen (§ 116b SGB V)
+- ASV: Fachärzte können ambulant stationäre Eingriffe und komplexe Behandlungen abrechnen
+- Liste der seltenen Erkrankungen nach § 116b SGB V: G-BA-Beschlüsse
+- Team-Versorgung: Konsortium von Spezialisten
+- Keine Überweisung nötig; direkt zum ASV-Team
+
+### Schritt 5 – Antrag und Begründung
+- Antrag mit ärztlichem Gutachten: ausführliche Darstellung der Erkrankung, Alternativlosigkeit, Therapieaussicht
+- Literaturrecherche: PubMed, ORPHAN-Datenbank, Fachgesellschaftsleitlinien
+- Anwalt: bei Ablehnung empfehlen (komplexe Materie)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Zu geringe Erkrankungsschwere**: § 2 Abs. 1a SGB V gilt nicht bei chronisch-schweren Erkrankungen die nicht lebensbedrohlich sind; dann Off-Label-Dreitest.
+- **Orphan Drug ≠ automatisch GKV-Leistung**: EU-Zulassung als Orphan Drug begründet keinen automatischen GKV-Anspruch; G-BA oder § 2 Abs. 1a nötig.
+- **Experimentelle Therapien**: BVerfG verlangt „nicht ganz fernliegende Aussicht"; rein experimentelle Therapien ohne Wirksamkeitshinweise genügen nicht.
+- **Eilantrag bei seltener Erkrankung**: Häufig lebensbedrohlich → Eilantrag SG; einstweilige Anordnung.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Antragsschreiben § 2 Abs. 1a SGB V
+- Off-Label-Dreitest-Analyse
+- Literaturübersicht (Wirksamkeitsbelege)
+- Eilantrag Sozialgericht (Muster)
+- Widerspruchsbegründung bei Ablehnung
+
+## Quellen
+
+- [§ 2 Abs. 1a SGB V](https://www.gesetze-im-internet.de/sgb_5/__2.html)
+- [BVerfG 1 BvR 347/98 – Nikolaus-Beschluss](https://www.bverfg.de/e/rs19990109_1bvr034798.html)
+- [§ 116b SGB V – ASV](https://www.gesetze-im-internet.de/sgb_5/__116b.html)
+- [BSG B 1 KR 37/04 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [ORPHANET Seltene Erkrankungen](https://www.orpha.net)
+- [dejure.org § 2 SGB V](https://dejure.org/gesetze/SGB_V/2.html)

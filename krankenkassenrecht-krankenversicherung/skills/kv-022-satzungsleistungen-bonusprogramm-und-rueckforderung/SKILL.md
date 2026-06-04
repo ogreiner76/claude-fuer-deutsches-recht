@@ -1,47 +1,84 @@
 ---
 name: kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung
-description: "Krankenversicherung: Satzungsleistungen Bonusprogramm und Rückforderung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse."
 ---
 
-# Krankenversicherung: Satzungsleistungen Bonusprogramm und Rückforderung
+# Satzungsleistungen, Bonusprogramm und Rückforderung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Satzungsleistungen Bonusprogramm und Rückforderung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzlichen Pflichtleistungskatalog hinausgehen. Dieser Skill klärt **Anspruch auf Satzungsleistungen, Bonusprogramme** und die Grenzen von Rückforderungen.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 11 Abs. 6 SGB V** – Satzungsleistungen (Ermächtigungsnorm)
+- **§ 194 SGB V** – Satzungsinhalt
+- **§ 65a SGB V** – Bonusprogramme für gesundheitsbewusstes Verhalten
+- **§ 20 SGB V** – Prävention und Gesundheitsförderung
+- **§ 53 SGB V** – Wahltarife (Überschneidung mit Satzungsleistungen)
+- **§ 26a SGB V** – Zusätzliche Leistungen für Schwangere
+- SGB X §§ 44, 45, 48 – Rücknahme und Rückforderung von Verwaltungsakten
+- BSG B 1 KR 15/19 R (Satzungsleistungen und Gleichbehandlung)
+
+## Satzungsleistungs-Typen
+
+| Leistungstyp | Beispiele | Rechtsgrundlage |
+|-------------|-----------|-----------------|
+| Individuelle Gesundheitsleistungen | Akupunktur, Homöopathie (umstritten), Sportcheck | § 11 Abs. 6 SGB V |
+| Schutzimpfungen über STIKO | Reiseimpfungen, nicht STIKO-empfohlen | Kassenindividuell |
+| Kurleistungen | Gesundheitsreisen, Wellnessangebote | § 23 SGB V i.V.m. Satzung |
+| Bonusprogramm | Prämien für Vorsorge, Sport, gesunde Ernährung | § 65a SGB V |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Satzungsleistung prüfen
+- Liegt eine Leistung vor, die in der Kassenssatzung steht?
+- Satzung auf Website der Kasse einsehen; aktueller Stand?
+- Unterschied: Pflichtleistung (kein Ermessen) vs. Satzungsleistung (Ermessen der Kasse)
+- Wenn Kasse Satzungsleistung gewährt, ist Gleichbehandlung aller Versicherten geboten
+
+### Schritt 2 – Bonusprogramm (§ 65a SGB V)
+- Registrierung beim Programm erforderlich?
+- Bedingungen erfüllt? (Anzahl Vorsorgeuntersuchungen, Sportaktivitäten, etc.)
+- Auszahlung: Geldprämie oder Beitragsrückerstattung
+- Bonusprogramme und Beitragsrückgewähr dürfen nicht auf Leistungseinschränkungen hinauslaufen
+
+### Schritt 3 – Rückforderung durch Kasse
+- Kasse fordert gewährte Satzungsleistung zurück?
+- Rechtsgrundlage: § 45 SGB X (Rücknahme begünstigender VA)
+- Vertrauensschutz: Versicherter hat Mittel bereits ausgegeben → kein Rückforderungsanspruch
+- Frist: 2 Jahre nach Kenntnis (§ 45 Abs. 4 SGB X)
+
+### Schritt 4 – Gleichbehandlungsgrundsatz
+- Kasse muss Satzungsleistungen allen Versicherten gleich anbieten
+- Keine Zwei-Klassen-Versorgung innerhalb GKV
+- BSG: Satzungsleistung muss auf objektiven Kriterien basieren, keine willkürliche Ablehnung
+
+### Schritt 5 – Streit um Bonusprogramm-Zahlung
+- Voraussetzungen erfüllt, aber Auszahlung verweigert?
+- Widerspruch: Nachweis der Teilnahme und erfüllten Bedingungen
+- Verjährung: 4 Jahre (SGB X i.V.m. allgemeinem Verjährungsrecht)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Satzungsleistung gestrichen**: Kasse kann Satzung für zukünftige Zeiträume ändern; keine rückwirkende Streichung bei laufender Leistung.
+- **Bonusprogramm und Datenschutz**: Gesundheitsdaten für Bonusprogramm verarbeitet; DSGVO beachten, Einwilligung erforderlich.
+- **Homöopathie-Leistungen**: Streitig ob Satzungsleistung zulässig (keine nachgewiesene Wirksamkeit); G-BA-Beschlüsse beachten.
+- **Fitnessstudio-Zuschuss**: Häufig Satzungsleistung; maximale Höhe begrenzt; steuerliche Behandlung klären.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Antrag auf Satzungsleistung
+- Bonusprogramm-Nachweis-Übersicht
+- Widerspruch gegen Rückforderungsbescheid
+- Gleichbehandlungs-Beschwerde
+- Satzungsänderungs-Überprüfungsantrag
+
+## Quellen
+
+- [§ 11 SGB V – Satzungsleistungen](https://www.gesetze-im-internet.de/sgb_5/__11.html)
+- [§ 65a SGB V – Bonusprogramm](https://www.gesetze-im-internet.de/sgb_5/__65a.html)
+- [§ 45 SGB X – Rücknahme](https://www.gesetze-im-internet.de/sgb_10/__45.html)
+- [BSG Satzungsleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 65a SGB V](https://dejure.org/gesetze/SGB_V/65a.html)
+- [GKV-Spitzenverband Satzungsleistungen](https://www.gkv-spitzenverband.de)

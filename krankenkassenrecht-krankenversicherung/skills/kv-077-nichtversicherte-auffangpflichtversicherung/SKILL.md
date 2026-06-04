@@ -1,47 +1,81 @@
 ---
 name: kv-077-nichtversicherte-auffangpflichtversicherung
-description: "Krankenversicherung: Nichtversicherte Auffangpflichtversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik."
 ---
 
-# Krankenversicherung: Nichtversicherte Auffangpflichtversicherung
+# Nichtversicherte: Auffangpflichtversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Nichtversicherte Auffangpflichtversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird über die Auffangpflichtversicherung in die GKV aufgenommen. Dieser Skill klärt **Voraussetzungen, Beiträge, Beitragsschulden und Wege aus der Nichtversicherung**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 13 SGB V** – Auffangpflichtversicherung (zuletzt GKV-versichert)
+- **§ 5 Abs. 1 Nr. 13 lit. b SGB V** – Personen ohne anderweitige KV-Pflicht
+- **§ 188 Abs. 4 SGB V** – Beginn der Mitgliedschaft (automatisch)
+- **§ 16 Abs. 3a SGB V** – Leistungsruhen bei Beitragsrückstand
+- **§ 193 Abs. 3–5 VVG** – Auffangversicherungspflicht PKV (zuletzt privat versichert)
+- BSG B 12 KR 14/07 R (Auffangpflichtversicherung, Rückwirkung)
+
+## Auffangversicherungs-Logik
+
+| Ausgangslage | Zuständige Auffangversicherung |
+|-------------|-------------------------------|
+| Zuletzt GKV-versichert | § 5 Abs. 1 Nr. 13 SGB V (GKV) |
+| Zuletzt PKV-versichert | PKV-Auffangpflicht (§ 193 Abs. 3–5 VVG, Basistarif) |
+| Nie versichert (und in D. wohnhaft) | § 5 Abs. 1 Nr. 13 lit. b SGB V (GKV) |
+| Zuletzt im Ausland versichert | Koordinierungsrecht prüfen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Auffangpflichtversicherung GKV
+- Wer war zuletzt gesetzlich versichert und hat jetzt keinen anderen Schutz?
+- Automatische Versicherungspflicht bei zuletzt GKV-versicherter Person: § 5 Abs. 1 Nr. 13
+- Keine Anmeldefrist wie bei freiwilliger Versicherung; rückwirkender Beginn möglich
+- Letzte Kasse wird zuständig (§ 173 Abs. 5 SGB V)
+
+### Schritt 2 – Beitragsschulden bei Nichtversicherung
+- Rückwirkende Pflichtversicherung ab Datum des Verlusts anderweitigen Schutzes
+- Kasse fordert rückwirkend Beiträge: Säumniszuschläge entstehen
+- Stundung, Ratenzahlung: beantragen; Kasse hat Ermessen (§ 76 SGB IV)
+
+### Schritt 3 – Leistungsruhen und Akutversorgung
+- Beitragsrückstand > 2 Monate: Leistungsruhen (§ 16 Abs. 3a SGB V)
+- Aber: akute Erkrankungen und Schmerzbehandlung bleiben zugänglich
+- Schwangerschaft: immer vollständiger Leistungsanspruch trotz Rückstand
+
+### Schritt 4 – PKV-Auffangpflicht
+- Zuletzt PKV-versichert und jetzt ohne Schutz: PKV muss in Basistarif aufnehmen (§ 193 Abs. 5 VVG)
+- Keine Risikoprüfung im Basistarif
+- Beitrag: max. allgemeiner GKV-Beitragssatz * BBG
+
+### Schritt 5 – Weg aus der Nichtversicherung
+- GKV anmelden; letzte Kasse kontaktieren
+- Schulden bezahlen oder Ratenzahlung vereinbaren
+- Sozialamt kann Beiträge übernehmen (§ 32 SGB XII, § 26 SGB II)
+- Krankenbehandlung für Nichtversicherte: stille Schulden → medizinische Behandlung in Not (§ 264 Abs. 2 SGB V)
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Rückwirkende Beitragsschulden**: Kasse berechnet Beiträge für Jahre der Nichtversicherung → erhebliche Schulden.
+- **Unbekannte Versicherungslücke**: Person weiß nicht dass sie nicht versichert ist; oft durch Jobverlust ohne Bürgergeld-Antrag.
+- **PKV und GKV-Auffang**: Klären wer zuletzt versichert war; falsche Kasse = erneuter Wechsel notwendig.
+- **Kinder nicht mitangemeldet**: Kinder ohne eigene Versicherung; Familienversicherung beantragen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Anmeldung bei letzter GKV (Muster)
+- Stundungsantrag Beitragsrückstand
+- Sozialamt-Übernahmeantrag
+- Schuldenbereinigungsplan
+- Leistungsruhen-Informationsblatt
+
+## Quellen
+
+- [§ 5 Abs. 1 Nr. 13 SGB V – Auffangpflicht](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 16 Abs. 3a SGB V – Leistungsruhen](https://www.gesetze-im-internet.de/sgb_5/__16.html)
+- [§ 193 VVG – PKV-Auffangpflicht](https://www.gesetze-im-internet.de/vvg_2008/__193.html)
+- [§ 76 SGB IV – Stundung](https://www.gesetze-im-internet.de/sgb_4/__76.html)
+- [BSG B 12 KR 14/07 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)

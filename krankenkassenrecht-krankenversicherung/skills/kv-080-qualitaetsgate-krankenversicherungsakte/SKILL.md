@@ -1,47 +1,84 @@
 ---
 name: kv-080-qualitaetsgate-krankenversicherungsakte
-description: "Krankenversicherung: Qualitätsgate Krankenversicherungsakte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen."
 ---
 
-# Krankenversicherung: Qualitätsgate Krankenversicherungsakte
+# Qualitätsgate: Krankenversicherungsakte
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Qualitätsgate Krankenversicherungsakte** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill fungiert als **Schlusscheck** für jeden Fall im Krankenversicherungsrecht: Vollständigkeit der Unterlagen, offene Fristen, lückenlose Dokumentation, Normencheck und Handlungsempfehlung für den nächsten Schritt.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Alle relevanten Normen des SGB V, SGB X, SGG, VVG und SGB IX (je nach Fall)
+- BSG-Grundsätze: Vollbeweis, Kausalität, Beweislast
+- DSGVO Art. 5 (Datenschutzgrundsätze): Integrität und Korrektheit der Akte
+
+## Qualitätsgate-Checkliste
+
+| Prüfpunkt | Erfüllt? | Maßnahme bei Fehlen |
+|-----------|---------|---------------------|
+| Diagnose mit ICD-10 belegt | ✓/✗ | Arztbrief nachfordern |
+| Anspruchsgrundlage klar benannt | ✓/✗ | Normzitat ergänzen |
+| Fristen berechnet und dokumentiert | ✓/✗ | Fristenplan erstellen |
+| MDK-Gutachten vorhanden und geprüft | ✓/✗ | Akteneinsicht anfordern |
+| Widerspruchsfrist gesichert | ✓/✗ | Fristwahrenden Widerspruch sofort |
+| Gegenbeweis/Gegengutachten organisiert | ✓/✗ | Arzt-Briefing vorbereiten |
+| Rechtsweg festgelegt (SGG/ZPO) | ✓/✗ | Zuständiges Gericht prüfen |
+| Datenschutz beachtet | ✓/✗ | DSGVO-Konformität sicherstellen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Unterlagencheck
+- Ärztliche Unterlagen: aktueller Arztbrief (nicht älter als 6 Monate), relevante Vorbefunde
+- GKV: Ablehnungsbescheid vollständig? Begründung klar? Rechtsbehelfsbelehrung vorhanden?
+- PKV: Tarifbedingungen, Versicherungsschein, letzte Beitragsabrechnung
+- MDK-Gutachten: liegt vor? Eingesehen? Inhaltlich analysiert?
+
+### Schritt 2 – Normencheck
+- Welche Norm ist die Anspruchsgrundlage? (z.B. § 33 SGB V, § 192 VVG)
+- BSG-/BGH-Rechtsprechung zur Norm aktuell geprüft?
+- G-BA-Richtlinie einschlägig? (z.B. Hilfsmittel-RL, AM-RL, HM-RL)
+
+### Schritt 3 – Fristen sichern
+- Widerspruchsfrist: 1 Monat ab Bekanntgabe (§ 84 SGG); berechnet?
+- Klagefrist: 1 Monat nach Widerspruchsbescheid (§ 87 SGG)
+- PKV-Verjährung: 3 Jahre (§ 195 BGB); wann beginnt sie?
+- Beitragsverjährung GKV: 4 Jahre (§ 25 SGB IV)
+
+### Schritt 4 – Beweislage
+- Vollbeweis für Anspruchsvoraussetzungen gesichert?
+- Kausalität zwischen Erkrankung und Leistungsbedarf dokumentiert?
+- Beweislastumkehr geprüft? (grober Behandlungsfehler → § 630h Abs. 5 BGB)
+
+### Schritt 5 – Handlungsempfehlung
+- Sofortmaßnahme: Frist wahren, Unterlagen anfordern, Eilantrag
+- Mittelfristig: Widerspruch begründen, Gegengutachten organisieren
+- Langfristig: Klage vorbereiten, SG-Sachverständigen beantragen
+- Eskalationspfad: Widerspruch → Klage SG → Berufung LSG → Revision BSG
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Qualitätsgate zu spät**: Erst nach Fristablauf alle Unterlagen zusammen → Wiedereinsetzung prüfen aber schwierig.
+- **Vollbeweis durch Zweifel geschwächt**: Ein ungeklärtes medizinisches Detail → BSG-Maßstab genau anwenden; teilweise reicht Wahrscheinlichkeit.
+- **Mehrere Fristen gleichzeitig laufend**: Bei Widerspruch zu mehreren Bescheiden → separater Fristenkalender.
+- **Keine Übergabe an Anwalt**: Komplexe Fälle ohne Anwalt riskieren Formfehler; Beratungshilfe nutzen.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Qualitätssicherungs-Protokoll (je Fall)
+- Fristen-Übersichtskalender
+- Unterlagen-Vollständigkeitsliste
+- Normen-Referenz-Übersicht
+- Handlungsempfehlungs-Zusammenfassung
+
+## Quellen
+
+- [SGB V – Gesamtüberblick](https://www.gesetze-im-internet.de/sgb_5/)
+- [SGG – Sozialgerichtsgesetz](https://www.gesetze-im-internet.de/sgg/)
+- [§ 84 SGG – Widerspruchsfrist](https://www.gesetze-im-internet.de/sgg/__84.html)
+- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [G-BA Richtlinien](https://www.g-ba.de/richtlinien/)
+- [dejure.org SGB V](https://dejure.org/gesetze/SGB_V)
+- [openjur.de – Sozialrecht](https://openjur.de)

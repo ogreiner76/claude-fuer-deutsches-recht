@@ -1,47 +1,80 @@
 ---
 name: kv-048-krankenkassenregress-behandlungsfehler-und-erstattung
-description: "Krankenversicherung: Krankenkassenregress Behandlungsfehler und Erstattung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch."
 ---
 
-# Krankenversicherung: Krankenkassenregress Behandlungsfehler und Erstattung
+# Krankenkassenregress: Behandlungsfehler und Erstattung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Krankenkassenregress Behandlungsfehler und Erstattung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse Regress nehmen. Dieser Skill klärt **Regressansprüche nach § 116 SGB X, Verhältnis zum Schadensersatzanspruch des Patienten und Koordinationspflichten**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 116 SGB X** – Gesetzlicher Übergang von Schadensersatzansprüchen auf Sozialversicherungsträger
+- **§ 119 SGB X** – Anspruchsübergang auf Kranken-/Pflegeversicherung
+- **§ 83 SGB X** – Erstattungsansprüche zwischen Leistungsträgern
+- **§ 630a ff. BGB** – Behandlungsvertrag; Schadensersatz bei Behandlungsfehlern
+- **§ 291a SGB V** – Patientendaten-Schutz-Gesetz (Dokumentation)
+- **PatRechteG 2013** – Patientenrechtegesetz (§ 630a–h BGB)
+- BSG B 1 KR 26/07 R (Regressanspruch GKV), BGH VI ZR 91/17 (Schadensersatz und Regresskoordination)
+
+## Regressstruktur § 116 SGB X
+
+| Element | Inhalt |
+|---------|--------|
+| Schadensereignis | Behandlungsfehler, Unfall, Delikt durch Dritten |
+| Schädiger | Arzt, Krankenhaus, sonstiger Dritter |
+| Übergegangener Anspruch | Schadensersatz des Patienten geht auf GKV über (in Höhe der GKV-Leistungen) |
+| Verjährung | 3 Jahre nach Kenntnis; absolute Grenze 30 Jahre (§ 199 BGB) |
+| Koordination | GKV-Anspruch geht vor privatem Anspruch des Patienten auf gleichen Schadenposten |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Regressvoraussetzungen
+- Liegt ein Behandlungsfehler vor? (medizinischer Standard verletzt)
+- Hat GKV Leistungen erbracht die kausal auf den Fehler zurückgehen?
+- Schädiger identifiziert: Arzt, Krankenhaus, Haftpflichtversicherer?
+
+### Schritt 2 – Anspruchsübergang (§ 116 SGB X)
+- Übergang ist kraft Gesetzes automatisch (nicht konstitutiv)
+- GKV-Leistungen: KH-Kosten, Medikamente, Reha, Krankengeld
+- Umfang: GKV kann nur ihre eigenen Leistungen zurückfordern, nicht Schmerzensgeld
+
+### Schritt 3 – Verhältnis zum Patienten
+- Patient hat eigene Schadensersatzansprüche (Schmerzensgeld, Erwerbsausfall)
+- GKV-Regress und Patientenanspruch können parallel bestehen; keine Doppelerstattung
+- Informationspflicht: GKV muss Patienten über Regressanspruch informieren (indirekt)
+
+### Schritt 4 – Patient fordert Schadensersatz
+- Patient kann eigene Ansprüche neben GKV-Regress geltend machen
+- Wichtig: Kein Vergleich über Ansprüche schließen ohne Zustimmung der GKV (soweit übergegangen)
+- § 116 Abs. 1 Satz 2: Übergang gilt nicht soweit GKV-Mitglied keine wirtschaftlichen Nachteile hat
+
+### Schritt 5 – MDK-Regress (§ 275 ff. SGB V)
+- Andere Regressart: MDK prüft Krankenhausabrechnung; Kasse fordert zuviel gezahlte DRG zurück
+- Kein Zusammenhang mit Behandlungsfehler-Regress
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Vergleich ohne GKV-Zustimmung**: Patient schließt Vergleich mit Arzt über alle Schäden; GKV-Anspruch trotzdem übergegangen → Vergleich bindet GKV nicht.
+- **Verjährung Regress**: GKV muss Regress kennen; Verjährung beginnt mit Kenntnis, nicht mit Schadenseintritt.
+- **Kausalität unklar**: Regressanspruch setzt gleiche Kausalitätsanforderungen wie Schadensersatzrecht (BGH VI ZR); schwieriger als im Sozialrecht.
+- **Beweislast beim Arzt**: Bei groben Behandlungsfehlern Beweislastumkehr (§ 630h Abs. 5 BGB); hilft Patienten und damit indirekt der GKV.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Regressanzeige an GKV (durch Patient)
+- Koordinationsschreiben Patient ↔ GKV ↔ Haftpflichtversicherer
+- Vergleichs-Checkliste (GKV-Beteiligung prüfen)
+- Verjährungs-Fristenkalender
+- MDK-Überprüfungsantrag (Behandlungsqualität)
+
+## Quellen
+
+- [§ 116 SGB X – Anspruchsübergang](https://www.gesetze-im-internet.de/sgb_10/__116.html)
+- [§ 630a BGB – Behandlungsvertrag](https://www.gesetze-im-internet.de/bgb/__630a.html)
+- [BSG B 1 KR 26/07 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [BGH VI ZR 91/17](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 116 SGB X](https://dejure.org/gesetze/SGB_X/116.html)
+- [Bundesärztekammer Behandlungsfehler](https://www.bundesaerztekammer.de)

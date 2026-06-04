@@ -1,47 +1,82 @@
 ---
 name: kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif
-description: "Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung."
 ---
 
-# Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif
+# Kassenwahl: Kündigung, Bindungsfrist und Wahltarif
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Kassenwahl Kündigung Bindungsfrist Wahltarif** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill regelt das **Kassenwahlrecht in der GKV**: Wie kann man die Kasse wechseln, wann greift das Sonderkündigungsrecht, was sind Wahltarife und wie ist die Bindungsfrist zu beachten?
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 175 SGB V** – Ausübung des Kassenwahlrechts, Bindungsfrist, Kündigung
+- **§ 53 SGB V** – Wahltarife: Selbstbehalt, Beitragsrückgewähr, Kostenerstattung, Tarifsonderbedingungen
+- **§ 173 SGB V** – Wahlrecht, offene Kassen
+- **§ 174 SGB V** – Einschränkungen des Wahlrechts
+- **§ 242 SGB V** – Zusatzbeitrag und Sonderkündigungsrecht
+- BSG B 1 KR 14/17 R (Wahltarife und Bindungsfristen)
+
+## Kündigungsregeln GKV
+
+| Situation | Frist | Rechtsgrundlage |
+|-----------|-------|----------------|
+| Ordentliche Kündigung | 2 Monate zum Monatsende | § 175 Abs. 4 Satz 1 |
+| Bindungsfrist (Neuzugang) | Mindestens 18 Monate Mitgliedschaft | § 175 Abs. 4 Satz 2 |
+| Sonderkündigung Zusatzbeitragserhöhung | 1 Monat Frist | § 175 Abs. 4 Satz 5 i.V.m. § 242 |
+| Wahltarif Selbstbehalt | Gesonderte Bindung 3 Jahre | § 53 Abs. 8 |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Ordentliche Kündigung
+- Mitgliedschaft mind. 18 Monate? (Bindungsfrist)
+- Kündigung schriftlich, spätestens am letzten Tag des Kalendermonats der 2-Monats-Frist
+- Nachweis neuer Mitgliedschaft beifügen (Mitgliedsbescheinigung neue Kasse)
+- Alte Kasse muss Kündigung bestätigen
+
+### Schritt 2 – Sonderkündigungsrecht bei Zusatzbeitragserhöhung
+- Kasse erhöht Zusatzbeitrag → Sonderkündigungsrecht entsteht
+- Kündigung innerhalb 1 Monat nach Erhöhung zum Zeitpunkt des Inkrafttretens
+- Information durch Kasse: muss schriftlich mit Hinweis auf Sonderkündigungsrecht erfolgen
+- Ohne Information: Sonderkündigungsrecht bleibt bestehen bis Kasse nachträglich informiert
+
+### Schritt 3 – Wahltarife (§ 53 SGB V)
+- Selbstbehalt-Tarif: Versicherter zahlt bis Schwellenwert selbst; dafür Beitragsrabatt
+- Beitragsrückgewähr: Keine Leistungsinanspruchnahme → anteilige Rückerstattung am Jahresende
+- Kostenerstattungstarif: Versicherter zahlt Arzt und erhält Erstattung von Kasse
+- Bindung 3 Jahre: Wahltarif-Kündigung nur bei Beitragserhöhung oder nach 3 Jahren
+
+### Schritt 4 – Wechsel zu PKV
+- GKV-Mitglied kann bei JAEG-Überschreitung (> 73.800 €/Jahr 2025) zur PKV wechseln
+- Rückkehr zur GKV: nur bei Unterschreiten der JAEG oder Statuswechsel (→ kv-003)
+- Beratungspflicht der Kasse: § 175 Abs. 5 SGB V
+
+### Schritt 5 – Mitgliedsbescheinigung und Übergangsversicherung
+- Neue Kasse bestätigt Mitgliedschaft sofort; auch rückwirkend zum Tag nach Kündigung
+- Lücke in Versicherung darf nicht entstehen
+- Wenn neue Kasse ablehnt (z.B. Satzungsleistungen): Auffangpflichtversicherung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Wahltarif und Kündigung der Kasse**: Kassenentaustritt beendet Wahltarif; Rückforderung bei Selbstbehalt-Tarif beachten.
+- **18-Monats-Frist nach Kassenwechsel**: Beginnt neu nach jedem Kassenwechsel.
+- **Familienversicherung und Kassenwechsel**: Familienmitglieder versichern sich automatisch bei Hauptmitglied mit.
+- **Elektronische Kündigung**: Nur per Kassen-App oder gesicherter Verbindung zulässig; einfache E-Mail reicht nicht.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Kündigungsschreiben (Muster)
+- Sonderkündigungsrechts-Schreiben
+- Wahltarif-Vergleichstabelle
+- Widerspruch gegen Kündigung-Ablehnung
+- Mitgliedsbescheinigung-Anforderung
+
+## Quellen
+
+- [§ 175 SGB V – Kassenwahlrecht](https://www.gesetze-im-internet.de/sgb_5/__175.html)
+- [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
+- [§ 242 SGB V – Zusatzbeitrag](https://www.gesetze-im-internet.de/sgb_5/__242.html)
+- [BSG Kassenwechsel-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 175 SGB V](https://dejure.org/gesetze/SGB_V/175.html)
+- [GKV-Spitzenverband Kassenwahl](https://www.gkv-spitzenverband.de)

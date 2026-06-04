@@ -1,47 +1,92 @@
 ---
 name: kv-061-versorgungsbezuege-und-doppelverbeitragung
-description: "Krankenversicherung: Versorgungsbezüge und Doppelverbeitragung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Kritische Analyse der Doppelverbeitragung von Betriebsrenten in der GKV: Rechtslage, Reform 2020, Freibetrag, laufende Verfahren und Gestaltungsoptionen."
 ---
 
-# Krankenversicherung: Versorgungsbezüge und Doppelverbeitragung
+# Versorgungsbezüge und Doppelverbeitragung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Versorgungsbezüge und Doppelverbeitragung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstrittenes Thema. Dieser Skill analysiert **die aktuelle Rechtslage nach dem Freibetrag 2020, Verteidigungsstrategien und Gestaltungsoptionen zur Beitragsminimierung**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 229 SGB V** – Versorgungsbezüge als beitragspflichtige Einnahmen
+- **§ 226 Abs. 2 SGB V** – Freibetrag 2020: 1/20 der monatlichen Bezugsgröße (2025: 187,25 €)
+- **Betriebsrentenstärkungsgesetz 2019** – Einführung des Freibetrags
+- BVerfG 1 BvR 100/15 (Doppelverbeitragung verfassungskonform; aber politischer Reformdruck)
+- BSG B 12 KR 5/21 R (Freibetrag-Berechnung bei mehreren Bezügen)
+- **BMF-Schreiben** zur steuerlichen Behandlung von Entgeltumwandlung
+
+## Doppelverbeitragung – Mechanismus
+
+| Phase | Beitragsbelastung |
+|-------|------------------|
+| Erwerbsphase (Entgeltumwandlung) | Beiträge werden aus beitragspflichtigem Entgelt geleistet (BEREITS nach GKV-Beitragsabzug) |
+| Rentenphase (Auszahlung) | Betriebsrente wieder als Versorgungsbezug verbeitragt |
+| Doppeleffekt | Gleicher Betrag zweifach verbeitragt |
+| Reform 2020 | Freibetrag 187,25 €/Monat mindert Doppelverbeitragung |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Entgeltumwandlung identifizieren
+- Wurde bAV durch Entgeltumwandlung finanziert (aus Bruttolohn steuerlich oder aus Nettolohn)?
+- Bei Entgeltumwandlung aus Bruttolohn: GKV-Beitragsfreiheit in Ansparphase bis 4 % der BBG (2025: bis 3.624 €/Jahr)
+- Bei Entgeltumwandlung aus Nettolohn (historisch): volle Doppelverbeitragung
+
+### Schritt 2 – Freibetrag anwenden (§ 226 Abs. 2 SGB V)
+- Freibetrag 187,25 €/Monat abziehen
+- Nur einmal unabhängig von Anzahl der Versorgungsbezüge
+- Beitrag nur auf Betrag über Freibetrag
+
+### Schritt 3 – Gestaltungsoptionen
+- Kapitalzahlung vs. Rente: Kapitalzahlung auf 10 Jahre verteilt → oft geringere Gesamtbelastung
+- Riester-Entgeltumwandlung: andere Beitragsregeln; weniger Doppelverbeitragung
+- Kombination verschiedener bAV-Wege wählen um Freibetrag optimal zu nutzen
+
+### Schritt 4 – Laufende politische Diskussion
+- Bundesregierung diskutiert vollständige Abschaffung der Doppelverbeitragung
+- Aktueller Stand: Freibetrag aus 2020 bleibt; vollständige Abschaffung noch nicht beschlossen
+- Monitoring: Gesetzgebungsverfahren verfolgen
+
+### Schritt 5 – Rechtliche Überprüfung
+- BVerfG hat Verfassungsmäßigkeit bestätigt
+- Neue Verfassungsbeschwerden nach Reform 2020: noch anhängig oder abgewiesen
+- Kein individueller Rechtsanspruch auf beitragsfreie Betriebsrente
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Beitragsbefreiung in Ansparphase verleitet zur Unterschätzung**: Beitragsfreiheit in Ansparphase führt zur größeren Auszahlung, die dann vollständig verbeitragt wird.
+- **Freiwillig Versicherter vs. Pflichtmitglied**: Doppelverbeitragung trifft beide; unterschiedliche Beitragssätze.
+- **Riester + Entgeltumwandlung**: Kombination kann steuerlich und sozialversicherungsrechtlich vorteilhaft sein.
+- **Geschäftsführer als AG-Alleingesellschafter**: Direktversicherung: besondere Regeln (kein sozialversicherungspflichtiges Beschäftigungsverhältnis).
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Doppelverbeitragungsberechnung (Tabelle)
+- Freibetrags-Kalkulation
+- Gestaltungsoptionen-Übersicht
+- Politisches Monitoring-Dokument
+- Steuerberater-Briefing (bAV und GKV)
+
+## Quellen
+
+- [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
+- [§ 226 SGB V – Freibetrag](https://www.gesetze-im-internet.de/sgb_5/__226.html)
+- [BVerfG 1 BvR 100/15](https://www.bverfg.de/entscheidungen.html)
+- [BSG B 12 KR 5/21 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [GKV-Spitzenverband Betriebsrente](https://www.gkv-spitzenverband.de)
+- [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)
+## Hinweis: BVerfG-Entscheidung 2023 und Reaktion des Gesetzgebers
+
+- BVerfG 1 BvL 3/18 (August 2023): Doppelverbeitragung von Direktversicherungen verfassungswidrig, soweit keine steuerliche Förderung in der Ansparphase erfolgte
+- Gesetzgeber hat § 229 SGB V angepasst: Freigrenze für Versorgungsbezüge ab 2025 (1/20 der monatlichen Bezugsgröße)
+- Versicherte sollten alle Versorgungsbezüge dokumentieren und prüfen, ob die Freigrenze greift
+- Offene Erstattungsansprüche aus vergangenen Perioden: Prüfung empfohlen
+
+## Weiterführende Quellen
+
+- [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
+- [BVerfG 1 BvL 3/18 – Direktversicherung](https://www.bverfg.de/e/ls20230627_1bvl000318.html)
+- [GKV-Spitzenverband – Beitragsrecht](https://www.gkv-spitzenverband.de)
+

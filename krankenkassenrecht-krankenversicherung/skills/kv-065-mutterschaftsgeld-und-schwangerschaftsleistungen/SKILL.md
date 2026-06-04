@@ -1,47 +1,85 @@
 ---
 name: kv-065-mutterschaftsgeld-und-schwangerschaftsleistungen
-description: "Krankenversicherung: Mutterschaftsgeld und Schwangerschaftsleistungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge."
 ---
 
-# Krankenversicherung: Mutterschaftsgeld und Schwangerschaftsleistungen
+# Mutterschaftsgeld und Schwangerschaftsleistungen
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Mutterschaftsgeld und Schwangerschaftsleistungen** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: Mutterschaftsgeld, Vorsorgeuntersuchungen, Entbindung und Nachsorge.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 24a SGB V** – Schwangerschaftsvorsorge und -beratung
+- **§ 24b SGB V** – Empfängnisverhütung, Sterilisation, Schwangerschaftsabbruch
+- **§ 24c SGB V** – Entbindung
+- **§ 24d SGB V** – Hebammenhilfe
+- **§ 24e SGB V** – Stillförderung
+- **§ 24i SGB V** – Mutterschaftsgeld
+- **§ 26a SGB V** – Zusätzliche Leistungen Schwangere (Satzungsleistungen)
+- **MuSchG** (Mutterschutzgesetz) §§ 18–24 – Arbeitnehmerinnen
+- BSG B 1 KR 7/21 R (Mutterschaftsgeld, Berechnung)
+
+## Mutterschaftsgeld-Systematik
+
+| Parameter | Inhalt |
+|-----------|--------|
+| Anspruch | 6 Wochen vor + 8 Wochen (12 bei Mehrlingen/Frühgeburt) nach Geburt |
+| Betrag | 100 % des Nettoentgelts (bis max. 13 €/Kalendertag aus GKV) |
+| Aufstockung | AG zahlt Differenz zu 100 % (MuSchG § 20) |
+| Anspruchsvoraussetzung | Beschäftigung + GKV-Mitgliedschaft mit Anspruch auf Krankengeld |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Mutterschaftsgeld-Anspruch (§ 24i SGB V)
+- GKV-Mitglied mit Krankengeld-Anspruch (Pflichtmitglied in Beschäftigung)?
+- Beschäftigungsverbot nach MuSchG ab 6 Wochen vor Geburt?
+- Antragsstellung: bei der Kasse; spätestens ab 7. Monat
+- Höhe: durchschnittliches Nettoentgelt der letzten 3 Monate; max. 13 €/Tag aus GKV
+
+### Schritt 2 – AG-Aufstockung (MuSchG § 20)
+- AG zahlt Differenz zwischen Mutterschaftsgeld (13 €/Tag) und tatsächlichem Nettoentgelt
+- Bei variablem Entgelt: Durchschnitt letzter 3 Monate vor Beginn des Beschäftigungsverbots
+- AG erhält Ausgleich durch Arbeitgeberumlage (U2)
+
+### Schritt 3 – Schwangerschaftsvorsorge (§ 24a SGB V)
+- Mutterschaftsrichtlinien (G-BA): Vorsorgeuntersuchungen, Blutgruppe, Ultraschall
+- Kosten vollständig von GKV getragen
+- Zusätzliche IGeL-Untersuchungen: privat zu zahlen; keine Kassenleistung
+- Ersttrimester-Screening, 3D-Ultraschall: nicht automatisch GKV-Leistung
+
+### Schritt 4 – Entbindung (§ 24c SGB V)
+- Im Krankenhaus: vollstationäre Behandlung (§ 39 SGB V)
+- Außerklinische Geburt (Geburtshaus, Hausgeburt): GKV-Leistung (§ 24c Abs. 1)
+- Hebamme: GKV-Leistung (§ 24d SGB V); freie Hebammenwahl
+- Zuzahlung: keine für Entbindung; nur ggf. § 39 Abs. 4 für KH-Aufenthalt
+
+### Schritt 5 – Wochenbett und Nachsorge
+- Nachsorgehebamme: GKV-Leistung nach § 24d SGB V
+- Haushaltshilfe nach § 38 SGB V: bei stationärer Entbindung und Kind < 12 im Haushalt
+- Sonderfall § 26a SGB V: manche Kassen bieten erweiterte Schwangerenleistungen als Satzungsleistung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Keine Krankengeld-Berechtigung**: Freiwillig Versicherte ohne KG-Tarif: nur 13 €/Tag aus GKV-Fonds (nicht § 24i Abs. 1); kein AG-Zuschuss.
+- **IGeL als Kassenleistung verkauft**: Ersttrimester-Screening als Kassenleistung vermarktet; ist es nicht → Versicherte zahlen selbst und haben keinen Rückforderungsanspruch.
+- **Frühgeburt**: 12 statt 8 Wochen Schutzfrist nach Geburt; Antrag aktualisieren.
+- **Beschäftigungsverbot und Entgeltverlust**: Individuelles Beschäftigungsverbot (vor den 6 Wochen) → nur MuSchG § 11 (Entgeltfortzahlung durch AG, nicht GKV).
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Mutterschaftsgeld-Antrag (Muster)
+- AG-Aufstockungs-Berechnung
+- Schwangerenvorsorge-Übersicht (GKV vs. IGeL)
+- Haushaltshilfe-Antrag nach Geburt
+- Nachsorgehebamme-Anforderungsbrief
+
+## Quellen
+
+- [§ 24i SGB V – Mutterschaftsgeld](https://www.gesetze-im-internet.de/sgb_5/__24i.html)
+- [§ 24c SGB V – Entbindung](https://www.gesetze-im-internet.de/sgb_5/__24c.html)
+- [MuSchG § 20 – AG-Aufstockung](https://www.gesetze-im-internet.de/muschg_2018/__20.html)
+- [Mutterschaftsrichtlinien G-BA](https://www.g-ba.de/richtlinien/19/)
+- [BSG Mutterschaftsgeld](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 24i SGB V](https://dejure.org/gesetze/SGB_V/24i.html)

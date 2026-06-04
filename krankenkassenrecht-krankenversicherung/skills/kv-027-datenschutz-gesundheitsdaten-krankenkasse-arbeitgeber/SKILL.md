@@ -1,47 +1,85 @@
 ---
 name: kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber
-description: "Krankenversicherung: Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte."
 ---
 
-# Krankenversicherung: Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber
+# Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Gesundheitsdaten genießen besonderen Schutz. Dieser Skill klärt, **welche Daten die Krankenkasse verarbeiten darf**, wann sie Daten weitergeben darf und welche Rechte der Versicherte hat – insbesondere gegenüber dem Arbeitgeber.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **DSGVO Art. 9** – Besondere Kategorien personenbezogener Daten (Gesundheitsdaten)
+- **§ 67 SGB X** – Sozialdatenschutz: Grundsätze, Zweckbindung
+- **§ 76 SGB X** – Übermittlung von Sozialdaten an Strafverfolgungsbehörden
+- **§ 77 SGB X** – Übermittlung für wissenschaftliche Forschung
+- **§ 295 SGB V** – Datenübermittlung Arzt → Kasse (Diagnosen, Leistungsdaten)
+- **§ 305 SGB V** – Auskunftsanspruch des Versicherten
+- **§ 611a BGB** – Datenschutz im Arbeitsverhältnis (kein Recht auf AU-Diagnose durch AG)
+- **BDSG** §§ 22, 26 – Beschäftigtendatenschutz
+- BSG B 1 KR 25/17 R (Sozialdatenschutz und Weitergabe)
+
+## Schutzbereich und Weitergabe-Verbote
+
+| Datenkategorie | Weitergabe an Arbeitgeber | Rechtsgrundlage |
+|---------------|--------------------------|-----------------|
+| AU-Diagnose | VERBOTEN | § 294 SGB V; kein Anspruch AG |
+| AU-Fakt (ja/nein) | Nur durch Arbeitnehmer selbst | § 5 EFZG |
+| Behandlungsart | VERBOTEN ohne Einwilligung | DSGVO Art. 9 |
+| MDK-Gutachteninhalt | VERBOTEN gegenüber AG | § 67 SGB X |
+| Beitragsschulden | Beitreibungsmaßnahmen nicht an AG | § 76 SGB X |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Datenverarbeitung durch Kasse
+- Welche Daten verarbeitet die Kasse? (§ 284 SGB V: abschließende Aufzählung)
+- Zweckbindung: Kasse darf Daten nur für den gesetzlichen Aufgabenbereich nutzen
+- Datenminimierung: nur erforderliche Daten erheben (DSGVO Art. 5 Abs. 1 lit. c)
+
+### Schritt 2 – Weitergabe an Arbeitgeber
+- Arbeitgeber hat keinen Anspruch auf Diagnosen; Auskunftspflicht des AN: nur „krank ja/nein"
+- Kasse darf keine Gesundheitsdaten an Arbeitgeber übermitteln
+- Ausnahme: Arbeitgeber zahlt Entgeltfortzahlung → hat Anspruch auf Bestätigung AU, aber nicht Diagnose
+- Betriebsarzt: separates System; Betriebsarzt darf keine Diagnosen an Arbeitgeber weitergeben (§ 8 ASiG)
+
+### Schritt 3 – MDK und Datenschutz
+- MDK-Gutachten enthält sensible Gesundheitsdaten; verbleibt beim MD
+- Arbeitgeber hat kein Recht auf MDK-Gutachten
+- Sozialgerichte: können Gutachten beiziehen; Akteneinsicht nur Partei (Versicherter, Kasse)
+
+### Schritt 4 – Auskunftsrechte des Versicherten
+- § 305 SGB V: Kasse muss Versicherten über gespeicherte Daten informieren
+- DSGVO Art. 15: Auskunftsrecht über alle personenbezogenen Daten
+- Löschung: nicht möglich wenn gesetzliche Aufbewahrungspflicht (§ 110 SGB IV: 10 Jahre)
+
+### Schritt 5 – Elektronische Patientenakte (ePA) und Datenschutz
+- ePA: Daten freiwillig eingestellt; Versicherter entscheidet über Zugriffsrechte
+- Arbeitgeber hat kein Zugriffsrecht auf ePA
+- Opt-out-Regelung (ab 2025): ePA standardmäßig angelegt; Widerspruch möglich
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Krankenkassen-App-Daten**: Gesundheitsdaten in Apps der Kasse fallen unter DSGVO; Einwilligung prüfen.
+- **Entgeltfortzahlungs-Erstattung**: Wenn AG von Kasse EFZG-Erstattung erhält, fließen keine Diagnosen → nur Betrag.
+- **Bonusprogramme und Datenkrake**: Fitnessdaten, Vorsorge-Nachweise → DSGVO-Einwilligung prüfen; Widerruf möglich.
+- **Auskunftsersuchen Strafverfolgung**: Enge Voraussetzungen (§ 76 SGB X); Kasse muss kein Selbstauskunftsrecht sabotieren.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Datenschutz-Auskunftsantrag (DSGVO Art. 15)
+- Beschwerde bei Datenschutzbeauftragten (Aufsichtsbehörde)
+- Widerspruch gegen Datenweitergabe
+- ePA-Widerspruchsschreiben
+- Informationsblatt für Arbeitnehmer
+
+## Quellen
+
+- [DSGVO Art. 9 – Gesundheitsdaten](https://dsgvo-gesetz.de/art-9-dsgvo/)
+- [§ 67 SGB X – Sozialdatenschutz](https://www.gesetze-im-internet.de/sgb_10/__67.html)
+- [§ 284 SGB V – Datenverarbeitung Kassen](https://www.gesetze-im-internet.de/sgb_5/__284.html)
+- [§ 305 SGB V – Auskunftsanspruch](https://www.gesetze-im-internet.de/sgb_5/__305.html)
+- [Bundesdatenschutzgesetz BDSG](https://www.gesetze-im-internet.de/bdsg_2018/)
+- [dejure.org § 67 SGB X](https://dejure.org/gesetze/SGB_X/67.html)
+- [BfDI – Bundesbeauftragter Datenschutz](https://www.bfdi.bund.de)

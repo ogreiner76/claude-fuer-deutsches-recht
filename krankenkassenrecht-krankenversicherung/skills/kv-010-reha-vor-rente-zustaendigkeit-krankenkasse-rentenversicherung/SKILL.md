@@ -1,47 +1,82 @@
 ---
-name: kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche
-description: "Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: kv-010-reha-vor-rente-zustaendigkeit-krankenkasse
+description: "Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha."
 ---
 
-# Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung
+# Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkasse oder Rentenversicherung?** Dieser Skill klärt Zuständigkeitsabgrenzung, Nahtlosigkeit und die Folgen der falschen Antragstellung.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 40 SGB V** – Leistungen zur medizinischen Rehabilitation (GKV-Zuständigkeit)
+- **§§ 9–31 SGB VI** – Leistungen zur Teilhabe (Rentenversicherung, med. + berufliche Reha)
+- **§ 14 SGB IX** – Erstattungspflicht des erstangegangenen Trägers; Weiterleitung innerhalb 2 Wochen
+- **§ 15 SGB IX** – Selbstbeschaffung bei Versagen des Trägers
+- **§ 16 SGB VI** – „Reha vor Rente" (RvR): Versicherter muss Reha nicht ablehnen wenn Rentenversicherung fordert
+- **§ 51 SGB V** – GKV kann Versicherte bei drohender Erwerbsminderung auf Reha-Antrag verweisen
+- **SGB IX §§ 4, 6, 14, 15** – Leistungsrecht, Zuständigkeit, Erstattung
+- BSG B 1 KR 10/20 R (Reha-Zuständigkeit GKV vs. RV)
+
+## Zuständigkeitsmatrix
+
+| Leistungstyp | Primär zuständig | Sekundär/Nachrang |
+|--------------|-----------------|-------------------|
+| Med. Reha ohne RV-Bezug | Krankenkasse § 40 SGB V | – |
+| Med. Reha bei Erwerbsminderungsrisiko | Deutsche Rentenversicherung § 9 SGB VI | GKV subsidiär |
+| Berufliche Rehabilitation | Deutsche Rentenversicherung, Bundesagentur | Krankenkasse nicht zuständig |
+| Anschlussrehabilitation (AHB) | Rentenversicherung oder GKV je nach Zuweisung | Krankenhaus koordiniert |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Zuständigkeit bestimmen
+- Hat der Versicherte ausreichende Wartezeit bei Rentenversicherung (15 Jahre) für § 9 SGB VI?
+- Besteht Erwerbsminderungsrisiko? (droht Erwerbsminderungsrente)
+- Wenn ja: Rentenversicherung primär zuständig → Antrag dort stellen
+
+### Schritt 2 – § 14 SGB IX: Erstangegangener Träger
+- Antrag bei falscher Stelle eingereicht: Träger muss innerhalb 2 Wochen weiterleiten
+- Wenn Weiterleitung versäumt: Erstangegangener Träger haftet und muss leisten
+- Wichtig: Versicherter stellt Antrag bei GKV, obwohl RV zuständig → GKV muss leisten und holt sich Geld von RV zurück
+
+### Schritt 3 – § 51 SGB V: GKV-Reha-Verweis
+- GKV kann verlangen, dass Versicherter Reha-Antrag bei RV stellt wenn Krankengeld-Anspruch erschöpft droht
+- Verweigert Versicherter: GKV kann Krankengeld einstellen
+- Reha-Antrag gilt als Rentenantrag! (§ 51 Abs. 3 SGB V) – darauf hinweisen
+
+### Schritt 4 – Selbstbeschaffung § 15 SGB IX
+- Träger verweigert oder verzögert Leistung rechtswidrig → Versicherter kann selbst beschaffen
+- Voraussetzung: Anspruch besteht, Versagen des Trägers, notfallmäßige Beschaffung
+- Erstattung: volle Kosten der gleichwertigen Leistung
+
+### Schritt 5 – Nahtlosigkeit Krankengeld-Reha
+- Übergang Krankengeld → Übergangsgeld (Reha) muss nahtlos sein
+- Übergangsgeld: 68 % / 75 % des Regelentgelts (§ 20 SGB VI)
+- Rentenversicherung muss Beginn der Reha-Leistung zeitnah koordinieren
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Reha-Antrag = Rentenantrag**: § 51 Abs. 3 SGB V; Versicherte werden oft nicht aufgeklärt.
+- **Anschlussrehabilitation verpasst**: AHB muss im Krankenhaus beantragt werden; nachträgliche Beantragung möglich, aber schwieriger.
+- **Berufliche Reha vergessen**: Nur medizinische Reha beantragt; berufliche Reha hätte Erwerbsfähigkeit erhalten.
+- **MDK-Verneinung der Reha-Notwendigkeit**: Gegengutachten des behandelnden Arztes; BSG-Maßstab: nicht Heilung, sondern Verbesserung der Teilhabe.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Reha-Antrag (Muster DRV/GKV)
+- Zuständigkeitseinrede-Schreiben
+- § 51 SGB V-Widerspruch (Reha-Aufforderung)
+- Selbstbeschaffungs-Erstattungsantrag
+- Übergangsgeld-Berechnungsblatt
+
+## Quellen
+
+- [§ 40 SGB V – Medizinische Rehabilitation](https://www.gesetze-im-internet.de/sgb_5/__40.html)
+- [§ 14 SGB IX – Erstangegangener Träger](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
+- [§ 9 SGB VI – Reha vor Rente](https://www.gesetze-im-internet.de/sgb_6/__9.html)
+- [§ 51 SGB V – Reha-Verweis](https://www.gesetze-im-internet.de/sgb_5/__51.html)
+- [Deutsche Rentenversicherung – Rehabilitation](https://www.deutsche-rentenversicherung.de)
+- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org SGB IX § 14](https://dejure.org/gesetze/SGB_IX/14.html)

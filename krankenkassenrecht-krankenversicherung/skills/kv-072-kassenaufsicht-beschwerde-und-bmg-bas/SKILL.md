@@ -1,47 +1,81 @@
 ---
 name: kv-072-kassenaufsicht-beschwerde-und-bmg-bas
-description: "Krankenversicherung: Kassenaufsicht Beschwerde und BMG/BAS mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel."
 ---
 
-# Krankenversicherung: Kassenaufsicht Beschwerde und BMG/BAS
+# Kassenaufsicht: Beschwerde und BMG/BAS
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Kassenaufsicht Beschwerde und BMG/BAS** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Neben dem Rechtsweg zu den Sozialgerichten können Beschwerden bei der Kassenaufsicht eingereicht werden. Dieser Skill klärt **Zuständigkeiten von BAS und Landesbehörden, sinnvolle Beschwerdeinhalte und Grenzen der Aufsicht**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 87 SGB IV** – Aufsicht über Sozialversicherungsträger
+- **§ 88 SGB IV** – Maßnahmen der Aufsichtsbehörde
+- **§ 89 SGB IV** – Verpflichtungsklage gegen Aufsichtsbehörde
+- **§ 90 SGB IV** – Schließung von Krankenkassen
+- **BAS** (Bundesamt für Soziale Sicherung) – bundesunmittelbare Kassen
+- **Landesbehörden** (z.B. Regierungspräsidien, Landessozialbehörden) – landesunmittelbare Kassen
+- BSG B 1 A 3/14 R (Kassenaufsicht, Beschwerderechte)
+
+## Aufsichtsstruktur
+
+| Kassentyp | Aufsichtsbehörde |
+|-----------|-----------------|
+| AOK (landesweit) | Landesbehörde (z.B. Bayern: Staatsministerium Gesundheit) |
+| Bundesweite Kassen (TK, Barmer etc.) | BAS |
+| Ersatzkassen | BAS |
+| Innungskrankenkassen | Ggf. BAS oder Land je nach Verbreitung |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Zuständigkeit bestimmen
+- Welche Kasse ist betroffen? Bundesweit oder landesweit?
+- BAS: Bundesamt für Soziale Sicherung (Bonn)
+- Landesbehörde: je nach Bundesland; Recherche erforderlich
+
+### Schritt 2 – Geeignete Beschwerdeinhalte
+- Systematische Rechtsverletzung durch Kasse (nicht nur Einzelfall-Ablehnung)
+- Satzungswidrige Praxis (z.B. Werbung mit unzulässigen Zusatzleistungen)
+- Verletzung von Informationspflichten
+- Fehlerhafte Beitragserhebung bei vielen Versicherten
+
+### Schritt 3 – Grenzen der Aufsicht
+- Aufsichtsbehörde entscheidet NICHT über individuelle Leistungsansprüche
+- Aufsichtsbehörde kann Kasse zu rechtmäßigem Handeln auffordern; keine Einzelentscheidung
+- Für individuelle Ansprüche: Sozialgerichtsweg (Widerspruch + Klage)
+
+### Schritt 4 – Beschwerde formulieren
+- Schriftlich; genaue Beschreibung der Rechtsverletzung
+- Beifügen: Bescheide, Korrespondenz, eigene Schriftstücke
+- Frist: keine gesetzliche Frist; aber zeitnah nach Vorfall
+
+### Schritt 5 – Ergänzung zum Sozialgerichtsweg
+- Aufsichtsbeschwerde ist kein Ersatz für Widerspruch/Klage
+- Synergie: Beschwerde bei Aufsichtsbehörde + gleichzeitig Widerspruch bei Kasse
+- Beschleunigungseffekt: Kassen reagieren oft bei Aufsichtsbehördenbeschwerde schneller
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Aufsichtsbeschwerde statt Widerspruch**: Löst keine Fristen ein; Widerspruch muss parallel erfolgen.
+- **Einzelfall-Beschwerden**: Aufsicht ist nicht für individuelle Streitigkeiten zuständig; SG ist der richtige Weg.
+- **Anonyme Beschwerden**: Möglich, aber schwächer; Aufsichtsbehörde kann keine Rückfragen stellen.
+- **Ombudsmann GKV**: Gibt es nicht; nur PKV-Ombudsmann; GKV-Patientenbeauftragter auf Bundesebene.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Aufsichtsbeschwerde BAS (Muster)
+- Aufsichtsbeschwerde Landesbehörde (Muster)
+- Parallelstrategie: Beschwerde + Widerspruch
+- Beschwerdedokumentation
+- Antwort auf Aufsichtsbehörden-Anfrage
+
+## Quellen
+
+- [§ 87 SGB IV – Aufsicht](https://www.gesetze-im-internet.de/sgb_4/__87.html)
+- [Bundesamt für Soziale Sicherung (BAS)](https://www.bundesamtsozialesicherung.de)
+- [§ 88 SGB IV – Maßnahmen Aufsicht](https://www.gesetze-im-internet.de/sgb_4/__88.html)
+- [BSG Aufsichtsrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 87 SGB IV](https://dejure.org/gesetze/SGB_IV/87.html)
+- [Unabhängige Patientenberatung (UPD)](https://www.patientenberatung.de)

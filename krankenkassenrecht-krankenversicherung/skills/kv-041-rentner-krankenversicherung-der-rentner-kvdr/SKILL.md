@@ -1,47 +1,81 @@
 ---
 name: kv-041-rentner-krankenversicherung-der-rentner-kvdr
-description: "Krankenversicherung: Rentner Krankenversicherung der Rentner KVdR mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien."
 ---
 
-# Krankenversicherung: Rentner Krankenversicherung der Rentner KVdR
+# Rentner: Krankenversicherung der Rentner (KVdR)
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Rentner Krankenversicherung der Rentner KVdR** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Krankenversicherung der Rentner (KVdR) regelt die GKV-Pflichtmitgliedschaft im Rentenalter. Dieser Skill klärt **Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und häufige Streitfragen**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 Abs. 1 Nr. 11 SGB V** – Pflichtversicherung Rentner (KVdR)
+- **§ 190 Abs. 11 SGB V** – Beginn der KVdR-Mitgliedschaft
+- **§ 226 SGB V** – Beitragsbemessung bei Rentnern: Rente, Versorgungsbezüge, Arbeitseinkommen
+- **§ 229 SGB V** – Versorgungsbezüge: Betriebsrenten, Direktversicherungen
+- **§ 248 SGB V** – Beitragssatz für Rentner (hälftiger Beitrag; keine AG-Hälftetragung)
+- **§ 256 SGB V** – Abzug der Beiträge durch Rentenversicherungsträger
+- BSG B 12 KR 10/17 R (KVdR-Vorversicherungszeit), BSG B 12 KR 14/14 R (Versorgungsbezüge)
+
+## KVdR-Vorversicherungszeit
+
+| Zeitraum | Mindestanteil GKV |
+|----------|------------------|
+| 2. Hälfte des Erwerbslebens | 9/10 GKV-versichert |
+| Berechnung | 2. Hälfte = Hälfte aller Beschäftigungsjahre; GKV-Zeiten inkl. freiwillig, Familienversicherung |
+| Fehlerquelle | Zeiten in PKV zählen nicht; Zeiten als Selbstständiger ohne GKV zählen nicht |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Vorversicherungszeit berechnen
+- Gesamtes Erwerbsleben feststellen (Beginn bis Rentenantritt)
+- 2. Hälfte identifizieren
+- GKV-Zeiten in der 2. Hälfte: Pflicht + freiwillig + Familienversicherung
+- Mindestens 9/10 = 90 % der 2. Hälfte in GKV?
+
+### Schritt 2 – Anspruchsprüfung und Antrag
+- Gleichzeitig Rentenantrag gestellt? (Rentenantrag löst KVdR-Prüfung aus)
+- Kasse prüft Vorversicherungszeit automatisch
+- Ablehnung: Widerspruch mit eigener Berechnung und Nachweisen (Sozialversicherungsverlauf)
+
+### Schritt 3 – Beitragsbemessung (§ 226 SGB V)
+- Beitragspflichtig: Rente + Versorgungsbezüge + Arbeitseinkommen
+- Nicht beitragspflichtig: Wohngeld, Grundsicherung, steuerfreie Kapitalleistungen (außer § 229)
+- Beitrag: allgemeiner Beitragssatz (14,6 %) + Zusatzbeitrag; Hälftetragung: Rentner 50 %, Rentenversicherungsträger 50 %
+
+### Schritt 4 – Versorgungsbezüge (§ 229 SGB V)
+- Beitragspflichtig: Betriebsrente, Direktversicherung, Pensionskasse
+- Freibetrag 2025: 187,25 €/Monat
+- Kapitalzahlungen aus Direktversicherungen: auf 10 Jahre verteilt (120 Monate) → Monatsbetrag beitragspflichtig
+- BSG: auch Einmalzahlungen beitragspflichtig
+
+### Schritt 5 – Kein KVdR-Anspruch: freiwillige Versicherung
+- Vorversicherungszeit nicht erfüllt: freiwillige Versicherung (§ 9 SGB V) möglich
+- Beitrag höher: Mindestbemessungsgrundlage § 240 SGB V
+- Keine Hälftetragung durch Rentenversicherungsträger
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **PKV-Zeiten als Lücken**: Zeiten in der PKV zählen nicht für KVdR-Vorversicherung → führt bei Wechseln in KVdR-Verlust.
+- **Familienversicherungszeiten**: Zeiten als Familienmitglied werden angerechnet; oft unterschätzt.
+- **Minijob-Rente**: Geringfügige Beschäftigung als Rentner kann Beitrag erhöhen (§ 226 Abs. 1 Nr. 3 SGB V).
+- **Frührentner**: KVdR erst bei gesetzlicher Rente; Frührentner aus privaten Quellen nicht automatisch KVdR.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Vorversicherungszeitberechnung (Tabelle)
+- Widerspruch gegen KVdR-Ablehnung
+- Versorgungsbezüge-Beitragsberechnung
+- Kapitalleistungs-Monatsbeitragsberechnung
+- KVdR vs. freiwillig Versichert – Kostenvergleich
+
+## Quellen
+
+- [§ 5 SGB V Nr. 11 – KVdR](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
+- [§ 226 SGB V – Beitragsbemessung Rentner](https://www.gesetze-im-internet.de/sgb_5/__226.html)
+- [BSG B 12 KR 10/17 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de)
+- [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)

@@ -1,47 +1,91 @@
 ---
 name: kv-059-selbstbehalt-wahltarif-und-kuendigung
-description: "Krankenversicherung: Selbstbehalt Wahltarif und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen."
 ---
 
-# Krankenversicherung: Selbstbehalt Wahltarif und Kündigung
+# Selbstbehalt-Wahltarif und Kündigung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Selbstbehalt Wahltarif und Kündigung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei Leistungen. Dieser Skill klärt **Funktionsweise, 3-Jahres-Bindung, Kündigungsrechte und Rückforderungsrisiken bei Austritt**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 53 Abs. 1 SGB V** – Selbstbehalt-Wahltarif: Eigenanteil, Beitragsrückerstattung
+- **§ 53 Abs. 8 SGB V** – Bindungsfrist: 3 Jahre (Ausnahme: Kassenwechsel aus besonderem Grund)
+- **§ 175 Abs. 4 SGB V** – Kündigung bei Beitragserhöhung (Sonderkündigungsrecht)
+- **§ 53 Abs. 9 SGB V** – Rückforderungsrecht der Kasse bei vorzeitigem Austritt
+- BSG B 1 KR 14/17 R (Wahltarife, Rückforderung und Bindungsfrist)
+
+## Selbstbehalt-Tarif-Systematik
+
+| Element | Inhalt |
+|---------|--------|
+| Selbstbehalt | Versicherter trägt erste X € der Kosten selbst (z.B. 300–900 €/Jahr) |
+| Beitragsrabatt | Kasse reduziert Monatsbeitrag (z.B. um 10–15 %) |
+| Break-even | Kassen-Ersparnis vs. Eigenkosten; sinnvoll wenn selten krank |
+| Bindung | 3 Jahre ab Wahltarif-Wahl; keine ordentliche Kündigung |
+| Rückforderung | Kasse kann bei vorzeitigem Austritt erhaltene Rabatte zurückfordern |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Wahltarif-Analyse
+- Wie hoch ist der Selbstbehalt? Welche Leistungen sind einbezogen?
+- Welchen Rabatt gibt die Kasse? Lohnt sich der Tarif bei guter Gesundheit?
+- Mindestbindung: 3 Jahre ab Eintritt in den Tarif
+
+### Schritt 2 – Bindungsfrist und Kündigung
+- Innerhalb der 3 Jahre: keine ordentliche Kündigung möglich
+- Ausnahme Sonderkündigungsrecht: Beitragserhöhung der Kasse → Kündigung auch aus Wahltarif + Kasse
+- Sonderkündigungsrecht gilt auch für Wahltarif allein (ohne Kassenwechsel) wenn Tarif sich nachteilig ändert
+
+### Schritt 3 – Rückforderungsrisiko (§ 53 Abs. 9 SGB V)
+- Wenn Versicherter Kasse wechselt vor Ablauf der 3 Jahre: Kasse kann Rabatte zurückfordern
+- Höhe: abhängig von Tarif und verbleibender Laufzeit
+- Zulässig nur wenn Versicherter selbst kündigt; nicht bei Kassenschließung
+
+### Schritt 4 – Wechselwirkung mit Leistungsansprüchen
+- Selbstbehalt: Versicherter trägt Kosten bis Schwellenwert selbst; GKV-Leistung greift erst danach
+- Chronisch Kranke: Selbstbehalt-Tarif selten sinnvoll (hohe Eigenkosten)
+- Zuzahlungsbefreiung und Selbstbehalt: Belastungsgrenze (§ 62 SGB V) beachten
+
+### Schritt 5 – Interaktion mit anderen Tarifen
+- Beitragsrückgewähr-Tarif: kein Anspruch wenn Selbstbehalt-Tarif und Leistung in Anspruch genommen
+- Kostenerstattungstarif: neben Selbstbehalt möglich, aber selten kombiniert
+- Hausarzttarif: oft kombinierbar mit Selbstbehalt-Tarif
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Kündigung nicht möglich**: Versicherter glaubt nach Kassenwechsel aus Wahltarif entlassen zu sein → Kasse fordert Rabatt zurück.
+- **Chronische Erkrankung neu diagnostiziert**: Selbstbehalt belastet zusätzlich zum Stressfaktor der Erkrankung.
+- **Sonderkündigungsrecht nicht genutzt**: Beitragserhöhung verpasst → Sonderkündigungsfrist verstrichen.
+- **Kinder und Selbstbehalt**: Selbstbehalt gilt für Hauptmitglied; Kinder beitragsfrei in Familienversicherung; Selbstbehalt berührt Kinderleistungen nicht.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Selbstbehalt-Tarif-Kalkulation (Break-even-Analyse)
+- Sonderkündigung Wahltarif (Muster)
+- Rückforderungs-Widerspruch (Kasse)
+- Tariflaufzeit-Übersicht
+- Kündigung Kasse + Wahltarif kombiniert
+
+## Quellen
+
+- [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
+- [§ 175 SGB V – Kassenwahlrecht](https://www.gesetze-im-internet.de/sgb_5/__175.html)
+- [BSG B 1 KR 14/17 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 53 SGB V](https://dejure.org/gesetze/SGB_V/53.html)
+- [GKV-Spitzenverband Wahltarife](https://www.gkv-spitzenverband.de)
+## Hinweis: Prämienrückgewähr und Steuerrecht
+
+- Prämienrückgewähr bei Inanspruchnahme: mindert Sonderausgabenabzug (§ 10 Abs. 1 Nr. 3 EStG)
+- Beitragsrückerstattung der GKV: steuerlich zu berücksichtigen
+- Wahltarif-Beiträge: nur insoweit absetzbar, als sie tatsächlich gezahlt wurden
+
+## Weiterführende Quellen
+
+- [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
+- [§ 175 SGB V – Wahlrecht, Kündigung](https://www.gesetze-im-internet.de/sgb_5/__175.html)
+- [GKV-Spitzenverband – Wahltarife](https://www.gkv-spitzenverband.de)
+- [BSG-Rechtsprechung Wahltarife](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

@@ -1,47 +1,86 @@
 ---
-name: kv-013-kinderleistungen-sozialpaediatrie-therapie-und-schulbegle
-description: "Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: kv-013-kinderleistungen-sozialpaediatrie-therapie-und
+description: "Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen."
 ---
 
-# Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung
+# Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen benötigen oft komplexe Versorgung. Dieser Skill klärt **welche Leistungen die Krankenkasse schuldet** – und wo die Abgrenzung zu Eingliederungshilfe, Schule und Jugendhilfe liegt.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 43a SGB V** – Sozialpädiatrische Zentren (SPZ): Frühförderung, Diagnostik
+- **§ 30 SGB V** – Krankenhausbehandlung für Kinder und Jugendliche
+- **§ 32 SGB V** – Heilmittel: Ergo-, Logo-, Physiotherapie für Kinder
+- **§ 37 SGB V** – Häusliche Krankenpflege, auch bei Kindern
+- **§ 2 SGB IX** – Behinderungsbegriff, ICF-orientiert
+- **§ 112 SGB IX** – Schulbegleitung als Eingliederungshilfe (nach SGB IX Teil 2)
+- **§ 35a SGB VIII** – Eingliederungshilfe Jugendhilfe (seelische Behinderung)
+- **Frühförderungs-VO** – Komplexleistung Frühförderung (GKV + Eingliederungshilfe)
+- BSG B 3 KR 6/14 R (SPZ-Leistungen), BSG B 8 SO 23/17 R (Schulbegleitung)
+
+## Leistungsabgrenzung
+
+| Leistung | Rechtsträger | Rechtsgrundlage |
+|---------|-------------|-----------------|
+| Sozialpädiatrisches Zentrum (SPZ) | GKV | § 43a SGB V |
+| Frühförderung (unter 6 J.) | GKV + Eingliederungshilfe (Komplexleistung) | Frühförderungs-VO |
+| Schulbegleitung | Eingliederungshilfe (Landkreis/Stadt) | § 112 SGB IX |
+| Logopädie, Ergo, PT | GKV | § 32 SGB V |
+| Schulkindergarten/Förderschule | Land/Schulträger | Schulrecht |
+| Psychotherapie | GKV | § 27 Abs. 1, § 92 SGB V |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – SPZ-Versorgung (§ 43a SGB V)
+- SPZ durch Krankenkasse zu genehmigen
+- Indikation: geistige Entwicklungsstörung, Zerebralparese, Autismus-Spektrum-Störung, ADHS (schwer)
+- Ärztliche Überweisung durch Kinder- und Jugendarzt oder Kinderpsychiater
+- Wartezeiten SPZ: oft 12–24 Monate; einstweiliger Rechtsschutz bei dringendem Bedarf
+
+### Schritt 2 – Frühförderung (Frühförderungs-VO)
+- Kind unter 6 Jahre
+- Komplexleistung: GKV übernimmt medizinisch-therapeutische Anteile; Eingliederungshilfe übernimmt pädagogische Anteile
+- Antrag beim örtlichen Frühförderzentrum oder Jugendamt
+
+### Schritt 3 – Heilmittel für Kinder (§ 32 SGB V)
+- Grundsätzlich gleiche Voraussetzungen wie bei Erwachsenen (Heilmittel-RL)
+- Bei Kindern: Verordnungsmengen häufig höher; besonderer Verordnungsbedarf für chronische Verläufe
+- Langfristversorgung: Antrag bei Kasse bis 4 Wochen vor Ablauf
+
+### Schritt 4 – Schulbegleitung (§ 112 SGB IX)
+- GKV ist NICHT zuständig für Schulbegleitung (außer in sehr engen Ausnahmen)
+- Zuständig: Eingliederungshilfeträger (Landkreis/kreisfreie Stadt)
+- Antrag beim Sozialamt, Jugendamt (§ 35a SGB VIII bei seelischer Behinderung) oder Schulamt
+- Abgrenzung: rein pflegerische Maßnahmen in Schule können GKV-Leistung sein (§ 37 SGB V)
+
+### Schritt 5 – Psychotherapie für Kinder
+- Kinder und Jugendlichenpsychotherapeut: GKV-Kassenzulassung erforderlich
+- ADHS: Diagnose, Ausschlussdiagnostik, Leitliniengerechte Behandlung
+- Systemisches Versagen: § 13 Abs. 3 SGB V wenn kein Kassentherapeut innerhalb vertretbarer Frist verfügbar
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Schulbegleitung bei GKV beantragen**: GKV lehnt rechtmäßig ab; Antrag muss beim Eingliederungshilfeträger gestellt werden.
+- **Frühförderungs-Komplexleistung**: Oft unklar wer federführend ist; Frühförderstelle koordiniert, nicht GKV direkt.
+- **SPZ-Kapazität erschöpft**: Kasse muss auf Veranlassung des Arztes prüfen ob Alternativversorgung möglich; einstweiliger Rechtsschutz.
+- **Psychotherapie-Warteliste**: Systemversagen bei > 3 Monaten Wartezeit → Kostenerstattung Privattherapeut möglich (BSG).
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- SPZ-Antrag mit Begründung
+- Widerspruch gegen Heilmittelablehnung bei Kind
+- Schulbegleitungsantrag (Eingliederungshilfe, Muster)
+- Systemversagen-Schreiben (Psychotherapie)
+- Übersicht Zuständigkeiten (Tabelle)
+
+## Quellen
+
+- [§ 43a SGB V – Sozialpädiatrisches Zentrum](https://www.gesetze-im-internet.de/sgb_5/__43a.html)
+- [§ 112 SGB IX – Schulbegleitung](https://www.gesetze-im-internet.de/sgb_9_2018/__112.html)
+- [Frühförderungs-VO](https://www.gesetze-im-internet.de/fruehfoerdv/)
+- [§ 35a SGB VIII – Jugendhilfe](https://www.gesetze-im-internet.de/sgb_8/__35a.html)
+- [BSG Kinderleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [G-BA Heilmittel-Richtlinie](https://www.g-ba.de/richtlinien/12/)

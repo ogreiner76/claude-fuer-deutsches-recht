@@ -1,47 +1,81 @@
 ---
 name: kv-060-beitragsbemessung-kapitalauszahlung-betriebsrente
-description: "Krankenversicherung: Beitragsbemessung Kapitalauszahlung Betriebsrente mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus betrieblicher Altersversorgung: § 229 SGB V, BSG-Rechtsprechung und Doppelverbeitragung."
 ---
 
-# Krankenversicherung: Beitragsbemessung Kapitalauszahlung Betriebsrente
+# Beitragsbemessung: Kapitalauszahlung und Betriebsrente
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Beitragsbemessung Kapitalauszahlung Betriebsrente** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Betriebsrenten und Kapitalzahlungen aus der betrieblichen Altersversorgung (bAV) sind in der GKV beitragspflichtig. Dieser Skill klärt **Beitragspflicht nach § 229 SGB V, Freibetrag, Kapitalzahlungs-Verteilung und das Problem der Doppelverbeitragung**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 229 SGB V** – Versorgungsbezüge als beitragspflichtige Einnahmen
+- **§ 226 Abs. 2 SGB V** – Freibetrag für Versorgungsbezüge (2025: 187,25 €/Monat)
+- **§ 248 SGB V** – Beitragssatz Rentner: allgemeiner Satz (14,6 %) + Zusatzbeitrag
+- BSG B 12 KR 13/10 R (Direktversicherung als Versorgungsbezug), BSG B 12 KR 17/20 R (Kapitalauszahlung)
+- BVerfG 1 BvR 100/15 – Verfassungsbeschwerde Doppelverbeitragung (abgewiesen; aber Reform eingeleitet)
+- **Betriebsrentenstärkungsgesetz 2019** – Freibetrag ab 2020
+
+## Versorgungsbezüge-Typen
+
+| Versorgungsart | Beitragspflichtig? | Bemessungsgrundlage |
+|---------------|-------------------|---------------------|
+| Direktpension (Rentenleistung) | Ja, ab Freibetrag | Monatsbetrag |
+| Direktversicherung (Rentenzahlung) | Ja | Monatliche Rente |
+| Direktversicherung (Kapitalzahlung) | Ja (auf 10 Jahre verteilt) | Einmalzahlung / 120 |
+| Pensionskasse (Rente) | Ja | Monatsbetrag |
+| Pensionsfonds (Rente) | Ja | Monatsbetrag |
+| Entgeltumwandlungs-bAV (steuerlich gefördert) | Ja | Wie reguläre Versorgungsbezüge |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Versorgungsbezug identifizieren
+- Zahlung aus betrieblicher Altersversorgung (bAV)?
+- Rechtsgrundlage: Betriebsrentengesetz (BetrAVG), Direktversicherungsvertrag, Versorgungsordnung?
+- Direktzahlung durch ehemaligen Arbeitgeber oder aus Versicherungsvertrag?
+
+### Schritt 2 – Freibetrag berücksichtigen (§ 226 Abs. 2 SGB V)
+- Freibetrag 2025: 187,25 €/Monat
+- Beitragspflicht erst ab Überschreitung des Freibetrags
+- Mehrere Versorgungsbezüge: Freibetrag nur einmal abziehen (Gesamtbetrag)
+
+### Schritt 3 – Kapitalzahlung (§ 229 Abs. 1 Satz 3 SGB V)
+- Einmalige Kapitalzahlung: auf 10 Jahre (120 Monate) verteilen
+- Monatlicher Betrag = Kapitalzahlung / 120
+- Dieser Betrag ist als monatlicher Versorgungsbezug beitragspflichtig
+
+### Schritt 4 – Doppelverbeitragungsproblem
+- Entgeltumwandlung: Beiträge aus Nettogehalt gezahlt (nach GKV-Beitrag) → im Rentenalter wieder verbeitragt
+- Reform 2020: Freibetrag mildert Problem; vollständige Lösung steht noch aus
+- Verfassungsbeschwerde: BVerfG hat Doppelverbeitragung 2006 als verfassungskonform eingestuft; aber Reformdruck
+
+### Schritt 5 – Widerspruch gegen Beitragsbescheid
+- Kasse fordert Beiträge rückwirkend aus übersehenen Versorgungsbezügen
+- Verjährung: 4 Jahre (§ 25 SGB IV)
+- Überprüfung: Freibetrag korrekt angewendet? Kapitalzahlung korrekt auf 120 Monate verteilt?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Direktversicherung vergessen**: Versicherter weiß nicht, dass private Lebensversicherung aus Entgeltumwandlung als Versorgungsbezug gilt.
+- **Kapitalzahlung einmalig bezahlt**: Kasse setzt rückwirkend 120 Monate als beitragspflichtig fest; erhebliche Nachzahlung.
+- **Freibetrag und Mehrfachbezüge**: Mehrere kleine Versorgungsbezüge übersteigen zusammen den Freibetrag.
+- **Private Renten**: Rürup-Rente und Privatrente sind KEINE Versorgungsbezüge nach § 229 SGB V.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Versorgungsbezugs-Beitragsberechnung
+- Kapitalzahlungs-Verteilungsberechnung (120 Monate)
+- Widerspruch gegen Beitragsfestsetzung
+- Freibetrags-Überprüfungsantrag
+- Doppelverbeitragung-Informationsblatt
+
+## Quellen
+
+- [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
+- [§ 226 SGB V – Freibetrag](https://www.gesetze-im-internet.de/sgb_5/__226.html)
+- [BSG B 12 KR 13/10 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [BVerfG Doppelverbeitragung](https://www.bverfg.de/entscheidungen.html)
+- [GKV-Spitzenverband Versorgungsbezüge](https://www.gkv-spitzenverband.de)
+- [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)

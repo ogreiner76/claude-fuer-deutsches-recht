@@ -1,47 +1,80 @@
 ---
 name: kv-058-krankenkassenfusion-und-bestandsschutz
-description: "Krankenversicherung: Krankenkassenfusion und Bestandsschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz."
 ---
 
-# Krankenversicherung: Krankenkassenfusion und Bestandsschutz
+# Krankenkassenfusion und Bestandsschutz
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Krankenkassenfusion und Bestandsschutz** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Krankenkassen fusionieren oder geschlossen werden, entstehen Fragen zu Versicherungsschutz, Wahltarifen und Beiträgen. Dieser Skill klärt **Rechtsfolgen für Versicherte bei GKV-Fusionen und Kassenschließungen**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 171a SGB V** – Vereinigung und Auflösung von Krankenkassen
+- **§ 171b SGB V** – Schließung von Krankenkassen
+- **§ 53 Abs. 8 SGB V** – Wahltarife nach Fusion: Bestandsschutz, Kündigung
+- **§ 175 Abs. 1 SGB V** – Kassenwahlrecht nach Kassenschließung
+- **§ 164 SGB V** – GKV-Finanzausgleich (Risikostrukturausgleich)
+- **§ 265a SGB V** – Haftung bei Kassenschließung
+- BSG B 1 KR 13/11 R (Kassenfusion, Bestandsschutz Wahltarif)
+
+## Fusionsfolgen für Versicherte
+
+| Aspekt | Folge |
+|--------|-------|
+| Mitgliedschaft | Automatischer Übergang auf übernehmende Kasse |
+| Kassenwahlrecht | Sonderkündigungsrecht entsteht nicht automatisch (§ 175 Abs. 4) |
+| Wahltarife | Laufen fort oder werden aufgehoben; Kündigung möglich wenn Leistungen schlechter |
+| Beiträge | Können sich nach Fusion ändern; dann Sonderkündigungsrecht |
+| Satzungsleistungen | Werden möglicherweise eingestellt; Übergangsfrist |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Fusionsankündigung prüfen
+- Kasse informiert über Fusion: Datum, übernehmende Kasse, Änderungen
+- Kasse muss rechtzeitig (mindestens 1 Monat vor Fusion) informieren
+- Änderungen in Satzungsleistungen, Wahltarifen, Zusatzbeitrag mitteilen
+
+### Schritt 2 – Wahltarif-Bestandsschutz
+- Laufende Wahltarife: übernehmende Kasse muss übernehmen oder kündigen
+- Wenn Wahltarif aufgehoben: Sonderkündigungsrecht für Versicherten entsteht
+- Wenn Beitrag erhöht (Zusatzbeitrag): Sonderkündigungsrecht (§ 175 Abs. 4)
+
+### Schritt 3 – Kassenschließung (§ 171b SGB V)
+- Kasse insolvent oder aufgelöst: BAS (Bundesamt Soziale Sicherung) ordnet Schließung an
+- Versicherte werden anderen Kassen zugewiesen oder können selbst wählen
+- Keine Unterbrechung des Versicherungsschutzes; nahtloser Übergang
+
+### Schritt 4 – Wechsel nach Fusion
+- 18-Monats-Bindungsfrist: beginnt nach Kassenwechsel neu
+- Sonderkündigungsrecht: wenn Zusatzbeitrag erhöht oder Wahltarif nachteilig geändert
+- Neuer Beitritt bei anderer Kasse: Mitgliedsbescheinigung ausstellen lassen
+
+### Schritt 5 – Beitragsschulden bei geschlossener Kasse
+- Bestehende Beitragsschulden gehen auf übernehmende Kasse über
+- Verjährung unberührt (§ 25 SGB IV: 4 Jahre)
+- Keine Entlastung durch Kassenschließung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Kein automatisches Sonderkündigungsrecht**: Fusion allein begründet kein Sonderkündigungsrecht; erst wenn Beitrag steigt oder Leistungen sinken.
+- **Wahltarif endet nicht automatisch**: 3-Jahres-Bindung aus Wahltarif gilt auch bei fusionierter Kasse fort.
+- **Neue Kassenauswahl nach Schließung**: Muss aktiv erfolgen; passive Zuweisung ist möglich, aber Aktiv-Wahl ist besser.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Fusions-Checkliste für Versicherte
+- Sonderkündigungsschreiben (Beitragsänderung nach Fusion)
+- Wahltarif-Überprüfungsantrag
+- Mitgliedsbescheinigung-Anforderung
+- Kassenschließungs-Informationsblatt
+
+## Quellen
+
+- [§ 171a SGB V – Kassenfusion](https://www.gesetze-im-internet.de/sgb_5/__171a.html)
+- [§ 171b SGB V – Kassenschließung](https://www.gesetze-im-internet.de/sgb_5/__171b.html)
+- [§ 175 SGB V – Kassenwahlrecht](https://www.gesetze-im-internet.de/sgb_5/__175.html)
+- [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
+- [Bundesamt Soziale Sicherung (BAS)](https://www.bundesamtsozialesicherung.de)
+- [dejure.org § 171a SGB V](https://dejure.org/gesetze/SGB_V/171a.html)

@@ -1,47 +1,81 @@
 ---
-name: kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student-rentn
-description: "Krankenversicherung: Statuswechsel Arbeitnehmer Selbstständiger Student Rentner mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student
+description: "Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstatus – Fristen, Beitragsanpassungen, Kassenpflichten."
 ---
 
-# Krankenversicherung: Statuswechsel Arbeitnehmer Selbstständiger Student Rentner
+# Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Statuswechsel Arbeitnehmer Selbstständiger Student Rentner** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Jeder Wechsel des Erwerbsstatus hat unmittelbare krankenversicherungsrechtliche Konsequenzen. Dieser Skill analysiert den **Übergang zwischen Versicherungsstatus** und sichert Fristen, Beiträge und Lückenfreiheit der Absicherung.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 5 SGB V** – Pflichtversicherungstatbestände (Arbeitnehmer, Rentner, ALG-Bezieher, Studenten)
+- **§ 6 SGB V** – Versicherungsfreiheit bei JAEG-Überschreitung, Beamten, Selbstständigen
+- **§ 9 SGB V** – Freiwillige Weiterversicherung nach Statuswechsel (3-Monats-Frist)
+- **§ 188 SGB V** – Beginn der Mitgliedschaft
+- **§ 190 SGB V** – Ende der Mitgliedschaft
+- **§ 192 SGB V** – Erhaltung der Mitgliedschaft (Krankengeldanspruch)
+- **§ 240 SGB V** – Mindestbeitrag freiwillig Versicherter
+- **§ 5 Abs. 1 Nr. 9 SGB V** – Studentische Krankenversicherung (bis 25/14. Fachsemester)
+- BSG B 12 KR 5/13 R (Statuswechsel Selbstständige)
+
+## Statuswechsel-Matrix
+
+| Von → Nach | Frist | Rechtsgrundlage | Beitragsänderung |
+|------------|-------|-----------------|------------------|
+| AN → Selbstständig | 3 Monate für freiw. KV | § 9 Abs. 2 Nr. 1 | Mindestbeitrag § 240, Einkommensnachweise |
+| AN → Rentner | Automatisch KVdR-Prüfung | § 5 Abs. 1 Nr. 11 | Aus Rente + Versorgungsbezügen |
+| Student → AN | Ende Studentenversicherung mit Exmatrikulation | § 190 Abs. 9 | Vollbeitrag AN |
+| AN → Elternzeit | Beitragsfreiheit bei keinem Einkommen | § 224 SGB V | Ggf. Beitragsfreiheit |
+| PKV → GKV | Nur bei Unterschreiten JAEG oder Statuswechsel | § 5 SGB V | Neubeginn Pflichtmitgliedschaft |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Statusänderung datieren
+- Wann genau ändert sich der Erwerbsstatus (Datum des Aufhebungsvertrags, Rentenbescheid, Exmatrikulationsbescheinigung)?
+- Nahtlosigkeit prüfen: Gibt es einen Tag ohne KV-Schutz?
+
+### Schritt 2 – Pflichtversicherung im neuen Status
+- Begründet der neue Status eine Pflichtversicherung (z.B. Rentner → KVdR wenn Vorversicherungszeit erfüllt, § 5 Abs. 1 Nr. 11)?
+- Vorversicherungszeit KVdR: In der zweiten Hälfte des Erwerbslebens mind. 9/10 der Zeit GKV-versichert
+
+### Schritt 3 – Freiwillige Versicherung wenn keine Pflicht
+- 3-Monats-Frist ab Ende der Pflichtversicherung beachten (§ 9 Abs. 2 Nr. 1 SGB V)
+- Bei Selbstständigkeit: Einkommen schätzen, Mindestbeitrag planen, Spitzabrechnung vormerken
+- Nachweis: Steuerbescheid des Vorjahres, bei Neugründung Geschäftsplan
+
+### Schritt 4 – Rentner-Sonderfall KVdR
+- Vorversicherungszeit: Rentenversicherungszeiten werden anteilig angerechnet
+- Versorgungsbezüge: Betriebsrenten, Direktversicherungen beitragspflichtig (§ 229 SGB V)
+- Beitragssatz: allgemeiner Beitragssatz ohne AG-Anteil aus Versorgungsbezügen
+
+### Schritt 5 – Studentische KV
+- Grenze: 25 Jahre oder 14. Fachsemester (§ 5 Abs. 1 Nr. 9 SGB V)
+- Urlaubssemester zählen mit; Krankengeldbezug verlängert nicht
+- Nach Exmatrikulation: 3-Monats-Frist für freiwillige Versicherung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **KVdR-Vorversicherungszeit**: Wird oft übersehen; ohne sie kein Pflichtversicherungsstatus als Rentner → teurer freiwilliger Beitrag.
+- **Selbstständige Nebentätigkeit neben AN**: Kann bei ausreichendem Einkommen Hauptberuflichkeit begründen und Versicherungsfreiheit auslösen (§ 5 Abs. 5 SGB V).
+- **Elternzeit-Falle**: Kein Krankengeldanspruch wenn kein Beschäftigungsverhältnis besteht → Mitgliedschaftserhaltung prüfen (§ 192 Abs. 1 Nr. 2).
+- **Beitragsschuldübergang**: Bei Ende der Mitgliedschaft bestehende Schulden laufen weiter; Insolvenz der KK schützt nicht.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Statuswechsel-Checkliste mit Fristen
+- Beitragsvergleich alt/neu
+- Antrag freiwillige Versicherung (Mustertext)
+- KVdR-Vorversicherungszeitberechnung
+- Bescheidwiderspruch bei falscher Statusfeststellung
+
+## Quellen
+
+- [§ 5 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 9 SGB V](https://www.gesetze-im-internet.de/sgb_5/__9.html)
+- [§ 190 SGB V](https://www.gesetze-im-internet.de/sgb_5/__190.html)
+- [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
+- [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)

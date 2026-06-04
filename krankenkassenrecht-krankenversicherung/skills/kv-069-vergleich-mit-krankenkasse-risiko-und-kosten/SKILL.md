@@ -1,47 +1,80 @@
 ---
 name: kv-069-vergleich-mit-krankenkasse-risiko-und-kosten
-description: "Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Strategische Bewertung von Vergleichsangeboten der GKV im Widerspruchs- oder Klageverfahren: Risiko-Nutzen-Analyse, Formulierungshinweise und Abgeltungsklauseln."
 ---
 
-# Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten
+# Vergleich mit Krankenkasse: Risiko und Kosten
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Vergleich mit Krankenkasse Risiko und Kosten** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Krankenkassen bieten im Widerspruchs- oder Klageverfahren manchmal Vergleiche an. Dieser Skill bewertet **Vergleichsangebote strategisch**: Was wird aufgegeben, was wird gewonnen, welche Klauseln sind gefährlich?
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 101 SGG** – Vergleich vor dem Sozialgericht
+- **§ 85 Abs. 2 SGG** – Erledigung durch Widerspruchsbescheid (implizit)
+- **§ 193 SGG** – Kostenentscheidung bei Vergleich
+- **§ 44 SGB X** – Überprüfungsantrag: auch nach Vergleich für neue Erkenntnisse
+- **§ 779 BGB** – Vergleich: Ansprüche müssen streitig gewesen sein
+- BSG B 1 KR 7/15 R (Abgeltungsklauseln im Sozialrecht)
+
+## Vergleichs-Bewertungsmatrix
+
+| Aspekt | Risiko | Nutzen |
+|--------|--------|--------|
+| Teilweise Kostenübernahme | Restanspruch aufgegeben | Sofortige Zahlung |
+| Abgeltungsklausel | Alle Ansprüche abgegolten | Keine weiteren Prozesskosten |
+| Zeitvorteil | Endurteil fehlt als Präzedenz | Schnellere Auszahlung |
+| Folgeansprüche | Abgegolten wenn Klausel weit | Rechtssicherheit |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Vergleichsangebot analysieren
+- Was zahlt die Kasse? (konkreter Betrag, Leistung, zukünftige Leistung?)
+- Was gibt der Versicherte auf? (Welche Ansprüche werden aufgegeben?)
+- Abgeltungsklausel: „damit sind alle Ansprüche aus diesem Sachverhalt erledigt" → sehr weitreichend
+
+### Schritt 2 – Erfolgschancen des Hauptverfahrens einschätzen
+- Wie stark ist die eigene Position? BSG-Rechtsprechung eindeutig?
+- MDK-Gegengutachten: liegt vor und ist überzeugend?
+- Wenn hohe Erfolgschance: Vergleich nur bei gutem Angebot akzeptieren
+
+### Schritt 3 – Kosten und Zeitaspekte
+- SG: keine Gerichtskosten; Anwaltskosten bei Sieg trägt Kasse
+- Klage ohne Anwalt: kaum Kosten für Versicherten
+- Vergleich: häufig keine volle Kostenerstattung für Anwalt → Anwalt auf Ablehnungsfolgen hinweisen
+- Zeitfaktor: Klage dauert 1–3 Jahre; Vergleich sofort
+
+### Schritt 4 – Vergleichsformulierung
+- Klausel begrenzen: „diese Einigung gilt nur für den streitgegenständlichen Zeitraum"
+- Folgeleistungen ausdrücklich ausnehmen: „Ansprüche ab [Datum] bleiben unberührt"
+- Keine Pauschal-Abgeltungsklausel unterschreiben wenn Folgeansprüche möglich
+
+### Schritt 5 – Überprüfungsantrag trotz Vergleich
+- Vergleich abgeschlossen, aber neue Erkenntnisse?
+- § 44 SGB X: Überprüfung des ursprünglichen Bescheids auf Antrag jederzeit möglich
+- Aber: Vergleich kann Überprüfung für vereinbarten Zeitraum ausschließen
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Abgeltungsklausel zu weit**: „alle gegenwärtigen und zukünftigen Ansprüche" → schließt auch zukünftige Leistungen ein; gefährlich bei chronischen Erkrankungen.
+- **Folgeleistungen nicht bedacht**: Hilfsmittelleistungen in der Zukunft abgegolten durch Vergleich über vergangene Ablehnung.
+- **Ohne Anwalt im Vergleich**: Vergleich ohne rechtliche Prüfung → häufig zu niedrig oder zu weitreichende Abgeltungsklausel.
+- **Kostenfolge vergessen**: Ohne Anwalt: kein Kostenerstattungsanspruch gegen Kasse im Vergleich.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Vergleichs-Bewertungsprotokoll
+- Gegenangebot (Muster)
+- Eingeschränkte Abgeltungsklausel (Formulierung)
+- Risiko-Nutzen-Abwägung (Tabelle)
+- § 44 SGB X-Überprüfungsantrag
+
+## Quellen
+
+- [§ 101 SGG – Vergleich](https://www.gesetze-im-internet.de/sgg/__101.html)
+- [§ 44 SGB X – Überprüfungsantrag](https://www.gesetze-im-internet.de/sgb_10/__44.html)
+- [§ 193 SGG – Kostenentscheidung](https://www.gesetze-im-internet.de/sgg/__193.html)
+- [BSG B 1 KR 7/15 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org § 101 SGG](https://dejure.org/gesetze/SGG/101.html)
+- [§ 779 BGB – Vergleich](https://www.gesetze-im-internet.de/bgb/__779.html)

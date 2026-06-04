@@ -1,47 +1,81 @@
 ---
-name: kv-073-private-krankenversicherung-kuendigung-wechsel-und-schuld
-description: "Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: kv-073-private-krankenversicherung-kuendigung-wechsel-und
+description: "PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV."
 ---
 
-# Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden
+# PKV: Kündigung, Wechsel und Schulden
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Private Krankenversicherung Kündigung Wechsel und Schulden** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wer die PKV kündigen oder in die GKV wechseln will, stößt auf enge Voraussetzungen. Dieser Skill klärt **Kündigungsrechte, PKV-Schulden und die Rückkehr zur GKV**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 206 VVG** – Außerordentliche Kündigung PKV (bei Beitragserhöhung)
+- **§ 205 VVG** – Ordentliche Kündigung: Jahresende mit 3 Monaten Frist
+- **§ 193 Abs. 3 VVG** – Versicherungspflicht: PKV kann nur gekündigt werden wenn anderweitiger KV-Schutz besteht
+- **§ 5 Abs. 1 Nr. 1 SGB V** – Rückkehr in GKV: nur bei Unterschreiten der JAEG
+- **§ 193 Abs. 6 VVG** – Beitragsverzug und Notlagentarif
+- BGH IV ZR 62/16 (Kündigung PKV, Formvorschriften)
+
+## Kündigungs-Matrix PKV
+
+| Situation | Kündigungsrecht | Frist |
+|-----------|----------------|-------|
+| Beitragserhöhung | Sonderkündigung (§ 206 VVG) | 2 Monate nach Erhöhungszeitpunkt |
+| Ordentlich zum Jahresende | § 205 Abs. 1 VVG | 3 Monate Kündigungsfrist |
+| Bei Wechsel zu GKV-Pflicht | § 205 Abs. 2 VVG | Kündigung mit Eintrittsdatum GKV |
+| Kündigung ohne Anschluss | Unzulässig (§ 193 Abs. 3) | Kasse muss Schutzbedürfnis nachweisen |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Rückkehr in GKV möglich?
+- Voraussetzung: Unterschreiten der JAEG (73.800 €/Jahr, 2025) bei Arbeitnehmerstatus
+- Selbstständige: GKV-Rückkehr nur bei Beendigung der Selbstständigkeit
+- Beamte: nur bei Beendigung des Beamtenverhältnisses
+- Rentner: KVdR-Anspruch prüfen (Vorversicherungszeit, kv-041)
+
+### Schritt 2 – PKV-Kündigung
+- Gleichzeitig mit GKV-Eintritt: Kündigung der PKV zum Zeitpunkt der GKV-Mitgliedschaft (§ 205 Abs. 2 VVG)
+- Nachweis: Mitgliedsbescheinigung der GKV vorlegen
+- Sonderkündigung: bei Beitragserhöhung sofort möglich; 2 Monate nach Wirksamkeit der Erhöhung
+
+### Schritt 3 – PKV-Schulden bereinigen
+- Beitragsrückstand > 2 Monate → Notlagentarif (§ 153 VAG)
+- Bereinigung: alle Schulden (inkl. Notlagentarifbeiträge) zahlen → Rückkehr in Normaltarif
+- Jobcenter/Sozialamt: kann PKV-Beiträge übernehmen (§ 26 SGB II, § 32 SGB XII)
+- Ratenzahlung: mit PKV verhandeln; Möglichkeit zur Stundung
+
+### Schritt 4 – Wechsel zu GKV ohne JAEG-Unterschreitung
+- Keine legale Möglichkeit ohne Unterschreiten der JAEG oder Statuswechsel
+- Ausnahme: Basistarif als Zwischenlösung (günstigere PKV-Option)
+- Strategien: Beschäftigungswechsel unter JAEG; Ehegatte in GKV (Familienversicherung möglich bei sehr niedrigem Einkommen)
+
+### Schritt 5 – Altersrückstellungen mitnehmen
+- Bei Wechsel zu GKV: Altersrückstellungen gehen grundsätzlich verloren (kein Anspruch auf Mitnahme in GKV)
+- Wechsel innerhalb PKV (§ 204 VVG): Rückstellungen bleiben erhalten
+- Finanzielle Einbuße einkalkulieren; Steuerberatung
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **PKV kündigen ohne GKV-Anschluss**: Unzulässig; Kündigung wird nicht wirksam; Versicherungspflicht.
+- **Sonderkündigungsfrist versäumt**: Nach Beitragserhöhung nur 2 Monate; danach keine Sonderkündigung mehr.
+- **Schulden und Kündigung**: Selbst mit Schulden kann PKV nicht einfach aufgelöst werden ohne anderweitigen Schutz.
+- **Kinder in PKV**: Kinder separat versichert; eigene Kündigung für jedes Kind notwendig.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- PKV-Kündigungsschreiben (Muster)
+- Sonderkündigung bei Beitragserhöhung
+- PKV-Schuldenbereinigungsplan
+- GKV-Eintritts-Timeline
+- Rückkehr-in-GKV-Checkliste
+
+## Quellen
+
+- [§ 205 VVG – Kündigung PKV](https://www.gesetze-im-internet.de/vvg_2008/__205.html)
+- [§ 206 VVG – Außerordentliche Kündigung](https://www.gesetze-im-internet.de/vvg_2008/__206.html)
+- [§ 193 Abs. 3 VVG – Versicherungspflicht](https://www.gesetze-im-internet.de/vvg_2008/__193.html)
+- [BGH IV ZR 62/16](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
+- [dejure.org § 205 VVG](https://dejure.org/gesetze/VVG/205.html)

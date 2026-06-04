@@ -1,47 +1,83 @@
 ---
 name: kv-037-abrechnung-goae-goz-und-erstattung
-description: "Krankenversicherung: Abrechnung GOÄ GOZ und Erstattung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe."
 ---
 
-# Krankenversicherung: Abrechnung GOÄ GOZ und Erstattung
+# Abrechnung GOÄ/GOZ und Erstattung
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **Abrechnung GOÄ GOZ und Erstattung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Dieser Skill prüft **Abrechnungsrichtigeit, Steigerungsfaktoren, Analogleistungen und Erstattungsansprüche**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **GOÄ** (Gebührenordnung für Ärzte) §§ 1–12 + Gebührenverzeichnis
+- **GOZ** (Gebührenordnung für Zahnärzte) §§ 1–12 + Gebührenverzeichnis
+- **§ 4 GOÄ** – Allgemeine Bestimmungen zu Steigerungsfaktoren (1,0 bis 3,5-fach)
+- **§ 6 GOÄ** – Analogleistungen (nicht im Verzeichnis gelistete Leistungen)
+- **§ 12 GOÄ** – Rechnungspflichtangaben (fehlende Angaben → Rechnung anfechtbar)
+- BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
+- BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
+
+## GOÄ-Steigerungsfaktoren
+
+| Faktor | Schwellenwert | Begründungspflicht |
+|--------|--------------|-------------------|
+| 1,0-fach | Mindestsatz (selten) | Nein |
+| 1,8-fach (Regelfall) | Durchschnittliche Schwierigkeit | Nein |
+| 2,3-fach | Obergrenze ohne Begründung | Nein |
+| > 2,3-fach | Erhöhter Schwellenwert | Ja (auf Rechnung) |
+| 3,5-fach | Absolutes Maximum | Ja, ausführlich |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Rechnungsprüfung formal
+- Enthält Rechnung alle Pflichtangaben (§ 12 GOÄ): Datum, Diagnose, Leistungsnummer, Steigerungsfaktor, Begründung bei > 2,3?
+- Fehlende Pflichtangaben: Rechnung zurückweisen, neue vollständige Rechnung verlangen
+- Digitale Rechnung: muss gleiche Pflichtangaben enthalten
+
+### Schritt 2 – Leistungsverzeichnis prüfen
+- Gebührennummer korrekt? GOÄ-Nummernverzeichnis konsultieren
+- Doppelabrechnung: GOÄ-Nr. schließt bestimmte andere aus (Ausschlusshinweise im Verzeichnis)
+- Zielleistungsprinzip: bei operativen Eingriffen schließen manche Leistungen andere ein (§ 4 Abs. 2a GOÄ)
+
+### Schritt 3 – Steigerungsfaktor prüfen
+- > 2,3-fach: Begründung auf Rechnung erforderlich; pauschale Begründungen unzureichend (BGH)
+- BGH III ZR 17/18: individuelle Begründung für konkrete Behandlungssituation notwendig
+- PKV kann Abzug bei nicht begründetem Faktor vornehmen; Erstattungskürzung
+
+### Schritt 4 – Analogleistungen (§ 6 GOÄ)
+- Nicht im Verzeichnis: Abrechnung analog zu ähnlicher Leistung
+- Arzt muss in Rechnung kennzeichnen: „analog § 6 GOÄ"
+- PKV-Erstattung: PKV prüft ob Analoganwendung plausibel; Ablehnung möglich
+- Neue Methoden: oft nur Analogabrechnung möglich bis GOÄ-Reform
+
+### Schritt 5 – Erstattungskürzung durch PKV/Beihilfe
+- PKV kürzt: Einzelne Nummern nicht erstattet, Steigerungsfaktor reduziert
+- Arzt haftet: keine direkte Haftung gegen PKV; aber Arzt muss Rechnung nicht neu stellen
+- Differenz: Versicherter trägt Differenz zwischen Arztrechnung und PKV-Erstattung
+- Beihilfe: eigene Erstattungsgrenzen; oft konservativer als PKV
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Privatarzt-Honorar vor Behandlung**: GOÄ-Honorarvereinbarung schriftlich vor Behandlung; nachträglich unwirksam.
+- **IGeL und GOÄ**: IGeL kann nach GOÄ abgerechnet werden; aber Patient muss vorher informiert und einverstanden sein.
+- **GOÄ 2024-Reform**: Neue GOÄ in Vorbereitung; Übergangsrecht beachten.
+- **Zahnersatz GOZ**: GOZ-Abrechnung für Zahnersatz häufig fehleranfällig; Festzuschuss GKV beachten wenn auch GKV-Mitglied.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- GOÄ-Rechnungsprüfungs-Protokoll
+- Reklamationsschreiben an Arzt (fehlende Begründung)
+- PKV-Erstattungskürzungs-Widerspruch
+- Analogleistungs-Überprüfungsanfrage
+- GOÄ-Steigerungsfaktor-Begründungs-Checkliste
+
+## Quellen
+
+- [GOÄ – Gebührenordnung Ärzte](https://www.gesetze-im-internet.de/go__1982/)
+- [GOZ – Gebührenordnung Zahnärzte](https://www.gesetze-im-internet.de/goz_1988/)
+- [§ 12 GOÄ – Rechnungspflicht](https://www.gesetze-im-internet.de/go__1982/__12.html)
+- [BGH III ZR 17/18](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Bundesärztekammer GOÄ](https://www.bundesaerztekammer.de)
+- [dejure.org GOÄ](https://dejure.org/gesetze/GO%C3%84)

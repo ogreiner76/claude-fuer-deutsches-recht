@@ -1,47 +1,82 @@
 ---
 name: kv-074-pkv-ombudsmann-und-beschwerdestrategie
-description: "Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung."
 ---
 
-# Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie
+# PKV-Ombudsmann und Beschwerdestrategie
 
-## Aufgabe
+## Skill-Zweck
 
-Dieser Skill bearbeitet **PKV Ombudsmann und Beschwerdestrategie** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der PKV-Ombudsmann ist eine kostenlose außergerichtliche Streitschlichtungsstelle. Dieser Skill klärt **wann das Verfahren sinnvoll ist, wie es läuft und wie es mit dem Klageweg koordiniert wird**.
 
-## Kaltstart in 6 Fragen
+## Rechtlicher Rahmen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 214 VVG** – Alternative Streitbeilegung (Pflicht für Versicherungsunternehmen)
+- **VSBG** (Verbraucherstreitbeilegungsgesetz) – gesetzliche Grundlage für Ombudsstellen
+- **VVG-Informationspflichtenverordnung** – Hinweispflicht des Versicherers auf Ombudsmann
+- PKV-Ombudsmann e.V. – Satzung, Verfahrensordnung
+- **§ 203 Abs. 5 VVG** – Hinweispflicht bei Beitragsanpassung auf Ombudsmann
+- Verjährungsrechtliche Auswirkung: Ombudsmann-Antrag hemmt Verjährung (§ 204 BGB)
+
+## Ombudsmann-Verfahren im Überblick
+
+| Aspekt | Inhalt |
+|--------|--------|
+| Zuständigkeit | Alle PKV-Unternehmen (Mitglieder des PKV-Verbands) |
+| Streitwertgrenze | Bis 10.000 € bindend für PKV; über 10.000 € nur Empfehlung |
+| Kosten | Kostenlos für Versicherten |
+| Dauer | Durchschnittlich 3–4 Monate |
+| Bindungswirkung | Bis 10.000 €: PKV muss Entscheidung akzeptieren wenn zugunsten Versicherter |
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Zuständigkeit prüfen
+- Handelt es sich um eine PKV-Streitigkeit?
+- PKV-Unternehmen Mitglied des PKV-Verbands (praktisch alle deutschen PKV)?
+- Beschwerde innerhalb der Ausschlussfristen?
+
+### Schritt 2 – Vorverfahren abgeschlossen?
+- Ombudsmann setzt voraus: PKV hat auf Beschwerde reagiert oder nicht geantwortet
+- Eigene Beschwerde direkt an PKV: schriftlich; 4-6 Wochen Wartezeit
+- Keine Einigung: dann Ombudsmann-Antrag stellen
+
+### Schritt 3 – Antragstellung
+- Formular auf Website PKV-Ombudsmann
+- Beifügen: Versicherungsunterlagen, Schriftverkehr mit PKV, Arztbriefe
+- Keine Rechtsberatung durch Ombudsmann; nur Schlichtung
+
+### Schritt 4 – Verfahrensablauf
+- Ombudsmann prüft Sachverhalt; holt Stellungnahme der PKV ein
+- PKV muss innerhalb bestimmter Frist antworten
+- Ombudsmann schlägt Lösung vor oder entscheidet (bis 10.000 €)
+- Versicherter kann Entscheidung ablehnen; dann Klageweg noch offen
+
+### Schritt 5 – Strategische Einbindung
+- Ombudsmann-Verfahren als Druckmittel nutzen: viele PKV einigen sich vorab
+- Verjährungshemmung: Ombudsmann-Antrag hemmt Verjährung des Anspruchs (§ 204 Abs. 1 Nr. 4 BGB)
+- Wenn PKV-Entscheidung zugunsten Versicherter: bindet PKV bis 10.000 €; Klage vermieden
+- Parallel zur Beschwerde: eigene interne Leistungsprüfung fortsetzen
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Ombudsmann-Beschränkung auf PKV**: GKV hat keinen Ombudsmann; nur BAS-Aufsichtsbeschwerde oder SG-Klage.
+- **Streitwert über 10.000 €**: Ombudsmann-Entscheidung nur empfehlend; PKV kann ablehnen.
+- **Verjährungsfrist vor Antrag**: Wenn Anspruch verjährt: Ombudsmann hilft nicht mehr; Verjährungshemmung erst ab Antragstellung.
+- **PKV nicht Mitglied**: Kleine Auslandsversicherer oder Spezialanbieter manchmal nicht im PKV-Verband.
 
-## Output
+## Output-Formate
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+- Ombudsmann-Antragsformular (Ausfüllhilfe)
+- Beschwerde an PKV (Vorverfahrensschreiben)
+- Verjährungsnachweis-Dokumentation
+- PKV-Entscheidungs-Reaktionsschreiben
+- Strategieübersicht: Ombudsmann vs. Klage
+
+## Quellen
+
+- [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
+- [§ 214 VVG – Alternative Streitbeilegung](https://www.gesetze-im-internet.de/vvg_2008/__214.html)
+- [VSBG – Verbraucherstreitbeilegungsgesetz](https://www.gesetze-im-internet.de/vsbg/)
+- [§ 204 BGB – Verjährungshemmung](https://www.gesetze-im-internet.de/bgb/__204.html)
+- [PKV-Verband](https://www.pkv.de)
+- [dejure.org § 214 VVG](https://dejure.org/gesetze/VVG/214.html)
