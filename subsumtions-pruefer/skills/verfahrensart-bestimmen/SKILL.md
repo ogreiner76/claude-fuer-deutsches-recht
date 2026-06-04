@@ -10,12 +10,8 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 1. Was ist das Rechtsschutzziel? (Zahlung, Unterlassung, Feststellung, Anfechtung VA, Strafverfolgung)
 2. Besteht Eilbedürftigkeit? → einstweiliger Rechtsschutz prüfen
 3. Ist eine Schiedsklausel im Vertrag vereinbart? (§ 1029 ZPO)
-4. Wie hoch ist der Streitwert? (AG bis 5.000 EUR / LG ab 5.000 EUR)
+4. Wie hoch ist der Streitwert? (AG bis EUR 5.000 / LG ab EUR 5.000)
 5. Ist das ordentliche Gericht durch Sondergerichtsstände ausgeschlossen? (Arbeitsgericht, Familiengericht)
-
-## Aktuelle Rechtsprechung zur Verfahrensauswahl
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Verfahrensnormen
 
@@ -32,7 +28,7 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 
 **Wann:** Zivilrechtliche Ansprüche auf Zahlung, Herausgabe, Unterlassung; ohne Eilbedürfnis.
 
-**Zuständigkeit:** Amtsgericht bis 5.000 EUR (§ 23 GVG); Landgericht ab 5.000 EUR (§ 71 GVG); Anwaltszwang vor LG, OLG, BGH.
+**Zuständigkeit:** Amtsgericht bis EUR 5.000 (§ 23 GVG); Landgericht ab EUR 5.000 (§ 71 GVG); Anwaltszwang vor LG, OLG, BGH.
 
 **Mindestvoraussetzungen Klage:** Rubrum, bestimmter Antrag (§ 253 Abs. 2 Nr. 2 ZPO), Klagebegründung, Beweisangebote.
 
@@ -40,7 +36,8 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 
 **Wann:** Eilbedürftigkeit (Verfügungsgrund) und Glaubhaftmachung des Anspruchs (Verfügungsanspruch). §§ 935/940 ZPO.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**Sicherungsverfügung § 935 ZPO:** Zur Sicherung eines bestehenden Rechts.
+**Regelungsverfügung § 940 ZPO:** Zur vorläufigen Regelung eines streitigen Rechtsverhältnisses.
 
 **Entscheidungsbaum einstweiliger Rechtsschutz:**
 ```
@@ -50,30 +47,79 @@ Eilbedürftigkeit?
 └─ Nein → ordentliche Klage
 ```
 
+**Selbsterfüllungsverbot:** Antragsteller darf nicht durch eigenes Handeln Eilbedürftigkeit beseitigen.
+
 ### Mahnverfahren (§§ 688 ff. ZPO)
 
-**Wann:** Geldforderungen, die nicht von einer Gegenleistung abhängen; kein Auslandsbezug (außer EU-Mahnverfahren VO 1896/2006).
+**Wann:** Unbestrittene Geldforderungen; einfacher als Klage; kostengünstiger.
 
-**Ablauf:** Mahnantrag → Mahnbescheid → kein Widerspruch → Vollstreckungsbescheid (= Titel kraft Gesetzes).
+**Ablauf:** Mahnantrag (online oder Formular) → Mahnbescheid → Widerspruch? → Vollstreckungsbescheid → Vollstreckung.
 
-### Schiedsverfahren (§§ 1025 ff. ZPO)
-
-**Wann:** Wirksame Schiedsklausel (§ 1029 ZPO: schriftlich); Handelssachen.
-
-**Besonderheit:** Schiedsspruch ist vollstreckbarer Titel nach Vollstreckbarerklärung (§ 1060 ZPO). Schiedseinrede vor LG: § 1032 ZPO vor rügloser Einlassung erheben.
-
-### FG-Verfahren (FamFG)
-
-**Wann:** Familiensachen (Scheidung, Unterhalt, Sorge, Güterrecht), Betreuungssachen, Nachlasssachen, Registerverfahren.
-
-**Besonderheit:** Amtsermittlung; Beschluss statt Urteil (§ 38 FamFG).
+**Ausschluss:** Wenn Forderung von Gegenleistung abhängt (§ 688 Abs. 2 ZPO) oder Zustellung im Ausland nötig.
 
 ### Verwaltungsgerichtsverfahren (VwGO)
 
-**Wann:** Anfechtung von Verwaltungsakten (§ 42 Abs. 1 Alt. 1 VwGO), Verpflichtungsklage, allgemeine Leistungsklage.
+**Wann:** Öffentlich-rechtliche Streitigkeiten; Anfechtung von Verwaltungsakten; § 40 VwGO.
 
-**Vorverfahren:** Widerspruch (§ 68 VwGO) zwingend vor Klage (Ausnahmen: § 68 Abs. 1 S. 2 VwGO, Brandenburg, Niedersachsen).
+**Vorverfahren:** Widerspruch (§§ 68 ff. VwGO) als Zulässigkeitsvoraussetzung (Ausnahme: § 68 Abs. 1 S. 2 VwGO).
+
+**Fristen:** Widerspruchsfrist: 1 Monat (§ 70 VwGO); Klagefrist: 1 Monat nach Widerspruchsbescheid (§ 74 VwGO).
+
+### Arbeitsgerichtsverfahren (ArbGG)
+
+**Wann:** Streitigkeiten zwischen Arbeitgeber und Arbeitnehmer aus dem Arbeitsverhältnis (§ 2 ArbGG).
+
+**Besonderheiten:** Kein Anwaltszwang in der 1. Instanz; Güteverhandlung (§ 54 ArbGG) obligatorisch.
+
+### Schiedsverfahren (§§ 1025 ff. ZPO)
+
+**Wann:** Schiedsvereinbarung (§ 1029 ZPO) in Vertragsform; schriftlich.
+
+**Vollstreckbarkeit:** Schiedsspruch muss durch staatliches Gericht für vollstreckbar erklärt werden (§ 1060 ZPO) oder unterliegt Anerkennung nach New Yorker Übereinkommen (international).
+
+### Strafverfahren (StPO)
+
+**Wann:** Strafbare Handlung; Strafanzeige bei Polizei oder Staatsanwaltschaft.
+
+**Privatklage (§§ 374 ff. StPO):** Bei bestimmten Delikten (z. B. Beleidigung, Hausfriedensbruch) direkt beim AG.
+
+## Verfahrensauswahl-Entscheidungsbaum
+
+```
+Rechtsschutzziel?
+├─ Geldforderung, unbestritten → Mahnverfahren (§§ 688 ff. ZPO)
+├─ Geldforderung, streitig → Klage (ZPO)
+├─ Unterlassung, dringend → einstweilige Verfügung (§§ 935/940 ZPO)
+├─ VA-Anfechtung → VwGO (Widerspruch + Klage)
+├─ Strafe / OWi → StPO / OWiG
+├─ Schiedsklausel → §§ 1025 ff. ZPO
+└─ Arbeitssache → ArbGG
+```
+
+## Formale Mindestvoraussetzungen
+
+| Verfahrensart | Formvoraussetzungen |
+|---|---|
+| Klage ZPO | Rubrum, bestimmter Antrag (§ 253 Abs. 2 Nr. 2 ZPO), Begründung, Beweisangebote |
+| einstw. Verfügung | Glaubhaftmachung (§ 294 ZPO); Verfügungsanspruch und -grund; eidesstattl. Versicherung |
+| Mahnantrag | Online-Formular oder amtl. Vordruck; bestimmte Geldforderung; keine Abhängigkeit von Gegenleistung |
+| Schiedsklage | Schiedsvereinbarung vorlegen; Klageschrift nach Schiedsordnung |
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
 
 ## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Normen live prüfen: gesetze-im-internet.de (ZPO, GVG, VwGO, ArbGG, ArbGG, StPO, OWiG).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- Normtext live prüfen: gesetze-im-internet.de (ZPO §§ 23, 71 GVG; §§ 253, 688 ff., 935, 940, 1025 ff., 1029 ZPO; §§ 40, 68 ff., 74 VwGO).

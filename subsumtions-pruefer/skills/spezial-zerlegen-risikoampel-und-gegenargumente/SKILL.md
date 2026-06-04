@@ -1,48 +1,110 @@
 ---
 name: spezial-zerlegen-risikoampel-und-gegenargumente
-description: "Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Zerlegen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill zergliedert einen Sachverhalt in seine Risikobestandteile und erstellt eine strukturierte Gegenargument- und Verteidigungslinienanalyse. Ergebnis ist eine dreifarbige Risikoampel mit konkreten Handlungsempfehlungen.
 
+## Risikoampel-Schema
 
-## Fachlicher Zuschnitt
+### Rot — Kritisches Risiko
 
-- **Thema:** Zerlegen.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+**Definition:** Kein Beleg vorhanden; Beweislast beim Nutzer; Norm eindeutig gegen Nutzer; Verjährung oder Ausschlussfrist droht oder abgelaufen.
+
+**Typische Auslöser:**
+- Wesentliches Tatbestandsmerkmal nicht belegt (Sprung-Subsumtion)
+- Beweislastumkehr wirkt gegen Nutzer (§ 630h BGB, § 22 AGG, Art. 82 Abs. 3 DSGVO)
+- Frist bereits abgelaufen oder noch innerhalb 30 Tage (Verjährung, Anfechtungsfrist, Klagefrist)
+- Norm eindeutig nicht einschlägig (falsche Anspruchsgrundlage)
+
+**Sofortmaßnahmen:**
+- Frist sichern (Klageerhebung, Verjährungsunterbrechung § 204 BGB)
+- Beweismittel sichern (Zeugenvernehmung vor Klage, Urkundenvorlage)
+- Mandant auf Risiko hinweisen; Mandate-Akte dokumentieren
+
+### Gelb — Mittleres Risiko
+
+**Definition:** Beleg vorhanden, aber schwach oder streitig; Norm einschlägig, aber Streitstand ungeklärt; Frist noch offen (mehr als 30 Tage).
+
+**Typische Auslöser:**
+- Streitstand bei zentralem TBM; BGH-Linie unklar oder divergent
+- Beweismittel vorhanden, aber Beweisstärke zweifelhaft (Zeuge befangen; Urkunde echt streitig)
+- Einrede der Gegenseite möglich aber noch nicht erhoben
+- Verfahrenskosten übersteigen möglichen Gewinn
+
+**Maßnahmen:**
+- Zusätzliche Belege beschaffen
+- Rechtsprechungsrecherche für streitigen Punkt (→ rechtsprechung-recherche-strategie)
+- Vergleichs-/Mediationsoption prüfen
+
+### Grün — Geringes Risiko
+
+**Definition:** Alle TBM belegt; Norm eindeutig einschlägig; keine erheblichen Einreden der Gegenseite erkennbar; Frist gesichert.
+
+**Maßnahme:** Schriftsatz finalisieren; Fristenkontrolle.
+
+## Gegenargumente strukturieren
+
+### Antizipatorische Verteidigungsanalyse
+
+Für jedes vom Nutzer beanspruchte TBM: Was wird die Gegenseite einwenden?
+
+| TBM | Nutzer-Argument | Gegenargument Gegenseite | Entgegnung | Risiko |
+|---|---|---|---|---|
+| Pflichtverletzung | Lieferung 14 Tage verspätet | Höhere Gewalt (§ 275 Abs. 1 BGB) | Höhere Gewalt nicht belegt; Risiko beim Lieferanten | Gelb |
+| Kausalität | Schaden durch Verspätung | Kläger hätte anderweitig beschafft | Beschaffungsalternative nicht zumutbar | Grün |
+
+### Vier Klassen von Gegenargumenten
+
+1. **Tatbestandliche Gegenargumente:** TBM nicht erfüllt (z. B. kein Vertrag; kein Schaden)
+2. **Rechtliche Einreden:** Verjährung, § 320 BGB (Zug-um-Zug), Aufrechnung (§ 387 BGB)
+3. **Beweisrechtliche Gegenargumente:** Beweismittel unzulässig; Beweislast falsch verteilt
+4. **Sachverhaltliche Gegenargumente:** Andere Deutung der Tatsachen; Alternativursache
+
+## Verteidigungslinien
+
+**Primäre Verteidigungslinie:** Tatbestand nicht erfüllt (TBM fehlt).
+**Sekundäre Verteidigungslinie:** TBM erfüllt, aber Einrede erhoben (Verjährung, § 320, Aufrechnung).
+**Tertiäre Verteidigungslinie:** TBM und Einreden überwunden, aber Schaden / Kausalität bestritten.
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+2. Welche Anspruchsgrundlage wird geprüft und welche TBM sind strittig?
 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen belegen die Punkte?
+5. Welcher Output wird gebraucht: Risikoampel, Memo, Gegenargumentation, Verteidigungsstrategie?
 
 ## Arbeitsworkflow
+
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zerlegen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Risikoampel erstellen:** Pro TBM: Rot/Gelb/Grün mit Begründung.
+3. **Gegenargument-Matrix:** Pro TBM: Gegenargument der Gegenseite, Entgegnung, Risikobewertung.
+4. **Verteidigungslinien skizzieren:** Primär, sekundär, tertiär.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Risikoampel:** TBM, Bewertung (Rot/Gelb/Grün), Begründung, Sofortmaßnahme.
+- **Gegenargument-Matrix:** TBM, Nutzer-Argument, Gegenargument, Entgegnung.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Normen live prüfen: gesetze-im-internet.de (BGB §§ 204, 275, 320, 387 ff.; ZPO §§ 286, 294; AGG § 22).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

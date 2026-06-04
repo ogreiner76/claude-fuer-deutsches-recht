@@ -1,29 +1,86 @@
 ---
 name: subsumtions-rewrite-klausurton
-description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden."
+description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal."
 ---
 
 # Subsumtion im Klausurton neu schreiben
 
-
 ## Ziel
 
-Dieser Skill führt nicht schematisch durch Subsumtion im Klausurton neu schreiben, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Dieser Skill schreibt fehlerhafte oder lückenhafte Subsumtionen in sauberen juristischen Klausurton um. Er fügt keine neuen Tatsachen hinzu und erfindet keine Belege. Er korrigiert Obersatz, Definition, Subsumtion und Ergebnis — je Tatbestandsmerkmal getrennt.
 
-## Arbeitsprogramm
+## Klausurton: Stilregeln
 
-- Nur Tatsachen aus der Akte verwenden.
-- Keine Streitstände aufnehmen, wenn sie nicht entscheidungserheblich sind.
-- Aus jedem Absatz einen sauberen Vier-Schritt machen.
+### Gutachtenstil (Standard für Klausur und Hausarbeit)
 
-## Red-Team-Fragen
+| Element | Stilregel | Beispiel |
+|---|---|---|
+| Obersatz | Konjunktiv; Anspruchsfrage | "A könnte gegen B einen Anspruch auf Zahlung von EUR X aus § 433 Abs. 2 BGB haben." |
+| Definition | Abstrakt, ohne Bezug auf konkreten Fall; mit Quellenhinweis | "Unter einer Sache iSd § 90 BGB versteht man jeden körperlichen Gegenstand." |
+| Subsumtion | Tatsachen des Falles unter Definition halten | "Hier ist der Pkw ein körperlicher Gegenstand und damit eine Sache iSd § 90 BGB." |
+| Zwischenergebnis | Indikativ; klar | "Dieses Tatbestandsmerkmal ist erfüllt." |
+| Gesamtergebnis | Indikativ; klar | "A hat gegen B einen Anspruch aus § 433 Abs. 2 BGB." |
 
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch?
+### Urteilsstil (für Schriftsatz und Bescheid)
+
+- Ergebnis steht am Anfang: "Die Klage ist begründet."
+- Begründung folgt deduktiv: "Denn A hat gegen B einen Anspruch aus § 433 Abs. 2 BGB, weil ..."
+- Kein Konjunktiv im Einstieg
+
+## Typische Rewrite-Muster
+
+### Fehler 1: Sprung-Subsumtion → Rewrite
+
+**Vor:** "§ 433 Abs. 2 BGB: Der Kaufpreis ist zu zahlen. Hier ist er noch nicht gezahlt."
+
+**Nach:** "Nach § 433 Abs. 2 BGB ist der Käufer verpflichtet, dem Verkäufer den vereinbarten Kaufpreis zu zahlen. Kaufpreis ist die im Kaufvertrag als Gegenleistung vereinbarte Geldsumme. Hier haben A und B im Kaufvertrag v. TT.MM.JJJJ einen Kaufpreis von EUR X vereinbart. Dieser ist nach Anlage K1 noch nicht bezahlt worden. Die Zahlungspflicht besteht daher."
+
+### Fehler 2: Zirkelschluss → Rewrite
+
+**Vor:** "Eine Pflichtverletzung liegt vor, weil B seine Pflichten verletzt hat."
+
+**Nach:** "Eine Pflichtverletzung iSd § 280 Abs. 1 BGB ist jedes objektive Abweichen vom geschuldeten Verhalten. B schuldete nach dem Werkvertrag die Herstellung eines mangelfreien Werks (§ 631 Abs. 1 BGB). Die Lieferung erfolgte laut Abnahmeprotokoll (Anlage K2) mit Rissen in der Fassade. Dies weicht vom geschuldeten mangelfreien Zustand ab. Eine Pflichtverletzung liegt vor."
+
+### Fehler 3: Konjunktiv im Schluss → Rewrite
+
+**Vor:** "Das Tatbestandsmerkmal könnte vorliegen."
+
+**Nach:** "Das Tatbestandsmerkmal liegt vor." oder "Das Tatbestandsmerkmal liegt nicht vor, weil [Begründung]."
+
+### Fehler 4: Definition aus dem Sachverhalt → Rewrite
+
+**Vor:** "Vereinbart" im Sinne der Parteienabsprache heißt, dass A und B das vereinbart haben.
+
+**Nach:** "Vereinbart" iSd § 145 BGB setzt voraus, dass ein Angebot auf Abschluss eines Vertrags und eine Annahme vorliegen (§§ 145, 147 BGB). ...
+
+## Rewrite-Workflow
+
+1. **Fehlerdiagnose:** Obersatz, Definition, Subsumtion, Ergebnis je TBM markieren (vorhanden / fehlt / falsch).
+2. **Priorität setzen:** Welcher Fehler ist am schwersten? (Sprung-Subsumtion, Zirkelschluss, falscher Stil)
+3. **Rewrite:** Je TBM: Obersatz → Definition (mit Norm; Quelle als Prüfpunkt) → Tatsachen aus dem Sachverhalt → Zwischenergebnis.
+4. **Stilkontrolle:** Konjunktiv im Obersatz? Indikativ im Zwischenergebnis? Tatsachen aus der Akte?
+5. **Quellenkontrolle:** Jede Definition auf Norm oder (als Prüfpunkt) auf BGH-Linie gestützt?
+
+## Quellen-Disziplin beim Rewrite
+
+- Normtext aus gesetze-im-internet.de: live prüfen und exakt zitieren
+- Rechtsprechungs-Definitionen: als Prüfpunkt markieren ("nach BGH [live zu prüfen unter dejure.org / bgh.de]")
+- Keine Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen
 
 ## Ausgabe
 
-Erzeuge Korrekturvermerk, Randbemerkungen, Punkteindikation und verbesserte Musterpassage. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Vollständige Rewrite-Passage je TBM; davor kurzer Fehlerhinweis ("Fehler: Sprung-Subsumtion → jetzt korrigiert"). Rechtsprechung nur mit live verifizierbarem Aktenzeichen.
 
+## Quellenregel
+
+- Normtext live prüfen: gesetze-im-internet.de.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- Nur Tatsachen aus der Akte verwenden; keine neuen Sachverhaltselemente erfinden.

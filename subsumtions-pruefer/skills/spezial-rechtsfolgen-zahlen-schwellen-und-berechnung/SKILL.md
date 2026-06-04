@@ -1,48 +1,102 @@
 ---
 name: spezial-rechtsfolgen-zahlen-schwellen-und-berechnung
-description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Rechtsfolgen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill quantifiziert die Rechtsfolgen einer Subsumtion: Schadensersatz, Vertragsstrafen, gesetzliche Zinsen, Bußgelder, Streitwert, RVG-Gebühren und sonstige geldwerte Rechtsfolgen. Er gibt Berechnungsschemata und Prüfpunkte für Zahlen, die live zu verifizieren sind.
 
+## Wichtige Schwellenwerte und gesetzliche Beträge (Stand: Modellwissen; live prüfen)
 
-## Fachlicher Zuschnitt
+| Bereich | Schwelle / Betrag | Norm | Quelle |
+|---|---|---|---|
+| Zuständigkeit AG / LG | bis EUR 5.000 AG; ab EUR 5.000 LG | §§ 23, 71 GVG | gesetze-im-internet.de |
+| Berufungssumme | EUR 600 | § 511 Abs. 2 Nr. 1 ZPO | gesetze-im-internet.de |
+| Kleinstunternehmer USt | EUR 22.000 (ab 2025: EUR 25.000) | § 19 UStG | live prüfen; gesetze-im-internet.de |
+| DSGVO-Bußgeld max. | EUR 20 Mio. oder EUR 4% Jahresumsatz | Art. 83 Abs. 5 DSGVO | eur-lex.europa.eu |
+| Verzugszins | Basiszinssatz + 5 PP (§ 288 Abs. 1 BGB); + 9 PP bei B2B (§ 288 Abs. 2 BGB) | §§ 288, 247 BGB | gesetze-im-internet.de; Bundesbank.de (Basiszinssatz) |
+| Mietkaution max. | 3 Nettokaltmieten | § 551 BGB | gesetze-im-internet.de |
+| Abfindung | Kein gesetzlicher Betrag; § 1a KSchG: 0,5 Monatsverdienst/Jahr | § 1a KSchG | live prüfen |
+| Schmerzensgeld | Kein Schematismus; nach Billigkeitsgesichtspunkten | § 253 Abs. 2 BGB | BGH-Rechtsprechung live prüfen |
 
-- **Thema:** Rechtsfolgen.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Berechnungsschemata
+
+### Schema 1 — Verzugszinsen
+
+```
+Hauptforderung:      EUR X
+Fälligkeit:          TT.MM.JJJJ (bei Mahnung oder vertraglicher Bestimmung)
+Verzugsbeginn:       Mahnung (§ 286 Abs. 1 BGB) oder 30 Tage nach Fälligkeit (§ 286 Abs. 3 BGB)
+Zinssatz:            Basiszinssatz (Bundesbank.de, aktuell prüfen) + 5 PP (B2C) / + 9 PP (B2B)
+Zinsen pro Tag:      Hauptforderung × Zinssatz / 365
+Gesamtzinsen:        Zinsen pro Tag × Anzahl Tage Verzug
+```
+
+### Schema 2 — Schadensersatz § 249 BGB
+
+```
+Naturalrestitution (§ 249 Abs. 1 BGB): Zustand wie ohne schädigendes Ereignis
+Differenzschaden: Vermögen mit schädigendem Ereignis vs. ohne
+Positiver Schaden (damnum emergens): tatsächlich entstandene Kosten
+Entgangener Gewinn (lucrum cessans): § 252 BGB; üblicher Gewinn oder wahrscheinliche Entwicklung
+Abzug: Mitverschulden § 254 BGB; Vorteilsausgleichung
+```
+
+### Schema 3 — RVG-Gebühren (Anwalt; live prüfen)
+
+```
+Streitwert (§ 2 RVG) → Gebührentabelle (Anlage 2 RVG)
+Geschäftsgebühr (Nr. 2300 RVG VV): 0,5–2,5; Regelgebühr 1,3
+Verfahrensgebühr (Nr. 3100 RVG VV): 1,3
+Terminsgebühr (Nr. 3104 RVG VV): 1,2
+Einigungsgebühr (Nr. 1000, 1003 RVG VV): 1,5
+Hinweis: RVG-Tabellen und Gebührensätze live prüfen unter gesetze-im-internet.de (RVG Anlage 2)
+```
+
+## Streitwertberechnung
+
+- Leistungsklage: Streitwert = Klageforderung
+- Feststellungsklage: Abschlag (BGH: ca. 20–80% des bezifferbaren Hauptanspruchs; live prüfen)
+- Räumungsklage: Jahresmiete (§ 9 ZPO)
+- Unterlassungsklage: Gesamtinteresse des Klägers; kein starrer Schematismus
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Welche Rechtsfolge soll berechnet werden (Schadensersatz, Zinsen, Bußgeld, Gebühren)?
+2. Welche Zahlen und Daten liegen vor (Hauptforderung, Frist, Basiszinssatz)?
+3. Gibt es behördliche Festsetzungen oder Schätzgrundlagen?
+4. Welche Dokumente, Rechnungen oder Tabellen belegen die Zahlen?
+5. Welcher Output wird gebraucht: Berechnung im Schriftsatz, Mandanteninfo, Tabelle?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsfolgen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Zahlen-Grundlage in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen für Rechtsfolge und Berechnung prüfen.
+3. **Prüfpunkte abarbeiten:** Welche Beträge sind gesichert? Welche müssen live geprüft werden?
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Berechnungstabelle:** Posten, Norm, Betrag, Annahme/Unsicherheit, Quelle.
+- **Arbeitsprodukt:** Berechnungsschema für Schriftsatz oder Mandantenbrief.
+- **Qualitätsgate:** keine Scheingenauigkeit; alle Zahlenwerte als Prüfpunkte markieren, wenn sie nicht live verifiziert sind.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Aktuelle Beträge, Schwellenwerte und Gebührentabellen immer live prüfen: gesetze-im-internet.de, Bundesbank.de (Basiszinssatz), eur-lex.europa.eu (EU-Bußgelder).
+- Rechtsprechung zu Schmerzensgeld und Schadensersatz nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis, Frist oder Zahl nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -6,26 +6,60 @@ description: "Chronologie und Belegmatrix im Plugin subsumtions-pruefer: macht a
 # Chronologie und Belegmatrix
 
 ## Aufgabe
+
 Dieser Workflow-Skill ordnet zu jedem Tatbestandsmerkmal einer Subsumtion die konkreten Tatsachen aus dem Sachverhalt und die Belege (Anlagen, Korrespondenz, Zeugen) zu. Ergebnis ist eine Belegmatrix, die die Subsumtion auditierbar macht.
 
 ## Subsumtions-Belegmatrix
-- **Spalte 1:** Tatbestandsmerkmal (z. B. "Kaufvertrag § 433 BGB: Einigung über Kaufgegenstand und Preis").
-- **Spalte 2:** Definition mit Norm/hM-Quelle.
-- **Spalte 3:** Tatsache(n) aus Sachverhalt.
-- **Spalte 4:** Beleg (Anlage K1, Klage S. 3, Mailkonvolut, Zeugenaussage Müller).
-- **Spalte 5:** Subsumtion (Wertung "+/-/streitig").
-- **Spalte 6:** Beweismaß: § 286 ZPO (volle Überzeugung) vs. § 287 ZPO (überwiegende Wahrscheinlichkeit) bzw. Glaubhaftmachung § 294 ZPO (eV).
-- **Spalte 7:** Beweislast: Wer trägt sie? (Grundsatz: jeder die ihm günstigen Tatsachen.)
 
-## Chronologie
-- Datum der entscheidungserheblichen Tatsachen; Reihenfolge im Sachverhalt sortieren (Vertragsschluss vor Lieferung vor Mängelrüge vs. Aufrechnung etc.).
+| Spalte | Inhalt |
+|---|---|
+| TBM | Tatbestandsmerkmal (z. B. "Kaufvertrag § 433 BGB: Einigung über Kaufgegenstand und Preis") |
+| Definition | Mit Norm oder Quellenhinweis (als Prüfpunkt markiert) |
+| Tatsache | Aus dem Sachverhalt |
+| Beleg | Anlage K1, Klage S. 3, Mailkonvolut, Zeugenaussage Müller |
+| Subsumtion | Wertung "+/-/streitig" |
+| Beweismaß | § 286 ZPO (volle Überzeugung) vs. § 287 ZPO (überwiegende Wahrscheinlichkeit) vs. § 294 ZPO (Glaubhaftmachung) |
+| Beweislast | Wer trägt sie? Grundsatz: jeder die ihm günstigen Tatsachen |
+
+## Chronologie erstellen
+
+**Schritt 1 — Alle Ereignisse mit Datum auflisten:**
+- Vertragsschluss → Lieferung → Mängelrüge → Fristsetzung → Ablauf → Klageerhebung
+
+**Schritt 2 — Rechtliche Bedeutung je Ereignis:**
+- Vertragsschluss: Fälligkeit, Gefahrübergang, Verjährungsbeginn
+- Mängelrüge: Form, Frist (§ 377 HGB für Kaufleute; § 438 BGB für Verbraucher), Beweislastverschiebung
+- Fristsetzung: Verzugseintritt (§ 286 BGB), Rücktrittsvoraussetzung (§ 323 BGB)
+
+**Schritt 3 — Widersprüche identifizieren:**
+- Divergierende Datumsangaben in verschiedenen Dokumenten
+- Sachverhaltsschilderung widerspricht Urkunde
+- Behauptetes Ereignis durch kein Beweismittel belegt
 
 ## Anti-Muster
-- Tatsache ohne Beleg in der Matrix.
-- "Streitig" ohne Hinweis, wer was bestreitet (§ 138 ZPO).
-- Subsumtion ohne Definition (Sprung-Subsumtion).
+
+- Tatsache ohne Beleg in der Matrix
+- "Streitig" ohne Hinweis, wer was bestreitet (§ 138 ZPO; Bestreiten muss substantiiert sein)
+- Subsumtion ohne Definition (Sprung-Subsumtion)
+- Beweis ohne Beweismittelangabe (§§ 355 ff. ZPO: Beweiserhebung nur durch anerkannte Mittel)
+- Chronologie rückwärts (Lieferung vor Vertragsschluss etc.)
+
+## Beweismaß-Check
+
+| Situation | Beweismaß | Norm |
+|---|---|---|
+| Hauptforderung (Vertrag, Schaden, Kausalität) | Volle richterliche Überzeugung | § 286 ZPO |
+| Schadenshöhe | Überwiegende Wahrscheinlichkeit | § 287 ZPO |
+| Glaubhaftmachung (einstw. Verfügung) | Überwiegende Wahrscheinlichkeit; eidesstattl. Versicherung | § 294 ZPO |
+
+## Widerspruchs-Protokoll
+
+| Nr. | Dokument A | Dokument B | Widerspruch | Klärungsbedarf |
+|---|---|---|---|---|
+| 1 | Vertrag v. 01.01.: Preis EUR 1000 | Rechnung v. 15.01.: Preis EUR 1200 | Preisdifferenz | Vertragsänderung? |
 
 ## Kaltstart
+
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
 1. Wer fragt in welcher Rolle?
@@ -34,19 +68,30 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
+
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+3. Belegmatrix erstellen und Lücken rot markieren.
+4. Chronologie und Widerspruchs-Protokoll anlegen.
+5. Passende Spezialskills vorschlagen (z. B. spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste).
 
 ## Output-Standard
+
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Belegmatrix mit den entscheidenden Punkten.
+- Chronologie-Tabelle und Widerspruchs-Protokoll.
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+
+- Normen live prüfen: gesetze-im-internet.de (ZPO §§ 138, 286, 287, 294, 355 ff.; BGB §§ 286, 323, 377 HGB, 438).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 - Unsicherheiten und Annahmen ausdrücklich markieren.

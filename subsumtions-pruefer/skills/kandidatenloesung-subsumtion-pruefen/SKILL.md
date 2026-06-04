@@ -1,29 +1,97 @@
 ---
 name: kandidatenloesung-subsumtion-pruefen
-description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet."
+description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage."
 ---
 
 # Kandidatenlösung auf Subsumtion prüfen
 
-
 ## Ziel
 
-Dieser Skill führt nicht schematisch durch Kandidatenlösung auf Subsumtion prüfen, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Dieser Skill prüft abgegebene Klausur- oder Kandidatenlösungen auf methodische Sauberkeit der Subsumtion. Er führt nicht schematisch durch, sondern erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt und bewertet.
 
-## Arbeitsprogramm
+## Prüfungsschema für Kandidatenlösungen
 
-- Absatzweise markieren, welches Tatbestandsmerkmal behauptet wird.
-- Definition und Aktenbeleg neben jede Subsumtion setzen.
-- Fehler nach falscher Norm, falschem Merkmal, fehlender Tatsache und unzulässigem Schluss sortieren.
+### Schritt 1 — Obersatz identifizieren
+
+**Was prüfen:**
+- Ist der Obersatz als Frage (Konjunktiv) formuliert? ("A könnte gegen B einen Anspruch auf X aus § Y haben.")
+- Sind Parteien, Anspruchsrichtung und Rechtsfolge klar benannt?
+- Wird der Obersatz mit "weil" oder "da" begonnen? (Fehler: Urteilsstil statt Gutachtenstil in der Einleitung)
+
+**Häufige Fehler:**
+- "A hat einen Anspruch auf X." → Indikativ im Obersatz (Urteilsstil-Fehler)
+- Obersatz fehlt ganz → Subsumtion startet ohne Normbenennung
+- Falsche Anspruchsgrundlage im Obersatz → gesamte Prüfung verfehlt
+
+### Schritt 2 — Definition prüfen
+
+**Was prüfen:**
+- Ist für jedes streitige Tatbestandsmerkmal eine Definition vorhanden?
+- Stammt die Definition aus einer Quelle (BGH, hM, Kommentar) oder aus dem Sachverhalt selbst?
+- Ist die Definition abstrakt und allgemein (nicht sachverhaltsbezogen)?
+
+**Häufige Fehler:**
+- Definition fehlt: Tatsachen werden direkt unter die Norm subsumiert (Sprung-Subsumtion)
+- Zirkuläre Definition: "Eine Sache ist ein körperlicher Gegenstand, denn hier liegt ein körperlicher Gegenstand vor."
+- Definition stammt implizit aus der Falllösung, nicht aus einer Rechtsquelle
+
+### Schritt 3 — Subsumtion prüfen
+
+**Was prüfen:**
+- Werden konkrete Tatsachen aus dem Sachverhalt unter die abstrakten Merkmale der Definition gehalten?
+- Tritt der Kandidat wertend auf ("offensichtlich", "eindeutig") ohne Begründung?
+- Werden Gegenargumente (Einwände, streitige Punkte) benannt und beantwortet?
+
+**Häufige Fehler:**
+- Wiederholung der Definition statt Anwendung auf den Sachverhalt
+- Sachverhalt wird umformuliert, ohne unter die Merkmale subsumiert zu werden
+- Behauptung ohne Akte: "Es liegt eine Pflichtverletzung vor." ohne Bezug auf konkrete Handlung
+
+### Schritt 4 — Beleg und Beweis
+
+**Was prüfen:**
+- Wird für jede Tatsachenbehauptung ein Beleg aus dem Sachverhalt angegeben?
+- Werden Beweisfragen angesprochen, wenn die Tatsachen streitig sind?
+- Ist Beweislast korrekt zugeordnet?
+
+### Schritt 5 — Ergebnis und Zwischen-/Gesamtergebnis
+
+**Was prüfen:**
+- Gibt es ein Zwischenergebnis je Tatbestandsmerkmal?
+- Ist das Gesamtergebnis ein klares Indikativ? ("Ein Anspruch besteht." / "Ein Anspruch besteht nicht.")
+- Wird im Ergebnis zwischen tatbestandlicher Erfüllung und Einreden unterschieden?
+
+## Bewertungsmatrix
+
+| Merkmal | Punkte (Indikation) | Häufiger Fehler |
+|---|---|---|
+| Obersatz Konjunktiv + Parteien + Norm | 1–2 | Indikativ oder Normfehler |
+| Definition mit Quellenangabe | 2–3 | Fehlende oder zirkuläre Definition |
+| Subsumtion Tatsachen unter Definition | 3–5 | Wiederholung statt Subsumtion |
+| Zwischenergebnis je TBM | 1 | Fehlt; Konjunktiv statt Indikativ |
+| Behandlung Gegenargumente | 1–2 | Streitstand übergangen |
+| Gesamtergebnis Indikativ | 1 | Konjunktiv im Schluss |
 
 ## Red-Team-Fragen
 
 - Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
 - Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
 - Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch?
+- Wo droht eine falsche Reihenfolge: BGB AT → BT; Primär → Sekundäranspruch; Vertrag → Delikt?
 
 ## Ausgabe
 
-Erzeuge Korrekturvermerk, Randbemerkungen, Punkteindikation und verbesserte Musterpassage. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Korrekturvermerk mit Abschnittsmarkierungen (Rot/Gelb/Grün), Randbemerkungen, Punkteindikation und verbesserter Musterpassage für die schwächste Subsumtionspassage. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle; keine Blindzitate.
 
+## Quellenregel
+
+- Normtext live prüfen: gesetze-im-internet.de.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, openjur.de, bgh.de).
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Korrekturvermerk, Prüfpfad, Lückenliste und Musterpassage.

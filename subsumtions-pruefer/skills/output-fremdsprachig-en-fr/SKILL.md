@@ -15,10 +15,7 @@ Für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-rechtli
 2. Hat der Sachverhalt einen EU-Bezug? → Französisch empfohlen als EU-Amtssprache
 3. Ist das Dokument für eine internationale Schiedsklausel bestimmt? → Englisch ICC/DIS-Standard
 4. Ist eine notariell beglaubigte Übersetzung erforderlich? → Hinweis: diese Ausgabe ist nicht beglaubigt
-
-## Aktuelle Rechtsprechung mit EU-Bezug
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. Sind Fristen oder Verfahrenshandlungen im Ausland relevant? → Zustellungsregeln und Fristberechnung im Zielland separat prüfen
 
 ## Obligatorischer Hinweis (Pflicht in jeder fremdsprachigen Ausgabe)
 
@@ -32,8 +29,6 @@ Jedes Ausgabedokument in englischer oder französischer Sprache beginnt mit:
 
 ## Terminologie — Englisch
 
-Das System verwendet anerkannte Übersetzungen für deutsche und EU-Rechtsbegriffe:
-
 | Deutsch | Englisch |
 |---------|---------|
 | Tatbestandsmerkmal | constituent element / element of the offence |
@@ -46,6 +41,9 @@ Das System verwendet anerkannte Übersetzungen für deutsche und EU-Rechtsbegrif
 | Vorabentscheidungsersuchen | request for a preliminary ruling |
 | Verhältnismäßigkeit | proportionality |
 | Verwaltungsakt | administrative act / administrative decision |
+| Beweislast | burden of proof |
+| Darlegungslast | burden of pleading / burden of production |
+| Anscheinsbeweis | prima facie evidence |
 
 ## Terminologie — Französisch
 
@@ -59,10 +57,13 @@ Das System verwendet anerkannte Übersetzungen für deutsche und EU-Rechtsbegrif
 | einstweilige Verfügung | ordonnance de référé / mesure provisoire |
 | Vorabentscheidungsersuchen | renvoi préjudiciel |
 | Verhältnismäßigkeit | proportionnalité |
+| Beweislast | charge de la preuve |
 
 ## Struktur der fremdsprachigen Ausgabe
 
-Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema, Beweisübersicht, Ergebnis), aber in der gewählten Sprache. Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: "legal basis [Anspruchsgrundlage]".
+Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis). Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: "legal basis [Anspruchsgrundlage]".
+
+Bei EU-Rechtsbegriffen gilt die Terminologie der amtlichen Sprachfassung (eur-lex.europa.eu) als maßgebend.
 
 ## Sprachauswahl
 
@@ -74,6 +75,23 @@ Das System fragt am Anfang:
 
 Für Sachverhalte mit Bezug zu EU-Institutionen (EuGH, Kommission, Rat) empfiehlt das System Französisch als primäre EU-Arbeitssprache zusätzlich zur englischen Fassung.
 
----
+## Besondere Hinweise bei internationalen Sachverhalten
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+- Schiedsverfahren: Sprachregelung in der Schiedsklausel beachten (§ 1045 ZPO; ICC-Regeln; DIS-Regeln)
+- Gerichtsstand und Zustellungsfragen: EuGVVO (VO 1215/2012), HZÜ, EuZVO — live prüfen
+- Ausländisches Recht wird nicht angewendet; bei Kollisionsrechtsfragen Verweis auf IPR (EGBGB, Rom I-VO, Rom II-VO)
+
+## Quellenregel
+
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (curia.europa.eu für EuGH; dejure.org; bgh.de).
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- EU-Normtext live prüfen: eur-lex.europa.eu.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- Normtext live prüfen: gesetze-im-internet.de (Bund), eur-lex.europa.eu (EU-Recht).

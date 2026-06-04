@@ -1,48 +1,98 @@
 ---
 name: spezial-subsumtions-tatbestand-beweis-und-belege
-description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
-# Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Subsumtions**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill führt den vollständigen Subsumtions-Durchgang durch: Tatbestandsmerkmale identifizieren, Beweisfragen zuordnen und Beleglage prüfen. Er integriert das Vier-Schritt-Schema (Obersatz, Definition, Subsumtion, Ergebnis) mit der Beweislastverteilung und der Dokumentenprüfung.
 
+## Vier-Schritt-Schema
 
-## Fachlicher Zuschnitt
+**Schritt 1 — Obersatz**
+- Formulierung im Konjunktiv: "A könnte gegen B einen Anspruch auf X aus § Y haben."
+- Enthält: Anspruchsteller, Anspruchsgegner, Anspruchsinhalt, Anspruchsgrundlage
+- Anti-Muster: "A hat einen Anspruch" (Indikativ im Obersatz = Urteilsstil-Fehler)
 
-- **Thema:** Subsumtions.
-- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+**Schritt 2 — Definition**
+- Jedes streitige Tatbestandsmerkmal mit einer abstrakt-allgemeinen Definition belegen
+- Quelle: BGH-Linie (live zu prüfen), h.M. in der Literatur (nur mit Nutzerquelle), Legaldefinition im Gesetz
+- Anti-Muster: Definition stammt aus dem Sachverhalt selbst (Zirkelschluss)
+
+**Schritt 3 — Subsumtion**
+- Konkrete Tatsachen aus dem Sachverhalt werden unter die abstrakte Definition gehalten
+- Jede Tatsachenbehauptung mit Beleg (Anlage, Zeuge, Urkunde) versehen
+- Anti-Muster: Definition wird wiederholt statt Tatsachen unter sie subsumiert
+
+**Schritt 4 — Ergebnis**
+- Zwischenergebnis je Tatbestandsmerkmal im Indikativ
+- Gesamtergebnis im Indikativ: "Die Voraussetzungen des § Y liegen vor / nicht vor."
+
+## Beweisfragen-Matrix
+
+| Tatbestandsmerkmal | Definition (Quelle) | Tatsache aus Sachverhalt | Beleg | Beweislast | Beweismittel |
+|---|---|---|---|---|---|
+| TBM 1 | [...] | [...] | Anlage K1 | Kläger | Urkunde § 415 ZPO |
+| TBM 2 | [...] | [...] | Zeuge Müller | Kläger | Zeuge §§ 373 ff. ZPO |
+| TBM 3 (Einrede) | [...] | [...] | fehlend | Beklagter | SV-Gutachten §§ 402 ff. ZPO |
+
+## Beleglage-Check
+
+Für jede Tatsachenbehauptung im Schriftsatz oder Gutachten:
+
+1. **Liegt ein Beleg vor?** (Urkunde, Zeuge, Sachverständigengutachten, Augenschein)
+2. **Ist der Beleg ausreichend?** (Echtheit, Inhalt, Relevanz für das TBM)
+3. **Ist die Beweislast korrekt?** (Grundregel: wer Tatsache behauptet, trägt Beweislast)
+4. **Gibt es Beweislastumkehr?** (§ 630h BGB Arzthaftung; § 22 AGG Diskriminierung; Art. 82 Abs. 3 DSGVO)
+5. **Ist Anscheinsbeweis möglich?** (§ 286 ZPO + Erfahrungssatz)
+6. **Fehlender Beleg:** Sekundäre Darlegungslast der Gegenseite prüfen
+
+## Typische Subsumtionsfehler
+
+| Fehlertyp | Beschreibung | Heilung |
+|---|---|---|
+| Sprung-Subsumtion | Tatsache direkt unter Norm ohne Definition | Definition mit Quelle einsetzen |
+| Zirkelschluss | Definition stammt aus dem Sachverhalt | Definition aus externer Quelle |
+| Scheinsubsumtion | Definition wiederholt; keine konkreten Tatsachen | Tatsachen aus Akte zitieren |
+| Fehlendes Zwischenergebnis | Merkmal offen gelassen | Klares Ja/Nein mit Begründung |
+| Konjunktiv im Schluss | "könnte vorliegen" | Indikativ: "liegt vor" |
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Welche Norm und welches Tatbestandsmerkmal soll geprüft werden?
+2. Welche Tatsachen sind unstreitig, welche streitig?
+3. Welche Belege liegen vor (Anlagen, Zeugen, Gutachten)?
+4. Wer trägt die Beweislast (Grundregel oder Umkehr)?
+5. Welcher Output wird gebraucht: Prüfmatrix, Schriftsatzbaustein, Klausurgutachten?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Subsumtions** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+1. **Fallbild bilden:** Norm, Parteien, Tatbestandsmerkmale, Beleglage und offene Beweisfragen.
+2. **Vier-Schritt-Schema anwenden:** Obersatz → Definition → Subsumtion → Ergebnis je TBM.
+3. **Beweisfragen-Matrix füllen:** Pro TBM: Tatsache, Beleg, Beweislast, Beweismittel.
+4. **Risiko bewerten:** Grün/Gelb/Rot je TBM; offene Beweisfragen als Prüfpunkte.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Beweisfragen-Matrix:** TBM, Definition, Tatsache, Beleg, Beweislast, Beweismittel.
+- **Arbeitsprodukt:** Vier-Schritt-Subsumtion je TBM mit Zwischenergebnis.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Normen live prüfen: gesetze-im-internet.de (ZPO §§ 286, 294, 373 ff., 402 ff., 415 ff.; BGB §§ 630h; AGG § 22).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

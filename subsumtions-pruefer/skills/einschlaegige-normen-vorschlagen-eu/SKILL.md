@@ -9,6 +9,14 @@ description: "Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRC
 
 Dieser Skill identifiziert einschlägige Normen des Unionsrechts anhand des geschilderten Sachverhalts. Er unterscheidet Primärrecht (AEUV, EUV, GRCh) und Sekundärrecht (Verordnungen, Richtlinien, Beschlüsse) und gibt Hinweise auf die einschlägige Rechtsprechung des EuGH und des EuG.
 
+## Triage zu Beginn
+
+1. Ist der Sachverhalt grenzüberschreitend oder EU-reguliert?
+2. Handelt es sich um eine Beziehung Bürger–Staat (vertikale Konstellation) oder Bürger–Bürger (horizontal)?
+3. Ist eine bestimmte Grundfreiheit oder ein Grundrecht der GRCh berührt?
+4. Ist bereits ein nationales Umsetzungsgesetz einschlägig?
+5. Liegt die fragliche Entscheidung nach dem Wissensstand des Systems? → Live-Check bei curia.europa.eu empfehlen
+
 ## Primärrecht — AEUV, EUV, GRCh
 
 ### Grundfreiheiten (AEUV)
@@ -35,24 +43,32 @@ Anwendbar bei Durchführung von Unionsrecht durch Mitgliedstaaten (Art. 51 Abs. 
 
 ## Sekundärrecht — Wichtige Verordnungen und Richtlinien
 
-| Bereich | Rechtsakt |
-|---------|-----------|
-| Datenschutz | DSGVO (VO 2016/679); NIS2-Richtlinie |
-| Produkthaftung | ProdHaftRL (RL 85/374/EWG; ab 2024: RL 2024/2853) |
-| Verbraucherrecht | VRRL (RL 2011/83/EU); Klausel-RL (RL 93/13/EWG) |
-| KI-Regulierung | KI-VO (VO 2024/1689) |
-| Vergaberecht | RL 2014/24/EU; RL 2014/25/EU |
-| Arbeitsrecht | ArbeitnehmerentsendungsRL (RL 96/71/EG); Arbeitszeitrichtlinie |
-| Finanzmarkt | MiFID II; CRR/CRD IV; PRIIPS-VO |
-| Kartell | VO 1/2003; VO 330/2010 (Vertikal-GVO) |
+| Bereich | Rechtsakt | Fundstelle |
+|---------|-----------|------------|
+| Datenschutz | DSGVO (VO 2016/679) | eur-lex.europa.eu |
+| Produkthaftung | RL 85/374/EWG; ab 2024: RL 2024/2853 | eur-lex.europa.eu |
+| Verbraucherrecht | VRRL (RL 2011/83/EU); Klausel-RL (RL 93/13/EWG) | eur-lex.europa.eu |
+| KI-Regulierung | KI-VO (VO 2024/1689) | eur-lex.europa.eu |
+| Vergaberecht | RL 2014/24/EU; RL 2014/25/EU | eur-lex.europa.eu |
+| Kartell | VO 1/2003; VO 330/2010 (Vertikal-GVO) | eur-lex.europa.eu |
+| Finanzmarkt | MiFID II; CRR/CRD IV | eur-lex.europa.eu |
 
 ## EuGH-Judikatur — Fundstellen
 
-Das System weist auf Leitentscheidungen des EuGH hin, die für die vorgeschlagene Norm relevant sind, und verweist auf:
-- curia.europa.eu (amtliche Datenbank, Volltext)
-- eur-lex.europa.eu (Rechtsakttexte, konsolidierte Fassungen)
+Das System verweist auf Leitentscheidungen des EuGH, die für die vorgeschlagene Norm relevant sind:
+- **curia.europa.eu** (amtliche Datenbank, Volltext, suchbar nach Rechtssache und Aktenzeichen)
+- **eur-lex.europa.eu** (Rechtsakttexte, konsolidierte Fassungen)
 
-**Wichtig:** Für aktuelle Entscheidungen empfiehlt das System eine manuelle Suche in curia.europa.eu, da der Wissensstand des Systems ein festes Enddatum hat.
+**Wichtig:** Für aktuelle Entscheidungen ist eine manuelle Suche in curia.europa.eu erforderlich, da der Wissensstand des Systems ein festes Enddatum hat. Das System markiert Entscheidungen, die nach dem Wissensstand unsicher sind, als Prüfpunkte.
+
+## Prüfung der unmittelbaren Wirkung
+
+| Rechtssatz | Unmittelbare Wirkung? | Bedingungen |
+|---|---|---|
+| EU-Verordnung | Ja (Art. 288 Abs. 2 AEUV) | Kein Umsetzungsakt nötig |
+| Richtlinie (Umsetzungsfrist abgelaufen) | Vertikal ja (Bürger gg. Staat) | Norm muss unbedingt und hinreichend bestimmt sein |
+| Richtlinie (horizontal) | Nein (Grundsatz) | Nur richtlinienkonforme Auslegung; Ausnahme: Francovich-Haftung |
+| Primärrecht (Grundfreiheiten) | Ja (vertikal und horizontal für Verbotsnormen) | EuGH ständige Rechtsprechung |
 
 ## Ausgabe
 
@@ -60,18 +76,18 @@ Das System nennt:
 1. Einschlägige Primär- oder Sekundärrechtsnorm mit Artikelangabe
 2. Unmittelbare Wirkung (Verordnung: ja; Richtlinie: nur bei staatlichem Handeln nach Ablauf der Umsetzungsfrist)
 3. Anwendungsvorrang gegenüber nationalem Recht
-4. Leitentscheidung des EuGH (soweit bekannt)
-5. Empfehlung zur Rechtsprechungsrecherche in curia.europa.eu
+4. Leitentscheidung des EuGH (als Prüfpunkt markiert; live zu prüfen unter curia.europa.eu)
+5. Empfehlung zur Rechtsprechungsrecherche
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
 
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern (curia.europa.eu, eur-lex.europa.eu).
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- Normtext live prüfen: eur-lex.europa.eu (EU-Recht), gesetze-im-internet.de (Umsetzungsgesetze).

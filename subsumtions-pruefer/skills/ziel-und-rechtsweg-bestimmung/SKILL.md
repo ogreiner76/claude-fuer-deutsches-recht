@@ -7,7 +7,7 @@ description: "Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr
 
 ## Triage zu Beginn — kläre vor der Rechtsweg-Bestimmung
 
-1. Was möchte der Nutzer erreichen? (Zahlung / Unterlassung / Anfechtung VA / Strafanzeige / ...)
+1. Was möchte der Nutzer erreichen?
 2. Wer ist Gegner? (Privatperson / Unternehmen / Behörde / Staat)
 3. Ist Behördenbeteiligung erkennbar? → Öffentliches Recht prüfen
 4. Besteht Dringlichkeit? → Eilverfahren parallel skizzieren
@@ -19,15 +19,12 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 
 ## Zentrale Normen zur Rechtswegsbestimmung
 
-- § 13 GVG — ordentliche Gerichtsbarkeit (bürgerliche Rechtsstreitigkeiten, Streit über Privatrecht)
-- § 40 VwGO — Verwaltungsrechtsweg (öffentlich-rechtliche Streitigkeiten, nicht verfassungsrechtlicher Art)
-- § 51 SGG — Sozialgerichtsbarkeit (Angelegenheiten der Sozialversicherung)
+- § 13 GVG — ordentliche Gerichtsbarkeit (bürgerliche Rechtsstreitigkeiten)
+- § 40 VwGO — Verwaltungsrechtsweg (öffentlich-rechtliche Streitigkeiten)
+- § 51 SGG — Sozialgerichtsbarkeit (Sozialversicherung)
 - § 33 FGO — Finanzgerichtsbarkeit (Steuern und Abgaben)
+- § 2 ArbGG — Arbeitsgerichtsbarkeit (Arbeitsverhältnisse)
 - § 17 GVG — Rechtsweg-Verweisung; § 17a GVG — Rüge der Unzuständigkeit
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zielfragen
 
@@ -36,7 +33,7 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 | Nr. | Ziel | Typischer Rechtsweg |
 |-----|------|---------------------|
 | 1 | Anspruch durchsetzen (Zahlung, Unterlassung, Herausgabe) | ZPO / ordentliche Gerichtsbarkeit |
-| 2 | Anspruch abwehren (Klageabweisung, Widerklage) | ZPO | Normtext, amtliche Hinweise, verifizierte Rechtsprechung |
+| 2 | Anspruch abwehren (Klageabweisung, Widerklage) | ZPO |
 | 3 | Verwaltungsentscheidung anfechten (Bescheid) | VwGO Anfechtungsklage § 42 Abs. 1 Alt. 1 |
 | 4 | Verwaltungsentscheidung erzwingen | VwGO Verpflichtungsklage § 42 Abs. 1 Alt. 2 |
 | 5 | Sozialleistung durchsetzen oder anfechten | SGG |
@@ -45,6 +42,8 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 | 8 | Verfassungsbeschwerde erheben | BVerfGG § 90 (Erschöpfung Rechtsweg) |
 | 9 | Einstweiligen Rechtsschutz | §§ 935/940 ZPO / § 80 Abs. 5 VwGO |
 | 10 | Familiensache (Sorge, Unterhalt, Scheidung) | FamFG |
+| 11 | Arbeitssache (Kündigung, Lohn) | ArbGG |
+| 12 | EU-Recht durchsetzen / anwenden | Nationales Gericht + ggf. Vorabentscheidungsersuchen Art. 267 AEUV |
 
 ## Rechtsweg-Entscheidungsbaum
 
@@ -52,21 +51,46 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 Ist eine Behörde beteiligt?
 ├─ Ja → Handlung hoheitlich?
 │       ├─ Ja → VwGO / SGG / FGO (je nach Sachgebiet)
+│       │       ├─ Sozialversicherung → SGG
+│       │       ├─ Steuer → FGO
+│       │       └─ sonst öffentl. Recht → VwGO
 │       └─ Nein → ordentliche Gerichtsbarkeit (Fiskusprivileg ausnahmsweise)
 └─ Nein → ZPO (ordentliche Gerichtsbarkeit)
           ├─ Schiedsklausel vorhanden? → §§ 1025 ff. ZPO
-          └─ Arbeitssache? → ArbGG; Familiensache? → FamFG
+          ├─ Arbeitssache? → ArbGG
+          └─ Familiensache? → FamFG
 ```
 
-## Warnmechanik
+## Vorverfahren und Fristen
 
-Das System warnt bei folgenden Konstellationen:
-- Nutzer nennt Ziel im Zivilrecht, Sachverhalt klingt nach öffentlichem Recht: Hinweis auf VwGO
-- Nutzer möchte Strafanzeige, aber Sachverhalt betrifft nur Zivilrecht: kein Straftatbestand erkennbar
-- Vorverfahren (Widerspruch) noch nicht durchgeführt: Klage unzulässig (§ 68 VwGO)
+| Rechtsweg | Vorverfahren | Frist |
+|---|---|---|
+| VwGO | Widerspruch (§ 70 VwGO) | 1 Monat ab VA-Bekanntgabe |
+| VwGO | Klage nach Widerspruchsbescheid | 1 Monat ab Zustellung WB (§ 74 VwGO) |
+| SGG | Widerspruch (§ 83 SGG) | 1 Monat |
+| FGO | Einspruch (§ 347 AO) | 1 Monat |
+| ArbGG | Kündigungsschutzklage | 3 Wochen ab Zugang Kündigung (§ 4 KSchG) |
+| ZPO | keine zwingenden Vorverfahren | Verjährungsfristen (§§ 195 ff. BGB) |
 
-**Das System trifft keine verbindliche Rechtswegentscheidung.** Die endgültige Bestimmung obliegt dem Gericht (§ 17a GVG).
+## Zweifelsfälle und Warnungen
 
-## Quellenregel
+- **Doppelte Rechtswegmöglichkeit:** Bei gemischten Sachverhalten (z. B. Amtshaftung § 839 BGB: ordentliche Gerichtsbarkeit; Hoheitsakt: VwGO) ist Trennungsprinzip zu beachten.
+- **Rüge der Unzuständigkeit (§ 17a GVG):** Rechtzeitig erheben; Verweisung an zuständiges Gericht möglich.
+- **Unionsrecht:** Nationales Gericht wendet EU-Recht an; bei Auslegungsfragen: Vorabentscheidungsersuchen (Art. 267 AEUV; → eu-vorabentscheidung-pruefen).
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Ausgabe
+
+Rechtsweg-Bestimmung mit Entscheidungsbaum, Klageart, Zuständigkeit, Frist und Warnungen bei Zweifelsfällen. Empfehlung zur Folgeskill-Nutzung (z. B. verfahrensart-bestimmen, workflow-fristen-und-risikoampel).
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern (dejure.org, bgh.de, bverfg.de).
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- Normtext live prüfen: gesetze-im-internet.de (GVG §§ 13, 17, 17a; VwGO §§ 40, 70, 74; SGG § 51; FGO § 33; ArbGG § 2; KSchG § 4; BVerfGG § 90; ZPO §§ 935, 940, 1025 ff.).

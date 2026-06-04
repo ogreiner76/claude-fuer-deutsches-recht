@@ -1,48 +1,100 @@
 ---
 name: spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste
-description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Tatbestandsmerkmale**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill erstellt eine Dokumentenmatrix, die jedem Tatbestandsmerkmal die vorhandenen und fehlenden Belege zuordnet. Ergebnis ist eine präzise Lückenliste mit Nachforderungsprioritäten.
 
+## Warum Dokumentenmatrix?
 
-## Fachlicher Zuschnitt
+Ohne strukturierte Beleglage-Übersicht:
+- Fehlen Beweise für entscheidende Tatbestandsmerkmale (Klagerisiko)
+- Sind Schriftsätze angreifbar wegen Pauschalbehauptungen
+- Wird Beweislast falsch eingeschätzt
+- Verzögert sich die Fallbearbeitung durch ungeordnetes Nachfragen
 
-- **Thema:** Tatbestandsmerkmale.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Schritt 1 — Tatbestandsmerkmale identifizieren
+
+Alle TBM der Anspruchsgrundlage auflisten:
+
+Beispiel § 280 Abs. 1 BGB (Schadensersatz wegen Pflichtverletzung):
+1. Schuldverhältnis (Vertrag, gesetzliches Schuldverhältnis)
+2. Pflicht aus dem Schuldverhältnis
+3. Pflichtverletzung (Handlung oder Unterlassen)
+4. Vertretenmüssen (§ 276 BGB; Vermutung!)
+5. Schaden (materiell; immateriell § 253 Abs. 2 BGB)
+6. Kausalität (haftungsbegründend: Pflichtverletzung → Schaden; haftungsausfüllend: Schaden → Schadenshöhe)
+
+## Schritt 2 — Dokumentenmatrix erstellen
+
+| Nr. | Tatbestandsmerkmal | Norm | Vorhanden? | Dokument / Beleg | Fundstelle (Anlage) | Lücke |
+|---|---|---|---|---|---|---|
+| 1 | Schuldverhältnis | § 433 BGB (Kauf) | Ja | Kaufvertrag v. TT.MM | Anlage K1 | — |
+| 2 | Pflichtverletzung | § 433 Abs. 1 BGB | Streitig | Lieferschein; Mängelrüge | Anlage K2, K3 | Mängelprotokoll fehlt |
+| 3 | Vertretenmüssen | § 276 BGB | Vermutet | — | — | Entlastungsbeweis Beklagter |
+| 4 | Schaden | § 249 BGB | Teils | Kostenvoranschlag | Anlage K4 | Abrechnung ausstehend |
+| 5 | Kausalität | § 286 ZPO | Offen | — | — | Sachverständigengutachten nötig? |
+
+## Schritt 3 — Lückenliste priorisieren
+
+Prioritäten:
+- **Rot (kritisch):** Fehlendes Beweismittel für TBM, das Kläger beweisen muss; ohne Beleg kein Anspruch
+- **Gelb (wichtig):** Streitiges TBM mit schwachem Beleg; Beweisrisiko mittel
+- **Grün (gesichert):** TBM belegt oder nicht streitig (§ 138 Abs. 3 ZPO: Zugeständnis durch Nichtbestreiten)
+
+## Schritt 4 — Nachforderung formulieren
+
+Muster-Nachforderungsschreiben an Mandanten:
+
+```
+Betreff: Fehlende Unterlagen für Ihr Verfahren
+
+Für die Durchsetzung Ihres Anspruchs aus § [Norm] benötigen wir noch folgende Unterlagen:
+
+1. [Dokument A]: Wird benötigt für [Tatbestandsmerkmal X]; bitte bis [Datum] einreichen.
+2. [Dokument B]: Wird benötigt für [Tatbestandsmerkmal Y]; alternativ [Zeuge Z] möglich.
+3. [Dokument C]: Optionale Verbesserung der Beweislage zu [TBM Z].
+
+Ohne Dokument A ist eine Klageerhebung nicht empfehlenswert.
+```
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Welche Anspruchsgrundlage wird geprüft und welche TBM sind einschlägig?
+2. Welche Unterlagen hat der Mandant bereits eingereicht?
+3. Welche Fristen, Zustellungen oder Schwellen sind kritisch?
+4. Welcher Output wird gebraucht: Dokumentenmatrix, Nachforderungsliste, Schriftsatzvorbereitung?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tatbestandsmerkmale** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+1. **Fallbild bilden:** Norm, Parteien, vorhandene Dokumente und offene Belege in eine kurze Matrix bringen.
+2. **Dokumentenmatrix erstellen:** Pro TBM: Beleg, Anlage, Lücke.
+3. **Lückenliste priorisieren:** Rot/Gelb/Grün je nach Beweislastlage und Beweisstärke.
+4. **Nachforderung formulieren:** Präzise Liste mit Deadlines und Alternativbelegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Dokumentenmatrix:** TBM, Norm, Vorhanden, Beleg, Anlage, Lücke.
+- **Lückenliste:** Rot/Gelb/Grün mit Priorität und Nachforderungstext.
+- **Qualitätsgate:** keine Scheingenauigkeit; offene Belege immer sichtbar markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Normen live prüfen: gesetze-im-internet.de (BGB §§ 249, 276, 280; ZPO §§ 138, 286).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

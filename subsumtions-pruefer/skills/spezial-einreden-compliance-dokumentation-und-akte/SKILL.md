@@ -1,25 +1,60 @@
 ---
 name: spezial-einreden-compliance-dokumentation-und-akte
-description: "Einreden: Compliance-Dokumentation und Aktenvermerk im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Einreden: Compliance-Dokumentation und Aktenvermerk im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Einreden: Compliance-Dokumentation und Aktenvermerk
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Einreden**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill strukturiert die Arbeit an Einreden und Einwendungen im Subsumtions-Workflow und sichert gleichzeitig die Compliance-Dokumentation. Ergebnis ist ein sofort nutzbarer Aktenvermerk, der Einreden belegt, Risiken bewertet und den nächsten Schritt benennt.
 
+## Systematik: Einreden und Einwendungen
 
-## Fachlicher Zuschnitt
+### Einwendungen (wirken von Amts wegen)
+- Fehlender Tatbestand (Primärprüfung)
+- Nichtigkeitsgründe: §§ 125, 134, 138, 142 BGB (Form, Verstoß gegen Verbotsgesetz, Sittenwidrigkeit, Anfechtung)
+- Verjährung ist Einrede, nicht Einwendung (§ 214 BGB); Gericht prüft nicht von Amts wegen
 
-- **Thema:** Einreden.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Einreden (nur auf Erhebung hin wirksam)
+- Verjährung §§ 194 ff. BGB; regelmäßige Frist 3 Jahre (§ 195 BGB); Beginn § 199 BGB
+- Zurückbehaltungsrecht § 273 BGB (Gegenanspruch aus demselben rechtlichen Verhältnis)
+- Zurückbehaltungsrecht § 320 BGB (gegenseitiger Vertrag; Erfüllung Zug-um-Zug)
+- Aufrechnung §§ 387 ff. BGB (Gegenforderung fällig, gleichartig, durchsetzbar)
+
+### Einreden aus besonderem Rechtsverhältnis
+- § 242 BGB (Treu und Glauben): venire contra factum proprium, Verwirkung, unzulässige Rechtsausübung
+- § 438 BGB: Verjährung kaufrechtlicher Mängelansprüche (2 Jahre ab Ablieferung; 5 Jahre bei Bauwerken)
+- § 634a BGB: Verjährung werkvertraglicher Mängelansprüche
+- § 548 BGB: Verjährung mietrechtlicher Ansprüche (6 Monate)
+- § 852 BGB: Deliktsrechtliche Verjährung mit bereicherungsrechtlicher Nachwirkung
+
+## Compliance-Dokumentation im Aktenvermerk
+
+### Mindestinhalt Aktenvermerk zu Einreden
+
+1. **Datum der Mandatsübernahme und erkannte Einreden**
+2. **Verjährungsfrist und Fristbeginn** (mit Berechnungsschema und Quelle)
+3. **Fristhemmung** (§§ 203–213 BGB) — Verhandlungen, Rechtsverfolgung, höhere Gewalt
+4. **Empfehlung zur Klageerhebung oder Fristverlängerung** (z. B. Anerkenntnisunterbrechung, Klagerhebung)
+5. **Beweisangebote der Gegenseite zur Einrede** (wer beweist was?)
+6. **Risikoampel:** Ist die Einrede erhoben? Belegt? Streitig?
+
+### Musterstruktur Aktenvermerk
+
+```
+Datum:          TT.MM.JJJJ
+Aktenzeichen:   ...
+Sachverhalt:    kurze Zusammenfassung (max. 5 Sätze)
+Einreden:
+  1. Verjährung: Fristbeginn ..., Ablauf ..., Hemmung vorhanden/nicht vorhanden (Quelle: ...)
+  2. § 273 BGB: Gegenanspruch ..., Fälligkeit ..., belegt durch ...
+Risikoampel:    Rot / Gelb / Grün
+Handlung:       [Sofortmaßnahme mit Frist und Zuständigkeit]
+```
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
@@ -29,20 +64,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
 ## Arbeitsworkflow
+
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Einreden** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+2. **Rechtsrahmen setzen:** Einreden-Normen prüfen (BGB, ggf. HGB, ZPO-Einreden wie § 796 ZPO).
+3. **Prüfpunkte abarbeiten:** Welche Einreden sind schlüssig erhoben? Welche fehlen noch? Beweislage?
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. workflow-fristen-und-risikoampel, spezial-rechtsfolgen-zahlen-schwellen-und-berechnung).
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Arbeitsprodukt:** Aktenvermerk oder Schriftsatzbaustein zu Einreden.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+
+- Aktuelle Normen live prüfen: gesetze-im-internet.de (BGB §§ 194 ff., 273, 320, 387 ff., 438 etc.).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Paywall-Literatur nur verwerten, wenn der Nutzer den Volltext bereitstellt.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -1,25 +1,71 @@
 ---
 name: spezial-interaktiver-erstpruefung-und-mandatsziel
-description: "Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
-# Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel
+# Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Interaktiver**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill führt die interaktive Erstprüfung durch. Er klärt Rolle, Mandatsziel und Sachverhalt, bevor die eigentliche Subsumtion beginnt. Ergebnis ist ein klares Fallbild, das alle weiteren Skills im Plugin gezielt ansteuern lässt.
 
+## Warum Erstprüfung zuerst?
 
-## Fachlicher Zuschnitt
+Ohne Rollenklärung und Mandatsziel riskiert die Subsumtion:
+- Prüfung der falschen Norm (z. B. Kläger-Perspektive statt Beklagter)
+- Übersehen von Fristen oder Verfahrenshindernissen
+- Unnötige Prüftiefe bei aussichtslosen Ansprüchen
+- Falschen Output (Memo statt Schriftsatz; Klausurstil statt Mandantenbrief)
 
-- **Thema:** Interaktiver.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Rollenklärung
+
+### Mögliche Rollen der fragenden Person
+
+| Rolle | Konsequenz für die Prüfung |
+|---|---|
+| Kläger / Anspruchsteller | Anspruchsgrundlage, Beweislast für anspruchsbegründende TBM |
+| Beklagter / Anspruchsgegner | Einreden, Einwendungen, Beweislastumkehr-Check |
+| Anwalt (beratend) | Erfolgsaussichten, Kostenrisiko, strategische Optionen |
+| Anwalt (Schriftsatz) | Klage, Klageerwiderung, Berufungsbegründung |
+| Richter / Rechtspfleger | Neutrale Prüfung; Entscheidungsreife; Hinweispflicht § 139 ZPO |
+| Klausurkandidat | Gutachtenstil; Fehlerklassen; Bewertungsmaßstab |
+| Behördenmitarbeiter | Verwaltungsverfahren; VA-Prüfung; Widerspruchsverfahren |
+
+## Mandatsziel klären
+
+**Mögliche Ziele:**
+
+1. Anspruch durchsetzen (Zahlung, Unterlassung, Herausgabe, Feststellung)
+2. Anspruch abwehren (Klageabweisung, Widerklage, Einreden erheben)
+3. Verwaltungsentscheidung anfechten (Widerspruch, Anfechtungsklage VwGO)
+4. Vorläufigen Rechtsschutz sichern (einstweilige Verfügung §§ 935/940 ZPO; § 80 Abs. 5 VwGO)
+5. Gutachten oder Klausurkorrektur erstellen
+6. Mandanteninformation (Alltagssprache)
+7. Internationalen Sachverhalt mit IPR-Bezug prüfen
+
+## Fünf Kernfragen zur Erstprüfung
+
+1. **Wer fragt?** Rolle und Gegenüber benennen.
+2. **Was ist das Ziel?** Anspruch, Abwehr, Gutachten, Schriftsatz, Information?
+3. **Was ist die kritische Frist?** Verjährung, Ausschluss, Klagefrist, Widerspruchsfrist?
+4. **Was liegt vor?** Unterlagen, Belege, Bescheide, Verträge — Kurzinventar.
+5. **Was ist der gewünschte Output?** Memo, Schriftsatz, Checkliste, Brief, Tabelle?
+
+## Erstprüfungs-Fallbild
+
+Das System erstellt nach Klärung der fünf Fragen ein Fallbild:
+
+```
+Rolle:        [Kläger / Beklagter / Anwalt / Klausurkandidat / ...]
+Ziel:         [Anspruch X gegen Y aus Norm Z]
+Frist:        [Verjährung TT.MM.JJJJ / Klagefrist TT.MM.JJJJ / keine erkennbare]
+Unterlagen:   [vorhanden: Vertrag, Rechnung; fehlend: Zustellungsnachweis]
+Output:       [Klageschrift / Memo / Mandantenbrief / Klausurgutachten]
+Nächster Skill: [→ darlegungs-und-beweislast-verteilen / workflow-fristen-und-risikoampel / ...]
+```
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
@@ -29,20 +75,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
 ## Arbeitsworkflow
+
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Interaktiver** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen und begründen.
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de, bverfg.de, curia.europa.eu).
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Paywall-Literatur nur verwerten, wenn der Nutzer den Volltext bereitstellt.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

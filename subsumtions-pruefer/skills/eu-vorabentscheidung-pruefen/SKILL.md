@@ -1,13 +1,21 @@
 ---
 name: eu-vorabentscheidung-pruefen
-description: "Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
+description: "Prueft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
 ---
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)
 
 ## Zweck
 
-Das Vorabentscheidungsverfahren nach Art. 267 AEUV ermöglicht nationalen Gerichten (und in bestimmten Ausnahmefällen Verwaltungsbehörden), dem EuGH Fragen zur Auslegung des Unionsrechts vorzulegen. Dieser Skill prüft, ob die Voraussetzungen eines Vorabentscheidungsersuchens vorliegen und wie die Vorlagefrage zu formulieren ist.
+Das Vorabentscheidungsverfahren nach Art. 267 AEUV ermöglicht nationalen Gerichten, dem EuGH Fragen zur Auslegung des Unionsrechts vorzulegen. Dieser Skill prüft, ob die Voraussetzungen eines Vorabentscheidungsersuchens vorliegen, und unterstützt bei der Formulierung der Vorlagefrage.
+
+## Triage zu Beginn
+
+1. Ist die Auslegung von Unionsrecht entscheidungserheblich?
+2. Ist das vorlegende Gericht ein "Gericht eines Mitgliedstaats" iSd Art. 267 AEUV?
+3. Ist das Gericht letztinstanzlich (Vorlagepflicht) oder fakultativ (Vorlagebefugnis)?
+4. Ist eine CILFIT-Ausnahme denkbar (acte clair / acte éclairé)?
+5. Ist eine Gültigkeitsfrage involviert (nur EuGH kann Sekundärrecht für ungültig erklären)?
 
 ## Voraussetzungen Art. 267 AEUV
 
@@ -20,19 +28,21 @@ Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist
 - Kontradiktorisches Verfahren
 - Anwendung von Rechtsnormen
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+In Deutschland: alle ordentlichen Gerichte, Verwaltungsgerichte, Finanzgerichte, Sozialgerichte, Arbeitsgerichte. Schiedsgerichte grundsätzlich nicht.
 
 ### 2. Vorlagepflicht (Art. 267 Abs. 3 AEUV)
 
 Letztinstanzliche Gerichte (kein Rechtsmittel im nationalen Recht mehr möglich) sind zur Vorlage verpflichtet, wenn die Auslegung des Unionsrechts entscheidungserheblich ist.
 
+In Deutschland: BGH, BVerwG, BAG, BSG, BFH, BVerfG (wenn Unionsrecht berührt).
+
 ### 3. Entscheidungserheblichkeit
 
-Die Vorlagefrage muss für den Ausgang des Rechtsstreits erheblich sein. Hypothetische oder rein akademische Fragen sind unzulässig (EuGH, Rs. 244/80 — Foglia II).
+Die Vorlagefrage muss für den Ausgang des Rechtsstreits erheblich sein. Hypothetische oder rein akademische Fragen sind unzulässig. Zulässig auch bei offensichtlicher Unionsrechtskonformität, wenn das vorlegende Gericht unsicher ist.
 
 ### 4. Auslegungsfrage oder Gültigkeitsfrage
 
-Vorlage ist möglich für:
+Vorlage möglich für:
 - Auslegung von Primärrecht (AEUV, EUV, GRCh)
 - Auslegung von Sekundärrecht (Verordnungen, Richtlinien, Beschlüsse)
 - Gültigkeit von Sekundärrecht (nur EuGH kann Sekundärrecht für ungültig erklären)
@@ -41,30 +51,48 @@ Vorlage ist möglich für:
 
 ## CILFIT-Ausnahmen (Befreiung von der Vorlagepflicht)
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen unter curia.europa.eu (Rs. 283/81 — CILFIT; Rs. C-561/19 — Consorzio).
 
-1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden.
+1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden. Sprachliche Fassungen aller Amtssprachen sind zu berücksichtigen.
 
-2. **Acte éclairé:** Der EuGH hat die betreffende Frage bereits in identischer Konstellation entschieden (nicht nur inhaltsgleich).
+2. **Acte éclairé:** Der EuGH hat die betreffende Frage bereits in identischer Konstellation entschieden.
 
-**Consorzio-Erweiterung (2021):** Das letztinstanzliche Gericht ist von der Vorlagepflicht entbunden, wenn es in einem schwebenden Fall eine offensichtlich unhaltbare Auslegung vermeidet und sich an die acte-clair-Grundsätze hält. Es muss seine Nichtvorlageentscheidung aber begründen.
+**Consorzio-Erweiterung (2021):** Das letztinstanzliche Gericht ist von der Vorlagepflicht entbunden, wenn es in einem schwebenden Fall eine offensichtlich unhaltbare Auslegung vermeidet und die Nichtvorlageentscheidung begründet.
 
 ## Formulierung der Vorlagefrage
 
-Das System unterstützt bei der Formulierung der Vorlagefrage:
-- Klar und präzise
-- Auf die Auslegung des Unionsrechts beschränkt
-- Kein Verweis auf nationales Recht
-- Entscheidungserheblichkeit erkennbar
+Merkmale einer zulässigen und präzisen Vorlagefrage:
+- Klar und präzise formuliert
+- Auf die Auslegung oder Gültigkeit des Unionsrechts beschränkt
+- Kein Verweis auf nationales Recht in der Frage selbst
+- Entscheidungserheblichkeit im Vorlagekontext erkennbar
 
-Beispiel: "Ist Art. 6 Abs. 1 Buchst. f der Verordnung 2016/679 dahin auszulegen, dass die Verarbeitung personenbezogener Daten zur Direktwerbung als berechtigtes Interesse des Verantwortlichen anzusehen ist, wenn der Betroffene nachweislich Widerspruch eingelegt hat?"
+Muster: "Ist Art. X der Verordnung/Richtlinie Y dahin auszulegen, dass [Sachverhaltskonstellation Z] [Rechtsfolge A] auslöst, wenn [Bedingung B]?"
 
-## Verfahrensablauf
+## Verfahrensablauf und Fristen
 
-Nach Vorlage: Aussetzung des nationalen Verfahrens (§ 148 ZPO analog); Verfahren vor EuGH ca. 15–24 Monate; Beschleunigtes Verfahren (Art. 105 VerfO EuGH) bei besonderer Dringlichkeit.
+- Aussetzung des nationalen Verfahrens nach Vorlagebeschluss (§ 148 ZPO analog oder sonderrechtliche Aussetzung)
+- Dauer EuGH-Verfahren: ca. 15–24 Monate (Standardverfahren)
+- Beschleunigtes Verfahren (Art. 105 VerfO EuGH): bei besonderer Dringlichkeit; Antrag beim EuGH
+- Eilvorabentscheidungsverfahren (PPU, Art. 107 VerfO EuGH): bei Freiheitsentzug oder Fragen zu JI-Zusammenarbeit
 
-Fundstelle: curia.europa.eu (laufende Verfahren und Entscheidungen).
+## Folgen einer Nichtvorlage
+
+Verletzung der Vorlagepflicht kann staatshaftungsrechtliche Konsequenzen haben, wenn dem Einzelnen durch die fehlerhafte Nichtvorlage ein Schaden entsteht (EuGH Rs. C-224/01 — Köbler; live zu prüfen unter curia.europa.eu).
+
+## Ausgabe
+
+Vorlage-Checkliste: Befugnis/Pflicht, Entscheidungserheblichkeit, CILFIT-Ausnahmen, Formulierungsentwurf, Verfahrensfolgen. Empfehlung: Aktuellen Stand in curia.europa.eu prüfen (Suchfunktion nach Artikel und Rechtssachennummer).
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern (curia.europa.eu).
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+- EU-Normtext live prüfen: eur-lex.europa.eu; Verfahrensordnung EuGH (VerfO) auf curia.europa.eu.

@@ -1,48 +1,99 @@
 ---
 name: spezial-vier-behoerden-gericht-und-registerweg
-description: "Vier: Behörden-, Gerichts- oder Registerweg im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege."
 ---
 
-# Vier: Behörden-, Gerichts- oder Registerweg
+# Behörden-, Gerichts- und Registerweg
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
 
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Vier**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill bestimmt den richtigen Weg zu Behörde, Gericht oder Register. Er unterscheidet die vier klassischen Wege: ordentliche Gerichtsbarkeit, Verwaltungsgerichtsbarkeit, Registerwege und Behördenwege. Ergebnis ist ein konkreter Wegweiser mit Normen, Fristen und Zuständigkeiten.
 
+## Weg 1 — Ordentliche Gerichtsbarkeit (ZPO, GVG)
 
-## Fachlicher Zuschnitt
+**Wann:** Zivilrechtliche Streitigkeiten (§ 13 GVG); Vertragsrecht, Deliktsrecht, Erbrecht, Familienrecht, Handelsrecht.
 
-- **Thema:** Vier.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Gericht | Zuständigkeit | Norm |
+|---|---|---|
+| Amtsgericht | bis EUR 5.000; Miete, Unterhalt unabhängig vom Streitwert | §§ 23, 23a GVG |
+| Landgericht | ab EUR 5.000; Handelssachen; Kapitalmarkt | § 71 GVG; § 95 GVG |
+| Oberlandesgericht | Berufung gegen LG-Urteile; bestimmte erstinstanzliche Verfahren | §§ 119 ff. GVG |
+| Bundesgerichtshof | Revision; bestimmte erste Instanz | § 133 GVG |
+
+**Örtliche Zuständigkeit:** §§ 12 ff. ZPO; allgemeiner Gerichtsstand: Wohnsitz des Beklagten (§ 13 ZPO).
+
+## Weg 2 — Verwaltungsgerichtsbarkeit (VwGO)
+
+**Wann:** Öffentlich-rechtliche Streitigkeiten nicht verfassungsrechtlicher Art (§ 40 VwGO); Anfechtung von Verwaltungsakten, Verpflichtungsklagen, Normenkontrolle.
+
+| Verfahren | Klageart | Norm |
+|---|---|---|
+| Anfechtung VA (z. B. Bußgeldbescheid) | Anfechtungsklage | § 42 Abs. 1 Alt. 1 VwGO |
+| Erlass VA (z. B. Genehmigung) | Verpflichtungsklage | § 42 Abs. 1 Alt. 2 VwGO |
+| Feststellung Rechtsverhältnis | Feststellungsklage | § 43 VwGO |
+| Vorläufiger Rechtsschutz | Antrag §§ 80, 123 VwGO | § 80 Abs. 5 VwGO |
+
+**Vorverfahren:** Widerspruch (§§ 68 ff. VwGO) vor Klageerhebung; Frist: 1 Monat ab Bekanntgabe des VA (§ 70 VwGO); Klagefrist: 1 Monat ab Zustellung Widerspruchsbescheid (§ 74 VwGO).
+
+**Sondergerichte:** Finanzgericht (§ 33 FGO, Steuersachen); Sozialgericht (§ 51 SGG, Sozialversicherung); Arbeitsgericht (§ 2 ArbGG, Arbeitsrecht).
+
+## Weg 3 — Registerwege
+
+| Register | Zuständigkeit | Fundstelle / Abfrage |
+|---|---|---|
+| Handelsregister | AG am Sitz der Gesellschaft (§ 8 HGB) | handelsregister.de |
+| Grundbuch | AG-Grundbuchamt am Lageort (§ 1 GBO) | Grundbucheinsicht über AG oder notar |
+| Marken-/Patentregister | DPMA | dpma.de |
+| Gewerbezentralregister | Bundesamt für Justiz | bundesjustizamt.de |
+| Insolvenzregister | Insolvenzgericht am Sitz | insolvenzbekanntmachungen.de |
+| Vereinsregister | AG-Registergericht | handelsregister.de (VR-Abteilung) |
+
+## Weg 4 — Behördenwege
+
+| Behörde | Sachgebiet | Kontakt |
+|---|---|---|
+| Datenschutzbehörde (Landesbeauftragte) | DSGVO-Beschwerden, Bußgelder | Zuständige Landesdatenschutzbehörde |
+| Bundesnetzagentur | Telekommunikation, Post, Energie, Rundfunk | bundesnetzagentur.de |
+| Bundesamt für Justiz | GewZR, Kartellbehörde (Teile) | bundesjustizamt.de |
+| Bundeskartellamt | Wettbewerbs- und Kartellrecht | bundeskartellamt.de |
+| Gewerbeamt | Gewerbeanmeldung, -abmeldung | Kommunale Behörde |
+| Finanzamt | Steuerrecht, Umsatzsteuer | Elektronisch via ELSTER |
 
 ## Kaltstart
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+1. Was ist das Ziel (Anspruch durchsetzen, VA anfechten, Register einsehen, Beschwerde einreichen)?
+2. Wer ist Gegner (Privatperson, Unternehmen, Behörde)?
 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Wegweiser, Memo, Checkliste, Entwurf, Schriftsatzbaustein?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vier** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+1. **Fallbild bilden:** Ziel, Gegner, Behörde/Gericht, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Weg bestimmen:** Ordentliche Gerichtsbarkeit, VwGO, Register oder Behörde?
+3. **Fristen prüfen:** Klagefrist, Widerspruchsfrist, Verjährung, Ausschlussfristen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. verfahrensart-bestimmen, ziel-und-rechtsweg-bestimmung).
 
 ## Output-Standard
+
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Arbeitsprodukt:** Wegweiser mit Normen, Fristen und Zuständigkeiten.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf markieren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Normen live prüfen: gesetze-im-internet.de (GVG, ZPO, VwGO, FGO, SGG, ArbGG, GBO, HGB).
+- Behördenwebseiten und Register live prüfen (handelsregister.de, dpma.de, bundeskartellamt.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
