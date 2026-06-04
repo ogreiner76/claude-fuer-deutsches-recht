@@ -20,6 +20,12 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
 
+### Klotzkettes Juristische Promptliste
+
+Viele Skills in diesem Repo sind im Kern strukturierte **Mega-Prompts** — also nicht primär Eingangs- oder Kaltstart-Skills einer größeren agentischen Tätigkeit, sondern eigenständig nutzbare, hochstrukturierte Prompt-Bausteine. Solche Skills funktionieren auch **außerhalb von Claude Code, Codex oder Perplexity Computer**: einfach die `SKILL.md` als Markdown herunterladen, in ChatGPT, Claude, Gemini, Perplexity, Mistral, Le Chat oder ein anderes Tool kopieren und nach Bedarf anpassen.
+
+Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
+
 ## Überblick
 
 | Kennzahl | Wert |
