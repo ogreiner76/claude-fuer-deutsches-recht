@@ -1,0 +1,46 @@
+---
+name: legalitaetsprinzipien-als-rechtsstaatsmotor
+description: "Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung."
+---
+
+# Legalitätsprinzipien als Rechtsstaatsmotor
+
+## Einsatz
+
+Nutze diesen Skill, wenn eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
+
+## Acht Prüfsteine
+
+1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
+2. **Publizität:** Eine Regel muss zugänglich, auffindbar und verständlich bekannt gemacht sein. Geheime Maßstäbe sind ein Warnsignal.
+3. **Prospektivität:** Recht soll Verhalten für die Zukunft lenken. Rückwirkung braucht besondere Rechtfertigung und Vertrauensschutzprüfung.
+4. **Klarheit:** Adressaten müssen erkennen können, was verlangt, verboten, erlaubt oder riskiert wird.
+5. **Widerspruchsfreiheit:** Normen und Behördenpraxis dürfen keine unauflösbaren Doppelbindungen erzeugen.
+6. **Erfüllbarkeit:** Niemand darf rechtlich auf etwas verpflichtet werden, das tatsächlich oder rechtlich unmöglich ist.
+7. **Stabilität:** Häufige Richtungswechsel zerstören Orientierung; Änderungen brauchen Übergangslogik.
+8. **Kongruenz:** Amts- und Gerichtspraxis müssen zu den angekündigten Regeln passen. Eine schöne Norm nützt wenig, wenn sie praktisch anders vollzogen wird.
+
+## Arbeitsprogramm
+
+1. Formuliere den behaupteten Rechtsmaßstab in einem Satz.
+2. Prüfe die acht Legalitätssteine und markiere Bruchstellen.
+3. Trenne bloße Unschärfe von rechtsstaatlich gefährlicher Unberechenbarkeit.
+4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
+5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
+
+## Red-Team-Fragen
+
+- Wird "Flexibilität" benutzt, um willkürliche Einzelfallsteuerung zu verdecken?
+- Muss der Bürger mehr wissen als die Behörde selbst offenlegt?
+- Wird rückwirkend sanktioniert, obwohl vorher keine tragfähige Orientierung bestand?
+- Passen Normtext, Verwaltungspraxis, Begründung und Rechtsfolge tatsächlich zusammen?
+
+## Output
+
+Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, institutionellem Reparaturweg und Formulierungsvorschlag für Memo, Stellungnahme, Schriftsatz oder Gesetzgebungsnotiz.
+
+## Quellen- und Zitierdisziplin
+
+- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
+- Theoretische Begriffe sind Arbeitswerkzeuge, keine Autoritätsbeweise.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.

@@ -27,6 +27,8 @@ Hinzu kommt eine stärker privatrechtliche Theorieachse am Beispiel von Besitz, 
 
 Neu ergänzt ist außerdem eine hayekianisch informierte, aber kritisch kontrollierte Wissensachse: dezentrale Information, stilles Erfahrungswissen, gewachsene Praxis, Regeln als kognitive Entlastung und spontane Ordnung werden als wichtige Erkenntnisquellen behandelt. Zugleich prüft das Plugin, ob Gewohnheit nur schlechte Praxis, Kartelllogik, Umweltlasten, Diskriminierung, Trägheit oder demokratiefeindliche Gesetzgebungsskepsis stabilisiert.
 
+Neu vertieft ist die Legalitäts- und Rechtsstaatsachse: Recht wird nicht schon dadurch gut, dass es formal als Recht auftritt. Entscheidend ist, ob Normen öffentlich, allgemein, zukunftsgerichtet, verständlich, widerspruchsfrei, erfüllbar, stabil und mit der Anwendungspraxis kongruent sind. Diese Achse hilft besonders bei Machtkritik, Verwaltungsrealismus, Rückwirkung, Ausnahmebehauptungen und der Frage, ob Menschen als verantwortliche Rechtsadressaten ernst genommen werden.
+
 ## Kaltstart
 
 1. **Was ist die Frage?** Rechtsbegriff, Auslegung, Rechtsfortbildung, Abwägung, Moral, Demokratie, Präjudiz, Macht, System oder Sprache.
@@ -48,11 +50,12 @@ Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtspr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `abwaegung-transparenz-rationalitaet` | Macht Abwaegungen transparent: Material, Gewichtung, Intensität, Kontrollmaßstab, Abwaegungslast und Ergebnisoffenheit. |
+| `adressatenwuerde-und-rechtssteuerung` | Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden. |
 | `allgemein` | Einstieg und Workflow-Routing fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl. |
 | `besitz-law-and-economics-transaktionskosten` | Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus. |
 | `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen. |
@@ -74,6 +77,8 @@ Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschrei
 | `kelsen-stufenbau-kompetenz-und-grundnorm` | Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf. |
 | `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
 | `kritisches-red-team-ideologie` | Red-Team fuer verdeckte Ideologie, Systemrhetorik, Moralueberschuss, Marktglauben, Staatsglauben und Methodenbeliebigkeit. |
+| `legalitaet-und-moral-minimum-red-team` | Prueft, ob formale Legalitaet moralisch relevant ist, ohne Positivismus in Naturrecht oder Moralautomatismus aufzulösen: Mindestbindung, Orientierung, Kontrolle und Unrechtsnaehe. |
+| `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
 | `legitimitaet-richterlicher-rechtsfortbildung` | Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen. |
 | `machtkritik-und-interessenanalyse` | Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten. |
 | `menschenwuerde-grundrechte-theoriekern` | Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
@@ -88,6 +93,7 @@ Automatisch generierte Komplett-Liste aller 47 Skills in diesem Plugin. Beschrei
 | `rechtssicherheit-vertrauen-rueckwirkung` | Prueft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-und-kognitive-entlastung` | Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
+| `rule-by-law-vs-rechtsstaat-red-team` | Unterscheidet instrumentelle Herrschaft durch Rechtsformen von echtem Rechtsstaat: Normbindung, Verfahren, Rechtsschutz, Begruendung, Minderheitenschutz und Machtbegrenzung. |
 | `spontane-ordnung-gewohnheit-und-custom-red-team` | Red-Team fuer spontane Ordnung, Gewohnheit, Branchenuebung und Custom: erkennt Informationswert, Erwartungsschutz und Evolutionslogik, prueft aber Kartell-, Umwelt-, Drittwirkungs-, Traegheits- und Machtmissbrauchsrisiken. |
 | `sprache-begriffe-fiktionen` | Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung. |
 | `staat-als-ordnungsmacht-anti-autoritaerer-check` | Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz. |

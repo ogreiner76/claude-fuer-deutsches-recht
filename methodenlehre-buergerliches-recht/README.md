@@ -25,6 +25,8 @@ Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive.
 
 Für konkrete Prüfungen im BGB Allgemeiner Teil kann `bgb-at-pruefer` hinzugeladen werden; dieses Plugin bleibt die methodische Grundierung, der BGB-AT-Prüfer übernimmt dann Vertragsschluss, Zugang, Anfechtung, Stellvertretung, Geschäftsfähigkeit, Form, Fristen und Verjährung.
 
+Neu stärker ausgebaut ist die rechtsstaatliche Qualitätskontrolle juristischer Methodik: Eine Auslegung soll nicht nur das gewünschte Einzelfallergebnis tragen, sondern für Adressaten erkennbar, vorhersehbar, befolgbar, widerspruchsfrei und begründbar bleiben. Das Plugin prüft deshalb jetzt schärfer Rückwirkung, überraschende Rechtsfortbildung, Verfahrensfairness, rechtliches Gehör, Begründungspflichten und den Grenzbereich zwischen formaler Legalität und Einzelfallgerechtigkeit.
+
 ## Was dieses Plugin konkret macht
 
 Das Plugin liefert die **methodische Klammer** für jede zivilrechtliche Bewertung im Repo — also den Rahmen, in dem alle Rechtsgebiet-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, `fachanwalt-familienrecht`, `arbeitsrecht`, `gesellschaftsrecht-legal-english`, `kanzlei-allgemein` etc.) arbeiten sollen. Konkret leistet es Folgendes:
@@ -129,7 +131,7 @@ Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrec
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -141,11 +143,13 @@ Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschrei
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogi... |
 | `argumentum-figuren-e-contrario-a-maiore-a-fortiori` | Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-B... |
 | `auslegung-rechtsfortbildung-grenzprotokoll` | Zieht die Grenze zwischen Auslegung, Analogie, teleologischer Reduktion und offener Rechtsfortbildung mit Rechtsstaats- und Demokratiecheck. |
+| `begruendung-anhoerung-und-adressatenfaehigkeit` | Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung. |
 | `bverfg-grenzen-richterlicher-rechtsfortbildung` | Prüft gerichtliche Rechtsfortbildung an den verfassungsgerichtlichen Leitlinien zu Gesetzesbindung, Gewaltenteilung und Verbot eigener materieller Gerechtigkeit anstelle des Gesetzgebers. |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-p... |
 | `empirie-im-zivilrecht-quellenkritik` | Prüft empirische, technische und ökonomische Behauptungen in zivilrechtlichen Argumenten auf Belegqualität, Relevanz und rechtliche Anschlussfähigkeit. |
 | `eu-auslegung-autonom-mehrsprachig` | Prüft autonome unionsrechtliche Auslegung, Mehrsprachigkeit, Systematik, Telos und nationale Anschlussfähigkeit. |
 | `folgenorientierte-auslegung-empirie` | Prüft Folgenargumente, Prognosen und empirische Behauptungen in zivilrechtlichen Auslegungsfragen. |
+| `formale-legalitaet-vs-einzelfallgerechtigkeit` | Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung. |
 | `freiheitlicher-paternalismus-check-vertrag` | Prüft, ob eine Vertragskorrektur wirklich rechtlich geboten ist oder die Privatautonomie ohne ausreichende Normgrundlage verdrängt. |
 | `generalklauseln-abwaegungslenkung` | Macht Generalklauseln wie Treu und Glauben, Sittenwidrigkeit und gute Sitten zu abwägungslenkenden Normen statt bloßen Bauchentscheidungen. |
 | `gesetzesbindung-art-20-gg-pruefprotokoll` | Prüfprotokoll zur Gesetzesbindung der Gerichte nach Art. 20 Abs. 2 und 3 GG: Normanwendung, Normfortbildung, Gewaltenteilung, Bindung an gesetzgeberische Grundentscheidungen. |
@@ -159,6 +163,7 @@ Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschrei
 | `konservative-methodenkritik-gesetzesbindung` | Prüft Auslegung und Rechtsfortbildung aus einer gesetzesgebundenen, institutionell vorsichtigen Perspektive: Text, System, demokratische Verantwortung, Kontinuität und Vertrauensschutz. |
 | `kontrolle-abwaegungsentscheidungen` | Entwirft Kontrollmaßstäbe für Abwägungsentscheidungen: voll prüfbar, vertretbar, evident fehlerhaft, Begründungsdefizit oder Zuständigkeitsfehler. |
 | `legal-realism-und-critical-legal-studies` | American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Sys... |
+| `legalitaetsqualitaet-der-auslegung` | Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent. |
 | `libertaere-methodenkritik-privatautonomie` | Prüft zivilrechtliche Argumente aus einer freiheitlichen, privatautonomiebetonten Perspektive, ohne Gesetzesbindung, Schutzpflichten, zwingendes Recht oder Grundrechte zu übergehen. |
 | `luecke-oder-gesetzesablehnung` | Unterscheidet echte Regelungslücke, bewusstes Schweigen des Gesetzes, unbefriedigende Normfolge und richterliche Gesetzesablehnung; mit Analogie- und teleologische-Reduktion-Prüfung. |
 | `meth-anspruchsgrundlage-pyramide-bauleiter` | Bauleiter Anspruchsgrundlagen-Pyramide BGB: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich. Pruefraster Reihenfolge der Pruefung mit Beispielen. |
@@ -188,6 +193,7 @@ Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschrei
 | `richterrecht-offenlegen-statt-tarnen` | Erzwingt Methodenehrlichkeit bei Richterrecht: Auslegung, Analogie, teleologische Reduktion und offene Rechtsfortbildung werden getrennt und mit Normzweck, Lücke, Kompetenz und Begründungspflicht geprüft. |
 | `richterstaat-risikomatrix` | Bewertet die institutionellen Risiken starker Richtermacht: Vorhersehbarkeit, demokratische Legitimation, Parteienherrschaft bei Richterwahlen, Rechtssicherheit und Kontrolle letzter Instanzen. |
 | `richtlinienkonforme-auslegung-grenzen` | Prüft richtlinienkonforme Auslegung, überschießende Umsetzung, Anwendungsvorrang, horizontale Grenzen und contra-legem-Risiken. |
+| `rueckwirkung-und-ueberraschende-rechtsfortbildung` | Prueft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer Auslegung oder Rechtsfortbildung im Zivilrecht mit Art. 20 Abs. 3 GG, Dispositionsschutz und Prozessstrategie. |
 | `sachverhalt-als-wertungsprodukt` | Prüft, wie Sachverhaltsfeststellung, Beweiswürdigung und rechtliche Wertung ineinandergreifen, ohne Tatsachen und Normen zu vermischen. |
 | `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die B... |
 | `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Anspruchsgrundlagen: Behörden-, Gerichts- oder Registerweg im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
