@@ -83,19 +83,19 @@ Aufgenommen sind nur Plugins mit klarem Praxisnutzen — also Pruefer, Generator
 
 ### [bgb-at-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bgb-at-pruefer)
 
-Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Ele
+Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bgb-at-pruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [methodenlehre-buergerliches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht)
 
-Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwaegung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und met
+Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwaegung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begruendungskontrolle.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [rechtstheorie-rechtsphilosophie](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtstheorie-rechtsphilosophie)
 
-Rechtstheorie- und Rechtsphilosophie-Plugin fuer juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-
+Rechtstheorie- und Rechtsphilosophie-Plugin fuer juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtstheorie-rechtsphilosophie/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -113,7 +113,7 @@ Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbesta
 
 ### [vertragsausfueller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller)
 
-Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausd
+Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -133,25 +133,25 @@ Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 
 
 ### [bereicherungs-und-anfechtungsrecht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer)
 
-Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und V
+Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [bgb-bt-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bgb-bt-pruefer)
 
-Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk,
+Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bgb-bt-pruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich)
 
-Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Kein
+Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [nda-verschwiegenheit-generator-checker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-verschwiegenheit-generator-checker)
 
-Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum u
+Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-verschwiegenheit-generator-checker/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -159,7 +159,7 @@ Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Versc
 
 ### [fachanwalt-agrarrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht)
 
-Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schn
+Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -173,31 +173,31 @@ Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tie
 
 ### [arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht)
 
-Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und veri
+Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [arbeitszeugnis-analyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse)
 
-Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien. Satzweise Notenmatrix, begründete Gesamtnotenspanne. V
+Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien. Satzweise Notenmatrix, begründete Gesamtnotenspanne....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [bav-strategie-konzern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern)
 
-Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internation
+Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht)
 
-Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter
+Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [kriegsdienstverweigerung-wehrdienst](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kriegsdienstverweigerung-wehrdienst)
 
-Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten,
+Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kriegsdienstverweigerung-wehrdienst/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -209,7 +209,7 @@ Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelan
 
 ### [startup-hr-personalabteilung-berlin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/startup-hr-personalabteilung-berlin)
 
-Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, B
+Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/startup-hr-personalabteilung-berlin/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -223,7 +223,7 @@ Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, ZAG/PSD2, 
 
 ### [fachanwalt-bank-kapitalmarktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht)
 
-Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-rec
+Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -247,7 +247,7 @@ Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: I
 
 ### [wandeldarlehen-lebenszyklus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus)
 
-Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update
+Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -255,25 +255,25 @@ Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG
 
 ### [erbbaurecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/erbbaurecht-praxis)
 
-Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigeru
+Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/erbbaurecht-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht)
 
-Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht
+Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [hoai-leistungsphasen-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hoai-leistungsphasen-praxis)
 
-Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge
+Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hoai-leistungsphasen-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [immobilienrechtspraxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis)
 
-Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, C
+Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -287,7 +287,7 @@ Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenz
 
 ### [fachanwalt-erbrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht)
 
-Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-al
+Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -295,13 +295,13 @@ Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testamen
 
 ### [betreuungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht)
 
-Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspfl
+Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-familienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht)
 
-Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenz
+Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -309,49 +309,49 @@ Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Litera
 
 ### [designrecht-geschmacksmusterrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/designrecht-geschmacksmusterrecht)
 
-Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen
+Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/designrecht-geschmacksmusterrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz)
 
-Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige
+Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fashion-law-moderecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fashion-law-moderecht)
 
-Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commer
+Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fashion-law-moderecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [gebrauchsmusterrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gebrauchsmusterrecht)
 
-Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Sch
+Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gebrauchsmusterrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz)
 
-Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-
+Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [markenrecht-fashion-luxus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus)
 
-Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattf
+Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [patentrecherche](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche)
 
-Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 Pa
+Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 PatG Art....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [patentrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecht)
 
-Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbene
+Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -359,13 +359,13 @@ Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchse
 
 ### [aktienrecht-hauptversammlung-ag-se](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktienrecht-hauptversammlung-ag-se)
 
-Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift,
+Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktienrecht-hauptversammlung-ag-se/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [aufsichtsrat-ag-se-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aufsichtsrat-ag-se-praxis)
 
-Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbe
+Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aufsichtsrat-ag-se-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -377,13 +377,13 @@ Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA
 
 ### [fachanwalt-handels-gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht)
 
-Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertr
+Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [gesellschaftsgruender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender)
 
-Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage u
+Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage und Streitprävention.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -395,31 +395,31 @@ Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Di
 
 ### [gesellschaftsrecht-legal-english](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht-legal-english)
 
-Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Pr
+Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR;...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht-legal-english/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [gesellschaftsrechtliche-treuepflicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrechtliche-treuepflicht)
 
-Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Au
+Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrechtliche-treuepflicht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [grosskanzlei-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma)
 
-Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusions
+Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [handelsrecht-hgb](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/handelsrecht-hgb)
 
-Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handel
+Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/handelsrecht-hgb/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [handelsregister-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/handelsregister-praxis)
 
-Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Fir
+Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/handelsregister-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -431,25 +431,25 @@ Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgl
 
 ### [mittelstand-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma)
 
-Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolven
+Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [private-equity-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/private-equity-praxis)
 
-Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfol
+Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/private-equity-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [schoeffen-handelsrichter-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schoeffen-handelsrichter-praxis)
 
-Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere
+Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schoeffen-handelsrichter-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [venture-capital-geber](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/venture-capital-geber)
 
-VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Upda
+VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/venture-capital-geber/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -457,25 +457,25 @@ VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels
 
 ### [fachanwalt-insolvenz-sanierungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht)
 
-Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. S
+Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fortbestehensprognose](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose)
 
-Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter
+Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [insolvenzforderungsanmeldungspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung)
 
-Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tab
+Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [insolvenzplan-starug-planwerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt)
 
-Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram
+Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -487,19 +487,19 @@ Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflic
 
 ### [insolvenzverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung)
 
-Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderu
+Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [krisenfrueherkennung-starug](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug)
 
-Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit,
+Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [liquiditaetsplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung)
 
-Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzr
+Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -511,7 +511,7 @@ US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, D
 
 ### [verbraucherinsolvenz-schuldenbereinigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucherinsolvenz-schuldenbereinigung)
 
-Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Ver
+Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucherinsolvenz-schuldenbereinigung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -525,19 +525,19 @@ Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, B
 
 ### [commercial-courts-deutschland](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/commercial-courts-deutschland)
 
-Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel
+Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/commercial-courts-deutschland/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [common-law-kompass](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass)
 
-Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews
+Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-internationales-wirtschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht)
 
-Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allg
+Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -563,7 +563,7 @@ Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: S
 
 ### [berufsrecht-ki-vertragspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung)
 
-Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB.
+Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -575,19 +575,19 @@ Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff.
 
 ### [datenschutz-sanktionsverfahren-verteidigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutz-sanktionsverfahren-verteidigung)
 
-Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB u
+Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutz-sanktionsverfahren-verteidigung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [datenschutzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht)
 
-DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidi
+DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [dsa-dma-digitalregulierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung)
 
-Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Ar
+Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -599,7 +599,7 @@ Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbrauch
 
 ### [fachanwalt-it-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht)
 
-Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgem
+Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -617,13 +617,13 @@ EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drif
 
 ### [ki-richtlinie-kanzleien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien)
 
-Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- un
+Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [ki-vo-ai-act-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer)
 
-Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung und Konformitäts-Evidence-
+Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -653,7 +653,7 @@ Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Ope
 
 ### [telekommunikationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/telekommunikationsrecht)
 
-Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sich
+Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/telekommunikationsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -673,7 +673,7 @@ Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, St
 
 ### [fachanwalt-medizinrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht)
 
-Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-soz
+Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -705,19 +705,19 @@ Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills
 
 ### [grundbuchamt-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundbuchamt-praxis)
 
-Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufge
+Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundbuchamt-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [mietrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht)
 
-Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen
+Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [weg-hausverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/weg-hausverwaltung)
 
-Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker
+Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/weg-hausverwaltung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -733,19 +733,19 @@ Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt,
 
 ### [fachanwalt-sozialrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht)
 
-Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmitt
+Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [rentenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rentenpruefer)
 
-Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten, Bescheide, Widerspruch und verständliche Doku
+Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten, Bescheide, Widerspruch und verständliche Dokumentation.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rentenpruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [selbstvertreter-sozialgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-sozialgericht)
 
-Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Che
+Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat, Berufung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-sozialgericht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -753,7 +753,7 @@ Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspr
 
 ### [fachanwalt-sportrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht)
 
-Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle
+Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -761,19 +761,19 @@ Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Sc
 
 ### [aktenaufbereiter-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht)
 
-Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken
+Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fachanwalt-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht)
 
-Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage und Zeugenbeistand plus Strafprozess-Cockpit fuer Fristen, Aktenlog, U-Haft, Akte
+Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage und Zeugenbeistand plus Strafprozess-Cockpit fuer Fristen, Aktenlog, U-Haft, Akteneinsicht, HV-Tagesmappe,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [internal-investigations-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/internal-investigations-praxis)
 
-Internal-Investigations-Praxisplugin fuer Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation un
+Internal-Investigations-Praxisplugin fuer Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/internal-investigations-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -785,31 +785,31 @@ Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, 
 
 ### [staatsanwaltschaft-praxis-einstieg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/staatsanwaltschaft-praxis-einstieg)
 
-Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungsverfahren, Polizei, RiStBV, Vermerke, Beschlagnahme, digitale Beweise, Anklage, Strafbefehl, Hauptverhandlung, Plä
+Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/staatsanwaltschaft-praxis-einstieg/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [strafanzeige-vorbereiter](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafanzeige-vorbereiter)
 
-Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Str
+Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafanzeige-vorbereiter/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [strafbefehl-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger)
 
-Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptve
+Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [strafzumessung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafzumessung)
 
-Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besond
+Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafzumessung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [verkehrsowi-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger)
 
-Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und
+Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -817,13 +817,13 @@ Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Pu
 
 ### [fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht)
 
-Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgem
+Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte)
 
-Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung
+Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -843,7 +843,7 @@ See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffsh
 
 ### [fachanwalt-urheber-medienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht)
 
-Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredakti
+Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -867,7 +867,7 @@ Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buch
 
 ### [verlagsredaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion)
 
-Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Market
+Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsuebergabe.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -875,7 +875,7 @@ Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Re
 
 ### [fachanwalt-vergaberecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht)
 
-Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und
+Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und Foerdermittel.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -883,7 +883,7 @@ Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO
 
 ### [fachanwalt-verkehrsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht)
 
-Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-all
+Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -897,7 +897,7 @@ StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Au
 
 ### [fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht)
 
-Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgem
+Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -911,13 +911,13 @@ Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsi
 
 ### [beamtenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/beamtenrecht)
 
-Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandat
+Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/beamtenrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [buerokratieversteher-entbuerokratisierer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/buerokratieversteher-entbuerokratisierer)
 
-Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-
+Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/buerokratieversteher-entbuerokratisierer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -947,7 +947,7 @@ Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbar
 
 ### [fachanwalt-verwaltungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht)
 
-Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstell
+Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -977,19 +977,19 @@ Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Rä
 
 ### [lobbyregister-bundestag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/lobbyregister-bundestag)
 
-Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meld
+Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/lobbyregister-bundestag/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [normenkontrolle-bauleitplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung)
 
-Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretu
+Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [normenkontrollrat-nkr](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrollrat-nkr)
 
-Plugin fuer den Nationalen Normenkontrollrat (NKR): Pruefung von Referentenentwuerfen Formulierungshilfen und Gesetzentwuerfen auf Erfuellungsaufwand Erforderlichkeit Verhaeltnismaessigkeit One-in-one
+Plugin fuer den Nationalen Normenkontrollrat (NKR): Pruefung von Referentenentwuerfen Formulierungshilfen und Gesetzentwuerfen auf Erfuellungsaufwand Erforderlichkeit Verhaeltnismaessigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrollrat-nkr/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1001,13 +1001,13 @@ Plugin fuer den Nationalen Normenkontrollrat (NKR): Pruefung von Referentenentwu
 
 ### [parteienrecht-parteiorganisation](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/parteienrecht-parteiorganisation)
 
-Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge,
+Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/parteienrecht-parteiorganisation/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [produktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht)
 
-Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und
+Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1037,7 +1037,7 @@ Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, 
 
 ### [umweltrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht)
 
-Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenw
+Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1049,7 +1049,7 @@ Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung,
 
 ### [verbraucher-rechtsstaat-alltag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucher-rechtsstaat-alltag)
 
-Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und v
+Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucher-rechtsstaat-alltag/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1067,7 +1067,7 @@ Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststel
 
 ### [verfassungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht)
 
-Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz for
+Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1079,13 +1079,13 @@ Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Plan
 
 ### [versammlungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versammlungsrecht)
 
-Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Ei
+Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versammlungsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [wahlkampfrecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wahlkampfrecht-praxis)
 
-Wahlkampfrecht und Wahlkampfpraxis fuer Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Verans
+Wahlkampfrecht und Wahlkampfpraxis fuer Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Veranstaltungen, Schulen, Podien, Wahltag und Compliance.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wahlkampfrecht-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1093,19 +1093,19 @@ Wahlkampfrecht und Wahlkampfpraxis fuer Parteien, Kandidierende und Kampagnentea
 
 ### [dfg-foerderantrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dfg-foerderantrag)
 
-DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Eth
+DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dfg-foerderantrag/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [forschungszulage-antragstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forschungszulage-antragstellung)
 
-Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage,
+Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forschungszulage-antragstellung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater)
 
-Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung J
+Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1113,19 +1113,19 @@ Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klag
 
 ### [aktenauszug-gerichtsverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren)
 
-Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellu
+Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [anlagen-zu-schriftsaetzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen)
 
-Anlagenmanagement fuer gerichtliche Schriftsaetze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblae
+Anlagenmanagement fuer gerichtliche Schriftsaetze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblaettern, Stempel-/Dateinamenregeln, Hashlog,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [berichtspflichten-erlediger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berichtspflichten-erlediger)
 
-Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Dat
+Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Datenquellen, Plausibilitätscheck und Behördenkommunikation.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berichtspflichten-erlediger/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1137,13 +1137,13 @@ Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlau
 
 ### [jveg-kostenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer)
 
-Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfest
+Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [memorandums-ersteller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller)
 
-Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitier
+Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1155,25 +1155,25 @@ Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Voll
 
 ### [selbstvertreter-amtsgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-amtsgericht)
 
-Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat,
+Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-amtsgericht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [tabellenreview-3d](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d)
 
-3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immob
+3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [urteilsbauer-relationsmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher)
 
-Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründ
+Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [zitierweise-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht)
 
-Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Litera
+Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1185,7 +1185,7 @@ Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme,
 
 ### [zwangsvollstreckung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung)
 
-Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/20
+Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1193,13 +1193,13 @@ Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB
 
 ### [berufsgerichtliche-verfahren-freie-berufe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsgerichtliche-verfahren-freie-berufe)
 
-Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermög
+Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermögensverfall, beA, Werbung, Sachlichkeit und Rechtsmittel.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsgerichtliche-verfahren-freie-berufe/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [berufsrecht-anwaelte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-anwaelte)
 
-Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, Fremdbesitz, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsge
+Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-anwaelte/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1211,13 +1211,13 @@ Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, 
 
 ### [berufsrecht-patentanwaelte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-patentanwaelte)
 
-Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Ri
+Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-patentanwaelte/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [berufsrecht-steuerberater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-steuerberater)
 
-Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungspräventio
+Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-steuerberater/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1229,7 +1229,7 @@ Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigk
 
 ### [email-umformulierer-berufsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht)
 
-Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, No
+Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1241,7 +1241,7 @@ Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflik
 
 ### [kanzlei-allgemein](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein)
 
-Kanzlei-Allgemein-Plugin (fusioniert mit Cowork): edles Kommandocenter Mandatsannahme/GwG Klage/Replik Vertrag Rechtsprechung Handelsregister beA-Journal Rechnung UStVA Fristenbuch Timesheet RVG Versa
+Kanzlei-Allgemein-Plugin (fusioniert mit Cowork): edles Kommandocenter Mandatsannahme/GwG Klage/Replik Vertrag Rechtsprechung Handelsregister beA-Journal Rechnung UStVA Fristenbuch Timesheet RVG Versand-Vor-Check Posteingang Mandantenakte Mahnwesen Tagesbrief...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1265,7 +1265,7 @@ Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, B
 
 ### [mandantenanfragen-assistent](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent)
 
-Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverh
+Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1283,7 +1283,7 @@ Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkont
 
 ### [solo-selbststaendige-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/solo-selbststaendige-praxis)
 
-Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag
+Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/solo-selbststaendige-praxis/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1297,13 +1297,13 @@ Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experime
 
 ### [hausarbeitenmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher)
 
-Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strate
+Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei....
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [jurastudium](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium)
 
-Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutacht
+Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1315,19 +1315,19 @@ Plugin fuer Menschen im deutschen Recht mit anderer Herkunftssprache: einfache E
 
 ### [legistik-werkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt)
 
-Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge,
+Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [meinungspruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/meinungspruefer)
 
-Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich,
+Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/meinungspruefer/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
 ### [word-legal-ai-plugin-and-skill-for-german-lawyers](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/word-legal-ai-plugin-and-skill-for-german-lawyers)
 
-Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Le
+Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/word-legal-ai-plugin-and-skill-for-german-lawyers/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1357,7 +1357,7 @@ Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment
 
 ### [vereinsrecht-vereinsmanager](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vereinsrecht-vereinsmanager)
 
-Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haf
+Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen,...
 
 **Skills:** [skills/](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vereinsrecht-vereinsmanager/skills) — laden, kopieren, in beliebiges Tool einfuegen.
 
@@ -1381,5 +1381,5 @@ Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteiverm
 
 Wenn du neue Skills erzeugst (egal ob als Perplexity Computer, Claude Code oder Codex): pruefe bitte, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Skills tragen in diese Promptliste hier ein und werden nach Fachanwaltschaft einsortiert. Aktualisierungen an Plugin-Listen, neue Plugin-Namen und Re-Klassifikationen wandern ebenfalls in diese Datei.
 
-**Pflegehinweis:** Diese Datei wird bei jedem groesseren Versionsbump (Minor und Major) durchgesehen und an den aktuellen Plugin-Stand angepasst.
+**Pflegehinweis:** Diese Datei wird bei jedem groesseren Versionsbump (Minor und Major) durchgesehen und an den aktuellen Plugin-Stand angepasst. Die vollstaendigen Pflegeregeln stehen in [`.github/PROMPTLISTE_REGEL.md`](./.github/PROMPTLISTE_REGEL.md).
 
