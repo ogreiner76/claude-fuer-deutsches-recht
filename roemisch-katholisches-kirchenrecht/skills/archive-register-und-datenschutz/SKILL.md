@@ -1,51 +1,86 @@
 ---
 name: archive-register-und-datenschutz
-description: "Archive, Register und Datenschutz: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Archive, Register und Datenschutz: Kirchliche Registerführung, Archivpflichten und kirchlicher Datenschutz nach KDO/DSGVO"
 ---
 
 # Archive, Register und Datenschutz
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Kirchliche Archive und Register erfüllen eine doppelte Funktion: Sie sind Rechtsnachweise für Sakramente und Status, und sie sind Gedächtnis der Glaubensgemeinschaft. Die ordnungsgemäße Führung der Pfarrregister (Tauf-, Firm-, Ehe-, Sterberegister) ist nach can. 535 Pflicht des Pfarrers. Ergänzt wird dies durch die kirchliche Datenschutzordnung (KDO der DBK), die als kircheneigenes Datenschutzrecht neben der DSGVO steht.
 
-## Canonischer und katechetischer Fokus
+Randvermerke (z. B. Kirchenaustritt, Exkommunikation, Ehehindernisse) müssen gemäß can. 535 § 2 im Taufregister vermerkt werden. Der Zugang zu Archiven ist auf berechtigte Personen beschränkt.
 
-Dieser Skill prüft insbesondere: **Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 486-491, 535.
+**CIC-Canones (primär):** can. 486–491, 535, 1037, 1053, 1121–1123
 
-**Katechismusanker:** KKK 2491-2492.
+**Katechismus:** KKK 2471–2474 (Wahrhaftigkeit und Diskretion)
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt:** Ein Mann hat vor 15 Jahren die Kirche verlassen. Er möchte nun seinen Taufschein aus dem Pfarrarchiv für ein staatliches Verfahren (Kindergeldantrag). Gleichzeitig fragt er, ob im Register der Kirchenaustritt vermerkt ist — und ob er dessen Löschung verlangen kann.
+
+**Rechtliche Analyse:**
+- Auskunftsrecht: Nach KDO § 17 und DSGVO Art. 15 hat er Recht auf Auskunft über gespeicherte Daten.
+- Randvermerk Kirchenaustritt: Dieser Randvermerk im Taufregister ist kirchenrechtlich vorgeschrieben (can. 535 § 2); er kann nicht gelöscht werden, da er eine Rechtstatsache dokumentiert.
+- Taufschein: Ein Taufschein (ohne Randvermerk) kann für staatliche Zwecke ausgestellt werden, sofern der Antragsteller berechtigt ist.
+- Datenschutz: Die KDO erlaubt keine Löschung von Taufdaten, weil sie Sakramentsdokumentation, nicht personenbezogene Marketingdaten sind; OVG NRW hat kirchliches Selbstbestimmungsrecht (Art. 137 WRV/140 GG) bestätigt.
+- Praktischer Schritt: Auskunft erteilen, Taufschein ohne Randvermerk ausstellen (wenn keine rechtliche Verpflichtung zur Aufnahme), Rechtsbehelfsbelehrung einschließen.
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Identifikation des Registers:** Tauf-, Firm-, Ehe- oder Sterberegister? Welche Pfarrei?
+2. **Berechtigungsprüfung:** Ist der Antragsteller der Betroffene, ein Bevollmächtigter oder eine dritte berechtigte Stelle?
+3. **Randvermerke prüfen:** Welche Einträge sind vorhanden? Kirchenaustritt, Exkommunikation, Konversion?
+4. **Datenschutz:** KDO und DSGVO-Parallelrecht beachten; Auskunft, Löschung, Berichtigung.
+5. **Ausstellung:** Taufschein mit oder ohne Randvermerke; Beglaubigung durch Pfarrer.
+6. **Archivzugang:** Wer darf das Bistumsarchiv nutzen? Wissenschaftliche Forschung, Eigenforschung, Dritte?
+7. **Dokumentation:** Ausstellung und Antrag protokollieren.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Registerauszug / Taufschein** (Vorlage mit Pflichtangaben nach can. 535).
+- **Datenschutzauskunft** nach KDO § 17.
+- **Vermerk zur Unzulässigkeit der Randvermerklöschung** mit Rechtsgrundlagen.
+- **Archivantragsformular** für Forschungszugang.
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [CIC can. 535 – Vatikan](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)
+- [KDO – Kirchliche Datenschutzordnung – DBK](https://www.dbk.de/themen/datenschutz)
+- [KDR-OG Rahmenordnung – DBK](https://www.dbk.de)
+- [DSGVO – gesetze-im-internet.de](https://www.gesetze-im-internet.de/dsgvo/)
+- [BVerfGE 65, 1 – Volkszählungsurteil – bverfg.de](https://www.bverfg.de)

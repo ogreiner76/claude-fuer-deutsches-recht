@@ -1,51 +1,85 @@
 ---
 name: kirchliche-arbeitsverhaltnisse-und-loyalitat
-description: "Kirchliche Arbeitsverhältnisse und Loyalität: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Kirchliche Arbeitsverhältnisse und Loyalität: Kirchliches Arbeitsrecht, Grundordnung des kirchlichen Dienstes, Loyalitätspflichten und BVerfG-Rechtsprechung"
 ---
 
 # Kirchliche Arbeitsverhältnisse und Loyalität
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Das kirchliche Arbeitsrecht verbindet staatliches Arbeitsrecht mit dem kirchlichen Selbstbestimmungsrecht (Art. 137 WRV). Die Grundordnung des kirchlichen Dienstes (GrO, zuletzt 2022 grundlegend reformiert) differenziert zwischen verkündigungsnahen und anderen Tätigkeiten. Loyalitätserwartungen gelten, sind aber abgestuft: Für verkündigungsnahe Tätigkeiten (Priester, Katecheten, Religionslehrer) gelten höhere Anforderungen als für Hilfspersonal.
 
-## Canonischer und katechetischer Fokus
+BVerfGE 70, 138 (1985): Kirchen dürfen Loyalitätspflichten als Einstellungs- und Kündigungsgrund heranziehen. EuGH Egenberger (2018): Unionsrechtlich muss die Erforderlichkeit für den konkreten Job nachweisbar sein.
 
-Dieser Skill prüft insbesondere: **Loyalitätsobliegenheiten, Sendungsnähe und Dienstgemeinschaft**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 231, 1286.
+**CIC-Canones (primär):** can. 231, 281
 
-**Katechismusanker:** KKK 1880-1896, 2434.
+**Katechismus:** KKK 2427–2436
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt:** Ein Religionslehrer an einer katholischen Schule (Verbeamteter Lehrer, Religionslehrer mit Missio canonica) lässt sich staatlich scheiden und heiratet wieder. Das Bistum prüft, ob die Missio canonica entzogen werden muss.
+
+**Rechtliche Analyse:**
+- Missio canonica: Can. 804–805; Voraussetzung für staatliche Religionslehrbefugnis; Bischof kann entziehen.
+- Loyalitätserwartung (GrO 2022): Religionslehrer gehört zu verkündigungsnahen Tätigkeiten; Scheidung und Wiederheirat kann zur Prüfung führen.
+- Reform GrO 2022: Neuere Fassung differenziert stärker; gleichgeschlechtliche Ehe/Scheidung/Wiederheirat sind nicht mehr automatische Kündigungsgründe.
+- Kanonische Ehe vs. staatliche Scheidung: Wenn erste Ehe kanonisch gültig war, lebt er in irregulärer Situation.
+- Empfehlung: Persönliches Gespräch mit dem Schuldekan und dem Personalverantwortlichen; keine automatische Entscheidung; Verhältnismäßigkeit prüfen.
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Tätigkeitsprofil:** Verkündigungsnah oder nicht?
+2. **GrO 2022 prüfen:** Loyalitätserwartungen für diese Tätigkeit?
+3. **Sachverhalt:** Was genau ist eingetreten (Scheidung, Wiederheirat, Kirchenaustritt)?
+4. **Verhältnismäßigkeit:** BVerfGE 70, 138 und EuGH-Rspr.: Erforderlichkeit nachweisen.
+5. **Gespräch:** Anhörung des Betroffenen vor Entscheidung.
+6. **Entscheidung dokumentieren:** Bischöfliches Dekret; Rechtsbehelfsbelehrung.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Prüfvermerk** Loyalitätspflichten nach GrO 2022.
+- **Gesprächsleitfaden** mit kirchlichem Arbeitnehmer.
+- **Dekret-Vorlage** für Missio-Entzug (can. 805).
+- **Routing** zu: missio-canonica-und-lehrerlaubnis.
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [Grundordnung des kirchlichen Dienstes (GrO) 2022 – DBK](https://www.dbk.de/themen/kirchliches-arbeitsrecht)
+- [BVerfGE 70, 138 – Loyalitätspflichten – bverfg.de](https://www.bverfg.de)
+- [BAG – Kirchliches Arbeitsrecht – bgh.de](https://www.bundesarbeitsgericht.de)
+- [EuGH – Egenberger 2018 und IR 2018](https://curia.europa.eu)
+- [CIC can. 231, 281 – Vatikan](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)

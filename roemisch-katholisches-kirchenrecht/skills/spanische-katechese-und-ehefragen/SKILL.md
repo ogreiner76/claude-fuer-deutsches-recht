@@ -1,51 +1,84 @@
 ---
 name: spanische-katechese-und-ehefragen
-description: "Spanische Katechese und Ehefragen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Spanische Katechese und Ehefragen: Kirchenrechtliche und katechetische Beratung auf Spanisch für hispanophone Gläubige"
 ---
 
 # Spanische Katechese und Ehefragen
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Spanisch ist nach Englisch die meistgesprochene Sprache in der Weltkirche — Lateinamerika und Spanien bilden das Herzstück des katholischen Spanischsprachraums. In Deutschland leben über 300.000 spanischsprachige Migranten. Dieser Skill bietet Katechese und kirchenrechtliche Beratung auf Spanisch.
 
-## Canonischer und katechetischer Fokus
+Thematische Schwerpunkte: Ehevorbereitung und Ehe-Nichtigkeitsverfahren (häufig bei lateinamerikanischen Migranten, die eine erste Ehe in der Heimat hatten); Fragen zu Taufe, Erstkommunion, Firmung; Statusfragen bei Migranten.
 
-Dieser Skill prüft insbesondere: **spanische Erklärungen zu Ehe, Dispens, Nichtigkeit und Sakramenten**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 1055-1165.
+**CIC-Canones (primär):** can. 213, 843, 1055
 
-**Katechismusanker:** KKK 1601-1666.
+**Katechismus:** KKK 1601–1605
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt (en español):** Una mujer colombiana casada civilmente en Colombia quiere casarse por la Iglesia en Alemania. ¿Qué documentos necesita y cuáles son los pasos?
+
+**Análisis jurídico:**
+- Documentos: Partida de bautismo (no mayor de 6 meses); partida de confirmación; certificado de soltería/libertad de estado de la parroquia colombiana; documento de identidad.
+- Matrimonio civil previo: Si existió matrimonio civil en Colombia sin matrimonio eclesiástico: puede ser válido o inválido canónicamente según el estado bautismal de los cónyuges.
+- Forma canónica: Los católicos están obligados a la forma canónica (can. 1108). Un matrimonio civil únicamente es inválido canónicamente si alguno era católico.
+- Procedimiento: Presentar documentos a la parroquia alemana; el párroco verifica impedimentos; realiza entrevista previa (can. 1067); organiza la preparación matrimonial.
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Idioma:** ¿Castellano de España o latinoamérica?
+2. **Documentos requeridos:** Partidas, certificados de libertad de estado.
+3. **Matrimonio anterior:** ¿Civil o eclesiástico? ¿Bautismo de los cónyuges?
+4. **Preparación matrimonial:** Curso prematrimonial en la parroquia.
+5. **Forma canónica:** ¿Dispensa de forma necesaria?
+6. **Registro:** Acta de matrimonio; anotación en el registro bautismal.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Lista de documentos** para matrimonio canónico (Español/Deutsch).
+- **Carta-pedido** de documentos a parroquia en Latinoamérica.
+- **Guía pastoral** para hispanohablantes en Alemania.
+- **Glosario** términos canónicos Español–Deutsch.
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [CIC – Vatikan (español)](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)
+- [KKK – CELAM](https://www.celam.org)
+- [Conferencia Episcopal Española – CEE](https://www.conferenciaepiscopal.es)
+- [DBK – Migrationsseelsorge](https://www.dbk.de/themen/migranten)
+- [Vatikan – Documentos en español](https://www.vatican.va)

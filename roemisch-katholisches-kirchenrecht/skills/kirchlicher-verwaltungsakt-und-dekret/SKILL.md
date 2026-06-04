@@ -1,51 +1,84 @@
 ---
 name: kirchlicher-verwaltungsakt-und-dekret
-description: "Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Kirchlicher Verwaltungsakt und Dekret: Arten und Anforderungen kirchlicher Verwaltungsakte, Dekrete und Reskripte nach CIC"
 ---
 
 # Kirchlicher Verwaltungsakt und Dekret
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Kirchliche Verwaltungsakte umfassen: Dekrete (can. 48–58), Reskripte (can. 59–75), Privilegien (can. 76–84), Dispensen (can. 85–93). Dekrete sind die wichtigste Form. Ein Einzel-Dekret (decretum singulare, can. 48) ist ein Verwaltungsakt, der für einen bestimmten Einzelfall erlassen wird. Voraussetzungen: schriftliche Form, Begründung (can. 51), Bekanntmachung (can. 54).
 
-## Canonischer und katechetischer Fokus
+Allgemeine Ausführungsdekrete (can. 31) ergänzen Gesetze. Allgemeine Dekrete (can. 29): stehen auf Gesetzgebungsebene.
 
-Dieser Skill prüft insbesondere: **Anhörung, Begründung, Zustellung, Wirksamkeit und Angreifbarkeit**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 35-58.
+**CIC-Canones (primär):** can. 35–93
 
-**Katechismusanker:** KKK 1901-1917.
+**Katechismus:** KKK 2256
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt:** Ein Pfarrer erhält ein bischöfliches Dekret, das ihn verpflichtet, eine bestimmte Sammlung in der Messe durchzuführen. Er hält das Dekret für unvollständig und rechtswidrig (keine Begründung, kein Datum). Was kann er tun?
+
+**Rechtliche Analyse:**
+- Formfehler: Can. 51: Dekret ist schriftlich zu erlassen und mit Gründen zu versehen, soweit Rechte berührt sind. Fehlen von Begründung und Datum begründet Formfehler.
+- Wirksamkeit: Trotz Formmangel kann ein Dekret wirksam sein, wenn es dem Willen der Autorität entspricht und keine wesentlichen Elemente fehlen (can. 54 § 2).
+- Rücknahmeantrag: Within 15 Tagen Bitte um Rücknahme oder Änderung beim Bischof (can. 1734).
+- Hierarchischer Rekurs: Wenn Bischof ablehnt: Rekurs beim übergeordneten Dikasterium.
+- Vorläufige Compliance: Im Zweifelsfall vorläufig befolgen (can. 57: Vollzug trotz Rekurs).
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Dekretsinhalt analysieren:** Was wird angeordnet? Rechtsgrundlage?
+2. **Formprüfung:** Schriftlich, datiert, begründet, bekanntgemacht (can. 51–54)?
+3. **Materielle Prüfung:** Ist der Inhalt rechtmäßig? Kompetenz des Bischofs?
+4. **Rücknahmeantrag:** Can. 1734: Brief mit konkreten Rügen.
+5. **Aufschiebende Wirkung:** Can. 1736: Gesondert beantragen.
+6. **Hierarchischer Rekurs:** Bei Ablehnung.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Dekretsanalyse-Checkliste** (Form und Inhalt).
+- **Rücknahmeantrag-Vorlage** (can. 1734).
+- **Rekursschrift-Vorlage** (hierarchischer Rekurs).
+- **Routing** zu: hierarchischer-rekurs.
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [CIC can. 35–93 – Vatikan](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)
+- [Päpstlicher Rat für Gesetzestexte – Kommentare zu Buch I CIC](https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/index.htm)
+- [DBK – Verwaltungsrechtliche Praxis](https://www.dbk.de)
+- [KKK 2256 – DBK](https://www.dbk.de/themen/katechismus)

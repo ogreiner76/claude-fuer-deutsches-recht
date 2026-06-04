@@ -1,51 +1,85 @@
 ---
 name: laienrollen-in-liturgie-und-verkundigung
-description: "Laienrollen in Liturgie und Verkündigung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Laienrollen in Liturgie und Verkündigung: Kirchenrechtliche Grundlage für Laien als Lektoren, Kommunionhelfer, Predigende und Wortgottesdienstleiter"
 ---
 
 # Laienrollen in Liturgie und Verkündigung
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Laien können in der Liturgie wichtige Dienste übernehmen: Lektorendienst (can. 230 § 1 für stabil beauftragte Männer; can. 230 § 2 für temporär beauftragte auch Frauen); außerordentliche Eucharistiespender (can. 230 § 3, 910 § 2); Wortgottesdienst-Leiterin (bei Priestermangel); Predigt im Kirchengebäude (can. 766): grundsätzlich möglich, wenn Bischofskonferenz es erlaubt.
 
-## Canonischer und katechetischer Fokus
+Die Instruktion Ecclesiae de Mysterio (1997) warnt vor Klerikalisierung von Laiendiensten und unzulässiger Ausdehnung.
 
-Dieser Skill prüft insbesondere: **Beauftragung, Predigt, Homilie, Kommunionhelferdienst und Grenzen**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 230, 766, 767.
+**CIC-Canones (primär):** can. 230, 759, 766
 
-**Katechismusanker:** KKK 903-913, 1140-1144.
+**Katechismus:** KKK 901–903
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt:** Eine Pfarrei möchte Frauen als stabile Lektorinnen beauftragen. Der Pfarrer fragt, ob das möglich ist und welche kirchenrechtliche Grundlage gilt.
+
+**Rechtliche Analyse:**
+- Can. 230 § 1: Das stabile Lektorat und Akoluthat (fest instituiertes Amt) ist Männern vorbehalten; traditionell Vorstufe zur Priesterweihe.
+- Reform 2021 (Motu Proprio Spiritus Domini): Papst Franziskus hat can. 230 § 1 reformiert: Auch Frauen können stabil als Lektorinnen und Akoluthinnen beauftragt werden.
+- Beauftragung: Durch einen liturgischen Ritus; diözesane Normen beachten.
+- Temporäre Beauftragung: Can. 230 § 2: War schon vorher für Frauen möglich; bleibt zulässig.
+- Praxis: Viele deutsche Diözesen haben die Reform umgesetzt; Pfarrer braucht bischöfliche Delegation oder Bistumsnorm.
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Reform 2021 prüfen:** Can. 230 § 1 neue Fassung; Frauen als stabile Lektorinnen.
+2. **Diözesane Normen:** Hat das Bistum die Reform umgesetzt?
+3. **Beauftragungsritus:** Liturgischer Ritus; bischöfliche Delegation oder Pfarrernorm.
+4. **Temporäre vs. Stabile Beauftragung:** Unterschied in Anspruch und Dauerhaftigkeit.
+5. **Aufgabenbeschreibung:** Lesung, Fürbitten, ggf. Kommunionhilfe.
+6. **Dokumentation:** Beauftragungsurkunde; Registrierung in der Pfarrei.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Beauftragungsformular** für Lektorinnen nach can. 230 § 1 n.F.
+- **Überblick Laiendienste** in der Liturgie (tabellarisch).
+- **Brief an Bischof** um Delegation für stabile Beauftragung.
+- **Routing** zu: katechistenamt-und-laienbeauftragungen.
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [CIC can. 230, 759, 766 – Vatikan](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)
+- [KKK 901–903 – DBK](https://www.dbk.de/themen/katechismus)
+- [Instruktion Ecclesiae de Mysterio 1997 – Vatikan](https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_interdic_doc_15081997_general-article_ge.html)
+- [DBK – Lektorendienst und Laiendienste](https://www.dbk.de/themen/laien)
+- [Sacrosanctum Concilium 28–29 – Vatikan](https://www.vatican.va)

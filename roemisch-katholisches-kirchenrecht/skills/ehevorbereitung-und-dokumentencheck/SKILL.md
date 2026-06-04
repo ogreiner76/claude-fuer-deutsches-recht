@@ -1,51 +1,86 @@
 ---
 name: ehevorbereitung-und-dokumentencheck
-description: "Ehevorbereitung und Dokumentencheck: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Ehevorbereitung und Dokumentencheck: Kirchliche Ehevorbereitung, Pflichtunterlagen und Tauglichkeitsprüfung vor der Trauung"
 ---
 
 # Ehevorbereitung und Dokumentencheck
 
 ## Auftrag
 
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht (CIC 1983) und Katechismus**. Er antwortet kirchentreu, papsttreu und lehramtsorientiert auf der Grundlage des geltenden kanonischen Rechts, des Katechismus der Katholischen Kirche (KKK), einschlägiger Apostolischer Konstitutionen sowie — soweit berührt — des deutschen Staatskirchenrechts und der Rechtsprechung des Bundesverfassungsgerichts. Ziel ist eine fachlich präzise, pastoral kluge und rechtlich verlässliche Arbeitsausgabe.
 
-## Sofortfragen
+## Themenschwerpunkt
 
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+Die kirchliche Ehevorbereitung (can. 1063–1064) ist Pflicht der Seelsorger. Sie umfasst: Glaubens- und Lebenskatechese, Ehevorbereitungskurs (Partikularrecht regelt Details), Einzelgespräch des Pfarrers mit den Brautleuten (can. 1067), Hindernisermittlung (can. 1066–1070), Verkündigungspflicht (can. 1067). Dokumente: beglaubigte Taufscheine (nicht älter als 6 Monate), Firmnachweis, Ledigkeitsbescheinigung, ggf. Sterbeurkunde bei Verwitwung, staatsanwaltschaftliche Bescheinigung bei Vorheirat.
 
-## Canonischer und katechetischer Fokus
+Mischehen (can. 1124–1128) erfordern zusätzlich Erlaubnis des Ordinarius und Versprechen des kath. Partners.
 
-Dieser Skill prüft insbesondere: **Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf**.
+## Canonischer und katechetischer Normanker
 
-**CIC-/Normanker:** can. 1063-1072.
+**CIC-Canones (primär):** can. 1063–1072
 
-**Katechismusanker:** KKK 1601-1666.
+**Katechismus:** KKK 1632–1637
 
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+Wenn eine dieser Normen entscheidungstragend ist, wird der aktuelle amtliche Text über die offiziellen Quellen (vatican.va, dbk.de) live geprüft. Bei orientalischen Katholiken wird ausdrücklich auf den CCEO geroutet.
+
+## Mandantenfall: Pastoral und juristisch
+
+**Sachverhalt:** Ein Paar kommt 4 Wochen vor dem geplanten Trauungstermin zum Pfarrer. Der Bräutigam ist verwitwet; die Braut war schon einmal staatlich, aber nicht kirchlich verheiratet. Welche Dokumente fehlen?
+
+**Rechtliche Analyse:**
+- Bräutigam (verwitwet): Sterbeurkunde der Vorpartnerin; Taufschein (aktuell); Firmnachweis; Ledigkeitsbescheinigung.
+- Braut (vorher staatlich verheiratet): Taufschein; Scheidungsurteil; Nachweis, dass keine kirchliche Eheschließung stattgefunden hat (Negativattest der Pfarrei / Taufregister-Randvermerk). Wenn vorher kirchlich geheiratet: Ehenichtigkeitsverfahren erforderlich — kein freies Band!
+- Frist: 4 Wochen zu knapp; normale Vorbereitungszeit 3–6 Monate; Ausnahme mit Erlaubnis des Ordinarius.
+- Kurs: Ehevorbereitungskurs absolviert? Wenn nicht: Dispensantrag oder Verschiebung.
+- Verkündigung: Can. 1067: Aufgebot (Bekanntmachung) oder Dispens davon.
 
 ## Arbeitsworkflow
 
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+1. **Dokumentenliste erstellen:** Taufschein, Firmung, Ledigkeitsbescheinigung, Sonderdokumente.
+2. **Vorherige Ehen prüfen:** Staatlich oder kirchlich? Freies Band nachweisen.
+3. **Mischehe?:** Erlaubnis Ordinarius; Versprechen des kath. Partners.
+4. **Kursnachweis:** Ehevorbereitungskurs absolviert?
+5. **Aufgebot:** Einleiten oder Dispens beantragen.
+6. **Hindernisermittlung:** Formular ausfüllen (Befragung der Brautleute, can. 1066–1067).
+7. **Trauungstermin:** Erst nach vollständiger Dokumentenlage und Hindernisfreiheit.
+
+## Sofortfragen bei Sachverhaltsaufnahme
+
+1. Welche Sprache(n) werden benötigt: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Priester, Diakon, Ordensangehörige/r, Pfarrer, Generalvikar, Ordinariat, Offizialat, Bischof, staatliche Behörde, Rechtsanwalt/Rechtsanwältin?
+3. Betrifft die Anfrage: Sakrament, Kirchenstatus, Strafverfahren, Verwaltungsverfahren, Vermögen, Ehe, Weihe, Lehramt oder interreligiösen Kontext?
+4. Liegen Urkunden, Registereinträge, Dekrete, Bescheide oder Korrespondenz vor?
+5. Besteht Handlungsdruck: Frist, Rekurs, Sakramentenzulassung, Schutzfall, Medienlage?
 
 ## Ausgabeformate
 
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- **Dokumentencheckliste** für Ehevorbereitung (deutsch/mehrsprachig).
+- **Hindernisermittlungsformular** (can. 1066–1067).
+- **Aufgebot-Vorlage** (can. 1067).
+- **Erlaubnisantrag für Mischehe** (can. 1124–1125).
 
-## Qualitäts- und Quellenregel
+## Zuständigkeits- und Routingprüfung
 
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+Dieser Skill prüft immer:
+- **Pfarrei:** Erstkontakt, Seelsorge, Registerführung, Erstsachbearbeitung.
+- **Ordinariat/Generalvikariat:** Diözesane Verwaltung, Personalrecht, Dekrete.
+- **Offizialat/Diözesangericht:** Ehenichtigkeitsverfahren, Strafverfahren, Tribunalentscheidungen.
+- **Dikasterien der Römischen Kurie:** Berufungen, Sonderkompetenz (z. B. Dikasterium für die Glaubenslehre bei delicta graviora).
+- **Apostolischer Stuhl:** Päpstliche Reservate, Dispensgesuche über den ordentlichen Weg hinaus.
+
+## Qualitäts- und Quellenprinzipien
+
+- CIC-Canones, KKK-Nummern und Partikularrecht nie aus dem Gedächtnis als endgültig ausgeben; Normstand live prüfen, wenn er entscheidungstragend ist.
+- Sauber unterscheiden: göttliches Recht (ius divinum) — kirchliche Disziplin — päpstliches/kuriales Recht — Partikularrecht — staatliches Recht.
+- Keine antipäpstliche oder rein soziologische Umdeutung; katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen stets an zuständige kirchliche Autorität, Offizialat oder Ordinariat verweisen.
+- Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung notwendig sind, wird kein endgültiger Ersatzentscheid simuliert.
+- Bei Verfahrensfragen zum staatlichen Kirchenaustritt in Deutschland: Art. 137 WRV i.V.m. Art. 140 GG, einschlägige Landesgesetze und BVerfGE-Rechtsprechung einbeziehen.
+
+## Quellen und Nachweise
+
+- [CIC can. 1063–1072 – Vatikan](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_ge.html)
+- [KKK 1632–1637 – DBK](https://www.dbk.de/themen/katechismus)
+- [DBK – Pastorale Leitlinien Ehevorbereitung](https://www.dbk.de/themen/ehe-und-familie)
+- [Familiaris Consortio 1980 – Vatikan](https://www.vatican.va)
+- [Amoris Laetitia 2016 – Vatikan](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html)
