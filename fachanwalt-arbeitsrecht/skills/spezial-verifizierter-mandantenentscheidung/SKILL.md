@@ -1,48 +1,98 @@
 ---
 name: spezial-verifizierter-mandantenentscheidung
-description: "Verifizierter: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidung, Informed Consent."
 ---
 
-# Verifizierter: Mandantenkommunikation und Entscheidungsvorlage
+# Spezial: Verifizierte Mandantenentscheidung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Verifizierter**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Verifizierter.
-- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Sicherstellung, dass der Mandant eine informierte, eigenverantwortliche Entscheidung trifft, bevor der Anwalt rechtsverbindliche Schritte unternimmt. Dieser Skill schützt vor Haftungsrisiken und stärkt die Vertrauensbasis.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine wichtige rechtliche Entscheidung ansteht (Klageerhebung, Aufhebungsvertrag, Widerspruch), zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Welche Entscheidung steht an?** (Klage, Vergleich, Aufhebungsvertrag, Widerspruch Betriebsübergang?)
+2. **Ist der Mandant vollständig informiert?** Kennt er Chancen, Risiken, Kosten und Zeitrahmen?
+3. **Hat der Mandant Fragen?** Wurden alle beantwortet?
+4. **Besteht Zeitdruck?** (Fristablauf → dann kürzer, aber vollständig)
+5. **Ist die Entscheidung des Mandanten dokumentiert?**
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verifizierter** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Aufklärungspflicht des Anwalts (§ 1 BORA, §§ 4–6 BerufsO)
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Umfang der Aufklärungspflicht
+Der Anwalt ist verpflichtet, den Mandanten vollständig und wahrheitsgemäß über die rechtliche Lage, die Erfolgaussichten, die Risiken und die Kosten des geplanten Vorgehens aufzuklären. Eine Entscheidung, die auf unvollständiger Information beruht, kann zur Haftung führen.
+
+**Was muss der Mandant wissen, bevor er entscheidet:**
+1. Was ist die rechtliche Lage? (Stärken und Schwächen der eigenen Position)
+2. Was sind die Alternativen? (Klage, Vergleich, Aufhebungsvertrag, Nichtstun)
+3. Was sind die Risiken jeder Alternative?
+4. Was sind die voraussichtlichen Kosten? (RVG, Gerichtskosten, ggf. Kosten der Gegenseite)
+5. Was sind die voraussichtlichen Zeiträume? (Prozessdauer, Fristabläufe)
+6. Welche Konsequenzen hat die Entscheidung für andere Bereiche? (ALG I/Sperrzeit, Steuern, Zeugnis)
+
+## Entscheidungsmatrix: Klage vs. Vergleich vs. Aufhebungsvertrag
+
+| Option | Vorteile | Risiken | Empfehlenswert wenn |
+|---|---|---|---|
+| Klage einlegen | Maximaler Schutz; Verhandlungsposition; Weiterbeschäftigung möglich | Prozessdauer; Kosten; Unsicherheit | Starke Unwirksamkeitsgründe; Mandant will Bestandsschutz |
+| Vergleich im Gütermin | Schnelle Einigung; sichere Abfindung; Vermeidung Risiko | Kein Bestandsschutz; Abfindung ggf. unter Optimal | Kündigung formell korrekt; Mandant will schnell Abfindung |
+| Aufhebungsvertrag | Planungssicherheit; mögliche höhere Abfindung; Freistellung regelbar | Sperrzeitrisiko § 159 SGB III; Klauselrisiken | Mandant hat Anschlussstelle; Kündigung war glaubhaft angedroht |
+| Nichtstun | Kein Aufwand | Frist § 4 KSchG läuft; § 7 KSchG-Fiktion | Niemals bei offener Klagefrist |
+
+## Informed Consent — Muster-Mandantenerklärung (schriftlich)
+
+> „Ich, [Name des Mandanten], bestätige hiermit, dass mich mein Anwalt / meine Anwältin [Name] am [Datum] vollständig über folgende Punkte informiert hat:
+>
+> 1. Die rechtliche Lage in meiner Sache (Kündigung vom [Datum])
+> 2. Die Alternativen: Klageerhebung, Vergleich, Aufhebungsvertrag
+> 3. Die voraussichtlichen Kosten: [Betrag / Größenordnung]
+> 4. Die voraussichtlichen Prozessrisiken: [kurze Beschreibung]
+> 5. Die sozialrechtlichen Konsequenzen (Sperrzeit / Abfindungsfolge für ALG I)
+>
+> Ich habe alle meine Fragen gestellt und die Antworten verstanden.
+>
+> Ich entscheide mich für folgendes Vorgehen: [Klageerhebung / Vergleich / Aufhebungsvertrag / anderes]
+>
+> Ich verstehe, dass diese Entscheidung meinen rechtlichen Spielraum beeinflusst und vom Anwalt umgesetzt wird.
+>
+> [Ort, Datum, Unterschrift Mandant]"
+
+## Sondersituationen
+
+### Zeitdruck (Fristablauf in wenigen Tagen)
+Bei extremem Zeitdruck muss die Aufklärung kürzer, aber vollständig sein:
+1. Kurze schriftliche Zusammenfassung der Lage (E-Mail)
+2. Telefonisches Gespräch mit Protokoll
+3. Einholung der ausdrücklichen Zustimmung (E-Mail-Bestätigung genügt)
+4. Dokumentation in der Akte
+
+### Mandant ist nicht erreichbar
+Wenn Fristablauf droht und Mandant nicht erreichbar ist: Klage vorsorglich einlegen, wenn Vollmacht vorhanden; danach unverzüglich informieren. Dokumentation dieser Ausnahmesituation zwingend.
+
+### Mandant will offensichtlich ungünstige Entscheidung
+Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwalts objektiv ungünstig ist:
+1. Erneut aufklären; Risiken nochmals schriftlich darlegen
+2. Entscheidung des Mandanten dokumentieren
+3. Keine Weigerung der Umsetzung allein wegen Uneinigkeit — außer bei eindeutig unlauterer Absicht
+
+## Dokumentation in der Akte
+
+**Mindestinhalt Akte:**
+- Datum und Form des Beratungsgesprächs (persönlich, telefonisch, schriftlich)
+- Inhalt der Aufklärung (Stichworte oder Memo)
+- Entscheidung des Mandanten (möglichst schriftlich)
+- Handlungsauftrag und Vollmacht
+
+## Anschluss-Skills
+- `spezial-fachanwalt-erstpruefung-und-mandatsziel` für Erstprüfung und Zieldefinition
+- `ar-aufhebungsvertrag-praxis` für Aufhebungsvertrags-Entscheidung
+- `ar-abfindungs-rechner-modular` für Abfindungsentscheidung
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Berufsrechtliche Grundlagen: BRAO, BORA — live prüfen auf [brak.de](https://www.brak.de).
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für die individuelle Mandantenberatung.
+- Keine Muster-Vollmacht oder Mandatsvertrag.

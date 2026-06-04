@@ -1,48 +1,120 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin fachanwalt-arbeitsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen."
+description: "Fristen und Risikoampel: vollständige Fristenübersicht für arbeitsrechtliche Mandate, Ampelbewertung nach Dringlichkeit, Fristenkalender, Wiedervorlagensystem, kritische Fristen Kündigung KSchG, Befristung TzBfG, AGG, Berufung ArbGG."
 ---
 
-# Fristen- und Risikoampel
+# Workflow: Fristen und Risikoampel
 
-## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-arbeitsrecht` Fristen- und Risikoampel im Plugin fachanwalt-arbeitsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
+Vollständige Fristenkontrolle für alle laufenden und entstehenden Fristen im Arbeitsrechtsmandat — mit Ampelbewertung nach Dringlichkeit. Grundlage für Wiedervorlagenkalender und Mandantenkommunikation.
 
 ## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Wenn ein Sachverhalt oder eine Akte vorliegt:
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. **Welche Fristauslöser gibt es?** (Zugangsdatum Kündigung, Beendigungsdatum Befristung, Urteilszustellung?)
+2. **Wie viele Tage bis zum Fristablauf?**
+3. **Sind alle Fristen im Kalender?**
+4. **Gibt es bereits abgelaufene Fristen?** (§ 7 KSchG-Fiktion; § 5 KSchG-Antrag noch möglich?)
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Fristenübersicht — Vollständige Tabelle
 
-## Arbeitsrechtliche Schlüsselfristen
-- Kündigungsschutzklage drei Wochen ab Zugang der Kündigung (§§ 4, 7 KSchG); Versäumung führt zu Wirksamkeitsfiktion.
-- Klagefrist Befristung drei Wochen ab vereinbartem Ende (§ 17 TzBfG).
-- AGG-Geltendmachung zwei Monate ab Kenntnis (§ 15 Abs. 4 AGG).
-- Ausschlussfristen TV/AV: meist drei Monate; doppelt-stufige Klausel; Schutz nach BAG ständige Rspr. nur bei Klarheit und Schriftform.
-- Anhörung Betriebsrat vor Kündigung eine Woche (§ 102 Abs. 2 BetrVG); ohne Anhörung Kündigung unwirksam.
-- Massenentlassungsanzeige § 17 KSchG vor Ausspruch Kündigung (EuGH-Rechtsprechung beachten).
-- Annahmeverzugslohn Verjährung drei Jahre (§§ 195, 199 BGB); Anrechnung böswillig unterlassener Verdienst (§ 11 KSchG).
+### Prozessfristen
 
-## Trade-off
-- Aufhebungsvertrag (sofortige Klarheit, Sperrzeit nach § 159 SGB III bei Eigenkündigung) vs. Klageweg (Zeit, Risiko, Abfindungsergebnis).
-- Abfindungsregel § 1a KSchG (0,5 Bruttomonatsverdienste je Beschäftigungsjahr) vs. individueller Vergleich vor ArbG.
+| Frist | Norm | Länge | Fristbeginn | Folge bei Versäumnis |
+|---|---|---|---|---|
+| Kündigungsschutzklage | § 4 KSchG | 3 Wochen | Zugang der Kündigung | § 7 KSchG: Kündigung gilt als wirksam |
+| Entfristungsklage | § 17 TzBfG | 3 Wochen | Vereinbartes Vertragsende | Befristung gilt als wirksam |
+| AGG-Geltendmachung | § 15 Abs. 4 AGG | 2 Monate | Kenntnis der Benachteiligung | Anspruchsverlust |
+| Berufung LAG | § 66 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
+| Berufungsbegründung | § 66 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
+| Revision BAG | § 74 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
+| Revisionsbegründung | § 74 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
+| Nachträgliche Klagezulassung | § 5 KSchG | 2 Wochen | Wegfall des Hindernisses | Kein nachträglicher Schutz |
+| Wahlanfechtung BR | § 19 Abs. 2 BetrVG | 2 Wochen | Bekanntmachung Ergebnis | Anfechtungsrecht verfristet |
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+### Materiell-rechtliche Fristen
+
+| Frist | Norm | Länge | Fristbeginn | Folge |
+|---|---|---|---|---|
+| Außerordentliche Kündigung (AG) | § 626 Abs. 2 BGB | 2 Wochen | Kenntnis des Kündigungsgrundes | Kündigungsrecht verwirkt |
+| Vollmachtsrüge | § 174 BGB | Unverzüglich (< 1 Woche) | Empfang ohne beigefügte Vollmacht | Verwirkung |
+| BR-Anhörung ordentlich | § 102 Abs. 2 BetrVG | 1 Woche | AG unterrichtet BR | Fiktive Zustimmung |
+| BR-Anhörung außerordentlich | § 102 Abs. 2 BetrVG | 3 Tage | AG unterrichtet BR | Fiktive Zustimmung |
+| Ausschlussfristen Vertrag/TV | je nach Vereinbarung | 1–3 Monate (typisch) | Fälligkeit des Anspruchs | Anspruchsverlust |
+| Verjährung Lohnansprüche | §§ 195, 199 BGB | 3 Jahre | Jahresende der Fälligkeit | Verjährung |
+
+## Risikoampel nach Verbleibenden Tagen
+
+### Rot — sofortiger Handlungsbedarf
+
+| Frist | Verbleibende Tage | Ampel |
+|---|---|---|
+| Klagefrist § 4 KSchG | ≤ 5 Tage | Rot |
+| AGG-Frist § 15 Abs. 4 AGG | ≤ 10 Tage | Rot |
+| Vollmachtsrüge § 174 BGB | Sofort | Rot |
+| Außerordentliche Kündigung AG | ≤ 3 Tage bis Kündigungsausspruch | Rot |
+
+### Gelb — dringlich, innerhalb einer Woche handeln
+
+| Frist | Verbleibende Tage | Ampel |
+|---|---|---|
+| Klagefrist § 4 KSchG | 6–14 Tage | Gelb |
+| AGG-Frist § 15 Abs. 4 AGG | 11–21 Tage | Gelb |
+| Berufungsfrist § 66 ArbGG | ≤ 7 Tage | Gelb |
+
+### Grün — ausreichend Zeit, aber im Blick behalten
+
+| Frist | Verbleibende Tage | Ampel |
+|---|---|---|
+| Klagefrist § 4 KSchG | 15–21 Tage | Grün (mit Hinweis) |
+| Berufungsfrist § 66 ArbGG | 8–30 Tage | Grün |
+| Ausschlussfrist Vertrag | > 21 Tage | Grün |
+
+## Wiedervorlagensystem — Empfehlungen
+
+### Sicherheitspolster
+- **7 Tage vor Fristablauf:** Erste Erinnerung; Klageentwurf bereit?
+- **3 Tage vor Fristablauf:** Zweite Erinnerung; Klage muss eingereicht werden
+- **1 Tag vor Fristablauf:** Letzte Kontrolle; beA-Einreichung rechtzeitig
+
+### Fristenverlängerung
+- Berufungsbegründungsfrist (§ 66 Abs. 1 Satz 5 ArbGG): auf Antrag verlängerbar
+- Revisionsbegründungsfrist: auf Antrag verlängerbar
+
+## Fristenblatt-Vorlage
+
+```
+FRISTENBLATT — [Mandant], Anlage [Datum]
+
+Mandat: [Kurzbeschreibung]
+Anwalt/-in: [Name]
+
+LAUFENDE FRISTEN:
+1. Klagefrist § 4 KSchG: [Datum] ← KRITISCH
+   Zugangsdatum Kündigung: [Datum]
+   
+2. [Weitere Frist]: [Datum]
+   [Erläuterung]
+
+ABGELAUFENE FRISTEN:
+- [Datum]: [Frist] — Folge: [...]
+
+NÄCHSTE WIEDERVORLAGE: [Datum]
+
+ERLEDIGT:
+- [Datum]: Klageschrift eingereicht ✓
+```
+
+## Anschluss-Skills
+- `spezial-unwirksam-fristennotiz-und-naechster-schritt` für sofortigen Handlungsschritt
+- `spezial-datum-formular-portal-und-einreichung` für Einreichungsdetails
+- `workflow-kaltstart-und-routing` für Ersteinordnung
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Kein automatischer Fristenkalender; menschliche Kontrolle bleibt zwingend.
+- Keine Garantie für Vollständigkeit bei außergewöhnlichen Konstellationen.

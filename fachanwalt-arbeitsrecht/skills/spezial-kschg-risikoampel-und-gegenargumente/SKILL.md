@@ -1,48 +1,121 @@
 ---
 name: spezial-kschg-risikoampel-und-gegenargumente
-description: "Kschg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff."
 ---
 
-# Kschg: Risikoampel, Gegenargumente und Verteidigungslinien
+# Spezial: KSchG Risikoampel und Gegenargumente
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Kschg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Kschg.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Schnelle und strukturierte Risikobewertung einer Kündigung nach dem KSchG — als Ampel (Grün/Gelb/Rot) für die anwaltliche Erstberatung. Für jeden Prüfpunkt werden auch die typischen Gegenargumente der anderen Seite gezeigt.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Art der Kündigung:** Betriebsbedingt, personenbedingt oder verhaltensbedingt?
+2. **Formelle Vollständigkeit:** Schriftform, Zugang, BR-Anhörung, Sonderkündigungsschutz?
+3. **Beweislage:** Welche Dokumentation hat der Arbeitgeber? Was bestreitet der Arbeitnehmer?
+4. **Fristen:** Ist die 3-Wochen-Frist § 4 KSchG noch offen?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kschg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Risikoampel — Formelle Voraussetzungen
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Schriftform § 623 BGB
+| Befund | Ampel | Gegenargument Gegenseite |
+|---|---|---|
+| Originale Unterschrift vorhanden | Grün | — |
+| Faksimile-Stempel / Kopie | Rot | Kündigung nichtig § 125 BGB; kein Fristlauf |
+| E-Mail / WhatsApp / Fax | Rot | Wie Faksimile |
+| Fehlende Vollmacht (§ 174 BGB) | Rot (wenn sofort gerügt) | Zurückweisungsrecht unverzüglich |
+
+### BR-Anhörung § 102 BetrVG
+| Befund | Ampel | Möglicher Angriff |
+|---|---|---|
+| BR angehört, vollständige Gründe | Grün | — |
+| BR nicht angehört | Rot | Unwirksamkeit unabhängig vom materiellen Grund |
+| Anhörung unvollständig (Sozialdaten fehlen) | Gelb-Rot | Unwirksamkeit; AG muss vollständig darlegen |
+| BR hat Einwände erhoben | Gelb | Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG |
+| Kein BR vorhanden | Grün (für AG) | AN-Angriff nicht möglich |
+
+### Massenentlassung § 17 KSchG
+| Befund | Ampel | Risiko |
+|---|---|---|
+| Schwellenwert nicht erreicht | Grün | — |
+| Anzeige korrekt nach BR-Konsultation | Grün | — |
+| Anzeige vor Abschluss BR-Konsultation | Rot | BAG 6 AZR 152/22: alle Kündigungen unwirksam |
+| Anzeige fehlt | Rot | Unwirksamkeit |
+| Anzeige nach Kündigungsausspruch | Rot | EuGH C-134/24: keine Heilung |
+
+## Risikoampel — Betriebsbedingte Kündigung
+
+### Unternehmerische Entscheidung
+| Befund | Ampel | Gegenargument |
+|---|---|---|
+| Nachvollziehbare Organisationsentscheidung dokumentiert | Grün | AN: Entscheidung nur vorgeschoben |
+| Keine Dokumentation | Gelb | AN: konkrete Maßnahme nicht bewiesen |
+| Arbeitsplatz besteht faktisch weiter | Rot | AN: kein dringendes Erfordernis |
+
+### Sozialauswahl § 1 Abs. 3 KSchG
+| Befund | Ampel | Angriffspunkt |
+|---|---|---|
+| Vergleichsgruppe korrekt bestimmt; Sozialpunkte berechnet | Grün | AN: andere Arbeitnehmer vergleichbar |
+| Keine Dokumentation der Auswahl | Gelb-Rot | AN: Auswahl sozialwidrig; AG muss offenlegen |
+| Leistungsträger herausgenommen (§ 1 Abs. 3 Satz 2 KSchG) | Gelb | Herausnahme muss begründet sein |
+
+### Weiterbeschäftigungsmöglichkeit
+| Befund | Ampel | Angriffspunkt |
+|---|---|---|
+| Kein freier Arbeitsplatz im Betrieb/Unternehmen | Grün | AN: anderer Arbeitsplatz bekannt |
+| Freier Arbeitsplatz bekannt, aber nicht angeboten | Rot | Kündigung sozialwidrig |
+
+## Risikoampel — Personenbedingte Kündigung
+
+### Langzeiterkrankung (BAG-Dreistufentest)
+| Prüfstufe | Ampel-Bewertung |
+|---|---|
+| Negative Gesundheitsprognose (Stufe 1) | Grün wenn: medizinisches Gutachten; keine positive Prognose erkennbar |
+| Erhebliche betriebliche Beeinträchtigung (Stufe 2) | Gelb wenn: Beeinträchtigung vorhanden, aber nicht dokumentiert |
+| Interessenabwägung (Stufe 3) | Gelb wenn: lange Betriebszugehörigkeit; Schwerbehinderung |
+
+### Eignungsmangel / fehlende Qualifikation
+- Grün: Qualifikationsanforderung klar definiert; AN erfüllt sie nachweislich nicht; kein anderer Arbeitsplatz möglich
+- Rot: Qualifikationsanforderung nachträglich erhöht; BEM-Verfahren nicht durchgeführt (→ Skill fachanwalt-arbeitsrecht-bem-verfahren)
+
+## Risikoampel — Verhaltensbedingte Kündigung
+
+### Abmahnung
+| Befund | Ampel | Gegenargument |
+|---|---|---|
+| Vorangehende Abmahnung für gleiches Fehlverhalten | Grün | AN: Abmahnung inhaltlich unrichtig; Anfechtung |
+| Keine Abmahnung bei nicht schwerem Verstoß | Rot | Kündigung unverhältnismäßig |
+| Außerordentliche Kündigung ohne Abmahnung | Gelb | Zulässig bei schwerem Vertrauensbruch; Prüfung im Einzelfall |
+
+### Beweislage
+| Befund | Ampel | Angriffspunkt |
+|---|---|---|
+| Pflichtverletzung durch Zeugen/Urkunden belegt | Grün | AN: Beweis bestreitbar |
+| Nur AG-seitige Behauptung | Gelb | AN: Beweislast beim AG |
+| Verdachtskündigung ohne Anhörung des AN | Rot | BAG: Anhörung des AN vor Verdachtskündigung zwingend |
+
+## Gesamtbild und Handlungsempfehlung
+
+| Gesamtlage | Empfehlung |
+|---|---|
+| 2+ Rot-Punkte | Klage einlegen; Verhandlungsposition sehr stark |
+| Mehrere Gelb | Klage einlegen; Vergleich anstreben mit guter Abfindung |
+| Überwiegend Grün | Vergleich prüfen; Klagechancen begrenzt; Kosten-Nutzen abwägen |
+| Rot bei Frist | Sofort Klage einlegen; materiell-rechtliche Prüfung kann parallel laufen |
+
+## Anschluss-Skills
+- `ar-kuendigungspruefung-workflow` für Schritt-für-Schritt-Prüfung
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift
+- `ar-abfindungs-rechner-modular` für Abfindungsberechnung
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- BAG-Entscheidungen via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de); [dejure.org](https://dejure.org).
+- Keine modellwissensbasierten Aussagen ohne Normgrundlage oder verifizierten Quellenbeleg.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine abschließende Kündigungsschutzprüfung ohne vollständige Dokumentenvorlage.
+- Keine garantierte Prognose zum Prozessausgang.

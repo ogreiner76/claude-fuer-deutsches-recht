@@ -1,48 +1,99 @@
 ---
 name: spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen
-description: "Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie."
 ---
 
-# Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix
+# Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Vergleichspraxis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Vergleichspraxis.
-- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Strategische Begleitung bei Vergleichen mit mehreren Beteiligten oder komplexen Interessenlagen — insbesondere bei Restrukturierungen, Sozialplan-Verhandlungen und kollektivrechtlichen Einigungen mit individualrechtlichen Folgen.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine Mehrparteien- oder komplexe Vergleichskonstellation vorliegt, zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Wer sind die Beteiligten?** AG, AN(e), BR, Gewerkschaft, Insolvenzverwalter?
+2. **Einzel- oder Massenfall?** Einzelkündigung oder Betriebsänderung mit vielen betroffenen AN?
+3. **Kollektiv- und Individualrechts-Schnittmenge:** Sozialplan, Interessenausgleich und individuelle Vergleiche gleichzeitig?
+4. **Welche Fristen laufen?** Klagefrist, Konsultationsfrist BR, Sperrzeit § 17 KSchG?
+5. **Was ist der Verhandlungsrahmen?** Gibt es bereits einen Sozialplan?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vergleichspraxis** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Individualvergleich im Gütermin
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Standardsituation
+Im Gütermin schließen AG und AN einen Vergleich. Inhalt:
+- Beendigungsdatum
+- Abfindungshöhe und -fälligkeit
+- Zeugnisnote und -inhalt
+- Freistellungszeitraum
+- Ausgleichsklausel
+
+### Vergleichsformel (Individualvergleich — Standard)
+> „Die Parteien sind sich einig, dass das zwischen ihnen bestehende Arbeitsverhältnis durch ordentliche arbeitgeberseitige Kündigung vom [Datum] mit Ablauf des [Beendigungsdatum] sein Ende gefunden hat. Die Beklagte zahlt dem Kläger zur Abgeltung aller gegenseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung eine Abfindung gemäß §§ 9, 10 KSchG in Höhe von [Betrag] brutto, fällig zum [Datum]. Die Beklagte verpflichtet sich, dem Kläger ein qualifiziertes Zeugnis mit der Bewertung [gut / sehr gut] auszustellen. Die Klage wird zurückgenommen. Die Kosten des Verfahrens trägt jede Partei selbst."
+
+## Dreiparteien-Konstellation: AG, AN, Betriebsrat
+
+### Wann entsteht eine Dreiparteien-Konstellation?
+- BR-Mitglied soll entlassen werden: § 103 BetrVG (Zustimmung des BR erforderlich); ggf. Beschlussverfahren zur Zustimmungsersetzung
+- Massenentlassung: BR muss nach §§ 111, 17 KSchG konsultiert werden; gleichzeitig individuelle Kündigungen
+- BR-Einwand nach § 102 Abs. 3 BetrVG: Weiterbeschäftigungsanspruch des AN
+
+### Verhandlungsstrategie bei BR-Einwand
+1. BR-Einwand nach § 102 Abs. 3 Nr. 3 BetrVG (Weiterbeschäftigung auf anderem Arbeitsplatz) schriftlich
+2. AN-Seite: Weiterbeschäftigungsklage (§ 102 Abs. 5 BetrVG) parallel zur KSchG-Klage möglich
+3. Verhandlung: AG, AN und BR können gemeinsam eine Lösung aushandeln (Versetzung, Abfindung, Änderungskündigung)
+4. Tripartite Einigung: AG zahlt Abfindung; BR zieht Einwand zurück; AN nimmt Klage zurück
+
+## Sozialplan und Interessenausgleich (§§ 111, 112 BetrVG)
+
+### Voraussetzungen § 111 BetrVG
+Bei Betriebsänderung (ab bestimmten Schwellen: Entlassung von ≥ 5 % der AN oder mindestens 25 AN in 30 Tagen u.a.) muss AG den BR rechtzeitig unterrichten und mit ihm über Interessenausgleich und Sozialplan verhandeln.
+
+### Interessenausgleich vs. Sozialplan
+
+| Aspekt | Interessenausgleich | Sozialplan |
+|---|---|---|
+| Inhalt | Ob, wann, wie die Betriebsänderung durchgeführt wird | Ausgleich oder Milderung der wirtschaftlichen Nachteile |
+| Erzwingbar? | Nein (nicht erzwingbar; Einigungsstelle kann nur empfehlen) | Ja (Einigungsstelle kann erzwingen, § 112 Abs. 4 BetrVG) |
+| Namensliste | Möglich: § 1 Abs. 5 KSchG — Abschlussmöglichkeit | — |
+
+### Namensliste § 1 Abs. 5 KSchG
+In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich aufgeführt werden. Rechtsfolge: Es wird vermutet, dass die Kündigung dringlich betrieblich bedingt und die Sozialauswahl korrekt ist. Nur grobe Fehler führen zur Unwirksamkeit.
+
+**Wichtig:** Die Namensliste im Interessenausgleich entfaltet keine absolute Unwiderleglichkeit; AN kann grobe Fehler bei der Sozialauswahl oder bei der Betriebsänderung selbst rügen.
+
+## Verhandlungsstrategie im Restrukturierungsfall
+
+### Für den Arbeitgeber
+1. Interessenausgleich mit BR verhandeln; Namensliste als Risikominderungsinstrument
+2. Sozialplan mit attraktiven Abfindungsformeln verhandeln (Anreiz für Akzeptanz)
+3. Klagefristenmanagement: Alle Kündigungen gleichzeitig aussprechen; § 17 KSchG beachten
+4. Angebot von Abfindungsprogrammen (freiwillig vor Kündigung) zur Reduzierung der Klagewelle
+
+### Für den Arbeitnehmer
+1. Sozialplanprämi als Mindestanspruch prüfen; darüber hinaus individuelle Verhandlung
+2. Klagefrist wahren; Klage als Verhandlungspfand nutzen
+3. Namensliste bestreiten wenn Sozialauswahlbegründung grob fehlerhaft
+4. Abfindung aus Sozialplan und individueller Verhandlung kombinieren möglich?
+
+## Komplexe Interessen — Matrix
+
+| Partei | Interesse | Verhandlungshebelwerk |
+|---|---|---|
+| Arbeitgeber | Schnelle Abwicklung, Planungssicherheit, geringe Kosten | Schnelles Verfahrensende; Abfindung als Gesamtpaket |
+| Arbeitnehmer | Maximale Abfindung, gutes Zeugnis, Sperrzeit-Vermeidung | Klagefrist als Verhandlungsdruck; BR-Einwand als Zusatzhebel |
+| Betriebsrat | Schutz der Belegschaft, guter Sozialplan, Weiterbeschäftigung | Verweigerung Zustimmung § 99/103 BetrVG; Einigungsstelle |
+| Gewerkschaft | Tariflicher Rahmen, Mitgliederbindung | Tarifsozialplan; Streikrecht im Kollektivstreit |
+
+## Anschluss-Skills
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Tiefenprüfung
+- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für BR-Rechte
+- `vergleichsverhandlung-strategie` für Verhandlungstaktik im Gütermin
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen; keine erfundenen Sozialplan-Formeln.
+
+## Was dieser Skill nicht macht
+- Keine automatische Sozialplanberechnung ohne konkrete Belegschaftsdaten.
+- Keine Verhandlungsführung; Strategie-Entscheidung bleibt beim Anwalt.

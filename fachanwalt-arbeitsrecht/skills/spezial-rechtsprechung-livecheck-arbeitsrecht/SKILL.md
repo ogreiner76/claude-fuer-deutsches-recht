@@ -1,39 +1,117 @@
 ---
 name: spezial-rechtsprechung-livecheck-arbeitsrecht
-description: "Livecheck verifizierter Arbeitsrechtsprechung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll für BAG-, LAG- und EuGH-Zitate, Verifizierungswege über bundesarbeitsgericht.de, openjur.de, dejure.org, curia.europa.eu, Umgang mit nicht verifizierbaren Quellen."
 ---
 
-# Livecheck verifizierter Arbeitsrechtsprechung
+# Spezial: Rechtsprechung Live-Check Arbeitsrecht
 
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-arbeitsrecht`. Kontext des Plugins: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+## Zweck
+Strukturierter Prüfworkflow für die Verifikation arbeitsrechtlicher Rechtsprechungszitate — bevor sie in Schriftsätze, Memos oder Beratungshinweise einfließen. Dieser Skill verhindert Scheinzitate und stärkt die anwaltliche Glaubwürdigkeit.
 
 ## Kaltstart
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+Wenn Urteile zitiert werden sollen oder bereits zitierte Urteile zu prüfen sind:
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+1. **Welche Urteile sind zu prüfen?** Liste der Aktenzeichen mit Datum
+2. **Welche Quelle ist bisher angegeben?** BeckRS, juris, Modellwissen, URL?
+3. **Ist das Urteil öffentlich zugänglich?** Via BAG-Website, openjur.de, dejure.org?
+4. **Wird nur der Tenorierungssatz gebraucht oder der vollständige Begründungstext?**
 
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Livecheck verifizierter Arbeitsrechtsprechung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+## Prüfprotokoll: BAG-Entscheidungen
 
-## Output-Standard
-- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
-- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
-- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
-- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
+### Schritt 1: BAG-Website
+Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de)
+- Rubrik „Entscheidungen" → Suche nach Datum oder Aktenzeichen
+- Volltext in PDF verfügbar (nicht für alle Entscheidungen; ältere oft nur Kurzform)
+- Pressemitteilungen für aktuelle Leitsätze
+
+### Schritt 2: Dejure.org
+[dejure.org](https://dejure.org) vernetzt BAG-Aktenzeichen mit dem Gesetzestext und zeigt zitierende und zitierte Entscheidungen.
+- Gut für Normverknüpfung und Überblick
+- Nicht für vollständige Urteilstexte; verlinkt zum BAG oder openjur.de
+
+### Schritt 3: OpenJur
+[openjur.de](https://openjur.de) enthält Volltext-Entscheidungen von BAG, LAG und ArbG (soweit veröffentlicht).
+- Kostenlos; gute Volltextsuche
+- Nicht alle Entscheidungen vorhanden; Abdeckung variiert
+
+### Schritt 4: Wenn Quelle nicht öffentlich
+- Entscheidung als „zu prüfen" kennzeichnen
+- Keine Zitierung ohne Verifikation in Schriftsätzen
+- Im Memo: explizit vermerken „Quelle: [Angabe]; nicht frei zugänglich — vor Verwendung in Schriftsatz verifizieren"
+
+## Prüfprotokoll: EuGH-Entscheidungen
+
+**Primärquelle:** [curia.europa.eu](https://curia.europa.eu)
+- Volltextsuche nach Rechtssache-Nummer (z.B. C-134/24) oder Suchbegriff
+- Alle Entscheidungen in allen EU-Amtssprachen kostenlos verfügbar
+
+**Alternativ:** [eur-lex.europa.eu](https://eur-lex.europa.eu) für Verlinkung mit Richtlinien und Verordnungen.
+
+## Prüfprotokoll: BVerfG-Entscheidungen
+
+**Primärquelle:** [bverfg.de](https://www.bverfg.de)
+- Volltext-Entscheidungen kostenlos; Pressemitteilungen für aktuelle Entscheidungen
+- Suche nach Aktenzeichen (z.B. 1 BvR 123/24) oder Datum
+
+## Prüfprotokoll: LAG-Entscheidungen
+
+- [openjur.de](https://openjur.de): Hauptquelle für LAG-Volltext
+- Landesjustizportale (z.B. NRW: nrwe.de; Bayern: gesetze-bayern.de)
+- Direkte LAG-Website (manche LAG veröffentlichen eigene Entscheidungsdatenbanken)
+
+## Typische Fehlerquellen und Risiken
+
+| Fehler | Risiko | Vermeidung |
+|---|---|---|
+| BAG-Aktenzeichen aus KI-Output | Aktenzeichen existiert nicht oder passt nicht | Stets über bundesarbeitsgericht.de verifizieren |
+| Falsche Zuordnung Senat/Datum | Zitat passt nicht zum Streitpunkt | Volltext lesen, nicht nur Leitsatz |
+| Veraltete Rechtsprechung | Urteil durch neueres überholt | Dejure.org: „nachfolgende Entscheidungen" prüfen |
+| BeckRS als einzige Fundstelle | Nicht öffentlich zugänglich; nicht frei prüfbar | Nur BeckRS-Nummer verwenden wenn BAG-URL als Primärquelle angegeben |
+| Falsche Randnummer | Urteil wird mit falscher Randnummer zitiert | Volltext lesen und Rn. prüfen |
+
+## Live-Check-Workflow (Kurzfassung)
+
+```
+1. Aktenzeichen und Datum notieren
+2. Suche auf bundesarbeitsgericht.de (BAG) / curia.europa.eu (EuGH)
+3. Entscheidung gefunden? → URL notieren; Kernsatz aus Volltext entnehmen
+4. Nicht gefunden? → openjur.de versuchen
+5. Immer noch nicht gefunden? → Als "nicht verifiziert" markieren
+6. Nie aus Modellwissen zitieren ohne Verifikation
+```
+
+## Muster-Quellenangabe für Schriftsatz
+> „BAG, Urteil vom 01.04.2026, Az. 6 AZR 152/22, Rn. [X], abrufbar unter: [URL auf bundesarbeitsgericht.de]"
+
+> „EuGH, Urteil vom 30.10.2025, Rs. C-134/24, ECLI:EU:C:2025:[XXX], abrufbar unter: [URL auf curia.europa.eu]"
+
+## Aktuelle Leitentscheidungen (Stand Mai 2026) — Kurze Referenzliste
+
+| Entscheidung | Kernsatz | Primärquelle |
+|---|---|---|
+| BAG 6 AZR 152/22 (01.04.2026) | Massenentlassung: Anzeige vor BR-Konsultationsabschluss → Unwirksamkeit | bundesarbeitsgericht.de |
+| EuGH C-134/24 (30.10.2025) | Massenentlassungsanzeige als Wirksamkeitsvoraussetzung | curia.europa.eu |
+| BAG 5 AZR 108/25 (25.03.2026) | Pauschale Freistellungsklausel § 307 BGB unwirksam | bundesarbeitsgericht.de |
+| BAG 9 AZR 104/24 (03.06.2025) | Kein Urlaubsverzicht durch Prozessvergleich | bundesarbeitsgericht.de |
+| BAG 8 AZR 300/24 (23.10.2025) | Paarvergleich genügt für AGG-Vermutung | bundesarbeitsgericht.de |
+| BAG 7 AZR 50/24 (18.06.2025) | § 14 Abs. 2 TzBfG gilt für BR-Mitglieder | bundesarbeitsgericht.de |
+
+**Wichtig:** Alle Aktenzeichen in dieser Liste müssen vor Verwendung in Schriftsätzen live auf bundesarbeitsgericht.de verifiziert werden. Die obige Liste dient als Orientierung, nicht als zitierfähige Quelle.
+
+## Anschluss-Skills
+- `spezial-quelle-beweislast-und-darlegungslast` für Quellenregeln
+- `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Schriftsatzprüfung
+- `workflow-rechtsquellen-livecheck` für Live-Prüfung von Normen
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+- BAG: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de)
+- EuGH: [curia.europa.eu](https://curia.europa.eu)
+- BVerfG: [bverfg.de](https://www.bverfg.de)
+- LAG/ArbG: [openjur.de](https://openjur.de)
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de)
+- Vernetzung: [dejure.org](https://dejure.org)
+- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
+
+## Was dieser Skill nicht macht
+- Keine automatische Live-Prüfung von Rechtsprechungsdatenbanken; Prüfung erfolgt durch den Anwalt.
+- Keine Verfügbarkeitsgarantie für ältere oder unveröffentlichte Entscheidungen.

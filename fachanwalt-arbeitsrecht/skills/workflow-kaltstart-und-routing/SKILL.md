@@ -1,46 +1,129 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Kaltstart und Routing im Plugin fachanwalt-arbeitsrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills."
+description: "Kaltstart und Routing im Plugin fachanwalt-arbeitsrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko, laufende Fristen und Anschluss-Skills. Risikoampel, Fristensicherung, sofortiger Handlungsschritt."
 ---
 
-# Kaltstart und Routing
+# Kaltstart und Routing — fachanwalt-arbeitsrecht
 
-## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-arbeitsrecht` Kaltstart und Routing im Plugin fachanwalt-arbeitsrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
+Eingangsworkflow für das Plugin `fachanwalt-arbeitsrecht`. Aus dem ersten Satz, dem ersten Dokument oder der ersten Frage wird innerhalb von Sekunden das Mandat klassifiziert, die kritischen Fristen gesichert und der passende Spezial-Skill aktiviert.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Kaltstart — Fünf Weichen
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Wenn Material vorliegt, zuerst damit arbeiten. Keine überflüssigen Rückfragen — nur was für die nächste Weiche entscheidend ist:
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+1. **Rolle:** Wer fragt? Arbeitnehmer (AN), Arbeitgeber (AG), Betriebsrat (BR), Kanzlei, Unternehmen?
+2. **Kernereignis:** Was ist das auslösende Ereignis? Kündigung, Befristungsende, Diskriminierung, Vergütungsstreit, Betriebsänderung, Betriebsübergang?
+3. **Fristen:** Gibt es eine laufende 3-Wochen-Frist (§ 4 KSchG, § 17 TzBfG) oder AGG-Frist (§ 15 Abs. 4 AGG)? Zugangsdatum sichern.
+4. **Unterlagen:** Liegt ein Dokument vor (Kündigung, Vertrag, Abmahnung, Bescheid)? Wenn ja, direkt auswerten.
+5. **Ziel:** Was will der Mandant erreichen? Bestandsschutz, Abfindung, Schadensersatz, Compliance, Information?
 
-## Routing-Heuristik Arbeitsrecht
-- Kündigung erhalten → Drei-Wochen-Frist § 4 KSchG zwingend; Kündigungsschutzklage zum ArbG.
-- AGB-/Vertragsklauseln → §§ 305 ff. BGB, Inhaltskontrolle nach § 307 BGB; Sonderprüfung Ausschlussfristen, Versetzungsklauseln, Bonusregelungen.
-- Betriebsrats-Konflikt → BetrVG; Beschlussverfahren §§ 80 ff. ArbGG vor ArbG.
-- Tarif → § 4 TVG (Geltung), § 5 TVG (Allgemeinverbindlich); Tarifkollision § 4a TVG.
-- AGG-Diskriminierung → Beweislastumkehr § 22 AGG; Indizvortrag genügt.
-- Entgeltgleichheit → EntgTranspG, EU-Lohntransparenz-RL (RL 2023/970, Umsetzung bis 2026).
+## Sofort-Ampel (erste 60 Sekunden)
 
-## Praxis-Hinweis
-- Arbeitsgerichtsbarkeit: in erster Instanz kein Anwaltszwang (§ 11 ArbGG), aber dringend empfohlen wegen Schriftsatzform und Beweisrecht.
+### Grün — Zeit vorhanden, keine akute Frist
+- Kündigung noch nicht ausgesprochen; Vertragsgestaltung; allgemeine Beratung; Betriebsratsthemen ohne akute Frist
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+### Gelb — Frist läuft, aber Zeit für gründliche Prüfung
+- Kündigung eingegangen, mehr als 14 Tage bis Fristablauf
+- Befristungsende in mehr als 14 Tagen
+
+### Rot — sofortiger Handlungsbedarf
+- Kündigung eingegangen, weniger als 7 Tage bis Fristablauf
+- AGG-Frist läuft aus
+- Vollmachtsrüge nötig (§ 174 BGB: unverzüglich)
+- Bereits abgelaufene Frist → § 5 KSchG-Antrag prüfen
+
+## Routing-Matrix
+
+### AN erhält Kündigung
+```
+→ fazugang-neu-008 (Schriftformprüfung: Original? E-Mail? Faks.?)
+→ fazugang-neu-00X (Zugangsfragen je nach Zustellungsart)
+→ ar-kuendigungspruefung-workflow (Vollständige Prüfung)
+→ spezial-kschg-risikoampel-und-gegenargumente (Risikoampel)
+→ fachanwalt-arbeitsrecht-kuendigungsschutzklage (Klageschrift)
+```
+
+### AN erhält Kündigung — Formfehler erkannt
+```
+→ spezial-unwirksam-fristennotiz-und-naechster-schritt
+→ workflow-fristen-und-risikoampel
+```
+
+### AG spricht Kündigung aus
+```
+→ ar-kuendigungspruefung-workflow (Prüfung vor Ausspruch)
+→ fachanwalt-arbeitsrecht-betriebsratsanhoerung (§ 102 BetrVG)
+→ fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organisieren
+→ fachanwalt-arbeitsrecht-massenentlassung-17-kschg (wenn viele Kündigungen)
+```
+
+### Befristungsende
+```
+→ fachanwalt-arbeitsrecht-befristung-tzbfg (Prüfung Befristungswirksamkeit)
+→ spezial-befristung-compliance-dokumentation-und-akte
+→ spezial-tzbfg-schriftsatz-brief-und-memo-bausteine (Klagebaustein)
+```
+
+### Abfindung verhandeln
+```
+→ ar-abfindungs-rechner-modular (Rechenlogik)
+→ ar-aufhebungsvertrag-praxis (Klauselprüfung, Sperrzeitgestaltung)
+→ fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg (Gütermin)
+```
+
+### Betriebsrat-Frage
+```
+→ spezial-betriebsrat-zahlen-schwellen-und-berechnung (Schwellenwerte)
+→ fachanwalt-arbeitsrecht-betriebsratsanhoerung (§ 102 BetrVG)
+→ spezial-betrvg-behoerden-gericht-und-registerweg (Verfahrenwege)
+```
+
+### Diskriminierung / Entgelt
+```
+→ spezial-entgtranspg-verhandlung-vergleich-und-eskalation (EntgTranspG, AGG)
+→ ar-leiharbeit-equal-pay-spezial (wenn Leiharbeit)
+```
+
+### Betriebsübergang
+```
+→ ar-betriebsuebergang-spezial (§ 613a BGB)
+```
+
+### Whistleblowing / Compliance
+```
+→ fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie
+```
+
+## Erstgesprächs-Schnellcheck (3 Fragen für sofortigen Einstieg)
+
+1. **Liegt eine Kündigung vor?** Datum und Art nennen.
+2. **Was ist das Ziel des Mandanten?** Klage? Abfindung? Beides offenhalten?
+3. **Gibt es besondere Umstände?** Betriebsrat, Schwangerschaft, Schwerbehinderung, Elternzeit?
+
+Mit diesen drei Antworten ist das Routing zu 90 % bestimmt.
+
+## Output-Optionen nach Kaltstart
+
+| Situation | Output |
+|---|---|
+| Frist droht in < 7 Tagen | Sofortiger Handlungsplan mit Fristdatum; Klageschrift-Baustein |
+| Vollständige Prüfung möglich | Prüfmatrix (Risikoampel, offene Punkte, Lückenliste) |
+| Verhandlungsvorbereitung | Abfindungsberechnung + Verhandlungsstrategie |
+| Mandantenmemo | Kurzes Memo: Was ist das Problem, was sind die Optionen, was empfehle ich |
+
+## Anschluss-Skills
+- `workflow-anschluss-skills-router` für detailliertes Routing
+- `spezial-fachanwalt-erstpruefung-und-mandatsziel` für Mandatsaufnahme
+- `workflow-fristen-und-risikoampel` für Fristenkontrolle
+- `workflow-dokumentenintake` für Dokumentenauswertung
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate.
+- Annahmen explizit markieren.
+
+## Was dieser Skill nicht macht
+- Keine Fachbearbeitung; nur Erstklassifikation und Routing.
+- Keine Mandantenentscheidung ohne ausdrückliche Beauftragung.

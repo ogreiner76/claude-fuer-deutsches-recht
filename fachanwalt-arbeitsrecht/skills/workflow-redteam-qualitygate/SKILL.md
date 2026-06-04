@@ -1,35 +1,124 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Red-Team Qualitygate im Plugin fachanwalt-arbeitsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton."
+description: "Red-Team Qualitätsgate: abschließende Qualitätskontrolle vor Ausgabe eines Schriftsatzes, Memos, Mandantenbriefs oder Vergleichs — Quellenverifikation, Gegenargument-Check, Fristencheck, Scheingenauigkeit-Scan, Mandatsziel-Abgleich."
 ---
 
-# Red-Team Qualitygate
+# Workflow: Red-Team Qualitätsgate
 
-## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-arbeitsrecht` Red-Team Qualitygate im Plugin fachanwalt-arbeitsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
+Abschließende Qualitätskontrolle, bevor ein Produkt (Schriftsatz, Memo, Brief, Vergleich) den Skill verlässt. Dieser Workflow findet Fehler, Lücken und Scheingenauigkeiten — bevor der Gegner oder das Gericht sie findet.
 
 ## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Wenn ein Dokument zur Qualitätskontrolle vorliegt:
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. **Was ist das Dokument?** Schriftsatz (Klage, Schriftsatz, Berufung), Memo, Mandantenbrief, Vergleich?
+2. **Für wen?** Gericht, Mandant, Gegenseite, Akte?
+3. **Was ist das Ziel des Dokuments?** Klage einlegen, informieren, Vergleich schließen, Qualitätsnachweis?
+4. **Was sind die 3 stärksten Angriffspunkte der Gegenseite?**
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Gate 1: Quellenverifikation
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+**Prüfaufgabe:** Sind alle Normen und Urteile korrekt zitiert und frei prüfbar?
+
+Checkliste:
+- [ ] Alle Paragrafenzitate mit Norm und Fassung korrekt?
+- [ ] Alle Aktenzeichen auf bundesarbeitsgericht.de oder openjur.de verifiziert?
+- [ ] Kein BeckRS als alleinige Fundstelle?
+- [ ] Keine KI-generierten Aktenzeichen ohne verifizierten Link?
+- [ ] EuGH-Zitate auf curia.europa.eu geprüft?
+- [ ] Normtexte aktuell? (Letzte Änderung bekannt?)
+
+**Fehler-Kategorie:** Rot — kein Dokument mit unverifizierten Quellen ausgeben.
+
+## Gate 2: Scheingenauigkeit-Scan
+
+**Prüfaufgabe:** Gibt es Aussagen, die präzise klingen, aber ohne Grundlage sind?
+
+Typische Scheingenauigkeiten:
+- Pauschale Angaben zu BA-Praxis oder Sperrzeiten ohne BA-Quellennachweis
+- BAG-Entscheidungen aus Modellwissen ohne Verifikation
+- Kostenangaben ohne RVG-Normprüfung
+- Formulierungen wie „nach ständiger BAG-Rechtsprechung" ohne konkrete Fundstelle
+
+**Fehler-Kategorie:** Gelb bis Rot — je nach Tragweite der Aussage.
+
+## Gate 3: Beweislast-Check
+
+**Prüfaufgabe:** Sind alle Behauptungen durch Beweismittel unterlegt oder als Beweisangebote formuliert?
+
+Checkliste:
+- [ ] Zugangsdatum der Kündigung belegt?
+- [ ] BR-Anhörung: Nachweis vorhanden oder Beweisangebot formuliert?
+- [ ] Sozialauswahl: Rüge formuliert; Aufklärungsantrag angeboten?
+- [ ] Sachverhalt-Angaben durch Urkunden oder Zeugen belegt?
+
+**Fehler-Kategorie:** Gelb — fehlende Beweisangebote schwächen den Schriftsatz.
+
+## Gate 4: Fristencheck
+
+**Prüfaufgabe:** Sind alle laufenden Fristen im Dokument korrekt berücksichtigt?
+
+Checkliste:
+- [ ] Klagefrist § 4 KSchG korrekt berechnet und erwähnt?
+- [ ] Berufungsfrist § 66 ArbGG wenn relevant?
+- [ ] AGG-Frist § 15 Abs. 4 AGG wenn relevant?
+- [ ] Ausschlussfristen im Vertrag oder TV beachtet?
+
+**Fehler-Kategorie:** Rot — Fristfehler können irreversibel sein.
+
+## Gate 5: Gegenargument-Simulation
+
+**Prüfaufgabe:** Was wird die Gegenseite angreifen?
+
+Strukturiertes Red-Team:
+1. Was ist das schwächste Argument im Dokument?
+2. Welche Tatsachenbehauptung ist am leichtesten zu bestreiten?
+3. Gibt es eine alternative rechtliche Einordnung, die für die Gegenseite günstiger ist?
+4. Gibt es eine prozessuale Falle (Fristversäumnis, fehlendes Beweisangebot, falsche Anträge)?
+
+**Output nach Gate 5:**
+> „Die 2 schwächsten Punkte sind: (1) [Punkt] — Gegner wird [Angriff] vorbringen. Reaktion: [Vorab-Antwort im Schriftsatz]. (2) [Punkt] — [gleich]."
+
+## Gate 6: Mandatsziel-Abgleich
+
+**Prüfaufgabe:** Dient das Dokument tatsächlich dem Mandatsziel?
+
+Checkliste:
+- [ ] Ist das Mandatsziel (Bestandsschutz / Abfindung / Schadensersatz) klar erkennbar im Dokument?
+- [ ] Widerspricht das Dokument einem früheren Schriftsatz oder einer Aussage des Mandanten?
+- [ ] Enthält das Dokument Aussagen, die das Mandatsziel gefährden?
+
+## Gate 7: Formelle Vollständigkeit
+
+**Prüfaufgabe:** Ist das Dokument vollständig und einreichungsfertig?
+
+Checkliste:
+- [ ] Gericht, Aktenzeichen, Parteienbezeichnung korrekt?
+- [ ] Unterschrift des Anwalts (bei Schriftsatz)?
+- [ ] Anlagen nummeriert und beigefügt?
+- [ ] beA-Einreichung vorbereitet? qeS oder einfache Signatur aus eigenem beA?
+
+## Gesamt-Ampel nach Allen Gates
+
+| Gates bestanden | Gesamtampel | Freigabe |
+|---|---|---|
+| Alle 7 | Grün | Dokument kann ausgegeben werden |
+| 6 von 7, kein Rot | Gelb | Mit Kommentar zu offenem Punkt ausgeben |
+| 1 Rot | Rot | Nicht ausgeben; erst korrigieren |
+| Mehrere Rot | Rot | Vollständige Überarbeitung erforderlich |
+
+## Anschluss-Skills
+- `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Aktenzeichen-spezifisches Red-Team
+- `workflow-rechtsquellen-livecheck` für Quellenverifikation
+- `spezial-quelle-beweislast-und-darlegungslast` für Quellenregeln
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- BAG: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- EuGH: [curia.europa.eu](https://curia.europa.eu).
+- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für vollständige anwaltliche Prüfung.
+- Keine Garantie für Fehlerfreiheit; menschliche Kontrolle bleibt zwingend.

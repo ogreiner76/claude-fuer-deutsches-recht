@@ -1,63 +1,100 @@
 ---
 name: ar-aufhebungsvertrag-praxis
-description: "Aufhebungsvertrag in der Praxis: Sperrzeit beim ALG I, steuerliche Behandlung (Fuenftelregelung § 34 EStG), Verzicht auf Kuendigungsschutzklage, Klauselrisiken. Pruefraster fuer Verhandlung und Mandantenleitfaden."
+description: "Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden."
 ---
 
-# Arbeitsrecht: Aufhebungsvertrag
+# AR: Aufhebungsvertrag in der Praxis
 
-## Aufgabe
-Aufhebungsvertrag in der Praxis: Sperrzeit beim ALG I, steuerliche Behandlung (Fuenftelregelung § 34 EStG), Verzicht auf Kuendigungsschutzklage, Klauselrisiken.
-
-
-## Fachlicher Arbeitskern
-
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-arbeitsrecht` zum Thema `ar-aufhebungsvertrag-praxis`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Aufhebungsvertrag in der Praxis: Sperrzeit beim ALG I, steuerliche Behandlung (Fuenftelregelung § 34 EStG), Verzicht auf Kuendigungsschutzklage, Klauselrisiken. Pruefraster fuer Verhandlung und Mandantenleitfaden..
-
-Arbeite deshalb fallnah:
-
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
-
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+## Zweck
+Vollständige anwaltliche Begleitung beim Aufhebungsvertrag — von der Erstprüfung über die Verhandlung bis zur Unterzeichnung. Kritische Weichen: Sperrzeitrisiko, Klageverzichtswert, AGB-Kontrolle der Klauseln und steuerliche Gestaltung.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Wenn Vertragsentwurf vorliegt, diesen zuerst auswerten. Minimalfragen für die erste Weiche:
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+1. **Initiative:** Wer hat die Beendigung vorgeschlagen — Arbeitgeber oder Arbeitnehmer? (Sperrzeitrelevanz)
+2. **Wirtschaftliche Eckdaten:** Brutto-Monatslohn, Beschäftigungsdauer, Alter, Unterhaltspflichten, voraussichtliche Bezugsdauer ALG I.
+3. **Abfindungsbetrag und -fälligkeit:** Liegt ein konkretes Angebot vor? Entspricht es der Faustformel oder weicht es ab?
+4. **Kündigungsrisiko:** Hätte eine Kündigung Bestand gehabt? Welche Angriffspunkte (BR-Anhörung, Sozialauswahl, Massenentlassung) gibt es?
+5. **Klauselinhalt:** Welche Klauseln enthält der Entwurf (Ausgleichsklausel, Zeugnisnote, Wettbewerbsverbot, Geheimhaltung, Freistellung)?
 
-## Pruefraster
+## Rechtliche Grundstruktur
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### Vertragscharakter
+Der Aufhebungsvertrag ist ein privatrechtlicher Auflösungsvertrag nach §§ 311, 241 BGB; er bedarf der Schriftform analog § 623 BGB (str., aber h.M. und risikoarme Praxis). Formfehler → Nichtigkeit nach § 125 BGB.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### AGB-Kontrolle §§ 305–310 BGB
+Arbeitgeberformulare unterliegen der Inhaltskontrolle nach § 307 BGB. Typische unwirksame Klauseln:
+- Pauschale „Abgeltung aller gegenseitigen Ansprüche" ohne Auflistung, wenn Restlöhne unklar sind
+- Rückzahlungsklauseln für Fortbildungskosten ohne angemessene Staffelung (BAG-Linie)
+- Wettbewerbsverbote ohne Karenzentschädigungsregelung (§§ 74 ff. HGB analog)
+- Verfallklauseln, die laufende Ansprüche rückwirkend vernichten
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-arbeitsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### Widerrufsrecht
+Kein gesetzliches Widerrufsrecht beim Aufhebungsvertrag im Arbeitsverhältnis. Eine kurze Bedenkzeit (mind. 1 Woche, besser schriftlich vereinbart) empfiehlt sich zur Vermeidung von Arglistanfechtung. Bei Abschluss „unter Druck" → Anfechtung nach § 123 BGB prüfen.
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Sperrzeitrisiko § 159 SGB III
+
+### Kernregel
+Wer das Arbeitsverhältnis selbst beendet oder durch vertragswidriges Verhalten Anlass zur Kündigung gegeben hat, riskiert eine Sperrzeit von bis zu 12 Wochen.
+
+### Sperrzeitbefreiung
+Die Bundesagentur für Arbeit prüft eigenständig, ob ein wichtiger Grund vorlag. Anerkannte Gründe in der BA-Praxis:
+- Betriebsbedingte Kündigung war konkret drohend und Aufhebungsvertrag war das wirtschaftlich bessere Ergebnis
+- Gesundheitliche oder familiäre Gründe (dokumentiert)
+- Mobbing oder unzumutbare Arbeitsbedingungen (nachgewiesen)
+
+**Formulierungsregel im Vertrag:** Aufhebungsvertrag auf Initiative des Arbeitgebers klar dokumentieren; „Einvernehmlichkeit" ohne Ursachenbenennung ist gefährlich.
+
+### Ruhenszeitraum § 158 SGB III
+Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist nicht eingehalten oder unterschritten, ruht der ALG-I-Anspruch für einen errechneten Zeitraum. Faustregel: Abfindung ÷ täglichem Bemessungsentgelt = Ruhetage (vereinfacht).
+
+**Quellenregel:** Dienstanweisungen der BA und aktuelle Merkblätter live prüfen auf bundesagentur.de; keine modellwissensbasierten Rechenformeln ohne aktuellen Quellenbeleg.
+
+## Klauselprüfung — Checkliste
+
+| Klausel | Risiko | Empfehlung |
+|---|---|---|
+| Ausgleichsklausel „alle Ansprüche" | Erfasst unbewusst noch offene Lohnforderungen, Urlaubsabgeltung | Explizite Ausnahmen benennen |
+| Zeugnisnote | Schlechtere Note als bisher faktisch ausgegeben → Anfechtungsansatz | „gut"-Note mindestens Zielvereinbarung, besser schriftlich fixieren |
+| Freistellungsklausel | Pauschale Klausel unwirksam (BAG 5 AZR 108/25) | Anlassbezogen formulieren, Vergütungsfortzahlung klar regeln |
+| Rückzahlungsklausel Fortbildung | Ohne Staffelung unwirksam (BAG-Linie) | Gestaffelte Rückzahlungspflicht nach Verbleibdauer |
+| Wettbewerbsverbot | Ohne Karenzentschädigung nichtig (§ 74 Abs. 2 HGB analog) | Karenzentschädigung ≥ 50 % der letzten Vergütung vereinbaren |
+| Geheimhaltungsklausel | Zu weit → AGB-Kontrolle; Whistleblowing nach HinSchG nicht ausschließbar | Auf Geschäftsgeheimnisse i.S.d. GeschGehG begrenzen |
+
+## Mandantenleitfaden: Entscheidungsmatrix
+
+| Szenario | Empfehlung |
+|---|---|
+| Kündigung ist wahrscheinlich unwirksam, Mandant will Bestandsschutz | Aufhebungsvertrag ablehnen; Klage einlegen |
+| Kündigung hat geringe Angriffspunkte, Mandant will schnell Abfindung | Aufhebungsvertrag verhandeln; Sperrzeitgestaltung sorgfältig |
+| Mandant will möglichst hohe Abfindung | Klage einlegen; Gütermin als Verhandlungsplattform nutzen |
+| Mandant hat dringende Anschlussbeschäftigung | Freistellungszeit verhandeln; Beendigungsdatum flexibel halten |
+
+## Prüfschema Aufhebungsvertrag
+
+1. **Schriftform** (§ 623 BGB analog) gewahrt?
+2. **Anfechtungsrisiken:** Druck, Täuschung, unzureichende Bedenkzeit?
+3. **AGB-Kontrolle:** Wer hat formuliert? Klauseln nach § 307 BGB prüfen.
+4. **Abfindungsbetrag:** Angemessen im Verhältnis zum Kündigungsrisiko?
+5. **Sperrzeitgestaltung:** Initiative, Formulierung, Beratungsprotokoll?
+6. **Steuer:** Fünftelregelung § 34 EStG; Brutto- oder Nettovereinbarung?
+7. **Zeugnis:** Inhalt, Note, Ausstellungsfrist vereinbart?
+8. **Offene Ansprüche:** Überstunden, Urlaubsabgeltung, Boni, variable Vergütung explizit geregelt?
+9. **Vollständigkeitsklausel:** Welche Ansprüche sind wirklich erfasst?
+
+## Anschluss-Skills
+- `ar-abfindungs-rechner-modular` für Rechenlogik und Verhandlungsformel
+- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für vertiefte Sperrzeitprüfung
+- `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Verhandlungsstrategie im Gütermin
+- `spezial-freistellungsklausel-sonderfall-und-edge-case` für Klauselprüfung
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris-, Kommentar- oder Handbuch-Blindzitate aus Modellwissen.
+- Steuerliche Aussagen als Hinweis kennzeichnen; steuerliche Beratung bleibt dem Steuerberater vorbehalten.
+- Annahmen explizit markieren; keine erfundenen BA-Dienstanweisungen.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Kein Ersatz für vollständige Mandantenberatung oder steuerliche Beratung.
+- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
+- Keine individuelle Prognose zur BA-Sperrzeitentscheidung ohne aktuellen Quellenbeleg.

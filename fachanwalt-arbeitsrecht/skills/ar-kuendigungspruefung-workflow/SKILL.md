@@ -1,49 +1,125 @@
 ---
 name: ar-kuendigungspruefung-workflow
-description: "Workflow fuer Kuendigungspruefung in 4 Schritten: Formelles (Schriftform § 623 BGB, Vollmacht, Zugang), Frist (3-Wochen-Frist § 4 KSchG), Gruende (verhaltensbedingt, personenbedingt, betriebsbedingt), Sozialauswahl. Pruefliste mit Befund."
+description: "Workflow Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie. Schriftform § 623 BGB, KSchG-Anwendbarkeit § 23, Betriebsratsanhörung § 102 BetrVG, Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz, Massenentlassung § 17 KSchG."
 ---
 
-# AR: Kuendigungspruefung
+# AR: Kündigungsprüfung — Workflow
 
-## Aufgabe
-Workflow fuer Kuendigungspruefung in 4 Schritten: Formelles (Schriftform § 623 BGB, Vollmacht, Zugang), Frist (3-Wochen-Frist § 4 KSchG), Gruende (verhaltensbedingt, personenbedingt, betriebsbedingt), Sozialauswahl.
+## Zweck
+Strukturierter Arbeitsablauf zur vollständigen Prüfung einer Kündigung — von der Erstmeldung des Mandanten bis zum klaren Handlungsvorschlag. Kritischer Zeitdruck: Die Drei-Wochen-Frist nach § 4 KSchG läuft ab Zugang der Kündigung.
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Kaltstart — Sofortmaßnahmen
+Bei Eingang einer Kündigung gelten folgende Prioritäten in dieser Reihenfolge:
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+1. **Zugang sichern:** Genaues Zugangsdatum (Briefkasteneinwurf, persönliche Übergabe) mit Beweismittel dokumentieren.
+2. **Frist berechnen:** 3 Wochen ab Zugang = Klagefrist § 4 KSchG. Datum im Kalender markieren.
+3. **Schriftform prüfen:** Liegt eine eigenhändig unterzeichnete Originalurkunde vor (§ 623 BGB)? E-Mail, Fax, WhatsApp = nichtig (§ 125 BGB).
+4. **Mandantenentscheidung zeitnah:** Klage, Aufhebungsverhandlung oder Klageverzicht?
 
-## Pruefraster
+## Phase 1: Formelle Prüfung
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### A) Schriftform § 623 BGB
+- Original-Unterschrift des Kündigungsberechtigten zwingend
+- Faksimile-Stempel genügt nicht
+- Elektronische Übermittlung genügt nicht
+- Fehler → Nichtigkeit; Kündigung ist inexistent
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### B) Kündigungsberechtigter
+- Wer hat unterzeichnet? Ist die Person zur Kündigung bevollmächtigt?
+- Bei Vollmacht: War die Vollmacht im Original beigefügt (§ 174 BGB)? Zurückweisung sofort nach Empfang!
+- Bei Organen (GF, Vorstand): Vertretungsberechtigung aus Handelsregister prüfen
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-arbeitsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### C) Zugang § 130 BGB
+- Persönliche Übergabe: Zugang sofort
+- Briefkasteneinwurf: Zugang wenn Leerung üblicherweise zu erwarten war (BAG-Linie: bis 17/18 Uhr am selben Tag, danach am nächsten Werktag)
+- Urlaub, Krankheit, Auslandsaufenthalt: Zugang dennoch, wenn Kenntnisnahmemöglichkeit besteht
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Phase 2: KSchG-Anwendbarkeit
+
+| Merkmal | Norm | Prüfung |
+|---|---|---|
+| Betriebsgröße > 10 VZÄ | § 23 KSchG | Vollzeitkräfte + anteilig Teilzeit; Leiharbeitnehmer? (BAG-Linie) |
+| Betriebszugehörigkeit > 6 Monate | § 1 Abs. 1 KSchG | Probezeiten, Vorbeschäftigung beim selben Arbeitgeber |
+| Betrieb im Geltungsbereich | § 23 KSchG | Deutsches Arbeitsverhältnis |
+
+Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BGB, Maßregelungsverbot § 612a BGB) prüfen.
+
+## Phase 3: Sonderkündigungsschutz
+
+| Schutz | Norm | Voraussetzung |
+|---|---|---|
+| Schwangerschaft / Mutterschutz | § 17 MuSchG | Behördliche Zustimmung Landesamt zwingend |
+| Elternzeit | § 18 BEEG | Behördliche Zustimmung zwingend (Ausnahmen eng) |
+| Schwerbehinderung | § 168 SGB IX | Zustimmung Integrationsamt zwingend |
+| Betriebsratsmitglied | §§ 15 KSchG, 103 BetrVG | BR-Zustimmung oder gerichtliche Ersetzung |
+| Datenschutzbeauftragter | § 38 BDSG | Besonderer Kündigungsschutz |
+| Wahlvorstand / Kandidaten | § 15 KSchG | Schutz ab Bekanntmachung der Wahl |
+
+**Konsequenz:** Fehlt eine behördliche Zustimmung → Kündigung ist schwebend unwirksam oder nichtig.
+
+## Phase 4: Betriebsratsanhörung § 102 BetrVG
+
+### Checkliste
+- [ ] Ist ein Betriebsrat vorhanden?
+- [ ] Wurde dieser vor Ausspruch der Kündigung angehört?
+- [ ] Enthielt das Anhörungsschreiben: Name des Arbeitnehmers, Art der Kündigung, Kündigungsgründe, Sozialdaten?
+- [ ] Wurde die Frist eingehalten (ordentlich: 1 Woche; außerordentlich: 3 Tage; § 102 Abs. 2 BetrVG)?
+- [ ] Hat der BR Einwände erhoben? Wenn ja: wurden sie beachtet?
+
+**Rechtsfolge Fehler:** Kündigung ist unwirksam — unabhängig vom materiellen Kündigungsgrund.
+
+## Phase 5: Massenentlassungsanzeige § 17 KSchG
+
+### Schwellenwerte (§ 17 Abs. 1 KSchG)
+| Betriebsgröße | Entlassungen innerhalb 30 Tagen |
+|---|---|
+| 21–59 AN | ≥ 6 |
+| 60–499 AN | ≥ 10 % oder ≥ 26 |
+| ≥ 500 AN | ≥ 30 |
+
+**Neue BAG/EuGH-Linie (BAG 6 AZR 152/22, EuGH C-134/24):** Anzeige muss nach Abschluss der BR-Konsultation, aber vor Ausspruch der Kündigungen erfolgen. Fehler = Unwirksamkeit aller betroffenen Kündigungen, keine Heilung möglich.
+
+## Phase 6: Soziale Rechtfertigung § 1 KSchG
+
+### Betriebsbedingt
+1. Unternehmerische Entscheidung (Wegfall des Arbeitsplatzes)
+2. Dringende betriebliche Erfordernis
+3. Keine anderweitige Beschäftigungsmöglichkeit
+4. **Sozialauswahl § 1 Abs. 3 KSchG:** Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung — Vergleichsgruppe nach Austauschbarkeit
+
+### Verhaltensbedingt
+1. Pflichtverletzung (nachweisbar)
+2. Abmahnung (grds. erforderlich, außer schwere Pflichtverletzung)
+3. Negative Prognose (Wiederholungsgefahr)
+
+### Personenbedingt
+1. Eignungsmangel / Krankheit
+2. Negative Gesundheitsprognose
+3. Erhebliche betriebliche Beeinträchtigung
+4. Interessenabwägung (BAG-Dreistufentest)
+
+## Entscheidungsmatrix: Klage oder Vergleich?
+
+| Lage | Empfehlung |
+|---|---|
+| Formfehler oder fehlende BR-Anhörung | Klage einlegen; Verhandlungsmacht ist maximal |
+| KSchG nicht anwendbar, keine Formfehler | Vergleich; Klagechancen begrenzt |
+| Starke betriebliche Kündigung, korrekte Sozialauswahl | Vergleich mit guter Abfindung realistisch |
+| Sonderkündigungsschutz betroffen | Klage; volle Nichtigkeitsfolge |
+| Mandant will schnell Anschlussstelle | Vergleich mit günstigem Zeugnistext |
+
+## Anschluss-Skills
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift und Verfahrensstrategie
+- `ar-abfindungs-rechner-modular` für Abfindungsberechnung
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Tiefenprüfung
+- `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zugangsfragen
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Aktuelle BAG-Linie zu § 17 KSchG und Sozialauswahl stets live prüfen vor Ausgabe.
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate.
+- Annahmen explizit markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Kein Ersatz für vollständige Mandantenberatung.
+- Keine Prozessprognose ohne konkrete Tatsachenbasis.

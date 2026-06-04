@@ -1,48 +1,114 @@
 ---
 name: spezial-befristung-compliance-dokumentation-und-akte
-description: "Befristung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG."
 ---
 
-# Befristung: Compliance-Dokumentation und Aktenvermerk
+# Spezial: Befristung — Compliance, Dokumentation und Akte
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Befristung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Befristung.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Systematische Compliance-Prüfung für befristete Arbeitsverhältnisse — von der Formkontrolle über die Sachgrundprüfung bis zur Dokumentationsanforderung. Besonderer Fokus auf die häufigsten Fehler, die zur ungewollten Entfristung führen.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein befristeter Arbeitsvertrag oder eine Verlängerungsvereinbarung vorliegt, zuerst prüfen:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Schriftform:** Befristungsabrede schriftlich vereinbart und vor Dienstantritt unterzeichnet?
+2. **Sachgrund oder ohne Sachgrund?** § 14 Abs. 1 (mit Sachgrund) oder § 14 Abs. 2 (sachgrundlos)?
+3. **Vorbeschäftigung:** War der Arbeitnehmer schon früher beim gleichen Arbeitgeber beschäftigt?
+4. **Laufzeit und Verlängerungen:** Wie oft und wie lange wurde befristet?
+5. **Klagefrist:** Ist das Arbeitsverhältnis bereits beendet? Wenn ja: 3-Wochen-Frist § 17 TzBfG?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Befristung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## § 14 Abs. 4 TzBfG — Schriftform als Wirksamkeitsvoraussetzung
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Grundregel
+Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftform (§ 14 Abs. 4 TzBfG i.V.m. § 126 BGB). Die Befristungsabrede muss schriftlich vereinbart sein, bevor der Arbeitnehmer seine Arbeit aufnimmt.
+
+### Kritische Praxis-Fehler
+- **Fehler 1:** Schriftlicher Vertrag wird dem Arbeitnehmer nach Arbeitsbeginn zugesandt — dann ist die Befristungsabrede unwirksam, obwohl der Vertrag schriftlich ist.
+- **Fehler 2:** Verlängerungsvereinbarung erst nach Ablauf der bisherigen Befristung unterzeichnet — dann ist die Verlängerung eine Neubefristung ohne Schriftform.
+- **Fehler 3:** Nur der Arbeitgeber unterzeichnet; Arbeitnehmer unterschreibt später — dann liegt kein Vertragsschluss vor Dienstantritt vor.
+
+### Dokumentations-Checkliste Schriftform
+- [ ] Befristungsabrede im Vertrag eindeutig bezeichnet?
+- [ ] Vertragsschluss (beidseitige Unterschrift) vor Aufnahme der Tätigkeit?
+- [ ] Bei Verlängerung: neue Vereinbarung vor Ablauf des alten Vertrages?
+- [ ] Kopie des unterzeichneten Vertrages in der Akte?
+
+## § 14 Abs. 1 TzBfG — Sachgrundbefristung
+
+### Zulässige Sachgründe (nicht abschließend)
+1. Vorübergehender betrieblicher Bedarf
+2. Anschluss an eine Ausbildung oder ein Studium
+3. Beschäftigung zur Vertretung (Vertretungsbefristung)
+4. Eigenart der Arbeitsleistung (z.B. Saisonarbeit)
+5. Erprobung
+6. Gründe in der Person des Arbeitnehmers (z.B. eigener Wunsch)
+7. Haushaltsmittelfinanzierung (öffentlicher Dienst)
+8. Gerichtlicher Vergleich
+
+### Dokumentationsanforderungen je Sachgrund
+
+**Vertretungsbefristung (§ 14 Abs. 1 Nr. 3 TzBfG):**
+- Vertretener Arbeitnehmer und Grund für dessen Abwesenheit im Vertrag oder in der Personalakte dokumentieren
+- BAG-Linie: Indirekte Vertretung ist zulässig (organisatorischer Zusammenhang genügt), aber der Zusammenhang muss nachvollziehbar sein
+- Kettenbefristungen bei Vertretungen: Ab einer gewissen Anzahl und Dauer kann das BAG missbräuchliche Gestaltung annehmen (live prüfen)
+
+**Erprobung (§ 14 Abs. 1 Nr. 5 TzBfG):**
+- Maximal 6 Monate als Richtwert; danach fehlt objektiver Erprobungszweck
+- Keine Wiederholung der Erprobung für denselben Arbeitnehmer bei gleicher Stelle
+
+## § 14 Abs. 2 TzBfG — Sachgrundlose Befristung
+
+### Voraussetzungen
+- Keine vorherige Beschäftigung beim gleichen Arbeitgeber (§ 14 Abs. 2 Satz 2 TzBfG: Anschlussverbot)
+- Maximaldauer: 2 Jahre
+- Maximale Verlängerungen: 3 Mal innerhalb der 2 Jahre
+
+### Anschlussverbot — kritische Punkte
+Das Anschlussverbot gilt nach BAG-Entscheidung von 2011 für jede frühere Beschäftigung beim selben Arbeitgeber, unabhängig wie lang zurück. Dies war später in der Instanzrechtsprechung umstritten; aktuelle BAG-Linie vor Ausgabe live prüfen.
+
+**Dokumentations-Checkliste sachgrundlose Befristung:**
+- [ ] Keine Vorbeschäftigung beim selben Arbeitgeber? (Prüfung mit Ergebnis dokumentieren)
+- [ ] Gesamtdauer ≤ 2 Jahre?
+- [ ] Anzahl der Verlängerungen ≤ 3?
+- [ ] Bei Verlängerung: nur Dauer verlängert, keine anderen Änderungen (Aufgaben, Vergütung)?
+
+### Achtung: Verlängerung ist keine inhaltliche Änderung
+Eine Verlängerung der sachgrundlosen Befristung ist nur zulässig, wenn ausschließlich die Dauer verlängert wird. Jede inhaltliche Änderung (andere Stelle, höheres Gehalt, andere Abteilung) macht die Verlängerung zu einer Neubefristung — die dann einen Sachgrund benötigt.
+
+## § 17 TzBfG — Entfristungsklage und Frist
+
+### Dreiwöchige Klagefrist
+Arbeitnehmer, der die Wirksamkeit der Befristung angreifen will, muss innerhalb von 3 Wochen nach dem vereinbarten Ende des befristeten Arbeitsverhältnisses Klage auf Feststellung erheben, dass das Arbeitsverhältnis aufgrund der Befristung nicht beendet ist.
+
+**Fristversäumnis:** Befristung gilt als wirksam (§ 17 TzBfG analog § 7 KSchG).
+
+### Kettenbefristung und Missbrauchsprüfung
+BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gestaltung vorliegt. Indizien:
+- Sehr hohe Gesamtdauer (> 5–7 Jahre)
+- Sehr viele aufeinanderfolgende Befristungen
+- Stets gleiche Aufgabe
+- Kein sachlicher Grund für die Befristung erkennbar
+
+## Dokumentationsplan für Compliance
+
+| Dokument | Inhalt | Aufbewahrung |
+|---|---|---|
+| Befristungsvertrag | Schriftliche Befristungsabrede, Sachgrund (wenn vorhanden), Dauer | Personalakte, unbegrenzt |
+| Verlängerungsvereinbarung | Nur Zeitverlängerung; vor Ablauf unterzeichnet | Personalakte |
+| Vorbeschäftigungsprüfung | Ergebnis der Prüfung (keine Vorbeschäftigung) | Personalakte |
+| BR-Information § 99 BetrVG | Zustimmung oder Fiktion bei befristeter Einstellung | Gremienakte |
+
+## Anschluss-Skills
+- `fachanwalt-arbeitsrecht-befristung-tzbfg` für Tiefenprüfung Befristungsrecht
+- `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` für Schriftsatzbausteine
+- `workflow-fristen-und-risikoampel` für Fristenkontrolle
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Keine modellwissensbasierten Befristungsregeln ohne Normgrundlage.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
+- Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).

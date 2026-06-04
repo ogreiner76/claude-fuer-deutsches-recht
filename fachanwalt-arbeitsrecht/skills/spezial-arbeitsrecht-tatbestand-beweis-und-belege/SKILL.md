@@ -1,48 +1,125 @@
 ---
 name: spezial-arbeitsrecht-tatbestand-beweis-und-belege
-description: "Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG."
 ---
 
-# Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Spezial: Tatbestand, Beweis und Belege im Arbeitsrecht
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Arbeitsrecht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Arbeitsrecht.
-- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Systematische Aufbereitung der Beweis- und Darlegungslast für die häufigsten arbeitsrechtlichen Streitfragen. Grundlage für Schriftsatzarbeit und Mandantenberatung: Wer muss was beweisen — und wie?
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein konkreter Sachverhalt vorliegt, zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Was ist die Anspruchsgrundlage oder Einwendung?** (Kündigung, Abfindung, Lohn, Diskriminierung, Befristung?)
+2. **Was ist unstreitig?** (Beginn des Arbeitsverhältnisses, Kündigungsdatum, Betriebsgröße)
+3. **Was ist streitig?** (Kündigungsgrund, Zugang, Sozialauswahl, Betriebsratspflichten)
+4. **Welche Belege liegen vor?** (Kündigung, Vertrag, Abmahnung, E-Mails, Protokolle, Zeugenaussagen)
+5. **Was fehlt noch?** (Lückentafel)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Arbeitsrecht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Grundregel Beweislast
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Allgemeiner Grundsatz
+Wer eine günstige Rechtsfolge für sich geltend macht, muss die Voraussetzungen der anspruchsbegründenden Norm darlegen und beweisen. Bei Gegennormen trägt der Gegner die Beweislast.
+
+### Abgestufte Darlegungslast (BAG-Linie)
+Das BAG hat für viele arbeitsrechtliche Konstellationen eine „abgestufte Darlegungslast" entwickelt: Der eine Teil muss zunächst pauschal vortragen; dann obliegt es dem anderen Teil, substantiiert zu erwidern; erst dann erhöhen sich die Anforderungen an den ersten Teil.
+
+**Typische Anwendung:** Betriebsbedingte Kündigung (Arbeitnehmer bestreitet dringendes betriebliches Erfordernis pauschal → Arbeitgeber muss konkret darlegen → Arbeitnehmer muss substantiiert bestreiten).
+
+## Beweislastverteilung nach Streitgegenstand
+
+### Kündigung — KSchG
+
+| Streitpunkt | Beweislast |
+|---|---|
+| Zugang der Kündigung | Arbeitgeber |
+| Schriftform § 623 BGB | Arbeitgeber |
+| Betriebsgröße § 23 KSchG | Arbeitgeber (bei Bestreiten) |
+| Betriebszugehörigkeit | Arbeitnehmer |
+| Kündigungsgrund (allgemein) | Arbeitgeber |
+| Betriebsbedingt: dringendes Erfordernis | Arbeitgeber |
+| Sozialauswahl § 1 Abs. 3 KSchG | Arbeitgeber (nach Rüge des AN) |
+| BR-Anhörung § 102 BetrVG | Arbeitgeber |
+| Sonderkündigungsschutz | Arbeitnehmer (Vorliegen des Schutztatbestands) |
+| Massenentlassungsanzeige § 17 KSchG | Arbeitgeber |
+
+### Befristung TzBfG
+
+| Streitpunkt | Beweislast |
+|---|---|
+| Sachgrund § 14 Abs. 1 TzBfG | Arbeitgeber |
+| Schriftform § 14 Abs. 4 TzBfG | Arbeitgeber |
+| Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG | Arbeitgeber |
+| Klagefrist § 17 TzBfG gewahrt | Arbeitnehmer |
+
+### Diskriminierung AGG
+
+| Streitpunkt | Beweislast |
+|---|---|
+| Indizien für Benachteiligung (§ 22 AGG) | Arbeitnehmer (Glaubhaftmachung) |
+| Rechtfertigung der Benachteiligung | Arbeitgeber (nach Indizienvortrag) |
+| Einhaltung der Ausschlussfrist § 15 Abs. 4 AGG | Arbeitnehmer |
+
+### Vergütung / Mindestlohn
+
+| Streitpunkt | Beweislast |
+|---|---|
+| Tatsächlich geleistete Arbeitsstunden | Arbeitnehmer (Grundlage), dann abgestuft |
+| Richtigkeit der Arbeitszeiterfassung | Je nach Aufzeichnungspflicht |
+| MiLoG-Unterschreitung | Arbeitnehmer legt dar; AG widerlegt |
+
+## Beweismittel im Arbeitsgerichtsverfahren
+
+### Zulässige Beweismittel (§ 46 Abs. 2 ArbGG i.V.m. ZPO)
+- Urkunden (§§ 415 ff. ZPO): Arbeitsvertrag, Abmahnung, Kündigung, Protokolle, E-Mails
+- Zeugen (§§ 373 ff. ZPO): Kollegen, HR-Mitarbeiter, externe Boten
+- Parteivernehmung (§§ 445 ff. ZPO): selten angeordnet, aber möglich
+- Sachverständige (§§ 402 ff. ZPO): bei Fragen medizinischer Eignung, technischer Fragen
+
+### Elektronische Beweismittel (E-Mails, Chats, Screenshots)
+- Zulässig als Urkundenbeweis wenn ausgedruckt (§ 416 ZPO: Privaturkunde)
+- Beweiswert: Inhalt unstreitig oder Echtheit bestätigt
+- DSGVO-Frage: Wurden sie rechtmäßig erhoben?
+
+## DSGVO-konforme Beweiserhebung § 26 BDSG
+
+### Grundregel
+Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführung oder Beendigung des Beschäftigungsverhältnisses erforderlich ist oder ein berechtigtes Interesse vorliegt (§ 26 Abs. 1 BDSG).
+
+### Videoüberwachung
+- Offene Videoüberwachung: Hinweis erforderlich; Mitbestimmung BR (§ 87 Abs. 1 Nr. 6 BetrVG)
+- Heimliche Videoüberwachung: nur bei konkretem Verdacht einer schwerwiegenden Straftat; Verhältnismäßigkeit
+- BAG zur heimlichen Videoüberwachung: Verwertungsverbot bei unverhältnismäßigem Eingriff
+
+### GPS-Ortung, Keylogger, E-Mail-Überwachung
+- Grundsätzlich nur mit Einwilligung oder aufgrund von BetrV-Grundlagen
+- Verwertungsverbot: Rechtswidrig erlangte Beweise können einem Beweisverwertungsverbot unterliegen; BAG-Abwägung im Einzelfall
+- **Aktuelle BAG-Linie zu § 26 BDSG und Verwertungsverboten vor Ausgabe live prüfen**
+
+### DSGVO-Auskunftsanspruch als Beweismittel
+- § 15 DSGVO: Betroffenenauskunft kann im Prozess zur Ermittlung von Beweismitteln genutzt werden
+- BAG 8 AZR 61/24 (20.02.2025): Kein DSGVO-Schadensersatz allein wegen „Störgefühls"; überprüfbarer Kontrollverlust erforderlich
+
+## Lückentafel — Checkliste fehlende Belege
+
+| Streitpunkt | Vorhandene Belege | Fehlende Belege | Beschaffungsweg |
+|---|---|---|---|
+| Zugang Kündigung | ? | ? | Beweisvermerk, Zeugen |
+| BR-Anhörung | ? | ? | Protokoll anfordern |
+| Sozialauswahl | ? | ? | Namensliste § 1 Abs. 3 Satz 1 KSchG anfordern |
+| Kündigungsgründe | ? | ? | Begründungsschreiben, Personalakte |
+
+## Anschluss-Skills
+- `spezial-quelle-beweislast-und-darlegungslast` für spezifische Beweislastfragen
+- `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Schriftsatzprüfung
+- `workflow-chronologie-und-belegmatrix` für Sachverhaltsaufbereitung
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [openjur.de](https://openjur.de).
+- DSGVO-/BDSG-Fragen: aktuellen Normstand auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de) und DSK-Hinweise live prüfen.
+- Keine modellwissensbasierten Beweislastregel-Aussagen ohne Normgrundlage.
+
+## Was dieser Skill nicht macht
+- Keine individuelle Beweismittelerhebung; Entscheidung über Beweisangebote bleibt dem Anwalt.
+- Keine abschließende DSGVO-Compliance-Prüfung für komplexe Überwachungssysteme.

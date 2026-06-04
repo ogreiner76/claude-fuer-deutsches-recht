@@ -1,48 +1,106 @@
 ---
 name: spezial-paragraf-dokumentenmatrix-und-lueckenliste
-description: "Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG."
 ---
 
-# Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung
+# Spezial: Paragraf-Dokumentenmatrix und Lückenliste
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Paragraf**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Paragraf.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Schnelle Zuordnung von Normen zu Dokumenten und Belegen für die häufigsten arbeitsrechtlichen Streitgegenstände. Das Ergebnis ist eine Matrix mit (a) erforderlichem Dokument, (b) vorhandenem Dokument, (c) fehlendem Dokument und (d) Beschaffungsweg.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein Sachverhalt vorliegt, zuerst bestimmen:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Streitgegenstand:** Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG, Betriebsübergang?
+2. **Mandantenrolle:** Arbeitnehmer oder Arbeitgeber?
+3. **Vorhandene Unterlagen:** Was liegt bereits vor?
+4. **Ziel:** Klage, Schriftsatz, Beratung, Vergleichsvorbereitung?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Paragraf** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Matrix 1: Kündigung (KSchG)
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Kündigungsschreiben (Original) | Schriftformprüfung, Zugangsbeweis | § 623 BGB | ? | Mandant mitbringen lassen |
+| Arbeitsvertrag | KSchG-Anwendbarkeit, Kündigungsfristen | §§ 611a, 622 BGB | ? | Mandant |
+| Nachweis Dienstbeginn | Betriebszugehörigkeit (§ 1 KSchG) | § 1 KSchG | ? | Zeugnisse, Personalakte |
+| Nachweis Betriebsgröße | § 23 KSchG-Schwelle | § 23 KSchG | ? | Handelsregister, Mandant |
+| BR-Anhörungsschreiben | § 102 BetrVG-Prüfung | § 102 BetrVG | ? | AG anfordern / einstweilig |
+| BR-Stellungnahme | Einwände des BR | § 102 Abs. 3 BetrVG | ? | AG anfordern |
+| Sozialdaten-Vergleich | Sozialauswahl § 1 Abs. 3 KSchG | § 1 Abs. 3 KSchG | ? | Namensliste anfordern |
+| Massenentlassungsanzeige | § 17 KSchG-Prüfung | § 17 KSchG | ? | BA oder AG |
+| Sonderkündigungsschutz-Nachweis | Zustimmungsbescheid | §§ 17 MuSchG, 168 SGB IX | ? | Behörde/Mandant |
+
+## Matrix 2: Befristung (TzBfG)
+
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Befristeter Arbeitsvertrag | Schriftformprüfung, Sachgrund | §§ 14 Abs. 4, 14 Abs. 1 TzBfG | ? | Mandant |
+| Alle Verlängerungsvereinbarungen | Anschlussverbot, Verlängerungsanzahl | § 14 Abs. 2 TzBfG | ? | Mandant, Personalakte |
+| Nachweis Vorbeschäftigung | Anschlussverbot § 14 Abs. 2 Satz 2 | § 14 Abs. 2 Satz 2 TzBfG | ? | AG, frühere Verträge |
+| Sachgrunddokumentation | Vertretung, Erprobung, etc. | § 14 Abs. 1 TzBfG | ? | AG anfordern |
+| Datum Vertragsunterzeichnung | Schriftform vor Dienstantritt | § 14 Abs. 4 TzBfG | ? | Vertrag selbst |
+
+## Matrix 3: Abfindung / Aufhebungsvertrag
+
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Aufhebungsvertrag (Entwurf/Original) | Klauselprüfung, Sperrzeitgestaltung | §§ 623 BGB, 159 SGB III | ? | Mandant |
+| Letzte Gehaltsabrechnung | Brutto-Monatsverdienst für Abfindungsberechnung | Faustformel | ? | Mandant |
+| Nachweis Beschäftigungsdauer | Abfindungsfaktor | § 10 KSchG | ? | Vertrag, Arbeitsbescheinigung |
+| BA-Bescheid / Merkblatt | Sperrzeitrisiko | § 159 SGB III | ? | bundesagentur.de |
+| Steuerberatungsdokumente | Fünftelregelung | § 34 EStG | ? | Steuerberater |
+
+## Matrix 4: Vergütung / Lohn
+
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Arbeitsvertrag / Tarifvertrag | Vergütungsanspruch | §§ 611a, 614 BGB; TVG | ? | Mandant, TV live prüfen |
+| Gehaltsabrechnungen | Tatsächliche Zahlungen | § 108 GewO | ? | Mandant |
+| Arbeitszeitnachweise | Überstunden | § 3 ArbZG | ? | Mandant (eigene Aufzeichnungen) |
+| MiLoG-Nachweis | Mindestlohn | MiLoG; aktuellen Satz live prüfen | ? | Lohnabrechnung vs. MiLo-Satz |
+| Ausschlussfristen-Regelung | Fristversäumnis | Vertrag, TV | ? | Vertrag, TV |
+
+## Matrix 5: AGG — Diskriminierung
+
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Bewerbungsunterlagen / Absage | Indizien für Diskriminierung | § 22 AGG | ? | Mandant |
+| Stellenausschreibung | Diskriminierendes Merkmal | § 11 AGG | ? | Archiv, Webseite |
+| E-Mails/Protokolle | Diskriminierungs-Belege | § 22 AGG | ? | Mandant |
+| Vergleichsperson-Nachweis | Paarvergleich | BAG 8 AZR 300/24 | ? | Mandant, AN-Kolleg/-in |
+| Geltendmachungsschreiben | 2-Monats-Frist § 15 Abs. 4 AGG | § 15 Abs. 4 AGG | ? | Erstellen |
+
+## Matrix 6: Betriebsrat
+
+| Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
+|---|---|---|---|---|
+| Nachweis Betriebsratsgründung/Wahl | Existenz und Legitimation | §§ 1, 7 ff. BetrVG | ? | Wählerverzeichnis, Protokoll |
+| Geschäftsordnung BR | BR-Verfahren | § 36 BetrVG | ? | BR-Unterlagen |
+| Betriebsvereinbarung (aktuell) | Mitbestimmungsgegenstand | §§ 87 ff. BetrVG | ? | HR, Betriebsrat |
+| Protokolle BR-Sitzung | Beschlussfassung | §§ 30, 34 BetrVG | ? | BR-Protokoll anfordern |
+
+## Lückenlisten-Output-Format
+
+Nach Ausfüllen der Matrix:
+
+**Sofort verfügbar:** [Liste der vorhandenen Dokumente]
+
+**Fehlt — Beschaffungsweg sofort angehen:**
+- [Dokument] → von [Quelle] anfordern bis [Datum]
+
+**Fehlt — schwer zu beschaffen (Rechtsbehelfe prüfen):**
+- [Dokument] → ggf. durch Auskunftsanspruch (§ 15 DSGVO, § 83 BetrVG) oder gerichtliche Vorlage (§ 142 ZPO)
+
+## Anschluss-Skills
+- `workflow-unterlagen-lueckenliste` für detaillierte Unterlagenprüfung
+- `workflow-chronologie-und-belegmatrix` für Sachverhaltsaufbereitung
+- `spezial-arbeitsrecht-tatbestand-beweis-und-belege` für Beweislaststrategie
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine automatische Dokument-Beschaffung; die Dokumentenbeschaffung bleibt beim Anwalt und Mandanten.
+- Keine abschließende Liste aller denkbaren Dokumente; jeder Fall erfordert individuelle Ergänzung.

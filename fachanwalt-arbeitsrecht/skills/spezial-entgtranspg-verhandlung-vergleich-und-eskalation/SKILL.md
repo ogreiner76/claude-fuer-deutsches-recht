@@ -1,48 +1,97 @@
 ---
 name: spezial-entgtranspg-verhandlung-vergleich-und-eskalation
-description: "Entgtranspg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970."
 ---
 
-# Entgtranspg: Verhandlung, Vergleich und Eskalation
+# Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Entgtranspg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Entgtranspg.
-- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Vollständige Strategie bei Entgelttransparenz und Entgeltdiskriminierung — vom Auskunftsanspruch über die Verhandlung bis zur AGG-Klage. Besonderer Fokus auf die BAG-Linie zum Paarvergleich und die EU-Lohntransparenz-Richtlinie.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Mandant:** Arbeitnehmer (Auskunftsanspruch geltend machen, Lohnlücke schließen) oder Arbeitgeber (Auskunft erteilen, Diskriminierung vermeiden)?
+2. **Betriebsgröße:** Gilt das EntgTranspG? (§ 12 EntgTranspG: > 200 Beschäftigte)
+3. **Vergleichstätigkeit:** Welche Tätigkeit hat der Mandant; welche ist vergleichbar?
+4. **Lohnlücke:** Gibt es konkrete Anhaltspunkte für eine Differenz? (z.B. Kolleg/-in bekannt mit höherem Gehalt)
+5. **Fristen:** Gilt die AGG-Frist § 15 Abs. 4 AGG (2 Monate) für eine Klage bereits?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Entgtranspg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## EntgTranspG — Auskunftsanspruch § 10
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Anwendungsbereich
+- Betriebe mit > 200 Beschäftigten beim selben Arbeitgeber (§ 12 Abs. 1 EntgTranspG)
+- Tarifgebundene Arbeitgeber mit > 200 Beschäftigten: Auskunft über tarifliche Einstufung
+- Nicht tarifgebundene: Auskunft über die Gehaltsspanne der Vergleichstätigkeit
+
+### Was kann verlangt werden?
+- Auskunft über das Entgelt der Vergleichstätigkeit (Median der letzten Monate; mind. 6 Beschäftigte in Vergleichsgruppe)
+- Auskunft über die Entgeltbestandteile und Entgeltkriterien
+
+### Verfahren
+1. Auskunftsersuchen an HR oder BR (bei BR: innerhalb von 3 Monaten zu erteilen)
+2. Auskunftspflichtige: Arbeitgeber; wenn BR vorhanden, Weiterleitung durch BR-Vorgabe
+3. Frist: Innerhalb von 3 Monaten nach Eingang des Ersuchens beim BR (§ 14 EntgTranspG) oder direkt beim Arbeitgeber (§ 10 EntgTranspG)
+4. Inhalt: Median-Entgelt der Vergleichsgruppe; mind. 6 Personen in Vergleichsgruppe
+
+### Was tun bei Lohnlücke?
+1. Auskunft ausgewertet: Lohnlücke ermittelt?
+2. **Verhandlungsstrategie:** Gesprächsangebot an Arbeitgeber mit Bitte um Angleichung; dokumentieren
+3. Bei Ablehnung: Eskalation zu AGG-Klage
+
+## AGG — Eskalation bei Entgeltdiskriminierung
+
+### Anspruchsgrundlagen
+- § 15 Abs. 1 AGG: Schadensersatz bei schuldhafter Diskriminierung (Entgeltdifferenz rückwirkend)
+- § 15 Abs. 2 AGG: Entschädigungsanspruch bei immaterieller Schädigung (max. 3 Monatsgehälter)
+- § 8 Abs. 2 AGG: Gleiches Entgelt als Diskriminierungsverbot
+
+### Beweislast § 22 AGG — Paarvergleich
+Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Vergleichskollege des anderen Geschlechts genügt zur Begründung der Vermutung nach § 22 AGG** (Paarvergleich). Arbeitgeber muss dann beweisen, dass kein Verstoß gegen das Entgeltgleichheitsgebot vorliegt.
+
+**Quellenregel:** BAG 8 AZR 300/24 — Pressemitteilung bundesarbeitsgericht.de; dejure.org-Vernetzung. Stets live prüfen, ob Urteilstext verfügbar.
+
+### Klagebefugnis und Frist
+- Anspruch nach § 15 Abs. 1 AGG: Geltendmachung innerhalb von 2 Monaten ab Kenntnis (§ 15 Abs. 4 AGG)
+- **Achtung:** Die Auskunft nach EntgTranspG setzt die 2-Monats-Frist nicht in Gang, sofern die Diskriminierung schon früher erkennbar war. Aktuelle BAG-Linie live prüfen.
+- Klage beim ArbG: Urteilsverfahren
+
+## EU-Lohntransparenz-Richtlinie 2023/970 (Umsetzung bis 7. Juni 2026)
+
+### Kernpunkte der Richtlinie
+- Arbeitgeber müssen vor Einstellung die Gehaltsbandbreite bekannt geben
+- Arbeitnehmer haben Auskunftsrecht über individuelle Vergütung und Vergleichsgruppen-Vergütung
+- Berichtspflichten für Arbeitgeber über Geschlechtslohngefälle
+- Beweislastumkehr: Arbeitgeber muss nachweisen, dass keine Diskriminierung vorliegt
+
+### Umsetzungsstand in Deutschland
+**Richtlinie muss bis 7. Juni 2026 in deutsches Recht umgesetzt werden.** EntgTranspG und AGG werden voraussichtlich angepasst. Aktuellen Umsetzungsstand live prüfen (BMAS-Website, Gesetzgebungsportal).
+
+## Verhandlungsstrategie
+
+### Stufenplan
+
+| Stufe | Maßnahme | Ergebnis |
+|---|---|---|
+| 1 | Auskunftsersuchen nach § 10 EntgTranspG | Lohnlücke quantifiziert |
+| 2 | Gesprächsangebot an AG: Angleichungsverhandlung | Freiwillige Angleichung |
+| 3 | AGG-Anspruch schriftlich geltend machen (2-Monats-Frist beachten!) | Vergleich oder Ablehnung |
+| 4 | Klage beim ArbG nach § 15 AGG | Urteil / gerichtlicher Vergleich |
+
+### Vergleichsformel (Muster)
+> „Die Parteien einigen sich dahin, dass die Beklagte der Klägerin für den Zeitraum [von–bis] eine Nachzahlung von EUR [Betrag] brutto leistet. Mit dieser Zahlung sind alle Ansprüche der Klägerin nach dem AGG und EntgTranspG für den genannten Zeitraum abgegolten."
+
+## Anschluss-Skills
+- `spezial-quelle-beweislast-und-darlegungslast` für AGG-Beweislastverteilung
+- `ar-leiharbeit-equal-pay-spezial` wenn Equal Pay und Entgeltdiskriminierung zusammentreffen
+- `workflow-redteam-qualitygate` für Anspruchsprüfung vor Klage
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- BAG 8 AZR 300/24: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) Pressemitteilung; [dejure.org](https://dejure.org).
+- EntgTranspG-Normtext: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- EU-RL 2023/970: [eur-lex.europa.eu](https://eur-lex.europa.eu); Umsetzungsstand BMAS live prüfen.
+- Keine modellwissensbasierten AGG-Fallkonstellationen ohne Normgrundlage.
+
+## Was dieser Skill nicht macht
+- Keine individuelle Entgeltdiskriminierungsanalyse ohne Vorlage von Vergütungsdaten.
+- Keine abschließende Prognose über Klagerfolg ohne vollständige Sachverhaltskenntnis.

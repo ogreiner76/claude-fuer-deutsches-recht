@@ -1,48 +1,106 @@
 ---
 name: spezial-datum-formular-portal-und-einreichung
-description: "Datum: Formular, Portal und Einreichungslogik im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare."
 ---
 
-# Datum: Formular, Portal und Einreichungslogik
+# Spezial: Datum, Formular, Portal und Einreichung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Datum**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Datum.
-- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Praktischer Leitfaden für die fristgerechte und formkorrekte Einreichung von Schriftsätzen, Klagen und Formularen im arbeitsrechtlichen Verfahren — von der Fristberechnung über das beA bis zu den BA-Portalen.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine Einreichung ansteht, zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Was ist einzureichen?** Klageschrift, Schriftsatz, Berufung, Massenentlassungsanzeige, SGB-Formular?
+2. **Bis wann?** Frist berechnet und im Kalender?
+3. **Wie?** beA (Anwaltspflicht ab 01.01.2022), Fax (teilweise noch), Post, persönlich?
+4. **Welche Anlage?** Vollmacht, Urkunden, Beweisvermerk?
+5. **Welches Portal?** Arbeitsgericht (elektronische Akte?), BA-Portal, Inkasso?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Datum** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Fristenkalender — Kritische Fristen Arbeitsrecht
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Frist | Norm | Berechnung | Konsequenz bei Versäumnis |
+|---|---|---|---|
+| Kündigungsschutzklage | § 4 KSchG | 3 Wochen ab Zugang; § 188 BGB | § 7 KSchG-Fiktion |
+| Entfristungsklage | § 17 TzBfG | 3 Wochen ab Vertragsende | Befristung gilt als wirksam |
+| AGG-Geltendmachung | § 15 Abs. 4 AGG | 2 Monate ab Kenntnis | Anspruchsverlust |
+| Berufung ArbGG | § 66 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
+| Berufungsbegründung | § 66 ArbGG | 2 Monate ab Zustellung | Verwerfung |
+| Revision BAG | § 74 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
+| Revisionsbegründung BAG | § 74 ArbGG | 2 Monate ab Zustellung | Verwerfung |
+| Aussperrungsanzeige | § 19 AÜG | sofort | Ordnungswidrigkeit |
+| Massenentlassungsanzeige | § 17 KSchG | vor Ausspruch der Kündigung | Unwirksamkeit aller Kündigungen |
+
+## Elektronischer Rechtsverkehr — beA
+
+### Pflicht zur elektronischen Einreichung (§ 130a ZPO i.V.m. § 46g ArbGG)
+Seit 01.01.2022 sind Rechtsanwälte verpflichtet, Schriftsätze an das Arbeitsgericht über das beA (besonderes elektronisches Anwaltspostfach) einzureichen.
+
+### Anforderungen
+- Qualifizierte elektronische Signatur (qeS) des Anwalts auf dem Schriftsatz oder
+- Einfache Signatur und Versand aus dem beA des verantwortenden Anwalts (§ 130a Abs. 3 ZPO)
+- Format: PDF/A-1 oder PDF/A-2 empfohlen
+
+### Technische Anforderungen
+- Dateigröße: max. 60 MB pro Nachricht (kann variieren je Gericht)
+- Anlagen als separate PDF anfügen; keine eingebetteten Formularfelder
+
+### Fristwahrung beA
+Eingang beim Empfängergericht am Tag des Sendens gilt als fristgerecht, wenn die Sendung vor 24 Uhr des letzten Fristtages eingeht (Eingangszeitstempel). **Technische Probleme des eigenen Systems** entlasten nicht; nur technische Störung beim Gericht oder des EGVP-Netzes.
+
+### beA-Notfalleinreichung
+Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzeitiger Dokumentation der Störung. Anforderungen an glaubhaftmachende Darlegung (§ 130a Abs. 6 ZPO).
+
+## Formulare und Portale
+
+### Klageschrift Arbeitsgericht
+- Kein Pflichtformular; formfreie Klageschrift ausreichend
+- Mindestinhalt: Gericht, Parteien, Antrag, Sachverhalt, Rechtsausführungen, Beweisangebote, Unterschrift
+- Arbeitsgericht: Kein Anwaltszwang in erster Instanz (§ 11 Abs. 1 ArbGG)
+
+### Massenentlassungsanzeige § 17 KSchG — BA-Portal
+- Formular: Bundesagentur für Arbeit, Formular „Anzeige nach § 17 KSchG"
+- Einreichung bei der zuständigen Agentur für Arbeit (nach Betriebssitz)
+- **Seit EuGH C-134/24 und BAG 6 AZR 152/22:** Anzeige muss nach Abschluss der BR-Konsultation erfolgen; Nachweis der Konsultation (§ 17 Abs. 3 KSchG) beifügen
+- Portal: ba.de (Arbeitgeber-Services); Formular live auf bundesagentur.de prüfen
+
+### Zustimmungsantrag Integrationsamt (§ 168 SGB IX)
+- Bei Kündigung schwerbehinderter Menschen: Antrag beim zuständigen Integrationsamt (Landesamt für Soziales)
+- Portal: Je nach Bundesland unterschiedlich; direkt beim Integrationsamt des Bundeslandes erkundigen
+- Frist: kein gesetzlicher Freistellungsanspruch des AG; Behörde hat 2 Wochen (§ 171 SGB IX), sonst Fiktion
+
+### Anzeige beim Landesamt (Sonderkündigungsschutz)
+- Schwangere: Genehmigung beim Landesamt für Arbeitsschutz / Gewerbeaufsicht
+- Elternzeit: Zustimmung bei Behörde nach Landesrecht (z.B. Bezirksregierung)
+- Aktuelle Behörden je Bundesland live auf offiziellen Landesseiten prüfen
+
+## Einreichungs-Checkliste
+
+### Klageschrift Arbeitsgericht
+- [ ] Vollmacht des Mandanten (als Anlage)
+- [ ] Klageschrift mit Antrag, Sachverhalt, Rechtsausführungen
+- [ ] Beweisangebote konkret benannt
+- [ ] Anlagen nummeriert und beigefügt (Kündigung, Vertrag, Beweisvermerk)
+- [ ] beA-Einreichung mit qeS oder einfacher Signatur aus eigenem beA
+- [ ] Eingangsbestätigung speichern
+
+### Berufungsschrift LAG
+- [ ] Frist: 1 Monat ab Urteilszustellung (§ 66 ArbGG)
+- [ ] Formelle Berufungsanträge
+- [ ] Anwalt zwingend (§ 11 Abs. 4 ArbGG ab LAG)
+- [ ] Berufungsbegründungsfrist: 2 Monate (ggf. Verlängerung beantragen)
+
+## Anschluss-Skills
+- `workflow-fristen-und-risikoampel` für Fristenmanagement
+- `spezial-fao-fristen-form-und-zustaendigkeit` für weitere Verfahrensfragen
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- BA-Formulare und -Portale live prüfen auf [bundesagentur.de](https://www.bundesagentur.de).
+- beA-Anforderungen: [brak.de](https://www.brak.de) live prüfen; Anforderungen können sich ändern.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine technische Hilfe für beA-Einrichtung oder -Betrieb.
+- Keine Garantie für Aktualität von Formularversionen; stets aktuelle Version beim zuständigen Portal prüfen.

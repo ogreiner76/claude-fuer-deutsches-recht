@@ -1,35 +1,126 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Mandantenkommunikation im Plugin fachanwalt-arbeitsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten."
+description: "Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-Mails, Gesprächsvorbereitung, Informationspflichten, Kostenhinweis RVG, Akteneinsicht, Verfahrensstandsmeldungen, Aufklärungsbrief vor Klageerhebung."
 ---
 
-# Mandantenkommunikation
+# Workflow: Mandantenkommunikation
 
-## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-arbeitsrecht` Mandantenkommunikation im Plugin fachanwalt-arbeitsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
+Strukturierte Kommunikation mit Mandanten im Arbeitsrechtsmandat — von der Mandantsaufnahme bis zum Abschluss. Sicherstellt, dass Informationspflichten erfüllt werden und der Mandant informiert und eingebunden bleibt.
 
 ## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Wenn eine Kommunikationsaufgabe vorliegt:
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. **Art der Kommunikation:** Brief, E-Mail, Telefonat, Gesprächsvorbereitung?
+2. **Anlass:** Erstgespräch, Zwischenbericht, Ergebnis einer Prüfung, Verhandlungsstand, Klageeinreichung, Vergleichsangebot?
+3. **Ziel:** Informieren, Entscheidung herbeiführen, Auftrag bestätigen, Kosten mitteilen?
+4. **Tonalität:** Sachlich-nüchtern, beruhigend, eindringlich (bei Fristdruck)?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Typische Kommunikationssituationen und Muster
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+### 1. Erstinformation nach Mandatsannahme
+
+> „[Ort, Datum]
+>
+> Sehr geehrte/r [Titel] [Name],
+>
+> vielen Dank für Ihr Vertrauen. Ich habe Ihre Unterlagen geprüft und möchte Sie über die erste Einschätzung informieren:
+>
+> **Sachverhalt:** [Kurzfassung]
+>
+> **Rechtliche Lage:** [Kurze Ersteinschätzung: stark/mittlere/schwache Position]
+>
+> **Kritische Fristen:** Die Klagefrist nach § 4 KSchG läuft bis zum **[Datum]**. Um diese zu wahren, werde ich [Maßnahme] vornehmen.
+>
+> **Nächste Schritte:** [1. 2. 3.]
+>
+> **Kosten:** Die voraussichtlichen Anwaltsgebühren betragen bei einem Streitwert von [Betrag] ca. [Betrag] nach RVG. Bei Vergleich oder Berufung entstehen weitere Kosten. [Bei Rechtsschutzversicherung: Deckungsanfrage läuft.]
+>
+> Bitte bestätigen Sie mir kurz, dass Sie mit dem beschriebenen Vorgehen einverstanden sind.
+>
+> Mit freundlichen Grüßen, [Anwalt/-in]"
+
+### 2. Verfahrensstandsmeldung (Zwischenbericht)
+
+> „[Ort, Datum]
+>
+> Sehr geehrte/r [Name],
+>
+> ich möchte Sie über den aktuellen Verfahrensstand informieren:
+>
+> **Stand:** [Klageschrift eingereicht am / Gütermin am / Gegenseite hat geantwortet]
+>
+> **Inhalt der Antwort:** [Kurze Zusammenfassung der Gegenseite, wenn vorhanden]
+>
+> **Meine Einschätzung:** [Kurz: Was bedeutet das für den Prozessausgang?]
+>
+> **Nächster Termin:** [Datum, Ort, Uhrzeit] — Bitte erscheinen Sie persönlich / Ihr Erscheinen ist nicht notwendig (§ 54 ArbGG Gütermin: Mandant darf, muss aber nicht erscheinen).
+>
+> Mit freundlichen Grüßen, [Anwalt/-in]"
+
+### 3. Vergleichsangebot — Information und Entscheidungsvorbereitung
+
+> „[Ort, Datum]
+>
+> Sehr geehrte/r [Name],
+>
+> die Gegenseite hat ein Vergleichsangebot unterbreitet:
+>
+> **Angebot:** Abfindung [Betrag] brutto; Beendigung [Datum]; Zeugnisnote [Note]; weitere Bedingungen: [...]
+>
+> **Meine Einschätzung:**
+> - [Gut] An dem Angebot: [...]
+> - [Nachteilig] An dem Angebot: [...]
+> - Vergleich mit Faustformel: [Berechnung]
+>
+> **Empfehlung:** [Ablehnen / Annehmen / Gegenforderung stellen — mit Begründung]
+>
+> **Entscheidung liegt bei Ihnen:** Bitte teilen Sie mir bis zum [Datum] mit, wie Sie entscheiden möchten. Bei Fragen rufe ich Sie gerne an.
+>
+> Mit freundlichen Grüßen, [Anwalt/-in]"
+
+### 4. Fristdruck-Eilnachricht
+
+> „[DRINGEND] Sehr geehrte/r [Name],
+>
+> die Klagefrist läuft in **[X] Tagen** ab (am [Datum]).
+>
+> Um Ihre Rechte zu wahren, muss bis dahin eine Klageschrift beim Arbeitsgericht eingegangen sein. Ich werde die Klage [heute / morgen] einreichen — auch wenn wir noch nicht alle Details besprochen haben. Wichtig: Die Klage kann auch zurückgenommen werden; das Risiko des Fristversäumnisses ist irreversibel.
+>
+> Bitte antworten Sie mir so schnell wie möglich, ob Sie der Klageeinreichung zustimmen.
+>
+> [Anwalt/-in], [Telefon, E-Mail]"
+
+## Informationspflichten im Überblick
+
+| Zeitpunkt | Pflicht | Rechtsgrundlage |
+|---|---|---|
+| Mandatsannahme | Kostenhinweis | § 49b BRAO; § 3a RVG |
+| Mandatsannahme | Interessenkonflikt-Hinweis | § 43a BRAO |
+| Vor Klageeinreichung | Aufklärung über Erfolgsaussichten und Risiken | BORA § 4 |
+| Vor Vergleich | Aufklärung über Vergleichsinhalt und -folgen | BORA § 4 |
+| Vor Berufung | Hinweis auf erhöhte Kosten und Erfolgsaussichten | BORA § 4 |
+| Laufend | Verfahrensstandsmeldung | Mandatsverhältnis |
+
+## Gesprächsvorbereitung Gütermin
+
+### Was muss der Mandant vor dem Gütermin wissen?
+1. Was ist ein Gütermin? (Einigungsgespräch ohne Beweisaufnahme; § 54 ArbGG)
+2. Darf der Mandant reden? (Im Gütermin: ja, aber nur auf Zeichen des Anwalts)
+3. Was ist unser Ziel? (Mindestabfindung X, Zeugnisnote Y, Beendigungsdatum Z)
+4. Was ist die Fallback-Position? (Wenn kein Vergleich → Kammertermin)
+5. Was unterschreibt er/sie keinesfalls? (Unzulässige Klauseln; übermäßige Geheimhaltung)
+
+## Anschluss-Skills
+- `spezial-verifizierter-mandantenentscheidung` für informierte Mandantenentscheidung
+- `spezial-fachanwalt-erstpruefung-und-mandatsziel` für Erstaufnahme
+- `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Gütermin-Details
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Berufsrecht: BRAO und BORA auf [brak.de](https://www.brak.de) live prüfen.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für individuelle Mandantenkommunikation; Muster sind Vorlage, nicht fertiger Brief.
+- Keine Kostenkalkulation ohne konkrete Streitwertangabe.

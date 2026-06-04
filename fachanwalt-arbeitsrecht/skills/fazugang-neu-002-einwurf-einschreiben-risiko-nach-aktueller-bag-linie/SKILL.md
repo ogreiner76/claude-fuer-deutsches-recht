@@ -1,45 +1,101 @@
 ---
 name: fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag
-description: "Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen."
 ---
 
-# Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie
+# Zugang — Einschreiben-Risiko nach BAG-Linie
 
-## Aufgabe
+## Zweck
+Vollständige Analyse der Zustellungsrisiken bei Nutzung des Einschreibens zur Kündigungszustellung. Häufiger Fehler: Arbeitgeber glaubt, mit Einschreiben sei der Zugang gesichert — das Gegenteil kann der Fall sein.
 
-Dieser Skill bearbeitet **Einwurf-Einschreiben Risiko nach aktueller BAG-Linie** im Bereich **Fachanwalt Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Kaltstart
+Wenn ein Sachverhalt vorliegt (Kündigungsschreiben wurde per Einschreiben versandt), zuerst die Fakten klären:
 
-## Kaltstart in 6 Fragen
+1. **Einschreibentyp:** Einwurf-Einschreiben oder Übergabe-Einschreiben (mit/ohne Rückschein)?
+2. **Abholungsstatus:** Wurde das Einschreiben vom Empfänger abgeholt oder nicht?
+3. **Benachrichtigungszettel:** Wann wurde der Benachrichtigungszettel eingeworfen?
+4. **Aktuelle Lage:** Geht es darum, den Zugangszeitpunkt zu sichern (Arbeitgeber) oder zu bestreiten (Arbeitnehmer)?
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Einschreibentypen und ihre Beweiskraft
 
-## Prüfprogramm
+### Übergabe-Einschreiben (mit oder ohne Rückschein)
+- Zustellung nur durch persönliche Übergabe an Empfänger oder Bevollmächtigten
+- Bei Abwesenheit: Benachrichtigungszettel; Sendung liegt 7 Werktage zur Abholung bereit
+- **Wenn nicht abgeholt:** Kein Zugang! Der Empfänger muss die Post nicht aktiv abholen.
+- **BAG-Linie:** Einschreiben, das beim Postamt lagert und nicht abgeholt wird, geht nicht zu. Der Arbeitgeber hat keinen Zugangsbeweis.
+- Rückschein beweist nur die Aushändigung, nicht das Datum oder den Inhalt.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Einwurf-Einschreiben
+- Postzusteller wirft den Brief in den Briefkasten und protokolliert dies (RFID-Scan)
+- **Beweiskraft:** Deutsche Post protokolliert den Einwurf; Scan-Datum ist nachweisbar
+- **BAG-Haltung:** Einwurf-Einschreiben ist als Zugangsbeweis geeigneter als Übergabe-Einschreiben, aber auch hier: Empfänger kann bestreiten, den Briefkasten zu dem Zeitpunkt leerbar gehabt zu haben
 
-## Typische Fallen
+### Sendungsverfolgung
+Die Sendungsverfolgung der Deutschen Post dokumentiert:
+- Datum und Uhrzeit des Einwurfs (Einwurf-Einschreiben)
+- Datum der Abholung (Übergabe-Einschreiben)
+Nicht dokumentiert: Inhalt des Briefes.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Zugangsfiktion und -vermutung
 
-## Output
+### Keine gesetzliche Zugangsfiktion im Arbeitsrecht
+Anders als im Verwaltungsrecht (§ 41 Abs. 2 VwVfG: Dreitagsfiktion) oder im Steuerrecht gibt es im Arbeitsrecht keine gesetzliche Zugangsfiktion für Postsendungen.
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+### BAG-Linie zur Zugangsvermutung
+Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdessen:
+- Einwurf-Einschreiben mit Sendungsbeleg schafft Anscheinsbeweis für Zugang
+- Empfänger kann den Anscheinsbeweis erschüttern (z.B. Briefkasten defekt, falsche Adresse)
+
+**Quellenregel:** Aktuelle BAG-Rechtsprechung zu Zugang und Beweislast vor Ausgabe live prüfen auf [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) und [dejure.org](https://dejure.org).
+
+## Risikomatrix: Welches Versandmittel für Kündigungen?
+
+| Versandmittel | Zugangsbeweis | Inhaltsbeweis | Empfehlung |
+|---|---|---|---|
+| Übergabe-Einschreiben | Unsicher (keine Abholung möglich) | Keiner | Nicht empfehlenswert als alleiniges Mittel |
+| Einwurf-Einschreiben | Mittelmäßig (Scan-Datum) | Keiner | Ergänzend zur Botenzustellung |
+| Botenzustellung + Beweisvermerk | Gut (Zeuge, Vermerk) | Keiner | Empfehlenswert; zusätzlich Foto |
+| Gerichtsvollzieher | Sehr gut (öffentl. Urkunde § 418 ZPO) | Gut | Empfehlenswert bei kritischen Fällen |
+| Notar | Sehr gut (Notarprotokoll) | Gut | Empfehlenswert bei sehr hohem Risiko |
+| E-Mail/WhatsApp | Kein Zugang (§ 623 BGB-Schriftform!) | — | Verboten für Kündigung |
+
+## Prozessstrategie: Zugangszeitpunkt beim Einschreiben
+
+### Arbeitgeber-Perspektive
+- Einwurf-Einschreiben: Sendungsverfolgungsprotokoll als Anlage einreichen
+- Zusätzlich: Eigene Kopie des abgesendeten Schreibens (Datum, Unterschrift), Kuvertierungsprotokoll
+- Bei Übergabe-Einschreiben ohne Abholung: Ergänzend Botenzustellung nachweisen oder wiederholen
+
+### Arbeitnehmer-Perspektive
+- Übergabe-Einschreiben nicht abgeholt: Zugang bestreiten; Nachweislast beim Arbeitgeber
+- Einwurf-Einschreiben: Zugang zum angegebenen Datum bestreiten, wenn Briefkasten nicht zugänglich war oder Scan-Datum falsch
+- Inhalt des zugestellten Dokuments bestreiten (→ Skill fazugang-neu-004)
+- Nie unzutreffende Behauptungen über Abwesenheit aufstellen; § 138 ZPO und strafrechtliche Implikation
+
+## Kombination Einschreiben + Bote
+
+**Best Practice für Arbeitgeber:** Parallele Zustellung durch Boten (persönliche Übergabe oder Briefkasteneinwurf mit Beweisvermerk) plus Einwurf-Einschreiben am gleichen Tag. Damit ist der Zugang über den früheren Zeitpunkt gesichert.
+
+## Beweislastverteilung im Überblick
+
+| Frage | Beweislast |
+|---|---|
+| Ob Kündigung zugegangen | Arbeitgeber |
+| Wann Kündigung zugegangen | Arbeitgeber |
+| Inhalt der Kündigung | Arbeitgeber (Originalschreiben) |
+| Zugangsvereitelung durch AN | Arbeitgeber (§ 162 BGB-Analogie) |
+
+## Anschluss-Skills
+- `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Botenzustellung
+- `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslandsaufenthalt` für Sonderfälle
+- `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangebot` für Inhaltsbestreiten
+- `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` für Fristberechnung
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Keine Aussagen zu BAG-Zugangsvermutungen ohne verifizierten Quellenbeleg.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine individuelle Zugangsprognose ohne Kenntnis der konkreten Umstände.
+- Keine Aussage über Postlaufzeiten der Deutschen Post im konkreten Einzelfall.

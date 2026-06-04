@@ -1,48 +1,124 @@
 ---
 name: spezial-tzbfg-schriftsatz-brief-und-memo-bausteine
-description: "Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel."
 ---
 
-# Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine
+# Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Tzbfg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Tzbfg.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Fertige und anpassbare Textbausteine für die häufigsten TzBfG-Konstellationen — Entfristungsklage, Mandantenbrief und Vergleichsformeln. Alle Bausteine sind Vorlage; anwaltliche Einzelfallprüfung bleibt erforderlich.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine TzBfG-Konstellation vorliegt, zuerst klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Was ist der Sachverhalt?** Sachgrundbefristung oder sachgrundlose Befristung? Verlängerungen?
+2. **Ist die 3-Wochen-Frist noch offen?** (§ 17 TzBfG: 3 Wochen ab vereinbartem Ende)
+3. **Welches Dokument wird gebraucht?** Klageschrift, Mandantenbrief, Vergleich, Memo?
+4. **Was ist das Ziel?** Entfristung (Weiterbeschäftigung) oder Vergleich mit Abfindung?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tzbfg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Baustein 1: Klageschrift Entfristungsklage (§ 17 TzBfG)
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Antrag
+> „Es wird beantragt: Festzustellen, dass das zwischen den Parteien bestehende Arbeitsverhältnis nicht durch die Befristung gemäß Arbeitsvertrag vom [Datum] zum [Beendigungsdatum] beendet worden ist."
+
+### Hilfsantrag (wenn Weiterbeschäftigung angestrebt)
+> „Hilfsweise wird beantragt: Die Beklagte zu verurteilen, den Kläger / die Klägerin über den [Beendigungsdatum] hinaus als [Berufsbezeichnung] zu den bisherigen Bedingungen weiterzubeschäftigen."
+
+### Sachverhaltsaufbau Klageschrift
+
+```
+I. Parteien und Arbeitsverhältnis
+Der Kläger / die Klägerin ist seit dem [Datum] bei der Beklagten als [Bezeichnung]
+beschäftigt. Das Arbeitsverhältnis wurde durch Vertrag vom [Datum] bis zum [Datum]
+befristet. [Weitere Verlängerungen...]
+
+II. Sachverhalt
+[Knappe Darstellung: wann Vertrag abgeschlossen, wann befristet verlängert,
+welcher Sachgrund behauptet wird / ob sachgrundlose Befristung]
+
+III. Fehlende Schriftform / fehlender Sachgrund / Anschlussverbot
+[Konkrete Angriffspunkte:]
+- Schriftform § 14 Abs. 4 TzBfG: [Vertrag wurde nach Dienstantritt unterzeichnet /
+  keine Originalunterschrift / etc.]
+- Kein Sachgrund § 14 Abs. 1 TzBfG: [konkret warum der behauptete Sachgrund nicht vorliegt]
+- Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG: [wenn Vorbeschäftigung vorhanden]
+
+IV. Beweisangebote
+[Urkunden: Vertrag als Anlage K1; Verlängerungsvereinbarungen als Anlage K2 usw.]
+[Zeugen: Name, Anschrift — wofür?]
+```
+
+### Klagefrist-Hinweis (in der Klageschrift)
+> „Die Klage ist fristgerecht erhoben. Das Arbeitsverhältnis endete am [Datum]; die Klageschrift ist am [Datum] beim Arbeitsgericht [Ort] eingegangen und damit innerhalb der Dreiwochenfrist des § 17 TzBfG."
+
+## Baustein 2: Mandantenbrief — Befristungsbeendigung (Informationsschreiben)
+
+> „[Ort, Datum]
+>
+> Sehr geehrte/r [Mandant/in],
+>
+> Ihr befristetes Arbeitsverhältnis endet am [Datum]. Nach meiner Prüfung bestehen folgende Möglichkeiten:
+>
+> 1. Entfristungsklage (§ 17 TzBfG): Wenn die Befristung unwirksam ist [wegen: Schriftformmangel / fehlendem Sachgrund / Anschlussverbot], haben Sie die Möglichkeit, beim Arbeitsgericht [Ort] Klage zu erheben. Die Klagefrist beträgt **3 Wochen ab dem [Beendigungsdatum]**, also bis spätestens **[Fristablauf]**.
+>
+> 2. Verhandlung mit dem Arbeitgeber: Alternativ können wir versuchen, mit dem Arbeitgeber eine Verlängerung oder einen Aufhebungsvertrag mit Abfindung zu verhandeln.
+>
+> Ich empfehle Ihnen, mir möglichst bald mitzuteilen, für welche Option Sie sich entscheiden, damit wir rechtzeitig tätig werden können.
+>
+> Mit freundlichen Grüßen
+> [Anwalt/-in]"
+
+## Baustein 3: Arbeitgeber-Antwortbrief — Abweisung der Entfristungsklage (Klageerwiderung Stichworte)
+
+```
+Zu I: Wir bestreiten die fehlende Schriftform; der Vertrag wurde vor Dienstantritt
+unterzeichnet (Beleg: Anlage B1: Vertrag mit Datum; Anlage B2: Arbeitsbeginn-Nachweis).
+
+Zu II: Der Sachgrund [Vertretung / Erprobung / etc.] ist erfüllt, weil:
+[konkrete Darlegung des Sachgrunds]
+
+Zu III: Das Anschlussverbot des § 14 Abs. 2 Satz 2 TzBfG ist nicht verletzt, weil:
+[keine Vorbeschäftigung / unterbrochene Vorbeschäftigung > 3 Jahre — aktuelle BAG-Linie prüfen]
+```
+
+## Baustein 4: Vergleichsformel TzBfG
+
+### Standard-Vergleich (Entfristung vs. Abfindung)
+> „Die Parteien sind sich einig, dass das zwischen ihnen bestehende Arbeitsverhältnis durch die in dem Arbeitsvertrag vom [Datum] vereinbarte Befristung mit Ablauf des [Datum] geendet hat. Die Beklagte zahlt dem Kläger / der Klägerin zur Abgeltung aller gegenseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung einen Betrag in Höhe von [Betrag] brutto, fällig am [Datum]."
+
+### Vergleich mit Weiterbeschäftigungsklausel
+> „Die Beklagte verpflichtet sich, den Kläger / die Klägerin über den [Datum] hinaus für weitere [Monate/Dauer] als [Berufsbezeichnung] zu den bisherigen Bedingungen zu beschäftigen."
+
+## Baustein 5: Memo — Prüfvermerk Befristungswirksamkeit (Kurzfassung)
+
+```
+PRÜFVERMERK BEFRISTUNG
+Mandant: [Name], geb. [Datum]
+Arbeitgeber: [Firma], [Ort]
+Befristung: [Datum] bis [Datum], Sachgrund: [ja/nein/welcher]
+Verlängerungen: [Anzahl, Daten]
+Vorbeschäftigung: [ja/nein; wenn ja: wann, wie lange]
+
+Prüfung:
+1. Schriftform (§ 14 Abs. 4 TzBfG): [OK / Fehler: beschreiben]
+2. Sachgrund (§ 14 Abs. 1 TzBfG): [vorhanden/fehlend: begründen]
+3. Anschlussverbot (§ 14 Abs. 2 Satz 2 TzBfG): [Vorbeschäftigung? Wie lange zurück?]
+4. Klagefrist (§ 17 TzBfG): [Fristablauf: Datum]
+
+Ergebnis: Klage [empfehlenswert / nicht empfehlenswert] — weil: [Begründung]
+Nächster Schritt: [Klageschrift bis Datum / Mandantengespräch / Verhandlungsversuch]
+```
+
+## Anschluss-Skills
+- `fachanwalt-arbeitsrecht-befristung-tzbfg` für Tiefenprüfung
+- `spezial-befristung-compliance-dokumentation-und-akte` für Dokumentationsanforderungen
+- `workflow-output-waehlen` für Outputformat-Auswahl
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für vollständige anwaltliche Klageschrift-Erstellung.
+- Keine Gewähr für Aktualität der Klageformulierungen bei Gesetzesänderungen.

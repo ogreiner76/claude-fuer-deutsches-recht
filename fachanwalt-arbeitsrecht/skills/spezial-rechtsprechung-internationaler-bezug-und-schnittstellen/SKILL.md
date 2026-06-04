@@ -1,48 +1,94 @@
 ---
 name: spezial-rechtsprechung-internationaler-bezug-und-schnittstellen
-description: "Rechtsprechung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Internationaler Bezug im Arbeitsrecht: EuGH-Rechtsprechung (Massenentlassung, Befristung, Diskriminierung, Urlaub), EU-Richtlinien (RL 2023/970, RL 2001/23, RL 2008/94, RL 2003/88), Entsendung AEntG, internationales Privatrecht Rom I."
 ---
 
-# Rechtsprechung: Internationaler Bezug und Schnittstellen
+# Spezial: Rechtsprechung — Internationaler Bezug und Schnittstellen
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **Rechtsprechung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Rechtsprechung.
-- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Überblick über die EuGH-Linie im Arbeitsrecht und die relevanten EU-Richtlinien mit ihren deutschen Umsetzungsgesetzen. Besondere Bedeutung: Richtlinienkonforme Auslegung, Vorabentscheidungsverfahren und direkte Anwendbarkeit von EU-Recht.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein Sachverhalt mit internationalem Bezug oder einer EU-Rechtsfrage vorliegt:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **EuGH oder nationales Recht?** Ist eine EU-Richtlinie berührt?
+2. **Entsendung?** Gelten Pflichten nach AEntG oder EU-Entsenderecht (RL 96/71/EG, RL 2018/957)?
+3. **Grenzüberschreitendes Arbeitsverhältnis?** Welches Recht gilt? (Rom I-VO Art. 8)
+4. **Aktuelle EuGH-Vorlage?** Liegt ein Vorabentscheidungsverfahren zu einer relevanten Norm vor?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## EuGH-Linien im Deutschen Arbeitsrecht
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### 1. Massenentlassung — RL 98/59/EG
+
+**EuGH C-134/24 / C-402/24 (30.10.2025):** Massenentlassungsanzeige ist Wirksamkeitsvoraussetzung. Fehler bei der Anzeige führen zur Unwirksamkeit der Kündigungen; keine Heilung nach Kündigungsausspruch. Die Anzeige muss vor Ausspruch der Kündigungen bei der zuständigen Behörde eingegangen sein.
+
+**Umsetzung in Deutschland:** § 17 KSchG; Konsequenz aus BAG 6 AZR 152/22 und EuGH-Linie: Anzeige nach Abschluss der BR-Konsultation, vor Ausspruch der Kündigungen.
+
+**Quellenregel:** EuGH-Urteile via [curia.europa.eu](https://curia.europa.eu); BAG via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+
+### 2. Betriebsübergang — RL 2001/23/EG (Übergangsrichtlinie)
+
+- EuGH-Linie (Spector Rs. C-13/95 — Süzen und Nachfolgeentscheidungen): wirtschaftliche Einheit muss ihre Identität wahren; Kriterien für betriebsmittelintensive vs. dienstleistungsintensive Branchen unterschiedlich
+- Umsetzung in Deutschland: § 613a BGB
+- Haftungsfolgen: gesamtschuldnerische Haftung alter und neuer Inhaber (§ 613a Abs. 2 BGB)
+
+### 3. Urlaubsrecht — RL 2003/88/EG (Arbeitszeitrichtlinie)
+
+- **EuGH-Urteile:** Kein Verfall des Urlaubs ohne Hinweis des Arbeitgebers (Schultz-Hoff, King, Kreuziger); Deutschland hat dies im BUrlG durch BAG-Rechtsprechung umgesetzt
+- **BAG 9 AZR 104/24 (03.06.2025):** Kein Urlaubsverzicht durch Prozessvergleich
+- Umsetzung in Deutschland: §§ 1–13 BUrlG; BAG hat die EuGH-Linie integriert
+
+### 4. Gleichbehandlung / Diskriminierung
+
+- **RL 2006/54/EG** (Gleichbehandlung bei Beschäftigung, Geschlecht): Umsetzung durch AGG
+- **RL 2000/43/EG** (Rassendiskriminierung), **RL 2000/78/EG** (allgemeiner Rahmen): ebenfalls AGG
+- **EuGH zur Beweislast:** Indizienvortrag genügt; Arbeitgeber muss widerlegen (umgesetzt in § 22 AGG)
+- **EU-Lohntransparenz-RL 2023/970:** Umsetzung bis 7. Juni 2026; aktuellen Stand live prüfen
+
+### 5. Befristung — RL 1999/70/EG (Befristungsrichtlinie)
+
+- **Kettenbefristungsverbot:** RL schreibt Maßnahmen gegen Missbrauch vor; BAG hat Missbrauchsprüfung entwickelt
+- **EuGH zu Betriebsratsmitgliedern:** BAG 7 AZR 50/24 (18.06.2025) nach EuGH-Vorlage: § 14 Abs. 2 TzBfG gilt auch für BR-Mitglieder; Verweigerung des Folgevertrags wegen BR-Mandat = Schadensersatz
+
+## Internationales Privatrecht — Rom I-VO Art. 8
+
+### Anzuwendendes Recht bei Auslandsbezug
+Art. 8 Rom I-VO (VO EG 593/2008): Für Arbeitnehmer gilt das Recht des Staates, in dem der Arbeitnehmer gewöhnlich seine Arbeit verrichtet — auch wenn er vorübergehend in einen anderen Staat entsandt wird. Abweichung durch Rechtswahl möglich, wenn das gewählte Recht den Arbeitnehmer nicht schlechter stellt als das objektiv anwendbare.
+
+**Praxis-Beispiel:** Deutsches Unternehmen entsendet Arbeitnehmer nach Polen für 2 Jahre → grundsätzlich deutsches Recht bleibt anwendbar; polnische Mindeststandards nach AEntG zu beachten.
+
+## Entsendung — AEntG und EU-Entsenderecht
+
+### Anwendung des AEntG
+- Bei Entsendung von Arbeitnehmern nach Deutschland (inbound): AEntG gilt; Mindestlohn, Urlaub, Sicherheit und Gesundheitsschutz nach deutschem Recht für die Dauer der Entsendung
+- Umsetzung der RL 2018/957/EU (Änderungsrichtlinie): bei Entsendungen > 12 Monate im Wesentlichen alle Arbeitsbedingungen des Aufnahmestaats
+
+### Meldepflichten
+Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Schwarzarbeit / Zoll) melden. Unterlassung → Ordnungswidrigkeit.
+
+## Vorabentscheidungsverfahren und Bedeutung für deutsche Praxis
+
+| EuGH-Verfahren | Streitfrage | Deutsche Norm | Status |
+|---|---|---|---|
+| C-134/24 | Massenentlassung: Wirksamkeitsvoraussetzung | § 17 KSchG | Entschieden 30.10.2025 |
+| C-13/95 (Süzen) | Betriebsübergang: Identitätskriterien | § 613a BGB | Grundlegendes Urteil |
+| Schultz-Hoff | Urlaubsverfall bei Krankheit | § 7 BUrlG | Umgesetzt in BAG-Linie |
+| King | Urlaubsanspruch bei fehlendem Hinweis | § 7 BUrlG | Umgesetzt in BAG-Linie |
+
+**Wichtig:** Vor Ausgabe von EuGH-Aktenzeichen stets verifizieren auf [curia.europa.eu](https://curia.europa.eu). Keine Aktenzeichen aus Modellwissen ohne Verifikation.
+
+## Anschluss-Skills
+- `spezial-rechtsprechung-livecheck-arbeitsrecht` für Live-Verifikation von Urteilen
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
+- `ar-betriebsuebergang-spezial` für § 613a BGB
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- EuGH-Urteile via [curia.europa.eu](https://curia.europa.eu).
+- BAG-Urteile via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- EU-Richtlinien via [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- Nationales Recht via [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
+
+## Was dieser Skill nicht macht
+- Keine umfassende Beratung zu internationalem Arbeitsrecht in Drittstaaten (USA, Großbritannien etc.).
+- Keine Prüfung von Sozialversicherungs-Entsenderecht (A1-Bescheinigung, Entsende-SV-Koordinierung).

@@ -1,48 +1,123 @@
 ---
 name: spezial-quelle-beweislast-und-darlegungslast
-description: "Quelle: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze."
 ---
 
-# Quelle: Beweislast, Darlegungslast und Substantiierung
+# Spezial: Quelle, Beweislast und Darlegungslast
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Quelle**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Quelle.
-- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Systematische Aufbereitung der Quellen- und Beweislastregeln für arbeitsrechtliche Schriftsätze — von der Darlegungslastverteilung über die abgestufte BAG-Linie bis zum Quellenprotokoll für jeden zitierten Rechtssatz.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein Schriftsatz, eine Prüfmatrix oder eine Antwort auf eine Rechtsfrage zu erstellen ist:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Welcher Rechtssatz soll bewiesen werden?** (Normenanwendung, Tatsache, Bewertung)
+2. **Wer trägt die Darlegungslast?** (Grundregel: wer die Norm anwendet, trägt die Last)
+3. **Welche Quellen sind erforderlich?** (Normtext, Urteil, Aufsatz — Zulässigkeit prüfen)
+4. **Sind alle zitierten Quellen verifiziert?** (Live-Check vor Ausgabe)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Quelle** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Grundregel Darlegungs- und Beweislast
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Allgemeine Regel
+Jede Partei, die eine für sie günstige Rechtsfolge geltend macht, hat die Voraussetzungen der Norm darzulegen und zu beweisen.
+
+Darlegen = substantiierter Tatsachenvortrag so, dass das Gericht den behaupteten Sachverhalt als möglicherweise zutreffend betrachten kann.
+
+Beweisen = Überzeugung des Gerichts von der Richtigkeit der behaupteten Tatsache (§ 286 ZPO: volle Überzeugung).
+
+### Abgestufte Darlegungslast (BAG-Linie)
+Das BAG hat eine abgestufte Darlegungslast für viele arbeitsrechtliche Konstellationen entwickelt:
+
+1. **Erste Ebene:** Partei A trägt schlüssig und pauschal vor
+2. **Zweite Ebene:** Partei B muss substantiiert erwidern (wenn ihr das möglich und zumutbar ist)
+3. **Dritte Ebene:** Partei A muss die Einwände Bs wiederum substantiiert widerlegen
+
+**Anwendungsbeispiele:**
+- Überstunden: AN trägt pauschal vor (Stunden, Zeitraum); AG muss auf Basis eigener Aufzeichnung substantiiert erwidern; dann AN konkreter
+- Sozialauswahl: AN rügt Fehler pauschal; AG muss Auswahlentscheidung offenlegen; dann AN konkret angreifen
+- Massenentlassung: AN trägt vor; AG muss Anzeige und Konsultationsablauf konkret darlegen
+
+## Beweislastverteilung nach Normen — Tabellarische Übersicht
+
+| Frage | Beweislastträger | Norm |
+|---|---|---|
+| Zugang der Kündigung | Arbeitgeber | § 130 BGB |
+| Schriftform der Kündigung | Arbeitgeber | § 623 BGB |
+| Klagefrist gewahrt | Arbeitnehmer | § 4 KSchG |
+| KSchG-Anwendbarkeit (Betriebsgröße) | Arbeitgeber (nach Bestreiten) | § 23 KSchG |
+| Kündigungsgrund betriebsbedingt | Arbeitgeber | § 1 Abs. 2 KSchG |
+| Sozialauswahl korrekt | Arbeitgeber (nach Rüge) | § 1 Abs. 3 KSchG |
+| BR-Anhörung ordnungsgemäß | Arbeitgeber | § 102 BetrVG |
+| Sonderkündigungsschutz (Vorliegen) | Arbeitnehmer | §§ 17 MuSchG, 18 BEEG etc. |
+| Diskriminierungsindizien | Arbeitnehmer (Glaubhaftmachung) | § 22 AGG |
+| Keine Diskriminierung | Arbeitgeber (nach Indizienvortrag) | § 22 AGG |
+| Sachgrund Befristung | Arbeitgeber | § 14 Abs. 1 TzBfG |
+| Massenentlassung korrekt angezeigt | Arbeitgeber | § 17 KSchG |
+| Vollmacht des Kündigenden | Arbeitgeber (bei Rüge) | § 174 BGB |
+
+## Quellenregel für Schriftsätze
+
+### Zulässige Quellen
+
+**Stufe 1 — Normtext (immer erforderlich):**
+- [gesetze-im-internet.de](https://www.gesetze-im-internet.de) für deutsches Bundesrecht
+- [eur-lex.europa.eu](https://eur-lex.europa.eu) für EU-Recht
+- [bverfg.de](https://www.bverfg.de) für BVerfG-Normprüfung
+- **Format:** „§ [Nummer] [Gesetz] in der Fassung vom [Datum]"
+
+**Stufe 2 — Rechtsprechung (nur mit Verifikation):**
+- [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) für BAG
+- [openjur.de](https://openjur.de) für LAG- und ArbG-Entscheidungen
+- [dejure.org](https://dejure.org) für Normen-Verknüpfungen und Fundstellen
+- **Format:** „BAG, Urteil vom [Datum], Az. [Aktenzeichen], Rn. [Randnummer wenn verfügbar], abrufbar unter [URL]"
+
+**Stufe 3 — Literatur (nur wenn vom Nutzer bereitgestellt oder via Live-Zugriff):**
+- Kommentare mit Bearbeiter und Randnummer
+- Aufsätze mit Autor, Zeitschrift, Jahr, Heft, Seite
+
+### Unzulässige Quellen / Verbote
+- **BeckRS als alleinige Fundstelle** bei tragenden Aussagen (paywall; nicht frei prüfbar)
+- **juris-Aktenzeichen** ohne Beifügung des frei prüfbaren Originals
+- **anwalt24.de, kanzlei.de-Artikel** — keine primäre Rechtsquelle
+- **KI-generierte Aktenzeichen** ohne verifizierten Link — immer live prüfen
+- **Aufsätze oder Kommentare aus Modellwissen** ohne Nutzervorlage oder Live-Zugriff
+
+## Quellenprotokoll — Template für Schriftsätze
+
+```
+QUELLENPROTOKOLL — [Schriftsatz/Memo/Brief vom Datum]
+
+Normzitate:
+1. § [Norm] [Gesetz] — geprüft auf gesetze-im-internet.de, Stand [Datum]
+2. ...
+
+Rechtsprechung:
+1. BAG, [Datum], Az. [X] — abgerufen von bundesarbeitsgericht.de am [Datum]
+   URL: [URL]
+   Kernsatz: [...]
+2. ...
+
+Unsichere Punkte (Live-Check erforderlich):
+- [Punkt] — Quelle noch nicht verifiziert; vor Ausgabe prüfen
+```
+
+## Scheingenauigkeit vermeiden
+
+**Verboten:** Ein Rechtssatz wird aus Modellwissen mit einer Fundstelle versehen, ohne dass die Fundstelle geprüft wurde.
+
+**Gebot:** Wenn eine Quelle nicht verifiziert werden kann, ist der Rechtssatz als „zu prüfen" zu kennzeichnen und ein Live-Check-Hinweis auszugeben.
+
+## Anschluss-Skills
+- `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Quellen-Verifikation im Schriftsatz
+- `workflow-rechtsquellen-livecheck` für Live-Prüfung von Normen und Urteilen
+- `spezial-arbeitsrecht-tatbestand-beweis-und-belege` für Beweismittel
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit verifizierbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [openjur.de](https://openjur.de).
+- Keine Modellwissen-Zitate ohne Verifikation.
+- Annahmen und unsichere Punkte explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine automatische Quellenverifikation; menschliche Prüfung bleibt notwendig.
+- Keine Prüfung von Kommentarliteratur ohne Nutzervorlage.

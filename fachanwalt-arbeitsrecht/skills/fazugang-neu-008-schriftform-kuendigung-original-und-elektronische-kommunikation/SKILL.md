@@ -1,45 +1,110 @@
 ---
-name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc
-description: "Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: fazugang-neu-008-schriftform-kuendigung-original-und
+description: "Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung."
 ---
 
-# Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation
+# Schriftform der Kündigung — Original und elektronische Kommunikation
 
-## Aufgabe
+## Zweck
+Vollständige Prüfung des Schriftformerfordernisses nach § 623 BGB bei der Kündigung. Häufig verkannte Fehlerquelle: Arbeitgeber versenden Kündigungen per E-Mail, WhatsApp oder als eingescannte PDF — alles unwirksam.
 
-Dieser Skill bearbeitet **Schriftform Kündigung Original und elektronische Kommunikation** im Bereich **Fachanwalt Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Kaltstart
+Wenn eine Kündigung vorliegt, sofort prüfen:
 
-## Kaltstart in 6 Fragen
+1. **Wie wurde die Kündigung übermittelt?** Brief, E-Mail, WhatsApp, Fax, Teams, mündlich?
+2. **Liegt eine eigenhändig unterzeichnete Originalurkunde vor?** Handunterschrift (keine Druckunterschrift, kein Faksimile)?
+3. **Wer hat unterzeichnet?** Ist diese Person zur Kündigung befugt?
+4. **War eine Vollmacht beigefügt?** Im Original oder nur in Kopie?
+5. **Hat der Mandant die mangelhafte Vollmacht unverzüglich zurückgewiesen?**
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## § 623 BGB — Schriftform zwingend
 
-## Prüfprogramm
+### Wortlaut und Anwendungsbereich
+§ 623 BGB: Die Beendigung von Arbeitsverhältnissen durch Kündigung oder Auflösungsvertrag sowie die Befristung bedürfen zu ihrer Wirksamkeit der Schriftform; die elektronische Form ist ausgeschlossen.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+**Anwendung auf:**
+- Ordentliche Kündigung
+- Außerordentliche Kündigung (§ 626 BGB)
+- Aufhebungsvertrag
+- Befristungsabrede (§ 14 Abs. 4 TzBfG)
 
-## Typische Fallen
+### Was ist Schriftform nach § 126 BGB?
+- Eigenhändige Namensunterschrift (§ 126 Abs. 1 BGB)
+- Unterzeichnung mit vollem Namen oder zumindest als Unterschrift identifizierbares Handzeichen
+- Kein Faksimile-Stempel (Gummistempel mit vorgedruckter Unterschrift)
+- Keine eingescannte Unterschrift im PDF
+- Keine digitale Signatur (außer qualifizierte elektronische Signatur nach eIDAS — aber § 623 BGB schließt elektronische Form ausdrücklich aus!)
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### Elektronische Form ausdrücklich ausgeschlossen
+§ 623 BGB nennt explizit: „die elektronische Form ist ausgeschlossen". Das bedeutet:
+- E-Mail = nichtig, auch mit eingescannter Unterschrift
+- WhatsApp-Nachricht = nichtig
+- Fax = streitig; h.M. und BAG-Linie: Fax genügt nicht, da nur Kopie übertragen wird
+- Teams/Zoom-Nachricht = nichtig
+- SMS = nichtig
+- Mündliche Kündigung = nichtig
 
-## Output
+**Rechtsfolge:** Kündigung ist nach § 125 BGB nichtig — nicht nur unwirksam. Kein Fristlauf § 4 KSchG für eine nichtige Kündigung!
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## Fax-Sonderfall
+
+### Streitstand
+- **H.M. und BAG-Linie:** Fax genügt nicht für § 623 BGB, da nur ein Abbild der Urkunde übertragen wird, nicht die Originalurkunde selbst. Schriftform erfordert das Original beim Empfänger.
+- **Mindermeinung:** Fax bei bekanntem Absender als ausreichend diskutiert.
+- **Praxis-Empfehlung:** Nie auf Fax allein verlassen; immer Original nachsenden.
+
+## Vollmacht und § 174 BGB
+
+### Zurückweisungsrecht
+Hat eine bevollmächtigte Person (nicht der gesetzliche Vertreter selbst) die Kündigung unterzeichnet und liegt keine Originalvollmacht bei, kann der Empfänger die Kündigung nach § 174 BGB unverzüglich zurückweisen.
+
+**Rechtsfolge der Zurückweisung:** Die Kündigung ist unwirksam; der Fristlauf beginnt nicht.
+
+**Wichtig: Unverzüglich!**
+- „Unverzüglich" = ohne schuldhaftes Zögern (§ 121 Abs. 1 BGB), also in aller Regel sofort oder zumindest innerhalb weniger Tage
+- Wartet der Empfänger zu lange (> 1–2 Wochen), kann das Zurückweisungsrecht verwirkt sein
+
+### Wer muss Vollmacht im Original beifügen?
+- Bei handlungsbevollmächtigten Mitarbeitern (Personalabteilung, HR): Originalvollmacht beifügen oder Kündigung durch Organ unterzeichnen lassen
+- Bei Prokuristen: Prokura ist im Handelsregister eingetragen; § 174 Satz 2 BGB: Kenntnis der Vollmacht schließt Zurückweisungsrecht aus
+- Bei gesetzlichen Vertretern (GmbH-GF, Vorstand AG): keine Vollmacht nötig; Eintragung im Handelsregister genügt
+
+## Prüfschema Schriftform
+
+| Prüfpunkt | Ergebnis | Konsequenz |
+|---|---|---|
+| 1. Handunterschrift (keine Kopie)? | Ja / Nein | Nein → § 125 BGB nichtig |
+| 2. Faksimile-Stempel? | Ja / Nein | Ja → nichtig |
+| 3. Elektronische Übermittlung (E-Mail, WhatsApp etc.)? | Ja / Nein | Ja → nichtig |
+| 4. Fax? | Ja / Nein | Ja → h.M. nichtig |
+| 5. Vollmacht beigefügt (Original)? | Ja / Nein | Nein → § 174 BGB-Rüge möglich |
+| 6. Zurückweisung nach § 174 BGB unverzüglich? | Ja / Nein | Zu spät → Verwirkung |
+
+## Musterschreiben: Zurückweisung nach § 174 BGB
+
+> „Sehr geehrte Damen und Herren,
+>
+> ich habe am [Datum] eine auf den [Datum] datierte Kündigung meines Arbeitsverhältnisses erhalten, die von [Name der Person] unterzeichnet wurde.
+>
+> Da dieser Kündigung keine Originalvollmacht beigefügt war, aus der die Bevollmächtigung zur Kündigung hervorgeht, weise ich die Kündigung hiermit gemäß § 174 BGB zurück.
+>
+> [Ort, Datum, Unterschrift]"
+
+## Heilung des Schriftformfehlers
+
+Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine neue, formwirksame Kündigung ausstellen und zustellen. Neue Kündigungsfrist und neue § 4 KSchG-Klagefrist beginnen ab dem neuen Zugangsdatum.
+
+## Anschluss-Skills
+- `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zustellungsdokumentation
+- `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
+- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensfragen
+
+## Quellenregel
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Fax-Streitstand: aktuelle BAG-Linie live prüfen.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine individuelle Prognose über Zurückweisungsrecht bei konkretem Fall ohne vollständige Sachverhaltskenntnis.
+- Keine Aussage zu internationalen Schriftformerfordernissen.

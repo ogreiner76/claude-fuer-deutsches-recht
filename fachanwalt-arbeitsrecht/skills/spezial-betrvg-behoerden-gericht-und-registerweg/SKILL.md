@@ -1,48 +1,123 @@
 ---
 name: spezial-betrvg-behoerden-gericht-und-registerweg
-description: "Betrvg: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer."
 ---
 
-# Betrvg: Behörden-, Gerichts- oder Registerweg
+# Spezial: BetrVG — Behörden, Gericht und Registerweg
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Betrvg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Betrvg.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Vollständiger Überblick über Verfahrenswege bei betriebsverfassungsrechtlichen Streitigkeiten — welches Verfahren vor welchem Gericht, wer ist Beteiligter, welche Fristen gelten.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine betriebsverfassungsrechtliche Frage vorliegt, zuerst bestimmen:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Streitgegenstand:** Mitbestimmungsrecht, Betriebsratswahl, Zustimmung zu personeller Maßnahme, Unterlassungsanspruch, Einigungsstelle?
+2. **Beteiligte:** Arbeitgeber, Betriebsrat, Gewerkschaft, einzelne Arbeitnehmer?
+3. **Eilbedürftigkeit:** Ist eine einstweilige Verfügung notwendig (z.B. drohende Verletzung eines Mitbestimmungsrechts)?
+4. **Rechtsprechungsstand:** Gibt es aktuelle BAG-Entscheidungen zum Streitpunkt?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Betrvg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Verfahrensarten im Überblick
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Urteilsverfahren (§ 2 ArbGG)
+Für individualrechtliche Streitigkeiten: Kündigung, Vergütung, Befristung, AGG-Ansprüche.
+- Parteien: Arbeitnehmer vs. Arbeitgeber
+- Einleitung: Klageschrift
+- Instanzen: ArbG → LAG → BAG
+
+### Beschlussverfahren (§ 2a ArbGG)
+Für kollektivrechtliche Streitigkeiten: BetrVG, Mitbestimmung, Betriebsratswahl, Tarifvertrag (wenn kollektivrechtlich).
+- Beteiligte (nicht Parteien!): Alle, deren Rechte durch die Entscheidung unmittelbar berührt werden
+- Einleitung: Antrag (§ 80 Abs. 1 ArbGG)
+- Kein Gütetermin; direkt Anhörungstermin
+- Instanzen: ArbG → LAG → BAG
+
+**Typische Beschlussverfahren:**
+- Unterlassungsantrag bei Verletzung von Mitbestimmungsrechten (§ 23 Abs. 3 BetrVG)
+- Zustimmungsersetzung nach § 99 Abs. 4 BetrVG (personelle Maßnahmen)
+- Auflösung des Betriebsrats § 23 Abs. 1 BetrVG (bei grober Pflichtverletzung)
+- Wahlanfechtung § 19 BetrVG
+- Einigungsstellenbesetzung § 76 Abs. 2 Satz 2 BetrVG
+
+## § 99 BetrVG — Zustimmung zu personellen Einzelmaßnahmen
+
+### Verfahren bei Zustimmungsverweigerung
+1. Arbeitgeber beantragt Zustimmung beim Betriebsrat (§ 99 Abs. 1 BetrVG)
+2. Betriebsrat hat 1 Woche Zeit für Stellungnahme; Fristablauf ohne Äußerung = Zustimmungsfiktion
+3. Verweigerung nur aus Gründen des § 99 Abs. 2 BetrVG zulässig
+4. Arbeitgeber kann beim ArbG Zustimmungsersetzung beantragen (§ 99 Abs. 4 BetrVG)
+5. Beschlussverfahren; Gericht entscheidet nach Anhörung beider Seiten
+
+### Zulässige Verweigerungsgründe § 99 Abs. 2 BetrVG
+1. Verstoß gegen Gesetz, Tarifvertrag, Betriebsvereinbarung, Dienstordnung oder gerichtliche Entscheidung
+2. Nachteil für andere Arbeitnehmer im gleichen Betrieb
+3. Nachteil für den Betroffenen bei Versetzung
+4. Stellenausschreibung war intern unterblieben (§ 93 BetrVG)
+5. Besorgnis, dass der Bewerber den Betriebsfrieden gefährdet
+6. Misslungene Eingliederung wegen früherer Fälle
+
+## § 102 BetrVG — Anhörung vor Kündigung
+
+### Verfahren
+1. Arbeitgeber informiert BR schriftlich über: geplante Kündigung, Kündigungsart, Kündigungsgründe, Sozialdaten des Arbeitnehmers
+2. Frist: ordentliche Kündigung 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG); außerordentliche 3 Tage
+3. BR kann Bedenken äußern (§ 102 Abs. 3 BetrVG) oder Widerspruch einlegen (§ 102 Abs. 3 BetrVG: dann Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG)
+4. Kündigung ohne ordnungsgemäße Anhörung = unwirksam
+
+### Beschlussverfahren bei BR-Streitigkeiten über § 102
+Wenn Streit über ordnungsgemäße Anhörung (z.B. ob alle Gründe mitgeteilt wurden) im Rahmen des Kündigungsschutzverfahrens: dann Urteilsverfahren (Kündigungsschutzklage); BR ist nicht Partei, aber Anhörungsschreiben als Beweismittel.
+
+## Einigungsstelle § 76 BetrVG
+
+### Funktion
+Einigungsstelle entscheidet bei Scheitern der Einigung zwischen AG und BR über erzwingbare Mitbestimmungsangelegenheiten (§ 87 BetrVG: Ordnung des Betriebs, Arbeitszeit, Vergütung, Urlaub etc.).
+
+### Besetzung
+- Unparteiischer Vorsitzender (Einigung oder gerichtliche Bestellung)
+- Je eine gleiche Anzahl Beisitzer von AG und BR
+
+### Gerichtliche Bestellung des Vorsitzenden § 76 Abs. 2 Satz 2 BetrVG
+- Beschlussverfahren beim zuständigen ArbG
+- Dringlich: einstweilige Verfügung möglich
+- Gerichtsort: Sitz des Betriebs
+
+## Betriebsratswahl — Anfechtung § 19 BetrVG
+
+### Anfechtungsberechtigte
+- Mindestens drei Wahlberechtigte
+- Im Betrieb vertretene Gewerkschaft
+- Arbeitgeber
+
+### Anfechtungsfrist
+2 Wochen ab Bekanntgabe des Wahlergebnisses (§ 19 Abs. 2 BetrVG)
+
+### Anfechtungsverfahren
+Beschlussverfahren beim zuständigen ArbG. Anfechtung führt nur zur Unwirksamkeit, nicht zur Nichtigkeit der Wahl; BR bleibt bis rechtskräftiger Entscheidung im Amt.
+
+### Nichtigkeit der Wahl (ohne Anfechtungsfrist)
+Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war oder die Wahl nicht als BR-Wahl erkennbar war.
+
+## Zuständige Gerichte
+
+| Verfahren | Gericht | Norm |
+|---|---|---|
+| Kündigungsschutzklage | ArbG am Ort des Betriebs | §§ 2, 46 ArbGG |
+| Beschlussverfahren BR | ArbG am Ort des Betriebs | §§ 2a, 80 ff. ArbGG |
+| Einigungsstellenbesetzung | ArbG am Ort des Betriebs | § 76 Abs. 2 BetrVG |
+| Wahlanfechtung | ArbG am Ort des Betriebs | § 19 BetrVG |
+| Berufung | LAG des Landes | §§ 64 ff. ArbGG |
+| Revision | BAG Erfurt | §§ 72 ff. ArbGG |
+
+## Anschluss-Skills
+- `spezial-betriebsrat-zahlen-schwellen-und-berechnung` für Schwellenwerte
+- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für § 102 BetrVG
+- `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` für Beschlussmängel
+- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensrecht
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine Beratung zu europäischen Betriebsräten oder internationalem Betriebsverfassungsrecht.
+- Keine abschließende Prüfung der Beteiligtenstellung ohne vollständige Sachverhaltskenntnis.

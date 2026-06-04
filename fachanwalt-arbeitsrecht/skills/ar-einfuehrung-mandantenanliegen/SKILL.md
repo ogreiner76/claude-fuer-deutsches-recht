@@ -1,63 +1,100 @@
 ---
 name: ar-einfuehrung-mandantenanliegen
-description: "Arbeitsrecht einfuehrend: typische Mandantenanliegen Kuendigung, Abfindung, Zeugnis, Befristung, Massregelungsverbot, Diskriminierung, Lohn, Urlaub, BR-Mitbestimmung. Routing in Detail-Skills. Erstgespraechs-Checkliste."
+description: "Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste."
 ---
 
-# Arbeitsrecht: Mandantenanliegen
+# AR: Einführung — Typische Mandantenanliegen
 
-## Aufgabe
-Arbeitsrecht einfuehrend: typische Mandantenanliegen Kuendigung, Abfindung, Zeugnis, Befristung, Massregelungsverbot, Diskriminierung, Lohn, Urlaub, BR-Mitbestimmung.
+## Zweck
+Dieser Skill dient als Eingangsrouter und Orientierungshilfe. Er klassifiziert das Mandantenanliegen, benennt die einschlägigen Normen und Fristen auf einer ersten Ebene und leitet in die passenden Spezial-Skills weiter. Er ist kein Ersatz für die Spezialskills, sondern deren Startpunkt.
 
+## Kaltstart — Erste Weichen
+Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst auswerten.
 
-## Fachlicher Arbeitskern
+1. **Was ist das Kernproblem?** (s. Anliegen-Klassifikation unten)
+2. **Wie ist die Frist?** Gibt es eine laufende 3-Wochen-Klagefrist (§ 4 KSchG) oder AGG-Frist (§ 15 Abs. 4 AGG: 2 Monate)?
+3. **Wer ist der Mandant?** Arbeitnehmer oder Arbeitgeber?
+4. **Was ist das Ziel?** Bestandsschutz, Abfindung, Schadensersatz, Verhaltensänderung, Dokumentation?
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-arbeitsrecht` zum Thema `ar-einfuehrung-mandantenanliegen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Arbeitsrecht einfuehrend: typische Mandantenanliegen Kuendigung, Abfindung, Zeugnis, Befristung, Massregelungsverbot, Diskriminierung, Lohn, Urlaub, BR-Mitbestimmung. Routing in Detail-Skills. Erstgespraechs-Checkliste..
+## Anliegen-Klassifikation und Erstrouting
 
-Arbeite deshalb fallnah:
+### 1. Kündigung
+- **Einschlägig:** §§ 1, 4, 7, 23 KSchG; § 623 BGB (Schriftform); § 102 BetrVG (BR-Anhörung)
+- **Kritische Frist:** 3 Wochen ab Zugang der schriftlichen Kündigung (§ 4 KSchG) — Versäumnis = § 7 KSchG-Fiktion
+- **Sofortmaßnahme:** Zugangsdatum sichern, Schriftform prüfen, KSchG-Anwendbarkeit prüfen (§ 23 KSchG > 10 VZÄ, § 1 KSchG > 6 Monate), Betriebsratsprotokolle anfordern
+- **Routing:** → `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+### 2. Abfindung
+- **Einschlägig:** §§ 9, 10 KSchG (Auflösungsantrag); § 1a KSchG (Klageverzicht); BAG-Faustformel 0,5 × Monatsgehalt × Beschäftigungsjahre
+- **Sperrzeit:** § 159 SGB III bei Aufhebungsvertrag auf Arbeitnehmerinitiative
+- **Routing:** → `ar-abfindungs-rechner-modular`, `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+### 3. Zeugnis
+- **Einschlägig:** § 109 GewO (Anspruch auf qualifiziertes Zeugnis); Wohlwollenspflicht des Arbeitgebers (BAG-Linie); Zeugnisformulierungen (Codierungen)
+- **Ansprüche:** Berichtigungs- oder Benotungsklage vor Arbeitsgericht; kurze Verjährungsfrist beachten
+- **Routing:** Individuell nach Zeugnisinhalt; ggf. `workflow-redteam-qualitygate`
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+### 4. Befristung
+- **Einschlägig:** §§ 14–22 TzBfG; § 17 TzBfG (3-Wochen-Entfristungsklage!); BAG zu sachgrundloser Befristung (§ 14 Abs. 2 TzBfG: max. 2 Jahre, max. 3 Verlängerungen)
+- **Kritische Frist:** 3 Wochen nach vereinbartem Ende (§ 17 TzBfG) für Entfristungsklage
+- **Routing:** → `fachanwalt-arbeitsrecht-befristung-tzbfg`
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+### 5. Maßregelungsverbot § 612a BGB
+- **Einschlägig:** § 612a BGB; Beweislastverteilung; enger Zusammenhang zwischen rechtmäßiger Ausübung von Rechten und Benachteiligung
+- **Typische Fälle:** Kündigung nach Klage auf Mindestlohn, Kündigung nach Betriebsratsgründungsversuch, Kündigung nach Krankmeldung
+- **Routing:** Sachverhaltsabhängig; ggf. kombiniert mit `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
 
-## Pruefraster
+### 6. Diskriminierung AGG
+- **Einschlägig:** §§ 1–22 AGG; § 22 AGG (Beweislastumkehr bei Indizien); § 15 AGG (Schadensersatz, Entschädigung)
+- **Kritische Frist:** § 15 Abs. 4 AGG: 2 Monate ab Kenntnis der Benachteiligung (Ausschlussfrist!)
+- **Merkmale:** Rasse, Herkunft, Geschlecht, Religion, Behinderung, Alter, sexuelle Identität
+- **Routing:** Sachverhaltsabhängig; ggf. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` bei Entgeltdiskriminierung
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### 7. Lohn / Vergütung
+- **Einschlägig:** §§ 611a, 614, 615 BGB; MiLoG (Mindestlohn, aktuellen Satz live prüfen); Annahmeverzug § 615 BGB; Ausschlussfristen im Arbeitsvertrag prüfen
+- **Typische Streitpunkte:** Nicht bezahlte Überstunden (Nachweis!), Provision, Boni, variable Vergütung, Mindestlohn-Unterschreitung
+- **Routing:** Sachverhaltsabhängig; bei Tarifbindung → Tarifvertrag live prüfen
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### 8. Urlaub
+- **Einschlägig:** §§ 1–13 BUrlG; § 7 BUrlG (Übertragung, Verfall); BAG: kein Verfall ohne Hinweis des Arbeitgebers (EuGH-Konformität); Urlaubsabgeltung § 7 Abs. 4 BUrlG; BAG 9 AZR 104/24: kein Urlaubsverzicht durch Prozessvergleich
+- **Routing:** → `spezial-urlaub-livequellen-und-rechtsprechungscheck`
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-arbeitsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### 9. Betriebsrat und Mitbestimmung
+- **Einschlägig:** BetrVG §§ 87 (echtes Mitbestimmungsrecht), 99 (personelle Einzelmaßnahmen), 102 (Anhörung Kündigung), 111 ff. (Betriebsänderung, Interessenausgleich, Sozialplan)
+- **Typische Mandate:** BR-Beschlüsse anfechten, Zustimmungsverweigerung bei Einstellung, Einigungsstelle, Unterlassungsanspruch
+- **Routing:** → `fachanwalt-arbeitsrecht-betriebsratsanhoerung`, `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Erstgesprächs-Checkliste
+
+- [ ] Vollständige Personalien und Kontaktdaten
+- [ ] Arbeitgeberbezeichnung, Betriebsgröße (ca. Mitarbeiterzahl)
+- [ ] Beginn des Arbeitsverhältnisses
+- [ ] Letzte Bruttovergütung
+- [ ] Liegt eine schriftliche Kündigung oder ein sonstiger Auslöser vor?
+- [ ] Genaues Datum des Zugangs/Ereignisses (Fristberechnung!)
+- [ ] Welches Ziel hat der Mandant? (Bestandsschutz, Abfindung, Schadensersatz)
+- [ ] Gibt es einen Betriebsrat?
+- [ ] Sonderkündigungsschutz? (Schwangerschaft, Elternzeit, Schwerbehinderung, BR-Mandat)
+- [ ] Welche Unterlagen liegen vor?
+
+## Fristenüberblick (kritisch)
+
+| Frist | Norm | Konsequenz bei Versäumnis |
+|---|---|---|
+| 3 Wochen Kündigungsschutzklage | § 4 KSchG | § 7 KSchG-Fiktion: Kündigung gilt als wirksam |
+| 3 Wochen Entfristungsklage | § 17 TzBfG | Befristung gilt als wirksam |
+| 2 Monate AGG-Geltendmachung | § 15 Abs. 4 AGG | Anspruchsverlust |
+| Ausschlussfristen Vertrag/TV | Je nach Klausel | Anspruchsverlust |
+| 2 Wochen außerordentliche Kündigung | § 626 Abs. 2 BGB | Fristablauf für Arbeitgeber |
+
+## Anschluss-Skills
+Alle Spezial-Skills des Plugins stehen für die jeweiligen Themen bereit. Nach Klassifikation direkt in den passenden Skill wechseln und dort die fachliche Tiefe aktivieren.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate.
+- Annahmen explizit markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Keine Tiefenprüfung; dieser Skill ist der Eingangsrouter, nicht die Fachbearbeitung.
+- Keine Festlegung des Mandanten ohne ausdrückliche Entscheidung.

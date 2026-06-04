@@ -1,48 +1,116 @@
 ---
 name: spezial-fachanwalt-erstpruefung-und-mandatsziel
-description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel."
 ---
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+# Spezial: Fachanwalt Erstprüfung und Mandatsziel
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Fachanwalt**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Fachanwalt.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Strukturierte Erstprüfung bei Annahme eines Arbeitsrechtsmandats — von der Rollenklärung und Interessenkonflikt-Prüfung über die Zielformulierung bis zur ersten Risikoampel. Grundlage für alle weiteren Skill-Aktivitäten im Plugin.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn ein Mandat vorliegt oder angeboten wird, folgende Punkte klären:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Wer ist der Mandant?** Name, Stellung (Arbeitnehmer, Arbeitgeber, Betriebsrat, Gewerkschaft)?
+2. **Was ist das Kernproblem?** Kündigung, Vergütung, Diskriminierung, Betriebsverfassung, Vertragsgestaltung?
+3. **Gibt es laufende Fristen?** 3-Wochen-Frist § 4 KSchG, § 17 TzBfG, AGG-Frist § 15 Abs. 4 AGG?
+4. **Interessenkonflikt?** Vertritt die Kanzlei oder die Fachanwältin/den Fachanwalt bereits die Gegenseite?
+5. **Was ist das Ziel des Mandanten?** Bestandsschutz, Abfindung, Schadensersatz, Vertragsänderung?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Phase 1: Interessenkonflikt-Prüfung (§ 43a BRAO, § 3 BORA)
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Prüfpflicht
+Vor jeder Mandatsannahme muss geprüft werden:
+- Vertritt die Kanzlei die Gegenseite in derselben oder einer verwandten Angelegenheit?
+- Hat ein Anwalt der Kanzlei früher die Gegenseite beraten?
+- Gibt es sonstige Interessenkollisionen (Eigeninteressen, familiäre Verbindungen)?
+
+**Rechtsfolge Verstoß:** § 356 StGB (Parteiverrat); berufsrechtliche Sanktionen; Anwaltsvertrag nichtig.
+
+### Dokumentation
+Interessenkonflikt-Check in der Kanzleisoftware; schriftliche Bestätigung der Prüfung in der Akte.
+
+## Phase 2: Sachverhaltsaufnahme
+
+### Grunddaten
+
+| Feld | Inhalt |
+|---|---|
+| Mandantenname | |
+| Arbeitgeber/Arbeitnehmer | |
+| Betriebsname und -ort | |
+| Branche | |
+| Betriebsgröße (ca.) | |
+| Beginn Arbeitsverhältnis | |
+| Letzte Vergütung (brutto) | |
+| Besonderer Kündigungsschutz? | |
+| Besteht Betriebsrat? | |
+| Kündigung erhalten? Datum? | |
+
+### Fristenüberblick (sofort beim Erstgespräch)
+- Liegt eine Kündigung vor? → § 4 KSchG-Frist berechnen
+- Ist das Befristungsende abgelaufen? → § 17 TzBfG-Frist
+- Diskriminierungsfall? → § 15 Abs. 4 AGG-Frist (2 Monate)
+
+## Phase 3: Mandatsziel und Interessenlage
+
+### Mandatsziel klären — vier Grundoptionen
+
+| Option | Beschreibung | Typisch wenn |
+|---|---|---|
+| Bestandsschutz | Fortsetzung des Arbeitsverhältnisses erzwingen | Mandant will unbedingt weiterarbeiten |
+| Abfindung | Hohe Abfindung aushandeln; schnelle Einigung | Neue Stelle in Aussicht; wirtschaftliches Interesse |
+| Beides prüfen lassen | Strategie offen halten; im Gütermin entscheiden | Lage noch unklar |
+| Schadensersatz/Entschädigung | AGG-Ansprüche, EntgTranspG, sonstige Ansprüche | Diskriminierung, Mobbing, verweigerte Gehaltserhöhung |
+
+### Fragen zur Interessenlage
+- Will der Mandant nach Verfahrensabschluss im Betrieb bleiben, oder lieber weg?
+- Wie ist die finanzielle Situation? Kann er/sie sich eine Prozessdauer von 6–18 Monaten leisten?
+- Besteht Rechtschutzversicherung? (Falls ja: Deckungsanfrage stellen)
+- Wie ist das Verhältnis zum Arbeitgeber/Vorgesetzten — sachlich oder eskaliert?
+
+## Phase 4: Erste Risikoampel
+
+### Grün — Starke Position
+- Formfehler bei der Kündigung (kein Original, fehlende Vollmacht, keine BR-Anhörung)
+- Sonderkündigungsschutz (Schwangerschaft, Elternzeit, Betriebsrat) ohne behördliche Zustimmung
+- Massenentlassungsanzeige fehlerhaft (post-BAG 6 AZR 152/22)
+- Befristungsabrede nicht schriftlich oder nach Dienstantritt unterzeichnet
+
+### Gelb — Mittlere Lage
+- KSchG anwendbar; Kündigung hat Angriffspunkte, aber Ausgang unsicher
+- Sozialauswahl ist anfechtbar, aber dokumentiert
+- Sachgrundbefristung ist schwach, aber nicht offensichtlich unwirksam
+
+### Rot — Schwache Position
+- KSchG nicht anwendbar (Betriebsgröße unter Schwelle, kurze Betriebszugehörigkeit)
+- Kündigung formal korrekt; Kündigungsgrund stark (schweres Fehlverhalten mit Beweisen)
+- Klagefrist bereits abgelaufen; § 7 KSchG-Fiktion
+
+## Phase 5: Mandatsumfang und Kostenhinweis
+
+### RVG-Werte im Arbeitsrecht
+- Streitwert Kündigungsschutzklage: § 42 Abs. 2 GKG = 1 Vierteljahresverdienst
+- Abfindungsvergleich: Streitwert kann höher sein (abhängig von Vergleichswert)
+- Beratungsgebühr: nach RVG § 34 frei vereinbar oder nach Stundensatz
+
+### Kostenhinweis-Pflicht (§ 49b BRAO, § 3a RVG)
+Vor Mandatsannahme: Hinweis auf voraussichtliche Kosten; Vergütungsvereinbarung schriftlich wenn von RVG-Sätzen abgewichen wird.
+
+### Rechtsschutzversicherung
+Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; RSV kann Vergleich beeinflussen (häufig RSV-Limit für Vergleichsabfindung).
+
+## Anschluss-Skills
+- `ar-einfuehrung-mandantenanliegen` für Themen-Routing nach Erstprüfung
+- `ar-kuendigungspruefung-workflow` wenn Kündigung das Kernproblem ist
+- `workflow-kaltstart-und-routing` für weiteres Routing im Plugin
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Keine modellwissensbasierten Kostenangaben ohne RVG-Normprüfung.
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine individuelle Kostenberechnung ohne vollständige Mandantsdaten.
+- Keine Steuerberatung zur steuerlichen Behandlung von Abfindungen.

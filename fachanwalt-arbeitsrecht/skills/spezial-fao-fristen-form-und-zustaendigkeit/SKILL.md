@@ -1,48 +1,110 @@
 ---
 name: spezial-fao-fristen-form-und-zustaendigkeit
-description: "FAO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang."
 ---
 
-# FAO: Fristen, Form, Zuständigkeit und Rechtsweg
+# Spezial: FAO — Fristen, Form und Zuständigkeit (ArbGG)
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-arbeitsrecht`. Ausgangspunkt ist: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **FAO**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** FAO.
-- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Plugin-Rahmen:** Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechu....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Zweck
+Vollständiger Überblick über das arbeitsgerichtliche Verfahrensrecht — Zuständigkeit, Instanzen, Fristen, Anwaltszwang und prozessuale Form. Grundlage für jede gerichtliche Tätigkeit im Arbeitsrecht.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn eine verfahrensrechtliche Frage vorliegt, zuerst bestimmen:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Verfahrensart:** Urteilsverfahren (individuell) oder Beschlussverfahren (kollektiv/BetrVG)?
+2. **Instanz:** ArbG, LAG oder BAG?
+3. **Anwaltszwang:** Erste Instanz: nein; LAG und BAG: ja (§ 11 ArbGG)
+4. **Fristenprüfung:** Klagefrist, Berufungsfrist, Revisionsfrist berechnet?
+5. **Örtliche Zuständigkeit:** Wo hat das Arbeitsverhältnis seinen Schwerpunkt?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **FAO** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Zuständigkeit § 2 ArbGG — Urteilsverfahren
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Sachliche Zuständigkeit
+Das Arbeitsgericht ist zuständig für Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern aus dem Arbeitsverhältnis (§ 2 Abs. 1 Nr. 3 ArbGG). Dazu gehören:
+- Bestandsstreitigkeiten (Kündigung, Befristung)
+- Vergütungsstreitigkeiten
+- AGG-Ansprüche
+- Zeugnis
+- Wettbewerbsverbote (bei AN-Status)
+- Urlaubsabgeltung, Überstundenvergütung
+
+### Örtliche Zuständigkeit § 48 ArbGG i.V.m. §§ 12 ff. ZPO
+- Allgemeiner Gerichtsstand: Wohnsitz/Sitz des Beklagten
+- Besonderer Gerichtsstand: Ort der Niederlassung, für die der AN beschäftigt war (§ 48 Abs. 1a ArbGG)
+- Keine Gerichtsstandvereinbarung möglich (zwingendes Recht im Arbeitsrecht)
+
+### Sachliche Zuständigkeit § 2a ArbGG — Beschlussverfahren
+Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG und BR (oder Gewerkschaft), nicht individuelle Parteien.
+
+## Instanzenzug
+
+### Erste Instanz: Arbeitsgericht (ArbG)
+- Gütetermin: § 54 ArbGG — zwingend vor Kammertermin; Ziel ist gütliche Einigung
+- Kammertermin: § 55 ArbGG — wenn keine Einigung im Gütermin; Beweisaufnahme, Urteil
+- Kein Anwaltszwang (§ 11 Abs. 1 ArbGG); Gewerkschaften und Arbeitgeberverbände können vertreten
+- Keine Kostenerstattung in erster Instanz (§ 12a ArbGG): jede Seite trägt ihre Anwaltskosten
+
+### Zweite Instanz: Landesarbeitsgericht (LAG)
+- Berufung: § 64 ArbGG — statthaft bei Beschwer > 600 € oder zugelassener Berufung
+- Berufungsfrist: 1 Monat ab Urteilszustellung (§ 66 Abs. 1 ArbGG)
+- Berufungsbegründungsfrist: 2 Monate ab Urteilszustellung; Verlängerung auf Antrag möglich (§ 66 Abs. 1 Satz 5 ArbGG)
+- **Anwaltszwang:** § 11 Abs. 4 ArbGG — zwingend ab LAG
+- Instanzort: LAG des jeweiligen Bundeslandes
+
+### Dritte Instanz: Bundesarbeitsgericht (BAG)
+- Revision: § 72 ArbGG — nur bei zugelassener Revision oder grundsätzlicher Bedeutung
+- Revisionsfrist: 1 Monat ab Urteilszustellung (§ 74 Abs. 1 ArbGG)
+- Revisionsbegründungsfrist: 2 Monate ab Urteilszustellung
+- Sitz: Erfurt; nur BAG-zugelassene Anwälte oder alle Anwälte mit Qualifikation (§ 11 Abs. 4 ArbGG analog)
+- Keine neuen Tatsachen in der Revision (Rechtsfehler nur)
+
+## Fristen-Übersicht
+
+| Frist | Norm | Fristlänge | Beginn |
+|---|---|---|---|
+| Klagefrist KSchG | § 4 KSchG | 3 Wochen | Zugang der Kündigung |
+| Entfristungsklage | § 17 TzBfG | 3 Wochen | Vereinbartes Ende |
+| AGG-Geltendmachung | § 15 Abs. 4 AGG | 2 Monate | Kenntnis der Benachteiligung |
+| Berufung | § 66 Abs. 1 ArbGG | 1 Monat | Urteilszustellung |
+| Berufungsbegründung | § 66 Abs. 1 ArbGG | 2 Monate | Urteilszustellung |
+| Revision | § 74 Abs. 1 ArbGG | 1 Monat | Urteilszustellung |
+| Revisionsbegründung | § 74 Abs. 1 ArbGG | 2 Monate | Urteilszustellung |
+| Anfechtung Betriebsratswahl | § 19 Abs. 2 BetrVG | 2 Wochen | Bekanntmachung Wahlergebnis |
+
+## Gütermin und Kammertermin
+
+### Gütermin (§ 54 ArbGG)
+- Zwingend; findet vor dem Kammervorsitzenden allein statt
+- Ziel: gütliche Einigung; sehr häufig wird hier verglichen (Praxis: 60–70 % aller Kündigungsschutzfälle enden im Gütermin)
+- Keine umfassende Verhandlung der Sache; oft nur Abfindungs- und Beendigungsmodalitäten
+- Mandant sollte klare Verhandlungslinie haben: Minimalabfindung, Zeugnisvorstellung, Beendigungsdatum
+
+### Kammertermin (§ 55 ArbGG)
+- Drei-Personen-Kammer: 1 Berufsrichter, 2 ehrenamtliche Richter (1 AG-Vertreter, 1 AN-Vertreter)
+- Beweisaufnahme, Plädoyers, Urteil
+- Häufig werden auch hier noch Vergleiche geschlossen
+
+## Streitwert und Kosten
+
+### Streitwert § 42 GKG (Kündigungsschutz)
+- § 42 Abs. 2 GKG: Ein Vierteljahresverdienst, wenn keine höhere oder niedrigere Gesamtvergütung anzunehmen ist
+- Beispiel: Monatslohn 3.000 € → Streitwert 9.000 €
+
+### Kosten erste Instanz
+- § 12a ArbGG: Keine Erstattung der Anwaltskosten der obsiegenden Partei
+- Gerichtskosten: GKG; bei Vergleich oft teilweise erstattet
+
+## Anschluss-Skills
+- `spezial-betrvg-behoerden-gericht-und-registerweg` für Beschlussverfahren
+- `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Gütermin-Strategie
+- `spezial-datum-formular-portal-und-einreichung` für Einreichungs-Details
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- ArbGG live prüfen auf [gesetze-im-internet.de/arbgg](https://www.gesetze-im-internet.de/arbgg/).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
+- Annahmen explizit kennzeichnen.
+
+## Was dieser Skill nicht macht
+- Keine abschließende Zuständigkeitsprüfung bei internationalem Sachverhalt (EuGVVO, Brüssel Ia-VO).
+- Keine Prüfung von Sondergerichtsbarkeiten (Verwaltungsgericht für Beamte, Sozialgericht für SGB-Ansprüche).
