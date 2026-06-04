@@ -3,7 +3,7 @@
 **Erstellt:** 2026-06-04
 **Arbeitsstand:** v90.0.0 / Konsolidierung nach Commit `1a3f44901`
 **Plugins gesamt:** 209
-**Skills gesamt:** 5607
+**Skills gesamt:** 5629
 **Testakten gesamt:** 201
 
 ## Kurzbefund
@@ -17,11 +17,11 @@ Die parallel von Claude/Perplexity eingegangenen Verbesserungen wurden vor dem P
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 209 |
-| Skill-Dateien `SKILL.md` | 5607 |
+| Skill-Dateien `SKILL.md` | 5629 |
 | Testakten-Verzeichnisse | 201 |
 | Testakten mit Gesamt-PDF nach Validator | 201 |
-| Plugins mit mehr als 30 Skills | 1 |
-| Bewusste Ausnahme | `steuerrecht-anwalt-und-berater` mit 89 Skills wegen erhaltener DBA-Einzelskills |
+| Plugins mit mehr als 30 Skills | 2 |
+| Bewusste Ausnahmen | `steuerrecht-anwalt-und-berater` mit 89 Skills wegen erhaltener DBA-Einzelskills; `arbeitszeugnis-analyse` mit 50 Skills auf Wunsch im Vor-Konsolidierungszuschnitt |
 
 ## Validatoren
 
@@ -55,6 +55,8 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer deutlich, ohne dass das f
 ## Offene bewusste Ausnahme
 
 `steuerrecht-anwalt-und-berater` bleibt mit 89 Skills oberhalb der Zielmarke. Das ist absichtlich: Die Doppelbesteuerungsabkommen und steuerlichen Spezialpfade sollen nicht in einem Sammeltext verschwinden, weil die Nutzerin dort regelmäßig genau ein bestimmtes Abkommen oder eine bestimmte DBA-Konstellation ansteuern will.
+
+`arbeitszeugnis-analyse` bleibt mit 50 Skills ebenfalls oberhalb der Zielmarke. Das Plugin wurde nachträglich wieder auf den Vor-Konsolidierungszuschnitt zurückgestellt, weil seine Ampel-, Codewort-, Zeugnisarten-, Muster- und Prozessskills als einzelne Arbeitspunkte sichtbar bleiben sollen.
 
 ## Residualrisiko
 

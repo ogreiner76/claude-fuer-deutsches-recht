@@ -1,6 +1,6 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **5607 Skills** in **209 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **5629 Skills** in **209 Plugins**.
 
 Stand: `v90.0.0`.
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 5607 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 5629 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -49,7 +49,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **anlagen-zu-schriftsaetzen** | 27 | [Skills ansehen](skills-index/anlagen-zu-schriftsaetzen.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anlagen-zu-schriftsaetzen.zip) |
 | **apothekenrecht** | 25 | [Skills ansehen](skills-index/apothekenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/apothekenrecht.zip) |
 | **arbeitsrecht** | 26 | [Skills ansehen](skills-index/arbeitsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitsrecht.zip) |
-| **arbeitszeugnis-analyse** | 28 | [Skills ansehen](skills-index/arbeitszeugnis-analyse.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
+| **arbeitszeugnis-analyse** | 50 | [Skills ansehen](skills-index/arbeitszeugnis-analyse.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
 | **aufsichtsrat-ag-se-praxis** | 26 | [Skills ansehen](skills-index/aufsichtsrat-ag-se-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aufsichtsrat-ag-se-praxis.zip) |
 | **aussenwirtschaft-zoll-sanktionen** | 26 | [Skills ansehen](skills-index/aussenwirtschaft-zoll-sanktionen.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip) |
 | **bank-rechtsabteilung** | 27 | [Skills ansehen](skills-index/bank-rechtsabteilung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bank-rechtsabteilung.zip) |

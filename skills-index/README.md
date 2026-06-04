@@ -15,7 +15,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (27 Skills)
 - [apothekenrecht](./apothekenrecht.md) (25 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (26 Skills)
-- [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (28 Skills)
+- [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (50 Skills)
 - [aufsichtsrat-ag-se-praxis](./aufsichtsrat-ag-se-praxis.md) (26 Skills)
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (26 Skills)
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (27 Skills)
