@@ -1,48 +1,84 @@
 ---
 name: spezial-unionsrechtskonforme-beweislast-und-darlegungslast
-description: "Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte unionsrechtskonforme Beweislastregeln anwenden müssen und wie Anwälte diese Regeln prozessstrategisch einsetzen. Besonderes Gewicht liegt auf den Bereichen Verbraucherrecht und Kaufrecht.
 ---
 
-# Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung
+# Unionsrechtskonforme Beweislast und Darlegungslast
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Das Unionsrecht greift zunehmend in die nationalen Beweislastregeln ein. EU-Richtlinien schreiben in bestimmten Bereichen günstigere Beweislastverteilungen vor, als das nationale Recht sie kennt — insbesondere im Verbraucher- und Kaufrecht. Dieses Skill trainiert die methodische Anwendung dieser unionsrechtlich modifizierten Beweislastregeln.
 
-Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Unionsrechtskonforme**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Verbraucher klagt wegen eines Sachmangels an einem sechs Monate nach Kauf aufgetretenen Defekt. Das Skill prüft, ob die unionsrechtliche Vermutung der Mangelhaftigkeit bei Gefahrübergang (§ 477 BGB, Art. 11 Warenkauf-Richtlinie) zu einer Beweislastumkehr führt, die dem Verkäufer die Beweislast auferlegt.
+- Eine Arbeitnehmerin behauptet diskriminierende Entlassung. Das Skill analysiert, ob die Beweislasterleichterung der Antidiskriminierungsrichtlinie (Richtlinie 2006/54/EG) für das Zivilgericht bindend ist und wie sie prozessstrategisch eingesetzt wird.
+- Ein Reisegast macht Ansprüche nach der Pauschalreise-Richtlinie geltend. Das Skill untersucht, ob die Beweislast für Mängel bei der Reise unionsrechtskonform verteilt ist und ob der nationale § 651i BGB richtlinienkonform ausgelegt werden muss.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Unionsrechtskonforme.
-- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Identifiziere die einschlägige EU-Richtlinie und prüfe, ob sie Beweislastvorschriften enthält.
+2. Vergleiche die richtlinienrechtliche Beweislastverteilung mit der nationalen Regelung: Weicht die nationale Norm ab?
+3. Prüfe, ob eine richtlinienkonforme Auslegung der nationalen Beweislastregel möglich ist.
+4. Falls nicht, bestimme, ob die Richtlinienvorschrift unmittelbar wirksam ist (hinreichend bestimmt, unbedingt, Vertikal- oder Horizontalverhältnis).
+5. Entwickle eine prozessuale Strategie, die die günstigere unionsrechtliche Beweislastverteilung ausnutzt.
+6. Dokumentiere die unionsrechtliche Grundlage im Schriftsatz und weise das Gericht auf die richtlinienkonforme Auslegungspflicht hin.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 477 BGB — Beweislastumkehr bei Verbrauchsgüterkauf; Umsetzung der Warenkauf-Richtlinie (EU 2019/771)
+- Art. 11 Warenkauf-Richtlinie (EU 2019/771) — Vermuteungsregel zugunsten des Verbrauchers für Mangelhaftigkeit
+- § 22 AGG — Beweislasterleichterung bei Diskriminierung; Umsetzung der Antidiskriminierungs-Richtlinien
+- Art. 288 Abs. 3 AEUV — Richtlinienbindung; Grundlage der richtlinienkonformen Auslegungspflicht
+- Art. 47 GRCh — Recht auf einen wirksamen Rechtsbehelf; Mindeststandard für effektiven Rechtsschutz
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Unionsrechtskonforme** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Enthält die einschlägige EU-Richtlinie Beweislastvorschriften?
+2. Weicht die nationale Beweislastregel zum Nachteil des durch die Richtlinie geschützten Personenkreises ab?
+3. Ist eine richtlinienkonforme Auslegung der nationalen Norm möglich?
+4. Ist die Richtlinienvorschrift zur Beweislast unmittelbar wirksam (klar, bestimmt, unbedingt)?
+5. Ist das Verhältnis zwischen den Parteien ein Vertikal- oder Horizontalverhältnis?
+6. Wurde die unionsrechtliche Beweislastgrundlage im Schriftsatz korrekt zitiert und erläutert?
+7. Wurde die Auslegungspflicht des nationalen Gerichts explizit angesprochen?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Die richtlinienrechtliche Beweislastumkehr wird übersehen, weil nur das nationale Recht geprüft wird.
+- Die unmittelbare Wirkung von Richtlinien wird im Horizontalverhältnis (Privat gegen Privat) fälschlich angenommen.
+- Die Beweislasterleichterung nach § 477 BGB wird nicht auf den richtigen Zeitraum (erste zwölf Monate nach Kauf bei Verbrauchern) angewendet.
+- Das Gericht wird nicht explizit auf seine Pflicht zur richtlinienkonformen Auslegung hingewiesen.
+
+## Output
+
+Das Skill liefert eine unionsrechtliche Beweislastanalyse: Richtlinienvorschrift, nationaler Vergleichsstand, Abweichungsanalyse, richtlinienkonforme Auslegungslösung und prozessuale Empfehlung. Geeignet für Klagebegründungen, Erwiderungen und Gutachten mit EU-rechtlichem Bezug.
+
+## Quellen
+
+- [§ 477 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__477.html)
+- [EU-Warenkauf-Richtlinie 2019/771 auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771)
+- [§ 22 AGG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/agg/__22.html)
+- [Art. 47 GRCh auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016P/TXT)
+- [EuGH Rechtsprechung Beweislast auf curia.europa.eu](https://curia.europa.eu/juris/liste.jsf?language=de&jur=C&num=C-497/13)
+
+## Abgrenzungen und Methodik
+
+Die unionsrechtskonforme Beweislastverteilung greift nur, wenn eine einschlägige EU-Richtlinie eine
+günstigere Regelung enthält als das nationale Recht. Fehlt es an einer richtlinienrechtlichen Beweislastregel,
+bleibt es beim nationalen Recht. Die Richtlinienkonfirmität der nationalen Beweislastregel ist daher immer
+zu prüfen, bevor eine unionsrechtliche Modifikation geltend gemacht wird.
+
+## Praktische Anwendungshinweise
+
+Bei Verbrauchersachen sollte der Anwalt stets europarechtliche Quellen neben dem nationalen BGB prüfen.
+Richtlinien wie die Warenkauf-Richtlinie (EU 2019/771), die Verbraucherrechte-Richtlinie (EU 2011/83)
+und die Pauschalreise-Richtlinie (EU 2015/2302) enthalten teils günstigere Beweislastregelungen als das
+nationale Recht. Die Kenntnis dieser Quellen kann in einem Verbraucherrechtsstreit den Unterschied
+zwischen Sieg und Niederlage ausmachen. Schriftsätze sollten die unionsrechtliche Grundlage stets
+explizit benennen und das Gericht auf seine Auslegungspflicht hinweisen.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

@@ -1,48 +1,84 @@
 ---
 name: spezial-lueckenfuellung-sonderfall-und-edge-case
-description: "Lueckenfuellung: Sonderfall und Edge-Case-Prüfung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht.
 ---
 
-# Lueckenfuellung: Sonderfall und Edge-Case-Prüfung
+# Lückenfüllung bei Sonderfällen und Edge Cases
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Das Gesetz kann nicht alle denkbaren Sachverhalte regeln. Sonderfälle und Grenzkonstellationen erfordern methodisch präzise Lückenfüllung — sei es durch Analogie, teleologische Extension oder Reduktion. Dieses Skill trainiert die saubere Identifikation und Schließung solcher Lücken im bürgerlichen Recht, ohne die Grenzen zur unzulässigen Rechtsfortbildung zu überschreiten.
 
-Er führt durch **Sonderfall und Edge-Case-Prüfung** im Themenfeld **Lueckenfuellung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Softwareentwickler hat eine digitale Dienstleistung erbracht, für die kein spezifischer Vertragstyp im BGB vorgesehen ist. Das Skill hilft, durch Analogie zu Werkvertrag und Dienstvertrag die passende Regelung zu ermitteln und Lücken im konkreten Vertrag zu schließen.
+- Ein Mandant hat einen Vertrag über den Kauf von Kryptowährungen geschlossen. Das gesetzliche Kaufrecht passt nicht vollständig; das Skill zeigt, welche Vorschriften analog anwendbar sind und wo Lücken durch teleologische Auslegung zu schließen sind.
+- Ein Unternehmen hat im Homeoffice einen Vertragsschluss unter ungewöhnlichen Umständen vorgenommen. Das Skill untersucht, ob eine gesetzliche Regelungslücke vorliegt, und erarbeitet eine methodisch begründete Lösung durch Analogie oder Rechtsfortbildung.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Lueckenfuellung.
-- **Arbeitsfokus:** Sonderfall und Edge-Case-Prüfung.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Identifiziere die Regelungslücke: Ist der Sachverhalt vom Gesetzgeber bewusst nicht geregelt (bewusste Lücke) oder planwidrig übersehen worden (planwidrige Lücke)?
+2. Bestimme den Regelungszweck (Telos) der nächstverwandten gesetzlichen Vorschrift, die als Analogiebasis in Betracht kommt.
+3. Prüfe, ob die Interessenlage des ungeregelten Falls der des geregelten vergleichbar ist (Vergleichbarkeit als Analogievoraussetzung).
+4. Schließe die Lücke durch Analogie, teleologische Extension oder Reduktion — je nach Ergebnis der Vergleichbarkeitsprüfung.
+5. Prüfe, ob das Ergebnis mit übergeordneten Rechtsprinzipien (Treu und Glauben, Verkehrssitte, Verfassungsprinzipien) vereinbar ist.
+6. Dokumentiere die Lückenfüllungsmethode im Gutachten und benenne Risiken einer abweichenden richterlichen Entscheidung.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — Auslegung nach dem wirklichen Willen; Vorausstufe zur Analogieprüfung
+- § 157 BGB — Auslegung nach Treu und Glauben; ergänzt Lückenfüllung bei atypischen Verträgen
+- § 242 BGB — Generalklausel zur Schließung von Wertungslücken
+- Art. 20 Abs. 3 GG — Gesetzesbindung; begrenzt die richterliche Lückenfüllung bei contra-legem-Risiko
+- §§ 812 ff. BGB — Bereicherungsrecht als subsidiäres Auffangrecht bei ungeregelten Leistungsbeziehungen
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Lueckenfuellung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Liegt eine planwidrige Regelungslücke vor oder hat der Gesetzgeber die Situation bewusst nicht geregelt?
+2. Ist die Interessenlage des ungeregelten Falls mit dem Analogiefall vergleichbar?
+3. Führt die Analogie zu einem Ergebnis, das mit dem Telos der Normen vereinbar ist?
+4. Scheidet Analogie aus (Ausnahmevorschrift, erschöpfende Regelung)?
+5. Ist das Lückenfüllungsergebnis mit übergeordneten Rechtsgrundsätzen vereinbar?
+6. Sind Risiken einer abweichenden Rechtsprechung im Gutachten benannt?
+7. Wurden Bereicherungsrechtliche Auffanglösungen (§§ 812 ff. BGB) als Alternative geprüft?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Bewusste Regelungslücken werden als planwidrig behandelt und unzulässig durch Analogie geschlossen.
+- Ausnahmevorschriften werden irrtümlich analog angewendet, obwohl ihr Ausnahmecharakter einer Ausweitung entgegensteht.
+- Das Analogieergebnis widerspricht dem Telos der Leitvorschrift, ohne dass dies begründet wird.
+- Bereicherungsrechtliche Lösungen werden übersehen, obwohl sie für atypische Sachverhalte besser passen.
+
+## Output
+
+Das Skill liefert ein strukturiertes Lückenfüllungsgutachten: Identifikation der Regelungslücke, Analogieprüfung mit Vergleichbarkeitsprüfung, Anwendung der gewählten Methode und Risikobewertung des Ergebnisses. Geeignet für anwaltliche Beratung bei Grenzfällen, für Klageentwürfe und für Gutachten in ungesicherten Rechtsfragen.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 812 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__812.html)
+- [Art. 20 GG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gg/art_20.html)
+- [dejure.org Analogie im Zivilrecht](https://dejure.org/gesetze/BGB/157.html)
+
+## Abgrenzungen und Methodik
+
+Die Analogie als Lückenfüllungsinstrument ist streng von der Auslegung zu unterscheiden: Auslegung bewegt sich
+innerhalb des möglichen Wortlautsinns; Analogie übersteigt diesen und setzt eine Regelungslücke voraus.
+Daneben gibt es die teleologische Reduktion, die eine zu weit gefasste Norm auf ihren eigentlichen Regelungsbereich
+einschränkt. Alle drei Instrumente sind methodisch transparent anzuwenden und können durch die Gegenseite
+angegriffen werden.
+
+## Praktische Anwendungshinweise
+
+Bei Edge-Cases in digitalen und technologischen Bereichen (Plattformverträge, Smart Contracts, KI-generierte
+Inhalte) ist besondere Sorgfalt geboten: Das BGB enthält keine Regelungen für viele dieser Konstellationen.
+Die methodisch saubere Analogieprüfung ist hier nicht nur akademisch, sondern entscheidet über die
+Rechtssicherheit von Vertragsgestaltungen. Im Zweifel empfiehlt sich eine ausdrückliche vertragliche Regelung,
+um die Lücke zu schließen, anstatt sich auf unsichere Analogieschlüsse zu verlassen.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

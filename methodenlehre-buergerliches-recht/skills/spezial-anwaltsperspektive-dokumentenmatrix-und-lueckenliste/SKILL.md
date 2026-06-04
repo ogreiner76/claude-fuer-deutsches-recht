@@ -1,48 +1,83 @@
 ---
 name: spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste
-description: "Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen.
 ---
 
-# Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung
+# Anwaltsperspektive: Dokumentenmatrix und Lückenliste
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Eine tragfähige Mandatsführung steht und fällt mit der Vollständigkeit der Dokumentenbasis. Dieses Skill strukturiert die anwaltliche Arbeit so, dass fehlende Dokumente früh identifiziert, Beweislücken erkannt und Schritte zur Schließung dieser Lücken eingeleitet werden. Die Dokumentenmatrix ist zugleich Instrument der Qualitätssicherung und der Mandantenkommunikation.
 
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Anwaltsperspektive**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Mandant bringt zum Erstgespräch lediglich eine E-Mail-Korrespondenz mit und behauptet, einen Kaufvertrag über eine Immobilie geschlossen zu haben. Das Skill hilft, die notwendige Urkundenbasis (notarieller Vertrag, Grundbuchauszug, Finanzierungsnachweis) strukturiert zu erfassen und fehlende Dokumente zu listen.
+- Eine Unternehmerin verlangt Schadensersatz für mangelhafte Werkleistungen. Das Skill erstellt eine Matrix: Welche Dokumente belegen Auftragserteilung, Leistungserbringung, Mangelfeststellung, Nachfristsetzung und Schadenshöhe?
+- In einem Erbstreit muss der Mandant die Testierfähigkeit des Erblassers beweisen. Das Skill listet, welche medizinischen, notariellen und zeitlichen Dokumente benötigt werden und welche Zeugenliste zu erstellen ist.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Anwaltsperspektive.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Erfasse alle vom Mandanten vorgelegten Unterlagen und kategorisiere sie (Vertragsdokumente, Korrespondenz, Belege, Zeugenaussagen, Gutachten, Behördenunterlagen).
+2. Erstelle für jeden rechtlich relevanten Tatbestandsmerkmal eine Liste der Beweismittel, die dieses Merkmal belegen oder widerlegen.
+3. Markiere für jedes Tatbestandsmerkmal, ob das Beweismittel vorhanden, beschaffbar oder dauerhaft nicht verfügbar ist.
+4. Bestimme, auf welcher Seite die Beweislast liegt, und passe die Lückenanalyse entsprechend an.
+5. Erstelle eine priorisierte Lückenliste: Welche Dokumente müssen sofort beschafft werden? Welche können nachgereicht werden?
+6. Dokumentiere die Matrix im Mandatsprotokoll und informiere den Mandanten über notwendige Eigenleistungen zur Beschaffung von Unterlagen.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 286 ZPO — Freie richterliche Beweiswürdigung; bestimmt den Stellenwert der vorgelegten Dokumente
+- § 416 ZPO — Beweiskraft von Privaturkunden; relevant für den Beweiswert von E-Mails, Verträgen und Quittungen
+- § 138 ZPO — Wahrheits- und Vollständigkeitspflicht der Parteien; begrenzt die Auswahl eingezureichender Dokumente
+- § 142 ZPO — Vorlegungsanordnung; ermöglicht dem Gericht die Anforderung von Urkunden der Gegenseite
+- §§ 810, 811 BGB — Vorlegungsanspruch bei Urkunden im gemeinsamen Interesse oder mit Beweiswirkung
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anwaltsperspektive** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Sind alle für die relevanten Tatbestandsmerkmale erforderlichen Dokumente vorhanden?
+2. Ist die Beweislastverteilung für jeden Streitpunkt identifiziert und in der Matrix berücksichtigt?
+3. Sind Dokumente im Original vorhanden, die Formanforderungen (§ 126 BGB, § 416 ZPO) unterliegen?
+4. Welche Beweismittel könnten durch die Gegenseite beschafft oder vom Gericht angefordert werden?
+5. Gibt es zeitkritische Dokumente (Fristen, Verjährungsunterbrechungen), die sofort gesichert werden müssen?
+6. Sind externe Gutachten oder Zeugenaussagen einzuplanen, und bis wann müssen diese vorliegen?
+7. Ist die Dokumentenmatrix mit dem Mandanten kommuniziert und seine Mitwirkungspflicht dokumentiert?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Fehlende Dokumente werden erst im laufenden Verfahren bemerkt, wenn ihre Beschaffung schwierig oder unmöglich geworden ist.
+- Die Beweislastverteilung wird nicht frühzeitig analysiert, was zu einer falschen Priorisierung der Beweismittelsammlung führt.
+- Originale werden nicht gesichert, obwohl Kopien nicht ausreichen (Formerfordernisse, § 416 ZPO).
+- Der Mandant wird nicht über seine Mitwirkungspflichten informiert, was die Dokumentenbasis unvollständig lässt.
+
+## Output
+
+Das Skill produziert eine tabellarische Dokumentenmatrix mit drei Spalten: Tatbestandsmerkmal, vorhandene Beweismittel, fehlende Beweismittel. Ergänzt wird eine priorisierte Lückenliste mit Angabe, wer welches Dokument bis wann beschaffen muss. Das Ergebnis fließt in das Mandatsprotokoll und in die Prozessplanung ein.
+
+## Quellen
+
+- [§ 286 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__286.html)
+- [§ 416 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__416.html)
+- [§ 142 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__142.html)
+- [§ 810 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__810.html)
+- [dejure.org Beweislast im Zivilprozess](https://dejure.org/gesetze/ZPO/286.html)
+
+## Abgrenzungen und Methodik
+
+Die Dokumentenmatrix ist kein einmaliges Instrument bei Mandatseröffnung, sondern ein dynamisches Werkzeug,
+das über die gesamte Mandatsdauer fortgeschrieben werden muss. Jeder neue Schriftsatz des Gegners, jedes
+neue gerichtliche Hinweisschreiben und jeder neue Zeuge kann die Beweislage verändern und erfordert eine
+Aktualisierung der Matrix. Besonders bei langen Verfahren ist die regelmäßige Überprüfung unverzichtbar.
+
+## Praktische Anwendungshinweise
+
+Die Beweislastverteilung sollte zu Beginn des Mandats schriftlich festgehalten und dem Mandanten erklärt werden.
+Mandanten müssen verstehen, dass ihre eigene Mitwirkung bei der Dokumentenbeschaffung unmittelbar ihre
+Erfolgschancen beeinflusst. Eine klare Aufgabenliste mit Fristen schafft Verbindlichkeit. Bei schwer
+beschaffbaren Dokumenten (Behördenakten, Patientenakten, Buchungsunterlagen) sollte frühzeitig ein
+Einsichtsrecht oder eine gerichtliche Vorlegungsanordnung (§ 142 ZPO) beantragt werden.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

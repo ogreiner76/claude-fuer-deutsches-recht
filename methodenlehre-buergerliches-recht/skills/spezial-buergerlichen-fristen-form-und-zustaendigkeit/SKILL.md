@@ -1,48 +1,86 @@
 ---
 name: spezial-buergerlichen-fristen-form-und-zustaendigkeit
-description: "Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen.
 ---
 
-# Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg
+# Fristen, Form und Zuständigkeit im bürgerlichen Recht
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Die Einhaltung von Fristen, die Beachtung von Formvorschriften und die Wahl des zuständigen Forums sind Grundbedingungen jeder erfolgreichen Rechtsdurchsetzung. Ein methodisch sicherer Umgang mit diesen Grundlagen schützt vor folgenreichen Fehlern. Dieses Skill bietet eine strukturierte Prüfanleitung für alle drei Bereiche.
 
-Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Buergerlichen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Mandant hat einen Kaufvertrag über ein Grundstück ohne notarielle Beurkundung geschlossen. Das Skill klärt, ob Formnichtigkeit nach § 125 BGB vorliegt, ob Heilung durch Auflassung und Eintragung möglich ist und welche Fristen für etwaige Ansprüche gelten.
+- Eine Mieterin stellt fest, dass die Kündigungserklärung ihres Vermieters möglicherweise nicht die gesetzliche Schriftform (§ 568 Abs. 1 BGB) wahrt. Das Skill prüft, ob die Kündigung wirksam ist und welche Reaktionsfristen bestehen.
+- Ein Unternehmen möchte gegen einen Vertragspartner klagen und fragt nach dem zuständigen Gericht. Das Skill prüft Wertgrenzen (§§ 23, 71 GVG), besondere Gerichtsstände (§§ 29, 32, 38 ZPO) und ggf. vereinbarte Gerichtsstandsklauseln.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Buergerlichen.
-- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Bestimme alle maßgeblichen Fristen im Sachverhalt (Verjährungsfristen nach §§ 195 ff. BGB, Ausschlussfristen, prozessuale Fristen der ZPO).
+2. Berechne Fristbeginn, Fristlauf und Fristende nach §§ 187 ff. BGB; prüfe Hemmung und Neubeginn der Verjährung.
+3. Identifiziere alle Formvorschriften, die für die betreffenden Rechtsgeschäfte gelten (Schriftform, Textform, notarielle Beurkundung, öffentliche Beglaubigung).
+4. Prüfe, ob Formfehler vorliegen und ob Heilungsmöglichkeiten (§ 311b Abs. 1 Satz 2 BGB, § 15 Abs. 4 GmbHG) greifen.
+5. Bestimme das zuständige Gericht: sachliche Zuständigkeit (Amtsgericht, Landgericht), örtliche Zuständigkeit (allgemeiner Gerichtsstand, besonderer Gerichtsstand, ausschließlicher Gerichtsstand).
+6. Dokumentiere alle ermittelten Fristen, Formvoraussetzungen und Zuständigkeiten in einem Mandatsmemo und setze Wiedervorlagen.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- §§ 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen
+- § 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte
+- § 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen
+- §§ 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist
+- §§ 23, 71 GVG — Sachliche Zuständigkeit nach Streitwert
+- §§ 12, 29, 32 ZPO — Allgemeiner und besonderer Gerichtsstand
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Buergerlichen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Sind alle einschlägigen Fristen berechnet und dokumentiert?
+2. Ist die Verjährungsfrist durch Hemmung oder Neubeginn beeinflusst?
+3. Ist die gesetzlich vorgeschriebene Form für das jeweilige Rechtsgeschäft eingehalten?
+4. Liegt bei einem Formfehler eine Heilungsmöglichkeit vor?
+5. Ist das sachlich zuständige Gericht korrekt bestimmt?
+6. Gilt ein besonderer oder ausschließlicher Gerichtsstand?
+7. Wurden vereinbarte Gerichtsstandsklauseln auf ihre Wirksamkeit geprüft?
+8. Sind prozessuale Fristen (Klagefrist, Einspruchsfrist, Berufungsfrist) erfasst und terminiert?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Verjährungsfristen werden nicht mit Beginn des Jahres nach Kenntnis korrekt berechnet (§ 199 BGB).
+- Formnichtige Verträge werden als wirksam behandelt, ohne Heilungsmöglichkeiten zu prüfen.
+- Der ausschließliche Gerichtsstand bei Wohnraummietsachen (§ 29a ZPO) wird übersehen.
+- Gerichtsstandsklauseln werden akzeptiert, ohne deren Wirksamkeit nach § 38 ZPO zu prüfen.
+
+## Output
+
+Das Skill erstellt eine Fristen-Form-Zuständigkeits-Checkliste für das Mandat: tabellarische Fristenübersicht mit Wiedervorlage, Formprüfungsergebnis mit Heilungshinweis und Zuständigkeitsanalyse mit Empfehlung des Forums. Geeignet als Grundlage für Mandatsprotokoll, Schriftsatzvorbereitung und interne Qualitätssicherung.
+
+## Quellen
+
+- [§§ 186 ff. BGB Fristberechnung auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__186.html)
+- [§ 125 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__125.html)
+- [§ 195 BGB Regelverjährung auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [§ 29 ZPO besonderer Gerichtsstand auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__29.html)
+- [dejure.org Verjährungsrecht](https://dejure.org/gesetze/BGB/195.html)
+
+## Abgrenzungen und Methodik
+
+Fristen, Form und Zuständigkeit bilden drei unabhängige Prüfungsebenen, die jedoch methodisch zusammenhängen:
+Eine Klage beim falschen Gericht kann fristhemmend wirken (§ 204 Abs. 1 Nr. 1 BGB), eine formunwirksame
+Klage dagegen nicht. Das Zusammenspiel dieser drei Ebenen muss bei jeder prozessualen Handlung durchdacht werden.
+Besondere Sorgfalt ist bei der Berechnung von Fristen nach §§ 187 ff. BGB geboten, weil Rechenfehler
+unmittelbare Haftungsfolgen haben können.
+
+## Praktische Anwendungshinweise
+
+Für die Praxisroutine empfiehlt sich eine Checkliste, die bei jeder neuen Mandatseröffnung und bei jedem
+neuen prozessualen Schritt abgearbeitet wird: Frist berechnet? Form gewahrt? Zuständigkeit bestimmt?
+Bei mehrfacher Zuständigkeit (z.B. allgemeiner und besonderer Gerichtsstand) sollte die strategisch
+günstigste Option gewählt werden. Gerichtsstandsvereinbarungen müssen auf ihre AGB-rechtliche Wirksamkeit
+(§ 38 ZPO) geprüft werden, bevor sie als verbindlich akzeptiert werden.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

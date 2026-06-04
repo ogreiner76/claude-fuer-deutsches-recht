@@ -1,48 +1,84 @@
 ---
 name: spezial-auslegung-verhandlung-vergleich-und-eskalation
-description: "Auslegung: Verhandlung, Vergleich und Eskalation im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
 ---
 
-# Auslegung: Verhandlung, Vergleich und Eskalation
+# Auslegung, Verhandlung, Vergleich und Eskalation
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Die anwaltliche Begleitung von Konflikten umfasst mehr als Rechtsprüfung: Sie verlangt den fließenden Übergang von der Auslegung des Streitstoffs über die Verhandlungsführung bis zur Entscheidung, ob ein Vergleich sinnvoll ist oder eine gerichtliche Eskalation unausweichlich wird. Dieses Skill verzahnt Methodik und Strategie für jeden dieser Schritte.
 
-Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Auslegung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Handelsvertreter und sein ehemaliger Auftraggeber streiten über den Ausgleichsanspruch nach § 89b HGB. Die Auslegung des Handelsvertretervertrags führt zu unterschiedlichen Ergebnissen; das Skill hilft, die Auslegungsergebnisse als Verhandlungspositionen zu formatieren und einen belastbaren Vergleich zu entwerfen.
+- Zwei Unternehmen streiten über den Umfang einer Gewährleistungspflicht. Das Skill analysiert die Vertragsklausel, entwickelt daraus Best-Case- und Worst-Case-Szenarien und leitet eine Vergleichsempfehlung mit BATNA-Analyse ab.
+- Ein Mieter und eine Hausverwaltung stehen kurz vor Klageerhebung. Das Skill prüft, ob eine außergerichtliche Einigung auf Basis der Vertragsauslegung noch möglich ist, oder ob eine Eskalation zum Amtsgericht rechtlich und wirtschaftlich überlegen ist.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Auslegung.
-- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Lege die Vertragsgrundlage aus: Wortlaut, Systematik, Entstehungsgeschichte und Zweck (§§ 133, 157 BGB); bestimme das Range der vertretbaren Auslegungsergebnisse.
+2. Übersetze das Auslegungsergebnis in eine Verhandlungsposition: Bestimme Mindestposition, Zielposition und Konzessionsspielraum.
+3. Analysiere die BATNA (Best Alternative to a Negotiated Agreement) beider Seiten, um die Einigungszone zu bestimmen.
+4. Entwerfe einen Vergleichsentwurf, der die Interessen beider Seiten berücksichtigt und vollstreckbar formuliert ist.
+5. Prüfe, ob ein gerichtlicher Vergleich (§ 794 Abs. 1 Nr. 1 ZPO) oder ein außergerichtlicher Vergleich mit Vollstreckungsklausel vorzuziehen ist.
+6. Definiere die Eskalationsschwelle: Wann ist die Verhandlungsphase beendet und Klageerhebung geboten?
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — Auslegung nach dem wirklichen Willen; Grundlage der Verhandlungsposition
+- § 157 BGB — Auslegung nach Treu und Glauben mit Rücksicht auf Verkehrssitte; interessengeleitete Auslegung
+- § 779 BGB — Vergleich; materielle Wirksamkeitsvoraussetzungen
+- § 794 Abs. 1 Nr. 1 ZPO — gerichtlicher Vergleich als Vollstreckungstitel
+- § 89b HGB — Ausgleichsanspruch des Handelsvertreters als typisches Verhandlungsobjekt
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Auslegung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Ist der Auslegungsspielraum der Vertragsgrundlage vollständig ausgelotet?
+2. Sind Verhandlungspositionen beider Seiten und deren Alternativen (BATNA) realistisch eingeschätzt?
+3. Ist der Vergleichsentwurf vollstreckbar und ohne Auslegungslücken formuliert?
+4. Sind steuerliche und handelsrechtliche Nebenfolgen des Vergleichs bedacht?
+5. Ist die Eskalationsschwelle klar definiert und mit dem Mandanten kommuniziert?
+6. Wurde die Verjährungshemmung durch Verhandlungen (§ 203 BGB) dokumentiert?
+7. Sind die Kosten des Vergleichs im Vergleich zur Prozesskostenprognose bewertet?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Verhandlungen werden ohne vorherige Auslegungsanalyse geführt, was zu einer schwachen Verhandlungsposition führt.
+- Vergleiche werden ohne Vollstreckungsklausel geschlossen und können bei Nichterfüllung nicht tituliert werden.
+- Die Verjährungshemmung durch Verhandlungen (§ 203 BGB) wird nicht dokumentiert, und Ansprüche verjähren während der Verhandlungsphase.
+- Die Eskalationsschwelle wird zu spät gezogen, was Verhandlungszeit verschwendet oder kostspielige Verfahren nach sich zieht.
+
+## Output
+
+Das Skill liefert eine dreistufige Dokumentation: Auslegungsanalyse mit Bandbreite vertretbarer Ergebnisse, strukturiertes Verhandlungsprotokoll mit Positions- und Konzessionsplanung, fertiger Vergleichsentwurf mit Vollstreckbarkeitscheck. Bei Eskalation entsteht ein Klageentwurf mit Begründung, warum Verhandlung gescheitert ist.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 157 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__157.html)
+- [§ 779 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__779.html)
+- [§ 203 BGB Verjährungshemmung auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__203.html)
+- [dejure.org Vergleich und Vollstreckung](https://dejure.org/gesetze/ZPO/794.html)
+
+## Abgrenzungen und Methodik
+
+Die Verbindung von Auslegung und Verhandlung ist methodisch nur möglich, wenn die Auslegungsergebnisse
+in Interessenpositionen übersetzt werden. Der klassische juristische Gutachtenstil (Obersatz-Definition-
+Subsumtion-Ergebnis) muss für die Verhandlungsführung in eine pragmatische "Wenn-Dann"-Struktur überführt
+werden: Wenn das Gericht so auslegt, dann besteht Anspruch; wenn es anders auslegt, dann nicht. Diese
+Bandbreitenanalyse ist die Grundlage für eine rationale BATNA-Berechnung.
+
+## Praktische Anwendungshinweise
+
+Vergleiche sollten nie auf der Grundlage eines einzigen Auslegungsergebnisses geschlossen werden. Stets ist
+die Bandbreite möglicher Auslegungen zu ermitteln und der Vergleichswert im mittleren Bereich dieser Bandbreite
+anzusiedeln. Vertrauensschutzfragen bei mündlich geschlossenen Teilvergleichen müssen durch sofortige
+schriftliche Protokollierung gesichert werden. Die Verjährungshemmung durch Verhandlungen (§ 203 BGB) ist
+während der gesamten Verhandlungsphase aktiv zu überwachen.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

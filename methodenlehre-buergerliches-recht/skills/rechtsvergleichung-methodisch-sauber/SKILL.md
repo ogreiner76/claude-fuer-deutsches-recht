@@ -1,37 +1,80 @@
 ---
 name: rechtsvergleichung-methodisch-sauber
-description: "Nutzt Rechtsvergleichung als methodisches Argument, ohne fremde Lösungen blind in deutsches Recht zu importieren."
+description: Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen.
 ---
 
-# Rechtsvergleichung sauber verwenden
+# Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht
 
-## Aufgabe
+Rechtsvergleichung ist eine anerkannte Erkenntnisquelle in der deutschen Methodenlehre. Dieses Skill zeigt, wann und wie ausländisches Recht methodisch korrekt als Auslegungshilfe oder Rechtsfortbildungsargument eingesetzt werden kann und wo die Grenzen liegen, die eine unkritische Übernahme fremder Rechtslösungen unzulässig machen.
 
-Dieser Skill arbeitet methodisch und fallnah. Er macht zivilrechtliche Rechtsanwendung ehrlicher, präziser und belastbarer, indem er Methode, Wertung, Beleg und institutionelle Zuständigkeit sichtbar trennt.
+## Mandantenfall
 
-## Sofort klären
+- Ein deutsches Gericht möchte bei der Auslegung des allgemeinen Persönlichkeitsrechts auf das US-amerikanische Privacy-Recht verweisen. Das Skill prüft, ob dieser rechtsvergleichende Verweis methodisch zulässig und wie er korrekt einzuführen ist.
+- Im europäischen Vertragsrecht soll das englische consideration-Konzept für die Auslegung des deutschen Bereicherungsrechts herangezogen werden. Das Skill analysiert die methodischen Anforderungen an diesen Rechtsvergleich.
+- Ein Schiedsgericht verweist auf ein Urteil des Schweizer Bundesgerichts zur Auslegung einer zivilrechtlichen Generalklausel. Das Skill prüft, welche methodische Bedeutung diese Bezugnahme hat und wie sie im Schriftsatz darzustellen ist.
 
-1. Welche Norm, Anspruchsgrundlage oder Generalklausel ist entscheidend?
-2. Welche Tatsachen sind belegt, welche werden nur behauptet, welche sind wertend zugespitzt?
-3. Welche Methode wird gerade eingesetzt: Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht, Rechtsfortbildung, Abwägung oder Präjudizienarbeit?
-4. Wer entscheidet oder kontrolliert: Partei, Anwalt, Gericht, Behörde, Gesetzgeber, Verband oder Schiedsgericht?
-5. Welcher Output wird gebraucht: Gutachtenabschnitt, Schriftsatzbaustein, Risikoampel, Red-Team, Argumentmatrix oder Mandantenbrief?
+## Erste Schritte
 
-## Arbeitsprogramm
+1. Bestimme den Vergleichszweck: Wird ausländisches Recht zur Auslegungsergänzung, zur Lückenfüllung, zur Normfortbildung oder zur wissenschaftlichen Diskussion herangezogen?
+2. Prüfe die Vergleichbarkeit der Rechtsordnungen: Sind die Systeme (civil law/common law, Bundesstaat/Zentralstaat, kodifiziert/nicht kodifiziert) ausreichend vergleichbar, um den Vergleich zu tragen?
+3. Übersetze den ausländischen Rechtsbegriff in den deutschen Kontext: Lösung kontextuell übertragen, nicht wörtlich transplantieren.
+4. Prüfe den normativen Stellenwert: Ausländisches Recht ist Erkenntnisquelle, kein bindende Normsatzgebung.
+5. Beachte methodische Qualitätsanforderungen: Quellen müssen verlässlich und das ausländische Recht muss richtig dargestellt sein.
+6. Stelle die Grenzen des Vergleichs dar: Wo funktioniert das ausländische Modell im deutschen Kontext nicht?
 
-1. Kläre, ob Rechtsvergleichung normativ erlaubt, unionsrechtlich geboten oder nur heuristisch ist.
-2. Vergleiche Funktionen, Institutionen und Folgen, nicht nur Begriffe.
-3. Markiere Transplantationsrisiken: anderes Verfahren, andere Dogmatik, andere Kultur.
-4. Formuliere Rechtsvergleichung als Plausibilitätsargument, nicht als Ersatz für deutsches Recht.
+## Rechtsrahmen
 
-## Qualitätsregeln
+- § 133 BGB — Auslegungsmaßstab: Rechtsvergleich ist Erkenntnisquelle, nicht Primärquelle
+- Art. 20 Abs. 3 GG — Gesetzesbindung als Grenze: Rechtsvergleich kann Auslegung stützen, aber nicht Normtext überwinden
+- Art. 25 GG — allgemeine Regeln des Völkerrechts als Bestandteil des Bundesrechts: Rechtsvergleichung im Lichte des Völkerrechts
+- Art. 267 AEUV — Vorabentscheidungsverfahren: EU-weite Rechtsvergleichung über den EuGH als institutionalisierter Mechanismus
+- § 293 ZPO — ausländisches Recht als Tatsache, die zu beweisen ist: prozessrechtliche Einführung rechtsvergleichender Argumente
+- Art. 3 Abs. 1 GG — Gleichheitssatz als Rahmen für die konsistente Nutzung rechtsvergleichender Argumente
 
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Keine Scheinobjektivität: Wenn eine Wertung getroffen wird, wird sie als Wertung markiert.
-- Keine Scheinlogik: Wenn mehrere Methoden zu unterschiedlichen Ergebnissen führen, werden die Alternativen offengelegt.
-- Keine Scheinempirie: Folgenbehauptungen brauchen Belege oder werden als Prognose markiert.
+## Prüfraster
+
+1. Ist der Vergleichszweck (Auslegung, Lückenfüllung, Fortbildung) klar bestimmt?
+2. Sind die verglichenen Rechtsordnungen ausreichend vergleichbar?
+3. Wird der ausländische Rechtsbegriff kontextuell übertragen statt wörtlich transplantiert?
+4. Wird ausländisches Recht als Erkenntnisquelle, nicht als Normsatz behandelt?
+5. Sind die Quellen verlässlich und das ausländische Recht korrekt dargestellt?
+6. Werden die Grenzen der Übertragbarkeit klar kommuniziert?
+7. Ist die prozessuale Einführung (§ 293 ZPO) gegebenenfalls berücksichtigt?
+
+## Typische Fallstricke
+
+- Ausländisches Recht wird wörtlich transplantiert, ohne die Systemunterschiede zu berücksichtigen.
+- Rechtsvergleichende Argumente werden ohne Quellennachweis als allgemeingültig ausgegeben.
+- Common-law-Konzepte werden unkritisch auf kodifiziertes Zivilrecht übertragen.
+- Rechtsvergleich wird zur Verstärkung einer bereits feststehenden Meinung eingesetzt, ohne den Vergleich ernsthaft zu betreiben.
+- Die prozessuale Einführung nach § 293 ZPO (ausländisches Recht als Tatsache) wird bei internationalem Sachverhalt übersehen.
 
 ## Output
 
-Liefere immer: Kurzthese, Prüfpfad, methodische Entscheidungspunkte, Gegenargument der anderen Seite, Risikoampel und Anschluss-Skills aus `methodenlehre-buergerliches-recht`.
+Das Skill liefert eine Rechtsvergleichs-Analyse: Vergleichszweckbestimmung, Systemkompatibilitätsprüfung, kontextuelle Übersetzung des ausländischen Konzepts, Grenzenanalyse und Formulierungsvorschlag für den rechtsvergleichenden Argumentationsabschnitt in Schriftsatz oder Gutachten.
+
+## Vertiefung: Funktionaler Vergleich als Methodik
+
+Die methodisch belastbarste Form des Rechtsvergleichs ist der funktionale Vergleich: Er fragt nicht, welche Norm im anderen Rechtssystem existiert, sondern welche Funktion ein Rechtsinstitut erfüllt und ob diese Funktion im deutschen Recht durch vergleichbare Institutionen erfüllt wird. Diese Methode überwindet den Fehler des bloßen "Normtransplants" und ergibt übertragbarere Einsichten.
+
+## Hinweise zur Praxis
+
+Bei rechtsvergleichenden Argumenten im Schriftsatz ist die Qualifikation der Quelle entscheidend: Erstklassige rechtsvergleichende Sekundärliteratur (z.B. Zweigert/Kötz) ist stärker als bloße Internetrecherchen zu ausländischem Recht. Wenn möglich, sollte ausländisches Recht durch ein Gutachten eines ausländischen Rechtsexperten eingeführt werden (§ 293 ZPO). Dies erhöht die prozessuale Verwertbarkeit erheblich.
+
+## Weiterführende Analyse
+
+Die Rechtsvergleichung gewinnt durch europäische Harmonisierung an Bedeutung: Wo EU-Richtlinien in mehreren Mitgliedstaaten umgesetzt werden, bieten ausländische Umsetzungspraxis und Rechtsprechung wertvolle Orientierungshilfen. Insbesondere wenn nationale Gerichte mit Auslegungsfragen kämpfen, die in anderen Mitgliedstaaten bereits gelöst sind, kann der Rechtsvergleich den Weg zu einer EU-konformen Lösung abkürzen. Dies ist keine Kapitulation vor ausländischem Recht, sondern die kluge Nutzung gemeinschaftlicher Rechtserfahrung.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [§ 293 ZPO – Ausländisches Recht](https://dejure.org/gesetze/ZPO/293.html)
+- [Art. 25 GG – Völkerrecht](https://dejure.org/gesetze/GG/25.html)
+- [Art. 267 AEUV – Vorabentscheidungsverfahren](https://dejure.org/gesetze/AEUV/267.html)
+- [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
+- [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

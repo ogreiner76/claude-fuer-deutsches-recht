@@ -1,48 +1,85 @@
 ---
 name: spezial-vorrang-red-team-und-qualitaetskontrolle
-description: "Vorrang: Red-Team und Qualitätskontrolle im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern?
 ---
 
-# Vorrang: Red-Team und Qualitätskontrolle
+# Red Team und Qualitätskontrolle für juristische Arbeitsergebnisse
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Wer nur die eigene Argumentation kennt, ist im Prozess überrumpelbar. Das Red-Team-Prinzip aus der Sicherheitsanalyse überträgt sich methodisch auf die juristische Qualitätskontrolle: Die eigene Position wird so hart wie möglich angegriffen, bevor der Gegner es tut. Dieses Skill gibt eine strukturierte Anleitung für diese kritische Selbstreflexion.
 
-Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Vorrang**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Anwalt hat eine Klageschrift fertiggestellt und möchte sie vor Einreichung einer Red-Team-Analyse unterziehen. Das Skill hilft, die stärksten Gegenargumente der Beklagten zu formulieren und zu prüfen, ob die Klagebegründung diesen standhält.
+- Eine Kanzlei hat ein Rechtsgutachten erstellt, das für eine Unternehmensübernahme entscheidend ist. Das Skill prüft das Gutachten auf methodische Schwächen, übersehene Risiken und Argumente, die ein gegnerisches Gutachten nutzen könnte.
+- Ein Mandant hat in erster Instanz verloren und möchte Berufung einlegen. Das Skill hilft, das erstinstanzliche Urteil auf Angriffspunkte zu prüfen und eine Red-Team-Analyse der eigenen Berufungsbegründung durchzuführen.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Vorrang.
-- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Lies das juristische Arbeitsergebnis vollständig durch und formuliere die drei stärksten Gegenargumente der Gegenseite.
+2. Prüfe, ob die eigene Argumentation diese Gegenargumente explizit und überzeugend entkräftet.
+3. Identifiziere den methodisch schwächsten Punkt der eigenen Position: Wo ist der Wortlaut problematisch, die Systematik uneinheitlich, der Telos unklar?
+4. Prüfe, ob der Vorrang-Check vollständig ist: Wird die stärkste Norm angewendet? Wird Spezialrecht vor Allgemeinrecht geprüft? Ist das Verhältnis von Primär- und Sekundärrechtsbehelfen korrekt?
+5. Überarbeite das Arbeitsergebnis auf Basis der Red-Team-Erkenntnisse: Stärke schwache Punkte, räume Schwächen ein, wo sie unüberwindlich sind.
+6. Führe eine abschließende Qualitätskontrolle durch: Vollständigkeit, Kohärenz, Normbezug, Beweisantritte.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — Auslegung nach dem wirklichen Willen; häufiger Angriffsvektor im Red Team
+- § 242 BGB — Treu und Glauben; häufig als Gegenargument durch die Gegenseite eingesetzt
+- Art. 20 Abs. 3 GG — Gesetzesbindung; Argument gegen Rechtsfortbildung über den Wortlaut hinaus
+- § 520 ZPO — Anforderungen an Berufungsbegründung; Qualitätsmaßstab für Red-Team-Check
+- § 138 ZPO — Vollständigkeitspflicht; Maßstab für Vollständigkeitsprüfung im Quality Gate
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vorrang** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Sind die drei stärksten Gegenargumente vollständig formuliert?
+2. Werden diese Gegenargumente in der eigenen Argumentation explizit entkräftet?
+3. Ist der methodisch schwächste Punkt der eigenen Position identifiziert und gestärkt?
+4. Ist der Vorrang-Check vollständig (Spezialrecht vor Allgemeinrecht, Primärrechtsbehelf vor Sekundär)?
+5. Ist die Argumentation kohärent und ohne innere Widersprüche?
+6. Sind alle Normbezüge korrekt und vollständig?
+7. Sind Beweisantritte vollständig und tatbestandsspezifisch?
+8. Ist das Ergebnis auch unter adversarialem Druck vertretbar?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Die Red-Team-Analyse wird oberflächlich durchgeführt und liefert nur offensichtliche Schwächen.
+- Schwachstellen werden identifiziert, aber nicht konsequent bearbeitet, weil die Überarbeitung aufwendig ist.
+- Der Vorrang-Check wird vergessen, sodass Spezialrecht unbeachtet bleibt.
+- Das Ergebnis wird nach dem Red Team nicht aktualisiert, sodass die Analyse wirkungslos bleibt.
+
+## Output
+
+Das Skill liefert einen strukturierten Red-Team-Bericht: drei bis fünf Gegenargumente mit Bewertung ihrer Stärke, identifizierter schwächster Punkt der eigenen Position, Vorrang-Check-Ergebnis und überarbeitetes Arbeitsergebnis. Der Bericht kann als interne Qualitätsdokumentation und als Grundlage für Mandantengespräche verwendet werden.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 520 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__520.html)
+- [§ 138 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__138.html)
+- [dejure.org Berufungsbegründung Anforderungen](https://dejure.org/gesetze/ZPO/520.html)
+
+## Abgrenzungen und Methodik
+
+Der Vorrang-Check ist von der allgemeinen Rechtsprüfung zu unterscheiden: Während diese alle Rechtsfragen
+umfasst, konzentriert sich der Vorrang-Check auf das Verhältnis zwischen konkurrierenden Normen und
+Anspruchsgrundlagen. Lex specialis vor lex generalis, lex posterior vor lex prior, Unionsrecht vor
+nationalem Recht — diese Hierarchien müssen konsequent angewendet werden, bevor die eigentliche
+Argumentation beginnt.
+
+## Praktische Anwendungshinweise
+
+Red-Team-Analysen sind besonders effektiv, wenn sie von einem Kollegen durchgeführt werden, der das
+Mandat nicht kennt. Die "frischen Augen"-Perspektive deckt Schwächen auf, die dem bearbeitenden Anwalt
+durch Betriebsblindheit verborgen geblieben sind. In Kanzleien empfiehlt sich daher ein strukturiertes
+Peer-Review-Verfahren, bei dem kritische Schriftsätze vor Einreichung von einem unbeteiligten Kollegen
+auf die drei stärksten Gegenargumente geprüft werden. Das Ergebnis wird dokumentiert.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

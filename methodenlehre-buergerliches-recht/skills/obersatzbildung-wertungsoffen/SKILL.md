@@ -1,37 +1,80 @@
 ---
 name: obersatzbildung-wertungsoffen
-description: "Bildet tragfähige Obersätze bei unbestimmten Rechtsbegriffen, Typusbegriffen und Generalklauseln, ohne die spätere Abwägung zu verstecken."
+description: Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vorwegzunehmen. Geeignet für juristische Ausbildung, Klausuren und Praxisgutachten.
 ---
 
-# Wertungsoffene Obersätze
+# Obersatzbildung: Wertungsoffene Formulierung im Gutachten
 
-## Aufgabe
+Der Obersatz ist der Ausgangspunkt jeder gutachterlichen Prüfung. Er muss die zu prüfende Rechtsfrage präzise benennen, den einschlägigen Tatbestand benennen und offen genug formuliert sein, um die Wertungsfragen der Subsumtion nicht vorwegzunehmen. Dieses Skill vermittelt die Technik der wertungsoffenen Obersatzbildung.
 
-Dieser Skill arbeitet methodisch und fallnah. Er macht zivilrechtliche Rechtsanwendung ehrlicher, präziser und belastbarer, indem er Methode, Wertung, Beleg und institutionelle Zuständigkeit sichtbar trennt.
+## Mandantenfall
 
-## Sofort klären
+- Ein Jurastudent formuliert im Gutachten als Obersatz: "A könnte gegen B einen Schadensersatzanspruch haben." Das klingt korrekt, aber der Obersatz ist zu unspezifisch. Das Skill zeigt, wie der Obersatz auf die konkrete Anspruchsgrundlage und den zu prüfenden Tatbestand zugespitzt wird, ohne das Ergebnis vorwegzunehmen.
+- Ein erfahrener Anwalt formuliert einen Prüfobersatz für ein Gutachten zur AGB-Unwirksamkeit. Er will sicherstellen, dass der Obersatz alle wertungsrelevanten Dimensionen des § 307 BGB erfasst, ohne die Wertungsoffenheit zu verlieren.
+- Ein Richter schreibt ein Urteil und bemerkt, dass sein Leitsatz das Ergebnis vorwegnimmt statt eine wertungsoffene Frage zu stellen. Das Skill hilft, den Leitsatz in einen wertungsoffenen Obersatz umzuformulieren.
 
-1. Welche Norm, Anspruchsgrundlage oder Generalklausel ist entscheidend?
-2. Welche Tatsachen sind belegt, welche werden nur behauptet, welche sind wertend zugespitzt?
-3. Welche Methode wird gerade eingesetzt: Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht, Rechtsfortbildung, Abwägung oder Präjudizienarbeit?
-4. Wer entscheidet oder kontrolliert: Partei, Anwalt, Gericht, Behörde, Gesetzgeber, Verband oder Schiedsgericht?
-5. Welcher Output wird gebraucht: Gutachtenabschnitt, Schriftsatzbaustein, Risikoampel, Red-Team, Argumentmatrix oder Mandantenbrief?
+## Erste Schritte
 
-## Arbeitsprogramm
+1. Bestimme die zu prüfende Anspruchsgrundlage oder Rechtsfrage präzise.
+2. Formuliere den Obersatz so, dass er die Prüfungsfrage ohne Ergebnisvorwegnahme stellt: "Fraglich ist, ob..." oder "X hat gegen Y einen Anspruch auf Z gemäß § N, wenn...".
+3. Integriere die tatbestandsrelevanten Wertungsbegriffe in den Obersatz, ohne sie bereits zu bewerten.
+4. Prüfe Vollständigkeit: Erfasst der Obersatz alle tatbestandlich relevanten Wertungsfragen?
+5. Prüfe Offenheit: Lässt der Obersatz die Subsumtion in beide Richtungen zu, oder ist das Ergebnis schon durch die Formulierung vorgegeben?
+6. Verfeinere den Obersatz iterativ: Zu eng verliert Vollständigkeit, zu weit verliert Schärfe.
 
-1. Entscheide, ob der Obersatz geschlossen, offen oder abwägungslenkend sein muss.
-2. Definiere Tatbestandsmerkmale so konkret wie möglich, aber nicht enger als der Normzweck.
-3. Lege Gewichtungsfaktoren im Obersatz offen, statt sie erst im Ergebnis einzuschmuggeln.
-4. Gib eine Kurzfassung für Klausur und eine Langfassung für Schriftsatz/Memo.
+## Rechtsrahmen
 
-## Qualitätsregeln
+- § 133 BGB — wirklicher Wille als Auslegungsmaßstab: Obersätze zur Vertragsauslegung müssen wertungsoffen den Willen thematisieren
+- § 280 Abs. 1 BGB — Pflichtverletzung als wertungsoffener Begriff im Obersatz für Schadensersatzansprüche
+- § 307 BGB — unangemessene Benachteiligung als wertungsoffener Prüfungsgegenstand im Obersatz zur AGB-Kontrolle
+- § 823 Abs. 1 BGB — Verletzung eines absoluten Rechts als tatbestandliches Element, das im Obersatz zu benennen, nicht zu bewerten ist
+- § 242 BGB — Treu und Glauben als per se wertungsoffenes Tatbestandsmerkmal, das im Obersatz nicht präjudiziert werden darf
+- § 138 BGB — Sittenwidrigkeit als Wertungsbegriff: der Obersatz muss offen lassen, ob das Verhalten sittenwidrig ist
 
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Keine Scheinobjektivität: Wenn eine Wertung getroffen wird, wird sie als Wertung markiert.
-- Keine Scheinlogik: Wenn mehrere Methoden zu unterschiedlichen Ergebnissen führen, werden die Alternativen offengelegt.
-- Keine Scheinempirie: Folgenbehauptungen brauchen Belege oder werden als Prognose markiert.
+## Prüfraster
+
+1. Benennt der Obersatz die konkrete Anspruchsgrundlage oder Rechtsfrage?
+2. Ist der Obersatz ergebnisoffen formuliert (Frageform oder Hypothesenform)?
+3. Sind die tatbestandlich relevanten Wertungsbegriffe im Obersatz enthalten?
+4. Ist der Obersatz vollständig genug, um alle relevanten Subsumtionsdimensionen zu erfassen?
+5. Nimmt der Obersatz die Subsumtion nicht schon durch wertungsbeladene Formulierungen vorweg?
+6. Ist der Obersatz präzise genug, um die Prüfung auf das wesentliche Problem zu fokussieren?
+7. Passt der Obersatz zur gewählten Prüfungsstruktur (Anspruchsgrundlage, Einwand, Gegenrecht)?
+
+## Typische Fallstricke
+
+- Der Obersatz ist zu allgemein ("A könnte einen Anspruch haben") und gibt keine strukturierende Funktion.
+- Der Obersatz nimmt das Ergebnis vorweg ("Da A getäuscht wurde, hat er Anspruch auf...") und zerstört die Wertungsoffenheit.
+- Wertungsbegriffe werden im Obersatz unqualifiziert benutzt und damit schon implizit bewertet.
+- Der Obersatz benennt eine Anspruchsgrundlage, die im Sachverhalt offensichtlich nicht einschlägig ist.
+- Subsumtionsergebnisse aus einem Prüfungspunkt werden im Obersatz des nächsten Prüfungspunkts vorweggenommen.
 
 ## Output
 
-Liefere immer: Kurzthese, Prüfpfad, methodische Entscheidungspunkte, Gegenargument der anderen Seite, Risikoampel und Anschluss-Skills aus `methodenlehre-buergerliches-recht`.
+Das Skill liefert Formulierungsvorlagen für wertungsoffene Obersätze in typischen zivilrechtlichen Prüfungskonstellationen: Anspruch auf Schadensersatz, AGB-Unwirksamkeit, Vertragsauslegung, Sittenwidrigkeit, Anfechtung. Plus ein Qualitäts-Checkliste zur Selbstprüfung jedes Obersatzes vor Abgabe.
+
+## Vertiefung: Obersatz als Strukturierungsinstrument
+
+Der Obersatz hat nicht nur eine inhaltliche, sondern auch eine strukturelle Funktion: Er gliedert das Gutachten in nachvollziehbare Prüfungseinheiten und signalisiert dem Leser, welche Rechtsfrage als nächstes geprüft wird. Ein gut formulierter Obersatz kann die gesamte Gutachtenstruktur sichtbar machen, ohne die Subsumtion vorwegzunehmen. Diese doppelte Funktion — Inhalt und Struktur — sollte bei der Formulierung stets im Blick behalten werden.
+
+## Hinweise zur Praxis
+
+Übungshalber empfiehlt sich, Obersätze von abgegebenen Klausuren und Gutachten systematisch auf die sieben Qualitätskriterien des Prüfrasters zu überprüfen. Häufigster Fehler in der Ausbildung ist die Ergebnisvorwegnahme im Obersatz; häufigster Fehler in der Praxis ist die Unvollständigkeit. Beide Fehler lassen sich durch bewusste Anwendung der Wertungsoffenheits-Technik vermeiden.
+
+## Weiterführende Analyse
+
+Der Obersatz hat im Klausurbereich und in der Praxis unterschiedliche Anforderungen: In der Klausur ist Vollständigkeit besonders wichtig (alle Tatbestandsmerkmale müssen angesprochen sein), in der Praxis ist Präzision wichtiger (nur die strittigen Punkte werden ausführlich geprüft, Unstrittiges wird kurz abgehandelt). Das Skill vermittelt primär die Klausurvariante, aber die Grundprinzipien gelten unverändert auch für praktische Gutachten.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [§ 280 BGB – Schadensersatz wegen Pflichtverletzung](https://www.gesetze-im-internet.de/bgb/__280.html)
+- [§ 307 BGB – Inhaltskontrolle](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 823 BGB bei dejure](https://dejure.org/gesetze/BGB/823.html)
+- [§ 242 BGB – Treu und Glauben](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

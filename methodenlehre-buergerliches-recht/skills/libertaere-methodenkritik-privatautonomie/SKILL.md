@@ -1,47 +1,80 @@
 ---
 name: libertaere-methodenkritik-privatautonomie
-description: "Prüft zivilrechtliche Argumente aus einer freiheitlichen, privatautonomiebetonten Perspektive, ohne Gesetzesbindung, Schutzpflichten, zwingendes Recht oder Grundrechte zu übergehen."
+description: Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen.
 ---
-# Freiheitliche Methodenkritik: Privatautonomie und Eingriffsgrenzen
 
-## Sofortstart
+# Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Die libertäre Methodenkritik stellt die Vertragsfreiheit ins Zentrum und sieht staatliche und richterliche Eingriffe in Vertragsinhalt und -auslegung als Übergriff auf die autonome Selbstbestimmung der Parteien. Dieses Skill systematisiert diese Position und hilft, ihre methodische Tragfähigkeit kritisch zu bewerten.
 
-## Arbeitsweise
+## Mandantenfall
 
-Dieser Skill fragt: Wo endet legitime Selbstbestimmung und wo beginnt paternalistische oder richterlich überdehnte Korrektur? Er arbeitet mit Vertragsfreiheit, Eigentum, Berufsfreiheit, Dispositionsbefugnis, Vertrauen in den Normtext und Vorhersehbarkeit. Die Perspektive ist ein Prüfwerkzeug, kein Ergebnisautomat: zwingendes Verbraucher-, Arbeits-, Miet-, Kartell-, AGB-, Delikts- und Verfassungsrecht bleibt voll beachtlich.
+- Zwei gleichwertige Unternehmen schließen einen Vertrag mit einer einseitigen Haftungsfreizeichnung. Ein Gericht erklärt diese nach § 307 BGB für unwirksam. Die libertäre Methodenkritik lautet, dies missachte die tatsächliche Verhandlungsfreiheit und -macht beider Parteien.
+- Ein Handelsvertretervertrag mit einer sehr langen Nachvertragsklausel soll nach § 138 BGB sittenwidrig sein. Das Unternehmen argumentiert, der Handelsvertreter habe die Klausel verhandelt und sei kein Schutzsubjekt, das richterlicher Paternalismusfürsorge bedürfe.
+- Im Kreditrecht enthält ein Darlehensvertrag zwischen professionellen Finanzmarktteilnehmern eine aus Verbraucherschutzsicht unübliche Klausel. Die Frage ist, ob Verbraucherschutznormen auf professionelle Teilnehmer analog anzuwenden oder im libertären Sinne fernzuhalten sind.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: Art. 2 Abs. 1, Art. 12, Art. 14, Art. 20 Abs. 3 GG; §§ 133, 157, 242, 305 ff., 311, 241 Abs. 2, 138 BGB.
+1. Identifiziere den libertären Methodeneinwand präzise: Wer kritisiert welchen staatlichen oder richterlichen Eingriff als paternalistisch oder privatautonomieverletzend?
+2. Prüfe die tatsächliche Verhandlungsposition beider Parteien: Lag echte Vertragsfreiheit vor oder ein strukturelles Ungleichgewicht?
+3. Analysiere, ob der Eingriff auf einem typisierten oder individuellen Schutzdefizit basiert.
+4. Wende den libertären Verhältnismäßigkeitstest an: Ist der mildeste Eingriff (Informationspflicht, Widerrufsrecht, Opt-out) vor dem strengeren Eingriff (zwingende Norm, Inhaltskontrolle) geprüft worden?
+5. Bewerte die systemischen Folgen der libertären Position: Führt maximale Vertragsfreiheit zu ökonomisch effizienten oder zu ausbeutungsanfälligen Ergebnissen?
+6. Prüfe die Grundrechtskonstellation: Art. 2 Abs. 1 GG schützt Vertragsfreiheit, Art. 1 Abs. 1 GG schützt Menschenwürde auch im Vertragsverhältnis.
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- Art. 2 Abs. 1 GG — Vertragsfreiheit als Grundrechtsausprägung, die staatliche Eingriffe rechtfertigungspflichtig macht
+- § 307 BGB — AGB-Inhaltskontrolle als staatlicher Eingriff, begrenzt auf typische Ungleichgewichtslagen
+- § 310 Abs. 1 BGB — Einschränkung der AGB-Kontrolle bei Verträgen mit Unternehmern als libertäres Zugeständnis
+- § 138 BGB — Sittenwidrigkeitskontrolle als ultima ratio, die keine vollständige Inhaltsprüfung erlaubt
+- Art. 12 GG — Berufsfreiheit als wirtschaftliche Ausprägung der Privatautonomie
+- § 14 BGB — Unternehmerbegriff als Abgrenzung zwischen schutzwürdigem und nicht-schutzwürdigem Vertragspartner
+
+## Prüfraster
+
+1. Liegt tatsächlich eine strukturell gleichwertige Verhandlungsposition beider Parteien vor?
+2. Basiert der staatliche oder richterliche Eingriff auf einem typisierten Schutzdefizit, das im konkreten Fall nicht besteht?
+3. Ist das mildeste Eingriffsmittel (Informationspflicht, Opt-out) vor dem strengeren geprüft worden?
+4. Ist die libertäre Kritik methodisch konsistent oder wird sie selektiv gegen unerwünschte Ergebnisse eingesetzt?
+5. Vernachlässigt die libertäre Position strukturelle Machtungleichgewichte, die Vertragsfreiheit faktisch aushöhlen?
+6. Sind ökonomische Effizienzargumente empirisch belegt oder nur theoretisch postuliert?
+7. Wird die Grundrechtsdimension beider Parteien (Vertragsfreiheit vs. Schutz) ausgewogen berücksichtigt?
+
+## Typische Fallstricke
+
+- Formale Vertragsfreiheit wird mit materialer Vertragsfreiheit gleichgesetzt, obwohl strukturelle Machtungleichgewichte die tatsächliche Freiheit einschränken.
+- Libertäre Argumente werden nur eingesetzt, wenn sie einem bestimmten Ergebnis nützen, ohne konsistentes Prinzip.
+- Ökonomische Effizienzargumente werden ohne empirische Grundlage als Tatsachenbehauptungen vorgetragen.
+- Die Schutzpflichtdimension aus Art. 1 und Art. 2 GG für die strukturell schwächere Partei wird ausgeblendet.
+- Der Unterschied zwischen kaufmännischen und verbraucherrechtlichen Schutzstandards wird nicht beachtet.
 
 ## Output
 
-Kurzvotum, Freiheitsmatrix, Eingriffsrechtfertigung, Schriftsatzbausteine für eine text- und privatautonomiesensible Auslegung.
+Das Skill liefert eine libertäre Methodenkritik-Analyse: Rekonstruktion der libertären Position, Prüfung der tatsächlichen Vertragsfreiheit, Bewertung der methodischen Konsistenz, Einschätzung ökonomischer Argumente und Gegengewicht aus Schutzpflichtperspektive. Verwendbar für strategische Prozessplanung, wissenschaftliche Auseinandersetzung und methodische Gegendarstellung.
 
-## Anschluss-Skills
+## Vertiefung: Strukturelle Verhandlungsfreiheit als empirische Frage
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Ob Vertragsfreiheit tatsächlich besteht, ist nicht nur eine normative, sondern eine empirische Frage: Haben die Parteien tatsächlich über den Vertrag verhandelt, oder war der Abschluss auf standardisierten Bedingungen faktisch unvermeidlich? Die Bürgschaftsentscheidung des BVerfG von 1993 hat klargestellt, dass das Gericht auch bei formell freiwilligen Verträgen strukturelle Ungleichgewichte berücksichtigen muss.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Libertäre Argumente zur Vertragsfreiheit sind in Anwaltschriftsätzen dann stark, wenn sie mit konkreten Belegen für die tatsächliche Verhandlungsmacht der Partei untermauert werden: Nachweis von Verhandlungen, Alternativangeboten, Vertragskorrekturen. Abstrakte Berufung auf Vertragsfreiheit ohne Nachweis struktureller Parität überzeugt moderne Gerichte nicht mehr.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Libertäre Methodenkritik ist besonders im B2B-Bereich stark: Hier fehlen typische Schutzdefizite des Verbraucherschutzrechts, und die Berufung auf strukturelle Ungleichgewichte ist schwieriger. Dennoch hat das BVerfG auch für unternehmerische Verträge eine residuale Schutzpflicht aus Art. 2 und Art. 12 GG anerkannt, wenn eine Partei strukturell erheblich schwächer ist. Diese verfassungsrechtliche Schranke muss in der libertären Argumentation berücksichtigt werden.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [Art. 2 GG – Allgemeine Handlungsfreiheit](https://dejure.org/gesetze/GG/2.html)
+- [§ 307 BGB – Inhaltskontrolle](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 310 BGB – Anwendungsbereich AGB](https://www.gesetze-im-internet.de/bgb/__310.html)
+- [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
+- [BVerfGE 89, 214 – Bürgschaftsentscheidung, strukturelles Ungleichgewicht](https://www.bverfg.de/e/rs19931019_1bvr156789.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

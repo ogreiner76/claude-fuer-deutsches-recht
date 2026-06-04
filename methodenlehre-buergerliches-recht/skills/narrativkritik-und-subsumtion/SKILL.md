@@ -1,47 +1,80 @@
 ---
 name: narrativkritik-und-subsumtion
-description: "Verhindert, dass eine schöne Geschichte die Subsumtion ersetzt; baut aus Erzählungen saubere Tatbestandsmerkmale, Belege und Rechtsfolgen."
+description: Analysiert den Einfluss von Narrativen und Framings auf die juristische Subsumtion im Zivilrecht. Das Skill zeigt, wie die sprachliche Rahmung eines Sachverhalts die Subsumtionsergebnisse beeinflusst, wie Narrative dekonstruiert werden und wie methodisch saubere Subsumtion von narrativer Überformung getrennt wird. Geeignet für Schriftsatzkritik und wissenschaftliche Methodenanalyse.
 ---
-# Narrativkritik und harte Subsumtion
 
-## Sofortstart
+# Narrativkritik und Subsumtion: Sprache und Rechtsfindung
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Juristische Texte sind nie narrativ neutral. Die Art, wie ein Sachverhalt erzählt wird, beeinflusst das Subsumtionsergebnis, noch bevor eine Rechtsnorm angewandt wird. Dieses Skill lehrt, narrative Überformung in juristischen Texten zu erkennen, zu dekonstruieren und methodisch saubere Subsumtion von ihr zu trennen.
 
-## Arbeitsweise
+## Mandantenfall
 
-Der Skill ist besonders nützlich bei Mandantenmails, Social-Media-Ausdrucken, Pressezitaten, moralisch aufgeladenen Konflikten und Sachverhalten mit Lücken. Er fragt: Welche Norm braucht welchen Fakt? Welcher Fakt ist belegt? Welche Wertung ist nur Deutung? Welche Geschichte wäre die Gegenseite?
+- Ein richterliches Urteil beschreibt den Sachverhalt so, dass eine Partei als "schwach" und schutzbedürftig erscheint, ohne dass dies tatbestandlich relevant wäre. Das Skill analysiert, wie dieses Narrativ die Subsumtion beeinflusst hat, und entwickelt eine narrativkritische Gegendarstellung.
+- Ein Schriftsatz der Gegenseite bezeichnet das Verhalten des Mandanten als "Täuschung" statt als "fehlerhafte Angabe". Das Skill hilft, das Framing zu dekonstruieren und die Subsumtion auf die tatbestandlich relevanten Merkmale zurückzuführen.
+- In einem Schadensersatzprozess erzählt die Klägerseite eine emotionale Geschichte der Verletzung, die das Gericht sichtbar beeinflusst. Das Skill hilft der Beklagtenseite, das Narrativ methodisch anzugreifen, ohne die menschliche Dimension zu ignorieren.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: Subsumtion, Darlegungslast, Beweislast, §§ 133, 157, 242 BGB, § 286 ZPO.
+1. Identifiziere das zentrale Narrativ im juristischen Text: Welche Geschichte wird erzählt, und wer sind die Protagonisten (Opfer, Täter, neutrale Beteiligte)?
+2. Prüfe, ob das Narrativ tatbestandlich relevant ist oder ob es die Subsumtion durch emotionale Rahmung beeinflusst.
+3. Dekonstruiere das Narrativ: Welche Fakten wurden ausgewählt, welche weggelassen, welche sprachlich verstärkt?
+4. Trenne Sachverhaltsfeststellung von Subsumtion: Was ist belegt (Fakten), und was ist Wertung im Narrativ?
+5. Formuliere eine tatbestandszentrierte Alternative: Wie würde der Sachverhalt ohne narrative Überformung dargestellt?
+6. Prüfe, ob das Subsumtionsergebnis bei tatbestandszentrischer Darstellung anders ausfällt.
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- § 133 BGB — Auslegung nach dem wirklichen Willen: narrative Überformung ist kein Auslegungsmaßstab
+- § 286 ZPO — freie Beweiswürdigung: das Gericht darf Narrative bewerten, muss aber Fakten und Wertungen trennen
+- § 138 ZPO — Wahrheitspflicht der Parteien als prozessuale Grenze für manipulative Narrative
+- Art. 103 Abs. 1 GG — rechtliches Gehör: Narrativ-Framing darf das Gehör der Gegenseite nicht aushöhlen
+- § 313 ZPO — Urteilsbegründung: Das Gericht muss Fakten und normative Wertungen klar trennen, um Narrativ-Einfluss sichtbar zu machen
+- Art. 3 Abs. 1 GG — Gleichheitssatz: Subsumtionsergebnisse müssen unabhängig von der narrativen Sympathiewirkung konsistent sein
+
+## Prüfraster
+
+1. Ist ein zentrales Narrativ im juristischen Text identifiziert?
+2. Ist das Narrativ tatbestandlich relevant oder narrative Überformung?
+3. Wurden relevante Fakten narrativ selektiert, verstärkt oder verdeckt?
+4. Ist die Trennung von Fakten und Wertungen im Text klar vorgenommen?
+5. Ergibt die tatbestandszentrierte Darstellung ein abweichendes Subsumtionsergebnis?
+6. Sind Gegenmassnahmen formuliert (narrative Dekonstruktion, tatbestandsgerechte Reformulierung)?
+7. Ist die Gegendarstellung selbst narrativ neutral oder erzeugt sie ein eigenes Gegennarrativ?
+
+## Typische Fallstricke
+
+- Narrativkritik wird als blanke Sachlichkeit missverstanden: Auch tatbestandsgerechte Texte haben eine Perspektive.
+- Narrative werden nur bei der Gegenseite analysiert, nicht bei der eigenen Argumentation.
+- Die Dekonstruktion des Narrativs schafft unbeabsichtigt ein eigenes Gegennarrativ (Umkehrframing).
+- Tatbestandsmerkmale werden zu eng auf buchstäbliche Fakten reduziert — normative Wertungselemente sind ebenfalls tatbestandsrelevant.
+- Narrativkritik wird eingesetzt, um unerwünschte emotionale Elemente aus dem Sachverhalt zu verdrängen, die eigentlich rechtlich relevant sind.
 
 ## Output
 
-Subsumtionstabelle, Gegen-Narrativ, offene Beweisfragen, gerichtsfeste Kurzfassung.
+Das Skill liefert eine Narrativkritik-Analyse: Identifikation des Narrativs, Dekonstruktion der Sachverhaltsrahmung, tatbestandszentrierte Reformulierung, Subsumtionsvergleich und Formulierungsvorschlag für die narrative Gegendarstellung. Verwendbar als Werkzeug für Schriftsatzkritik, als Anlage zu Gutachten und für wissenschaftliche Methodenanalysen.
 
-## Anschluss-Skills
+## Vertiefung: Narrativkritik in der Urteilsanalyse
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Narrativkritik ist nicht nur ein Instrument gegen die Gegenseite, sondern auch ein Werkzeug der Urteilsanalyse: Richterliche Urteilsnarrative können eine bestimmte Sichtweise auf den Fall kanonisieren, die für zukünftige Präjudizien prägend ist. Die Analyse dieser Narrative hilft, die implizite Wertungsrichtung eines Urteils zu verstehen und gegebenenfalls durch distinguishing zu entkräften.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Bei der Vorbereitung von Revisionen und Verfassungsbeschwerden ist die Narrativkritik ein wertvolles Werkzeug: Wenn gezeigt werden kann, dass das Ausgangsgericht einem narrativen Framing gefolgt ist statt einer tatbestandsgerechten Subsumtion, ergibt sich ein Revisions- oder Verfassungsrügeansatzpunkt. Die Formulierung sollte konkret sein: "Das Gericht hat den Sachverhalt als X gerahmt, obwohl tatbestandlich Y maßgeblich ist."
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Narrative Analyse und Subsumtion schließen sich nicht aus — sie ergänzen sich: Ein professionelles Gutachten berücksichtigt die narrative Dimension des Sachverhalts, ohne sich von ihr leiten zu lassen. Die narrative Dimension liefert Kontextinformationen, die für die Wertungsfragen relevant sein können; die tatbestandsgerechte Subsumtion stellt sicher, dass diese Informationen normativ zugeordnet werden. Die Kombination beider Ansätze erzeugt die überzeugendsten juristischen Texte.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
+- [§ 286 ZPO – Freie Beweiswürdigung](https://www.gesetze-im-internet.de/zpo/__286.html)
+- [§ 138 ZPO – Wahrheitspflicht](https://dejure.org/gesetze/ZPO/138.html)
+- [§ 313 ZPO – Urteilsgründe](https://dejure.org/gesetze/ZPO/313.html)
+- [Art. 3 GG – Gleichheitssatz](https://dejure.org/gesetze/GG/3.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

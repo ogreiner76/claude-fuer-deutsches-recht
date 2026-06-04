@@ -1,47 +1,80 @@
 ---
 name: freiheitlicher-paternalismus-check-vertrag
-description: "Prüft, ob eine Vertragskorrektur wirklich rechtlich geboten ist oder die Privatautonomie ohne ausreichende Normgrundlage verdrängt."
+description: Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt Juristen ein Analysewerkzeug, um Schutzregelungen auf ihre freiheitliche Verhältnismäßigkeit zu prüfen.
 ---
-# Paternalismus-Check in Vertragsauslegung und AGB-Grenzen
 
-## Sofortstart
+# Freiheitlicher Paternalismus-Check im Vertragsrecht
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Staatliche Eingriffe in Vertragsinhalte und Vertragsfreiheit sind nur gerechtfertigt, wenn sie eine nachweisbare Schutzlücke schließen und das mildeste verfügbare Mittel darstellen. Dieses Skill prüft zivilrechtliche Schutzregelungen auf ihren paternalistischen Gehalt und bewertet, ob der Eingriff in die Privatautonomie methodisch und verfassungsrechtlich legitimiert ist.
 
-## Arbeitsweise
+## Mandantenfall
 
-Der Skill arbeitet mit einem Zwei-Stufen-Modell: Zuerst Parteiwille, Risikoverteilung, Markt- und Informationslage; danach zwingendes Recht, AGB-Kontrolle, Schutzpflichten, § 242 und § 138 BGB. Er macht sichtbar, ob eine Lösung schützt, korrigiert, sanktioniert oder Vertragspolitik betreibt.
+- Ein AGB-Klausel wird vom Gericht nach § 307 BGB für unwirksam erklärt, obwohl der Vertragspartner ein erfahrener Unternehmer war und die Klausel bewusst akzeptiert hat. Der Mandant rügt, die Inhaltskontrolle sei paternalistisch überdehnt worden.
+- Ein Wuchervertrag nach § 138 Abs. 2 BGB wird angefochten, obwohl die betroffene Partei wirtschaftlich versiert ist. Die Frage ist, ob der Paternalismusvorbehalt des § 138 BGB auch für Kaufleute gilt oder sich nur auf strukturell schwächere Parteien bezieht.
+- Eine gesetzliche Widerrufsrecht-Regelung gilt automatisch für alle Verbraucher, unabhängig von ihrem tatsächlichen Informationsstand. Ein Unternehmen fragt, ob diese pauschale Anwendung mit dem Verhältnismäßigkeitsgrundsatz vereinbar ist.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: §§ 133, 157, 242, 305c, 307, 138 BGB; Verbraucher-/Unternehmerrollen; Grundrechte mittelbar über Generalklauseln.
+1. Identifiziere die paternalistisch wirkende Regelung: Gesetzliche Norm, Richterrecht, AGB-Kontrolle oder Sittenwidrigkeitsurteil?
+2. Bestimme die Zielgruppe: Strukturell Unterlegener (Verbraucher, Arbeitnehmer) oder erfahrener Marktteilnehmer (Kaufmann, institutioneller Investor)?
+3. Prüfe das Schutzdefizit: Besteht ein nachweisbares Informations-, Macht- oder Verhandlungsungleichgewicht, das den Eingriff rechtfertigt?
+4. Wende den Verhältnismäßigkeitstest an: Ist der Eingriff geeignet, das Schutzdefizit zu beheben, und ist er das mildeste verfügbare Mittel?
+5. Prüfe die Wahlfreiheit: Gibt es weniger restriktive Alternativen (Information, Aufklärungspflichten, Widerrufsrechte) statt zwingender Verbote?
+6. Beachte den libertären Paternalismusvorbehalt: Widerrufsrechte, Opt-out-Lösungen und Informationspflichten sind freiheitlichere Alternativen zu Verboten.
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- Art. 2 Abs. 1 GG — Vertragsfreiheit als Grundrecht, das staatliche Eingriffe rechtfertigungspflichtig macht
+- § 138 BGB — Sittenwidrigkeit als Eingriffsermächtigung, aber begrenzt durch Schutzbedürfnis der schwächeren Partei
+- § 307 BGB — AGB-Inhaltskontrolle als typisierter Schutz für Verbraucher und Unternehmer mit eingeschränkter Verhandlungsposition
+- § 312 ff. BGB — Widerrufsrechte als freiheitlichere Alternative zu pauschalen Verboten
+- § 242 BGB — Treu und Glauben als Grenze für missbräuchliche Ausübung von Vertragspositionen
+- Art. 14 GG — Eigentumsfreiheit schützt auch Vertragspositionen vor unverhältnismäßigen staatlichen Korrekturen
+
+## Prüfraster
+
+1. Liegt ein nachweisbares Schutzdefizit bei der betroffenen Partei vor?
+2. Ist die Zielgruppe der Schutzregelung zutreffend bestimmt (strukturell unterlegen oder nicht)?
+3. Ist der paternalistische Eingriff geeignet, das Schutzdefizit zu beheben?
+4. Ist er das mildeste verfügbare Mittel (Informationspflicht, Widerrufsrecht, Opt-out)?
+5. Ist der Eingriff verhältnismäßig im engeren Sinne: Stehen Schutzgewinn und Autonomieverlust in einem angemessenen Verhältnis?
+6. Sind erfahrene Marktteilnehmer sachgerecht vom Schutzbereich ausgenommen?
+7. Wird die paternalistische Maßnahme auf ihr freiheitsschonendste Alternative überprüft?
+
+## Typische Fallstricke
+
+- AGB-Kontrolle wird auf Verhandlungspartner ausgedehnt, die tatsächlich Verhandlungsmacht hatten.
+- Sittenwidrigkeitsurteile werden ohne Schutzdefizitnachweis auf kaufmännische Verträge angewandt.
+- Widerrufsrechte werden so ausgestaltet, dass sie die Planungssicherheit beider Parteien unverhältnismäßig beeinträchtigen.
+- Verhältnismäßigkeit wird nicht geprüft, weil die schützende Absicht der Regelung für sich selbst zu sprechen scheint.
+- Libertäre Alternativen (Informationspflichten, Wahlmöglichkeiten) werden nicht erwogen.
 
 ## Output
 
-Vertragsauslegungsmatrix, Paternalismuswarnung, risikoarme Alternativbegründung.
+Das Skill erzeugt einen Paternalismus-Check: Schutzdefizitanalyse, Verhältnismäßigkeitsprüfung, Bewertung verfügbarer freiheitlicherer Alternativen und Einschätzung der verfassungsrechtlichen Legitimation der Schutzregelung. Verwendbar als Argumentationsbaustein in Schriftsätzen, Gutachten und wissenschaftlichen Beiträgen zum Vertragsrecht.
 
-## Anschluss-Skills
+## Vertiefung: Libertärer Paternalismus als Kompromissmodell
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Der libertäre Paternalismus (Nudge-Theorie) bietet einen Mittelweg zwischen staatlichem Eingriff und absoluter Vertragsfreiheit: Durch kluge Standardoptionen (opt-out statt opt-in) können schützende Ergebnisse ohne Freiheitsentzug erreicht werden. Dieses Modell hat Eingang in EU-Regulierungen gefunden und ist auch für die Auslegung zivilrechtlicher Schutznormen relevant.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Bei der Beratung zu Vertragsgestaltungen sollten Standardoptionen sorgfältig analysiert werden: Wer von der Standardoption profitiert und wer aktiv widersprechen muss, hat erhebliche praktische Auswirkungen. Im AGB-Recht ist die Frage, welche Klausel zur Standardoption wird und wann aktive Zustimmung erforderlich ist, eine zentrale Gestaltungsaufgabe. Methodisch ist hier ein Paternalismus-Check regelmäßig geboten.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Der Paternalismus-Check ist besonders bei Vertragsgestaltungen mit Bezug zur Plattformwirtschaft relevant: Standardverträge großer Plattformbetreiber haben häufig strukturelle Ungleichgewichte, die auch zwischen formal gleichgestellten Unternehmen bestehen. Das Skill hilft hier, die Schutzwürdigkeit des jeweiligen Vertragspartners empirisch zu bestimmen und die angemessene Schutzintensität zu wählen — von der reinen Informationspflicht bis zur zwingenden Inhaltskontrolle.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [Art. 2 GG – allgemeine Handlungsfreiheit](https://dejure.org/gesetze/GG/2.html)
+- [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
+- [§ 307 BGB – AGB-Kontrolle](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 312g BGB – Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen](https://www.gesetze-im-internet.de/bgb/__312g.html)
+- [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

@@ -1,47 +1,81 @@
 ---
 name: empirie-im-zivilrecht-quellenkritik
-description: "Prüft empirische, technische und ökonomische Behauptungen in zivilrechtlichen Argumenten auf Belegqualität, Relevanz und rechtliche Anschlussfähigkeit."
+description: Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit.
 ---
-# Empirie im Zivilrecht quellenkritisch nutzen
 
-## Sofortstart
+# Empirie im Zivilrecht: Quellenkritik und methodischer Umgang
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Empirische Befunde spielen im Zivilrecht eine wachsende Rolle — von Marktdaten bei AGB-Kontrollen über Schadensbilanzen bis zu soziologischen Befunden im Familienrecht. Dieses Skill lehrt den methodisch sauberen Umgang mit empirischen Quellen und schützt vor den häufigsten Fehlern bei ihrer rechtlichen Verwendung.
 
-## Arbeitsweise
+## Mandantenfall
 
-Der Skill ordnet Gutachten, Studien, Marktüblichkeit, Verkehrssitte, technische Standards, Unfallstatistiken und Erfahrungswissen. Er trennt: beweisbedürftige Tatsache, offenkundige Tatsache, normative Wertung, Lebenserfahrung und bloßes Bauchgefühl.
+- Ein Unternehmen wird auf Schadensersatz verklagt, weil ein Produkt angeblich statistisch gehäuft Gesundheitsschäden verursacht hat. Die Gegenseite legt eine epidemiologische Studie vor. Das Skill hilft bei der Quellenkritik: Ist die Studie methodisch belastbar, und welche rechtliche Relevanz hat sie für die Kausalitätsfrage?
+- Im AGB-Recht will ein Gericht prüfen, ob eine Klausel im Widerspruch zur Marktpraxis steht. Herangezogen werden Branchenumfragen und Vertragsstatistiken. Das Skill prüft, welche dieser Quellen rechtlich erheblich und methodisch verwertbar sind.
+- Im Unterhaltsrecht beruft sich ein Elternteil auf veränderte gesellschaftliche Betreuungsrealitäten als Grundlage für eine Abweichung vom Regelunterhalt. Das Skill bewertet, welche empirischen Belege für dieses Argument rechtlich zulässig und methodisch ausreichend sind.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: §§ 133, 157, 242 BGB; § 286 ZPO; Verkehrssitte; Sachverständigenbeweis; technische Normen als Tatsachen- oder Sorgfaltsindiz.
+1. Identifiziere den rechtlichen Verwendungszweck der empirischen Quelle: Tatsachenbeweis, Auslegungshilfe, Normzweckbestimmung oder rechtspolitisches Argument?
+2. Prüfe die methodische Qualität der Quelle: Peer Review, Stichprobengröße, Repräsentativität, mögliche Interessenkonflikte, Aktualität.
+3. Trenne korrelative von kausalen Befunden: Nur kausale Belege können Rechtsansprüche direkt stützen.
+4. Stelle fest, ob empirische Aussagen auf den konkreten Sachverhalt übertragbar sind (externe Validität).
+5. Beachte den Normbezug: Nicht jede empirisch belegte Tatsache ist rechtlich erheblich — die Norm bestimmt die Relevanz.
+6. Dokumentiere die Quellenbewertung transparent und unterscheide zwischen gesichertem Befund, Wahrscheinlichkeitsaussage und bloßer Tendenz.
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- § 286 ZPO — freie Beweiswürdigung als Rahmen für die Verwertung empirischer Befunde durch das Gericht
+- § 287 ZPO — Beweismaßreduzierung bei der Schadensermittlung, eröffnet Raum für empirische Schätzung
+- § 403 ZPO — Sachverständigenbeweis als prozessuale Form der Einführung empirischer Expertise
+- § 252 BGB — entgangener Gewinn: Wahrscheinlichkeitsmaßstab als normative Brücke zu empirischen Prognosen
+- § 199 BGB — Verjährungsbeginn bei Kenntnis: empirische Kenntnis des Gläubigers als Tatsachenfrage
+- Art. 3 Abs. 1 GG — Gleichheitssatz: empirische Gruppenunterschiede als rechtlich relevante oder irrelevante Differenzierungsmerkmale
+
+## Prüfraster
+
+1. Ist der rechtliche Verwendungszweck der empirischen Quelle klar definiert?
+2. Ist die Quelle methodisch peer-reviewed oder anderweitig wissenschaftlich gesichert?
+3. Korreliert oder beweist die Quelle die behauptete Kausalbeziehung?
+4. Ist die Studie auf den Sachverhalt übertragbar (externe Validität)?
+5. Schließt der einschlägige Normtatbestand die empirische Aussage als rechtlich erheblich ein?
+6. Wurde Gegenliteratur oder konträre Empirie berücksichtigt?
+7. Wird zwischen gesichertem Befund und bloßer Tendenz klar unterschieden?
+8. Ist die Quellenbewertung im Schriftsatz oder Gutachten transparent dokumentiert?
+
+## Typische Fallstricke
+
+- Korrelation wird als Kausalität verwendet — klassischer Fehler bei epidemiologischen Studien im Produkthaftungsrecht.
+- Veraltete Studien werden ohne Aktualitätsprüfung zitiert.
+- Interessengebundene Studien (Unternehmens- oder Verbandsforschung) werden wie neutrale Wissenschaft behandelt.
+- Die Übertragbarkeit von Laborbefunden auf die Lebenswirklichkeit wird unkritisch angenommen.
+- Empirische Befunde werden als normative Argumente ausgegeben, ohne die rechtliche Relevanzschwelle zu prüfen.
 
 ## Output
 
-Empirie-Belegmatrix, Sachverständigenfragen, Sorgfaltsstandard-Notiz.
+Das Skill liefert eine Quellenkritik-Analyse: methodische Bewertung der empirischen Quelle, Einordnung des Befunds nach Beweiskraft (gesichert, wahrscheinlich, tendenziell), Einschätzung der rechtlichen Verwendbarkeit und Formulierungsvorschlag für die juristische Argumentation. Geeignet als Gutachtenbestandteil oder Schriftsatzanlage.
 
-## Anschluss-Skills
+## Vertiefung: Kausalitätsstandards im Zivilrecht
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Das Zivilrecht verwendet unterschiedliche Kausalitätsstandards je nach Kontext: Die Äquivalenztheorie (conditio-sine-qua-non), die Adäquanztheorie und die Schutzzwecktheorie führen zu unterschiedlichen Ergebnissen. Empirische Befunde müssen stets in den Kontext des relevanten Kausalitätsstandards gesetzt werden, um rechtlich verwertbar zu sein. Ein statistischer Zusammenhang allein genügt nicht.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Bei der Einführung empirischer Befunde in den Prozess ist § 403 ZPO zu beachten: Sachverständigengutachten sind das methodisch korrekte Medium. Parteibehauptungen über empirische Zusammenhänge, die nicht durch Sachverständigenbeweis gesichert sind, können vom Gericht nach § 286 ZPO als nicht ausreichend bewertet werden. Quellenkritische Auseinandersetzung mit gegnerischen Sachverständigengutachten ist eine zentrale anwaltliche Aufgabe.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Die Unterscheidung zwischen kausalen und korrelativen Befunden ist in der juristischen Praxis besonders fehlerträchtig: Viele epidemiologische Studien zeigen nur Korrelationen, werden aber als Kausalitätsbeweise zitiert. In Produkthaftungs- und Umwelthaftungsfällen ist diese Unterscheidung oft entscheidend. Anwälte müssen die statistische Methodik hinter den vorgelegten Studien verstehen und deren Grenzen für das Gericht verständlich darlegen.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [§ 286 ZPO – Freie Beweiswürdigung](https://www.gesetze-im-internet.de/zpo/__286.html)
+- [§ 287 ZPO – Schadensermittlung](https://www.gesetze-im-internet.de/zpo/__287.html)
+- [§ 252 BGB – Entgangener Gewinn](https://www.gesetze-im-internet.de/bgb/__252.html)
+- [§ 403 ZPO – Sachverständigenbeweis](https://dejure.org/gesetze/ZPO/403.html)
+- [§ 199 BGB – Beginn der Verjährungsfrist](https://dejure.org/gesetze/BGB/199.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

@@ -1,50 +1,82 @@
 ---
 name: workflow-output-waehlen
-description: "Output wählen im Plugin methodenlehre-buergerliches-recht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung."
+description: Dieses Skill hilft bei der methodisch begründeten Auswahl des richtigen juristischen Outputformats für ein Mandat. Es zeigt, wann ein Gutachten, wann ein Schriftsatz, wann ein Memo und wann eine Stellungnahme das geeignete Ergebnisdokument ist, und leitet die Entscheidung durch ein strukturiertes Auswahlschema. Besonderes Gewicht liegt auf der Passung zwischen Mandatsziel, Empfänger und Format sowie auf der Vermeidung von Überproduktion und unnötigem Aufwand.
 ---
 
-# Output wählen
+# Workflow: Den richtigen juristischen Output wählen
 
-## Aufgabe
-Dieser Workflow-Skill bestimmt das Output-Format für methodische Arbeit: Auslegungsmemo, Subsumtionsaufbau, Analogieprüfung, Schemata, Lehrbeispielsammlung.
+Nicht jedes Mandat braucht ein umfassendes Gutachten — und nicht jede komplexe Rechtsfrage lässt sich in einem zweiseitigen Memo befriedigend klären. Die Wahl des richtigen Outputformats spart Ressourcen, erhöht die Überzeugungskraft und erfüllt die Erwartungen von Mandanten, Gerichten und Behörden besser als ein Einheitsformat. Dieses Skill trainiert diese Entscheidung methodisch.
 
-## Outputtypen
-- **Auslegungsmemo nach Savigny + Verfassungs-/Unionsrechtskonformität:**
-  1. Wortlautauslegung (allgemeiner Sprachgebrauch vs. juristischer Sprachgebrauch, Wortlautgrenze).
-  2. Systematische Auslegung (Stellung im Gesetz, Verweisungszusammenhang, einheitlicher Begriffsgebrauch).
-  3. Historische Auslegung (Materialien: BT-Drs., RegE-Begründung, Ausschussbericht).
-  4. Teleologische Auslegung (Normzweck; Schutzrichtung).
-  5. Verfassungs-/Unionsrechtskonforme Auslegung (Art. 1-19 GG; primäres und sekundäres Unionsrecht; ggf. Vorlage Art. 100 GG/Art. 267 AEUV).
-- **Subsumtionsaufbau:** Obersatz (Norm) - Definition des TBM - Subsumtion (konkrete Tatsachen unter Definition) - Schlussfolgerung (Tatbestand +/-).
-- **Analogieprüfung:** (1) planwidrige Regelungslücke, (2) vergleichbare Interessenlage, (3) keine Sperrnorm; bei Strafrecht Analogieverbot (Art. 103 II GG) beachten -- im BGB aber zulässig.
-- **Teleologische Reduktion:** Norm wird gegen den Wortlaut auf den vom Gesetzgeber gewollten Anwendungsbereich beschränkt -- mit starker Begründung.
-- **Schemata:** auf eine Seite begrenzt; Verweis auf Norm und Definition obligat.
+## Mandantenfall
 
-## Methodengrenzen
-- Wortlaut als Auslegungsgrenze; jenseits davon Rechtsfortbildung (Analogie, teleologische Reduktion) mit Begründungsanspruch.
+- Ein Unternehmer fragt nach einer kurzen Einschätzung zur Wirksamkeit einer Klausel in seinem Standardvertrag. Das Skill zeigt, dass ein kurzes Beratungsprotokoll oder ein einseitiges Memo ausreicht — kein ausführliches Gutachten erforderlich ist.
+- Eine Mandantin möchte ein vollständiges Rechtsgutachten für einen bevorstehenden M und A-Deal. Das Skill hilft zu klären, welche Gutachtenformate (Due-Diligence-Bericht, Legal Opinion, Risikomemo) für welche Empfänger geeignet sind.
+- Ein Anwalt steht vor der Wahl, die Position seines Mandanten als Klageschrift oder als außergerichtliches Forderungsschreiben zu formulieren. Das Skill gibt Kriterien für diese Entscheidung, die Kosten, Erfolgsaussichten und Verhandlungsstrategie einbeziehen.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Erste Schritte
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. Bestimme den Empfänger des Outputs: Gericht, Gegenseite, Mandant, Behörde oder interner Gebrauch.
+2. Bestimme das Mandatsziel: Durchsetzung, Abwehr, Information, Gestaltung oder Entscheidungsunterstützung.
+3. Wähle das Outputformat anhand von Empfänger und Ziel: Gutachten (vollständige Rechtsprüfung für Gericht oder M und A), Memo (interne Entscheidungsvorlage), Schriftsatz (Gericht), Forderungsschreiben (Gegenseite), Stellungnahme (Behörde), Beratungsprotokoll (Mandant).
+4. Bestimme den Detailgrad: Vollständige Prüfung aller Tatbestandsmerkmale (Gutachten) oder Fokus auf entscheidungsrelevante Punkte (Memo)?
+5. Kläre die Fristsituation: Ist für das gewählte Format ausreichend Zeit? Falls nicht, welches vereinfachte Format ist akzeptabel?
+6. Dokumentiere die Output-Wahl und ihre Begründung im Mandatsprotokoll.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Rechtsrahmen
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+- § 675 BGB — Anwaltsvertrag; Pflicht zur angemessenen Auftragserfüllung im vereinbarten Umfang
+- § 253 ZPO — Formale Anforderungen an Klageschrift; bei Wahl des Schriftsatzes verbindlich
+- § 43a BRAO — Anwaltliche Sorgfaltspflicht; Outputqualität als Berufspflicht
+- § 242 BGB — Treu und Glauben; Überproduktion (zu umfangreicher Output) als Pflichtverletzung?
+- Art. 103 Abs. 1 GG — Rechtliches Gehör; Schriftsätze müssen vollständig und klar sein
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## Prüfraster
+
+1. Ist der Empfänger des Outputs klar identifiziert?
+2. Ist das Mandatsziel mit dem gewählten Outputformat vereinbar?
+3. Ist der Detailgrad dem Zweck angemessen (kein Overengineering)?
+4. Ist ausreichend Zeit für das gewählte Format vorhanden?
+5. Wird der Mandant über das gewählte Format und seine Begründung informiert?
+6. Sind die formalen Anforderungen des gewählten Formats (z.B. § 253 ZPO für Klageschrift) eingehalten?
+7. Ist die Output-Wahl im Mandatsprotokoll dokumentiert?
+
+## Typische Fallstricke
+
+- Umfangreiche Gutachten werden produziert, wenn ein kurzes Memo ausreichen würde.
+- Memos werden für Gerichtsschriftsätze verwendet, die formal anspruchsvollere Formate erfordern.
+- Der Detailgrad des Outputs passt nicht zum Empfänger (zu technisch für den Mandanten, zu oberflächlich für das Gericht).
+- Die Fristsituation wird bei der Output-Wahl nicht berücksichtigt, was zu Qualitätsproblemen führt.
+
+## Output
+
+Das Skill liefert eine Output-Auswahlmatrix: Empfänger, Mandatsziel, empfohlenes Format, Detailgrad und Fristprüfung. Ergänzt wird eine kurze Begründung der Output-Wahl, die ins Mandatsprotokoll übernommen wird. Das Ergebnis spart Ressourcen und sichert die Passung zwischen Aufgabe und Ergebnis.
+
+## Quellen
+
+- [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
+- [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
+- [§ 43a BRAO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/__43a.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [dejure.org Anwaltliche Sorgfaltspflicht](https://dejure.org/gesetze/BRAO/43a.html)
+
+## Abgrenzungen und Methodik
+
+Die Output-Wahl hat Auswirkungen auf die Haftungsexposition: Wer ein Gutachten erstellt, haftet für
+seine inhaltliche Vollständigkeit; wer ein Memo erstellt, haftet nur für die kommunizierten Kernaussagen.
+Die Output-Wahl muss daher auch unter Haftungsgesichtspunkten bewertet werden. Eine zu umfangreiche
+Leistung erhöht die Haftungsexposition; eine zu knappe Leistung kann als Pflichtverletzung gewertet werden.
+
+## Praktische Anwendungshinweise
+
+Mandanten sollten aktiv in die Output-Wahl einbezogen werden: Was brauchen sie wirklich? Reicht eine
+mündliche Beratung mit kurzem Protokoll? Oder ist ein vollständiges Gutachten für externe Zwecke
+erforderlich? Diese Abstimmung verhindert Überproduktion und stellt sicher, dass das Arbeitsergebnis
+den tatsächlichen Bedarf deckt. Die Vereinbarung über den Output-Typ sollte Teil der Honorarvereinbarung sein.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

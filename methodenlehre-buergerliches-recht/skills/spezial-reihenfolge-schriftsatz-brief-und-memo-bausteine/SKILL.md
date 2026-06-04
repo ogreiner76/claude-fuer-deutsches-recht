@@ -1,48 +1,83 @@
 ---
 name: spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine
-description: "Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert.
 ---
 
-# Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine
+# Reihenfolge und Bausteine für Schriftsatz, Brief und Memo
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Die Überzeugungskraft eines juristischen Dokuments hängt maßgeblich von seiner Struktur ab. Wer Tatbestand, Rechtsfrage, Argumentation und Ergebnis in der richtigen Reihenfolge präsentiert, überzeugt Richter, Gegner und Mandanten schneller und nachhaltiger. Dieses Skill liefert bewährte Bausteinsequenzen für alle gängigen juristischen Textgattungen.
 
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Reihenfolge**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Anwalt schreibt eine Klageschrift für einen Schadensersatzfall. Das Skill hilft, die optimale Reihenfolge zu finden: erst streitiger Sachverhalt, dann Anspruchsgrundlage, dann Subsumtion, dann Beweisantritte — und erklärt, warum diese Sequenz überzeugender ist als die umgekehrte.
+- Ein Mandant erhält eine außergerichtliche Forderung und bittet seinen Anwalt, einen Brief zu entwerfen, der sowohl rechtlich korrekt als auch verhandlungsstrategisch klug ist. Das Skill liefert die Bausteinstruktur: Anerkenntnisvorbehalt, Sachverhaltsdarstellung, Rechtsposition, Angebot.
+- Eine Kanzlei braucht ein internes Rechtsmemo für die Geschäftsführung eines Unternehmens über das Risiko einer drohenden Klage. Das Skill liefert die Memostruktur: Executive Summary, Sachverhalt, Rechtslage, Risikoeinschätzung, Handlungsempfehlungen.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Reihenfolge.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Bestimme die Textgattung (Klageschrift, Erwiderung, außergerichtliches Schreiben, internes Memo, Gutachten) und wähle die passende Bausteinsequenz.
+2. Klageschrift: Rubrum, Anträge, Sachverhalt, Rechtliche Würdigung (Anspruchsgrundlage, Subsumtion, Ergebnis), Beweisantritte.
+3. Klageerwiderung: Einwendungen und Einreden zuerst, dann Gegendarstellung zum Sachverhalt, dann Gegenargumentation mit Normbezug.
+4. Außergerichtliches Schreiben: Sachverhaltsdarstellung, Rechtsposition, klare Forderung mit Frist, Konsequenzen bei Nichterfüllung.
+5. Internes Memo: Executive Summary (max. drei Sätze), Sachverhalt, Rechtslage, Risikoampel, Handlungsoptionen.
+6. Prüfe die Reihenfolge auf Überzeugungskraft: Ist das stärkste Argument an prominenter Stelle? Ist das Ergebnis klar?
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- §§ 253, 130 ZPO — Formale Anforderungen an Klageschrift und Schriftsätze
+- § 138 ZPO — Vollständigkeits- und Wahrheitspflicht im Schriftsatz
+- § 520 ZPO — Anforderungen an Berufungsbegründungen
+- § 675 BGB — Anwaltspflicht zur sorgfältigen und vollständigen Beratung; Memostandard
+- Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehör; Klageschrift muss vollständig und klar sein
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Reihenfolge** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Ist die Bausteinsequenz für die jeweilige Textgattung korrekt gewählt?
+2. Stehen die Anträge vor der Begründung (§ 253 ZPO)?
+3. Ist der Sachverhalt von der rechtlichen Würdigung klar getrennt?
+4. Sind Beweisantritte vollständig und tatbestandsspezifisch platziert?
+5. Enthält das Memo eine klare Executive Summary, die ohne Lesen des Gesamtdokuments verständlich ist?
+6. Ist das stärkste Argument an prominenter Stelle platziert?
+7. Sind Verweise auf Normen und Rechtsprechung korrekt und vollständig?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Anträge stehen am Ende statt am Anfang der Klageschrift — das erschwert dem Gericht die Orientierung.
+- Sachverhalt und Rechtsausführungen werden vermischt, was die Klarheit der Argumentation mindert.
+- Das interne Memo enthält keine Executive Summary, sodass Entscheidungsträger die Kernbotschaft suchen müssen.
+- Beweisantritte fehlen oder sind zu allgemein formuliert, um prozessual wirksam zu sein.
+
+## Output
+
+Das Skill liefert für jede Textgattung ein Baustein-Template mit optimaler Reihenfolge und kurzen Ausfüllhinweisen. Ergänzt wird eine Checkliste für die Qualitätsprüfung vor dem Versand. Alle Templates sind direkt für die anwaltliche Kanzleipraxis nutzbar.
+
+## Quellen
+
+- [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
+- [§ 138 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__138.html)
+- [§ 520 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__520.html)
+- [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
+- [dejure.org Schriftsatzanforderungen](https://dejure.org/gesetze/ZPO/253.html)
+
+## Abgrenzungen und Methodik
+
+Die Wahl der richtigen Textgattung ist nicht nur eine formale Entscheidung, sondern hat strategische Dimension.
+Ein außergerichtliches Forderungsschreiben vor Klageerhebung kann die Gesprächsbereitschaft des Gegners erhalten,
+die eine Klageschrift zerstören würde. Ein Memo für die Geschäftsführung muss andere Schwerpunkte setzen als ein
+Gutachten für ein Gericht. Die Bausteine sind daher an Empfänger und Zweck anzupassen.
+
+## Praktische Anwendungshinweise
+
+In der anwaltlichen Kanzleipraxis empfiehlt sich die Erstellung von Muster-Templates für wiederkehrende
+Textgattungen: Mahnschreiben, Abmahnungen, Vergleichsangebote, Klagebegründungen. Diese Templates sichern
+Konsistenz und sparen Zeit. Wichtig ist, dass Templates nicht unkritisch übernommen, sondern auf den
+Einzelfall angepasst werden. Ein standardisiertes Mahnschreiben für einen Verbrauchervertrag kann für
+einen Handelsvertrag ungeeignet sein, weil Zinssätze, Formvorschriften und Fristen unterschiedlich sind.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

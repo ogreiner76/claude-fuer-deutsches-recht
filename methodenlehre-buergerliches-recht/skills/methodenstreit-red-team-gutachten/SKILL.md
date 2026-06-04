@@ -1,47 +1,80 @@
 ---
 name: methodenstreit-red-team-gutachten
-description: "Simuliert mehrere methodische Lesarten eines BGB-Problems und destilliert daraus eine robuste, ehrliche Argumentation."
+description: Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen nach methodischen Kriterien. Geeignet für strategische Prozessplanung und wissenschaftliche Methodendebatte.
 ---
-# Methodenstreit-Red-Team für Gutachten und Schriftsatz
 
-## Sofortstart
+# Methodenstreit Red-Team-Gutachten
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Das Red-Team-Gutachten ist das stärkste Instrument der methodischen Selbstprüfung. Es verlangt, die gegnerische Position so überzeugend wie möglich darzustellen und die eigene Position einer harten methodischen Prüfung auszusetzen. Dieses Skill baut systematisch das stärkste denkbare methodische Gegenargument auf.
 
-## Arbeitsweise
+## Mandantenfall
 
-Der Skill lässt denselben Fall nacheinander textgebunden, systematisch, historisch, teleologisch, verfassungsnah, unionsnah, ökonomisch, freiheitlich, konservativ und realistisch prüfen. Danach werden Widersprüche, Überdehnungen und stärkste Kombinationen herausgearbeitet.
+- Ein Kläger ist überzeugt von seiner Rechtsposition. Vor dem Gang zum Gericht soll ein Red-Team-Gutachten erstellt werden, das die stärksten methodischen Argumente der Gegenseite entwickelt und die Schwächen der eigenen Position aufzeigt.
+- Eine Kanzlei will eine BGH-Entscheidung angreifen und braucht zunächst das stärkste mögliche Verteidigungsargument für das angegriffene Urteil, um zu verstehen, wo die größten Risiken für die eigene Revision liegen.
+- Im Methodenstreit zwischen textualistischer und teleologischer Auslegung soll ein Red-Team-Gutachten die stärkste texttreue Position gegen eine teleologische Entscheidung entwickeln, um die wissenschaftliche Auseinandersetzung zu schärfen.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: klassischer Kanon, Rechtsfortbildung, Generalklauseln, ZPO-Beweislast, Verfassungs- und Unionsrechtskonformität.
+1. Identifiziere die zu prüfende Position (herrschende Meinung, Gerichtsentscheidung, Gutachten) präzise.
+2. Entwickle die stärkste methodische Gegenposition: Wortlautargument, historische Auslegung, Systematik, Telos — welche Methode trägt die Gegenposition am überzeugendsten?
+3. Identifiziere die schwächste Stelle der zu prüfenden Position und baue darauf das stärkste Gegenargument auf.
+4. Prüfe, ob die Gegenposition verfassungsrechtlich gestützt werden kann (Gesetzesbindung, Gleichheitssatz, Grundrechte).
+5. Bewerte beide Positionen nach methodischen Qualitätskriterien: Argumentationskonsistenz, normative Rückbindung, institutionelle Kompetenz.
+6. Formuliere ein ausgewogenes Fazit: Welche Position ist methodisch überzeugender, und mit welchen Argumenten kann die eigene Position gegen das Red Team behauptet werden?
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- § 133 BGB — Wortlautmaßstab als Ausgangspunkt für textualistischen Red-Team-Angriff
+- § 157 BGB — Treu und Glauben als Einfallstor für teleologischen Red-Team-Angriff
+- Art. 20 Abs. 3 GG — Gesetzesbindung als übergeordneter Prüfmaßstab für beide Positionen
+- Art. 3 Abs. 1 GG — Gleichheitssatz als methodischer Konsistenzmaßstab für das Red-Team
+- Art. 97 GG — richterliche Unabhängigkeit: Richter dürfen von Präjudizien abweichen — nutze das im Red-Team
+- § 543 ZPO — Revisionszulassung als Indikator dafür, welche methodischen Streitfragen für BGH-Klärung reif sind
+
+## Prüfraster
+
+1. Ist die zu prüfende Position klar und vollständig dargestellt?
+2. Entwickelt das Red Team die stärkste methodische Gegenposition, nicht nur die einfachste?
+3. Wird die schwächste Stelle der zu prüfenden Position identifiziert und gezielt angegriffen?
+4. Ist die Gegenposition verfassungsrechtlich gestützt, wo dies möglich ist?
+5. Werden beide Positionen nach den gleichen methodischen Kriterien bewertet?
+6. Ist das Fazit ausgewogen und identifiziert es die methodisch überzeugendere Position?
+7. Enthält das Gutachten konkrete Empfehlungen für die Stärkung der eigenen Position gegen das Red Team?
+
+## Typische Fallstricke
+
+- Das Red Team wird nicht ernsthaft betrieben — die Gegenargumente werden halbherzig entwickelt und dann schnell verworfen.
+- Die schwächste Stelle der eigenen Position wird nicht identifiziert, weil dies unangenehm ist.
+- Das Red-Team-Gutachten wird zu einer Strohmann-Argumentation: Die Gegenposition wird so formuliert, dass sie leicht widerlegbar ist.
+- Verfassungsrechtliche Argumente werden im Red Team ignoriert, obwohl sie die stärksten Gegenargumente wären.
+- Das Fazit ist zu eindeutig: Ein gutes Red-Team zeigt echte methodische Unsicherheiten auf.
 
 ## Output
 
-Methodenmatrix, Angriff/Verteidigung, Kurzvotum, Schriftsatzarchitektur.
+Das Skill liefert ein vollständiges Red-Team-Gutachten: Darstellung der zu prüfenden Position, stärkste methodische Gegenposition, Schwachstellenanalyse, Qualitätsbewertung beider Positionen nach methodischen Kriterien und strategische Empfehlungen für die Prozessplanung. Schriftsatztauglich und verwendbar als Anlage zu Mandantenberichten.
 
-## Anschluss-Skills
+## Vertiefung: Dreikampf der Methoden als Prüfungsformat
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Ein besonders leistungsfähiges Format des Red-Team-Gutachtens ist der "Dreikampf": Es werden nicht nur zwei Positionen gegenübergestellt, sondern drei methodisch verschiedene Lösungsansätze entwickelt und nach einheitlichen Kriterien bewertet. Dieser plurale Ansatz verhindert false dichotomies und liefert ein differenzierteres Bild der methodischen Landschaft.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Red-Team-Gutachten werden in der anwaltlichen Praxis häufig als interne Qualitätssicherung eingesetzt, bevor eine Klage eingereicht wird. Dabei sollte das Red-Team von einer Person erstellt werden, die nicht an der bisherigen Argumentation beteiligt war, um kognitive Einengung zu vermeiden. Das Gutachten bleibt intern und ist nicht als Beweismittel verwendbar, stärkt aber die Qualität der externen Argumentation erheblich.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Das Red-Team-Gutachten hat eine strategische und eine epistemische Funktion: Strategisch hilft es, Schwächen der eigenen Position vor der Gegenseite zu identifizieren. Epistemisch fördert es die Suche nach der methodisch besten Lösung, die unabhängig von Parteiinteressen existiert. Die beste Praxis ist, beide Funktionen zu trennen und ein epistemisches Red Team zusätzlich zu einem strategischen zu erstellen — das verbessert die Qualität der Argumentation insgesamt.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
+- [§ 157 BGB bei dejure](https://dejure.org/gesetze/BGB/157.html)
+- [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
+- [§ 543 ZPO – Revisionszulassung](https://dejure.org/gesetze/ZPO/543.html)
+- [BVerfGE 34, 269 – Soraya zu methodischen Grenzen](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

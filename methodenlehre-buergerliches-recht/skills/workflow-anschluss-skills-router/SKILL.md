@@ -1,49 +1,82 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router im Plugin methodenlehre-buergerliches-recht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor."
+description: Dieses Skill fungiert als intelligenter Router für Anschluss-Skills im methodenlehre-buergerliches-recht-Plugin. Es analysiert das bisherige Arbeitsergebnis eines Mandats, bestimmt den nächsten methodisch erforderlichen Schritt und empfiehlt den geeigneten Anschluss-Skill. Dabei werden Mandatsstadium (Erstprüfung, Vertiefung, Ausarbeitung, Übergabe), offene Rechtsfragen und Vollständigkeitsdefizite systematisch ausgewertet, um den effizientesten Workflow-Pfad zu bestimmen.
 ---
 
-# Anschluss-Skills Router
+# Workflow-Router: Anschluss-Skills intelligent auswählen
 
-## Aufgabe
-Dieser Workflow-Skill leitet methodische Anliegen zu den passenden Spezialskills weiter: Auslegung, Analogie/teleologische Reduktion, Streitstandsdarstellung, Subsumtionsprüfung, Anspruchsgrundlagenprüfung in der Reihenfolge.
+Komplexe Mandate erfordern den methodisch korrekten Einsatz mehrerer Skills in der richtigen Reihenfolge. Dieser Router analysiert den aktuellen Stand eines Mandats, identifiziert den nächsten Schritt und empfiehlt den passenden Anschluss-Skill — so bleibt die Bearbeitung effizient, vollständig und methodisch kohärent.
 
-## Routing nach Methodenfrage
-- **Auslegung eines TBM (Begriff):** Wortlaut + Systematik + Historie + Telos; ggf. verfassungs-/unionsrechtskonform. -> Auslegungs-Skill.
-- **Anspruchsgrundlagenprüfung:** Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung (vgl. `references/methodik-buergerliches-recht.md`).
-- **Analogie:** planwidrige Regelungslücke + vergleichbare Interessenlage. -> Analogie-Skill; Strafrecht: Analogieverbot Art. 103 II GG beachten, im Zivilrecht zulässig.
-- **Teleologische Reduktion:** Norm beschränken gegen Wortlaut auf den gewollten Anwendungsbereich; hohe Begründungslast.
-- **Streitstand:** hM, Mindermeinung, Argumente, Stellungnahme. -> Streitstands-Skill.
-- **Subsumtion eines Tatbestandsmerkmals:** -> Subsumtions-Skill (auch Plugin `subsumtions-pruefer`).
-- **Vorlage Art. 100 GG / Art. 267 AEUV:** bei verfassungsrechtlichen / unionsrechtlichen Kollisionen prüfen.
+## Mandantenfall
 
-## Anti-Muster
-- Auslegung ohne Wortlautgrenze.
-- Analogie ohne planwidrige Regelungslücke (positive Regelungsentscheidung des Gesetzgebers).
-- "Argument aus dem Sinn der Norm" ohne historische und systematische Unterstützung.
+- Nach der Erstprüfung eines Kaufrechtsstreits ist unklar, ob als nächstes die Beweismittelsammlung, die Verjährungsprüfung oder die Vertragsauslegung vertieft werden soll. Der Router analysiert, was fehlt, und empfiehlt die richtige Reihenfolge der Anschluss-Skills.
+- Eine komplexe Mehrparteien-Konstellation erfordert zunächst Sachverhaltsklärung, dann teleologische Auslegung und anschließend eine Risikomatrix. Der Router hilft, diese Abfolge zu strukturieren und unnötige Umwege zu vermeiden.
+- Ein Mandat nähert sich dem Ende, und der Anwalt muss entscheiden, ob zunächst das Red-Team-Review, dann die Fristenprüfung oder zuerst das Abschlussprotokoll erstellt werden soll. Der Router gibt eine priorisierte Empfehlung.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Erste Schritte
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+1. Erfasse den aktuellen Mandatsstand: Welche Schritte sind bereits abgeschlossen? Welche Dokumente liegen vor?
+2. Identifiziere die offenen Anforderungen: Fehlt Sachverhaltsklärung, Rechtsanalyse, Beweismittelplanung, Risikoeinschätzung oder Dokumentation?
+3. Bestimme das Mandatsstadium: Erstprüfung, Vertiefungsphase, Ausarbeitungsphase, Verhandlungsphase oder Übergabe.
+4. Wähle anhand des Mandatsstadiums und der offenen Anforderungen den nächsten Anschluss-Skill aus.
+5. Prüfe, ob mehrere Skills parallel eingesetzt werden können oder ob eine sequenzielle Bearbeitung erforderlich ist.
+6. Dokumentiere die Router-Entscheidung im Mandatsprotokoll mit Begründung für die gewählte Skill-Abfolge.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Rechtsrahmen
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+- § 675 BGB — Anwaltsvertrag; Pflicht zur effizienten und vollständigen Mandatsführung
+- § 242 BGB — Treu und Glauben; Grundlage für ordnungsgemäße Mandatskommunikation
+- § 43a BRAO — Anwaltliche Sorgfaltspflicht; methodische Vollständigkeit als Berufspflicht
+- Art. 103 Abs. 1 GG — Rechtliches Gehör; vollständige Sachaufklärung als Prozessvoraussetzung
+- § 138 ZPO — Vollständigkeitspflicht im Prozess; Grundlage für die Vollständigkeitsprüfung im Router
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## Prüfraster
+
+1. Ist der aktuelle Mandatsstand vollständig erfasst?
+2. Sind alle offenen Anforderungen (Sachverhalt, Recht, Beweis, Risiko, Dokumentation) identifiziert?
+3. Ist das Mandatsstadium korrekt eingestuft?
+4. Ist der empfohlene Anschluss-Skill passend für das aktuelle Stadium und die offenen Anforderungen?
+5. Können Schritte parallelisiert werden, um Zeit zu sparen?
+6. Ist die Router-Entscheidung dokumentiert und für den Mandanten nachvollziehbar?
+7. Ist die gesamte Skill-Abfolge logisch und vollständig für das Mandatsziel?
+
+## Typische Fallstricke
+
+- Der Router wird nicht genutzt, sodass Skills unkoordiniert und redundant eingesetzt werden.
+- Das Mandatsstadium wird falsch eingestuft, was zu premature Ausarbeitungen oder fehlenden Vorarbeiten führt.
+- Parallelisierbare Schritte werden sequenziell bearbeitet, was Zeit und Ressourcen verschwendet.
+- Die Router-Entscheidung wird nicht dokumentiert, sodass der Mandatsüberblick verloren geht.
+
+## Output
+
+Das Skill liefert eine priorisierte Skill-Empfehlung: aktueller Mandatsstand, offene Anforderungen, empfohlene nächste Skills in priorisierter Reihenfolge, Parallelisierungsoptionen und begründete Router-Entscheidung. Das Ergebnis fließt in das Mandatsprotokoll ein und steuert die weitere Bearbeitung.
+
+## Quellen
+
+- [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
+- [§ 43a BRAO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/__43a.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 138 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__138.html)
+- [dejure.org Anwaltspflichten](https://dejure.org/gesetze/BRAO/43a.html)
+
+## Abgrenzungen und Methodik
+
+Der Skill-Router ist kein starres Ablaufschema, sondern ein adaptives Instrument, das auf den tatsächlichen
+Mandatsstatus und die verfügbaren Ressourcen reagiert. Nicht immer ist der methodisch optimale Weg auch der
+praktisch gebotene: Zeitdruck, Mandantenerwartungen und Honorarrahmen beeinflussen die Skill-Auswahl.
+Der Router hilft, diese Abwägungen bewusst und dokumentiert zu treffen.
+
+## Praktische Anwendungshinweise
+
+In der Kanzleipraxis kann der Router als Teamkoordinationsinstrument eingesetzt werden: Wer arbeitet als
+nächstes an welchem Mandat? Welche Aufgaben können delegiert werden? Welche erfordern anwaltliche
+Eigenarbeit? Die klare Dokumentation der Router-Entscheidungen vereinfacht die Einarbeitung bei
+Mandatsübergaben und schützt vor Informationsverlusten bei Personalwechsel.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

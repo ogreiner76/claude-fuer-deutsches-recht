@@ -1,48 +1,84 @@
 ---
 name: spezial-historie-compliance-dokumentation-und-akte
-description: "Historie: Compliance-Dokumentation und Aktenvermerk im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung.
 ---
 
-# Historie: Compliance-Dokumentation und Aktenvermerk
+# Historische Compliance-Dokumentation und Aktenführung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehung und Parteiwille lückenlos dokumentiert sind. Gleichzeitig verlangen compliance-rechtliche Anforderungen eine revisionssichere Aktenführung. Dieses Skill verbindet methodische Dokumentationsanforderungen mit den praktischen Grundlagen der anwaltlichen und unternehmerischen Aktenführung.
 
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Historie**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Unternehmen wird bei einer Due-Diligence-Prüfung nach der Entstehungsgeschichte eines Rahmenvertrags befragt. Die historische Dokumentation — Verhandlungsprotokolle, Entwürfe, E-Mail-Korrespondenz — muss vollständig sein, um die historisch-genetische Auslegung des Vertrags zu belegen.
+- Eine Kanzlei wird in einem Haftungsfall aufgefordert, alle relevanten Mandatsdokumente der letzten fünf Jahre vorzulegen. Das Skill hilft, die Aktenstruktur compliance-gerecht aufzubauen, sodass Dokumente vollständig und geordnet vorgelegt werden können.
+- Ein Mandant streitet über den Inhalt eines mündlich geschlossenen Vertrags. Die historische Korrespondenz (Mails, Memos, Besprechungsprotokolle) bildet die Auslegungsgrundlage; das Skill zeigt, wie diese strukturiert und rechtlich eingeordnet werden.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Historie.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Erstelle eine chronologische Dokumentationshistorie: Wann wurden welche Vertragsbestandteile verhandelt, vereinbart oder geändert?
+2. Klassifiziere alle Dokumente nach ihrer rechtlichen Relevanz: vertragswesentlich, unterstützend, marginell.
+3. Prüfe, welche Dokumente unter Aufbewahrungspflichten fallen (§ 257 HGB, § 147 AO für Unternehmen; § 50 BRAO für Anwälte).
+4. Sichere historisch relevante Dokumente (Urversionen, Entwurfsverläufe, datierte Korrespondenz) in einem revisionssicheren System.
+5. Erstelle ein Inhaltsverzeichnis der Akte mit Kurzbeschreibung jedes Dokuments und Datum.
+6. Prüfe, ob aus der historischen Dokumentation Schlüsse zur Auslegung streitiger Vertragsklauseln gezogen werden können.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — historisch-genetische Auslegung; Entstehungsgeschichte als Auslegungsmittel
+- § 157 BGB — Auslegung nach Verkehrssitte; ergänzt durch historische Kontextualisierung
+- § 50 BRAO — Aktenführungs- und Aufbewahrungspflicht für Rechtsanwälte
+- § 257 HGB — Aufbewahrungspflichten für Handelsbriefe und Buchungsunterlagen
+- § 147 AO — Steuerliche Aufbewahrungsfristen; relevant bei steuerlich relevanten Verträgen
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Historie** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Ist die Vertragshistorie lückenlos rekonstruierbar?
+2. Sind alle Dokumente chronologisch und nach Relevanz geordnet?
+3. Welche Aufbewahrungsfristen gelten für die jeweiligen Dokumente?
+4. Sind digitale Dokumente so gespeichert, dass ihre Unveränderlichkeit nachweisbar ist?
+5. Können aus der historischen Korrespondenz Auslegungsargumente für streitige Klauseln gewonnen werden?
+6. Ist das Inhaltsverzeichnis der Akte aktuell und vollständig?
+7. Wurden Dokumente mit rechtlichem Geheimnisschutz (anwaltliches Berufsgeheimnis) korrekt markiert und geschützt?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Entwurfsversionen werden gelöscht oder überschrieben, obwohl sie historisch-genetische Auslegungsrelevanz haben.
+- Aufbewahrungsfristen enden, bevor erkannt wird, dass die Dokumente noch rechtsrelevant sind.
+- Digitale Dokumente werden ohne Metadaten gespeichert, was ihre zeitliche Einordnung und Authentizität schwächt.
+- Mündliche Verhandlungsergebnisse werden nicht protokolliert, was ihre spätere Beweisbarkeit ausschließt.
+
+## Output
+
+Das Skill liefert eine strukturierte Aktenübersicht mit Dokumentenklassifizierung, Aufbewahrungsfristen und einer historischen Vertragschronologie. Ergänzt wird ein Auslegungsprotokoll, das aus der historischen Dokumentation Argumente für die Interpretation streitiger Klauseln ableitet. Geeignet für Due Diligence, Prozessvorbereitung und interne Compliance-Prüfung.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 50 BRAO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/__50.html)
+- [§ 257 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__257.html)
+- [§ 147 AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__147.html)
+- [dejure.org historisch-genetische Auslegung](https://dejure.org/gesetze/BGB/133.html)
+
+## Abgrenzungen und Methodik
+
+Die historisch-genetische Auslegung als Auslegungsmittel setzt nicht nur die Kenntnis der Entstehungsgeschichte
+des Gesetzes voraus, sondern auch die Dokumentation der Entstehungsgeschichte des konkreten Vertrags. Beides
+gehört zusammen: Der Richter legt das Gesetz historisch-genetisch aus; der Anwalt legt den Vertrag durch Bezug
+auf Verhandlungsprotokolle, Entwürfe und Korrespondenz aus. Ohne vollständige historische Dokumentation
+kann diese Auslegungsmethode im Streitfall nicht eingesetzt werden.
+
+## Praktische Anwendungshinweise
+
+Für Unternehmensverträge empfiehlt sich eine systematische Verhandlungsdokumentation: Alle Entwürfe
+werden versioniert und archiviert, Besprechungsprotokolle werden unverzüglich nach Terminen erstellt,
+E-Mail-Korrespondenz zu wesentlichen Vertragspunkten wird gesammelt und in chronologischer Reihenfolge
+abgelegt. Diese Dokumentation ist nicht nur für die Auslegung wichtig, sondern auch für Due-Diligence-Prozesse
+und interne Compliance-Prüfungen unverzichtbar.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

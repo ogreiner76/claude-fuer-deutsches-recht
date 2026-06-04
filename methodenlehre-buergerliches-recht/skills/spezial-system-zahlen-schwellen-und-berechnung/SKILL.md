@@ -1,48 +1,83 @@
 ---
 name: spezial-system-zahlen-schwellen-und-berechnung
-description: "System: Zahlen, Schwellenwerte und Berechnung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden.
 ---
 
-# System: Zahlen, Schwellenwerte und Berechnung
+# Zahlenschwellen und Berechnungen im bürgerlichen Recht
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und materielle Ansprüche. Ein Streitwert von 5.000 Euro trennt Amts- von Landgericht; ein Zinssatz bestimmt die Schadenshöhe; eine Bürgschaftssumme über 10.000 Euro löst strengere Formvorschriften aus. Dieses Skill bietet eine systematische Übersicht aller relevanten Zahlenschwellen und Berechnungsmethoden.
 
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **System**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Mandant klagt auf Zahlung von 4.900 Euro Kaufpreisrestforderung plus Verzugszinsen seit zwei Jahren. Das Skill berechnet den Gesamtstreitwert einschließlich Nebenforderungen, bestimmt das zuständige Gericht und berechnet die genaue Zinssumme nach §§ 288 Abs. 1 und 2 BGB.
+- Eine Unternehmerin möchte einen Prozess vor dem Landgericht führen; der Streitwert ist streitig. Das Skill zeigt, wie der Streitwert nach § 3 ZPO geschätzt und ggf. durch Hilfsmittel (Jahresmiete, Unternehmenswert, Schadenshöhe) plausibilisiert wird.
+- Ein Bürge wurde auf Zahlung in Anspruch genommen; die Bürgschaftsurkunde ist handschriftlich. Das Skill prüft, ob die Schriftformgrenze des § 766 BGB eingehalten wurde und welche Betragsgrenze für Verbraucherbürgschaften gilt.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** System.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Ermittle den Hauptsachebetrag und alle Nebenforderungen (Zinsen, Kosten, Schadensersatz) getrennt.
+2. Berechne Verzugszinsen nach §§ 288 Abs. 1 BGB (4,12 Prozent für Verbraucher) oder § 288 Abs. 2 BGB (9 Prozent über Basiszins für Unternehmer) auf den Hauptbetrag ab dem jeweils relevanten Zeitpunkt.
+3. Bestimme den Gesamtstreitwert nach §§ 4, 5 ZPO: Hauptforderung plus Zinsen bis zur Klageerhebung.
+4. Ordne den Streitwert der sachlichen Zuständigkeit zu: bis 5.000 Euro Amtsgericht (§ 23 GVG), darüber Landgericht (§ 71 GVG).
+5. Prüfe, ob Betragsgrenzen für spezifische Rechtsinstitute relevant sind (Bürgschaft, Leasing, Verbraucherkredit, Maklercourtage).
+6. Dokumentiere alle Berechnungsschritte mit Formel und Ergebnis, sodass sie im Schriftsatz darstellbar sind.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- §§ 286, 288 BGB — Verzug und Verzugszinsen; Berechnung nach Basiszins und gesetzlichen Zinssätzen
+- §§ 3 bis 5 ZPO — Streitwertfestsetzung für Zuständigkeit und Kosten
+- §§ 23, 71 GVG — Zuständigkeitsgrenzen nach Streitwert
+- § 766 BGB — Schriftform der Bürgschaft; Betragsrelevanz bei Verbraucherbürgschaften
+- Art. 247 § 3 EGBGB — Informationspflichten bei Verbraucherdarlehen; betragsbezogene Schwellenwerte
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **System** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Sind Hauptforderung und Nebenforderungen getrennt und vollständig berechnet?
+2. Sind Verzugszinsen nach dem richtigen Zinssatz (Verbraucher vs. Unternehmer) berechnet?
+3. Ist der Streitwert korrekt nach §§ 3 bis 5 ZPO ermittelt?
+4. Ist die sachliche Zuständigkeit auf Basis des ermittelten Streitwerts korrekt bestimmt?
+5. Sind betragsbezogene Schwellenwerte für spezifische Rechtsinstitute beachtet?
+6. Sind alle Berechnungsschritte dokumentiert und im Schriftsatz nachvollziehbar dargestellt?
+7. Wurde die Formvorschrift für betragsgebundene Rechtsgeschäfte geprüft?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Verzugszinsen werden ab einem falschen Zeitpunkt berechnet (Zugang der Mahnung statt Fälligkeitstag).
+- Nebenforderungen erhöhen den Streitwert über die Zuständigkeitsgrenze, was die sachliche Zuständigkeit ändert.
+- Der Basiszinssatz wird nicht aktuell abgerufen, was zu falschen Zinssätzen nach § 288 Abs. 2 BGB führt.
+- Die Schriftformgrenze bei der Bürgschaft wird bei niedrigen Beträgen als bedeutungslos abgetan.
+
+## Output
+
+Das Skill liefert eine vollständige Berechnungsübersicht: Hauptforderung, Nebenforderungen, Zinssätze und Zinszeiträume, Gesamtstreitwert und Gerichtszuständigkeit. Ergänzt wird eine Tabelle der wichtigsten Betragsschwellen im BGB und ZPO mit Norm und Anwendungsbereich.
+
+## Quellen
+
+- [§ 288 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__288.html)
+- [§§ 3 ff. ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__3.html)
+- [§ 23 GVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gvg/__23.html)
+- [§ 766 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__766.html)
+- [dejure.org Streitwertberechnung](https://dejure.org/gesetze/ZPO/3.html)
+
+## Abgrenzungen und Methodik
+
+Numerische Schwellen im Recht sind häufig nicht nur für Zuständigkeiten, sondern auch für materiell-rechtliche
+Rechtsfolgen relevant. Ein Darlehen über 200 Euro kann Verbraucherkreditrecht auslösen; eine Bürgschaft über
+bestimmte Beträge kann Formvorschriften unterliegen. Die Kenntnis dieser Schwellenwerte ist Teil der anwaltlichen
+Grundkompetenz und muss regelmäßig auf Änderungen überprüft werden.
+
+## Praktische Anwendungshinweise
+
+Der Basiszinssatz nach § 247 BGB ändert sich zum 1. Januar und 1. Juli jeden Jahres. Er ist die Berechnungsgrundlage
+für den Verzugszinssatz nach § 288 Abs. 2 BGB (Basiszinssatz plus neun Prozentpunkte für Unternehmer).
+Der aktuelle Basiszinssatz ist stets bei der Deutschen Bundesbank abzurufen. Streitwertberechnungen sollten
+mit einem Puffer nach oben angesetzt werden, wenn die Grenze zwischen Amts- und Landgericht nahe liegt,
+um ein Verweisungsverfahren zu vermeiden.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

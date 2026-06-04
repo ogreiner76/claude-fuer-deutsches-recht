@@ -1,48 +1,84 @@
 ---
 name: spezial-telos-mehrparteien-konflikt-und-interessen
-description: "Telos: Mehrparteienkonflikt und Interessenmatrix im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird. Es trainiert die Fähigkeit, divergierende Parteiinteressen in die teleologische Analyse einzubeziehen, Interessenabwägungen methodisch zu strukturieren und das auslegungsgerechte Ergebnis im Mehrparteienkontext zu ermitteln.
 ---
 
-# Telos: Mehrparteienkonflikt und Interessenmatrix
+# Teleologische Auslegung im Mehrparteien-Konflikt
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Wenn mehr als zwei Parteien an einem Rechtsstreit beteiligt sind, steigen die Komplexität der Interessenabwägung und das Risiko von Auslegungsfehlern erheblich. Die teleologische Methode muss dann nicht nur den Normzweck identifizieren, sondern diesen auf ein Geflecht divergierender Interessen anwenden. Dieses Skill trainiert diese Herausforderung methodisch.
 
-Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Telos**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- In einem Bauvertrag sind Auftraggeber, Generalunternehmer und mehrere Subunternehmer beteiligt. Wenn der Auftraggeber Mängel geltend macht, berührt die teleologische Auslegung des Werkvertragsrechts (§§ 631 ff. BGB) die Interessen aller Beteiligten. Das Skill hilft, den Normzweck für diese Mehrparteien-Konstellation zu ermitteln.
+- Eine Erbgemeinschaft aus drei Geschwistern streitet über die Teilung des Nachlasses. Jede Auslegungsentscheidung (§§ 2032 ff. BGB) betrifft unterschiedliche wirtschaftliche Interessen; das Skill zeigt, wie der Normzweck des Erbrechts in dieser Konstellation ermittelt und ausbalanciert wird.
+- Ein Leasingdreieck (Leasingnehmer, Leasinggeber, Hersteller/Lieferant) führt zu Konflikten über Gewährleistungsansprüche. Das Skill wendet die teleologische Methode an, um den Normzweck der §§ 433, 500 ff. BGB auf dieses Dreiecksverhältnis anzuwenden.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Telos.
-- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Identifiziere alle Parteien des Mehrparteien-Konflikts und ihre jeweiligen Interessen.
+2. Bestimme den Normzweck (Telos) der einschlägigen Vorschrift ohne Bezug auf die konkrete Parteikonstellation.
+3. Überprüfe, wie der Normzweck auf jede der Parteien wirkt und welche Parteiinteressen vom Normzweck begünstigt oder eingeschränkt werden.
+4. Identifiziere Zielkonflikte zwischen Normzweck und einzelnen Parteiinteressen.
+5. Löse die Zielkonflikte durch Interessenabwägung unter Beachtung des Normzwecks und übergeordneter Rechtsprinzipien (§ 242 BGB, Verfassungsgrundsätze).
+6. Formuliere das teleologisch begründete Auslegungsergebnis für den Mehrparteien-Fall.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — Auslegung nach dem wirklichen Willen; Ausgangspunkt für teleologische Analyse
+- § 157 BGB — Auslegung nach Treu und Glauben; Interessenausgleich bei Mehrparteien-Verträgen
+- § 242 BGB — Generalklausel als Rahmen für Interessenabwägungen
+- §§ 2032 ff. BGB — Erbengemeinschaft; Normzweck bei Mehrparteien-Nachlassstreitigkeiten
+- §§ 631 ff. BGB — Werkvertragsrecht; teleologische Auslegung bei Baukonsortien und Subunternehmer-Ketten
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Telos** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Sind alle Parteien und ihre Interessen vollständig erfasst?
+2. Ist der Normzweck der einschlägigen Vorschrift ohne Parteienbias bestimmt?
+3. Werden alle Parteiinteressen gleichermaßen in die Abwägung einbezogen?
+4. Sind Zielkonflikte zwischen Normzweck und einzelnen Parteiinteressen identifiziert?
+5. Ist die Interessenabwägung methodisch begründet und nicht nur interessengeleitet?
+6. Entspricht das Ergebnis dem übergeordneten Normzweck und den Grundsätzen des § 242 BGB?
+7. Ist das Ergebnis für alle Parteien nachvollziehbar und argumentativ vertretbar?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Die Interessen der mandatsführenden Partei dominieren die teleologische Analyse, ohne dass Drittinteressen methodisch einbezogen werden.
+- Der Normzweck wird aus der Perspektive des typischen Zweipersonenverhältnisses bestimmt und nicht auf das Mehrparteien-Verhältnis angepasst.
+- Zielkonflikte zwischen Normzweck und Parteiinteressen werden durch ergebnisorientierte Argumentation überdeckt.
+- Die Abwägung wird nicht begründet, sondern nur als Ergebnis behauptet.
+
+## Output
+
+Das Skill liefert eine strukturierte Mehrparteien-Teleologie: Parteiübersicht mit Interessenmatrix, Normzweckanalyse, Abwägungsprotokoll und begründetes Auslegungsergebnis. Das Ergebnis ist direkt für Gutachten, Schriftsätze und Beratungsgespräche im Mehrparteienkontext nutzbar.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 157 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__157.html)
+- [§§ 2032 ff. BGB Erbengemeinschaft auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__2032.html)
+- [dejure.org teleologische Auslegung](https://dejure.org/gesetze/BGB/157.html)
+
+## Abgrenzungen und Methodik
+
+Die teleologische Auslegung im Mehrparteienkontext erfordert eine Unterscheidung zwischen dem Normzweck,
+der sich an einem typischen Zwei-Personen-Verhältnis orientiert, und dem Normzweck, der auf Mehrparteien-
+Verhältnisse zugeschnitten ist. Viele BGB-Normen sind auf klassische Zwei-Personen-Verhältnisse ausgelegt;
+ihre Anwendung auf Dreiecks- oder Mehrparteienkonstellationen erfordert methodische Anpassungen, die
+im Gutachten explizit zu begründen sind.
+
+## Praktische Anwendungshinweise
+
+Bei Mehrparteienverträgen (Konsortien, joint ventures, Baukonsortien) empfiehlt sich die Erstellung
+einer Interessenmatrix schon bei der Vertragsgestaltung: Welche Partei hat welche Interessen? Wo entstehen
+Interessenkonflikte? Welche Klauseln lösen diese Konflikte? Präventive Vertragsgestaltung auf Basis der
+teleologischen Mehrparteienanalyse ist langfristig günstiger als spätere Streitbeilegung. Bei Streitigkeiten
+hilft die Matrix, die eigene Verhandlungsposition zu stärken.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.

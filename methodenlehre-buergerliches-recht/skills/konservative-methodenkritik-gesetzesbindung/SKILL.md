@@ -1,47 +1,80 @@
 ---
 name: konservative-methodenkritik-gesetzesbindung
-description: "Prüft Auslegung und Rechtsfortbildung aus einer gesetzesgebundenen, institutionell vorsichtigen Perspektive: Text, System, demokratische Verantwortung, Kontinuität und Vertrauensschutz."
+description: Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen.
 ---
-# Konservative Methodenkritik: Gesetzesbindung, Kontinuität, Institutionen
 
-## Sofortstart
+# Konservative Methodenkritik: Gesetzesbindung und Texttreue
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Die konservative Methodenkritik fordert eine strikte Rückbindung der Rechtsanwendung an den Normtext und den historischen Gesetzgeberwillen. Sie sieht in der richterlichen Rechtsfortbildung eine Gefährdung des Demokratieprinzips und der Rechtssicherheit. Dieses Skill systematisiert diese Kritik und prüft ihre methodische Berechtigung.
 
-## Arbeitsweise
+## Mandantenfall
 
-Der Skill hält die Rechtsanwendung eng an Normtext, Systematik, demokratisch legitimierte Entscheidung und berechenbare Rechtskontinuität. Er ist besonders stark, wenn eine Partei versucht, aus Generalklauseln, Billigkeit oder teleologischer Weite eine neue Regel zu bauen. Gleichzeitig verhindert er Scheingenauigkeit: Auch konservative Zurückhaltung muss mit Auslegung arbeiten, wenn der Text offen ist.
+- Ein Zivilgericht hat eine Norm durch Richterrecht erheblich erweitert. Ein Rechtswissenschaftler verfasst eine Anmerkung, in der er dies als Verletzung der Gesetzesbindung und als Usurpation gesetzgeberischer Kompetenz kritisiert. Das Skill hilft, diese Kritik methodisch zu strukturieren und auf ihre Tragfähigkeit zu prüfen.
+- In der Diskussion über die Reichweite des § 242 BGB wird argumentiert, dass die extensive Rechtsfortbildung über Treu und Glauben zu Rechtsunsicherheit geführt hat. Das Skill analysiert, ob diese Kritik methodisch begründbar ist und welche Alternativen angeboten werden.
+- Ein Gericht weicht von einer langjährigen Auslegungspraxis ab und begründet dies mit einem veränderten gesellschaftlichen Kontext. Die konservative Kritik lautet, dass Zeitwandel keine ausreichende Begründung für Rechtsfortbildung ist. Das Skill prüft diese Position.
 
-## Rechts- und Quellenanker
+## Erste Schritte
 
-Anker: Art. 20 Abs. 3 GG, Art. 97 Abs. 1 GG; Wortlautgrenze, systematische Auslegung, Rechtssicherheit, Vertrauensschutz, Gewaltenteilung.
+1. Identifiziere das konkrete Auslegungs- oder Rechtsfortbildungsergebnis, gegen das sich die konservative Methodenkritik richtet.
+2. Rekonstruiere die konservative Kritik präzise: Welcher Normverstoß, welche demokratische Kompetenzüberschreitung, welche Rechtsunsicherheit wird gerügt?
+3. Prüfe die methodische Tragfähigkeit der Kritik: Ist der Vorwurf der Wortlautüberschreitung oder der Gesetzgeberwillenmissachtung substantiiert?
+4. Untersuche, welche methodische Alternative die Kritik anbietet und ob diese Alternative methodisch überlegen ist.
+5. Stelle fest, ob die Kritik eine Vollrückbindung an den historischen Normtext fordert oder nur eine methodische Disziplinierung.
+6. Bewerte die Kritik im Gesamtkontext: Stärkt sie die Vorhersehbarkeit und demokratische Legitimität des Rechts oder verkennt sie die Notwendigkeit von Rechtsfortbildung?
 
-## Stoppschilder
+## Rechtsrahmen
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+- Art. 20 Abs. 3 GG — Gesetzesbindung als normativer Kern der konservativen Methodenkritik
+- Art. 97 Abs. 1 GG — richterliche Unabhängigkeit nur im Rahmen des Gesetzes, nicht von ihm
+- § 133 BGB — Wortlautauslegung als methodischer Ausgangspunkt der texttreuen Position
+- Art. 3 Abs. 1 GG — Gleichheitssatz: Konsistenz und Vorhersehbarkeit als Argumente für strikte Regelbindung
+- Art. 100 GG — Vorlagepflicht als institutionelle Alternative zu konservatismuskritischer Rechtsfortbildung
+- BVerfGE 82, 6 — BVerfG zu Grenzen richterlicher Rechtsfortbildung als Stütze konservativer Kritik
+
+## Prüfraster
+
+1. Ist der Vorwurf der Wortlautüberschreitung substantiiert und normtextbezogen?
+2. Ist der Vorwurf der Gesetzgeberwillenmissachtung durch Materialienauswertung belegt?
+3. Bietet die konservative Kritik eine methodisch konsistente Alternative an?
+4. Vernachlässigt die Kritik notwendige Anpassungen des Rechts an gesellschaftlichen Wandel?
+5. Ist die Kritik selektiv (nur gegen unerwünschte Rechtsfortbildungen) oder prinzipiell (methodisch konsistent)?
+6. Stärkt die konservative Position tatsächlich Rechtssicherheit und Vorhersehbarkeit?
+7. Werden demokratieprinzipielle Argumente korrekt und nicht instrumentell eingesetzt?
+
+## Typische Fallstricke
+
+- Konservative Methodenkritik wird selektiv eingesetzt: Unerwünschte Rechtsfortbildungen werden kritisiert, erwünschte hingenommen.
+- Die Rückbindung an den historischen Gesetzgeberwillen wird absolut gesetzt, ohne zu beachten, dass der Gesetzgeber heute anders entscheiden würde.
+- Vorhersehbarkeit wird als Wert absolut gesetzt, obwohl auch Gerechtigkeit im Einzelfall ein verfassungsrechtliches Gebot ist.
+- Konservative Kritik verkennt, dass gesetzgeberisches Schweigen oft keine Ablehnung, sondern Unkenntnis der Fallgruppe ist.
+- Die Forderung nach strenger Gesetzesbindung wird mit einer Rückkehr zum Positivismus des 19. Jahrhunderts gleichgesetzt, die verfassungsrechtlich nicht geboten ist.
 
 ## Output
 
-Richterrecht-Grenzen, konservatives Gegenmemo, Schriftsatzpassagen gegen unkontrollierte Teleologie.
+Das Skill liefert eine methodologische Kritikanalyse: Rekonstruktion der konservativen Methodenposition, Prüfung ihrer normativen Belege, Bewertung der methodischen Konsistenz und Einschätzung, wo die Kritik berechtigt ist und wo sie überschießt. Geeignet für wissenschaftliche Methodenbeiträge und für Revisionsrügen, die auf Gesetzesbindungsargumenten basieren.
 
-## Anschluss-Skills
+## Vertiefung: Neo-Positivismus als methodische Strömung
 
-- `methodenstreit-red-team-gutachten`
-- `postfaktische-argumente-red-team`
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz`
-- `richterliche-zurueckhaltung-und-rechtsfortbildung`
+Der Neo-Positivismus verbindet die klassische positivistische Forderung nach Textrückbindung mit einer differenzierteren Anerkennung von Wertungsspielräumen: Er anerkennt, dass Normen notwendigerweise Wertungsbegriffe enthalten, fordert aber, dass diese Wertungen normtextgebunden und methodisch transparent vorgenommen werden. Diese Position ist methodisch konsistenter als ein reiner Positivismus und vermeidet Legitimationslücken.
 
+## Hinweise zur Praxis
 
-## Qualitäts-Hardening
+Konservative Methodenkritik ist am stärksten, wenn sie nicht pauschal gegen Rechtsfortbildung argumentiert, sondern konkrete methodische Defizite benennt: fehlerhafte Lückenfeststellung, unzulässige contra-legem-Entscheidung, fehlende Demokratieabsicherung. Verallgemeinernde Kritik an "Richterstaat" oder "Judicial Activism" ohne normative Rückbindung überzeugt weder Gerichte noch Wissenschaftler.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+## Weiterführende Analyse
+
+Die konservative Methodenkritik gewinnt besondere Überzeugungskraft, wenn sie nicht nur negativ (gegen Rechtsfortbildung) argumentiert, sondern positiv zeigt, dass die strenge Gesetzesbindung in einem konkreten Fall zu einem guten Ergebnis führt. Diese "konstruktive Konservativität" ist methodisch stärker als die bloße Ablehnung richterlicher Kreativität und schafft die Grundlage für einen substanziellen Methodendialog.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
+- [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
+- [BVerfGE 34, 269 – Soraya-Urteil](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
+- [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
+- [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.

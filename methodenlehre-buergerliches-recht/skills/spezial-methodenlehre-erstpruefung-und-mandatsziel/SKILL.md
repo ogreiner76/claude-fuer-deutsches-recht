@@ -1,48 +1,83 @@
 ---
 name: spezial-methodenlehre-erstpruefung-und-mandatsziel
-description: "Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmethoden für die Erstprüfung heranzuziehen sind und wie Mandatsziel, Rechtsfrage und Bearbeitungsstrategie methodisch aufeinander abgestimmt werden. Das Skill sichert von Anfang an die methodische Kohärenz des Mandats.
 ---
 
-# Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel
+# Erstprüfung und Mandatszieldefinition
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `methodenlehre-buergerliches-recht`. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
+Die erste methodische Weichenstellung eines Mandats entscheidet über Effizienz und Erfolg der gesamten Bearbeitung. Wer das Mandatsziel präzise definiert und die Erstprüfung methodisch strukturiert, vermeidet Sackgassen und Doppelarbeit. Dieses Skill trainiert den systematischen Einstieg in neue Mandate, von der ersten Mandantenschilderung bis zur belastbaren Ersteinschätzung.
 
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Methodenlehre**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Mandantenfall
 
+- Ein Unternehmer schildert telefonisch einen Vertragsstreit in drei Sätzen. Das Skill hilft, aus dieser Kurzdarstellung die relevanten Rechtsfragen zu extrahieren, ein provisorisches Mandatsziel zu formulieren und die nächsten Klärungsschritte zu benennen.
+- Eine Privatperson erscheint mit einem Stapel Dokumente und einer vagen Beschwerde über einen Nachbarn. Das Skill strukturiert das Erstgespräch, filtert die rechtlich relevanten Aspekte heraus und formuliert das Mandatsziel als konkrete Rechtsfrage.
+- Eine Unternehmerin schildert eine Situation, die gleichzeitig vertragsrechtliche, deliktische und öffentlich-rechtliche Aspekte enthält. Das Skill hilft, die verschiedenen Rechtsfragen zu priorisieren und ein klares Mandatsziel zu definieren, das die Ressourcen des Mandats optimal einsetzt.
 
-## Fachlicher Zuschnitt
+## Erste Schritte
 
-- **Thema:** Methodenlehre.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+1. Höre die Mandantenschilderung vollständig an und erfasse den Sachverhalt ohne vorschnelle Einordnung.
+2. Formuliere auf Basis der Schilderung eine vorläufige Rechtsfrage: "Welches Recht gibt wem welchen Anspruch gegen wen aus welchem Grund?"
+3. Prüfe, welche Anspruchsgrundlagen prima facie in Betracht kommen, und erstelle eine Rangfolge nach Erfolgswahrscheinlichkeit.
+4. Definiere das Mandatsziel: Durchsetzung, Abwehr, Beratung, Vertragsgestaltung oder präventive Risikoklärung?
+5. Identifiziere sofortigen Handlungsbedarf (Fristen, einstweilige Verfügung, Verjährungsunterbrechung).
+6. Dokumentiere Mandatsziel, vorläufige Rechtsfrage und nächste Schritte im Erstprotokoll.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Rechtsrahmen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- § 133 BGB — Auslegung als erster methodischer Schritt bei unklarem Sachverhalt
+- § 157 BGB — Interessengerechte Auslegung des Mandantenanspruchs
+- § 675 BGB — Anwaltsvertrag; Pflicht zur klaren Mandatszieldefinition und Aufklärung
+- § 195 BGB — Verjährungsfristen; sofortiger Prüfpunkt in der Erstprüfung
+- § 12 BORA — Pflicht zur Interessenklarstellung und Mandatsbegrenzung
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Methodenlehre** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Prüfraster
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Ist der Sachverhalt vollständig und ohne Wertungsverzerrung erfasst?
+2. Sind alle prima-facie relevanten Anspruchsgrundlagen identifiziert?
+3. Ist das Mandatsziel klar und mit dem Mandanten abgestimmt?
+4. Sind sofortige Handlungsbedarfe (Fristen, einstweiliger Rechtsschutz) erkannt und dokumentiert?
+5. Ist die Erstprüfung methodisch strukturiert (Auslegung, Anspruchsprüfung, Risikoeinschätzung)?
+6. Ist das Erstprotokoll vollständig und als Ausgangsdokument für die weitere Bearbeitung geeignet?
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Typische Fallstricke
+
+- Das Mandatsziel wird nicht klar definiert, was zu divergierenden Erwartungen zwischen Anwalt und Mandant führt.
+- Fristen werden bei der Erstprüfung nicht geprüft, sodass sofortiger Handlungsbedarf übersehen wird.
+- Die Erstprüfung konzentriert sich auf eine offensichtliche Anspruchsgrundlage und übersieht günstigere Alternativen.
+- Das Erstprotokoll wird nicht dokumentiert, was bei späteren Meinungsverschiedenheiten keine Grundlage bietet.
+
+## Output
+
+Das Skill liefert ein strukturiertes Erstprotokoll: Sachverhaltserfassung, provisorische Rechtsfrage, Mandatsziel, Rangfolge der Anspruchsgrundlagen, sofortiger Handlungsbedarf und nächste Bearbeitungsschritte. Das Dokument bildet die Grundlage für das gesamte Mandat und sichert die methodische Kohärenz von Anfang an.
+
+## Quellen
+
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
+- [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [§ 12 BORA auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bora/__12.html)
+- [dejure.org Anwaltspflichten Erstberatung](https://dejure.org/gesetze/BRAO/43a.html)
+
+## Abgrenzungen und Methodik
+
+Die Erstprüfung ist methodisch von der vollständigen Rechtsprüfung zu unterscheiden: Sie dient der Orientierung
+und der Bestimmung des Mandatsziels, nicht der abschließenden Klärung aller Rechtsfragen. Eine zu tiefe
+Erstprüfung kann Zeit und Ressourcen verschwenden, die besser in die eigentliche Mandatsbearbeitung investiert
+werden sollten. Umgekehrt darf die Erstprüfung so oberflächlich nicht sein, dass wichtige Fristen oder Risiken
+übersehen werden.
+
+## Praktische Anwendungshinweise
+
+Das Erstprotokoll sollte spätestens 24 Stunden nach dem Erstgespräch erstellt sein. Es bildet die Grundlage
+für die Honorarvereinbarung und die Mandatserteilung. Wenn bei der Erstprüfung bereits erkennbar ist, dass
+das Mandat außerhalb der eigenen Kompetenz liegt, muss der Mandant sofort an einen spezialisierten Kollegen
+verwiesen werden. Die Erstprüfung ist auch Ausgangspunkt für die Interessenkonfliktprüfung (§ 12 BORA),
+die vor jeder Mandatsübernahme zwingend durchzuführen ist.
+
+## Hinweis zur Methodensicherheit
+
+Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
+unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
+oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
+substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
+schützt die eigene Position und macht sie resilient gegenüber Angriffen.
