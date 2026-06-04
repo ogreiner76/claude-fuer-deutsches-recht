@@ -27,6 +27,10 @@ Die HOAI kennt für Gebäude und Innenräume nach § 34 HOAI neun Leistungsphase
 
 Starte mit `hoai-allgemeiner-kaltstart` oder `hoai-leistungsphasen-router`. Lade Vertrag, Angebot, Honorarvereinbarung, Planstände, Protokolle, Kostenstand, Terminplan, Vergabeunterlagen, Baustellenberichte, Mängellisten und Rechnungen hoch. Das Plugin ordnet dann erst, in welcher LPH das Problem hängt, und schlägt die passenden Spezialskills vor.
 
+## Fachfragen-Layer
+
+Neben den LPH-Skills gibt es jetzt einen querliegenden Fachfragen-Layer für die harten Aktenprobleme: anrechenbare Kosten, mitzuverarbeitende Bausubstanz, Honorarzone, Baukostenobergrenze, Stufenbeauftragung, Zielfindungsphase, Verbraucherhinweis, Planungsänderungen, Ausführungsplanungstiefe, Vergabereife, Bieterspiegel, Bauüberwachungstiefe, Rechnungsprüfung, Abnahme/Mängel, Gewährleistungsmanagement, Fachplanerkoordination, Baugrund/Altlasten, SiGeKo/Projektsteuerung, BIM/CDE, Fördermittelbindung, prüffähige Schlussrechnung und Sachverständigenfragen. Der Router schlägt diese Skills zusätzlich zur passenden Leistungsphase vor.
+
 ## Leistungsphasen für Gebäude und Innenräume
 
 | LPH | Bezeichnung | Bewertungsanker Gebäude/Innenräume |
@@ -68,7 +72,7 @@ Die HOAI ist nicht mehr das alte zwingende Mindestsatzregime für Neuverträge a
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 310 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 336 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -77,22 +81,29 @@ Automatisch generierte Komplett-Liste aller 310 Skills in diesem Plugin. Beschre
 | `hoai-allgemeiner-kaltstart` | HOAI-Praxis: führt durch Projektart, Rolle, LPH-Stand, Vertrag, Honorar, Druck und gewünschtes Ergebnis; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-altvertrag-mindestsatzstreit` | HOAI-Praxis: ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-andere-leistungsbilder-router` | HOAI-Praxis: leitet zu Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, Tragwerk und TGA; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-anrechenbare-kosten-din276-baukostengruppen` | HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug, Kostengruppen, ortsübliche Preise, Eigenleistungen, Umsatzsteuer, Kostenberechnung/Kostenschätzung und Honorargrundlage gerichtsfest prüfen. |
 | `hoai-anwalt-sachverstaendiger-architekt-dreieck` | HOAI-Praxis: koordiniert Rollen ohne Verantwortungsvermischung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-anwaltliche-red-team-runde` | HOAI-Praxis: sucht Fehler, falsche LPH-Zuordnung, fehlende Freigaben und Beleglücken; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-architektenvertrag-bgb-650p` | HOAI-Praxis: prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-baubesprechung-protokoll` | HOAI-Praxis: erstellt präzises Protokoll mit Verantwortlichen, Fristen und Beweiswert; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-baugrund-altlasten-untersuchungsbedarf` | HOAI-Fachfrage: Baugrund, Altlasten, Schadstoffe, Bestandserkundung, Untersuchungsbedarf, besondere Leistungen und Haftungs-/Nachtragsfolgen im Planungsprozess prüfen. |
 | `hoai-bauherrnentscheidung-matrix` | HOAI-Praxis: macht Entscheidungen beweisbar, datiert und kostenbewusst; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-bauunternehmen-perspektive` | HOAI-Praxis: übersetzt HOAI-Planungsstand in Ausführungsrisiko und Nachtragschance; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-bim-cde-planmanagement` | HOAI-Praxis: ordnet BIM, CDE, Modellstände, Planfreigabe und Datenhoheit; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-bim-modell-planstand-cde-haftung` | HOAI-Fachfrage: BIM, Common Data Environment, Modellstand, Planfreigabe, Kollisionsprüfung, Datenhoheit, Auftraggeber-Informationsanforderungen und Haftung im digitalen Planen prüfen. |
 | `hoai-claim-timeline` | HOAI-Praxis: baut Zeitstrahl für Pflichtverletzung, Warnung, Entscheidung, Schaden und Frist; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-dokumentenindex-hoai-akte` | HOAI-Praxis: erstellt Aktenindex nach LPH, Datum, Planstand, Version und Beweiswert; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-fachplaner-tga-brandschutz-tragwerk-koordination` | HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung, TGA, Tragwerk, Brandschutz, Bauphysik, Baugrund und Sonderplanern mit Planlauf, Verantwortungsmatrix und Haftungsabgrenzung prüfen. |
 | `hoai-foerdermittel-baukosten` | HOAI-Praxis: prüft Fördermittel, Vergabebindungen, Nachweise und Kostenänderungen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-foerdermittel-vergabebindung-rueckforderung` | HOAI-Fachfrage: Fördermittel, Zuwendungsbescheid, Vergabebindungen, Kostensteigerung, Mittelabruf, Dokumentationspflicht und Rückforderungsrisiko in Planung und Bauüberwachung prüfen. |
 | `hoai-gebaeude-innenraeume-anlage-10` | HOAI-Praxis: prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-gerichtsfeste-akte` | HOAI-Praxis: macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-gesamtschuld-bgb-650t` | HOAI-Praxis: ordnet Haftung Architekt/Bauunternehmer und Vorrang der Nacherfüllung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-honorarvereinbarung-paragraph-7-hoai` | HOAI-Praxis: prüft Honorarvereinbarung, Textform, Verbraucherhinweis und Orientierungswerte; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-honorarzone-bewertungspunkte-objektliste` | HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und Einordnung nach § 5, § 35 HOAI und Anlage 10 sauber begründen und gegen Über-/Unterzonung prüfen. |
 | `hoai-ingenieur-perspektive` | HOAI-Praxis: ordnet TGA/Tragwerk/Ingenieurbau-Schnittstellen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-kanzlei-mandatsintake-hoai` | HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-kostenobergrenze-budget-haftung` | HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsvereinbarung und Architektenhaftung nach BGH VII ZR 395/01 und VII ZR 185/13 mit Beweislast und Dolo-agit-Einwand prüfen. |
 | `hoai-kostenrahmen-kostenschaetzung-kostenberechnung` | HOAI-Praxis: vergleicht Kostenermittlungsstufen und Warnpflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-leistungsphasen-router` | HOAI-Praxis: ordnet chaotische Unterlagen einer oder mehreren HOAI-Leistungsphasen zu; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-lph-01-abnahme-und-teilabnahme` | HOAI LPH 1 Grundlagenermittlung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertung... |
@@ -365,22 +376,41 @@ Automatisch generierte Komplett-Liste aller 310 Skills in diesem Plugin. Beschre
 | `hoai-lph-09-terminsteuerung` | HOAI LPH 9 Objektbetreuung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
 | `hoai-lph-09-verbraucher-privater-bauherr` | HOAI LPH 9 Objektbetreuung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
 | `hoai-lph-09-vertrag-und-beauftragungsumfang` | HOAI LPH 9 Objektbetreuung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
+| `hoai-lph2-variantenuntersuchung-wirtschaftlichkeit` | HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Kostenschätzung, Bedarfsplanung, Förderfähigkeit und Entscheidungsvorlage für Bauherrn oder öffentlichen Auftraggeber prüfen. |
+| `hoai-lph3-kostenberechnung-budgetalarm` | HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreigabe, Kostenobergrenze, Fördermittelgrenze und Warnpflicht bei Kostensteigerungen im Entwurf prüfen. |
+| `hoai-lph4-genehmigungsrisiko-bauantrag-auflagen` | HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderungen, Auflagen, Nutzungsänderung und Rücksprung in frühere Leistungsphasen taktisch und haftungsfest prüfen. |
+| `hoai-lph5-ausfuehrungsplanung-detailtiefe` | HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachplanung, Werkstattplanung, Planfreigabe, Widersprüche und ausführungsreife Pläne prüfen. |
+| `hoai-lph6-lv-mengen-massen-vergabereife` | HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. |
+| `hoai-lph7-bieterspiegel-aufklaerung-vergaberisiko` | HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlich niedrige Preise, Nebenangebote, Vergabevorschlag und Haftungsrisiko der Mitwirkung bei der Vergabe prüfen. |
+| `hoai-lph8-maengel-abnahme-restleistungen` | HOAI-Fachfrage LPH 8: Mängelmanagement, Vorbegehung, Abnahme, Restleistungen, Zustandsfeststellung, Sicherheitsleistung, Fristen und Beweisführung prüfen. |
+| `hoai-lph8-rechnungspruefung-nachtraege-vob` | HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geänderte/zusätzliche Leistungen, VOB/B- oder BGB-Bauvertrag, Kostenkontrolle und Freigabevermerk prüfen. |
+| `hoai-lph8-ueberwachungstiefe-stichproben` | HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen. |
+| `hoai-lph9-gewaehrleistungsmanagement-fristen` | HOAI-Fachfrage LPH 9: Objektbetreuung, Gewährleistungsfristen, Mängel vor Fristablauf, Begehung, Unternehmerverfolgung, Planerhaftung und Abschlussdokumentation prüfen. |
 | `hoai-maengelmanagement-end-to-end` | HOAI-Praxis: ordnet Mangelanzeige, Frist, Ersatzvornahme, Dokumentation und Gewährleistung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-mandantenbrief-hoai` | HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-mitzuverarbeitende-bausubstanz-bestand` | HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen. |
 | `hoai-nachtragsmanagement-planer` | HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-neun-phasen-ueberblick` | HOAI-Praxis: erklärt LPH 1 bis 9, Prozentwerte und typische Übergabepunkte; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-oeffentliche-vergabe-planerleistungen` | HOAI-Praxis: prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-planerhaftung-grundlagen` | HOAI-Praxis: prüft Pflichtverletzung, Kausalität, Schaden, Mitverschulden und Verjährung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-projektsteuerung-vs-hoai` | HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-prueffaehige-schlussrechnung-einwendungen` | HOAI-Fachfrage: prüffähige Architekten-/Ingenieur-Schlussrechnung, Honorarparameter, Einwendungen, Abschläge, Teilleistungen, Kündigung und gerichtsfeste Abrechnung prüfen. |
 | `hoai-qualitaetscheck-vor-release` | HOAI-Praxis: prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-rechnungspruefung-architekt` | HOAI-Praxis: prüft Unternehmerrechnung, Aufmaß, Nachtrag, Skonto und Kostenkontrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-sachverstaendige-beweisfragen-planungsfehler` | HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren. |
 | `hoai-sachverstaendigenfragen` | HOAI-Praxis: formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-sigeko-projektsteuerung-besondere-leistungen` | HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Nachhaltigkeitszertifizierung und andere besondere Leistungen von HOAI-Grundleistungen abgrenzen und vertraglich fassen. |
 | `hoai-sonderkuendigung-bgb-650r` | HOAI-Praxis: prüft Sonderkündigungsrecht nach Planungsgrundlage und Belehrung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-streitwert-und-schadensbild` | HOAI-Praxis: ordnet Honorarstreit, Mängelschaden, Bauzeit, Kostenüberschreitung und Regress; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-stufenbeauftragung` | HOAI-Praxis: prüft Abruf, Leistungsstand, Kündigung, Resthonorar und Nachbeauftragung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-stufenbeauftragung-abruf-nichtabruf` | HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weiterer Leistungsphasen, Kündigung, Vergütung, Vorleistung und Akquisitionsrisiko im Architektenvertrag prüfen. |
 | `hoai-subunternehmer-perspektive` | HOAI-Praxis: prüft, welche Planinformationen Subunternehmer wirklich brauchen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-teilabnahme-bgb-650s` | HOAI-Praxis: prüft Teilabnahme ab letzter Unternehmerleistung und Haftungsfolgen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-umbau-modernisierung-zuschlag-bestand` | HOAI-Fachfrage: Umbau, Modernisierung, Instandsetzung, Instandhaltung, Umbauzuschlag, Bestandsschwierigkeit und Abgrenzung zu Neubau/Erweiterung im Honorar- und Leistungsumfang prüfen. |
+| `hoai-verbraucherhinweis-honorarvereinbarung` | HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen. |
 | `hoai-vertragliche-schnittstellen` | HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-vob-b-schnittstelle` | HOAI-Praxis: prüft Bauverträge, Abnahme, Behinderung, Nachträge und Architektenrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
+| `hoai-wiederholungsleistungen-planungsaenderung` | HOAI-Fachfrage: Planungsänderung, Wiederholung von Grundleistungen, § 10 HOAI, Bauherrnanordnung, Textform, geänderte Kostenbasis und Nachtragsvergütung des Planers prüfen. |
+| `hoai-zielfindungsphase-bgb-650p-650r` | HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

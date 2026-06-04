@@ -101,7 +101,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [haushaltsrecht-bho-bund-laender](./haushaltsrecht-bho-bund-laender.md) (300 Skills)
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (100 Skills)
-- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (310 Skills)
+- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (336 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (100 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)
 - [influencer-recht](./influencer-recht.md) (69 Skills)
