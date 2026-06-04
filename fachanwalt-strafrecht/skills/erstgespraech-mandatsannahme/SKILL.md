@@ -79,7 +79,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 - BORA, BRAO, FAO Strafrecht (§ 13 FAO).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG, Nebenstrafrecht (StVG, WaffG, KCanG, AWG, WiStG).
+- StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG, Nebenstrafrecht (StVG, WaffG, KCanG, AWG, WiStrG 1954).
 - RVG mit VV-RVG Teil 4 (Strafsachen) und Teil 5 (Bussgeldsachen).
 - DSGVO und BDSG fuer den Umgang mit Mandanten- und Verletzten-Daten.
 

@@ -123,7 +123,8 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mieterhoehung-pruefen-widersprechen` | Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung.… |
 | `mieterhoehungsverlangen-erstellen` | Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen).… |
 | `mietkaution-rueckforderung` | Strukturierte Prüfung Mietkaution-Rückforderung nach Auszug. Hoechstgrenze drei Monatsmieten netto kalt § 551 BGB. Anlage-Pflicht Vermieter getrennt insolvenzgesichert Zinsen mit Kontoführungs-Spareinlage § 551 Abs. 3… |
-| `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine… |
+| `mietpreisueberhoehung-wistrg-1954-mietwucher` | Dreistufige Prüfung überhöhter Wohnraummiete: Mietpreisbremse, § 5 WiStrG 1954 als Ordnungswidrigkeit und § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rückforderungs- und Behördenpfad. |
+| `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 und § 291 StGB. Erzeugt eine… |
 | `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die… |
 | `nebenkostenabrechnung-erstellen` | Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel… |
 | `nebenkostenabrechnung-pruefen` | Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische… |
@@ -193,7 +194,8 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 **Mieterhoehung (Mieter)**
 
 - `mieterhoehung-pruefen-widersprechen` — Mieterhoehungsverlangen auf Form, Frist, Kappungsgrenze und Begruendung pruefen; Widerspruchs- oder Teilzustimmungs-Entwurf.
-- `mietsenkungsverlangen` — Miete auf Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStG und § 291 StGB pruefen; qualifizierte Ruege erstellen.
+- `mietpreisueberhoehung-wistrg-1954-mietwucher` — überhöhte Wohnraummiete dreistufig auf Mietpreisbremse, § 5 WiStrG 1954 und § 291 StGB prüfen.
+- `mietsenkungsverlangen` — Miete auf Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 und § 291 StGB prüfen; qualifizierte Rüge erstellen.
 
 **Nebenkostenabrechnung**
 
@@ -243,7 +245,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
-- Gesetzesfassungen zum Stand-Datum (BGB, BetrKV, HeizkostenV, WEG, ZPO, WiStG)
+- Gesetzesfassungen zum Stand-Datum (BGB, BetrKV, HeizkostenV, WEG, ZPO, WiStrG 1954)
 - Leitlinien Rechtsprechung 2024/2025:
   - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt nur fristlose, nicht ordentliche Kuendigung. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
   - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.

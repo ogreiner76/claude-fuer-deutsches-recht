@@ -1,13 +1,13 @@
 ---
 name: strafrecht-spezial-mietwucher-5-wistg
-description: "Mietpreisueberhoehung § 5 WiStG: WICHTIG dies ist eine Ordnungswidrigkeit nicht eine Straftat. Anwendungsfall Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ortsueblicher Vergleichsmiete bei geringem Angebot an Wohnraum. Bussgeldrahmen bis 50.000 EUR. Abgrenzung zu § 291 StGB Wucher (Straftat). Pruefraster ortsuebliche Vergleichsmiete, geringes Angebot, Ausnutzung. Trade-offs Mietpreisbremse zivilrechtlich vs. OWi. Output Verteidigungsmemo und Trade-off zu § 291 StGB."
+description: "Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher."
 ---
 
-# Mietpreisueberhoehung § 5 WiStG
+# Mietpreisüberhöhung § 5 WiStrG 1954
 
 ## ACHTUNG Ordnungswidrigkeit nicht Straftat
 
-§ 5 WiStG (Wirtschaftsstrafgesetz 1954) ist ein **Bussgeldtatbestand** ("Ordnungswidrigkeit"), keine Straftat. Bussgeldrahmen **bis 50.000 EUR**. Strafrechtliche Folgen ausgeschlossen; kein Eintrag im Bundeszentralregister; kein Eintrag im Fuehrungszeugnis. Bei vorsaetzlicher Ausnutzung einer Zwangslage zu auffaelligem Missverhaeltnis greift zusaetzlich § 291 StGB Wucher (eigener Skill, dann Straftat).
+§ 5 WiStrG 1954 (Wirtschaftsstrafgesetz 1954) ist ein **Bußgeldtatbestand** ("Ordnungswidrigkeit"), keine Straftat. Bußgeldrahmen **bis 50.000 EUR**. Strafrechtliche Folgen sind dadurch allein ausgeschlossen; kein Eintrag im Bundeszentralregister; kein Eintrag im Führungszeugnis. Bei vorsätzlicher Ausbeutung einer individuellen Zwangslage oder sonstigen Schwächesituation zu einem auffälligen Missverhältnis ist zusätzlich § 291 StGB Wucher zu prüfen (eigener Skill, dann Straftat).
 
 ## Worum geht es
 
@@ -23,20 +23,20 @@ Spezial-Mandat: Behoerde (regelmaessig Bezirksamt oder Ordnungsamt der Kommune) 
 
 ## Tatbestand und Auslegung
 
-### Tatbestand § 5 Abs. 1 WiStG
+### Tatbestand § 5 Abs. 1 WiStrG 1954
 
-Ordnungswidrig handelt, wer **vorsaetzlich oder leichtfertig** fuer die Vermietung von Wohnraum oder fuer damit verbundene Nebenleistungen **unangemessen hohe Entgelte** fordert, sich versprechen laesst oder annimmt, wenn er dabei ein **geringes Angebot an vergleichbaren Wohnraeumen** ausnutzt.
+Ordnungswidrig handelt, wer **vorsätzlich oder leichtfertig** für die Vermietung von Wohnraum oder für damit verbundene Nebenleistungen **unangemessen hohe Entgelte** fordert, sich versprechen lässt oder annimmt.
 
-### § 5 Abs. 2 WiStG (Definition unangemessen)
+### § 5 Abs. 2 WiStrG 1954 (Definition unangemessen)
 
-Unangemessen sind Entgelte, die die **ortsuebliche Vergleichsmiete um mehr als 20 Prozent** ueberschreiten.
+Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots** an vergleichbaren Räumen die üblichen Entgelte um **mehr als 20 Prozent** übersteigen. Maßstab sind die Entgelte in der Gemeinde oder vergleichbaren Gemeinden für Räume vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die in den letzten sechs Jahren vereinbart oder, von Betriebskostenerhöhungen abgesehen, geändert wurden.
 
 ### Schluesselbegriffe
 
-- **Ortsuebliche Vergleichsmiete.** Nach § 558 BGB; einfacher oder qualifizierter Mietspiegel; sachverstaendigengutachten; Vergleichsmieten dreier vergleichbarer Wohnungen.
-- **Geringes Angebot.** Angespannter Wohnungsmarkt mit Mangellage. Indiz: behoerdliche Feststellung eines angespannten Wohnungsmarktes nach § 556d BGB (Mietpreisbremse) — aber NICHT identisch (Tatbestaende eigenstaendig).
-- **Ausnutzen.** Bewusste Verwertung der Mangellage. Bei reiner Marktpreisbildung nicht ohne weiteres erfuellt.
-- **Vorsatz oder Leichtfertigkeit.** Grobe Fahrlaessigkeit ausreichend.
+- **Übliche Entgelte / Vergleichsmiete.** Praktisch über § 558 BGB, amtlichen Mietspiegel, Sachverständigengutachten oder Vergleichsmieten zu ermitteln; § 5 WiStrG 1954 hat aber eine eigene Sechs-Jahres-Formulierung.
+- **Geringes Angebot.** Angespannter Wohnungsmarkt mit konkreter Mangellage. Indiz: behördliche Feststellung eines angespannten Wohnungsmarktes nach § 556d BGB (Mietpreisbremse), aber nicht identisch.
+- **Ausnutzen.** Die Mangellage muss für das Fordern, Sich-versprechen-Lassen oder Annehmen des Entgelts relevant werden. Reine Marktpreisbildung ohne Ausnutzungszusammenhang genügt nicht.
+- **Vorsatz oder Leichtfertigkeit.** Leichtfertigkeit reicht, Vorsatz ist nicht erforderlich.
 
 ## Praktikertipps Verteidigung
 
@@ -45,7 +45,7 @@ Unangemessen sind Entgelte, die die **ortsuebliche Vergleichsmiete um mehr als 2
 - **Modernisierungs- und Ausstattungszuschlaege.** Hochwertige Ausstattung kann ueber dem Mietspiegel-Mittel liegen.
 - **Geringes Angebot bestreiten.** Stand zur Vertragsschluss-Zeit; Leerstandsquote, Online-Inserate, Wohnungsmarkt-Report.
 - **Ausnutzen subjektiv verneinen.** Vermieter konnte nicht erkennen, dass Mieter aus Mangellage zustimmen musste — Indiz: Mieter hatte Alternativangebote.
-- **Verfristung des Bussgeldverfahrens.** Verjaehrung § 31 OWiG; OWi-Verfolgungsverjaehrung typisch zwei Jahre (vgl. § 31 OWiG i.V.m. Spezialregelungen).
+- **Verjährung des Bußgeldverfahrens.** § 31 OWiG prüfen; wegen Bußgeldrahmen bis 50.000 EUR liegt die Regelfrist nach § 31 Abs. 2 OWiG regelmäßig bei drei Jahren. Unterbrechungen nach § 33 OWiG gesondert prüfen.
 - **Einspruch § 67 OWiG** binnen zwei Wochen nach Zustellung.
 
 ## Trade-off-Matrix
@@ -60,15 +60,15 @@ Unangemessen sind Entgelte, die die **ortsuebliche Vergleichsmiete um mehr als 2
 
 ## Konkurrenzen
 
-- **§ 5 WiStG OWi / § 291 StGB Wucher Straftat.** Bei Ausnutzung einer Zwangslage zu auffaelligem Missverhaeltnis ist § 291 StGB einschlaegig — dann Strafverfahren statt OWi. Zwangslage typischerweise hoeher als reines geringes Angebot. **Vorrang § 291 StGB.**
-- **§ 5 WiStG / § 556d BGB Mietpreisbremse.** Zivilrechtliche Mietherabsetzung selbststaendig.
-- **§ 5 WiStG / § 134 BGB Nichtigkeit Wuchermietzins.** Bei § 291 StGB-Verstoss; nicht ohne weiteres bei blossem § 5 WiStG.
+- **§ 5 WiStrG 1954 OWi / § 291 StGB Wucher Straftat.** § 291 StGB verlangt zusätzlich die Ausbeutung einer individuellen Schwächesituation und ein auffälliges Missverhältnis. Ein geringes Wohnraumangebot genügt allein nicht.
+- **§ 5 WiStrG 1954 / § 556d BGB Mietpreisbremse.** Die zivilrechtliche Mietpreisbremse ist selbstständig und kann auch greifen, wenn § 5 WiStrG 1954 nicht nachweisbar ist.
+- **§ 5 WiStrG 1954 / § 134 BGB / § 138 BGB.** Die zivilrechtliche Wirksamkeitsfolge ist gesondert zu prüfen; bei § 291 StGB liegt § 138 BGB besonders nahe, bei bloßem § 5 WiStrG 1954 nicht automatisch.
 
 ## Strafzumessung und Folgen (OWi-Folgen)
 
-- **Bussgeldrahmen** bis **50.000 EUR** § 5 Abs. 3 WiStG.
-- **Bemessung nach § 17 OWiG:** Schwere der Ordnungswidrigkeit, Vorwurf, wirtschaftliche Verhaeltnisse.
-- **Verfall des Wuchermehrerloeses** nach § 29a OWiG moeglich (analog Einziehung StGB) — Mehrerloes Mietzins gegenueber zulaessigem Niveau.
+- **Bußgeldrahmen** bis **50.000 EUR** § 5 Abs. 3 WiStrG 1954.
+- **Bemessung nach § 17 OWiG:** Schwere der Ordnungswidrigkeit, Vorwurf, wirtschaftliche Verhältnisse.
+- **Mehrerlös** nach § 8 WiStrG 1954: Der Unterschiedsbetrag zwischen zulässigem und erzieltem Preis ist an das Land abzuführen, soweit nicht aufgrund rechtlicher Verpflichtung zurückerstattet wurde; § 8 Abs. 4 WiStrG 1954 ersetzt insoweit Einziehung nach StGB/OWiG.
 - **Keine Eintragung BZR**, keine Vorstrafe.
 - **Zivilrechtliche Folgen** Mieter kann Mietpreisbremse-Rueckforderung (§ 556g BGB), Mietherabsetzung in die Zukunft, ggf. Schadenersatz.
 - **Weiterer Bussgeldaufstockung** bei wiederholten Verstoessen moeglich (Wiederholungstaeter).
@@ -85,7 +85,7 @@ Unangemessen sind Entgelte, die die **ortsuebliche Vergleichsmiete um mehr als 2
 
 ### Bestreiten Ausnutzen
 
-"Eine Ausnutzung einer Mangellage durch den Vermieter wird bestritten. Der Mieter hatte zum Zeitpunkt der Vertragsverhandlungen am [Datum] nachweislich [Anzahl] alternative Wohnungsangebote von Maklern [Namen] erhalten (Anlagen K-1 bis K-3). Eine subjektive Ausnutzung im Sinne von § 5 Abs. 1 WiStG ist nicht ersichtlich."
+"Eine Ausnutzung eines geringen Angebots durch den Vermieter wird bestritten. Der Mieter hatte zum Zeitpunkt der Vertragsverhandlungen am [Datum] nachweislich [Anzahl] alternative Wohnungsangebote von Maklern [Namen] erhalten (Anlagen K-1 bis K-3). Eine Ausnutzung im Sinne von § 5 Abs. 1 und 2 WiStrG 1954 ist nicht ersichtlich."
 
 ## Querverweise
 
@@ -95,7 +95,8 @@ Unangemessen sind Entgelte, die die **ortsuebliche Vergleichsmiete um mehr als 2
 
 ## Quellen Stand 06/2026
 
-- § 5 WiStG (WiStG 1954) Stand 06/2026 https://www.gesetze-im-internet.de/wistrg_1954/__5.html.
+- § 5 WiStrG 1954 Stand 06/2026 https://www.gesetze-im-internet.de/wistrg_1954/__5.html.
+- § 8 WiStrG 1954 Stand 06/2026 https://www.gesetze-im-internet.de/wistrg_1954/__8.html.
 - §§ 17, 29a, 31, 49, 67 OWiG.
 - § 558 BGB ortsuebliche Vergleichsmiete; §§ 556d ff. BGB Mietpreisbremse; § 556g BGB Rueckforderung.
 - BGH zur Vergleichsmiete und Mietspiegel; Aktenzeichen vor Verwendung verifizieren.

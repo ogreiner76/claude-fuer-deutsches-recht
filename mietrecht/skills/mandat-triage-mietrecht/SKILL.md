@@ -34,6 +34,7 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 - **Kündigung** (ordentlich außerordentlich Eigenbedarf Zahlungsverzug)
 - Räumung
 - **Mieterhöhung** (Vergleichsmiete Modernisierung)
+- **Überhöhte Ausgangsmiete / Mietwucher** (Mietpreisbremse, § 5 WiStrG 1954, § 291 StGB)
 - **Mietminderung** (Mangel)
 - Modernisierung
 - **Nebenkostenabrechnung** (Erstellung Prüfung)
@@ -90,6 +91,7 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 | Mieterhöhung — Vermieter | `mieterhoehungsverlangen-erstellen` |
 | Mieterhöhung — Mieter | `mieterhoehung-pruefen-widersprechen` |
 | Mietsenkungsverlangen | `mietsenkungsverlangen` |
+| Mietpreisüberhöhung / Mietwucher | `mietpreisueberhoehung-wistrg-1954-mietwucher` |
 | Nebenkosten erstellen | `nebenkostenabrechnung-erstellen` |
 | Nebenkosten prüfen | `nebenkostenabrechnung-pruefen` |
 | Klage am AG | `klageentwurf-amtsgericht` |

@@ -139,7 +139,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [meinungspruefer](./meinungspruefer.md) (50 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (54 Skills)
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (102 Skills)
-- [mietrecht](./mietrecht.md) (54 Skills)
+- [mietrecht](./mietrecht.md) (55 Skills)
 - [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (94 Skills)
 - [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (54 Skills)
 - [nda-abgleich](./nda-abgleich.md) (54 Skills)

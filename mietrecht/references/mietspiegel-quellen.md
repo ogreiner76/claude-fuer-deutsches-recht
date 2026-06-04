@@ -13,7 +13,8 @@ Stand der Recherche: Mai 2026. Da Mietspiegel jaehrlich oder zweijaehrlich fortg
 - [WoFlV — Wohnflächenverordnung](https://www.gesetze-im-internet.de/woflv/)
 - [HeizkostenV](https://www.gesetze-im-internet.de/heizkostenv/)
 - [MsV — Mietspiegelverordnung](https://www.gesetze-im-internet.de/msv_2021/)
-- [§ 5 WiStG — Mietpreisüberhöhung](https://www.gesetze-im-internet.de/wistrg_1954/__5.html)
+- [§ 5 WiStrG 1954 — Mietpreisüberhöhung](https://www.gesetze-im-internet.de/wistrg_1954/__5.html)
+- [§ 8 WiStrG 1954 — Abführung des Mehrerlöses](https://www.gesetze-im-internet.de/wistrg_1954/__8.html)
 - [§ 291 StGB — Wucher](https://www.gesetze-im-internet.de/stgb/__291.html)
 
 ## Bundesländer
