@@ -1411,6 +1411,15 @@
       }
     },
     {
+      "name": "roemisch-katholisches-kirchenrecht",
+      "source": "./roemisch-katholisches-kirchenrecht",
+      "description": "Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.",
+      "version": "71.2.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "roemisches-recht",
       "source": "./roemisches-recht",
       "description": "Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption.",
@@ -1834,5 +1843,5 @@
       }
     }
   ],
-  "version": "71.1.0"
+  "version": "71.2.0"
 }

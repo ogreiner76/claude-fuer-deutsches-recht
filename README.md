@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 203 |
-| **Skills (SKILL.md)** | 17679 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 199 |
+| **Plugins** | 204 |
+| **Skills (SKILL.md)** | 17779 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 200 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v71.1.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v71.2.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -44,6 +44,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 ### Neu in v71
 
+- [`roemisch-katholisches-kirchenrecht`](./roemisch-katholisches-kirchenrecht) — Römisch-katholisches Kirchenrecht nach CIC und Katechismus: Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei/Diözese/Kurie und mehrsprachige papsttreue Kommunikation.
 - [`notariat-alltag`](./notariat-alltag) — Notariatsalltag, Beurkundung, Register, Grundbuch, Vollzug, Kosten, Geldwäsche und gestresste Sachbearbeitung.
 - [`weltraumrecht`](./weltraumrecht) — deutsches, europäisches und internationales Weltraumrecht mit Satelliten, Startplätzen, Haftung, Raumstationen, Frequenzen und Space Property.
 - [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) — GKV, PKV, Beihilfe, Krankengeld, Hilfsmittel, MD, Widerspruch und Sozialgericht.
@@ -351,6 +352,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. |
 | [`rentenpruefer`](./rentenpruefer) | Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten, Bescheide, Widerspruch und verständliche Dokumentation. |
 | [`robotik-recht`](./robotik-recht) | Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte. |
+| [`roemisch-katholisches-kirchenrecht`](./roemisch-katholisches-kirchenrecht) | Römisch-katholisches Kirchenrecht nach CIC und Katechismus: papsttreue Workflows für Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie, Gericht/Hölle/Umkehr und mehrsprachige Kommunikation. |
 | [`roemisches-recht`](./roemisches-recht) | Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption. |
 | [`schoeffen-handelsrichter-praxis`](./schoeffen-handelsrichter-praxis) | Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung. |
 | [`schriftform-und-textform-bgb`](./schriftform-und-textform-bgb) | Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. |
