@@ -1,5 +1,5 @@
 ---
-name: notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht-und-handelsregister
+name: notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht
 description: "Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

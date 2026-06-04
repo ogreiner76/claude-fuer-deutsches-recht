@@ -1,5 +1,5 @@
 ---
-name: rom-neu-029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsicherheit
+name: rom-neu-029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic
 description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

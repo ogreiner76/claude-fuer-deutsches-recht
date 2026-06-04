@@ -1,5 +1,5 @@
 ---
-name: notariat-057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundung
+name: notariat-057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundu
 description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

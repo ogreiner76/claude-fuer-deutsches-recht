@@ -1,5 +1,5 @@
 ---
-name: notariat-028-landwirtschaftsverkehr-grundstuecksverkehrsgenehmigung-und-vorkaufsrechte
+name: notariat-028-landwirtschaftsverkehr-grundstuecksverkehrsgenehmig
 description: "Notariat im Alltag: Landwirtschaftsverkehr Grundstücksverkehrsgenehmigung und Vorkaufsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

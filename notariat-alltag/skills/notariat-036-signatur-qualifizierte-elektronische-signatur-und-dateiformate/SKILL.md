@@ -1,5 +1,5 @@
 ---
-name: notariat-036-signatur-qualifizierte-elektronische-signatur-und-dateiformate
+name: notariat-036-signatur-qualifizierte-elektronische-signatur-und-d
 description: "Notariat im Alltag: Signatur qualifizierte elektronische Signatur und Dateiformate mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

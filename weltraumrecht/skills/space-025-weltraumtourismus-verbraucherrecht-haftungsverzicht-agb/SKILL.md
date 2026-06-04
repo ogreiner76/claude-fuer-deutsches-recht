@@ -1,5 +1,5 @@
 ---
-name: space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-agb
+name: space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-ag
 description: "Weltraumrecht: Weltraumtourismus Verbraucherrecht Haftungsverzicht AGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

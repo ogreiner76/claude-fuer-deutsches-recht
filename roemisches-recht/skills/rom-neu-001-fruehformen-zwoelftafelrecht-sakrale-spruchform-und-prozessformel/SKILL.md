@@ -1,5 +1,5 @@
 ---
-name: rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und-prozessformel
+name: rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und
 description: "Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubigte-abschrift
+name: notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi
 description: "Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

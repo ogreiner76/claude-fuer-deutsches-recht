@@ -1,5 +1,5 @@
 ---
-name: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zustellweg
+name: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust
 description: "Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

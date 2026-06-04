@@ -1,5 +1,5 @@
 ---
-name: notariat-003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisfaelligkeit-auflassungsvormerkung
+name: notariat-003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf
 description: "Notariat im Alltag: Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

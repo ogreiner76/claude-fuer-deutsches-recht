@@ -1,5 +1,5 @@
 ---
-name: notariat-006-handelsregisteranmeldung-geschaeftsfuehrer-bestellung-abberufung-vertretungsmacht
+name: notariat-006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu
 description: "Notariat im Alltag: Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

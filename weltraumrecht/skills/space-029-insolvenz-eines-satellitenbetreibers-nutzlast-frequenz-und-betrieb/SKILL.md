@@ -1,5 +1,5 @@
 ---
-name: space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz-und-betrieb
+name: space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz
 description: "Weltraumrecht: Insolvenz eines Satellitenbetreibers Nutzlast Frequenz und Betrieb mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

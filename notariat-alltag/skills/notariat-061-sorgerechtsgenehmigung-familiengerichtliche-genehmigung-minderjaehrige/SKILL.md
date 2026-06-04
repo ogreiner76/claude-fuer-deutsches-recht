@@ -1,5 +1,5 @@
 ---
-name: notariat-061-sorgerechtsgenehmigung-familiengerichtliche-genehmigung-minderjaehrige
+name: notariat-061-sorgerechtsgenehmigung-familiengerichtliche-genehmi
 description: "Notariat im Alltag: Sorgerechtsgenehmigung familiengerichtliche Genehmigung Minderjährige mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

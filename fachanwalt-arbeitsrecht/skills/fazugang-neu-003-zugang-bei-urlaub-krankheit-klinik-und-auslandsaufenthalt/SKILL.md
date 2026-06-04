@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslandsaufenthalt
+name: fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands
 description: "Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

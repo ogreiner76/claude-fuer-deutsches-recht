@@ -1,5 +1,5 @@
 ---
-name: db-012-datenbankrecht-und-datenschutz-personenbezogene-datensaetze
+name: db-012-datenbankrecht-und-datenschutz-personenbezogene-datensaet
 description: "Datenbankrecht: Datenbankrecht und Datenschutz personenbezogene Datensätze mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

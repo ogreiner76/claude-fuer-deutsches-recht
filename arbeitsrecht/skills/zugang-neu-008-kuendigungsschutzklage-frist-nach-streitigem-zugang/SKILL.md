@@ -1,5 +1,5 @@
 ---
-name: zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zugang
+name: zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga
 description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

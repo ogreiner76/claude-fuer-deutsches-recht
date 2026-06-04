@@ -1,5 +1,5 @@
 ---
-name: drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungsstaat
+name: drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss
 description: "Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

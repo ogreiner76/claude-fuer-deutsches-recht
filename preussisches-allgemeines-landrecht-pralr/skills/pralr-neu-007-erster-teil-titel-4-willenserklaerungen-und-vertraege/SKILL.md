@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-007-erster-teil-titel-4-willenserklaerungen-und-vertraege
+name: pralr-neu-007-erster-teil-titel-4-willenserklaerungen-und-vertra
 description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: rom-neu-009-samnitische-rechtskultur-bundesgenossen-und-militaerordnung
+name: rom-neu-009-samnitische-rechtskultur-bundesgenossen-und-militaer
 description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

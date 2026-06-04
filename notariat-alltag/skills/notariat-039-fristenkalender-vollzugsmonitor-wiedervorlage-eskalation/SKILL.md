@@ -1,5 +1,5 @@
 ---
-name: notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage-eskalation
+name: notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage-eskal
 description: "Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

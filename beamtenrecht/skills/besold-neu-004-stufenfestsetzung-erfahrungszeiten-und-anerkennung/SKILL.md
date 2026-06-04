@@ -1,5 +1,5 @@
 ---
-name: besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennung
+name: besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennun
 description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

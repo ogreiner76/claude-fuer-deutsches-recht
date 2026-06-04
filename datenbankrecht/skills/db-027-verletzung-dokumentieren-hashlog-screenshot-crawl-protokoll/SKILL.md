@@ -1,5 +1,5 @@
 ---
-name: db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protokoll
+name: db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko
 description: "Datenbankrecht: Verletzung dokumentieren Hashlog Screenshot Crawl-Protokoll mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

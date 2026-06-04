@@ -1,5 +1,5 @@
 ---
-name: space-076-konstellation-und-lichtverschmutzung-astronomie-einwendungen
+name: space-076-konstellation-und-lichtverschmutzung-astronomie-einwen
 description: "Weltraumrecht: Konstellation und Lichtverschmutzung Astronomie Einwendungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

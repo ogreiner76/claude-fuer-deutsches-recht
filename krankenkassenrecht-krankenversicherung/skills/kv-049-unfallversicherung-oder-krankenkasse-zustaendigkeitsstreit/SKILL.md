@@ -1,5 +1,5 @@
 ---
-name: kv-049-unfallversicherung-oder-krankenkasse-zustaendigkeitsstreit
+name: kv-049-unfallversicherung-oder-krankenkasse-zustaendigkeitsstrei
 description: "Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

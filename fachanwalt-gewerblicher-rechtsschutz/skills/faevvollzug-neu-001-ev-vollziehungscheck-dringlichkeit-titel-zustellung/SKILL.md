@@ -1,5 +1,5 @@
 ---
-name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung
+name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus
 description: "Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

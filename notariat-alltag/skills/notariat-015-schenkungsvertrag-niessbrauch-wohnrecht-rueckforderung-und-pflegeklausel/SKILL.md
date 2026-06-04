@@ -1,5 +1,5 @@
 ---
-name: notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforderung-und-pflegeklausel
+name: notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder
 description: "Notariat im Alltag: Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

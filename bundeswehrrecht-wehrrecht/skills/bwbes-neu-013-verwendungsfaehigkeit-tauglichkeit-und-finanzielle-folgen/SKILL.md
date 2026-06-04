@@ -1,5 +1,5 @@
 ---
-name: bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle-folgen
+name: bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle
 description: "Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

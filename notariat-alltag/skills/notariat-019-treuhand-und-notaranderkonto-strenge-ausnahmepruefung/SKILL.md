@@ -1,5 +1,5 @@
 ---
-name: notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefung
+name: notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu
 description: "Notariat im Alltag: Treuhand und Notaranderkonto strenge Ausnahmeprüfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

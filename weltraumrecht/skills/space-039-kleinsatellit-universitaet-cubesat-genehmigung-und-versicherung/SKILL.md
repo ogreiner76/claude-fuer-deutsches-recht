@@ -1,5 +1,5 @@
 ---
-name: space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-versicherung
+name: space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-ver
 description: "Weltraumrecht: Kleinsatellit Universität CubeSat Genehmigung und Versicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

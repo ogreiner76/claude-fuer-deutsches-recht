@@ -1,5 +1,5 @@
 ---
-name: notariat-033-unternehmensnachfolge-anteilsabtretung-niessbrauch-und-stimmrechtsbindung
+name: notariat-033-unternehmensnachfolge-anteilsabtretung-niessbrauch
 description: "Notariat im Alltag: Unternehmensnachfolge Anteilsabtretung Nießbrauch und Stimmrechtsbindung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

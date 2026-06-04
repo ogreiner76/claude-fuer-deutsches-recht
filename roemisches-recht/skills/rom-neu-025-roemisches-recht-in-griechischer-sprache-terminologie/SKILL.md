@@ -1,5 +1,5 @@
 ---
-name: rom-neu-025-roemisches-recht-in-griechischer-sprache-terminologie
+name: rom-neu-025-roemisches-recht-in-griechischer-sprache-terminologi
 description: "Römisches Recht: Römisches Recht in griechischer Sprache Terminologie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

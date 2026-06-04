@@ -1,5 +1,5 @@
 ---
-name: lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltnis
+name: lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn
 description: "Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

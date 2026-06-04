@@ -1,5 +1,5 @@
 ---
-name: evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verfahren
+name: evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf
 description: "Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

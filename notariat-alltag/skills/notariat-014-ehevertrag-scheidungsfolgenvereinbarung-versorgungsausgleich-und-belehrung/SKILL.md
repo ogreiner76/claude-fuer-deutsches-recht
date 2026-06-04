@@ -1,5 +1,5 @@
 ---
-name: notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungsausgleich-und-belehrung
+name: notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs
 description: "Notariat im Alltag: Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

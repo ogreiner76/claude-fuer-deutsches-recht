@@ -1,5 +1,5 @@
 ---
-name: notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig-einordnen
+name: notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig
 description: "Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

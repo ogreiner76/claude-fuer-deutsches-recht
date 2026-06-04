@@ -1,5 +1,5 @@
 ---
-name: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassungstitel
+name: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun
 description: "Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

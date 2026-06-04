@@ -1,5 +1,5 @@
 ---
-name: kv-002-gkv-mitgliedschaft-pflicht-freiwillig-familienversicherung
+name: kv-002-gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun
 description: "Krankenversicherung: GKV Mitgliedschaft Pflicht freiwillig Familienversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

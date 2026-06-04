@@ -1,5 +1,5 @@
 ---
-name: kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student-rentner
+name: kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student-rentn
 description: "Krankenversicherung: Statuswechsel Arbeitnehmer Selbstständiger Student Rentner mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

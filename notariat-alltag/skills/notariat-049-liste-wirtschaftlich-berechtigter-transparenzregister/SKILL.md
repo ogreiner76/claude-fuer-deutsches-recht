@@ -1,5 +1,5 @@
 ---
-name: notariat-049-liste-wirtschaftlich-berechtigter-transparenzregister
+name: notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist
 description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

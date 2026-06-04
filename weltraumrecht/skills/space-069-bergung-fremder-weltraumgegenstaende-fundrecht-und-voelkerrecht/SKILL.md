@@ -1,5 +1,5 @@
 ---
-name: space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voelkerrecht
+name: space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe
 description: "Weltraumrecht: Bergung fremder Weltraumgegenstände Fundrecht und Völkerrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

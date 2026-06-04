@@ -1,5 +1,5 @@
 ---
-name: notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-und-registerstand
+name: notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u
 description: "Notariat im Alltag: Notarielle Bescheinigung Vertretungsbescheinigung und Registerstand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

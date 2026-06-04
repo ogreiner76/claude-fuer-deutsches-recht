@@ -1,5 +1,5 @@
 ---
-name: notariat-021-urkundsentwurf-mandantenkorrektur-und-belehrungsdokumentation
+name: notariat-021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok
 description: "Notariat im Alltag: Urkundsentwurf Mandantenkorrektur und Belehrungsdokumentation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-registervollzug
+name: notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis
 description: "Notariat im Alltag: Umwandlung Verschmelzung Spaltung Formwechsel Registervollzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

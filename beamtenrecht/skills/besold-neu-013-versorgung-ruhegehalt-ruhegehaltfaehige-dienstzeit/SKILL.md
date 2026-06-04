@@ -1,5 +1,5 @@
 ---
-name: besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzeit
+name: besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei
 description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

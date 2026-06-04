@@ -1,5 +1,5 @@
 ---
-name: notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfreigabe
+name: notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre
 description: "Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

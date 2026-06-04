@@ -1,5 +1,5 @@
 ---
-name: space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk-und-dlr
+name: space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk
 description: "Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde BNetzA BMWK und DLR mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

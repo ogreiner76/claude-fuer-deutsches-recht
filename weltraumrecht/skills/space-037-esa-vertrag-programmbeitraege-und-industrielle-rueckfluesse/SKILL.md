@@ -1,5 +1,5 @@
 ---
-name: space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfluesse
+name: space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfl
 description: "Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

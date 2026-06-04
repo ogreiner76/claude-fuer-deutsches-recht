@@ -1,5 +1,5 @@
 ---
-name: infl-059-influencer-als-testimonials-in-kapitalmarktkommunikation
+name: infl-059-influencer-als-testimonials-in-kapitalmarktkommunikatio
 description: "Influencer-Recht: Influencer als Testimonials in Kapitalmarktkommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

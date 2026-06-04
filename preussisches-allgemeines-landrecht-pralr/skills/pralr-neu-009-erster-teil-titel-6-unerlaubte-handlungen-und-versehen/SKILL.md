@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-009-erster-teil-titel-6-unerlaubte-handlungen-und-versehen
+name: pralr-neu-009-erster-teil-titel-6-unerlaubte-handlungen-und-vers
 description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

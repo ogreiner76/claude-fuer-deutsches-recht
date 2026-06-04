@@ -1,5 +1,5 @@
 ---
-name: notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerkultur
+name: notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku
 description: "Notariat im Alltag: Kanzleiorganisation Vier-Augen-Prinzip und Fehlerkultur mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

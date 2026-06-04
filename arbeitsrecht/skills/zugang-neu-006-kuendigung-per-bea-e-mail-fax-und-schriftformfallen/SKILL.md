@@ -1,5 +1,5 @@
 ---
-name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfallen
+name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall
 description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

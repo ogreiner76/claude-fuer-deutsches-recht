@@ -1,5 +1,5 @@
 ---
-name: notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individueller-satzung
+name: notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell
 description: "Notariat im Alltag: GmbH-Gründung mit Musterprotokoll oder individueller Satzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

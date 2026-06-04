@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang
+name: fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan
 description: "Fachanwalt Arbeitsrecht: Kündigungsfrist berechnen bei unsicherem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

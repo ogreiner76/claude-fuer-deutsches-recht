@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronische-kommunikation
+name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc
 description: "Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

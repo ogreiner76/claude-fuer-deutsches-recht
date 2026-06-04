@@ -1,5 +1,5 @@
 ---
-name: zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-zeugen
+name: zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z
 description: "Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

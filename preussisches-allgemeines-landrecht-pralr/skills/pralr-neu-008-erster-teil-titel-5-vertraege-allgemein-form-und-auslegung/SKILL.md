@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form-und-auslegung
+name: pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form-und-a
 description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

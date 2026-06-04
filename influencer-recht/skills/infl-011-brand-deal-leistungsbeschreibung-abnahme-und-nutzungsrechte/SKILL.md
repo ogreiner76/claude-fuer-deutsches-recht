@@ -1,5 +1,5 @@
 ---
-name: infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsrechte
+name: infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre
 description: "Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

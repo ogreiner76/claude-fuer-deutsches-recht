@@ -1,5 +1,5 @@
 ---
-name: space-071-lunar-base-governance-safety-zones-und-interoperabilitaet
+name: space-071-lunar-base-governance-safety-zones-und-interoperabilit
 description: "Weltraumrecht: Lunar base Governance Safety zones und Interoperabilität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

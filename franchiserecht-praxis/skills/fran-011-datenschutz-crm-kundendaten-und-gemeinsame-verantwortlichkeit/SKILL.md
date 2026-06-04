@@ -1,5 +1,5 @@
 ---
-name: fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortlichkeit
+name: fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli
 description: "Franchiserecht: Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

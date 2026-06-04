@@ -1,5 +1,5 @@
 ---
-name: space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenrecht
+name: space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre
 description: "Weltraumrecht: Erdbeobachtung Datenschutz Geheimschutz und Geodatenrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

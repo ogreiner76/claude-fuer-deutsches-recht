@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliessen
+name: pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliess
 description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

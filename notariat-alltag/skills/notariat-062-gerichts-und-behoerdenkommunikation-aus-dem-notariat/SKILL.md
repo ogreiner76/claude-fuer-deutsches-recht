@@ -1,5 +1,5 @@
 ---
-name: notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notariat
+name: notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria
 description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

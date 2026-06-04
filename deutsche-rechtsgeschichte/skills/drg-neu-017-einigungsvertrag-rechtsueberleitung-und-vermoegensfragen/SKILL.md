@@ -1,5 +1,5 @@
 ---
-name: drg-neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfragen
+name: drg-neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr
 description: "Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

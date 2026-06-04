@@ -1,5 +1,5 @@
 ---
-name: space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-verschuldenshaftung-im-all
+name: space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers
 description: "Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

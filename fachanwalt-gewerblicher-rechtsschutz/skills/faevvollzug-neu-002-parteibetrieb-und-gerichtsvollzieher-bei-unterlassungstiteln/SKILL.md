@@ -1,5 +1,5 @@
 ---
-name: faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln
+name: faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt
 description: "Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

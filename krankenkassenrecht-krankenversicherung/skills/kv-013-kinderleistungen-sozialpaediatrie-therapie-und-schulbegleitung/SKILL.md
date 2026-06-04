@@ -1,5 +1,5 @@
 ---
-name: kv-013-kinderleistungen-sozialpaediatrie-therapie-und-schulbegleitung
+name: kv-013-kinderleistungen-sozialpaediatrie-therapie-und-schulbegle
 description: "Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

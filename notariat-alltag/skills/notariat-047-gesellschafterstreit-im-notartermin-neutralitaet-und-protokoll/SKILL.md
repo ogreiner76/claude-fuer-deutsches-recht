@@ -1,5 +1,5 @@
 ---
-name: notariat-047-gesellschafterstreit-im-notartermin-neutralitaet-und-protokoll
+name: notariat-047-gesellschafterstreit-im-notartermin-neutralitaet-un
 description: "Notariat im Alltag: Gesellschafterstreit im Notartermin Neutralität und Protokoll mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

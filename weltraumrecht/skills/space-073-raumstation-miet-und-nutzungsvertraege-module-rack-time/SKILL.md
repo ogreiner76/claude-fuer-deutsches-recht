@@ -1,5 +1,5 @@
 ---
-name: space-073-raumstation-miet-und-nutzungsvertraege-module-rack-time
+name: space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim
 description: "Weltraumrecht: Raumstation Miet- und Nutzungsverträge Module Rack Time mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-058-sanierungs-und-insolvenzbezug-bei-anteils-und-immobilienvertraegen
+name: notariat-058-sanierungs-und-insolvenzbezug-bei-anteils-und-immob
 description: "Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

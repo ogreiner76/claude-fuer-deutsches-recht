@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sachen
+name: pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac
 description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

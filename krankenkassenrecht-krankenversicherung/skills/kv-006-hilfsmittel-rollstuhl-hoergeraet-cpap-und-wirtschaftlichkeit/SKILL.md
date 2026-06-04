@@ -1,5 +1,5 @@
 ---
-name: kv-006-hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichkeit
+name: kv-006-hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichk
 description: "Krankenversicherung: Hilfsmittel Rollstuhl Hörgerät CPAP und Wirtschaftlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

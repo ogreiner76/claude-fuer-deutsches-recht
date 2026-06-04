@@ -1,5 +1,5 @@
 ---
-name: drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsrecht
+name: drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre
 description: "Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

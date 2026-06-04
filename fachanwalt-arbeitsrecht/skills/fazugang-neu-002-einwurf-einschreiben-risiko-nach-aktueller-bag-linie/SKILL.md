@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag-linie
+name: fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag
 description: "Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

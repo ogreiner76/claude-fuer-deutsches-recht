@@ -1,5 +1,5 @@
 ---
-name: kv-019-grenzgaenger-auslandskrankenversicherung-und-koordinierungsrecht
+name: kv-019-grenzgaenger-auslandskrankenversicherung-und-koordinierun
 description: "Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-053-immobilienfinanzierung-bankauflagen-und-treuhandauftrag
+name: notariat-053-immobilienfinanzierung-bankauflagen-und-treuhandauf
 description: "Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

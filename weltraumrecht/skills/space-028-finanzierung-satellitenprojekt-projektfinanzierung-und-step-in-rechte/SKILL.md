@@ -1,5 +1,5 @@
 ---
-name: space-028-finanzierung-satellitenprojekt-projektfinanzierung-und-step-in-rechte
+name: space-028-finanzierung-satellitenprojekt-projektfinanzierung-und
 description: "Weltraumrecht: Finanzierung Satellitenprojekt Projektfinanzierung und Step-in-Rechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: space-009-satellitenbetrieb-aus-deutschland-genehmigung-versicherung-aufsicht
+name: space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche
 description: "Weltraumrecht: Satellitenbetrieb aus Deutschland Genehmigung Versicherung Aufsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

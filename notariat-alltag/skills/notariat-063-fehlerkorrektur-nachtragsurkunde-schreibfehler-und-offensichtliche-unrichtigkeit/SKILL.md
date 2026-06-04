@@ -1,5 +1,5 @@
 ---
-name: notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und-offensichtliche-unrichtigkeit
+name: notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und
 description: "Notariat im Alltag: Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

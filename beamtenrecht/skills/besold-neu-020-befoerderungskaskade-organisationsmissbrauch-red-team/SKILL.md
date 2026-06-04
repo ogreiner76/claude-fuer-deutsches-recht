@@ -1,5 +1,5 @@
 ---
-name: besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red-team
+name: besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red
 description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

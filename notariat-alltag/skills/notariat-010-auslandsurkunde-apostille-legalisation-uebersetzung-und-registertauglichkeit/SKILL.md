@@ -1,5 +1,5 @@
 ---
-name: notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung-und-registertauglichkeit
+name: notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung
 description: "Notariat im Alltag: Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

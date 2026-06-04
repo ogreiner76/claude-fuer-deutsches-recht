@@ -1,5 +1,5 @@
 ---
-name: space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsrisiko
+name: space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsr
 description: "Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

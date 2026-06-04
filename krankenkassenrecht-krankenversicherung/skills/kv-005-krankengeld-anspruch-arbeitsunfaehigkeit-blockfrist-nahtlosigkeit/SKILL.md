@@ -1,5 +1,5 @@
 ---
-name: kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtlosigkeit
+name: kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl
 description: "Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

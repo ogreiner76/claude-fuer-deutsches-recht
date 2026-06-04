@@ -1,5 +1,5 @@
 ---
-name: lease-010-sale-and-lease-back-liquiditaet-und-insolvenzanfechtung
+name: lease-010-sale-and-lease-back-liquiditaet-und-insolvenzanfechtun
 description: "Leasingrecht: Sale-and-lease-back Liquidität und Insolvenzanfechtung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

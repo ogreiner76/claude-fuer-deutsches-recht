@@ -1,5 +1,5 @@
 ---
-name: evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist-und-parteizustellung
+name: evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist-und
 description: "Gewerblicher Rechtsschutz: Einstweilige Verfügung Vollziehung Frist und Parteizustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferenz
+name: space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen
 description: "Weltraumrecht: Frequenzzuteilung ITU Bundesnetzagentur und Interferenz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

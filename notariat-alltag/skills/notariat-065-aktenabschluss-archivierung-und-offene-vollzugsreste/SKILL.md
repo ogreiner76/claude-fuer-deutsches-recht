@@ -1,5 +1,5 @@
 ---
-name: notariat-065-aktenabschluss-archivierung-und-offene-vollzugsreste
+name: notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest
 description: "Notariat im Alltag: Aktenabschluss Archivierung und offene Vollzugsreste mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

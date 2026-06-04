@@ -1,5 +1,5 @@
 ---
-name: rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mittelalters
+name: rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mitt
 description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

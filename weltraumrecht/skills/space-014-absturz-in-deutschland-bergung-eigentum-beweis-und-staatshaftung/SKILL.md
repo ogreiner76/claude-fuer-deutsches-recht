@@ -1,5 +1,5 @@
 ---
-name: space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-staatshaftung
+name: space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta
 description: "Weltraumrecht: Absturz in Deutschland Bergung Eigentum Beweis und Staatshaftung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

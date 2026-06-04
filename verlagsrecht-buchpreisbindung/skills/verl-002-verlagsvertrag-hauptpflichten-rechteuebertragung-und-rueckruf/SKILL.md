@@ -1,5 +1,5 @@
 ---
-name: verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-rueckruf
+name: verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru
 description: "Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

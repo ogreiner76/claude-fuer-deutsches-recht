@@ -1,5 +1,5 @@
 ---
-name: space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfang
+name: space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfan
 description: "Weltraumrecht: Bürgeranfrage Satellit stört Grundstück oder Empfang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

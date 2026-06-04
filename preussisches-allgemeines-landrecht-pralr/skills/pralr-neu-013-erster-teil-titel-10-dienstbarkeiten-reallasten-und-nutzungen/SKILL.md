@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-013-erster-teil-titel-10-dienstbarkeiten-reallasten-und-nutzungen
+name: pralr-neu-013-erster-teil-titel-10-dienstbarkeiten-reallasten-un
 description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

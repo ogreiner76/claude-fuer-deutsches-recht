@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentumsverfolgung
+name: pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums
 description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

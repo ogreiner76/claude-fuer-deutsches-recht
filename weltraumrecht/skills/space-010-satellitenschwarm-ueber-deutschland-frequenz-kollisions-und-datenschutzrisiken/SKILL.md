@@ -1,5 +1,5 @@
 ---
-name: space-010-satellitenschwarm-ueber-deutschland-frequenz-kollisions-und-datenschutzrisiken
+name: space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision
 description: "Weltraumrecht: Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

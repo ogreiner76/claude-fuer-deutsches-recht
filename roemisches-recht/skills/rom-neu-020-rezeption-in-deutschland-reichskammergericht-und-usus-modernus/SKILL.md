@@ -1,5 +1,5 @@
 ---
-name: rom-neu-020-rezeption-in-deutschland-reichskammergericht-und-usus-modernus
+name: rom-neu-020-rezeption-in-deutschland-reichskammergericht-und-usu
 description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

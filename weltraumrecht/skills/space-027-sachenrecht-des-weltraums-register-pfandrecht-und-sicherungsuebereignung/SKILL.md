@@ -1,5 +1,5 @@
 ---
-name: space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sicherungsuebereignung
+name: space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sich
 description: "Weltraumrecht: Sachenrecht des Weltraums Register Pfandrecht und Sicherungsübereignung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

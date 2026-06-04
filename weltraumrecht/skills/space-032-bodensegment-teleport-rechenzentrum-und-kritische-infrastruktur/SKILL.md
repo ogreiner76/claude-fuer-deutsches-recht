@@ -1,5 +1,5 @@
 ---
-name: space-032-bodensegment-teleport-rechenzentrum-und-kritische-infrastruktur
+name: space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr
 description: "Weltraumrecht: Bodensegment Teleport Rechenzentrum und kritische Infrastruktur mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

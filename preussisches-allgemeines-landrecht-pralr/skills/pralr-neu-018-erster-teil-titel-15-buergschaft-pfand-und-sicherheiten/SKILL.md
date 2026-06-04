@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-018-erster-teil-titel-15-buergschaft-pfand-und-sicherheiten
+name: pralr-neu-018-erster-teil-titel-15-buergschaft-pfand-und-sicherh
 description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

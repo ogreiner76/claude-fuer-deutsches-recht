@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangebot
+name: fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb
 description: "Fachanwalt Arbeitsrecht: Inhalt des Umschlags bestreiten und Beweisangebot mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

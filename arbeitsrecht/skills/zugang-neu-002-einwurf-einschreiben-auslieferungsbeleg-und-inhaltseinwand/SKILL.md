@@ -1,5 +1,5 @@
 ---
-name: zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhaltseinwand
+name: zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal
 description: "Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

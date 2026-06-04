@@ -1,5 +1,5 @@
 ---
-name: lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueckgabe
+name: lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueck
 description: "Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-009-geldwaeschepruefung-immobilientransaktion-wirtschaftlich-berechtigter-und-risiko
+name: notariat-009-geldwaeschepruefung-immobilientransaktion-wirtschaf
 description: "Notariat im Alltag: Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

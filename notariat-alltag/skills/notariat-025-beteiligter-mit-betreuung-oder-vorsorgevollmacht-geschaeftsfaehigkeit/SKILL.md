@@ -1,5 +1,5 @@
 ---
-name: notariat-025-beteiligter-mit-betreuung-oder-vorsorgevollmacht-geschaeftsfaehigkeit
+name: notariat-025-beteiligter-mit-betreuung-oder-vorsorgevollmacht-ge
 description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht Geschäftsfähigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

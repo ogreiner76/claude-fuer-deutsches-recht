@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und-teilung
+name: pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und
 description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

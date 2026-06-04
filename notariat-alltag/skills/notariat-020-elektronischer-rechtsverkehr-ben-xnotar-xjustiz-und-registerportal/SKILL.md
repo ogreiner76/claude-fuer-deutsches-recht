@@ -1,5 +1,5 @@
 ---
-name: notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und-registerportal
+name: notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und
 description: "Notariat im Alltag: Elektronischer Rechtsverkehr beN XNotar XJustiz und Registerportal mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: rom-neu-021-roemisches-sachenrecht-im-mittelalterlichen-lehnskontext
+name: rom-neu-021-roemisches-sachenrecht-im-mittelalterlichen-lehnskon
 description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

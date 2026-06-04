@@ -1,5 +1,5 @@
 ---
-name: kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbescheid
+name: kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei
 description: "Krankenversicherung: Selbstständige Mindestbeitrag und Einkommensteuerbescheid mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

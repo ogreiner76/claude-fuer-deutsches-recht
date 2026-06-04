@@ -1,5 +1,5 @@
 ---
-name: rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualrecht
+name: rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr
 description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

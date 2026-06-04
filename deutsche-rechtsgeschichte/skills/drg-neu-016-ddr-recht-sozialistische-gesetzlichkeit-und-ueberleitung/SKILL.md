@@ -1,5 +1,5 @@
 ---
-name: drg-neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberleitung
+name: drg-neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei
 description: "Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

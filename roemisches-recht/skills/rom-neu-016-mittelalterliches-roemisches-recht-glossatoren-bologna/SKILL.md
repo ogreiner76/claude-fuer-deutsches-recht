@@ -1,5 +1,5 @@
 ---
-name: rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bologna
+name: rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bolog
 description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne-unwahrheit
+name: fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne
 description: "Fachanwalt Arbeitsrecht: Arbeitnehmerverteidigung Zugang bestreiten ohne Unwahrheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

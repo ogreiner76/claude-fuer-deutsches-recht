@@ -1,5 +1,5 @@
 ---
-name: rom-neu-018-kanonisches-recht-und-roemisches-recht-wechselwirkung
+name: rom-neu-018-kanonisches-recht-und-roemisches-recht-wechselwirkun
 description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

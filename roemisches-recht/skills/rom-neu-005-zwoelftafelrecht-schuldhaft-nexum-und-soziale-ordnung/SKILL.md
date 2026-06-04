@@ -1,5 +1,5 @@
 ---
-name: rom-neu-005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnung
+name: rom-neu-005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun
 description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

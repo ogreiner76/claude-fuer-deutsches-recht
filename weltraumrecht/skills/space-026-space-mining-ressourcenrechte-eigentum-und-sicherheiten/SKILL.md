@@ -1,5 +1,5 @@
 ---
-name: space-026-space-mining-ressourcenrechte-eigentum-und-sicherheiten
+name: space-026-space-mining-ressourcenrechte-eigentum-und-sicherheite
 description: "Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

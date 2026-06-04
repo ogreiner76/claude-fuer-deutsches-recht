@@ -1,5 +1,5 @@
 ---
-name: space-056-raumfahrtvertrag-mit-startdienstleister-launch-services-agreement
+name: space-056-raumfahrtvertrag-mit-startdienstleister-launch-service
 description: "Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

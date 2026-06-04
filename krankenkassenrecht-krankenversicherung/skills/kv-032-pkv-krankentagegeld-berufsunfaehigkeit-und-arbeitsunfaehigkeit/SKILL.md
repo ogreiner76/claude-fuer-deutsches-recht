@@ -1,5 +1,5 @@
 ---
-name: kv-032-pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehigkeit
+name: kv-032-pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehi
 description: "Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

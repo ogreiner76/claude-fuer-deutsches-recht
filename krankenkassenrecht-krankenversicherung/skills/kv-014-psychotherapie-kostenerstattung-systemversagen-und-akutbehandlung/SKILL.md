@@ -1,5 +1,5 @@
 ---
-name: kv-014-psychotherapie-kostenerstattung-systemversagen-und-akutbehandlung
+name: kv-014-psychotherapie-kostenerstattung-systemversagen-und-akutbe
 description: "Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

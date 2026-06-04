@@ -1,5 +1,5 @@
 ---
-name: db-020-oeffentliche-register-handelsregister-grundbuch-transparenzregister
+name: db-020-oeffentliche-register-handelsregister-grundbuch-transpare
 description: "Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

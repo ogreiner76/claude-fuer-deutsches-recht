@@ -1,5 +1,5 @@
 ---
-name: zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenbeweis
+name: zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb
 description: "Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

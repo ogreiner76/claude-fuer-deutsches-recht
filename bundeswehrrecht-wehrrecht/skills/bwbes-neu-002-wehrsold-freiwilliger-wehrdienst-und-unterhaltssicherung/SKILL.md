@@ -1,5 +1,5 @@
 ---
-name: bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssicherung
+name: bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssic
 description: "Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

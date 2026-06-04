@@ -1,5 +1,5 @@
 ---
-name: besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilung
+name: besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu
 description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

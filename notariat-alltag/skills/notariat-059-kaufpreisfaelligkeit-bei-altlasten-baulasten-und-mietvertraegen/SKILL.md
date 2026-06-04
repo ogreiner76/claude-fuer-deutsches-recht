@@ -1,5 +1,5 @@
 ---
-name: notariat-059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mietvertraegen
+name: notariat-059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mi
 description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten Baulasten und Mietverträgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

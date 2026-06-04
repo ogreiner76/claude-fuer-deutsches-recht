@@ -1,5 +1,5 @@
 ---
-name: notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-aufteilungsplan
+name: notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf
 description: "Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organisieren
+name: fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organi
 description: "Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

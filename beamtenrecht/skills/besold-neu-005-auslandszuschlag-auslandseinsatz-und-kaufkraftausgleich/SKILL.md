@@ -1,5 +1,5 @@
 ---
-name: besold-neu-005-auslandszuschlag-auslandseinsatz-und-kaufkraftausgleich
+name: besold-neu-005-auslandszuschlag-auslandseinsatz-und-kaufkraftaus
 description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

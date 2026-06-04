@@ -1,5 +1,5 @@
 ---
-name: notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisiko
+name: notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi
 description: "Notariat im Alltag: Satzungsänderung Beschlussmängel und Registerrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

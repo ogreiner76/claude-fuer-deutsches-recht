@@ -1,5 +1,5 @@
 ---
-name: space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerecht
+name: space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec
 description: "Weltraumrecht: Raketenstart Exportkontrolle Gefahrgut Luft- und Seerecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

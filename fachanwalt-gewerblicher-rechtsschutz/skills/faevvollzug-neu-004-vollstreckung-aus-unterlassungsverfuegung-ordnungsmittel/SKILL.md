@@ -1,5 +1,5 @@
 ---
-name: faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel
+name: faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or
 description: "Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

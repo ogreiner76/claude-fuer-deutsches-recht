@@ -1,5 +1,5 @@
 ---
-name: notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-sprachvermerk
+name: notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s
 description: "Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

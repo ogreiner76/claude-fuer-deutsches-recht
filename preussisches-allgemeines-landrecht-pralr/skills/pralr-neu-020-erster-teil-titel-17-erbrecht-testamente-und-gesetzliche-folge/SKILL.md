@@ -1,5 +1,5 @@
 ---
-name: pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-und-gesetzliche-folge
+name: pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-und-geset
 description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

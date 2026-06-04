@@ -1,5 +1,5 @@
 ---
-name: space-006-mondvertrag-ressourcen-governance-und-politische-akzeptanz
+name: space-006-mondvertrag-ressourcen-governance-und-politische-akzep
 description: "Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: kv-073-private-krankenversicherung-kuendigung-wechsel-und-schulden
+name: kv-073-private-krankenversicherung-kuendigung-wechsel-und-schuld
 description: "Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

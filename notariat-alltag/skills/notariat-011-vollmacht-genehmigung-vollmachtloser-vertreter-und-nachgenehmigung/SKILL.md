@@ -1,5 +1,5 @@
 ---
-name: notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und-nachgenehmigung
+name: notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und
 description: "Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notariat-052-vollzug-mit-behoerden-genehmigungen-vorkaufsrechtszeugnis-negativattest
+name: notariat-052-vollzug-mit-behoerden-genehmigungen-vorkaufsrechtsz
 description: "Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

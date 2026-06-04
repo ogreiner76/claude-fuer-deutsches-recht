@@ -1,5 +1,5 @@
 ---
-name: notariat-044-notarvertretung-notariatsverwalter-und-amtsuebergabe
+name: notariat-044-notarvertretung-notariatsverwalter-und-amtsuebergab
 description: "Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

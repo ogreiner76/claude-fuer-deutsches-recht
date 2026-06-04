@@ -1,5 +1,5 @@
 ---
-name: notariat-045-auszahlungsvoraussetzungen-kaufpreis-und-loeschungsunterlagen
+name: notariat-045-auszahlungsvoraussetzungen-kaufpreis-und-loeschungs
 description: "Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

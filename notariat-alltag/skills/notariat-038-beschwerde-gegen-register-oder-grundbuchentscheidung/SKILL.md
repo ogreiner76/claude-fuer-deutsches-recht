@@ -1,5 +1,5 @@
 ---
-name: notariat-038-beschwerde-gegen-register-oder-grundbuchentscheidung
+name: notariat-038-beschwerde-gegen-register-oder-grundbuchentscheidun
 description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

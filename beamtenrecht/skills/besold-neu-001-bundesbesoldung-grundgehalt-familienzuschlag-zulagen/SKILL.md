@@ -1,5 +1,5 @@
 ---
-name: besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag-zulagen
+name: besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag-zula
 description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

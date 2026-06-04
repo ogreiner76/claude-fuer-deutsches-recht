@@ -1,5 +1,5 @@
 ---
-name: rom-neu-012-byzantinisches-recht-theodosianus-justinian-und-basiliken
+name: rom-neu-012-byzantinisches-recht-theodosianus-justinian-und-basi
 description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

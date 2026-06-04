@@ -1,5 +1,5 @@
 ---
-name: rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-petition
+name: rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-peti
 description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

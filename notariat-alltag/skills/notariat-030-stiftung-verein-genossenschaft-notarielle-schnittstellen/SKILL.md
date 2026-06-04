@@ -1,5 +1,5 @@
 ---
-name: notariat-030-stiftung-verein-genossenschaft-notarielle-schnittstellen
+name: notariat-030-stiftung-verein-genossenschaft-notarielle-schnittst
 description: "Notariat im Alltag: Stiftung Verein Genossenschaft notarielle Schnittstellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

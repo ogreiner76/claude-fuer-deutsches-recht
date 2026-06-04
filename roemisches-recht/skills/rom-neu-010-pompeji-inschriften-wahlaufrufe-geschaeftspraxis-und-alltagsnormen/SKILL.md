@@ -1,5 +1,5 @@
 ---
-name: rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und-alltagsnormen
+name: rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und
 description: "Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

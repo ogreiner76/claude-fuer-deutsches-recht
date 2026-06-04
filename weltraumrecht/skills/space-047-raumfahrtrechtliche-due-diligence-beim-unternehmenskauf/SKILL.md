@@ -1,5 +1,5 @@
 ---
-name: space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskauf
+name: space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskau
 description: "Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

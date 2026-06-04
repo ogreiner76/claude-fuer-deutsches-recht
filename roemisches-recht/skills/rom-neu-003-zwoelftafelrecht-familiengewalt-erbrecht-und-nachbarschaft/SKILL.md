@@ -1,5 +1,5 @@
 ---
-name: rom-neu-003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbarschaft
+name: rom-neu-003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar
 description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

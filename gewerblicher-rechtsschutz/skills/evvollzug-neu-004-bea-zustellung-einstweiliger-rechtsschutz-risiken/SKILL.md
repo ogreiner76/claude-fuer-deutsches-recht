@@ -1,5 +1,5 @@
 ---
-name: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risiken
+name: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi
 description: "Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 

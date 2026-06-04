@@ -1,5 +1,5 @@
 ---
-name: notariat-037-datenschutz-im-notariat-aktenversand-und-cloudgrenzen
+name: notariat-037-datenschutz-im-notariat-aktenversand-und-cloudgrenz
 description: "Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
