@@ -255,8 +255,8 @@ Skill fuer den Deutschen Bund 1815-1866 und seine Rechtsetzung.
 
 ## Gruendung
 
-- **Wiener Schlussakte 08.06.1815**: Konfederation der deutschen Staaten.
-- **Wiener Schlussakte 15.05.1820**: Verfassung des Deutschen Bundes.
+- **Deutsche Bundesakte vom 8. Juni 1815** (unterzeichnet auf dem Wiener Kongress, in Kraft seit 1. Juli 1815): Gruendungsakte des Deutschen Bundes als Staatenbund.
+- **Wiener Schlussakte vom 15. Mai 1820**: Schlussakt der Wiener Ministerialkonferenzen; ergaenzt und konkretisiert die Bundesakte (z.B. Artikel 57 mit dem monarchischen Prinzip), ersetzt sie aber nicht und ist KEINE Gruendungsakte.
 - 39 Mitgliedstaaten (Reduktion auf 35 nach 1830).
 - Sitz: Bundesversammlung in Frankfurt am Main.
 
@@ -267,9 +267,9 @@ Skill fuer den Deutschen Bund 1815-1866 und seine Rechtsetzung.
 
 ## Wichtige Beschluesse
 
-- **Karlsbader Beschluesse 20.09.1819**: Repressionsgesetze gegen Burschenschaften, Pressekontrolle.
-- **Sechsundsechzig Artikel 1832**: Beschraenkung der konstitutionellen Bewegung.
-- **Wiener Schlussakte 1820**: Verfassungsgarantien (theoretisch).
+- **Karlsbader Beschluesse 20. September 1819**: Repressionsgesetze gegen Burschenschaften, Pressekontrolle, Universitaetsgesetz.
+- **Wiener Schlussakte 15. Mai 1820**: Schlussakt der Ministerialkonferenzen; Verfassungsgarantien und monarchisches Prinzip (Art. 57 WSA).
+- **Sechs Artikel vom 28. Juni 1832** und **Zehn Artikel vom 5. Juli 1832**: Beschraenkung der konstitutionellen Bewegung (sogenannte Bundesbeschluesse gegen den Konstitutionalismus).
 
 ## Rechtswirkung
 
@@ -278,9 +278,10 @@ Skill fuer den Deutschen Bund 1815-1866 und seine Rechtsetzung.
 
 ## Ende
 
-- **Deutscher Krieg 1866**: Oesterreich gegen Preussen.
-- **Augustkrieg 14.07. - 22.07.1866**: Schlacht bei Königgrätz 03.07.1866.
-- **Friedensvertrag von Prag 23.08.1866**: Aufloesung des Deutschen Bundes.
+- **Deutscher Krieg 1866** (auch "Bruderkrieg" oder Preussisch-Oesterreichischer Krieg, Juni - Juli 1866): Oesterreich und seine deutschen Verbuendeten gegen Preussen und seine Verbuendeten.
+- Entscheidungsschlacht: **Schlacht bei Koeniggraetz 3. Juli 1866**.
+- **Vorfrieden von Nikolsburg vom 26. Juli 1866** und **Friede von Prag vom 23. August 1866**: Oesterreich erkennt Aufloesung des Deutschen Bundes an.
+- Den von älteren Skill-Wrappern genannten "Augustkrieg 14.7. - 22.7.1866" gibt es nicht; richtig ist Koeniggraetz 3.7., Nikolsburg 26.7., Prag 23.8.
 
 ## Subsumtionsbeispiel: Burschenschaftsverbot 1819
 

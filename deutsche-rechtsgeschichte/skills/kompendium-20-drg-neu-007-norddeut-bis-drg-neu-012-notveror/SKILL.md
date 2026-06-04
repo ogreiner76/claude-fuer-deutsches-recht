@@ -60,8 +60,12 @@ Skill fuer den Norddeutschen Bund 1867-1870 als Vorlaeufer des Deutschen Reiches
 
 ## Uebergang zum Reich
 
-- **Versailler Vertrag 18.01.1871**: Sueddeutsche Staaten treten dem Bund bei; Bund wird Deutsches Reich.
-- Wilhelm I. wird Deutscher Kaiser proklamiert.
+- **Novembervertraege 1870** — voelkerrechtliche Beitrittsvertraege der sueddeutschen Staaten zum Norddeutschen Bund:
+  - Baden und Hessen-Darmstadt: 15. November 1870.
+  - Bayern: 23. November 1870 ("Versailler Vertrag" mit Bayern, mit Reservatrechten).
+  - Wuerttemberg: 25. November 1870.
+- Ratifikationen und Inkrafttreten der Verfassung des Deutschen Bundes (umbenannt "Verfassung des Deutschen Reiches") zum **1. Januar 1871**, redaktionell neu bekannt gemacht als **Reichsverfassung vom 16. April 1871**.
+- **Kaiserproklamation in Versailles am 18. Januar 1871**: ZEREMONIELLER Akt, kein Beitrittsvertrag und keine Verfassungsgrundlage. Wilhelm I. wird Deutscher Kaiser proklamiert.
 
 ## Bedeutung
 
@@ -164,9 +168,10 @@ Skill fuer die Sozialgesetzgebung und Verwaltungsreformen im Spaetkaiserreich (1
 
 ## Steuerrecht
 
-- **Reichseinkommensteuergesetz 1891** (Miquel-Reform).
-- **Reichserbschaftsteuergesetz 03.06.1906**.
-- **Reichsstempelgesetz 1894**.
+- **Preussisches Einkommensteuergesetz vom 24. Juni 1891** (Miquel-Reform, Preussische Gesetzsammlung 1891 S. 175): LANDESGESETZ Preussens, KEIN Reichsgesetz. Einfuehrung der allgemeinen Einkommensteuer mit Erklaerungspflicht, Progression und Quellenabzug.
+- **Reichserbschaftsteuergesetz vom 3. Juni 1906** (RGBl. S. 654).
+- **Reichsstempelgesetz 1894** (Vorgaengernormen Verkehrsteuern).
+- Wichtig: Eine **Reichseinkommensteuer** gibt es erst durch das **Reichseinkommensteuergesetz vom 29. Maerz 1920** (RGBl. S. 359, sogenannte Erzberger-Reform 1919/1920). Wer Miquel 1891 als Reichsgesetz darstellt, verwechselt preussisches Landesrecht mit Reichsrecht.
 
 ## Strafrecht
 

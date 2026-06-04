@@ -51,8 +51,9 @@ Skill fuer historische Verfassungsvergleiche als juristische Argumentationsquell
 - Konkrete Kontinuitaet: Art. 137 III WRV iVm Art. 140 GG (Religionsgemeinschaften).
 
 ### NS-Zeit → GG
-- Radbruch'sche Formel: "Das gesetzliche Unrecht und das uebergesetzliche Recht" (1946).
-- BVerfG 23, 98 (Mauerschuetzen) wendet die Formel praktisch an.
+- Radbruch'sche Formel: "Gesetzliches Unrecht und uebergesetzliches Recht" (Sueddeutsche Juristen-Zeitung 1946 S. 105).
+- Praktische Anwendung der Radbruchschen Formel durch BVerfG **BVerfGE Band 95 Rn 96** (Mauerschuetzen-Beschluss vom 24. Oktober 1996 - 2 BvR 1851/94 u.a.) und BGH **BGHSt 39 Rn 1**, **BGHSt 39 Rn 168**, **BGHSt 41 Rn 101** (Mauerschuetzen).
+- **Nicht zu verwechseln**: **BVerfGE Band 23 Rn 98** (Beschluss vom 14. Februar 1968 - 2 BvR 557/62) betrifft die Nichtigkeit der **NS-Ausbuergerung deutscher Juden** (11. Verordnung zum Reichsbuergergesetz vom 25. November 1941) und ist nicht das Mauerschuetzen-Verfahren.
 
 ### DDR-Verfassung → GG
 - BVerfG hat DDR-Recht nicht generell verworfen.

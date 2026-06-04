@@ -51,7 +51,10 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 - Nicht-schriftliche Kuendigung ist **nichtig** § 125 BGB.
 - Keine Wirkung — Arbeitsverhaeltnis besteht fort.
-- ABER: 3-Wochen-Frist § 4 KSchG kann trotzdem laufen, wenn Empfaenger nichtige Kuendigung als wirksam akzeptiert (BAG-Linie).
+- **§ 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
+- **Keine Heilung ueber § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
+- Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage § 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage § 4 KSchG.
+- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhoerung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
 
 ## Empfehlung
 

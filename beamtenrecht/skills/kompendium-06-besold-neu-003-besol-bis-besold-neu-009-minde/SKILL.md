@@ -279,43 +279,59 @@ Skill fuer Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Ver
 
 ## Aufgabe
 
-Skill fuer die amtsangemessene Alimentation und das Fuenf-Parameter-Schema des BVerfG.
+Skill fuer die amtsangemessene Alimentation und die echte BVerfG-Fuenf-Parameter-Pruefung erster Stufe samt Gesamtabwaegung zweiter Stufe.
 
 ## Norm
 
-- **Art. 33 Abs. 5 GG**: Beamtenrecht und hergebrachte Grundsaetze.
-- BVerfG-Linie zur amtsangemessenen Alimentation.
+- **Art. 33 Abs. 5 GG**: hergebrachter Grundsatz der amtsangemessenen Alimentation.
+- Leitentscheidung: **BVerfGE Band 139 Rn 64** (R-Besoldung, Urteil vom 5. Mai 2015 - 2 BvL 17/09 u.a.).
+- Fortgefuehrt: BVerfGE Band 140 Rn 240 (Sachsen-Besoldung), BVerfGE Band 149 Rn 382 (A-Besoldung Berlin), BVerfGE Band 155 Rn 1 (Berliner Richterbesoldung 4.5.2020 - 2 BvL 4/18).
 
-## Fuenf Parameter (BVerfG 2 BvL 4/18 vom 04.05.2020)
+## Fuenf Parameter erster Stufe (BVerfGE 139 Rn 64 ff.)
 
-1. **Vergleich mit Tarifentwicklung** im oeffentlichen Dienst (mehr als 5 Prozent Abweichung problematisch).
-2. **Verbraucherpreisindex**: Reallohnverlust ueber 5 Prozent in 5 Jahren?
-3. **Vergleich Nominalentwicklung** der Beamtenbesoldung.
-4. **Systeminterner Besoldungsvergleich** (innerhalb der Besoldungsstruktur konsistent?).
-5. **Vergleich zur Privatwirtschaft** (Spitzen-/Spezialisten-Vergleich).
+Vergleichszeitraum: rueckblickend 15 Jahre. Schwellenwert: jeweils 5 Prozent Abweichung; bei drei von fuenf Parametern greift die **Vermutung der Unteralimentation**.
 
-## Sechste Anker (BVerfG 2 BvL 6/17)
+1. **Tariflohnvergleich oeffentlicher Dienst**: Entwicklung der Besoldung im Vergleich zu TVoeD bzw. TV-L fuer vergleichbare Beschaeftigte.
+2. **Nominallohnindex** aller Beschaeftigten in Deutschland (Statistisches Bundesamt - Index der Nominalloehne und Bruttoverdienste).
+3. **Verbraucherpreisindex** (VPI Statistisches Bundesamt - Pruefung des Reallohnverlustes).
+4. **Systeminterner Besoldungsvergleich** (Abstand zwischen Besoldungsgruppen und Erfahrungsstufen; zusaetzlich Mindestabstandsgebot 15 Prozent zur sozialhilferechtlichen Grundsicherung fuer vierkoepfige Familie A 4 Endstufe nach BVerfGE 155 Rn 1).
+5. **Quervergleich zwischen Bund und Laendern** (Besoldung des in Frage stehenden Landes im Vergleich zu Bund und anderen Laendern).
 
-- **Mindestabstandsgebot zur Buergergeld-Grundsicherung**: 15 Prozent Mindestabstand zum Existenzminimum-Niveau einer vierkoepfigen Familie auf der Besoldungsstufe A 4.
+## Was NICHT Parameter erster Stufe ist
 
-## Ergebnis BVerfG-Pruefung
+- **Privatwirtschaftsvergleich** ist NICHT einer der fuenf Parameter erster Stufe. Das BVerfG verwendet ihn ausdruecklich nur als **Indiz auf der zweiten Pruefungsstufe** im Rahmen der Gesamtabwaegung (BVerfGE 139 Rn 117), nie als gleichberechtigten Parameter.
+- Wer Privatwirtschaft als Parameter 5 nennt, verwechselt erste und zweite Stufe und uebersieht den Quervergleich Bund-Laender.
 
-- Wenn 3 von 5 Parametern Verfassungsverstoss indizieren: vermutung der amtswidrigen Alimentation.
-- Gesetzgeber muss handeln.
+## Zweite Stufe: Gesamtabwaegung
+
+Auch wenn weniger als drei Parameter erster Stufe ueberschritten sind oder die Vermutung der Unteralimentation durch den Gesetzgeber widerlegt werden soll, ist eine Gesamtabwaegung erforderlich. Indizien zweiter Stufe (nicht abschliessend):
+
+- Qualitaetssicherung des oeffentlichen Dienstes und Attraktivitaet im Wettbewerb mit der Privatwirtschaft.
+- Beihilfe und sonstige Alimentationskomponenten.
+- Sonderzahlungen, Familienzuschlag, Versorgung.
+- Belastung durch Kuerzungen von Sonderzuwendungen, Urlaubsgeld, Jubilaeumszuwendungen.
+
+## Rechtsfolgen
+
+- Bei Verfassungsverstoss: **Unvereinbarkeitserklaerung** mit Frist an den Gesetzgeber zur Nachbesserung (kein Selbstvollzug, kein Anspruch auf hoehere Besoldung kraft Richterspruch).
+- Beamter/Richter muss Anspruch zeitnah (im Haushaltsjahr) gegenueber dem Dienstherrn geltend machen, sonst keine rueckwirkende Korrektur (BVerfGE 81, 363).
 
 ## Pruefraster
 
-1. Tarifvergleich?
-2. Inflation?
-3. Nominalentwicklung?
-4. Systemkohaerenz?
-5. Privat-Vergleich?
-6. Mindestabstand Buergergeld?
+1. Tariflohn oeffentlicher Dienst (TVoeD/TV-L)?
+2. Nominallohnindex (alle Beschaeftigten Deutschland)?
+3. Verbraucherpreisindex?
+4. Systeminterner Vergleich plus 15-Prozent-Mindestabstand zur Grundsicherung?
+5. Quervergleich Bund-Laender?
+6. Sind mindestens drei Parameter erster Stufe ueberschritten - Vermutung der Unteralimentation?
+7. Gesamtabwaegung zweiter Stufe (inkl. Privatwirtschaftsindiz, Beihilfe, Sonderzahlungen).
+8. Zeitnahe Geltendmachung im Haushaltsjahr erfolgt?
 
 ## Output
 
-- 5-Parameter-Analyse.
-- Widerspruch bei Unterbesoldung.
+- Fuenf-Parameter-Analyse erster Stufe mit konkreten Zahlen je Parameter.
+- Gesamtabwaegung zweiter Stufe.
+- Widerspruchsentwurf zur amtsangemessenen Alimentation.
 
 ## 7. `besold-neu-009-mindestabstandsgebot-buergergeld-vergleichsberech`
 
