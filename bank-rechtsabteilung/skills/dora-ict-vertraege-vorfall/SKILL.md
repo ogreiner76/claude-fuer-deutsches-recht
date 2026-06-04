@@ -106,6 +106,7 @@ Wähle passend oder biete maximal drei Optionen an:
 
 - Bei ungeklärter Ausgangslage: `bankrechtsabteilung-kaltstart-routing`.
 - Bei Aufsichtsbezug: `bankaufsichtsrecht-kwg-marisk-triage`, `bafin-kommunikation-und-anhoerung` oder `ssm-bundesbank-aufsichtsbrief`.
+- Bei kleinen oder spezialisierten Finanzunternehmen zuerst `dora-art16-vereinfachter-ikt-rahmen` prüfen; bei allgemeiner Cyber-Abgrenzung `nis2-cybersecurity-compliance:dora-art16-finanzunternehmen-simplified-framework`.
 - Bei Kredit- und Krisenbezug: `kreditentscheidung-weiterfinanzierung`, `stundung-standstill-waiver`, `sanierungsgutachten-idw-s6-bewertung` oder `restrukturierung-kreditengagement`.
 - Bei Gremienbezug: `vorstandsvorlage-gutachten`, `aufsichtsrat-vorlage-bank` oder `organhaftung-business-judgment`.
 - Bei Dienstleistern und Kanzleien: `outsourcing-externe-dienstleister`, `externe-anwaelte-steuerung` oder `anwaltliche-rechnungen-review`.
@@ -114,3 +115,7 @@ Wähle passend oder biete maximal drei Optionen an:
 ## Quellenanker
 
 Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: Gesetze im Internet für KWG, ZAG, WpHG, GwG, HGB, BGB und AktG; BaFin für MaRisk, Merkblätter und Aufsichtsinformationen; EUR-Lex für DORA, CRR/CRD und MiFID; EBA/EZB/Bundesbank für Leitlinien und Aufsichtspraxis. Das Quellenverzeichnis des Plugins liegt in `references/QUELLEN.md`.
+
+## DORA-Art.-16-Spezialkern
+
+Wenn Artikel 16 DORA im Raum steht, nicht den vollen Standard mechanisch übertragen und nicht zu wenig verlangen. Erzeuge eine Scope-Entscheidung und prüfe: Leitungsorgan, IKT-Risikorahmen, Asset-Inventar, Need-to-use/IAM, Schwachstellen, Change, Backup, BCP, Incident, Drittparteien, Subdienstleister, Exit und Nachweisordner. Die BaFin-Hinweise vom 21.08.2025 sind als Verwaltungspraxis live zu prüfen.

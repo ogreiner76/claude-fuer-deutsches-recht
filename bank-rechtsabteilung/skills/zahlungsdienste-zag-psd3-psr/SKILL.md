@@ -106,6 +106,7 @@ Wähle passend oder biete maximal drei Optionen an:
 
 - Bei ungeklärter Ausgangslage: `bankrechtsabteilung-kaltstart-routing`.
 - Bei Aufsichtsbezug: `bankaufsichtsrecht-kwg-marisk-triage`, `bafin-kommunikation-und-anhoerung` oder `ssm-bundesbank-aufsichtsbrief`.
+- Bei neuer ZAG-Erlaubnis- oder Ausnahmefrage: `zag-bafin-merkblatt-payment-flow-red-team`, `zag-erlaubnisanalyse-payment-institution`, `zag-ausnahmen-limited-network-commercial-agent`.
 - Bei Kredit- und Krisenbezug: `kreditentscheidung-weiterfinanzierung`, `stundung-standstill-waiver`, `sanierungsgutachten-idw-s6-bewertung` oder `restrukturierung-kreditengagement`.
 - Bei Gremienbezug: `vorstandsvorlage-gutachten`, `aufsichtsrat-vorlage-bank` oder `organhaftung-business-judgment`.
 - Bei Dienstleistern und Kanzleien: `outsourcing-externe-dienstleister`, `externe-anwaelte-steuerung` oder `anwaltliche-rechnungen-review`.

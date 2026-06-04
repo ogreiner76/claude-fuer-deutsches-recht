@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -88,6 +88,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `deepfake-ceo-fraud` | Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. |
 | `devops-ci-cd-secrets` | Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit. |
 | `digitale-souveraenitaet-provider-lockin` | Bewertet Provider-Lock-in und digitale Souveränität strategisch. |
+| `dora-art16-finanzunternehmen-simplified-framework` | DORA-Artikel-16-Spezialskill für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. |
 | `dora-finanzsektor-abgrenzung` | Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab. |
 | `dsgvo-art32-schnittstelle` | Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO. |
 | `edr-xdr` | Prüft EDR/XDR auf Endpoints und Servern. |

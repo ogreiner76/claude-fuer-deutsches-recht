@@ -114,3 +114,7 @@ Wähle passend oder biete maximal drei Optionen an:
 ## Quellenanker
 
 Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: Gesetze im Internet für KWG, ZAG, WpHG, GwG, HGB, BGB und AktG; BaFin für MaRisk, Merkblätter und Aufsichtsinformationen; EUR-Lex für DORA, CRR/CRD und MiFID; EBA/EZB/Bundesbank für Leitlinien und Aufsichtspraxis. Das Quellenverzeichnis des Plugins liegt in `references/QUELLEN.md`.
+
+## AnzV- und InhKontrollV-Vertiefung
+
+Bei Erlaubnis, Organwechsel und Beteiligungen die Verfahrensseite nicht als Nebensache behandeln. Nutze `anzv-kwg-anzeigenkalender-bafin-bundesbank` für KWG-Anzeigen und `inhkontrollv-bedeutende-beteiligung-bank` für Erwerb, Erhöhung, Verringerung oder Aufgabe bedeutender Beteiligungen. Prüfe insbesondere Schwellen 10/20/30/50 %, mittelbare Kontrolle, Stimmrechtsabreden, Erwerberkette, Finanzierung, Fit-and-Proper, Übersetzungen, Einreichadressat BaFin/Bundesbank/EZB und Closing-Condition.

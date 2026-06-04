@@ -89,6 +89,19 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Agent, Auslagerung oder Technikdienstleister
+
+Trenne strikt:
+
+| Rolle | Kernmerkmal | Folge |
+| --- | --- | --- |
+| ZAG-Agent | handelt für ein Zahlungsinstitut bei der Erbringung von Zahlungsdiensten gegenüber Kunden | Register-, Kontroll-, Schulungs-, AML- und Haftungslogik prüfen |
+| E-Geld-Agent/Vertriebsstelle | Vertrieb oder Rücktauschlogik rund um E-Geld | Akzeptanz, Rücktausch, Kundengelder und Informationspflichten prüfen |
+| Auslagerung | eine Tätigkeit, die sonst vom Institut selbst erbracht würde, wird an Dritte gegeben | DORA/MaRisk/KWG-Vertrag, Register, Risikoanalyse, Exit |
+| Technischer Dienstleister | technische Unterstützung ohne Geldbesitz und ohne Zahlungsentscheidung | Ausnahme nur bei sauberer Rollen- und Zugriffsbeschränkung |
+
+Erzeuge eine Register- und Kontrollmatrix: Partner, Rolle, Vertrag, Kundengelder, Weisungsrecht, Schulung, GwG, DORA, Subdienstleister, Passporting, Kundenkommunikation, BaFin/Bundesbank-Einreichung.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

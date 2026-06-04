@@ -26,6 +26,10 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
+## Aufsichtsrechtlicher Präzisionskern
+
+Wenn Zahlungsdienst, Cloud/IKT, Organanzeige, Beteiligungserwerb oder Kapitalfolge betroffen ist, den Skill `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern` zuschalten. Er trennt ZAG-Erlaubnis/Ausnahmen, DORA Artikel 16 und Art. 28 bis 30, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen. In Mandaten immer zweigleisig formulieren: gegenüber Aufsicht kooperativ und vollständig, gegenüber Gegner/Gericht beweis- und haftungsbewusst ohne unnötige Selbstbezichtigung.
+
 ## Output-Standard
 - Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
 - Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.

@@ -89,6 +89,21 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Enger Ausnahme-Check
+
+Ausnahmen nach § 2 ZAG erst prüfen, wenn der mögliche Zahlungsdienst beschrieben ist. Die Begründung muss BaFin-tauglich sein:
+
+| Ausnahme | Beleg, der wirklich hilft | Red Flag |
+| --- | --- | --- |
+| Handelsvertreter | echte Vertretungs-/Abschlussbefugnis nur für eine Marktseite | Plattform steuert Preis, Zahlung und Streitbeilegung für beide Seiten |
+| Technischer Dienstleister | kein Besitz an Geld, keine Entscheidung über Zahlung, nur technische Weiterleitung | Dienstleister hält Treuhandkonto, kann Auszahlung stoppen oder zahlt selbst aus |
+| Limited Network | geschlossene Akzeptanzstellenliste, professioneller Emittent, Monitoring | ständig wachsendes Partnernetz, allgemeines Zahlungsmittelgefühl |
+| Limited Range | sehr enger Waren-/Dienstleistungskreis mit SKU-/MCC-Logik | Marktplatz, breites Sortiment, Lifestyle-Karte |
+| Konzernintern | ausschließlich gruppeninterne Zahlungsvorgänge | Kunden, Händler, Franchise- oder Plattformteilnehmer sind beteiligt |
+| Sozial/Steuer | zweckgebundene öffentliche oder steuerlich eingehegte Nutzung | kommerzielle Benefit-Karte ohne echte Zweckbindung |
+
+Gib am Ende immer aus: Ausnahme tragfähig, Ausnahme nur mit Anzeige/Monitoring, BaFin-Vorabklärung oder Stop bis Erlaubnisanalyse.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

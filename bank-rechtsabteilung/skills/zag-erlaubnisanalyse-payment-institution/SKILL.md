@@ -89,6 +89,19 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## ZAG-Arbeitskern nach BaFin-Logik
+
+Nutze den Arbeitskern `references/zag-dora-inhkontrolle-crr-arbeitskern.md` und schalte bei komplexen Modellen `zag-bafin-merkblatt-payment-flow-red-team` zu. Prüfe den Zahlungsdienst nie vom Produktnamen her, sondern vom Zahlungsfluss:
+
+| Schritt | Was konkret zu prüfen ist |
+| --- | --- |
+| Flow-of-Funds | Zahler, Empfänger, Konten, Wallets, Treuhand, Verfügungsmacht, Zeitpunkt der Auszahlung. |
+| Positivkatalog | § 1 Abs. 1 Satz 2 ZAG: Ein-/Auszahlung, Zahlungsgeschäft, Kreditbezug, Issuing/Acquiring, Finanztransfer, PIS, AIS. |
+| E-Geld | § 1 Abs. 2 ZAG: monetärer Wert, Ausgabe gegen Geld, elektronische Speicherung, Drittakzeptanz, Rücktausch. |
+| Kein Nebentätigkeitsprivileg | Eine Handels-, Software- oder Plattformleistung bleibt erlaubnisrelevant, wenn darin ein Zahlungsdienst steckt. |
+| Erlaubnisroute | § 10 ZAG, § 11 ZAG oder § 34 ZAG mit Geschäftsplan, Eigenmitteln, Sicherung von Kundengeldern, Geschäftsleitern, IT/DORA, GwG. |
+| Red-Team | Stärkstes BaFin-Argument formulieren, bevor ein Go-Live freigegeben wird. |
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

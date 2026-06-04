@@ -32,6 +32,10 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
+## Artikel-16-Vertiefung
+
+Wenn ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen in Anspruch nehmen will, `dora-art16-finanzunternehmen-simplified-framework` nutzen. Prüfe dann ausdrücklich: DORA-Scope, Artikel-16-Berechtigung, Leitungsorgan, IKT-Risikorahmen, Asset-Inventar, Need-to-use/IAM, Schwachstellen- und Change-Management, Backup/BCP, Incident-Route, IKT-Drittparteien, Subdienstleister, Exit und Nachweisordner. BaFin-Hinweise zu Artikel 16 und IKT-Drittparteienrisiken live prüfen.
+
 ## Typische Stolperstellen
 
 - Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.

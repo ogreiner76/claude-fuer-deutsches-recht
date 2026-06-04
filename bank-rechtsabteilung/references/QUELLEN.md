@@ -41,6 +41,12 @@ Dieses Verzeichnis nennt offizielle und frei zugängliche Anker, gegen die die S
 
 - BaFin Zahlungsdienste und PSD2: https://www.bafin.de/DE/Aufsicht/ZahlungsdienstePSD2/ZahlungsdienstePSD2_artikel.html
 - BaFin Zulassungsverfahren nach PSD2/ZAG: https://www.bafin.de/DE/Aufsicht/ZahlungsdienstePSD2/ZulassungsverfahrenundLaufendeAufsicht/ZulassungsverfahrenundLaufendeAufsicht_node.html
+- BaFin Merkblatt ZAG: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_111222_zag.html
+- Bank-Rechtsabteilung Arbeitskern ZAG/DORA/AnzV/InhKontrollV/CRR: [`zag-dora-inhkontrolle-crr-arbeitskern.md`](./zag-dora-inhkontrolle-crr-arbeitskern.md)
+- AnzV bei Gesetze im Internet: https://www.gesetze-im-internet.de/anzv_2006/
+- InhKontrollV bei Gesetze im Internet: https://www.gesetze-im-internet.de/inhkontrollv/
+- BaFin Inhaberkontrolle: https://www.bafin.de/DE/Aufsicht/BankenFinanzdienstleister/Inhaberkontrolle/inhaberkontrolle_node.html
+- BaFin DORA Artikel-16-Hinweise: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Aufsichtsmitteilung/2025/neu/aufsichtsmitteilung_2025_08_21_hinweise_artikel_16_dora.html
 - BaFin Personenanzeigen KWG: https://www.bafin.de/DE/Aufsicht/BankenFinanzdienstleister/Anzeige-Meldepflichten/Personenanzeigen_KWG/Personenanzeigen_node.html
 - BaFin Geschäftsleiter-Merkblatt KWG/ZAG/KAGB: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_geschaeftsleiter_KWG_ZAG_KAGB.html
 - BaFin Kryptowertpapierregisterführung: https://www.bafin.de/DE/Aufsicht/BankenFinanzdienstleister/Markteintritt/Kryptowertpapierregisterfuehrung/kryptowertpapierregisterfuehrung_node.html

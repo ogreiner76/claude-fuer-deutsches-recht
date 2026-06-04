@@ -114,3 +114,7 @@ Wähle passend oder biete maximal drei Optionen an:
 ## Quellenanker
 
 Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: Gesetze im Internet für KWG, ZAG, WpHG, GwG, HGB, BGB und AktG; BaFin für MaRisk, Merkblätter und Aufsichtsinformationen; EUR-Lex für DORA, CRR/CRD und MiFID; EBA/EZB/Bundesbank für Leitlinien und Aufsichtspraxis. Das Quellenverzeichnis des Plugins liegt in `references/QUELLEN.md`.
+
+## CRR-Juristenmatrix
+
+Schalte `crr-kapitalanforderungen-juristenmatrix` zu, wenn Legal eine Entscheidung erklären muss, die Risk/Finance rechnet. Prüfe zuerst Art.-4-Begriffe und die Einheit, dann Eigenmittel, Kreditrisiko, Großkredit/Gruppe verbundener Kunden, Liquidität, Leverage und Offenlegung. Keine Quote, Definition oder Übergangsregel aus Modellwissen behaupten; aktuelle konsolidierte CRR bei EUR-Lex live prüfen.
