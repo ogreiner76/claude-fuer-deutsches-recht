@@ -9,6 +9,13 @@ description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnu
 
 Formuliere markenrechtliche Anträge so, dass sie bestimmt, vollstreckbar und zur konkreten Verletzung passend sind.
 
+## Normanker
+
+- MarkenG §§ 14, 15 für Verletzungsansprüche; MarkenG § 18 für Vernichtung/Rückruf/Entfernung aus Vertriebswegen; MarkenG § 19 für Auskunft.
+- ZPO §§ 253, 308 für Klageantrag und Bindung an Anträge; ZPO § 890 für Ordnungsmittel bei Unterlassung.
+- ZPO § 888/§ 887 nur vorsichtig für Handlungspflichten; Vollstreckbarkeit schon beim Antrag mitdenken.
+- Eilverfahren: ZPO §§ 935, 940, 936 und Vollziehung nach ZPO § 929 Abs. 2 nicht mit Hauptsacheanträgen vermischen.
+
 ## Pflichtfragen
 
 - Welche Verletzungsform: Produkt, Listing, Keyword, Domain, Verpackung, Social Media?
@@ -24,6 +31,8 @@ Formuliere markenrechtliche Anträge so, dass sie bestimmt, vollstreckbar und zu
 4. **Vernichtung/Rückruf:** Verhältnismäßigkeit, Besitz/Eigentum, Vertriebswege, Dritte.
 5. **Schadensersatzfeststellung:** Verschulden, Zeitraum, Methode offenhalten.
 6. **Bestimmtheit und Vollstreckung:** Ordnungsmittel, Zustellung, Anlagequalität.
+7. **Annexverhältnismäßigkeit:** Vernichtung/Rückruf/Entfernung nur so weit beantragen, wie Besitz, Eigentum, Vertriebsweg und Zumutbarkeit belegbar sind.
+8. **Anlagenbezug:** Screenshots, Produktfotos, Verpackungen und Testkaufbelege so nummerieren, dass der Tenor später vollstreckbar bleibt.
 
 ## Output
 

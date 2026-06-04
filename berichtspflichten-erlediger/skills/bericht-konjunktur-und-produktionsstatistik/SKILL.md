@@ -11,17 +11,21 @@ Für Hersteller, Werkstätten und Industriebetriebe mit regelmäßigen Statistik
 
 ## Norm- und Quellenanker
 
-ProdGewStatG/BStatG und Erhebungsbogen live prüfen.
+- ProdGewStatG, BStatG und der konkrete Erhebungsbescheid des Statistischen Amts.
+- Güterverzeichnis/Erzeugnisnummern, Mengeneinheiten und Abgrenzungen aus dem aktuellen Erhebungsbogen live prüfen.
+- Geheimhaltung und Hilfsmerkmale nach Statistikrecht beachten; keine unnötigen Geschäftsgeheimnisse außerhalb des Formulars liefern.
 
 ## Arbeitsfragen
 
-1. Welche Erzeugnisnummer/Einheit?
-2. Welche Periode?
-3. Welche Abgrenzung Eigen-/Fremdfertigung?
+1. Welche Erzeugnisnummer, Mengeneinheit, Periode, Betriebsstätte und Berichtskreis?
+2. Eigenfertigung, Lohnfertigung, Handelsware, Reparatur, Prototyp, Ausschuss oder interne Umlagerung?
+3. Stimmen Menge, Umsatz, Auftragseingang, Warengruppe und ERP-Konten zusammen?
+4. Wer kann technische Produktabgrenzung erklären, wenn Controlling nur Konten sieht?
+5. Gibt es Geheimhaltungs-/Plausibilitätsrückfragen vom Statistischen Amt?
 
 ## Output
 
-Produktionsmeldungs-Datenblatt.
+Produktionsmeldungs-Datenblatt mit Erzeugnisnummer, Einheit, Datenquelle, Abgrenzungsentscheidung, Plausibilitätsrechnung, Freigabe und Rückfragenlog.
 
 ## Red Flags
 

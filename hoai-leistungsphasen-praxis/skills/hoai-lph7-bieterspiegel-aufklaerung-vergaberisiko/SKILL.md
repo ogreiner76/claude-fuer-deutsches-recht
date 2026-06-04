@@ -12,7 +12,9 @@ Nutze diesen Skill, wenn der günstigste Bieter auffällig ist, der Bieterspiege
 ## Normanker
 
 - Anlage 10 HOAI LPH 7.
-- Öffentliche Vergabevorschriften nur nach Auftraggeber/Rechtsregime live prüfen.
+- BGB §§ 650p, 650q als Vertragsanker; Haftung aus BGB §§ 280 ff., wenn Vergabeempfehlung pflichtwidrig vorbereitet wird.
+- Öffentliche Vergabevorschriften nach Auftraggeber/Rechtsregime live prüfen: GWB/VgV/VOB/A/UVgO, Landesvergaberecht, Fördermittelauflagen.
+- Bei privater Vergabe trotzdem Gleichbehandlung/Transparenz nur dann als Maßstab verwenden, wenn vertraglich oder projektintern zugesagt.
 
 ## Prüfung
 
@@ -21,6 +23,8 @@ Nutze diesen Skill, wenn der günstigste Bieter auffällig ist, der Bieterspiege
 3. Aufklärungsfragen formulieren.
 4. Vergabevorschlag mit Risiko begründen, nicht nur niedrigsten Preis übernehmen.
 5. Dokumentieren, welche Entscheidung beim Auftraggeber bleibt.
+6. Nachtragsrisiken aus unvollständigen LV-Positionen, funktionalen Lücken und auffälligen Einheitspreisen markieren.
+7. Fördermittel-/Compliance-Risiko gesondert ausweisen, wenn Vergabeakte später geprüft wird.
 
 ## Output
 

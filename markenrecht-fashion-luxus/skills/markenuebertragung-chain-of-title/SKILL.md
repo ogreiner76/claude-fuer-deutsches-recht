@@ -9,6 +9,13 @@ description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share D
 
 Prüfe, ob Markenrechte wirksam übertragen wurden und ob Register, Verträge und tatsächliche Nutzung zusammenpassen.
 
+## Normanker
+
+- MarkenG §§ 27, 28 für Übertragung, Rechtsübergang und Registervermutung.
+- MarkenG § 30 für Lizenzen; bestehende Lizenzrechte können den wirtschaftlichen Wert und die Durchsetzung prägen.
+- UmwG/InsO/BGB je nach Transaktionsgrund: Verschmelzung, Spaltung, Asset Deal, Insolvenzverkauf, Sicherheitenfreigabe.
+- Internationale Register (EUIPO, WIPO Madrid, nationale Ämter) live prüfen; Umschreibungsformalien unterscheiden sich.
+
 ## Pflichtfragen
 
 - Welche Marken, Register, Länder, Klassen und Inhaber?
@@ -23,6 +30,8 @@ Prüfe, ob Markenrechte wirksam übertragen wurden und ob Register, Verträge un
 3. **Formalia:** Schriftform/Unterschrift, Vertretungsmacht, Apostille/Legalisation, Übersetzungen, Registerumschreibung.
 4. **Lücken suchen:** Falsche Inhaberin, alte Umfirmierung, fehlende Anlage, vergessene IR-Benennung, Lizenzbindung.
 5. **Closingfähigkeit:** Conditions precedent, Bring-down, Vollmachten, Post-Closing-Registerplan.
+6. **Vertretungsmacht:** Geschäftsführer, Insolvenzverwalter, Liquidator, Trustee, Notarvollmacht, Apostille/Legalisation und Registerfähigkeit gesondert sichern.
+7. **Nebenassets:** Domains, Social Handles, Produktdesigns, Werbematerial, Datenbanken und Goodwill nicht stillschweigend als "Marke" behandeln.
 
 ## Output
 

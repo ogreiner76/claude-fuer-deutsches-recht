@@ -11,17 +11,22 @@ Für Hersteller, Importeure und Verwender von Chemikalien.
 
 ## Norm- und Quellenanker
 
-REACH; CLP; ChemG; ECHA/BAuA-Hinweise live prüfen.
+- REACH-Verordnung (EG) Nr. 1907/2006 für Registrierung, Sicherheitsdatenblatt, Zulassung, Beschränkung und nachgeschaltete Anwender.
+- CLP-Verordnung (EG) Nr. 1272/2008 für Einstufung, Kennzeichnung, Verpackung und Meldungen.
+- ChemG, GefStoffV und BAuA/ECHA-Hinweise für deutschen Vollzug, Gefahrstoffverzeichnis und Arbeitsplatzbezug.
+- SCIP/SVHC, Biozid-, Kosmetik-, Lebensmittelkontakt- oder Produktsicherheitsrecht gesondert prüfen, wenn das Produkt in solche Regime fällt.
 
 ## Arbeitsfragen
 
-1. Welche Stoffe/Mengen?
-2. Welche Rolle in Lieferkette?
-3. Welche SDB/CLP-Pflichten?
+1. Welche Stoffe, Gemische, Erzeugnisse, CAS/EC-Nummern, Mengenband und Importland?
+2. Rolle in der Lieferkette: Hersteller, Importeur, Only Representative, Händler, nachgeschalteter Anwender, Formulierer?
+3. Registrierung, Zulassung, Beschränkung, SVHC/SCIP, Sicherheitsdatenblatt, Expositionsszenario, CLP-Label?
+4. Sind Sicherheitsdatenblätter aktuell, sprachlich richtig und an Kunden weitergegeben?
+5. Gibt es neue Rezeptur, neuen Lieferanten, neuen Markt oder neue Einstufung?
 
 ## Output
 
-REACH/CLP-Pflichtenmatrix.
+REACH/CLP-Pflichtenmatrix mit Stoff, Rolle, Mengenband, Registrierung/Zulassung/Beschränkung, SDB/CLP, Meldung, Frist, Beleg und Kundenkommunikation.
 
 ## Red Flags
 

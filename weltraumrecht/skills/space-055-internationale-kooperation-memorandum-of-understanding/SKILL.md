@@ -1,5 +1,5 @@
 ---
-name: space-055-internationale-kooperation-memorandum-of-understandin
+name: space-055-internationale-kooperation-memorandum-of-understanding
 description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt."
 ---
 

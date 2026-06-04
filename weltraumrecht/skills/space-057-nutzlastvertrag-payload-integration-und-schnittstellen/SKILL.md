@@ -1,5 +1,5 @@
 ---
-name: space-057-nutzlastvertrag-payload-integration-und-schnittstelle
+name: space-057-nutzlastvertrag-payload-integration-und-schnittstellen
 description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken."
 ---
 

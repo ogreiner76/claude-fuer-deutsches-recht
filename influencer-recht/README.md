@@ -59,7 +59,7 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `infl-008-gewerbeanmeldung-creator-taetigkeit` | Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit. |
 | `infl-009-scheinselbststaendigkeit-creator-management-team` | Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken. |
 | `infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung` | Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung. |
-| `infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsrechte` | Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. |
+| `infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre` | Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. |
 | `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting` | Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. |
 | `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. |
 | `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit` | Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken. |
@@ -107,7 +107,7 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `infl-056-merch-drops-e-commerce-und-widerruf` | Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. |
 | `infl-057-preisangaben-rabatt-countdown-dark-patterns` | Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz. |
 | `infl-058-bewertungen-rezensionen-und-fake-reviews` | Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung. |
-| `infl-059-influencer-als-testimonials-in-kapitalmarktkommunikation` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken. |
+| `infl-059-influencer-als-testimonials-in-kapitalmarktkommunikatio` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken. |
 | `infl-060-beauty-filter-und-irrefuehrung` | Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung. |
 | `infl-061-medienanstalt-anfrage-beantworten` | Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie. |
 | `infl-062-finanzamt-anfrage-beantworten` | Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. |

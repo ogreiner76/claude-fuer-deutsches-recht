@@ -5,11 +5,19 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 
 # Schwerbehindertenausweis Merkzeichen Pruefen
 
+## Norm- und Bewertungsanker
+
+- SGB IX §§ 152 ff. für Feststellung von Grad der Behinderung und gesundheitlichen Merkmalen.
+- Versorgungsmedizin-Verordnung mit Versorgungsmedizinischen Grundsätzen für Einzel-GdB, Gesamt-GdB und typische Bewertungsfehler.
+- Schwerbehindertenausweisverordnung für Ausweis, Merkzeichen, Gültigkeit und Nachweise.
+- SGB IX §§ 168 ff. für besonderen Kündigungsschutz, SGB IX § 208 für Zusatzurlaub; steuerliche und rundfunkrechtliche Folgen gesondert mit den jeweiligen Spezialnormen prüfen.
+- Rechtsprechung nur verwenden, wenn Gericht, Datum, Aktenzeichen und freie Quelle verifiziert sind; ärztliche Befunde ersetzen keine juristische Merkzeichenprüfung.
+
 ## Merkzeichen
 
 ### G — gehbehindert
 - Erhebliche Beeintraechtigung der Bewegungsfaehigkeit im Strassenverkehr.
-- Nachteilsausgleich: KFZ-Steuerermaessigung 50 Prozent oder freie Bahnfahrt.
+- Nachteilsausgleich: unentgeltliche Beförderung mit Wertmarke oder Kfz-Steuerermäßigung je nach Konstellation prüfen.
 
 ### aG — aussergewoehnlich gehbehindert
 - Hochgradige Beeintraechtigung.
@@ -17,7 +25,7 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 
 ### B — Begleitung
 - Notwendigkeit staendiger Begleitperson.
-- Freie Mitnahme Begleitperson im OePNV.
+- Freie Mitnahme einer Begleitperson im ÖPNV/Fernverkehr nach den jeweils geltenden Beförderungsregeln prüfen.
 
 ### H — hilflos
 - Dauerhafte Hilfsbeduerftigkeit bei elementaren Verrichtungen.
@@ -26,12 +34,13 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 ### Bl — blind
 - Schwerbehindertenausweis mit Bl.
 - Blindengeld, Bahnfahrt frei.
+- Landesblindengeld und steuerliche Pauschbeträge getrennt vom Ausweisverfahren prüfen.
 
 ### Gl — gehoerlos
 - Gehoerlosengeld in einigen Laendern.
 
 ### RF — Rundfunkbeitragsbefreiung
-- Befreiung vom Rundfunkbeitrag.
+- Regelmäßig Rundfunkbeitragsermäßigung; echte Befreiung nur bei eigener sozial-/rundfunkrechtlicher Grundlage. Nicht automatisch versprechen.
 
 ### TBl — taubblind
 - Beide schwere Sinnesbehinderung.
@@ -41,5 +50,12 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 1. Welche Merkzeichen vorhanden?
 2. Welche zusaetzlichen Vorteile aktivieren?
 3. KFZ-Steuer beantragt?
-4. Bahncard 100 mit Begleitperson?
+4. Wertmarke/unentgeltliche Beförderung und Begleitperson korrekt beantragt?
 5. Rundfunkbeitragsbefreiung beantragt?
+6. Stimmen die zugrunde gelegten Funktionsbeeinträchtigungen mit den Befundberichten überein?
+7. Ist ein Änderungsantrag sinnvoll oder riskant, weil der Gesamt-GdB insgesamt neu geprüft werden kann?
+
+## Output
+
+- Merkzeichen-Matrix mit Voraussetzung, Belegen, Nachteilsausgleich, fehlendem Befund und Widerspruchsargument.
+- Arztbrief-Fragenliste in Alltagssprache, damit die betroffene Person keine bloßen Diagnosen, sondern funktionelle Einschränkungen belegt.

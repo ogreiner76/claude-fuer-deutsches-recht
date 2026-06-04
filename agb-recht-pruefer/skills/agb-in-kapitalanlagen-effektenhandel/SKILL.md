@@ -7,13 +7,14 @@ description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rec
 
 ## Aufgabe
 
-Skill fuer AGB-Kontrolle im Effektenhandel.
+Prüfe Sonderbedingungen für Wertpapiergeschäfte, Depot-/Broker-AGB, Spar-/Tagesgeldbedingungen und digitale Trading-AGB so, dass AGB-Recht, WpHG/MiFID-II-Pflichten und tatsächlicher Orderprozess zusammenpassen.
 
 ## Norm
 
-- WpHG.
-- MiFID II / MiFIR.
-- §§ 305-310 BGB.
+- BGB §§ 305 bis 310, insbesondere Transparenz, Änderungsklauseln, Haftungsbegrenzung, Entgeltklauseln und einseitige Leistungsbestimmung.
+- WpHG, MiFID II/MiFIR und Delegierte Rechtsakte für Geeignetheit, Angemessenheit, Best Execution, Kostentransparenz und Zuwendungen.
+- BGB §§ 675c ff. nur bei Zahlungsdienste-/Kontoschnittstellen; DepotG/KWG/BaFin-Hinweise je nach Produkt und Anbieterrolle.
+- Rechtsprechung zu Bankentgelten/Änderungsklauseln nur mit Gericht, Datum, Aktenzeichen und freier Quelle zitieren.
 
 ## Standardbedingungen
 
@@ -25,15 +26,19 @@ Skill fuer AGB-Kontrolle im Effektenhandel.
 ### Anlageberatung
 - Pflicht zur Geeignetheitspruefung (§ 64 WpHG).
 - Geeignetheitserklaerung schriftlich.
+- AGB dürfen Beratungs-/Dokumentationspflichten nicht durch pauschale "Kunde entscheidet allein"-Formeln entleeren.
 
 ### Beratungsfreies Geschaeft
 - Sondervorschriften fuer Execution-Only.
+- Product Governance, Zielmarkt, Warnhinweise und Kenntnisse/Erfahrungen sauber vom Beratungsverzicht trennen.
 
 ### Ausfuehrungsbedingungen
 - Best Execution (§ 82 WpHG).
+- Ausführungsplätze, Weisungen, Teilausführungen, Handelsaussetzungen, Systemausfälle und Orderstreichungen konkret regeln.
 
 ### Provisionen und Zuwendungen
 - Offenlegungspflichten (§§ 70 WpHG).
+- Retrozessionen, Kickbacks, Payment for Order Flow und Konzerninteressen als Transparenz- und Interessenkonfliktthema behandeln.
 
 ## Pruefraster
 
@@ -41,8 +46,11 @@ Skill fuer AGB-Kontrolle im Effektenhandel.
 2. Geeignetheitsdokumentation?
 3. Provisionsoffenlegung?
 4. AGB-Inhaltskontrolle?
+5. Orderprozess und App-Oberfläche identisch mit Klausellogik?
+6. Haftungsbegrenzung bei Systemausfall, Marktdatenfehler oder Handelsstopp wirksam?
+7. Produktfreigabe/Zielmarkt für komplexe Produkte dokumentiert?
 
 ## Output
 
-- Klauselraster.
-- Schriftsatzbaustein.
+- Klauselraster mit AGB-Risiko, WpHG-Pflicht, Prozessschritt, Kundendisclosure, Beleg und Änderungsvorschlag.
+- Schriftsatz-/Abhilfebaustein für Bank, Broker, Verbraucher oder Rechtsabteilung.

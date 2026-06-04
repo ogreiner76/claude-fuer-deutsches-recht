@@ -1,32 +1,39 @@
 ---
 name: pflegegeld-pflegegrad-1-bis-5
-description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklaert die Leistungen pro Pflegegrad Pflegegeld vs. Pflegesachleistung Kombinationsleistung Entlastungsbetrag. Aktuelle Saetze 2024. Liefert Antragsvorlage."
+description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation."
 ---
 
 # Pflegegeld Pflegegrad 1 Bis 5
 
-## Leistungen pro Pflegegrad (Stand 2024 — vor Zitat live verifizieren)
+## Norm- und Quellenanker
+
+- SGB XI §§ 14, 15 für Pflegebedürftigkeit und Pflegegrade.
+- SGB XI §§ 28 ff., 36, 37, 38, 45b für Leistungsarten: Pflegesachleistung, Pflegegeld, Kombinationsleistung, Entlastungsbetrag.
+- SGB XI §§ 18 ff. für Begutachtung/Fristen; SGG/VwGO nicht verwechseln: Pflegekassenstreit gehört regelmäßig in die Sozialgerichtsbarkeit.
+- Aktuelle Eurobeträge vor Ausgabe beim Bundesgesundheitsministerium oder der Pflegekasse live prüfen; Beträge ändern sich.
+
+## Leistungen pro Pflegegrad (Arbeitsstand ab 2025, vor Bescheid/Zitat live verifizieren)
 
 ### Pflegegrad 1
-- Entlastungsbetrag 125 Euro/Monat.
+- Entlastungsbetrag derzeit 131 Euro/Monat.
 - Kein Pflegegeld.
 
 ### Pflegegrad 2
-- Pflegegeld 332 Euro/Monat.
-- Pflegesachleistung 761 Euro/Monat.
-- Entlastungsbetrag 125 Euro/Monat.
+- Pflegegeld derzeit 347 Euro/Monat.
+- Pflegesachleistung derzeit 796 Euro/Monat.
+- Entlastungsbetrag derzeit 131 Euro/Monat.
 
 ### Pflegegrad 3
-- Pflegegeld 573 Euro/Monat.
-- Pflegesachleistung 1432 Euro/Monat.
+- Pflegegeld derzeit 599 Euro/Monat.
+- Pflegesachleistung derzeit 1.497 Euro/Monat.
 
 ### Pflegegrad 4
-- Pflegegeld 765 Euro/Monat.
-- Pflegesachleistung 1778 Euro/Monat.
+- Pflegegeld derzeit 800 Euro/Monat.
+- Pflegesachleistung derzeit 1.859 Euro/Monat.
 
 ### Pflegegrad 5
-- Pflegegeld 947 Euro/Monat.
-- Pflegesachleistung 2200 Euro/Monat.
+- Pflegegeld derzeit 990 Euro/Monat.
+- Pflegesachleistung derzeit 2.299 Euro/Monat.
 
 ## Pflegegeld vs. Pflegesachleistung
 
@@ -36,7 +43,7 @@ description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklaer
 
 ## Entlastungsbetrag
 
-- 125 Euro/Monat zweckgebunden fuer Tages-/Nachtpflege Kurzzeitpflege Verhinderungspflege Alltagshilfen.
+- 131 Euro/Monat zweckgebunden für anerkannte Unterstützungsangebote; bei Pflegegrad 2 bis 5 nicht für körperbezogene Selbstversorgung durch Pflegedienste verwenden, sondern Leistungsart genau prüfen.
 - Uebertragbarkeit ins Folgejahr.
 
 ## Antrag
@@ -51,3 +58,11 @@ description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklaer
 2. Pflegegrad richtig?
 3. Pflegegeld oder Sachleistung?
 4. Entlastungsbetrag genutzt?
+5. MD-/Medicproof-Gutachten vollständig: Mobilität, kognitive/kommunikative Fähigkeiten, Verhalten, Selbstversorgung, Krankheitstherapie, Alltag?
+6. Widerspruchsfrist und Begründungsfrist gesichert?
+7. Pflegeperson, Rentenversicherung, Verhinderungspflege/Kurzzeitpflege und Kombinationsleistung mitgedacht?
+
+## Output
+
+- Leistungsübersicht mit aktuellem Betrag, Rechtsgrundlage, Nachweis, Pflegekassenkontakt und Frist.
+- Widerspruchsgerüst gegen falschen Pflegegrad mit alltagsnahen Beispielen statt bloßer Diagnosen.

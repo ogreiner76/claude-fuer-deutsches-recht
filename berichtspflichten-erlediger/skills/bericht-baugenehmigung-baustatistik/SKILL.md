@@ -11,17 +11,22 @@ Für Unternehmen, die bauen, umbauen oder Nutzungen ändern.
 
 ## Norm- und Quellenanker
 
-HBauStatG/Baustatistikrecht live prüfen; Landesbauordnung; BStatG.
+- Hochbaustatistikgesetz (HBauStatG) und BStatG für Erhebungszweck, Auskunftspflicht und Datenschutz der Baustatistik.
+- Landesbauordnung und Bauvorlagenverordnung des konkreten Bundeslandes für Genehmigung, Anzeige, Nutzungsänderung, Baubeginn und Fertigstellung.
+- BauGB/BauNVO nur ziehen, wenn planungsrechtliche Zulässigkeit, Gebietstyp oder Befreiung betroffen ist.
+- Statistikbogen und Bauportal des Landes live prüfen; die Formularlogik unterscheidet sich praktisch.
 
 ## Arbeitsfragen
 
-1. Welches Bauvorhaben?
-2. Welche Statistik-/Genehmigungsunterlagen?
-3. Welche Fristen?
+1. Neubau, Umbau, Erweiterung, Nutzungsänderung, Abbruch, verfahrensfrei oder genehmigungspflichtig?
+2. Welche Bauherrn-/Entwurfsverfasser-/Unternehmensdaten dürfen in die Statistik und welche gehören nur in Bauvorlagen?
+3. Welche Flächen/Kosten: Nutzfläche, Wohnfläche, Bruttorauminhalt, Baukosten, Energieart, Gebäudeart?
+4. Welche Landesfristen für Baubeginnsanzeige, Fertigstellungsanzeige, Prüfbescheinigungen und Abnahmen?
+5. Sind Statistikbogen, Baugenehmigung, Förderantrag und steuerliche Aktivierung konsistent?
 
 ## Output
 
-Bau-Berichtspaket und Behördencheck.
+Bau-Berichtspaket mit Genehmigungsstatus, Statistikbogen, Landesbauportal-Check, Kosten-/Flächenabgleich, Baubeginn-/Fertigstellungsfristen und Zuständigkeitsmatrix.
 
 ## Red Flags
 

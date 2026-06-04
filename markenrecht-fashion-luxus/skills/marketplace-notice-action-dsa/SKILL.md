@@ -9,6 +9,13 @@ description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Not
 
 Führe Markeninhaber durch Plattformmeldungen gegen Fälschungen, Trittbrettfahrer-Angebote und rechtsverletzende Listings.
 
+## Norm- und Plattformanker
+
+- MarkenG §§ 14, 15, 18, 19 für Verletzung, Entfernung/Rückruf und Auskunft.
+- Digital Services Act (VO (EU) 2022/2065), besonders Art. 16 Notice-and-Action, Art. 20 Beschwerdemanagement und Art. 22 Trusted Flagger.
+- Produktsicherheits-/Zollrecht nur ziehen, wenn Fälschung, gefährliches Produkt oder Grenzbeschlagnahme betroffen ist.
+- Plattformregeln live prüfen: Amazon Brand Registry, eBay VeRO, Meta/TikTok/Google IP-Formulare, Marketplace-Policy, Counter-Notice.
+
 ## Pflichtfragen
 
 - Plattform, Listing-URL, Verkäufer, Land, Waren, Screenshots, Testkauf?
@@ -23,6 +30,8 @@ Führe Markeninhaber durch Plattformmeldungen gegen Fälschungen, Trittbrettfahr
 3. **Plattformprozess:** Brand Registry, IP-Portal, DSA-Meldung, Trusted Flagger, Beschwerde gegen Ablehnung.
 4. **Gegenschlag einplanen:** Counter-Notice, Account-Sperre des Mandanten, unberechtigte Schutzrechtsverwarnung.
 5. **Eskalation:** Abmahnung Verkäufer, Auskunft, einstweilige Verfügung, Plattform als Störer/Intermediär nur quellengeprüft bewerten.
+6. **Overblocking vermeiden:** Nur konkrete Listings/Verkäufer melden, keine pauschale Marktbereinigung ohne Schutzrechts- und Belegbasis.
+7. **Wiederholungstäter:** Verkäufer-ID, USt-ID, Impressum, Lieferadresse, Zahlungsdaten, verbundene Shops und Testkäufe zusammenführen.
 
 ## Output
 

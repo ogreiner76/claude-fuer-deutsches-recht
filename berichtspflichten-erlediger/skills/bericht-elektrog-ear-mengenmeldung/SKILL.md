@@ -11,17 +11,21 @@ Für Hersteller/Importeure/Online-Händler von Elektrogeräten.
 
 ## Norm- und Quellenanker
 
-ElektroG; Stiftung ear-Hinweise live prüfen.
+- ElektroG § 6 für Registrierung vor dem Inverkehrbringen; ElektroG § 8 für Bevollmächtigte bei ausländischen Herstellern.
+- ElektroG-Pflichten zu Gerätearten, Marken, Mengen, Rücknahme, Garantien und Informationspflichten anhand der aktuellen ear-Systematik prüfen.
+- Stiftung-ear-Bescheide, Regelbuch, Portalfristen und Gebühren live prüfen; Marktplatz-/Fulfilment-Sperren sind praktisch oft schneller als Behördenpost.
 
 ## Arbeitsfragen
 
-1. Welche Geräteart?
-2. Ist Registrierung vor Vertrieb erfolgt?
-3. Welche Mengen/Rücknahmen?
+1. Welche Geräteart, Marke, WEEE-Nummer, Herstellerrolle und Importeur-/Händlerrolle?
+2. Ist Registrierung vor Vertrieb erfolgt, auch für Marketplace, Dropshipping, Bundle, Ersatzteil, B2B/B2C?
+3. Welche in Verkehr gebrachten Mengen, Rücknahmemengen, Garantien und Entsorgungswege sind zu melden?
+4. Stimmen Produktdaten, Zoll-/Importdaten, Shop-SKU und ear-Meldung zusammen?
+5. Gibt es ausländischen Hersteller ohne deutschen Bevollmächtigten?
 
 ## Output
 
-ear-Meldecheck und Vertriebsfreigabe.
+ear-Meldecheck mit Geräteart, Marke, Registrierungsnummer, Mengenlog, Rücknahmepfad, Marktplatzfreigabe, Bevollmächtigtenstatus und Fristen.
 
 ## Red Flags
 

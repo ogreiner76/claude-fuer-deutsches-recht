@@ -9,6 +9,14 @@ description: "DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung,
 
 Ordne deutsche Markenamts- und Rechtsmittelverfahren so, dass Fristen, Zuständigkeit und Argumentationsniveau stimmen.
 
+## Normanker
+
+- MarkenG §§ 32 ff., 37, 41 für Anmeldung, Prüfung und Eintragung.
+- MarkenG §§ 42 ff. für Widerspruch; Benutzungseinrede und Nichtbenutzung älterer Marken nicht vergessen.
+- MarkenG §§ 49 ff., 53 ff. für Verfall/Nichtigkeit/Löschung und amtliche Verfahren.
+- MarkenG §§ 64, 66 ff. für Erinnerung/Beschwerde zum BPatG; MarkenG § 83 für Rechtsbeschwerde zum BGH.
+- MarkenV, DPMA-Gebühren und elektronische Einreichungsregeln live prüfen; Fristen nie aus Tabellenwissen übernehmen.
+
 ## Intake
 
 - Bescheid oder Entscheidung mit Datum/Zugang.
@@ -23,6 +31,8 @@ Ordne deutsche Markenamts- und Rechtsmittelverfahren so, dass Fristen, Zuständi
 3. **Begründungstiefe:** Amtliche Beanstandung anders beantworten als Beschwerde zum BPatG.
 4. **Beweise:** Verkehrsdurchsetzung, Benutzung, Kennzeichnungskraft, ältere Rechte.
 5. **Rechtsbeschwerde:** Zulassung, Rechtsfrage, keine neue Tatsachenrunde.
+6. **Registerfolge:** Waren-/Dienstleistungsverzeichnis, Teillöschung, Einschränkung, Priorität, Umschreibung und Lizenz-/Sicherungsinteressen mitdenken.
+7. **Parallelverfahren:** Verletzungsprozess, EUIPO-Verfahren, Zollbeschlagnahme oder Domainstreit als Taktikrisiko abgleichen.
 
 ## Output
 
@@ -33,4 +43,4 @@ Ordne deutsche Markenamts- und Rechtsmittelverfahren so, dass Fristen, Zuständi
 
 ## Qualitätsgate
 
-Fristen, Gebühren und Zuständigkeit live bei DPMA/BPatG prüfen.
+Fristen, Gebühren und Zuständigkeit live bei DPMA/BPatG prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugänglicher Quelle zitieren.

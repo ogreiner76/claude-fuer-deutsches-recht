@@ -9,6 +9,13 @@ description: "Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-
 
 Sichere Markenverletzungen so, dass Abmahnung, einstweilige Verfügung, Klage, Zollantrag oder Plattformmeldung nicht an dünnen Belegen scheitern.
 
+## Norm- und Beweisanker
+
+- ZPO §§ 371 ff., 415 ff., 420 ff. für Augenschein, Urkunden und Vorlagefragen; ZPO §§ 935, 940 bei Eilbezug.
+- MarkenG §§ 14, 18, 19 für Verletzung, Annexansprüche und Auskunft; Zoll-/Produktpiraterierecht gesondert prüfen.
+- DSGVO/KUG/Strafrecht beachten, wenn Personen, private Räume, heimliche Aufnahmen oder Kommunikationsinhalte dokumentiert werden.
+- Plattform- und Browserdaten sind flüchtig: Originaldateien, Metadaten, Hashwerte und Zeugenvermerk sichern.
+
 ## Intake
 
 - Fundort: Shop, Plattform, Messe, Social Media, Ladengeschäft, Import.
@@ -23,6 +30,8 @@ Sichere Markenverletzungen so, dass Abmahnung, einstweilige Verfügung, Klage, Z
 3. **Testkauf:** Neutraler Käufer, Zahlungsweg, Lieferadresse, Verpackung, Rechnung, Sendungsverfolgung, Entpackungsprotokoll.
 4. **Chain of Custody:** Wer hatte wann welche Ware? Fotos, Siegel, Lagerort, Muster.
 5. **Anlagenfähigkeit:** K-Anlagen sauber benennen, keine unlesbaren Collagen, Originaldateien sichern.
+6. **Zeugenfähigkeit:** Testkäufer, Paketöffner und Fotograf sollten später erklären können, was sie wann gesehen und getan haben.
+7. **Eiltempo:** Dringlichkeit nicht durch wochenlange interne Beweissammelroutine selbst widerlegen.
 
 ## Output
 

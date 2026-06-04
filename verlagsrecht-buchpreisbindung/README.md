@@ -50,7 +50,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `allgemein` | Verlagsrecht und Buchpreisbindung: eleganter Kaltstart, Aktenlandkarte, Spezialskill-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
 | `verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis` | Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen. |
-| `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-rueckruf` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. |
+| `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. |
 | `verl-003-autor-herausgeber-mitwirkende-rechtekette` | Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG. |
 | `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug` | Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge. |
 | `verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung` | Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft. |

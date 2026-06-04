@@ -11,17 +11,21 @@ Für GmbH, KG, Vereine und Konzernstrukturen.
 
 ## Norm- und Quellenanker
 
-GwG Transparenzregistervorschriften live prüfen; Transparenzregisterportal.
+- GwG §§ 18 bis 26a: Transparenzregister, Angaben, Mitteilungspflichten, Einsicht, Unstimmigkeitsmeldung und Bußgeldrisiko.
+- GwG § 3 für wirtschaftlich Berechtigte; bei Stiftungen, Treuhand, KG/KGaA und mehrstufigen Beteiligungen besonders sorgfältig.
+- Transparenzregisterportal, Gebühren und BVA/BfJ-Praxis live prüfen; alte Meldefiktion nicht ungeprüft fortschreiben.
 
 ## Arbeitsfragen
 
-1. Wer ist wirtschaftlich berechtigt?
-2. Welche Änderungen seit letzter Meldung?
-3. Gibt es Unstimmigkeitsmeldung?
+1. Wer hält unmittelbar/mittelbar Eigentum, Kontrolle, Stimmrechte oder sonstige beherrschende Einflussmöglichkeiten?
+2. Sind fiktiv wirtschaftlich Berechtigte zu melden, weil kein echter UBO ermittelbar ist?
+3. Welche Änderungen seit letzter Meldung: Anteilskauf, Erbfall, Treuhand, Satzungsänderung, Geschäftsführerwechsel, Registerberichtigung?
+4. Gibt es Unstimmigkeitsmeldung, Behördenrückfrage oder Einsichtsantrag?
+5. Stimmen Handelsregister, Gesellschafterliste, Beteiligungsverträge, Pooling/Treuhand und Transparenzregister überein?
 
 ## Output
 
-UBO-Matrix und Portal-Abgabecheck.
+UBO-Matrix mit Beteiligungspfad, Kontrollgrund, GwG-Angabe, Beleg, Portalstatus, Unstimmigkeitsrisiko und Bußgeldprävention.
 
 ## Red Flags
 

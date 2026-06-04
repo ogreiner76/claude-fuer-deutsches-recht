@@ -11,13 +11,19 @@ Für Mandate nach Zahlung eines Versicherers oder Sozialversicherungsträgers.
 
 ## Norm- und Quellenanker
 
-VVG § 86; SGB X § 116; BGB; ZPO.
+- VVG § 86 für Übergang von Ersatzansprüchen auf den Versicherer und Schutz des Versicherungsnehmers.
+- SGB X § 116 für Sozialversicherungsträgerregress; Quotenvorrecht und Kongruenz besonders prüfen.
+- BGB §§ 249 ff., 426, 823 ff. je nach Haftungsgrund; ZPO für Streitverkündung, Klage und Beweis.
+- Verjährung nach übergegangenem Anspruch, Kenntnislage und Hemmung gesondert bestimmen; keine pauschale Drei-Jahres-Schablone.
 
 ## Arbeitsfragen
 
 1. Welche Forderung ist übergegangen?
 2. Welche Eigenansprüche bleiben?
 3. Welche Verjährung/Rechtsverfolgung?
+4. Sind Schadenpositionen kongruent: Sachschaden, Personenschaden, Verdienstausfall, Heilbehandlung, Pflege, Haushaltsführung?
+5. Hat ein Vergleich, Abfindung, Erlass oder Anerkenntnis den Regress beeinträchtigt?
+6. Besteht ein Familien-/Haushaltsprivileg oder arbeitsrechtliches Haftungsprivileg?
 
 ## Output
 

@@ -48,62 +48,62 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Weltraumrecht: eleganter Kaltstart, Aktenlandkarte, Spezialskill-Routing, Quellenhygiene und erste verwertbare Ausgabe. |
-| `space-001-kaltstart-weltraummandat-quellenkarte-und-risikocockpit` | Kaltstart Weltraummandat – Quellenkarte, Risikocockpit und Akteurskarte für jede Weltraumrechts-Anfrage. |
-| `space-002-outer-space-treaty-grundprinzipien-nichtaneignung-und-nationale-verantwortung` | OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht. |
-| `space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-verschuldenshaftung-im-all` | Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren. |
-| `space-004-registrierungsuebereinkommen-register-staat-zustaendigkeit-kontrolle` | Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. |
+| `space-001-kaltstart-weltraummandat-quellenkarte-und-risikocockpi` | Kaltstart Weltraummandat – Quellenkarte, Risikocockpit und Akteurskarte für jede Weltraumrechts-Anfrage. |
+| `space-002-outer-space-treaty-grundprinzipien-nichtaneignung-und` | OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht. |
+| `space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers` | Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren. |
+| `space-004-registrierungsuebereinkommen-register-staat-zustaendig` | Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. |
 | `space-005-astronautenrettung-rueckgabe-und-statusfragen` | Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer. |
-| `space-006-mondvertrag-ressourcen-governance-und-politische-akzeptanz` | Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen. |
+| `space-006-mondvertrag-ressourcen-governance-und-politische-akzep` | Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen. |
 | `space-007-artemis-accords-und-verhaeltnis-zu-un-vertraegen` | Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion. |
-| `space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsrisiko` | Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken. |
-| `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versicherung-aufsicht` | Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht. |
-| `space-010-satellitenschwarm-ueber-deutschland-frequenz-kollisions-und-datenschutzrisiken` | Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. |
+| `space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsr` | Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken. |
+| `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche` | Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht. |
+| `space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision` | Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. |
 | `space-011-starlink-oneweb-iris2-und-oeffentliche-beschaffung` | Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie. |
-| `space-012-weltraumbahnhof-deutschland-standortwahl-kueste-umwelt-und-sicherheit` | Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung. |
-| `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerecht` | Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. |
-| `space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-staatshaftung` | Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung. |
+| `space-012-weltraumbahnhof-deutschland-standortwahl-kueste-umwelt` | Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung. |
+| `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec` | Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. |
+| `space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta` | Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung. |
 | `space-015-weltraummuell-debris-mitigation-und-betreiberpflichten` | Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten. |
 | `space-016-on-orbit-servicing-andocken-reparatur-und-haftung` | On-Orbit Servicing (OOS) – rechtliche Qualifikation, Andockgenehmigung, Haftung, Eigentumsübergang. |
 | `space-017-space-traffic-management-und-kollisionswarnungen` | Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST. |
-| `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferenz` | Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. |
-| `space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenrecht` | Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. |
+| `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen` | Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. |
+| `space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre` | Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. |
 | `space-020-militaerische-nutzung-dual-use-und-friedensgebot` | Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle. |
 | `space-021-satellitenbilder-als-beweismittel-vor-gericht` | Satellitenbilder als Beweismittel – Verwertbarkeit, Authentizität, Metadaten, DSGVO, Geheimschutz. |
-| `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und-medizinische-fragen` | Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. |
-| `space-023-astronautenausbildung-vertrag-haftung-versicherung-und-fuersorge` | Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge. |
+| `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und` | Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. |
+| `space-023-astronautenausbildung-vertrag-haftung-versicherung-und` | Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge. |
 | `space-024-suborbitalflug-luftrecht-oder-weltraumrecht` | Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht. |
-| `space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-agb` | Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen. |
-| `space-026-space-mining-ressourcenrechte-eigentum-und-sicherheiten` | Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten. |
-| `space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sicherungsuebereignung` | Sachenrecht für Satelliten – nationales Register, Pfandrechte, Cape-Town-Protokoll, Sicherungsübereignung. |
-| `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und-step-in-rechte` | Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. |
-| `space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz-und-betrieb` | Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung. |
+| `space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-ag` | Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen. |
+| `space-026-space-mining-ressourcenrechte-eigentum-und-sicherheite` | Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten. |
+| `space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sich` | Sachenrecht für Satelliten – nationales Register, Pfandrechte, Cape-Town-Protokoll, Sicherungsübereignung. |
+| `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und` | Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. |
+| `space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz` | Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung. |
 | `space-030-versicherung-launch-in-orbit-third-party-liability` | Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver. |
-| `space-031-cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallplan` | Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution. |
-| `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infrastruktur` | Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. |
-| `space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttechnik` | Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren. |
+| `space-031-cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp` | Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution. |
+| `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr` | Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. |
+| `space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech` | Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren. |
 | `space-034-sanktionen-raumfahrtkooperation-russland-china-iran` | Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance. |
 | `space-035-public-private-partnership-raumfahrtmission` | PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien. |
 | `space-036-vergaberecht-raumfahrtauftrag-esa-dlr-eu` | Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien. |
-| `space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfluesse` | ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen. |
+| `space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfl` | ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen. |
 | `space-038-dlr-projekt-vertrag-ip-und-haftung` | DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten. |
-| `space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-versicherung` | CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm. |
+| `space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-ver` | CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm. |
 | `space-040-amateurfunk-satellit-und-frequenznutzung` | Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA. |
 | `space-041-remote-sensing-lizenz-rohdaten-und-sensible-orte` | Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO. |
 | `space-042-gnss-galileo-haftung-und-dienstqualitaet` | Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang. |
 | `space-043-weltraumwetter-solarsturm-und-betreiberpflichten` | Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung. |
 | `space-044-planetary-protection-kontaminationsvermeidung` | Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen. |
 | `space-045-weltraummedizin-probandenrecht-ethik-und-haftung` | Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler. |
-| `space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherheit` | Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. |
-| `space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskauf` | Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten. |
-| `space-048-satellitenkonstellation-wettbewerbsrecht-und-marktabschottung` | Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht. |
+| `space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe` | Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. |
+| `space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskau` | Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten. |
+| `space-048-satellitenkonstellation-wettbewerbsrecht-und-marktabsc` | Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht. |
 | `space-049-weltraumdaten-datenbankrecht-und-ai-training` | Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz. |
-| `space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-nachbarrecht` | Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. |
+| `space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-n` | Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. |
 | `space-051-umweltpruefung-startanlage-flora-fauna-wasserrecht` | Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht. |
 | `space-052-planfeststellung-raumfahrtinfrastruktur` | Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz. |
-| `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk-und-dlr` | Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. |
+| `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk` | Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. |
 | `space-054-haftung-fuer-herabfallende-raketenstufen` | Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast. |
 | `space-055-internationale-kooperation-memorandum-of-understanding` | MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. |
-| `space-056-raumfahrtvertrag-mit-startdienstleister-launch-services-agreement` | Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window. |
+| `space-056-raumfahrtvertrag-mit-startdienstleister-launch-service` | Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window. |
 | `space-057-nutzlastvertrag-payload-integration-und-schnittstellen` | Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken. |
 | `space-058-force-majeure-im-raumfahrtprojekt` | Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz. |
 | `space-059-change-control-engineering-und-rechtsfolgen` | Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung. |
@@ -116,14 +116,14 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `space-066-drohnen-und-high-altitude-platform-abgrenzung` | Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen. |
 | `space-067-ballonmission-stratosphaere-genehmigung` | Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht. |
 | `space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung` | Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen. |
-| `space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voelkerrecht` | Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. |
+| `space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe` | Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. |
 | `space-070-national-appropriation-versus-resource-extraction` | Nationale Aneignung vs. Ressourcenextraktion – OST Art. II, US SPACE Act, Luxemburger Recht, Praxisfälle. |
-| `space-071-lunar-base-governance-safety-zones-und-interoperabilitaet` | Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke. |
+| `space-071-lunar-base-governance-safety-zones-und-interoperabilit` | Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke. |
 | `space-072-mars-sample-return-haftung-quarantaene-und-importrecht` | Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung. |
-| `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-time` | Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. |
+| `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim` | Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. |
 | `space-074-orbit-slot-verwertung-sicherheiten-und-streit` | Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. |
 | `space-075-satellitenabschaltung-deorbit-und-end-of-life-plan` | End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung. |
-| `space-076-konstellation-und-lichtverschmutzung-astronomie-einwendungen` | Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe. |
+| `space-076-konstellation-und-lichtverschmutzung-astronomie-einwen` | Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe. |
 | `space-077-menschenrechte-und-ueberwachung-durch-satelliten` | Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung. |
 | `space-078-katastrophenschutz-mit-satellitendaten` | Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. |
 | `space-079-maritime-satellitendienste-und-schiffssicherheit` | Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen. |
@@ -137,7 +137,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `space-087-internationale-streitbeilegung-diplomatischer-schutz` | Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht. |
 | `space-088-standardvertragsklauseln-fuer-raumfahrtdaten` | Standard-Vertragsklauseln für Raumfahrtdaten – DSGVO SCC, Datentransfer, Copernicus-Datenpolitik. |
 | `space-089-nationale-weltraumregister-eintragung-und-nachweise` | Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen. |
-| `space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfang` | Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg. |
+| `space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfan` | Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg. |
 | `space-091-raumfahrt-und-versicherungsaufsicht` | Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung. |
 | `space-092-red-team-space-mission-legal-readiness` | Red-Team-Analyse für Weltraummissionen – rechtliche Schwachstellen, adversariale Szenarien. |
 | `space-093-board-memo-raumfahrt-haftung-und-versicherung` | Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. |

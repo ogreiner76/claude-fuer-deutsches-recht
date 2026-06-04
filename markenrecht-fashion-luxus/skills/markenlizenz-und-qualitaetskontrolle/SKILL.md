@@ -9,6 +9,14 @@ description: "Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklu
 
 Gestalte oder prüfe Markenlizenzen so, dass Schutzrecht, Marke, Vertrieb und Qualität zusammenpassen.
 
+## Normanker
+
+- MarkenG §§ 30 ff. für Markenlizenz, Rechtsstellung des Lizenznehmers und Registerfragen.
+- MarkenG §§ 14, 18, 19 für Durchsetzung durch Lizenzgeber/Lizenznehmer; Prozessführungsbefugnis ausdrücklich regeln.
+- BGB §§ 305 ff., 307, 314, 320 ff. für AGB-Kontrolle, Kündigung, Leistungsstörung und Zurückbehaltung.
+- Kartellrecht Art. 101 AEUV/GWB und Vertikal-GVO (EU) 2022/720 bei Exklusivität, Gebiet, Mindestumsatz, Preisvorgaben und Onlinevertrieb.
+- Insolvenz- und Steuerfolgen gesondert prüfen, wenn Lizenz konzernintern, sicherungsrelevant oder werttragend ist.
+
 ## Intake
 
 - Lizenzgeber, Lizenznehmer, Konzernbezug, Territorium, Markenliste.
@@ -24,6 +32,8 @@ Gestalte oder prüfe Markenlizenzen so, dass Schutzrecht, Marke, Vertrieb und Qu
 4. **Durchsetzung:** Wer darf klagen, wer trägt Kosten, Informationspflicht bei Verletzung.
 5. **Beendigung:** Sell-off, Rückgabe von Materialien, Domains/Handles, Unterlassung, Löschung von Listings.
 6. **Insolvenz und Asset Deal:** Fortbestand, Übertragbarkeit, Change of Control, Sicherungsrechte.
+7. **Qualitätsdurchgriff:** Brand Guidelines, Musterfreigabe, Audit, Rückruf und Lieferantenfreigabe so formulieren, dass Kontrolle praktisch ausübbar bleibt.
+8. **Royalty-Controlling:** Reporting, Buchprüfung, Mindestgarantie, Währung, Quellensteuer und Transfer Pricing nicht in einer Pauschalklausel verstecken.
 
 ## Output
 

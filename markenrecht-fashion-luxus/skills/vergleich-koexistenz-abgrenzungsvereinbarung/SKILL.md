@@ -9,6 +9,13 @@ description: "Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenre
 
 Gestalte Vergleiche, die Markenstreitigkeiten wirklich befrieden und nicht den nächsten Konflikt schon einbauen.
 
+## Normanker
+
+- MarkenG §§ 14, 15, 27, 30, 42, 49 ff. je nach Vergleichsgegenstand: Verletzung, Übertragung/Lizenz, Widerspruch, Verfall/Nichtigkeit.
+- BGB §§ 779, 133, 157, 241 Abs. 2, 280 für Vergleich, Auslegung, Nebenpflichten und Vertragsverletzung.
+- Kartellrecht Art. 101 AEUV/GWB prüfen, wenn Marktaufteilung, Preisbindung, Bezugsbindung oder Onlinevertriebsbeschränkung faktisch vereinbart werden.
+- DPMA/EUIPO-Registerhandlungen und Fristen live prüfen; Vergleichsschluss ersetzt keine Registererklärung.
+
 ## Intake
 
 - Parteien, Zeichen, Register, Territorien, Waren/Dienstleistungen.
@@ -24,6 +31,8 @@ Gestalte Vergleiche, die Markenstreitigkeiten wirklich befrieden und nicht den n
 4. **Online:** Domains, SEO, Keywords, Hashtags, Social Handles, App Stores, Marktplätze.
 5. **Sanktionen:** Vertragsstrafe, Nachfrist, Cure Period, Monitoring, Auskunft.
 6. **Zukunft:** Konzernwechsel, Lizenznehmer, neue Produktlinien, internationale Expansion.
+7. **Durchgriff:** Verbundene Unternehmen, Geschäftsführer, Lizenznehmer, Händler und Plattformagenturen ausdrücklich einbeziehen oder bewusst ausnehmen.
+8. **Kartellhygiene:** Koexistenz darf Zeichenkonflikt lösen, aber nicht heimlich Märkte oder Preise koordinieren.
 
 ## Output
 

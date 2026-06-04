@@ -11,23 +11,31 @@ Für Handwerk, Produktion und Büro mit Arbeitsschutzpflichten.
 
 ## Norm- und Quellenanker
 
-ArbSchG; BetrSichV; GefStoffV; DGUV-Regeln.
+- ArbSchG §§ 5, 6, 12 für Gefährdungsbeurteilung, Dokumentation und Unterweisung.
+- BetrSichV für Arbeitsmittel, Prüfungen, befähigte Personen und Explosionsschutz, wenn Maschinen/Anlagen betroffen sind.
+- GefStoffV für Gefahrstoffverzeichnis, Betriebsanweisung, Exposition und Unterweisung bei Chemikalien, Asbest, Lösemitteln, Reinigern.
+- DGUV-Vorschriften/Regeln als Praxismaßstab; nicht als Gesetz zitieren, aber als konkretisierende Arbeitsschutzlogik nutzen.
 
 ## Arbeitsfragen
 
-1. Welche Tätigkeit/Gefährdung?
-2. Welche Unterweisung wann?
-3. Welche Prüfintervalle?
+1. Welche Tätigkeit, welcher Arbeitsplatz, welche Personengruppe: Büro, Werkstatt, Baustelle, Lager, Minderjährige, Schwangere, Leiharbeit, Fremdfirmen?
+2. Welche Gefährdungsbeurteilung liegt zugrunde, und wann wurde sie zuletzt aktualisiert?
+3. Welche Unterweisung ist erforderlich: Erstunterweisung, jährliche Wiederholung, Anlassunterweisung nach Unfall/neuer Maschine/neuem Stoff?
+4. Welche Betriebsanweisungen, Prüfprotokolle und Qualifikationsnachweise gehören dazu?
+5. Wie werden digitale Unterweisungen, Verständnisfragen, Nachfragen und Nachunterweisungen dokumentiert?
 
 ## Output
 
-Unterweisungs- und Nachweisordner.
+Unterweisungs- und Nachweisordner mit Gefährdung, Rechtsgrundlage, Teilnehmerkreis, Inhalt, Sprache, Datum, Prüfer/Freigeber, Wiederholungsfrist und Unfall-/Behördenbezug.
 
 ## Red Flags
 
 - Unterschriftenliste ohne Inhalt
 - neue Mitarbeiter vergessen
 - Prüffristen fehlen
+- Unterweisung in deutscher Sprache, obwohl Beschäftigte sie nicht verstehen
+- Fremdfirmen und Leiharbeitnehmer fallen durch das Raster
+- Unfall passiert und die passende Gefährdungsbeurteilung ist nicht aktualisiert
 
 ## Arbeitsstil
 

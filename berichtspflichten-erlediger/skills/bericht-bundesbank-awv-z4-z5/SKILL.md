@@ -11,17 +11,21 @@ Für Mittelständler mit Auslandskonten, Gesellschaftern, Darlehen oder Dienstle
 
 ## Norm- und Quellenanker
 
-AWG/AWV; Bundesbank-Meldehinweise live prüfen.
+- AWG/AWV, besonders AWV §§ 66 ff. für Bestandsmeldungen und AWV § 67 für Zahlungsmeldungen; Formulare/Schwellen live bei der Bundesbank prüfen.
+- Bundesbank-AMS, Z4/Z5/Z5a/Z10-Systematik, XML-Umstellungen und Meldefristen live prüfen; Banküberweisung ersetzt keine Meldung.
+- Steuer, Geldwäsche, Sanktionen und Transfer Pricing nur als Parallelrisiken markieren, nicht mit AWV-Meldung vermischen.
 
 ## Arbeitsfragen
 
-1. Welche Zahlung/Forderung und welches Land?
-2. Welche Schwelle und Meldeformular?
-3. Wer hat Bank-/Treasury-Daten?
+1. Welche Zahlung, Forderung, Verbindlichkeit, Beteiligung, Darlehen, Dienstleistung oder Wertpapiertransaktion mit Gebietsfremden?
+2. Welche Schwelle, Periode, Formular und Kennzahl nach Bundesbank-Leistungsverzeichnis?
+3. Wer hat Daten: Bank, Treasury, Accounting, Intercompany, Legal, Tax?
+4. Gibt es meldefreie Vorgänge, Sammelmeldungen oder bereits falsch abgegebene Meldungen?
+5. Stimmen AWV-Meldungen mit Bankkonten, Intercompany-Verträgen, Darlehenslisten und Jahresabschluss überein?
 
 ## Output
 
-AWV-Meldecheck und Fristenkalender.
+AWV-Meldecheck mit Vorgang, Gebietsfremdenbezug, Schwelle, Formular, Kennzahl, Datenquelle, AMS-Nachweis, Korrekturpfad und Fristenkalender.
 
 ## Red Flags
 

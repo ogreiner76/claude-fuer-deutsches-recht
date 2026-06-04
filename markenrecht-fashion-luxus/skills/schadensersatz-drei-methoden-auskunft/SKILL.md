@@ -9,6 +9,13 @@ description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete 
 
 Bereite die wirtschaftliche Seite einer Markenverletzung vor: Auskunft, Schadensmethode, Streitwert, Vergleichsfenster und Vollstreckbarkeit.
 
+## Normanker
+
+- MarkenG §§ 14, 15 für Verletzung und Unterlassung; MarkenG § 19 für Auskunft, § 18 für Vernichtung/Rückruf/Entfernung, § 14 Abs. 6 für Schadensersatz.
+- BGB §§ 249 ff. für konkrete Schadensberechnung; Bereicherungs- und GoA-Gedanken nur hilfsweise sauber begründen.
+- ZPO § 254 für Stufenklage, wenn Auskunft/Rechnungslegung vor Bezifferung nötig ist.
+- Rechtsprechung zu Lizenzanalogie, Verletzergewinn und Gemeinkosten nur mit Gericht, Datum, Aktenzeichen und freier Quelle zitieren.
+
 ## Intake
 
 - Verletzungshandlung, Zeitraum, Stückzahlen, Kanäle, Preise.
@@ -24,6 +31,8 @@ Bereite die wirtschaftliche Seite einer Markenverletzung vor: Auskunft, Schadens
 4. **Lizenzanalogie:** Vergleichslizenzen, Marktüblichkeit, Bekanntheit, Territorium, Produktnähe, Dauer.
 5. **Verletzergewinn:** Kausal zurechenbarer Gewinn, Gemeinkostenstreit, Markenanteil.
 6. **Vergleich:** Risikoabschlag, Kosten, Unterlassungswert, Informationsdefizit.
+7. **Zins/Kosten:** Abmahnkosten, Prozesszinsen, Auskunftskosten und Vergleichsmehrwert getrennt darstellen.
+8. **Beweisnot:** Wenn Plattformdaten fehlen, Antrag auf Belegvorlage/Auskunft nicht durch geschätzte Umsätze ersetzen.
 
 ## Output
 

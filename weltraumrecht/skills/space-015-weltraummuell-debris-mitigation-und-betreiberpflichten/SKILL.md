@@ -1,5 +1,5 @@
 ---
-name: space-015-weltraummuell-debris-mitigation-und-betreiberpflichte
+name: space-015-weltraummuell-debris-mitigation-und-betreiberpflichten
 description: "Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten."
 ---
 

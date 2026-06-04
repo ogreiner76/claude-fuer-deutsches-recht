@@ -11,23 +11,31 @@ Für Eigentümer, Hausverwaltungen und Betriebe mit Trinkwasseranlagen.
 
 ## Norm- und Quellenanker
 
-TrinkwV; IfSG; Landesgesundheitsbehörden live prüfen.
+- TrinkwV § 31 für Untersuchungspflichten in Bezug auf Legionella spec.
+- TrinkwV § 51 für Handlungspflichten bei Erreichen des technischen Maßnahmenwerts, insbesondere Risikoabschätzung, Maßnahmen und Information.
+- IfSG nur ziehen, wenn Gesundheitsamt, Infektionsschutzmaßnahme oder konkrete Gefahr für Nutzer betroffen ist.
+- UBA-Empfehlungen, Landesgesundheitsbehörden und lokale Merkblätter live prüfen; sie konkretisieren Probenahme, Gefährdungsanalyse und Kommunikation praktisch.
 
 ## Arbeitsfragen
 
-1. Welche Anlage?
-2. Welche Untersuchungspflicht?
-3. Welche Grenzwertüberschreitung?
+1. Welche Wasserversorgungsanlage: Gebäudewasserversorgung, mobile/zeitweilige Anlage, öffentliche oder gewerbliche Tätigkeit?
+2. Liegt eine Großanlage zur Trinkwassererwärmung vor und wird Wasser an Dritte abgegeben?
+3. Welche Probenahmestellen, Laborbefunde, Datum, technischer Maßnahmenwert und Laborakkreditierung liegen vor?
+4. Wer ist Betreiber: Eigentümer, WEG, Hausverwaltung, Pächter, Arbeitgeber, Hotel/Kita/Pflegeheim?
+5. Welche Sofortmaßnahmen sind nötig: Nutzerinformation, Duschverbot, Spülplan, technische Prüfung, Sanierung, Nachbeprobung?
 
 ## Output
 
-Trinkwasser-Melde- und Maßnahmenplan.
+Trinkwasser-Melde- und Maßnahmenplan mit Betreiberrolle, Befundtabelle, Gesundheitsamt-Kontakt, Nutzerinformation, Gefährdungsanalyse, Sanierungsfahrplan und Nachbeprobung.
 
 ## Red Flags
 
 - Prüffrist verpasst
 - Mieter nicht informiert
 - Sanierung nicht dokumentiert
+- Laborbefund liegt vor, aber Betreiber wartet auf "zweite Meinung" statt Handlungspflichten zu starten
+- WEG/Hausverwaltung streiten intern, während Nutzerinformation und Gesundheitsamtfrist laufen
+- Probenahme war nicht systemisch verwertbar, wird aber als Entwarnung verkauft
 
 ## Arbeitsstil
 

@@ -11,17 +11,22 @@ Für Unternehmen mit Energieaudit- oder Managementpflichten.
 
 ## Norm- und Quellenanker
 
-EDL-G; EnEfG; BAFA-Hinweise live prüfen.
+- EDL-G §§ 8 ff. für Energieauditpflichten, Nicht-KMU-Prüfung und Anforderungen an Energieauditoren.
+- EnEfG für Energie-/Umweltmanagementsysteme, Umsetzungspläne und Energieeffizienzanforderungen bei relevanten Verbrauchsschwellen.
+- BAFA-Merkblätter, Online-Erklärungen und Stichprobenkontrollen live prüfen; ISO 50001/EMAS-Nachweise sauber ablegen.
+- Konzern-KMU-Prüfung nach EU-KMU-Logik: verbundene und Partnerunternehmen nicht vergessen.
 
 ## Arbeitsfragen
 
-1. KMU oder Nicht-KMU?
-2. Wann letztes Audit?
-3. Welche Umsetzungs-/Meldepflicht?
+1. KMU oder Nicht-KMU unter Einbeziehung von Konzern, Beteiligungen und ausländischen Einheiten?
+2. Wann letztes Audit, welche Standorte, Energieverbräuche, wesentlichen Verbraucher, Auditbericht?
+3. Ersetzt ISO 50001/EMAS das Audit, und ist das Zertifikat für den richtigen Geltungsbereich gültig?
+4. Welche wirtschaftlichen Maßnahmen, Umsetzungspläne und Geschäftsleitungsentscheidungen sind dokumentiert?
+5. Welche BAFA-Erklärung, Frist, Stichprobe oder Nachforderung läuft?
 
 ## Output
 
-Energieaudit-Complianceplan.
+Energieaudit-Complianceplan mit KMU-Prüfung, Verbrauchsdaten, Audit-/Managementsystemstatus, Maßnahmenliste, BAFA-Fristen, Nachweisen und Verantwortlichen.
 
 ## Red Flags
 

@@ -1,5 +1,5 @@
 ---
-name: space-072-mars-sample-return-haftung-quarantaene-und-importrech
+name: space-072-mars-sample-return-haftung-quarantaene-und-importrecht
 description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung."
 ---
 

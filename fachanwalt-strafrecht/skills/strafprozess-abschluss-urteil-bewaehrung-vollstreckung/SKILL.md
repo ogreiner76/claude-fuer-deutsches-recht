@@ -9,6 +9,14 @@ description: "Abschlussworkflow nach Urteil, Einstellung oder Verständigung: si
 
 Nach dem Urteil ist die Verteidigung nicht fertig. Dieser Skill sichert die Übergabe in Rechtsmittel, Bewährung, Vollstreckung oder Aktenabschluss.
 
+## Normanker
+
+- StPO §§ 312 ff., 333 ff., 341, 344, 345 für Berufung/Revision und Fristen; Rechtsmittelfrist sofort mit Verkündung/Zustellung abgleichen.
+- StPO §§ 35a, 44 ff. für Belehrung und Wiedereinsetzung, wenn Fristen/Belehrungen problematisch sind.
+- StGB §§ 56 ff., 56b, 56c, 56f für Bewährung, Auflagen, Weisungen und Widerruf.
+- StGB §§ 73 ff. für Einziehung; JGG, StVollstrO, BZRG und Fahrerlaubnisrecht je nach Nebenfolge gesondert prüfen.
+- Kosten: StPO/KostR und Honorarvereinbarung trennen; Mandantenbrief muss Zahlungspflichten, Rechtsmittel und Bewährung verständlich erklären.
+
 ## Sofort nach Entscheidung
 
 - Entscheidungstenor notieren.
@@ -17,6 +25,8 @@ Nach dem Urteil ist die Verteidigung nicht fertig. Dieser Skill sichert die Übe
 - Mandantenwillen abfragen.
 - Nebenfolgen prüfen: Fahrverbot, Entziehung, Einziehung, Bewährung, Auflagen, Adhäsion, Kosten.
 - Zahlungs- und Meldefristen notieren.
+- Bei Abwesenheit/Zustellung: Fristbeginn nicht raten, sondern Zustellungsurkunde, Empfangsbekenntnis und Protokoll prüfen.
+- Bei Verständigung: Protokollierung, Belehrung, Rechtsmittelverzicht und Bindungsfragen gesondert dokumentieren.
 
 ## Abschlussblatt
 
@@ -46,6 +56,9 @@ Prüfe:
 - Therapie-/Beratungsnachweise?
 - Widerrufsrisiko?
 - Folgekommunikation mit Mandant?
+- Was genau ist Auflage, was Weisung, was bloße Empfehlung?
+- Muss Zahlung in Raten beantragt oder Unzumutbarkeit belegt werden?
+- Gibt es neue Verfahren, die Widerruf nach StGB § 56f auslösen können?
 
 ## Aktenabschluss
 

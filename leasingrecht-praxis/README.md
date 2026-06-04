@@ -52,16 +52,16 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `lease-002-finanzierungsleasing-oder-operating-lease-einordnen` | Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen. |
 | `lease-003-agb-klauseln-im-leasingvertrag-pruefen` | AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing. |
 | `lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel` | Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit. |
-| `lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueckgabe` | Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit. |
+| `lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueck` | Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit. |
 | `lease-006-flottenleasing-schaden-minderwert-und-gutachten` | Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse. |
 | `lease-007-maschinenleasing-abnahme-wartung-und-stillstand` | Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe. |
 | `lease-008-it-leasing-hardware-software-cloud-bundle` | IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung. |
 | `lease-009-medizintechnik-leasing-regulatorische-wartung` | Medizintechnik-Leasing: MDR/IVDR-Anforderungen, Wartung, Betreiberverantwortung, Zulassung und Haftung bei Fehlfunktion. |
-| `lease-010-sale-and-lease-back-liquiditaet-und-insolvenzanfechtung` | Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung. |
+| `lease-010-sale-and-lease-back-liquiditaet-und-insolvenzanfechtun` | Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung. |
 | `lease-011-mietkauf-abgrenzung-eigentumsuebergang` | Mietkauf vs. Leasing: Abgrenzung, automatischer Eigentumsübergang, steuerliche und bilanzielle Folgen, AGB-Wirksamkeit. |
 | `lease-012-verbraucherleasing-widerruf-und-pflichtangaben` | Verbraucherleasing: §§ 506–509 BGB, Pflichtangaben, Widerrufsrecht, Folgen fehlerhafter Angaben und Muster-Widerrufsbelehrung. |
 | `lease-013-unternehmerleasing-gewaehrleistung-durchgriff` | Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit. |
-| `lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltnis` | Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. |
+| `lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn` | Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. |
 | `lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant` | Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast. |
 | `lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung` | Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung. |
 | `lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung` | Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. |

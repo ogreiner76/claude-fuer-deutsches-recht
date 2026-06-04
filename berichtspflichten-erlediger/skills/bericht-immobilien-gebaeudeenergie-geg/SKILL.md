@@ -11,23 +11,31 @@ Für Unternehmen mit Betriebsimmobilien.
 
 ## Norm- und Quellenanker
 
-GEG; Förderrecht live prüfen; Landesvollzug.
+- GEG §§ 47 ff. für Nachrüstung bestehender Gebäude, insbesondere oberste Geschossdecke/Leitungen je nach Fall.
+- GEG §§ 60 ff. und §§ 71 ff. für Heizungsprüfung, Heizungsoptimierung und Anforderungen an neue Heizungen live prüfen.
+- GEG §§ 79 ff. für Energieausweise, Vorlagepflichten, Aushang und Pflichtangaben in Immobilienanzeigen.
+- Förderrecht, kommunale Wärmeplanung, Landesvollzug und Bußgeldpraxis live prüfen; nicht aus alten Heizungsdebatten ableiten.
 
 ## Arbeitsfragen
 
-1. Welche Immobilie und Nutzung?
-2. Welche Ausweis-/Nachrüstpflicht?
-3. Welche Daten fehlen?
+1. Welche Immobilie: Wohn-/Nichtwohngebäude, gemischt genutzt, Denkmal, WEG, Betriebsgebäude, vermietet, verkauft, neu erworben?
+2. Welche Pflichten: Energieausweis, Aushang, Nachrüstung, Heizungsprüfung, hydraulischer Abgleich, Dämmung, Betreiber-/Eigentümerinformation?
+3. Welche Daten fehlen: Baujahr, Nutzfläche, Anlagenbuch, Energieträger, Verbrauchsdaten, Wartung, Wärmeplanung, Förderbescheid?
+4. Wer ist Adressat: Eigentümer, Vermieter, WEG, Verwalter, Erwerber, Mieter, Makler, Anlagenbetreiber?
+5. Was ist Frist, was ist nur Planungsstand, und welche Ausnahme muss belegt werden?
 
 ## Output
 
-GEG-Nachweischeck und Maßnahmenplan.
+GEG-Nachweischeck mit Pflicht, Norm, Adressat, Frist, Datenquelle, Ausnahme, Förderbezug, Mieter-/WEG-Kommunikation und Bußgeldrisiko.
 
 ## Red Flags
 
 - Energieausweis abgelaufen
 - Heizungstausch nicht dokumentiert
 - Mieterinformation fehlt
+- WEG-Beschluss und öffentlich-rechtliche Pflicht laufen auseinander
+- Förderzusage wird als Erfüllungsnachweis missverstanden
+- Energieausweis wird ausgestellt, obwohl die Datengrundlage sichtbar falsch oder veraltet ist
 
 ## Arbeitsstil
 
