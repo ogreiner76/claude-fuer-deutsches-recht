@@ -2,6 +2,10 @@
 
 Diese Akte gehört zum Plugin `roemisch-katholisches-kirchenrecht`. Sie enthält eine vielschichtige kirchenrechtliche und pastorale Lage rund um eine Pfarrei, das Ordinariat, eine Familie mit Kirchenaustritt, eine Ehefrage, Registervermerke, Katechese, Kirchensteuerkommunikation, Pfarrvermögen und mehrsprachige Schreiben.
 
+## Gesamt-PDF
+
+[Gesamt-PDF lesen](./gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf)
+
 ## Aktenstücke
 
 | Datei | Inhalt |
