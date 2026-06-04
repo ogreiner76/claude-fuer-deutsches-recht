@@ -1,46 +1,136 @@
 ---
 name: verl-042-preisbindungsstreit-unterlassung-und-auskunft
-description: "Verlagsrecht: Preisbindungsstreit Unterlassung und Auskunft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie."
 ---
 
-# Verlagsrecht: Preisbindungsstreit Unterlassung und Auskunft
+# Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Preisbindungsstreit Unterlassung und Auskunft** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill führt durch das **gerichtliche Verfahren** bei Preisbindungsstreitigkeiten: Unterlassungsklage, einstweilige Verfügung, Auskunftsanspruch und Schadensersatz. Er klärt Zuständigkeiten, Fristen, Beweisanforderungen und strategische Optionen für Verlage und Buchhandel.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG § 9 | Unterlassungs- und Schadensersatzansprüche | https://www.gesetze-im-internet.de/buchprg/__9.html |
+| BuchPrG § 10 | Klageberechtigung Börsenverein | https://www.gesetze-im-internet.de/buchprg/__10.html |
+| BuchPrG § 11 | Einstweiliger Rechtsschutz | https://www.gesetze-im-internet.de/buchprg/__11.html |
+| ZPO §§ 935–945 | Einstweilige Verfügung | https://dejure.org/gesetze/ZPO/935.html |
+| ZPO § 890 | Vollstreckung: Ordnungsgeld, Ordnungshaft | https://dejure.org/gesetze/ZPO/890.html |
+| GKG | Gerichtskostengesetz: Streitwert und Gerichtskosten | https://www.gesetze-im-internet.de/gkg/ |
 
-## Prüfprogramm
+## Gerichtszuständigkeit
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Sachliche Zuständigkeit
+- Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (§ 13 GVG i.V.m. BuchPrG).
+- Keine Amtsgerichts-Zuständigkeit.
+
+### Örtliche Zuständigkeit
+- **Allgemeiner Gerichtsstand**: Am Sitz des Beklagten (§ 17 ZPO).
+- **Besonderer Gerichtsstand für unerlaubte Handlungen** (§ 32 ZPO): Auch am Ort des Verstoßes (Lieferort, Serverstandort bei Online-Verstoß).
+- Vorzugsgerichte für Buchpreisbindung: LG Frankfurt am Main, LG Hamburg, LG München I — erfahrene Kammern für Preisbindungssachen.
+
+## Einstweilige Verfügung (§ 11 BuchPrG i.V.m. ZPO §§ 935 ff.)
+
+### Voraussetzungen
+- **Verfügungsanspruch**: Glaubhaftmachung des Preisbindungsverstoßes.
+- **Verfügungsgrund (Dringlichkeit)**: Online-Verstoß löst i.d.R. Dringlichkeit aus; 1-Monat-Frist ab Kenntnis (Dringlichkeitsvermutung erschüttert bei längerem Zuwarten).
+
+### Verfahren
+1. Antrag beim LG; kein zwingender Anwaltszwang, aber praktisch notwendig.
+2. Antragsteller legt eidesstattliche Versicherung bei (statt Zeugenbeweis).
+3. Gericht entscheidet ohne mündliche Verhandlung (ex parte) oder mit kurzer Verhandlung.
+4. Beschluss ergeht innerhalb von Tagen; Zustellung an Beklagten durch Gerichtsvollzieher.
+
+### Vollstreckung (§ 890 ZPO)
+- Zuwiderhandlung gegen Verfügung: Ordnungsgeld bis 250.000 €; Ordnungshaft bis 6 Monate.
+- Antrag auf Ordnungsmittel beim LG nach festgestelltem Verstoß.
+
+### Widerspruch (§ 924 ZPO)
+- Beklagter kann Widerspruch einlegen; dann mündliche Verhandlung.
+- Widerspruchsfrist: 2 Wochen.
+
+## Hauptsacheverfahren
+
+### Unterlassungsklage
+- Klage auf dauerhafte Unterlassung des Preisbindungsverstoßes.
+- Streitwert: Typisch 15.000–30.000 € für Buchpreisbindungssachen.
+- Beweislast: Kläger muss Verstoß beweisen; Beklagter muss Rechtmäßigkeit (z.B. Ausnahme § 6 BuchPrG) beweisen.
+
+### Schadensersatz (§ 9 Abs. 2 BuchPrG)
+- Voraussetzung: Verschulden des Verletzers.
+- Berechnung:
+  - Entgangener Gewinn des Klägers (schwer zu beziffern).
+  - Lizenzanalogie: Welche Lizenz hätte Verletzer zahlen müssen?
+  - Verletzergewinn: Wie viel hat Verletzer durch den Verstoß verdient?
+- Auskunftsanspruch: Kläger kann Auskunft über Umfang des Verstoßes verlangen (Stufenklage).
+
+## Auskunftsanspruch
+
+### Anspruchsgrundlage
+- § 9 BuchPrG i.V.m. allgemeinem Auskunftsanspruch.
+- Auskunft über: Anzahl verkaufter Exemplare unter dem gebundenen Preis; erzielte Preise; Herkunft der Exemplare.
+
+### Stufenklage (ZPO § 254)
+1. Stufe 1: Auskunft über Umfang des Verstoßes.
+2. Stufe 2: Eidesstattliche Versicherung der Richtigkeit der Auskunft.
+3. Stufe 3: Zahlung des sich aus der Auskunft ergebenden Schadensersatzbetrags.
+
+## Prozessstrategie
+
+### Für Kläger (Verlag / Buchhandel)
+- Erst einstweilige Verfügung für sofortigen Stopp; dann Hauptsache für Schadensersatz.
+- Testbestellung für Beweiszwecke.
+- VLB-Ausdruck als Urkundenbeweis für Ladenpreis.
+- Börsenverein einbeziehen (§ 10 BuchPrG): Entlastet Kläger.
+
+### Für Beklagten (Händler / Verlag)
+- Vorwurf-Sachverhalt intern aufklären: War Preis korrekt? Systemfehler?
+- Wenn Verstoß lag: Schnell korrigieren; Unterlassungserklärung unterzeichnen → Kosten minimieren.
+- Wenn kein Verstoß: Klage mit Ausnahme § 6 BuchPrG begründen; Beweislast liegt beim Kläger.
+
+## Verjährung
+
+- UWG § 11-ähnlich: Verjährungsfrist 6 Monate ab Kenntnis von Verstoß und Verletzer.
+- Ohne Kenntnis: 3 Jahre (§§ 195, 199 BGB).
+- **Wichtig**: Dringlichkeit für einstweilige Verfügung erlischt nach ca. 4–6 Wochen ohne Handeln.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Dringlichkeit verpasst**: Verlag wartet 6 Wochen mit dem Antrag → Gericht verneint Dringlichkeit → kein einstweiliger Rechtsschutz möglich.
+- **Falsche Zuständigkeit**: Antrag beim Amtsgericht statt Landgericht → unzuständig; Kosten; Zeitverlust.
+- **Schadensnachweis fehlt**: Schadensersatzklage ohne Auskunftsanspruch → Schaden nicht bezifferbar.
+- **Vollstreckungsfehler**: Verfügung zugestellt, aber Vollstreckung nicht beantragt → Zuwiderhandlung bleibt sanktionslos.
 
-## Output
+## Checkliste Preisbindungsstreit
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+### Vorbereitung
+- [ ] Verstoß dokumentiert (Screenshot, VLB, Testbestellung)
+- [ ] Anwalt eingeschaltet
+- [ ] LG-Zuständigkeit bestimmt
+- [ ] Dringlichkeitsfrist prüfen: Wann erstmals Kenntnis?
+
+### Antrag
+- [ ] Verfügungsantrag mit eidesstattlicher Versicherung eingereicht
+- [ ] Zustellung vollzogen
+
+### Nach Verfügungserlass
+- [ ] Verstoß-Monitoring aktiv (hat Antragsgegner aufgehört?)
+- [ ] Ordnungsmittelantrag bei Zuwiderhandlung
+
+## Quellenreferenzen
+
+- BuchPrG §§ 9–11: https://www.gesetze-im-internet.de/buchprg/
+- ZPO §§ 935–945: https://dejure.org/gesetze/ZPO/935.html
+- BGH „Buchpreisbindung-Schadensersatz" I ZR 125/03: https://www.bgh.de
+- OLG Frankfurt (Buchpreisbindung einstweilige Verfügung): https://openjur.de
+- Börsenverein, Klageberechtigung § 10 BuchPrG: https://www.boersenverein.de
+
+## Output-Formate
+
+- **Verfügungsantrags-Entwurf**: Vollständig mit Glaubhaftmachung
+- **Streitwert-Kalkulation**: Für Kostenschätzung
+- **Auskunftsklage-Stufenplan**: Stufe 1–3 mit Antragsformulierungen
+- **Widerspruchs-Schriftsatz** (für Beklagten)
+- **Monitoring-Protokoll** nach Verfügungserlass

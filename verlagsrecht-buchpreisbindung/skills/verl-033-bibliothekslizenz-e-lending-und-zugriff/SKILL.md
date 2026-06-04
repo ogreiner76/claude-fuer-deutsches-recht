@@ -1,46 +1,109 @@
 ---
 name: verl-033-bibliothekslizenz-e-lending-und-zugriff
-description: "Verlagsrecht: Bibliothekslizenz E-Lending und Zugriff mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung."
 ---
 
-# Verlagsrecht: Bibliothekslizenz E-Lending und Zugriff
+# Verl-033 · Bibliothekslizenz, E-Lending und Zugriff
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Bibliothekslizenz E-Lending und Zugriff** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Öffentliche und wissenschaftliche Bibliotheken haben besondere Rechte und Lizenzanforderungen für die Bereitstellung von E-Books. Dieser Skill klärt die Rechtslage beim E-Lending, die verschiedenen Lizenzmodelle, Preisbindungsfragen und aktuelle EU-Rechtsprechung zur digitalen Ausleihe.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 27 | Bibliothekstantieme: Vergütung für Verleih (körperliche Exemplare) | https://dejure.org/gesetze/UrhG/27.html |
+| UrhG § 19a | Recht der öffentlichen Zugänglichmachung (E-Book-Ausleihe) | https://dejure.org/gesetze/UrhG/19a.html |
+| UrhG § 52b | Wiedergabe an elektronischen Leseplätzen in Bibliotheken | https://dejure.org/gesetze/UrhG/52b.html |
+| BuchPrG §§ 5, 6 | Buchpreisbindung: Bibliotheken als Letztabnehmer | https://www.gesetze-im-internet.de/buchprg/ |
+| EuGH C-174/15 | Volksbank Digitale Ausleihe: Pflicht der Mitgliedstaaten zur E-Lending-Regelung | https://eur-lex.europa.eu |
+| DSM-RL Art. 8 | Vergriffene Werke und Bibliotheken | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
 
-## Prüfprogramm
+## Rechtslage E-Lending in Deutschland
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Grundprinzip
+- E-Books sind keine körperlichen Gegenstände; das Erschöpfungsprinzip (§ 17 UrhG) gilt **nicht** für digitale Inhalte.
+- Bibliothek darf E-Books nur ausleihen, wenn sie eine Lizenz vom Verlag hat.
+- Keine gesetzliche „Bibliotheksschranke" für digitale Ausleihe vergleichbar der körperlichen Ausleihe (§ 27 UrhG).
+
+### EuGH C-174/15 (Stichting Leenrecht / VOB, „Volksbank")
+- EuGH hat 2016 entschieden: Mitgliedstaaten können die digitale Ausleihe von E-Books durch Bibliotheken unter bestimmten Bedingungen dem Verleihrecht analog regeln.
+- Voraussetzungen: Bibliothek hat rechtmäßige Kopie; nur ein Nutzer gleichzeitig; nach Ausleihe kein Verbleib beim Nutzer; angemessene Vergütung.
+- Deutschland: Hat diese Regelung bisher nicht vollständig umgesetzt; E-Lending basiert auf vertraglichen Lizenzen.
+
+## E-Lending-Plattformen
+
+### Onleihe (DiViBib / ekz)
+- Größte E-Lending-Plattform in Deutschland; Konsortium öffentlicher Bibliotheken.
+- Lizenzierungsmodell: Bibliothek kauft Lizenz pro E-Book-Exemplar (single-copy model).
+- Ein Nutzer je Exemplar gleichzeitig; Ausleihdauer: 7, 14 oder 21 Tage.
+- Rückgabe: Automatisch nach Ablauf; kein Kopieren möglich.
+
+### OverDrive / Libby
+- Internationaler Anbieter; in Deutschland v.a. für wissenschaftliche Bibliotheken.
+- Verschiedene Lizenzmodelle: Per-Checkout, Metered Access (X Ausleihen gesamt), Perpetual Access.
+
+### Wissenschaftliche Bibliotheken: PDA / Patron-Driven Acquisition
+- Bibliothek lizenziert Pool von E-Books; Nutzer kann auf alle zugreifen; Bibliothek zahlt erst bei tatsächlicher Ausleihe.
+- Lizenzmodell vom Verlag definiert.
+
+## Lizenzmodelle für E-Lending
+
+| Modell | Beschreibung | Kosten | Für wen |
+|--------|-------------|--------|---------|
+| Single Copy | Eine Lizenz = ein Nutzer gleichzeitig | Pro Exemplar | Öffentliche Bibliotheken |
+| Multi-User | Mehrere Nutzer gleichzeitig (x gleichzeitige Nutzer) | Aufschlag auf Einzellizenz | Uni-Bibliotheken |
+| Metered Access | X Ausleihen gesamt, dann abgelaufen | Pauschal | Mittel-Bibliotheken |
+| Perpetual Access | Dauerhafter Zugang ohne Laufzeitbeschränkung | Einmalig | Große Bibliotheken |
+| Subscription | Jährliche Abonnement-Lizenz | Jahresgebühr | Hochschulkonsortien |
+
+## Preisbindung für Bibliothekslizenzen
+
+- Bibliotheken kaufen E-Book-Lizenzen, keine körperlichen Bücher → Preisbindung (BuchPrG) gilt streng genommen nicht für Lizenzverträge (nur für Bücher i.S.d. § 2 BuchPrG).
+- **Praxis**: Verlage setzen Bibliothekspreise für Lizenzen frei; keine BuchPrG-Bindung.
+- Für physische Bücher, die Bibliotheken kaufen: BuchPrG gilt; Bibliothek ist Letztabnehmer (§ 5 BuchPrG).
+
+## § 52b UrhG — Elektronische Leseplätze
+
+- Bibliotheken dürfen auf Terminals in Bibliotheksräumen urheberrechtlich geschützte Werke anzeigen.
+- Voraussetzung: Lizenzangebot des Verlags; Anzahl der Terminals ≤ Anzahl erworbener körperlicher Exemplare.
+- BGH „Elektronische Leseplätze II", I ZR 69/11: Kontext bestätigt; nur körperlich vorhandene Exemplare dürfen gleichzeitig angezeigt werden.
+
+## Vergriffene Werke und Bibliotheken (DSM-RL Art. 8)
+
+- DSM-RL Art. 8–11: Bibliotheken dürfen vergriffene Werke digitalisieren und zugänglich machen, wenn Rechteklärung erfolgt ist.
+- Deutschland: Umsetzung in § 61d ff. UrhG (Sonderregelung für Kultureinrichtungen).
+- Verlag kann Opt-Out erklären: „Mein Werk ist nicht vergriffen; keine Bibliotheksdigitalisierung."
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **E-Lending ohne Lizenz**: Bibliothek stellt E-Books ohne Verlagslizenz auf eigener Plattform bereit → Urheberrechtsverletzung (§ 97 UrhG).
+- **Single-Copy-Lizenz mit Multi-Zugang**: Bibliothek implementiert Plattform, die mehrere gleichzeitige Nutzer erlaubt → Vertragsverletzung.
+- **Preisbindung für physische Bücher an Bibliotheken**: Buchhandlung gewährt Bibliothek 15 % unter Ladenpreis ohne Verlagsfreigabe → Preisbindungsverstoß.
+- **§ 52b-Überschreitung**: Bibliothek zeigt mehr Terminals an als Buchexemplare vorhanden → Urheberrechtsverletzung.
 
-## Output
+## Checkliste Bibliothekslizenz
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Lizenzvertrag mit E-Lending-Plattform abgeschlossen (Onleihe, OverDrive, etc.)
+- [ ] Lizenzmodell und gleichzeitige Nutzer klar definiert
+- [ ] Preisbindung für physische Bibliothekskäufe geprüft (Buchhandel als Zwischenstufe)
+- [ ] § 52b-Compliance: Terminanzahl ≤ Exemplaranzahl
+- [ ] Vergriffene Werke: Opt-Out gegenüber Bibliotheken erklärt (falls nötig)
+- [ ] E-Lending-Plattformvertrag auf Datenschutz geprüft (DSGVO)
+
+## Quellenreferenzen
+
+- UrhG §§ 27, 52b: https://dejure.org/gesetze/UrhG/52b.html
+- EuGH C-174/15 (Volksbank): https://eur-lex.europa.eu
+- DSM-RL Art. 8: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
+- BGH „Elektronische Leseplätze II" I ZR 69/11: https://www.bgh.de
+- Onleihe / DiViBib: https://www.onleihe.de
+
+## Output-Formate
+
+- **Lizenzmodell-Vergleich**: Single Copy, Multi-User, Metered Access
+- **E-Lending-Vertragsprüfung**: Plattformvertrag auf Konformität
+- **Preisbindungscheck für Bibliothekskäufe**
+- **Vergriffene-Werke-Opt-Out-Erklärung**
+- **§ 52b-Compliance-Protokoll**

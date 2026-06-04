@@ -1,46 +1,107 @@
 ---
 name: verl-030-rezensionsexemplar-influencer-und-steuer
-description: "Verlagsrecht: Rezensionsexemplar Influencer und Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG)."
 ---
 
-# Verlagsrecht: Rezensionsexemplar Influencer und Steuer
+# Verl-030 · Rezensionsexemplare, Influencer und Steuer
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Rezensionsexemplar Influencer und Steuer** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer. Diese Praxis berührt Buchpreisbindungsrecht (Ausnahme für Rezensenten), Steuerrecht (Sachzuwendungen) und Wettbewerbsrecht (Kennzeichnungspflichten). Dieser Skill klärt alle relevanten Dimensionen.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG § 6 | Ausnahmen; Rezensionsexemplare nicht ausdrücklich, aber nach h.M. erfasst | https://www.gesetze-im-internet.de/buchprg/__6.html |
+| EStG § 37b | Pauschalsteuer auf Sachzuwendungen an Nichtarbeitnehmer | https://www.gesetze-im-internet.de/estg/__37b.html |
+| EStG § 8 | Sachbezüge als geldwerte Vorteile | https://www.gesetze-im-internet.de/estg/__8.html |
+| UStG § 3 Abs. 1b | Unentgeltliche Zuwendungen als steuerpflichtige Lieferung | https://www.gesetze-im-internet.de/ustg_1980/__3.html |
+| UWG § 5a | Unlautere Geschäftspraktiken: fehlende Kennzeichnung | https://dejure.org/gesetze/UWG/5a.html |
+| TMG § 6 | Werbung im Internet: Kennzeichnungspflicht | https://www.gesetze-im-internet.de/tmg/__6.html |
+| MStV § 22 | Kennzeichnung kommerzieller Kommunikation (Medienstaatsvertrag) | https://www.gesetze-im-internet.de/mstv/ |
 
-## Prüfprogramm
+## Rezensionsexemplare und Buchpreisbindung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Rechtliche Einordnung
+- Rezensionsexemplare werden unentgeltlich an Rezensenten (Presse, Blogger) abgegeben.
+- BuchPrG gilt für **entgeltliche** Abgabe; unentgeltliche Abgabe → kein Buchpreisbindungsverstoß.
+- Aber: Wenn Verlag Buch formell kostenlos gibt, aber faktisch eine Gegenleistung erwartet (bezahlte Rezension) → kommerzielles Arrangement → andere steuerliche und wettbewerbsrechtliche Behandlung.
+
+### Praktische Abgrenzung
+- Echtes Rezensionsexemplar: Kein Preis; keine vertraglich vereinbarte Pflicht zur Rezension; Verlag akzeptiert auch negative Kritik.
+- Influencer-Kooperation mit Publikationspflicht: Gegenleistung (Rezension) → Vertragsverhältnis; kein reines Rezensionsexemplar.
+
+## Steuerliche Behandlung
+
+### Sachzuwendung an Rezensenten (EStG § 37b)
+- Bücher, die Verlag an externe Personen (Journalisten, Blogger) verschenkt: Grundsätzlich Sachzuwendung (EStG § 8 Abs. 2).
+- **EStG § 37b**: Verlag kann auf Sachzuwendungen an Nichtarbeitnehmer Pauschalsteuer von 30 % übernehmen.
+- Freigrenze: 10.000 € je Empfänger und Jahr für Pauschalsteuer nach § 37b EStG.
+- Unterhalb der Freigrenze (§ 8 Abs. 3 EStG, 50 € / Monat): Kein steuerpflichtiger geldwerter Vorteil.
+
+### Umsatzsteuerliche Behandlung
+- Unentgeltliche Buchlieferung als Sachzuwendung: Grundsätzlich steuerpflichtige „unentgeltliche Lieferung" (UStG § 3 Abs. 1b).
+- Ausnahme: Bücher als Werbemittel (keine Umsatzsteuer, wenn keine selbständige Nutzungsmöglichkeit).
+- **Praktisch**: Buchhandels-Rezensionsexemplare im üblichen Umfang sind als Betriebsausgabe abzugsfähig; USt fällt nicht an, wenn Werbezweck dominiert.
+
+### Buchführung
+- Rezensionsexemplar-Versand dokumentieren: Empfänger, Wert, Datum, Zweck.
+- Betriebsausgabenabzug: Belege aufbewahren.
+
+## Influencer-Kooperationen
+
+### Kennzeichnungspflichten
+- **UWG § 5a, TMG § 6, MStV § 22**: Werbung im Internet muss als solche erkennbar sein.
+- Wenn Verlag Buch kostenlos (oder vergünstigt) zur Verfügung stellt und Influencer darüber postet:
+  - Hat der Influencer eine vertraglich gesicherte Pflicht zur Rezension → Werbung; **Pflicht zur Kennzeichnung** als „#Werbung" oder „#Anzeige".
+  - Verlag hat dem Influencer eine Publikation erleichtert oder empfohlen → möglicherweise Werbung.
+  - Freiwillige Rezension ohne jede Absprache → keine Kennzeichnungspflicht.
+
+### BGH-Rechtsprechung
+- BGH „Die Burg Schreckenstein" (I ZR 126/20): Instagram-Posts mit Produkt-Tags ohne Kennzeichnung = Schleichwerbung, auch wenn keine direkte Zahlung, wenn wirtschaftlicher Vorteil (kostenlose Übersendung) vorlag.
+- Kennzeichnung erforderlich bei: kostenlosen Produkten, Vergünstigungen, Reiseeinladungen.
+
+### Vertragsgestaltung mit Influencern
+1. Kooperationsvertrag: Klare Pflichten (Anzahl Posts, Zeitraum, Inhalte).
+2. **Kennzeichnungspflicht vertraglich festhalten**: Influencer verpflichtet sich zur korrekten Werbekennzeichnung.
+3. Freistellungsklausel: Influencer stellt Verlag bei Kennzeichnungsverstößen frei.
+4. Keine Pflicht zu positiver Kritik: Influencer darf das Buch negativ rezensieren.
+
+## Presserechtliche Aspekte
+
+- Klassische Pressekritiken unterliegen Meinungsfreiheit (GG Art. 5); kein Anspruch auf positive Bewertung.
+- Verlag darf Rezensenten nicht wegen negativer Kritik abmahnen.
+- Wenn Rezension unwahre Tatsachen enthält: Widerrufs- und Unterlassungsanspruch (§ 823 BGB i.V.m. § 824 BGB).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Influencer kennzeichnet nicht**: Blogger erhält kostenloses Buch und postet ohne „Werbung"-Hinweis → UWG-Verstoß; Abmahnung durch Wettbewerber.
+- **Steuer auf Rezensionsexemplare vergessen**: Verlag überschreitet 50-€-Freigrenze je Empfänger; steuerpflichtige Sachzuwendung nicht deklariert → Lohnsteuer-Nachprüfung.
+- **Kooperationsvertrag fordert positive Kritik**: Klausel unwirksam; ggf. sittenwidrig und Schleichwerbungsrisiko.
+- **Rezensionsexemplare für Bibliotheken zum Kauf angeboten**: Wenn Verlag Rezensionsexemplare über Plattform verkauft → Buchpreisbindung wieder einschlägig.
 
-## Output
+## Checkliste Rezensionsexemplar / Influencer
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Versandliste mit Empfänger, Titel, Datum gepflegt
+- [ ] Kooperationsvertrag enthält Kennzeichnungspflicht
+- [ ] Steuerliche Behandlung (§ 37b EStG) geprüft; ggf. Pauschalsteuer gewählt
+- [ ] Keine Verpflichtung zur positiven Kritik im Kooperationsvertrag
+- [ ] Influencer-Posts auf korrekte Kennzeichnung überprüft
+- [ ] Betriebsausgabenabzug dokumentiert
+
+## Quellenreferenzen
+
+- EStG § 37b: https://www.gesetze-im-internet.de/estg/__37b.html
+- UWG § 5a: https://dejure.org/gesetze/UWG/5a.html
+- TMG § 6: https://www.gesetze-im-internet.de/tmg/__6.html
+- BGH „Die Burg Schreckenstein" I ZR 126/20: https://www.bgh.de
+- MStV § 22: https://www.gesetze-im-internet.de/mstv/
+
+## Output-Formate
+
+- **Kooperationsvertrag-Muster**: Influencer, Pflichten, Kennzeichnung, Freistellung
+- **Steuerberechnungssheet**: Sachzuwendungen × 30 % Pauschalsteuer
+- **Kennzeichnungsleitfaden** für Influencer-Kooperationspartner
+- **Rezensionsexemplar-Dokumentationsformular**
+- **Compliance-Check** Social-Media-Posts auf korrekte Kennzeichnung

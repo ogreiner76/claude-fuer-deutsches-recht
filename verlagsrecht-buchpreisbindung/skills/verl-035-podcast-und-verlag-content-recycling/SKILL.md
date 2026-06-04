@@ -1,46 +1,117 @@
 ---
 name: verl-035-podcast-und-verlag-content-recycling
-description: "Verlagsrecht: Podcast und Verlag Content-Recycling mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen."
 ---
 
-# Verlagsrecht: Podcast und Verlag Content-Recycling
+# Verl-035 · Podcast und Verlag: Content-Recycling
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Podcast und Verlag Content-Recycling** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Verlage nutzen zunehmend **Podcasts** zur Content-Vermarktung: Lesungen, Buchzusammenfassungen, Autoreninterviews, Serialisierungen. Diese Formate erfordern eigene Nutzungsrechtsklärungen — aus den vorhandenen Verlagswerken und für die Podcast-Produktion selbst. Dieser Skill klärt die Rechtslage vollständig.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 15 | Verwertungsrechte: öffentliche Zugänglichmachung (§ 19a) | https://dejure.org/gesetze/UrhG/15.html |
+| UrhG § 19a | Recht der öffentlichen Zugänglichmachung für Podcasts | https://dejure.org/gesetze/UrhG/19a.html |
+| UrhG § 73 | Leistungsschutzrecht ausübender Künstler (Sprecher, Interviewter) | https://dejure.org/gesetze/UrhG/73.html |
+| UrhG § 51 | Zitatrecht im Podcast | https://dejure.org/gesetze/UrhG/51.html |
+| GEMA-Tarife | Musik im Podcast: Lizenzierungspflicht | https://www.gema.de |
+| MStV §§ 74 ff. | Podcast als Mediendienst: Impressumspflicht | https://www.gesetze-im-internet.de/mstv/ |
+| TMG § 5 | Anbieterkennzeichnungspflicht | https://www.gesetze-im-internet.de/tmg/__5.html |
 
-## Prüfprogramm
+## Content-Recycling: Was braucht eine Lizenz?
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 1. Lesungen aus Verlagswerken
+- **Benötigtes Recht**: Vortragslizenz (§ 19 UrhG) + öffentliche Zugänglichmachung (§ 19a UrhG) für den Podcast.
+- Ist diese Lizenz im Verlagsvertrag enthalten? → Im Zweifel: Nein (Zweckübertragungsregel, § 31 Abs. 5 UrhG).
+- Lösung: Explizite Podcast-/Audio-Nutzungsklausel im Verlagsvertrag oder separate Autorenvereinbarung.
+
+### 2. Zusammenfassungen und Paraphrasen
+- Paraphrase des Buchinhalts: Keine wörtliche Übernahme → kein Urheberrechtsproblem für den Inhalt.
+- Aber: Stimmliche Darbietung des Paraphrase-Textes durch einen Sprecher → Leistungsschutzrecht des Sprechers entsteht.
+
+### 3. Autoreninterviews
+- Interview-Aufnahme: Sprecher des Interviews (Autor, Interviewer) haben Leistungsschutzrechte.
+- Schriftlich fixiertes Interview: Urheberrecht am Interviewtext beim Interviewer (Schöpfung der Fragen) und ggf. beim Befragten (Antworten als Sprachwerk).
+- Einwilligung des Autors/Interviewten für Podcast-Veröffentlichung sicherstellen.
+
+### 4. Buchzitate im Podcast
+- Kurze Passagen als Einstieg oder Illustration: § 51 UrhG-Zitatrecht.
+- Ausführliche Lesungen größerer Textteile: Lizenz des Autors/Verlags erforderlich.
+
+## GEMA und Musik im Podcast
+
+- Musik im Podcast (Intro, Jingle, Hintergrundmusik): GEMA-Lizenz erforderlich.
+- **GEMA Tarif V-Webcast / U-OM**: Abhängig von der Art der Nutzung (Podcast als On-Demand-Angebot).
+- Alternativen: GEMA-freie Musik (Royalty-Free, CC0), eigene Komposition.
+- **Vorsicht**: Creative Commons-Musik mit NC- oder ND-Bedingungen ist bei kommerziellen Verlags-Podcasts problematisch.
+
+## Podcast-Plattformen und Lizenzierung
+
+### Vertrieb über Spotify / Apple Podcasts / Amazon Music
+- Podcast-Distributor (Anchor, Spotify for Podcasters, Podigee) schließt Vertrag mit Plattformen.
+- Keine Buchpreisbindung für Podcasts.
+- Monetarisierung: Werbung, Subscription (Patreon, Steady), Bundleangebote.
+
+### Exklusivität
+- Spotify und Amazon schließen Exklusivverträge für Podcasts → Auswirkung auf andere Plattformen.
+- Buchverlags-Podcasts: Exklusivität sorgfältig prüfen; könnte Reichweite einschränken.
+
+## Medienrechtliche Anforderungen
+
+### Impressumspflicht (TMG § 5, MStV § 74 ff.)
+- Podcast mit regelmäßiger journalistischer Berichterstattung: Impressumspflicht.
+- Verlagsname, Adresse, Vertretungsberechtigte, Kontakt.
+- Verantwortlicher i.S.d. MStV für Inhalt.
+
+### Datenschutz (DSGVO)
+- Podcast-Website: Datenschutzerklärung, Cookie-Banner.
+- Podhosting-Dienst: DPA (Datenverarbeitungsvereinbarung) abschließen.
+
+## Content-Recycling-Klausel im Verlagsvertrag
+
+Musterklausel:
+> „Der Autor räumt dem Verlag das Recht ein, das Werk oder Teile davon in Form von Audio-Readings, Podcast-Episoden, Kurzfassungen und Serialisierungen zu vervielfältigen und öffentlich zugänglich zu machen (§ 19a UrhG). Der Autor erhält hierfür eine gesonderte Vergütung in Höhe von [X] % der erzielten Podcast-Einnahmen (nach Abzug der Plattformgebühren)."
+
+## Autoreninterviews: Vertragsgestaltung
+
+1. Schriftliche Einwilligung des Interviewten vor der Aufnahme.
+2. Zweck: Podcast-Episode; Verbreitung über genannte Plattformen.
+3. Namensnennung (§ 13 UrhG).
+4. Redaktionsvorbehalt: Verlag darf kürzen und schneiden, sofern Aussagen nicht entstellt werden (§ 14 UrhG analog).
+5. Honorar: Oft unentgeltlich bei Autoreninterviews (Autor profitiert von Sichtbarkeit); explizit vereinbaren.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Verlagsvertrag ohne Podcast-Klausel**: Verlag produziert Podcast aus Buchinhalt; Autor rügt fehlende Lizenz → Unterlassung.
+- **GEMA-Musik im Podcast**: Jingle aus Musikbibliothek nicht GEMA-lizenziert → Abmahnung durch GEMA.
+- **Interview ohne schriftliche Einwilligung**: Aufnahme gemacht; Gast widerruft → Verlag muss Episode zurückziehen.
+- **Keine MStV-konforme Kennzeichnung**: Werbung im Podcast nicht als solche erkennbar → UWG-Verstoß.
+- **Leistungsschutzrecht des Sprechers vergessen**: Freier Sprecher produziert Podcast-Intro; kein Nutzungsrechtsvertrag → Verlag hat kein Nutzungsrecht.
 
-## Output
+## Checkliste Podcast-Produktion
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Textautor: Podcast-/Audio-Nutzungsrecht eingeholt
+- [ ] Sprecher/Moderator: Leistungsschutzrechts-Nutzungsvertrag
+- [ ] Musik: GEMA-Lizenz oder GEMA-freie Quelle
+- [ ] Interview-Einwilligungen schriftlich dokumentiert
+- [ ] Impressum und Datenschutzerklärung für Podcast-Website
+- [ ] Plattformverträge: Exklusivität und Reichweiten-Konsequenzen geprüft
+
+## Quellenreferenzen
+
+- UrhG § 19a: https://dejure.org/gesetze/UrhG/19a.html
+- GEMA-Tarif V-Webcast: https://www.gema.de
+- MStV §§ 74 ff.: https://www.gesetze-im-internet.de/mstv/
+- TMG § 5: https://www.gesetze-im-internet.de/tmg/__5.html
+- Börsenverein, Podcast-Leitfaden Verlag: https://www.boersenverein.de
+
+## Output-Formate
+
+- **Podcast-Rechte-Checkliste**: Alle Beteiligten und ihre Rechte
+- **Content-Recycling-Vertragsklausel**: Muster für Verlagsvertrag
+- **GEMA-Anmeldungsformular**: Podcast-Nutzung
+- **Interview-Einwilligungsformular**: Kurzfassung für Autoren-Interviews
+- **Medienrechtliches Impressum**: MStV-konformes Muster für Podcast-Website

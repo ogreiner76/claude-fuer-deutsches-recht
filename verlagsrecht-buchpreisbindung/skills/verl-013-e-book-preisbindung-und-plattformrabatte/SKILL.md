@@ -1,46 +1,118 @@
 ---
 name: verl-013-e-book-preisbindung-und-plattformrabatte
-description: "Verlagsrecht: E-Book Preisbindung und Plattformrabatte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung."
 ---
 
-# Verlagsrecht: E-Book Preisbindung und Plattformrabatte
+# Verl-013 · E-Book-Preisbindung und Plattformrabatte
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **E-Book Preisbindung und Plattformrabatte** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial zwischen Verlagsrecht und Plattformverträgen. Dieser Skill klärt, welche E-Books preisgebunden sind, wie Plattformgebühren und Rabatte behandelt werden, welche Vertragsklauseln mit Amazon, Apple und anderen notwendig sind und wie Verstöße durchgesetzt werden.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG § 2 Abs. 1 Nr. 3 | E-Books als preisgebundene Produkte | https://www.gesetze-im-internet.de/buchprg/__2.html |
+| BuchPrG § 3 | Preisfestsetzung durch Verleger / Importeur | https://www.gesetze-im-internet.de/buchprg/__3.html |
+| BuchPrG § 5 | Letztabnehmer-Bindung | https://www.gesetze-im-internet.de/buchprg/__5.html |
+| BuchPrG § 9 | Ansprüche bei Verstoß | https://www.gesetze-im-internet.de/buchprg/__9.html |
+| EU-VO 2017/1128 | Portabilität digitaler Inhalte | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1128 |
+| UrhG § 19a | Recht der öffentlichen Zugänglichmachung (Online-Vertrieb) | https://dejure.org/gesetze/UrhG/19a.html |
 
-## Prüfprogramm
+## E-Books im Geltungsbereich des BuchPrG
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Seit 2016: Gesetzliche Preisbindung
+- BuchPrG § 2 Abs. 1 Nr. 3 (Fassung seit 01.01.2016): E-Books sind ausdrücklich preisgebunden.
+- Voraussetzungen:
+  1. E-Book ist ein „Buch" im Sinne des BuchPrG (Sprachwerk als elektronische Ausgabe)
+  2. Erscheinen in Deutschland oder Import für deutschen Markt
+  3. Nicht ausgenommen nach § 6 BuchPrG
+
+### Geltungsbereich: Was ist ein E-Book?
+- EPUB, PDF, MOBI (Kindle), AZW: Alle Formate, die den Buchinhalt digital als Sprachwerk übermitteln.
+- Nicht erfasst: Apps mit Buchinhalt (wenn App-Funktion im Vordergrund), reine Audios, interaktive Lernspiele.
+- Grenzfall: Enhanced E-Books (mit Videos, interaktiven Elementen): Einzelfallbewertung nötig.
+
+## Plattformgebühren und der gebundene Preis
+
+### Grundprinzip
+- Der Verlag setzt den **Endkundenpreis** (gebundener Ladenpreis) fest.
+- Plattformgebühren (Amazon 30 %, Apple Books 30 %, etc.) werden vom Verlag getragen, nicht vom Endkunden.
+- Endkunde zahlt genau den gebundenen Preis; Plattform erhält ihren Anteil davon.
+
+### Amazon KDP — Preisgestaltung
+- KDP-Direktvertrieb: Autor/Verlag setzt Preis in KDP-Dashboard; Amazon verkauft zum festgesetzten Preis.
+- KDP-Select: Enthält Kindle Unlimited (Streaming); Vergütung nach gelesenen Seiten, kein fester Ladenpreis für KU-Nutzung → KU unterliegt nicht der Buchpreisbindung (kein Kauf).
+- **Amazon Price Match**: Amazon kann E-Book-Preis senken, wenn dasselbe Buch anderswo günstiger angeboten wird → Verstoß gegen Preisbindung durch den billigeren Anbieter; Amazon „spiegelt" den Verstoß.
+
+### Apple Books
+- Verleger setzt Preis im App Store Connect; Apple behält 30 %.
+- Apple-Werbemaßnahmen (z.B. „Deal of the Day"): Nur zulässig, wenn Verlag temporären Aktionspreis festsetzt (§ 7 BuchPrG).
+
+### Tolino / Thalia
+- Deutsches Konsortium; engere Verlagsabsprachen; Preisbindungs-Compliance üblicherweise vertraglich verankert.
+
+### Google Play Books
+- Verlag setzt Preis; Google behält Plattformgebühr; Endkundenpreis muss gebunden sein.
+
+## Vertragsgestaltung mit Plattformen
+
+### Mindestklauseln im Plattformvertrag
+1. Endkundenpreis = vom Verlag festgesetzter gebundener Ladenpreis
+2. Plattform darf keine Preissenkungen ohne Verlagsfreigabe vornehmen
+3. Aktionspreise nur nach Freigabe und förmlicher Preisfestsetzung durch Verlag
+4. Pflicht zur sofortigen Rücknahme von Preissenkungen bei Verlags-Aufforderung
+5. Reporting-Pflicht: Monatliche Absatzberichte mit Preisen und Aktionszeiträumen
+
+### Price-Parity-Klauseln (kritisch!)
+- Manche Plattformverträge enthalten Most-Favored-Nation (MFN) / Price-Parity-Klauseln: „Verlag muss denselben Preis auf unserer Plattform haben wie anderswo."
+- EU-Kartellrecht: Price-Parity-Klauseln durch Amazon wurden von Kartellbehörden (Bundeskartellamt, EU-Kommission) beanstandet.
+- **Vorsicht**: Price-Parity führt dazu, dass Verlag E-Book-Preis nicht auf anderen Plattformen günstiger setzen darf → kann Innovationsbarriere sein.
+
+## Durchsetzung der E-Book-Preisbindung
+
+### § 9 BuchPrG — Ansprüche
+- Anspruchsberechtigte: Andere Verleger, Importeure, der Buchhandel, der Börsenverein.
+- Ansprüche: Unterlassung (§ 9 Abs. 1 BuchPrG), Schadensersatz, Auskunft.
+- Prozessual: Einstweilige Verfügung möglich bei offensichtlichem Preisbindungsverstoß.
+
+### Börsenverein als Klageberechtigter (§ 10 BuchPrG)
+- Börsenverein des Deutschen Buchhandels e.V. ist klagebefugt.
+- Klagt regelmäßig gegen Online-Händler, die E-Books unter gebundenem Preis anbieten.
+
+### Monitoring
+- Verlage sollten automatisierte Preis-Monitoring-Tools einsetzen (z.B. Bookwire, EPUB-Crawler).
+- Bei erkanntem Verstoß: Abmahnung an Händler/Plattform, ggf. Kündigung des Plattformvertrags.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **KDP-Preisanpassung automatisch**: Amazon senkt E-Book-Preis automatisch wegen Price-Match → Verlag hat Preisbindungsverstoß nicht begangen, aber muss Amazon auffordern, den gebundenen Preis wiederherzustellen.
+- **Keine förmliche Preisfestsetzung für E-Book**: Verlag veröffentlicht E-Book über KDP ohne eigenständige Preisfestsetzung nach § 3 BuchPrG → formaler Mangel; kann durch nachträgliche Meldung geheilt werden.
+- **Bundle mit App**: E-Book-Inhalt in App-Bundle unter dem Ladenpreis → je nach Produktgestaltung Preisbindungsverstoß.
+- **Aktionspreise nicht dokumentiert**: Plattform führt Aktion durch; Verlag kann nicht nachweisen, dass temporäre Preissenkung förmlich festgesetzt war → Verstoß-Risiko.
 
-## Output
+## Checkliste E-Book-Preisbindung
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] E-Book als preisgebundenes Produkt klassifiziert
+- [ ] Ladenpreis für jedes Format separat festgesetzt und in VLB gemeldet
+- [ ] Plattformverträge auf Preisbindungs-Klauseln geprüft
+- [ ] Monitoring-System für Plattformpreise eingerichtet
+- [ ] Aktionspreise förmlich festgesetzt und mit Ablaufdatum gemeldet
+- [ ] Amazon Price-Match-Risiko bekannt und Verfahren definiert
+
+## Quellenreferenzen
+
+- BuchPrG § 2: https://www.gesetze-im-internet.de/buchprg/__2.html
+- Bundeskartellamt, Amazon E-Book-Verfahren (2012/2017): https://www.bundeskartellamt.de
+- BGH „E-Book" KZR 25/14 (Preisbindung E-Books): https://www.bgh.de
+- EU-VO 2017/1128: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1128
+- Börsenverein, E-Book-Preisbindung: https://www.boersenverein.de
+
+## Output-Formate
+
+- **Plattform-Compliance-Tabelle**: Alle E-Book-Plattformen × Preis × Status
+- **Vertragscheck Plattformvertrag**: Preisbindungsklauseln vorhanden / fehlend / mangelhaft
+- **Monitoring-Bericht**: Preisabweichungen der letzten 30 Tage
+- **Abmahnungsentwurf** bei Preisbindungsverstoß durch Plattform
+- **MFN-Klausel-Risikoanalyse**

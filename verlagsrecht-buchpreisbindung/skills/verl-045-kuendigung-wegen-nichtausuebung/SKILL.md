@@ -1,46 +1,128 @@
 ---
 name: verl-045-kuendigung-wegen-nichtausuebung
-description: "Verlagsrecht: Kündigung wegen Nichtausübung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag."
 ---
 
-# Verlagsrecht: Kündigung wegen Nichtausübung
+# Verl-045 · Kündigung wegen Nichtausübung (UrhG § 41)
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Kündigung wegen Nichtausübung** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der **Rückruf wegen Nichtausübung** nach UrhG § 41 ist das wichtigste gesetzliche Instrument, mit dem Autoren ein ausschließliches Nutzungsrecht zurückerhalten können, wenn der Verlag es nicht nutzt. Dieser Skill erschöpft alle Voraussetzungen, das Verfahren und die Konsequenzen.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 41 Abs. 1 | Rückruf wegen Nichtausübung: Voraussetzungen | https://dejure.org/gesetze/UrhG/41.html |
+| UrhG § 41 Abs. 2 | Sperrfrist; Pflichtwerk-Ausnahme | https://dejure.org/gesetze/UrhG/41.html |
+| UrhG § 41 Abs. 3 | Ankündigungspflicht; Ausübungsfrist | https://dejure.org/gesetze/UrhG/41.html |
+| UrhG § 41 Abs. 4 | Vergütungsanspruch trotz Rückruf | https://dejure.org/gesetze/UrhG/41.html |
+| UrhG § 41 Abs. 5 | Wegfall des Rückrufs bei Ausübung | https://dejure.org/gesetze/UrhG/41.html |
+| VerlG § 17 | Vergriffen-Erklärung als Alternative | https://www.gesetze-im-internet.de/verlg/__17.html |
+| DSM-RL Art. 22 | Rückrufrecht bei Nichtausübung (EU-Ebene) | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
 
-## Prüfprogramm
+## Voraussetzungen des § 41-Rückrufs
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 1. Ausschließliches Nutzungsrecht
+- § 41 UrhG gilt nur für **ausschließliche** Nutzungsrechte; nicht für einfache Lizenzen.
+- Wenn Verlagsvertrag ausschließliches Nutzungsrecht einräumt → § 41 anwendbar.
+- Wenn nur einfaches Nutzungsrecht → kein § 41-Rückruf; andere Vertragsinstrumente prüfen.
+
+### 2. Nichtausübung des Rechts
+- **Nichtausübung**: Verlag nutzt das eingeräumte Recht nicht.
+- Beispiele:
+  - Buch erscheint nicht (keine Erstveröffentlichung).
+  - Buch vergriffen; keine Neuauflage geplant.
+  - E-Book-Recht eingeräumt, aber E-Book nie erschienen.
+  - Übersetzungsrecht vergeben, aber keine Übersetzung erschienen.
+
+### 3. Erhebliche Beeinträchtigung der Interessen des Urhebers
+- Automatische Nichtausübung allein reicht nicht; Urheber muss erheblich beeinträchtigt sein.
+- Indizien: Keine Einnahmen; kein Buch im Handel; Autor kann kein neues Verlagsangebot einholen.
+- Verhältnismäßigkeit: Geringe Verzögerung ist keine erhebliche Beeinträchtigung.
+
+## Sperrfristen (§ 41 Abs. 2 UrhG)
+
+### Regelsperrfrist: 2 Jahre
+- Ab dem Zeitpunkt der Einräumung des Nutzungsrechts.
+- Erst nach 2 Jahren kann der Autor den Rückruf ankündigen.
+
+### Ausnahme: Pflichtwerke
+- Bei Werken, die auf bestimmten Leistungsplan angewiesen sind (Auftragswerke, Lehrwerke): Sperrfrist **1 Jahr** ab Ablieferung.
+- Kein Pflichtwerk: Normalfrist 2 Jahre.
+
+### Vertragliche Verlängerung der Sperrfrist
+- Verlag kann vertraglich längere Sperrfrist vereinbaren, aber nicht zu Lasten des Urhebers übermäßig (§ 41 UrhG ist nicht vollständig abdingbar).
+- BGH: Sperrfristen bis 5 Jahre können zulässig sein, wenn sachlich begründet.
+
+## Verfahren (§ 41 Abs. 3 UrhG)
+
+### Schritt 1: Ankündigung des Rückrufs
+- Form: Schriftliche Ankündigung an den Verlag.
+- Inhalt: Konkrete Werke und Nutzungsrechte; Ankündigung des Rückrufs nach Ablauf der Ausübungsfrist.
+- Ausübungsfrist: Mindestens 3 Monate ab Ankündigung; Verlag kann in dieser Zeit das Recht noch ausüben.
+
+### Schritt 2: Ausübung durch Verlag (§ 41 Abs. 5 UrhG)
+- Wenn Verlag innerhalb der Ausübungsfrist das Recht tatsächlich ausübt (z.B. E-Book erscheint, Neuauflage erscheint) → Rückruf entfällt.
+- Ausübung muss **ernsthaft** und **tatsächlich** erfolgen; Ankündigungen allein reichen nicht.
+
+### Schritt 3: Rückrufserklärung
+- Nach Ablauf der Ausübungsfrist ohne Ausübung: Autor erklärt den Rückruf (keine besondere Form; schriftlich empfohlen).
+- Ab Rückrufserklärung: Ausschließliches Nutzungsrecht erlischt.
+
+## Wirkung des Rückrufs (§ 41 Abs. 4 UrhG)
+
+- Das ausschließliche Nutzungsrecht erlischt mit Rückrufserklärung (nicht rückwirkend).
+- **Vergütungsanspruch bleibt**: Autor behält Anspruch auf bereits fällige Vergütungen; Verlag kann nach Rückruf keine Vergütungsrückforderung stellen.
+- Lagerbestand: Verlag darf vorhandene Exemplare noch abverkaufen (Erschöpfungsprinzip für körperliche Exemplare); aber keine Neuproduktion.
+- E-Book: Online-Zugänglichmachung muss sofort beendet werden.
+
+## Mehrfaches Nutzungsrecht
+
+- Verlag hat ausschließliche Rechte für Print und E-Book; Rückruf nur wegen Nichtausübung des E-Book-Rechts → nur E-Book-Recht erlischt; Print-Recht bleibt (wenn Print ausgeübt wird).
+- Separater Rückruf je nicht ausgeübter Nutzungsart möglich.
+
+## Verlagsvertrag und § 41-Schutz
+
+- Klauseln, die § 41 vollständig ausschließen: Unwirksam (§ 41 ist zwingend).
+- Klauseln mit verlängerter Sperrfrist: Möglich, wenn sachlich begründet.
+- **Mindest-Ausübungsklausel**: Verlagsvertrag kann bestimmen, dass bei Unterschreiten einer Mindest-Verkaufszahl der Autor zur Kündigung berechtigt ist → kann § 41 praktisch überlagern.
+
+## DSM-RL Art. 22 — EU-Dimension
+
+- DSM-RL Art. 22: Mitgliedstaaten müssen Rückrufrecht bei Nichtausübung vorsehen.
+- Deutschland: § 41 UrhG war bereits vor der DSM-RL vorhanden; Umsetzung als konform eingestuft.
+- Harmonisierung: Grundsatz eines EU-weiten Rückrufrechts bei Nichtausübung für alle Mitgliedstaaten.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Ankündigung ohne Ausübungsfrist**: Autor erklärt sofort den Rückruf ohne vorherige 3-Monats-Ankündigung → unwirksam (§ 41 Abs. 3 UrhG).
+- **Sperrfrist nicht abgewartet**: Rückruf nach 1,5 Jahren; Sperrfrist 2 Jahre noch nicht abgelaufen → unwirksam.
+- **Einfaches Nutzungsrecht irrtümlich angenommen**: Vertrag räumt einfaches Nutzungsrecht ein; Autor will § 41-Rückruf → nicht möglich.
+- **Verlag kündigt Neuauflage an, erscheint aber nicht**: Ankündigung reicht nicht; tatsächliche Ausübung fehlt → Rückruf wirksam.
 
-## Output
+## Checkliste § 41 UrhG-Rückruf
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Ausschließliches Nutzungsrecht eingeräumt? (Ja/Nein)
+- [ ] Sperrfrist abgelaufen? (2 Jahre seit Einräumung)
+- [ ] Nichtausübung festgestellt und dokumentiert
+- [ ] Erhebliche Beeinträchtigung der Autoreninteressen bejaht
+- [ ] Schriftliche Ankündigung mit 3-Monats-Ausübungsfrist versandt
+- [ ] Nach Fristablauf: Rückrufserklärung versandt
+- [ ] E-Book-Zugänge deaktiviert; Ladenpreis aufgehoben
+
+## Quellenreferenzen
+
+- UrhG § 41: https://dejure.org/gesetze/UrhG/41.html
+- DSM-RL Art. 22: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
+- BGH „Rückruf wegen Nichtausübung" I ZR 15/16: https://www.bgh.de
+- VerlG § 17: https://www.gesetze-im-internet.de/verlg/__17.html
+- OLG München (Rückruf E-Book-Recht, 2019): https://openjur.de
+
+## Output-Formate
+
+- **Voraussetzungsprüfungs-Checkliste**: § 41 UrhG Schritt für Schritt
+- **Ankündigungsschreiben-Entwurf**: Formell korrekt mit Ausübungsfrist
+- **Rückrufserklärung-Entwurf**: Nach Fristablauf
+- **Wirkungsprotokoll**: Welche Rechte erlöschen; was bleibt
+- **Verlagsreaktion-Briefing**: Wenn Verlag doch noch ausüben will

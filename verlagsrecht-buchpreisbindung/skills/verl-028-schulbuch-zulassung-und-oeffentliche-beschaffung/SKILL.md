@@ -1,46 +1,108 @@
 ---
 name: verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung
-description: "Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht."
 ---
 
-# Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung
+# Verl-028 · Schulbuch: Zulassung und öffentliche Beschaffung
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Schulbuch Zulassung und öffentliche Beschaffung** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Schulbuchmarkt unterliegt neben dem allgemeinen Verlagsrecht zusätzlichen **Zulassungsverfahren** durch die Kultusministerien der Länder und dem **öffentlichen Vergaberecht** bei staatlichen Beschaffungen. Dieser Skill klärt die Zulassungsvoraussetzungen, Konditionenpraxis und Buchpreisbindung in diesem Segment.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG § 2 | Schulbücher als preisgebundene Produkte | https://www.gesetze-im-internet.de/buchprg/__2.html |
+| BuchPrG §§ 5, 6 | Preisbindung und Ausnahmen für Schulbücher | https://www.gesetze-im-internet.de/buchprg/ |
+| VgV § 2 | EU-Vergaberecht für öffentliche Auftraggeber | https://www.gesetze-im-internet.de/vgv/ |
+| GWB §§ 97 ff. | Vergaberecht über Schwellenwert | https://dejure.org/gesetze/GWB/97.html |
+| UVgO | Unterschwellenvergabe für Behörden | https://www.gesetze-im-internet.de/uvgo/ |
+| Länder-Schulgesetze | Zulassungsvoraussetzungen je Bundesland | (länderspezifisch) |
 
-## Prüfprogramm
+## Schulbuchzulassung in Deutschland
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Länderkompetenz
+- Bildungshoheit liegt bei den Ländern; jedes Bundesland hat eigene Zulassungsregeln für Schulbücher.
+- **Bayern, Baden-Württemberg**: Strenge Zulassungsverfahren mit Begutachtung durch Kultusbehörde.
+- **NRW, Hessen**: Zulassung durch Zulassungsliste oder offenes Marktverfahren mit Lehrerwahl.
+- **Ostdeutsche Länder**: Teils liberalere Regelungen; Schulen wählen aus genehmigten Listen.
+
+### Zulassungsverfahren (exemplarisch)
+1. **Antragstellung beim Kultusministerium**: Verlag reicht Buchexemplar, Begleitunterlagen, Verfassernachweise ein.
+2. **Begutachtung**: Durch Fachreferenten, Lehrer-Kommissionen oder externe Gutachter.
+3. **Zulassungsbescheid**: Befristet (meist 5–10 Jahre); für bestimmte Schulform, Klasse, Fach.
+4. **Listeneintragung**: Schulbuch erscheint auf der landesspezifischen Zulassungsliste.
+5. **Revision**: Bei Lehrplanänderungen muss das Schulbuch überarbeitet und erneut zugelassen werden.
+
+### Zulassungskriterien
+- Inhaltliche Korrektheit und Aktualität.
+- Didaktische Eignung für die Zielgruppe.
+- Übereinstimmung mit Lehrplan des Bundeslandes.
+- Barrierefreiheit (zunehmend): Digitale Schulbücher müssen BITV/WCAG-konform sein.
+
+## Buchpreisbindung im Schulbuchsektor
+
+- Schulbücher unterliegen dem BuchPrG (§ 2 BuchPrG): Gebundener Ladenpreis.
+- **Schulbuchkonditionenabkommen**: Vereinbarung zwischen Schulbuchverlagen und Buchhandel über Rabatte für Schulen und öffentliche Einrichtungen.
+- Typische Konditionen: Schulen erhalten 10 % unter Ladenpreis (als vereinbarter Sonderpreis, nicht als Preisbindungsunterschreitung).
+- **Wichtig**: Sonderpreis muss als eigenständiger gebundener Preis vom Verlag festgesetzt sein (§ 3 BuchPrG).
+
+## Öffentliche Beschaffung von Schulbüchern
+
+### Wer kauft Schulbücher?
+- **Schulträger** (Gemeinden, Landkreise, Länder): Kaufen Schulbücher für Schüler-Leihe-Systeme.
+- **Schüler selbst**: Eigenständiger Kauf über Buchhandel.
+- **Staatliche Bibliotheken und Bildungsministerien**: Großeinkauf für Lehrmittelsammlungen.
+
+### Vergaberecht
+- Beschaffungen über EU-Schwellenwert (2024: 221.000 € für öffentliche Auftraggeber): EU-weite Ausschreibung (VgV).
+- Unter Schwellenwert: Nationale Regelungen (UVgO); häufig Direktvergabe oder Angebotseinholung.
+- **Wichtig**: Auch im Vergabeverfahren gilt die Buchpreisbindung; Schulbuchverlag darf nicht unter gebundenem Preis anbieten.
+
+### Preisbindung in Ausschreibungen
+- Bieter (Buchhandel, Schulbuchverlag) dürfen keinen Preis unter dem gebundenen Ladenpreis anbieten.
+- Staatlicher Auftraggeber kann keine Rabatte unter dem Schulbuch-Sonderpreis verlangen.
+- Verstoß: Bieter, der unter gebundenem Preis anbietet, erfüllt Ausschreibungsbedingungen, begeht aber Preisbindungsverstoß.
+
+### Rahmenverträge und Kontingent-Aufträge
+- Öffentliche Auftraggeber schließen Rahmenverträge mit Buchlieferanten für mehrjährige Schulbuchversorgung.
+- Preise in Rahmenvertrag: Gebundene Ladenpreise der aktuellen Ausgaben; Anpassung bei Preisänderungen durch Verlag.
+
+## Digitalunterricht und digitale Schulbücher
+
+- E-Book-Varianten von Schulbüchern: Ebenfalls preisgebunden (BuchPrG § 2 Abs. 1 Nr. 3).
+- Campuslizenzen / Schullizenzen: Sonderpreise für digitale Nutzungslizenzen sind technisch möglich, wenn als eigenständige Produkte mit eigenem Preis festgesetzt.
+- **Datenschutz**: Schulen in DE unterliegen DSGVO; Plattformen für digitale Schulbücher müssen DSGVO-konforme Datenverarbeitung nachweisen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Ausschreibungsangebot unter Ladenpreis**: Buchhandlung bietet Schulbücher mit 15 % Rabatt an → Preisbindungsverstoß auch im Vergabeverfahren.
+- **Zulassung abgelaufen**: Verlag vertreibt weiter Schulbuch ohne aktuelle Zulassung → Schulen können es nicht einsetzen; Umsatzeinbruch.
+- **Fehlende Barrierefreiheit**: Kultusministerium verweigert Zulassung für digitales Schulbuch wegen WCAG-Mängeln.
+- **Lehrplanänderung nicht beachtet**: Schulbuch inhaltlich veraltet nach Lehrplanrevision; Schulen wechseln zu Wettbewerber.
 
-## Output
+## Checkliste Schulbuchmarkt
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Zulassungsverfahren für alle Zielbundesländer gestartet
+- [ ] Schulbuch-Sonderpreis als gebundener Ladenpreis festgesetzt (§ 3 BuchPrG)
+- [ ] Vergaberechts-Compliance: Kein Angebot unter gebundenem Preis
+- [ ] Digitale Version: BITV/WCAG-Konformität und Datenschutzprüfung
+- [ ] Lehrplanänderungen im Blick: Revisionszyklus geplant
+- [ ] Rahmenverträge mit Schulbuchhandlungen auf Aktualität geprüft
+
+## Quellenreferenzen
+
+- BuchPrG §§ 2, 3: https://www.gesetze-im-internet.de/buchprg/
+- GWB §§ 97 ff.: https://dejure.org/gesetze/GWB/97.html
+- VgV: https://www.gesetze-im-internet.de/vgv/
+- Börsenverein, Schulbuchkonditionen: https://www.boersenverein.de
+- KMK (Kultusministerkonferenz), Schulbuchzulassung: https://www.kmk.org
+
+## Output-Formate
+
+- **Zulassungsplanungs-Tabelle**: Alle Zielbundesländer × Status × Gültigkeitsdauer
+- **Schulbuchpreis-Festsetzungs-Protokoll**: Ladenpreis und Sonderpreis dokumentiert
+- **Vergaberechts-Check**: Ausschreibungsangebot auf Preisbindungs-Compliance geprüft
+- **Lehrplan-Übereinstimmungs-Matrix**: Fach, Klasse, Bundesland
+- **Digitales-Schulbuch-Checkliste**: DSGVO, Barrierefreiheit, Plattformzertifizierung

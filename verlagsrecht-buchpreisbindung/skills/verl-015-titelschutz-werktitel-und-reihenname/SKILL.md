@@ -1,46 +1,122 @@
 ---
 name: verl-015-titelschutz-werktitel-und-reihenname
-description: "Verlagsrecht: Titelschutz Werktitel und Reihenname mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschriftentitel — UrhG § 5, MarkenG § 5, UWG-Titelschutz, Kollisionsrisiken und Durchsetzung."
 ---
 
-# Verlagsrecht: Titelschutz Werktitel und Reihenname
+# Verl-015 · Titelschutz: Werktitel und Reihenname
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Titelschutz Werktitel und Reihenname** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der **Titelschutz** schützt die Bezeichnung eines Werks, einer Reihe oder einer Zeitschrift vor Verwechslung und Ausbeutung durch Dritte. Er entsteht automatisch — ohne Registrierung — mit der Veröffentlichung und beinhaltet sowohl eine urheberrechtliche als auch eine wettbewerbsrechtliche Dimension. Dieser Skill klärt Entstehung, Umfang, Kollisionsprüfung und Durchsetzung des Titelschutzes im Verlagsbereich.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| MarkenG § 5 Abs. 1 | Werktitel als geschützte Kennzeichnung | https://dejure.org/gesetze/MarkenG/5.html |
+| MarkenG § 15 | Ausschließlichkeitsrecht, Unterlassung, Schadensersatz | https://dejure.org/gesetze/MarkenG/15.html |
+| MarkenG § 6 | Kollisionsrecht: Priorität und Verwechslungsgefahr | https://dejure.org/gesetze/MarkenG/6.html |
+| UrhG § 2 Abs. 1 Nr. 1 | Urheberrecht am Titel (wenn eigentümlich) | https://dejure.org/gesetze/UrhG/2.html |
+| UWG § 5 | Irreführende Benutzung ähnlicher Titel | https://dejure.org/gesetze/UWG/5.html |
+| UWG § 4 Nr. 3 | Nachahmungsschutz | https://dejure.org/gesetze/UWG/4.html |
 
-## Prüfprogramm
+## Entstehung und Inhalt des Titelschutzes
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Entstehung (MarkenG § 5 Abs. 1)
+- Titelschutz entsteht mit der **tatsächlichen Benutzungsaufnahme**, d.h. mit dem Erscheinen des Werks oder — nach BGH-Rechtsprechung — bereits mit einer ernst gemeinten Benutzungsabsicht (Vorbenutzungsschutz durch Anzeige, Ankündigung).
+- **Keine Registrierung nötig**: Werktitelschutz entsteht kraft Gesetzes.
+- Abgrenzung: Neben dem Werktitelschutz kann für denselben Titel **Markenrecht** durch Anmeldung beim DPMA entstehen.
+
+### Welche Titel sind geschützt?
+- **Einzelwerktitel**: „Der Steppenwolf", „Faust", „Der Spiegel"
+- **Reihentitel**: „Harry Potter", „Duden", „Beck'scher Kurzkommentar"
+- **Zeitschriftentitel**: „Der Spiegel", „Stern", „FAZ"
+- **Titelergänzungen**: Untertitel können mitgeschützt sein, wenn sie unterscheidungskräftig sind
+- **Nicht geschützt**: Rein beschreibende Titel ohne Unterscheidungskraft (z.B. „Einführung in das Steuerrecht")
+
+### Verwechslungsgefahr (§ 6 MarkenG)
+- Maßgeblich: Ob der Verkehr (Buchkäufer) die Titel verwechseln könnte.
+- Kriterien: Buchstaben-/Klangähnlichkeit, Bedeutungsähnlichkeit, Warennähe (Buchkategorie), Bekanntheit des älteren Titels.
+- BGH: Bei berühmten Titeln (z.B. „Harry Potter") weiterer Schutzbereich; bereits entfernte Ähnlichkeit kann ausreichen.
+
+## Kollisionsprüfung vor Titelvergabe
+
+### Prüfungsschritte
+1. **Titelrecherche im VLB**: Lieferbares Verzeichnis aller lieferbaren Bücher — kostenfrei, nicht vollständig.
+2. **DNB-Recherche (Deutsche Nationalbibliothek)**: Alle erschienenen deutschen Bücher; umfassend.
+3. **DPMA-Markenrecherche**: Recherche auf identische oder ähnliche eingetragene Marken.
+4. **Buchhandelsübliche Recherche**: Wettbewerber-Titelübersicht in der Buchkategorie.
+5. **Domain-Recherche**: Ist der Titel als .de-Domain bereits vergeben?
+6. **Social-Media-Recherche**: Bestehende Profile mit dem Titel.
+
+### Risiko-Bewertung
+- **Identischer Titel**: Höchstes Risiko; in derselben Buchkategorie → Unterlassung wahrscheinlich.
+- **Ähnlicher Titel**: Verwechslungsgefahr prüfen; ggf. mit Abstand differenzieren (Untertitel, Reihenname).
+- **Ähnlicher Titel in anderer Buchkategorie**: Geringeres Risiko; Warennähe-Argument prüfen.
+
+## Vorbenutzungsschutz und Titelschutzanzeige
+
+### Titelschutzanzeige im Börsenblatt
+- Übliche Praxis: Verlage zeigen Titel im Börsenblatt des Deutschen Buchhandels an, bevor das Werk erscheint.
+- Rechtswirkung: Begründet nach BGH-Rechtsprechung einen frühzeitigen Titelschutz durch dokumentierte Benutzungsabsicht.
+- Form: Formlose Anzeige; enthält Werktitel, Reihennamen, Verlagsname, Erscheinungsart.
+
+## Durchsetzung des Titelschutzes
+
+### Unterlassungsanspruch (§ 15 MarkenG)
+- Inhaber des älteren Titels kann Unterlassung, Beseitigung und Schadensersatz verlangen.
+- Schadensersatzberechnung: Lizenzanalogie, entgangener Gewinn oder Verletzergewinn.
+
+### Prozessuales
+- Einstweilige Verfügung: Bei offensichtlicher Verwechslungsgefahr; schnell (1–3 Wochen).
+- Hauptsacheklage: LG Hamburg, LG Frankfurt, LG München I — klassische Titelschutz-Gerichte.
+- Streitwert: Typisch 25.000 – 100.000 € für Werktitel-Streitigkeiten.
+
+### Verteidigung gegen Ansprüche
+- Älterer eigener Titel: Nachweis durch Erscheinungsdatum, VLB-Eintrag, Titelschutzanzeige.
+- Kein Titelschutz des Klägers: Titel ist freihaltebedürftig (beschreibend) oder nicht unterscheidungskräftig.
+- Kein Unterlassung wegen Koexistenz: Beide Titel koexistieren im Markt ohne tatsächliche Verwechslung.
+
+## Reihenname und Periodika
+
+### Reihentitel
+- Reihenname („beck'sche Reihe", „Suhrkamp Taschenbuch") genießt eigenen Titelschutz.
+- Jeder neue Reihenband trägt den Reihentitel → permanente Nutzung hält Schutz aufrecht.
+- Lizenzierung des Reihentitels an Dritte ist möglich, aber riskant (Verwässerung).
+
+### Zeitschriften
+- Zeitschriftentitel: Starker Schutz durch jahrzehntelange Benutzung und Bekanntheit.
+- Einstellung einer Zeitschrift: Titelschutz erlischt nach ca. 5 Jahren Nichtbenutzung (§ 26 MarkenG analog).
+- Reaktivierung des Titels: Möglich bei Wiederbelebung der Zeitschrift; Priorität gegenüber Nachahmern.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Beschreibender Titel ohne Schutz**: Verlage wählen stark deskriptive Titel (z.B. „Einführung in das Strafrecht") und wundern sich über fehlenden Schutz bei Imitation.
+- **Titelschutzanzeige vergessen**: Wettbewerber erscheint einen Tag früher mit demselben Titel → prioritätsähnliche Situation entsteht.
+- **Markenrecht übersehen**: Neben dem Werktitelschutz hat Dritter denselben Titel als Marke eingetragen → Marken-Ansprüche können stärker sein.
+- **Reihentitel-Verwässerung**: Verlag lizenziert Reihennamen an Dritte ohne Qualitätskontrolle → Aufgabe des Schutzrechts.
 
-## Output
+## Checkliste Titelschutz
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] VLB- und DNB-Recherche durchgeführt
+- [ ] DPMA-Markenrecherche durchgeführt
+- [ ] Titelschutzanzeige im Börsenblatt veröffentlicht
+- [ ] Domain und Social-Media-Handles gesichert
+- [ ] Reihenname: eigenes Markenrecht angemeldet (DPMA)?
+- [ ] Lizenzierungsverträge für Reihentitel enthalten Qualitätskontroll-Klausel
+
+## Quellenreferenzen
+
+- MarkenG §§ 5, 15: https://dejure.org/gesetze/MarkenG/5.html
+- BGH „Titelschutz", I ZR 178/00: https://www.bgh.de
+- BGH „Pippi-Langstrumpf-Silhouette" I ZR 154/16: https://www.bgh.de
+- Börsenblatt Titelschutzanzeigen: https://www.boersenblatt.net/titelschutz
+- VLB Titelrecherche: https://www.vlb.de
+
+## Output-Formate
+
+- **Titelschutz-Recherchebericht**: Ergebnis aller Rechercheschritte
+- **Kollisionsrisikoanalyse**: Ampelbewertung mit Begründung
+- **Titelschutzanzeige-Entwurf** für Börsenblatt
+- **Abmahnungsentwurf** bei fremder Titelnutzung
+- **Verteidigungsschrift** gegen Titelschutz-Abmahnung

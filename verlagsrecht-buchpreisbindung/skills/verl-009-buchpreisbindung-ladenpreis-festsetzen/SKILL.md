@@ -1,46 +1,113 @@
 ---
 name: verl-009-buchpreisbindung-ladenpreis-festsetzen
-description: "Verlagsrecht: Buchpreisbindung Ladenpreis festsetzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis."
 ---
 
-# Verlagsrecht: Buchpreisbindung Ladenpreis festsetzen
+# Verl-009 · Buchpreisbindung: Ladenpreis festsetzen
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Buchpreisbindung Ladenpreis festsetzen** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill führt durch den **Prozess der Ladenpreisfestsetzung** nach dem Buchpreisbindungsgesetz (BuchPrG): Wer darf den Preis festsetzen, wie ist er zu melden, welche Produkte sind erfasst, welche Ausnahmen bestehen und wie wird die Preisbindung gegenüber dem Buchhandel durchgesetzt.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG § 1 | Zweck: kulturelle Vielfalt, Buchhandelsstruktur | https://www.gesetze-im-internet.de/buchprg/__1.html |
+| BuchPrG § 2 | Geltungsbereich: Bücher, Noten, Landkarten, E-Books | https://www.gesetze-im-internet.de/buchprg/__2.html |
+| BuchPrG § 3 | Festsetzungspflicht: Verleger und Importeur | https://www.gesetze-im-internet.de/buchprg/__3.html |
+| BuchPrG § 4 | Preisbindungsklausel im Buchhandelsvertrag | https://www.gesetze-im-internet.de/buchprg/__4.html |
+| BuchPrG § 5 | Bindung des Letztabnehmers | https://www.gesetze-im-internet.de/buchprg/__5.html |
+| BuchPrG § 6 | Ausnahmen von der Preisbindung | https://www.gesetze-im-internet.de/buchprg/__6.html |
+| BuchPrG § 7 | Änderung und Aufhebung des Preises | https://www.gesetze-im-internet.de/buchprg/__7.html |
+| BuchPrG § 9 | Ansprüche bei Verstößen | https://www.gesetze-im-internet.de/buchprg/__9.html |
 
-## Prüfprogramm
+## Wer setzt den Preis fest?
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### § 3 Abs. 1 BuchPrG — Festsetzungspflicht
+- **Verleger**: Jede in Deutschland erscheinende Buchausgabe muss vom Verleger mit einem Ladenpreis versehen werden.
+- **Importeur**: Wer Bücher aus dem Ausland nach Deutschland einführt und dort vertreibt, muss ebenfalls einen Preis festsetzen.
+- **Self-Publishing-Plattformen** (BoD, KDP Print): Die Plattform übernimmt die Verlegerfunktion, wenn sie das Buch in Deutschland erscheinen lässt; Preisfestsetzung durch die Plattform im Namen des Autors.
+
+### § 3 Abs. 2 BuchPrG — Inhalt der Preisfestsetzung
+- Ladenpreis muss für **jede einzelne Ausgabe** (Hardcover, Paperback, E-Book) separat festgesetzt werden.
+- Preis in Euro inkl. MwSt. (Endkundenpreis, Ladenpreis).
+- Keine automatische Bindung des Importeurs an den ausländischen Preis des Verlags.
+
+## Produkte im Geltungsbereich (§ 2 BuchPrG)
+
+| Produkt | Preisgebunden | Bemerkungen |
+|---------|--------------|-------------|
+| Bücher (Sprachwerke) | Ja | Papiergebunden, alle Formate |
+| Noten | Ja | Musiknoten, Liederbücher |
+| Kartografische Erzeugnisse | Ja | Landkarten, Stadtpläne |
+| E-Books | Ja (seit 2016) | Wenn Inhalt auch als Buch erscheint |
+| Hörbücher (physisch) | Ja | CD, Kassette |
+| Hörbücher (Download/Stream) | Nein | Kein Buch i.S.d. BuchPrG |
+| Schulbücher | Ja | Besondere Konditionenregelungen |
+| Taschenbücher | Ja | Auch Book-on-Demand |
+| Zeitschriften | Nein | Kein Buch |
+| Spiele, Apps | Nein | Selbst wenn buchähnlich |
+
+## Preismeldung und VLB
+
+- **VLB (Verzeichnis Lieferbarer Bücher)**: Branchen-Datenbank des Börsenvereins; Verlag meldet ISBN, Ladenpreis, Ausgabetyp.
+- Nicht gesetzlich vorgeschrieben, aber faktisch Standard; ohne VLB-Eintrag ist Vertrieb über den regulären Buchhandel kaum möglich.
+- **Datenmeldung**: Über VLB-Webportal oder EDI-Schnittstelle; ISBN 13-stellig, BISAC/Warengruppe, Erscheinungsdatum, Preis.
+- Verlagsauslieferung (Prolit, KNV/VVA, Umbreit) übernimmt häufig die VLB-Meldung.
+
+## Preisänderung und -aufhebung (§ 7 BuchPrG)
+
+- Verleger darf den Preis **jederzeit ändern oder aufheben**.
+- Preissenkung: Sofort wirksam; Buchhandel muss zum neuen Preis verkaufen.
+- Preiserhöhung: Buchhandel muss neuen Preis anwenden, sobald er ihm mitgeteilt wird; bereits ausgepreiste Exemplare können zum alten Preis verkauft werden, sofern nicht anders vereinbart.
+- **Vergriffserklärung**: Wenn der Titel nicht mehr lieferbar ist, kann der Preis aufgehoben werden (§ 7 Abs. 2 BuchPrG); danach kein Preisbindungsverstoß durch Buchhandel mehr.
+
+## Ausnahmen von der Preisbindung (§ 6 BuchPrG)
+
+1. **Beschädigte Exemplare**: Mängelexemplare mit deutlicher Kennzeichnung.
+2. **Remittenden** (Remittierungs-Rückläufer): Vom Buchhandel zurückgesandte, ggf. beschädigte Exemplare.
+3. **Bücher, die länger als 18 Monate beim Händler liegen** (Altexemplare mit Kenntlichmachung).
+4. **Institutionelle Abnahmen**: Bibliotheken, Schulen — Sonderkonditionen zulässig, aber kein Unterschreiten des Ladenpreises ohne ausdrückliche Freistellung.
+5. **Bücher zu wissenschaftlichen, kirchlichen oder staatlichen Zwecken** nach besonderer Regelung.
+6. **Musterexemplare** für Rezensenten und Presse (Rezensionsexemplare).
+
+## E-Book-Preisbindung
+
+- E-Books unterliegen seit 2016 der Preisbindung, wenn sie in Deutschland erscheinen (BuchPrG § 2 Abs. 1 Nr. 3).
+- **Separate Preisfestsetzung** für jedes Format (EPUB, MOBI, PDF) empfohlen.
+- **Plattform-Rabatte**: Amazon, Apple Books dürfen keinen Preis unter dem gebundenen Ladenpreis anbieten; Plattformrabatte auf Kosten des Verlags sind zulässig, wenn Endkundenpreis stimmt.
+- **Promotions-Ausnahmen**: Zeitlich begrenzte Aktionspreise sind nach § 7 BuchPrG als temporäre Preissenkung möglich.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Preis nicht für E-Book gesondert festgesetzt**: E-Book erscheint ohne explizit gemeldeten E-Book-Preis → Preisbindungsverstoß des Verlags selbst.
+- **Importeur übernimmt Auslandspreis ohne Umrechnung**: Preisbindung gilt für den deutschen Markt; EUR-Preis muss eigenständig festgesetzt werden.
+- **Vergünstigungen an Institutionen ohne Freistellung**: Bibliotheksrabatt ohne § 6-Ausnahme → Verstoß.
+- **Ladenpreis für Remittenden nicht gekennzeichnet**: Remittend ohne deutliche Kenntlichmachung kann nicht unter Ladenpreis verkauft werden.
+- **VLB-Preis und Rechnungspreis weichen ab**: Händler meldet Preisverstoß; tatsächlich lag Irrtum im VLB-Eintrag vor.
 
-## Output
+## Checkliste Ladenpreisfestsetzung
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Preis für jede Ausgabe (Print, E-Book, Hörbuch) separat festgesetzt
+- [ ] VLB-Meldung mit korrektem EUR-Preis und ISBN
+- [ ] Preisänderungen dem Buchhandel schriftlich/elektronisch mitgeteilt
+- [ ] Ausnahmen nach § 6 BuchPrG dokumentiert
+- [ ] Remittenden-Kennzeichnung sichergestellt
+- [ ] Plattformverträge auf Preisbindungs-Compliance geprüft
+
+## Quellenreferenzen
+
+- BuchPrG: https://www.gesetze-im-internet.de/buchprg/
+- Börsenverein, Buchpreisbindung Erläuterungen: https://www.boersenverein.de/themen-positionen/buchmarkt/buchpreisbindung/
+- BGH „Paperboy" I ZR 259/00 (Preisbindung Online): https://www.bgh.de
+- LG Frankfurt, Urt. v. 02.12.2015 (E-Book-Preisbindung): https://openjur.de
+- Börsenblatt, VLB-Datenmeldung: https://www.boersenblatt.net
+
+## Output-Formate
+
+- **Preisfestsetzungs-Memo**: Alle Ausgaben mit festgesetzten Preisen
+- **VLB-Checkliste**: Pflichtfelder für korrekte Datenmeldung
+- **Ausnahmen-Protokoll**: § 6 BuchPrG-Ausnahmen mit Belegen
+- **Preisänderungsschreiben** an Buchhandel
+- **E-Book-Plattform-Compliance-Check**

@@ -1,46 +1,119 @@
 ---
 name: verl-017-vg-wort-meldung-beteiligung-und-ausschuettung
-description: "Verlagsrecht: VG Wort Meldung Beteiligung und Ausschüttung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis."
 ---
 
-# Verlagsrecht: VG Wort Meldung Beteiligung und Ausschüttung
+# Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **VG Wort Meldung Beteiligung und Ausschüttung** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die **VG Wort** (Verwertungsgesellschaft Wort) nimmt Vergütungsansprüche für Urheber von Sprachwerken wahr, die durch Gesetz entstehen (z.B. Kopiergeräte-Vergütung nach § 54 UrhG, Bibliothekstantieme nach § 27 UrhG). Dieser Skill klärt, wer der VG Wort beitreten kann, welche Werke gemeldet werden müssen, wie Ausschüttungen berechnet werden und welche Rolle Verlage dabei spielen.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 27 | Bibliothekstantieme: Vergütung für Verleih | https://dejure.org/gesetze/UrhG/27.html |
+| UrhG §§ 54–54h | Geräte- und Speichermedienvergütung (Kopiervergütung) | https://dejure.org/gesetze/UrhG/54.html |
+| VGG § 1 | Aufgaben der Verwertungsgesellschaft | https://www.gesetze-im-internet.de/vgg/__1.html |
+| VGG § 27 | Wahrnehmungsvertrag: Rechte und Pflichten | https://www.gesetze-im-internet.de/vgg/__27.html |
+| VGG § 28 | Tarifaufstellung der VG Wort | https://www.gesetze-im-internet.de/vgg/__28.html |
+| VGG §§ 26 ff. | Verteilung der Einnahmen | https://www.gesetze-im-internet.de/vgg/ |
+| BGH „Verlegeranteil" | Verleger können keine eigenen Vergütungsansprüche bei VG Wort geltend machen | https://www.bgh.de |
 
-## Prüfprogramm
+## Struktur der VG Wort
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Mitglieder
+- **Berechtigte**: Urheber von Sprachwerken (Autoren, Journalisten, Übersetzer, Wissenschaftler) und **Verleger**.
+- **Mitgliedschaft**: Erfordert Wahrnehmungsvertrag mit VG Wort.
+- Wichtige Einschränkung (BGH, I ZR 198/13 „Verlegeranteil"): Verlage sind keine Urheber; sie dürfen bei VG Wort keine Tantiemen auf Kosten der Autoren beanspruchen, die auf Urheberrechten basieren. Verlegeranteil im Verteilungsplan wurde 2016 nach BGH-Urteil reformiert.
+
+### Reformierter Verteilungsplan nach 2016
+- Nach BGH-Urteil 2016: VG Wort hat Verteilungsplan geändert; Verlage erhalten nur noch Anteil aus Rechten, die Autoren ihnen ausdrücklich übertragen haben.
+- Verlag-Beteiligung: Autor kann in Wahrnehmungsvertrag oder Verlagsvertrag Verlag an VG-Wort-Erlösen beteiligen (Abtretungsklausel).
+
+## Werkmeldung
+
+### Meldepflichten des Autors
+- Autoren müssen ihre Werke aktiv bei VG Wort **melden**, um an der Ausschüttung zu partizipieren.
+- Meldeportal: METIS (Meldung für wissenschaftliche Texte), Belletristik-Portal, Onlineportal T.O.M.
+- Meldefrist: Jährlich; Werke müssen bis zum 31. Januar des Folgejahres für das Vorjahr gemeldet sein.
+
+### Was kann gemeldet werden?
+- **Bücher**: Sprachwerke mit ISBN; gedruckte und digitale Ausgaben.
+- **Zeitschriften- und Zeitungsbeiträge**: Einzelne Artikel mit Angabe der Publikation.
+- **Online-Texte** (METIS): Seit 2007 können Online-Texte ab 1.800 Zeichen gemeldet werden.
+- **Wissenschaftliche Texte**: Hochschulschriften, Fachaufsätze.
+
+### Mindeststärke
+- Bücher: Mindestumfang 4 Normseiten (ca. 5.600 Zeichen).
+- Periodika-Beiträge: Mindestlänge 1.800 Zeichen.
+
+## Ausschüttung
+
+### Arten der Ausschüttungen
+1. **Bücher / Buchkapitel**: Anteil an Kopiergeräte-Vergütung (§§ 54 ff. UrhG), Bibliothekstantieme (§ 27 UrhG).
+2. **Presse**: Zeitungs- und Zeitschriftenartikel aus Presseverlagen.
+3. **Wissenschaft**: Sonderausschüttungen für wissenschaftliche Autoren (METIS-Auswertung).
+4. **Online-Texte**: METIS-basierte Erfassung von Zugriffen auf Online-Texte.
+
+### Ausschüttungskalender
+- Bücher: Jährliche Hauptausschüttung; i.d.R. im Frühjahr.
+- Presse: Vierteljährliche oder halbjährliche Ausschüttung.
+- Nachschüttung: Falls nach der Hauptausschüttung noch Mittel verbleiben.
+
+### Berechnung
+- Verteilungsplan der VG Wort legt Punktewerte für verschiedene Werkarten fest.
+- Buch mit hoher Auflage erhält mehr Punkte als Nischentitel.
+- Punkte × Punktewert (€/Punkt aus Gesamteinnahmen) = Ausschüttung.
+
+## Verlegeranteil und Vertragsbeteiligung
+
+### Rechtslage nach 2016
+- Verlag kann VG-Wort-Erlöse nur dann beanspruchen, wenn Autor ihm ausdrücklich seine VG-Wort-Ansprüche abgetreten oder zur Wahrnehmung übertragen hat.
+- Klausel im Verlagsvertrag: „Der Autor überträgt dem Verlag die Hälfte seiner Ansprüche gegenüber der VG Wort."
+- Ohne solche Klausel: Verlag erhält nichts von der VG Wort.
+
+### Empfehlung
+- Neue Verlagsverträge: Explizite Regelung der VG-Wort-Beteiligung (Anteil, Abrechnungsmodalität).
+- Altverträge: Prüfen, ob eine Beteiligungsklausel vorhanden und nach 2016-Rechtslage noch wirksam ist.
+
+## METIS — Online-Text-Meldung
+
+- METIS (Meldung elektronischer Texte) erfasst Abrufe von Online-Texten durch Bibliotheken und Hochschulen.
+- Autoren melden Online-Texte inklusive URL.
+- VG Wort prüft Abrufzahlen; Ausschüttung je nach Zugriffszahl.
+- Wichtig: URL muss stabil und dauerhaft sein; Texte hinter Paywalls sind meldbar.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Meldefrist versäumt**: Jahresfrist bis 31. Januar; nicht rückwirkend nachholbar.
+- **Verlegeranteil-Klausel fehlt**: Alter Verlagsvertrag ohne explizite Abtretungsklausel → Verlag erhält nach 2016 nichts.
+- **Doppelmeldung**: Autor meldet für Kapitel im Sammelwerk; Herausgeber meldet das Gesamtwerk → VG Wort-Richtlinie regelt Abgrenzung; Abstimmung notwendig.
+- **Falsche Angaben**: Auflagenzahl oder Seitenumfang falsch → Korrektur über METIS möglich.
+- **Online-Text-URL veraltet**: METIS-Meldung mit alter URL → keine Zugriffe zählbar.
 
-## Output
+## Checkliste VG Wort
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Wahrnehmungsvertrag mit VG Wort abgeschlossen (Autor)
+- [ ] Alle Bücher, Artikel, Online-Texte des Vorjahres bis 31. Januar gemeldet
+- [ ] Verlagsvertrag: Verleger-Beteiligungsklausel vorhanden und rechtswirksam (post-2016)
+- [ ] METIS-Meldungen: URLs geprüft und aktuell
+- [ ] Ausschüttungsbelege für Buchhaltung gespeichert
+- [ ] Sammelwerk: Abgrenzung Autor-Kapitel / Herausgeber-Gesamtwerk koordiniert
+
+## Quellenreferenzen
+
+- VGG: https://www.gesetze-im-internet.de/vgg/
+- UrhG §§ 54–54h: https://dejure.org/gesetze/UrhG/54.html
+- VG Wort, Verteilungsplan: https://www.vgwort.de/verguetungen/verteilungsplan.html
+- BGH „Verlegeranteil" I ZR 198/13: https://www.bgh.de
+- VG Wort METIS: https://tom.vgwort.de
+
+## Output-Formate
+
+- **Meldeliste**: Alle Werke mit Meldefristen und -status
+- **Ausschüttungsprognose**: Grobe Berechnung auf Basis von Auflage und Werkart
+- **Verleger-Beteiligungscheck**: Vertragsklausel vorhanden / fehlt / reformbedürftig
+- **METIS-Melde-Entwurf**: Strukturiertes Formular für Online-Texte
+- **Jahresabschluss-Auswertung**: Tatsächliche Ausschüttungen vs. Erwartungen

@@ -1,46 +1,143 @@
 ---
 name: verl-044-verlagsgesetz-paragraphen-navigator
-description: "Verlagsrecht: Verlagsgesetz Paragraphen-Navigator mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB."
 ---
 
-# Verlagsrecht: Verlagsgesetz Paragraphen-Navigator
+# Verl-044 · Verlagsgesetz: Paragraphen-Navigator
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Verlagsgesetz Paragraphen-Navigator** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den klassischen Verlagsvertrag. Dieser Skill bietet einen vollständigen Navigationsführer durch alle relevanten Paragraphen des VerlG mit Funktion, Anwendungsfall und Querverweisen.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen (Basis-URL)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- VerlG Volltext: https://www.gesetze-im-internet.de/verlg/
+- Dejure VerlG: https://dejure.org/gesetze/VerlG
+- BGB Querverweise: https://dejure.org/gesetze/BGB
+- UrhG Querverweise: https://dejure.org/gesetze/UrhG
 
-## Prüfprogramm
+## VerlG §§ 1–4: Verlagsvertrag und Grundpflichten
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### § 1 VerlG — Der Verlagsvertrag
+- **Funktion**: Definiert den Verlagsvertrag als Gegenseitigkeitsvertrag; Urheber verpflichtet sich zur Überlassung des Werks; Verleger zur Vervielfältigung, Verbreitung und Zahlung des Honorars.
+- **Anwendungsfall**: Qualifikation eines Vertrags als VerlG-Vertrag; Abgrenzung zu Werkvertrag, Lizenzvertrag.
+- **Querverweise**: UrhG § 31 (Nutzungsrechtseinräumung), BGB § 631 (Werkvertrag).
 
-## Typische Fallen
+### § 2 VerlG — Ablieferungspflicht des Autors
+- **Funktion**: Autor schuldet Ablieferung in vereinbarter Frist und Form.
+- **Anwendungsfall**: Fristsetzung bei Verzug; Mängelrüge bei unvollständiger Ablieferung.
+- **Querverweise**: BGB §§ 280, 286 (Schadensersatz, Verzug).
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### § 3 VerlG — Manuskript-Mängel
+- **Funktion**: Verlag darf Manuskript zurückweisen, wenn es erhebliche Mängel aufweist.
+- **Anwendungsfall**: Qualitätsmangel; fehlende Teile; nicht-druckfertige Vorlage.
+- **Querverweise**: BGB §§ 634–636 (Mängelrechte Werkvertrag).
 
-## Output
+### § 4 VerlG — Änderungen am Manuskript
+- **Funktion**: Verlag darf Manuskript nur mit Zustimmung des Autors ändern.
+- **Anwendungsfall**: Lektorate ohne Autorenfreigabe; Entstellungsschutz.
+- **Querverweise**: UrhG § 14 (Entstellungsverbot).
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+## VerlG §§ 5–8: Erscheinungspflicht und Rücktritt
+
+### § 5 VerlG — Erscheinungspflicht
+- **Funktion**: Verlag muss das Werk nach Ablieferung innerhalb angemessener Frist erscheinen lassen.
+- **Anwendungsfall**: Fristsetzung durch Autor bei Verzögerung; Rücktrittsrecht bei Nichterscheinen.
+- **Querverweise**: BGB §§ 271, 286.
+
+### § 6 VerlG — Auflagen und Auflagenangemessenheit
+- **Funktion**: Auflage muss dem Markt angemessen sein; Autor kann Rechenschaft verlangen.
+- **Anwendungsfall**: Unverhältnismäßig kleine Auflagen; Nachdruckforderung.
+
+### § 7 VerlG — Rücktritt des Autors bei Nichterscheinen
+- **Funktion**: Rücktrittsrecht des Autors, wenn Verlag das Werk trotz Fristsetzung nicht erscheinen lässt.
+- **Anwendungsfall**: Häufigstes Rücktrittsrecht des Autors; Voraussetzungen: Fristsetzung, Nichterscheinen.
+- **Querverweise**: BGB §§ 323, 346 ff. (Rücktritt und Rückgewähr).
+
+### § 8 VerlG — Rücktritt wegen Verschuldens
+- **Funktion**: Gegenseitiges Rücktrittsrecht bei schuldhafter erheblicher Verletzung durch die andere Partei.
+- **Anwendungsfall**: Verlag verschuldet Erscheinungsverzug; Autor liefert schuldhaft nicht.
+- **Querverweise**: BGB § 280 (Schadensersatz wegen Pflichtverletzung).
+
+## VerlG §§ 9–16: Nutzungsrechte und Auflagen
+
+### §§ 9–12 VerlG — Nutzungsrecht und Verlagsrecht
+- **Funktion**: Regelungen über das Verlagsrecht (ausschließliches Nutzungsrecht des Verlags).
+- **Anwendungsfall**: Abgrenzung: Was darf der Verlag; was bleibt beim Autor?
+
+### § 13 VerlG — Nebenrechte
+- **Funktion**: Verlag hat i.d.R. auch Nebenrechte (Übersetzung, Bühne, Film) — soweit übertragen.
+- **Anwendungsfall**: Nebenrechte-Klausel im Verlagsvertrag; Sublizenzierung.
+
+### § 14 VerlG — Auflagenzahl und neue Auflagen
+- **Funktion**: Regelung über vereinbarte Auflagenzahl; neue Auflagen erfordern neue Vereinbarung.
+- **Anwendungsfall**: Autor fordert Neuauflage; Verlag verweigert.
+
+### § 15 VerlG — Ausstatttung des Werks
+- **Funktion**: Verlag bestimmt Ausstattung (Format, Preis, Cover); Autor hat Mitwirkungsrecht.
+- **Anwendungsfall**: Streit über Cover-Design, Preis, Format.
+
+### § 17 VerlG — Vergriffen-Erklärung und Rückfall
+- **Funktion**: Erklärt der Verlag das Werk für vergriffen und plant keine Neuauflage, fallen die Rechte an den Autor zurück.
+- **Anwendungsfall**: Autor möchte Werk anderswo verlegen nach Vergriffen-Erklärung.
+- **Querverweise**: UrhG § 41 (Rückruf wegen Nichtausübung).
+
+## VerlG §§ 18–27: Vergütung, Abrechnung und Honorar
+
+### § 22 VerlG — Honoraranspruch
+- **Funktion**: Autor hat Anspruch auf vereinbartes Honorar; Fälligkeit nach Ablieferung und Erscheinen.
+- **Anwendungsfall**: Ausbleibende Honorarzahlung.
+- **Querverweise**: UrhG § 32 (angemessene Vergütung).
+
+### § 23 VerlG — Berechnung des Honorars
+- **Funktion**: Berechnung nach Auflagenhöhe oder Absatz.
+- **Anwendungsfall**: Streit über Grundlage der Honorarberechnung.
+
+### § 24 VerlG — Abrechnungspflicht
+- **Funktion**: Verlag muss mindestens jährlich abrechnen.
+- **Anwendungsfall**: Fehlende oder fehlerhafte Abrechnung; Einsichtsrecht des Autors.
+- **Querverweise**: UrhG § 32d (Auskunftsanspruch).
+
+### § 28 VerlG — Neue Auflagen und neuer Honoraranspruch
+- **Funktion**: Jede neue Auflage begründet neuen Honoraranspruch.
+- **Anwendungsfall**: Überarbeitung für neue Auflage; Honorarverhandlung.
+
+## VerlG §§ 29–38: Beendigung und Sonderregeln
+
+### § 29 VerlG — Tod des Autors
+- **Funktion**: Verlagsvertrag gilt nach Tod des Autors für die vereinbarte Dauer weiter.
+- **Anwendungsfall**: Erben treten in Verlagsvertrag ein; Honorar an Erben.
+- **Querverweise**: UrhG § 28, BGB §§ 1922 ff.
+
+### § 35 VerlG — Übersetzungen
+- **Funktion**: Besondere Regelung für Übersetzungsverträge.
+- **Anwendungsfall**: Übersetzer als besonderer Vertragstyp.
+- **Querverweise**: UrhG § 3, VerlG §§ 1 ff.
+
+## Typische Anwendungsfälle im Überblick
+
+| Rechtsproblem | Einschlägige VerlG-Vorschrift | BGB/UrhG-Parallele |
+|--------------|------------------------------|-------------------|
+| Autor liefert nicht | § 2 VerlG | §§ 280, 286 BGB |
+| Verlag erscheint nicht | § 5 VerlG | § 323 BGB |
+| Rücktritt des Autors | § 7 VerlG | § 323 BGB |
+| Honorar ausgeblieben | § 22 VerlG | § 280 BGB |
+| Fehlerhafte Abrechnung | § 24 VerlG | § 32d UrhG |
+| Werk vergriffen | § 17 VerlG | § 41 UrhG |
+| Tod des Autors | § 29 VerlG | § 28 UrhG |
+
+## Quellenreferenzen
+
+- VerlG Volltext: https://www.gesetze-im-internet.de/verlg/
+- Dejure VerlG: https://dejure.org/gesetze/VerlG/1.html
+- UrhG: https://dejure.org/gesetze/UrhG
+- BGH zu VerlG-Fragen: https://www.bgh.de
+- Schricker/Loewenheim, Urheberrecht (Kommentar zu VerlG): aktuelle Auflage
+
+## Output-Formate
+
+- **§-Schnellnavigation**: Rechtsproblem → einschlägige VerlG-Vorschrift
+- **Vertragscheck-Matrix**: Verlagsvertrag vs. VerlG-Mindestanforderungen
+- **Abgrenzungs-Chart**: VerlG vs. BGB-Werkvertrag vs. Lizenzvertrag
+- **Fristenübersicht** aus VerlG
+- **Honorarberechnungs-Leitfaden** nach VerlG §§ 22–28

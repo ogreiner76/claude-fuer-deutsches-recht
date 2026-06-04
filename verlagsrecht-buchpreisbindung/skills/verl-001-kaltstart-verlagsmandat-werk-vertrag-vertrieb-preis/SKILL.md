@@ -1,46 +1,95 @@
 ---
 name: verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis
-description: "Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen."
 ---
 
-# Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis
+# Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill stellt den **Eingangspunkt** für alle verlagsrechtlichen Mandate dar. Er klärt in einem strukturierten Aufnahme-Gespräch, welches Werk, welcher Vertragstyp, welcher Vertriebsweg und welche Preisbindungssituation vorliegen – bevor irgendeine inhaltliche Bewertung beginnt. Ohne diese Grundlage laufen spätere Prüfschritte ins Leere oder produzieren fehlerhafte Ergebnisse.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen (Normenrahmen)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Fundstelle |
+|------|--------|-----------|
+| VerlG § 1 | Definition Verlagsvertrag: Verlagswerk, Pflicht zur Vervielfältigung und Verbreitung | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
+| VerlG § 2 | Hauptpflicht des Autors: Manuskriptablieferung in vereinbarter Form und Frist | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
+| UrhG § 31 | Rechteeinräumung: einfache und ausschließliche Nutzungsrechte | https://www.gesetze-im-internet.de/urhg/__31.html |
+| UrhG § 32 | Angemessene Vergütung: gemeinsame Vergütungsregeln, Anpassungsanspruch | https://dejure.org/gesetze/UrhG/32.html |
+| BuchPrG § 3 | Preisbindungspflicht des Verlegers und Importeurs | https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html |
+| BuchPrG § 5 | Bindung des Letztabnehmers an den festgesetzten Ladenpreis | https://www.gesetze-im-internet.de/buchprg/__5.html |
+
+## Kaltstart-Fragebogen (7 Dimensionen)
+
+### 1. Werkkategorie
+- Ist das Werk ein Sprachwerk (Roman, Sachbuch, Fachbuch), ein Sammelwerk, ein Datenbankwerk oder ein Übersetzungswerk?
+- Liegt ein Erst- oder Folgewerk vor (Reihe, Neuauflage, Überarbeitung)?
+- Gibt es Drittmaterial (Fotos, Tabellen, Karten, Zitate > § 51 UrhG), das eigenständige Nutzungsrechte erfordert?
+
+### 2. Vertragstyp und Rechtelage
+- Liegt ein Verlagsvertrag i.S.v. § 1 VerlG vor, oder handelt es sich um einen Lizenzvertrag, Agenturvertrag, Werkvertrag oder Dienstvertrag?
+- Welche Nutzungsarten sind übertragen (§ 31 Abs. 1 UrhG): print, digital, Hörbuch, Film, Übersetzung, Nebenrechte?
+- Ist die Übertragung exklusiv (ausschließlich) oder nicht-exklusiv (einfach)?
+- Gibt es Rückruf- oder Neuverhandlungsklauseln (VerlG § 17, UrhG § 41)?
+
+### 3. Parteienrolle
+- Wer ist Auftraggeber: Autor, Übersetzer, Herausgeber, Verlag, Buchhandlung, Bibliothek, Investor, Anwalt?
+- Ist der Verlag Erst- oder Folgeverlag (Lizenzgeber/nehmer)?
+- Gibt es eine Literaturagentur und welche Vollmacht hat sie?
+
+### 4. Vertriebswege und Erscheinungsformen
+- Print (Hardcover, Paperback, Taschenbuch), E-Book, PDF, Hörbuch, Streaming, Bundle?
+- Vertrieb über Buchhandel, Direktvertrieb, Amazon Marketplace, Bibliothekslieferer, Schulbuchhandel?
+- Gilt die deutsche Buchpreisbindung (BuchPrG)? Maßgeblich: Ort des Erscheinens oder Importeurs.
+
+### 5. Preisstruktur
+- Ist ein Ladenpreis bereits festgesetzt (§ 3 BuchPrG)? Wann? Durch wen?
+- Gibt es Sonderaktionen, Mengenrabatte, Bibliothekspreise oder Schulbuchkonditionen?
+- E-Book-Preis: eigenständige Festsetzung oder abgeleiteter Printpreis?
+
+### 6. Fristen und Verfahrensstatus
+- Läuft eine Abgabefrist für das Manuskript (§ 2 VerlG)?
+- Ist eine Abmahnung oder eine Klage wegen Preisbindungsverstoß anhängig (BuchPrG §§ 9–11)?
+- Steht ein Vertragsende, eine Rückrufankündigung oder eine Insolvenz bevor?
+
+### 7. Gewünschter Output
+- Vertragscheck / Redline
+- Preisbindungs-Ampel
+- Rechtekettenmatrix
+- Fristenplan
+- Entwurf: Autorenschreiben, Verlagsschreiben, Abmahnantwort
+- Dashboard für laufendes Verlagsprogramm
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. **Werkqualifikation**: Schriftwerk nach § 2 Abs. 1 Nr. 1 UrhG? Schöpfungshöhe bejaht?
+2. **Vertragstyp-Abgrenzung**: VerlG-Verlag vs. Herstellungsvertrag vs. Eigenverlag vs. Self-Publishing-Plattform
+3. **Rechtelücken**: Welche Nutzungsarten fehlen? Unbekannte Nutzungsarten (§ 31a UrhG)?
+4. **Vergütungsangemessenheit**: Ist die vereinbarte Vergütung im Licht der gemeinsamen Vergütungsregeln (VS/Verleger-Verbände) angemessen (§ 32 UrhG)?
+5. **Buchpreisbindungs-Status**: Unterliegt jede Ausgabe der Preisbindung? Ausnahmen (§ 6 BuchPrG) belegt?
+6. **Fristenübersicht**: Manuskriptabgabe, Erscheinungstermin, Abrechnungsfristen, Widerruf- und Rückruffristen
 
-## Typische Fallen
+## Typische Fallen beim Kaltstart
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Falsche Vertragstyp-Einordnung**: Ein „Verlagsvertrag" ohne Erscheinungspflicht ist kein VerlG-Vertrag; es gelten andere Regeln.
+- **Stille Nutzungsarten-Übertragung**: „Alle Rechte"-Klauseln übertragen nach § 31 Abs. 5 UrhG nur die erkennbar benötigten Nutzungsarten.
+- **Preisbindung übersehen**: Self-Publishing-Plattformen (BoD, KDP) unterliegen bei deutschem Erscheinungsort ebenfalls der Preisbindung.
+- **Fehlende Agenturvollmacht**: Agenturverträge ohne schriftliche Vollmacht können Verlagsverträge schwebend unwirksam machen.
+- **Keine Fristnotiz**: Ohne notierte Abgabe- und Erscheinungsfristen fehlt die Grundlage für Verzugsschreiben.
 
-## Output
+## Quellenreferenzen
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- Gesetze-im-Internet, VerlG: https://www.gesetze-im-internet.de/verlg/
+- Gesetze-im-Internet, BuchPrG: https://www.gesetze-im-internet.de/buchprg/
+- Dejure, UrhG § 31: https://dejure.org/gesetze/UrhG/31.html
+- Dejure, UrhG § 32: https://dejure.org/gesetze/UrhG/32.html
+- Börsenverein, Buchpreisbindung: https://www.boersenverein.de/themen-positionen/buchmarkt/buchpreisbindung/
+
+## Output-Formate
+
+- **Ampel**: Grün/Gelb/Rot je Dimension (Vertrag, Rechte, Preis, Fristen)
+- **Rechtekettenmatrix**: Tabelle aller Nutzungsarten mit Inhaberschaft und Lücken
+- **Fristenplan**: Alle laufenden und bevorstehenden Fristen mit Handlungsbedarf
+- **Verlagsbrief-Entwurf**: Musteranschreiben für erste Kontaktaufnahme oder Klärung
+- **Checkliste für Vollständigkeit der Unterlagen**

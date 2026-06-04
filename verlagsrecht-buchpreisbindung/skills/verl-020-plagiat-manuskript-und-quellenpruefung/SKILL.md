@@ -1,46 +1,122 @@
 ---
 name: verl-020-plagiat-manuskript-und-quellenpruefung
-description: "Verlagsrecht: Plagiat Manuskript und Quellenprüfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen."
 ---
 
-# Verlagsrecht: Plagiat Manuskript und Quellenprüfung
+# Verl-020 · Plagiat, Manuskript und Quellenprüfung
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Plagiat Manuskript und Quellenprüfung** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Plagiate in Verlagswerken können zum **Vertragsrücktritt, Haftungsansprüchen, Titelrückruf und Reputationsschäden** führen. Dieser Skill klärt die rechtliche Einordnung von Plagiaten, die Prüfpflichten von Autor und Verlag, die vertraglichen Absicherungen und die Reaktionskette bei einem Plagiatsfund.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 2 | Urheberrechtsverletzung durch unerlaubte Übernahme | https://dejure.org/gesetze/UrhG/2.html |
+| UrhG § 97 | Unterlassung und Schadensersatz bei UrhG-Verletzung | https://dejure.org/gesetze/UrhG/97.html |
+| UrhG § 98 | Vernichtungsanspruch: Rückruf und Einziehung | https://dejure.org/gesetze/UrhG/98.html |
+| BGB §§ 280, 311 | Schadensersatz bei Pflichtverletzung des Autors | https://dejure.org/gesetze/BGB/280.html |
+| VerlG § 2 | Mängelfreiheitspflicht: Manuskript ohne Rechtsverletzungen | https://www.gesetze-im-internet.de/verlg/__2.html |
+| StGB § 263 | Betrug: Wenn Plagiat bei Vertragsschluss verschwiegen | https://dejure.org/gesetze/StGB/263.html |
 
-## Prüfprogramm
+## Was ist ein Plagiat?
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Rechtliche Definition
+- **Plagiat** im urheberrechtlichen Sinne: Übernahme urheberrechtlich geschützter Werkteile ohne Genehmigung und ohne Quellenangabe.
+- Nicht jede Übernahme ist eine Urheberrechtsverletzung: Das Zitatrecht (§ 51 UrhG) erlaubt begrenzte Übernahmen.
+- Auch paraphrasierte Übernahmen ohne Quellenangabe können Plagiat sein (geistiger Diebstahl ohne exaktes Kopieren).
+
+### Abgrenzung
+- **Selbstplagiat**: Autor übernimmt eigene frühere Texte ohne Kennzeichnung → urheberrechtlich unproblematisch (Rechteinhaber ist derselbe), aber wissenschaftlich / verlegerisch problematisch.
+- **Ideendiebstahl**: Übernahme von Ideen und Konzepten ohne Zitat → Ideen sind nicht schutzfähig; kein Urheberrechtsproblem, aber ggf. akademische Redlichkeitsanforderung verletzt.
+- **Ghostwriting**: Ghostwriter schreibt unter fremdem Namen; Einverständnis des nominellen Autors → keine Verletzung des Ghostwriters; aber Transparenzfragen für Leser.
+
+## Prüfpflichten
+
+### Autor (VerlG § 2)
+- Autor schuldet dem Verlag ein **rechtsmängelfreies Manuskript**: keine Urheberrechtsverletzungen, keine unbefugten Entlehnungen.
+- Eigenverantwortliche Quellenprüfung vor Abgabe.
+- Freistellungsklausel im Verlagsvertrag: Autor stellt Verlag von Ansprüchen Dritter frei.
+
+### Verlag
+- Kein gesetzliches Plagiats-Prüfungsgebot für Verlage, aber:
+- **Sorgfaltspflicht**: Verlag muss bei begründeten Zweifeln prüfen; bekannte Plagiatsprobleme ignorieren → Mitverantwortung.
+- Praxis-Standard: Plagiatsprüfung bei wissenschaftlichen Verlagen üblich (iThenticate, Turnitin); bei Belletristik seltener.
+
+## Technische Plagiatsprüfung
+
+### Tools
+- **iThenticate** / Turnitin: Professionelle Plagiatssoftware für Wissenschaftsverlag; vergleicht mit globalem Textkorpus.
+- **PlagScan, Copyscape**: Für Online-Texte und allgemeine Prüfung.
+- **Gratis-Tools** (Plagiarism Checker, PlagAware): Weniger umfassend; für einfache Überprüfung.
+
+### Interpretation der Ergebnisse
+- Ähnlichkeit-Prozentsatz allein ist kein Rechtsbefund; Kontext entscheidend.
+- Erlaubte Zitate (§ 51 UrhG), Common-Knowledge-Sätze, Definitionen → können trotz Ähnlichkeit unproblematisch sein.
+- Rechtliche Bewertung muss durch Mensch erfolgen.
+
+## Plagiatsfund vor Erscheinen
+
+### Reaktionskette Verlag → Autor
+1. Schriftlicher Hinweis an Autor mit Fundstellennachweis.
+2. Fristsetzung zur Stellungnahme und Klärung.
+3. Wenn Plagiat bestätigt: Fristsetzung zur Beseitigung (Überarbeitung, Quellenangaben, Kürzen).
+4. Bei erheblichem Plagiat oder Verweigerung: Rücktritt vom Verlagsvertrag (§ 8 VerlG), Schadensersatzanspruch.
+
+### Rückzahlung des Vorschusses
+- Bei Rücktritt wegen Plagiat (Autorenverschulden): Vorschussrückzahlung üblich; vertragliche Regelung maßgeblich.
+
+## Plagiatsfund nach Erscheinen
+
+### Urheberrechtliche Ansprüche des geschädigten Urhebers gegen Verlag und Autor
+- Unterlassung (§ 97 Abs. 1 UrhG): Verbot des weiteren Vertriebs.
+- Schadensersatz (§ 97 Abs. 2 UrhG): Lizenzanalogie, entgangener Gewinn, Verletzergewinn.
+- Vernichtung (§ 98 UrhG): Rückruf aller Exemplare, Einziehung des Lagerbestands.
+
+### Titelrückruf
+- Öffentlicher Rückruf aller Exemplare aus dem Handel.
+- Kostspielig; schadet Ruf des Verlags und des Autors erheblich.
+- Alternative: Berichtigung in Neuauflage, wenn Plagiat auf einzelne Passagen beschränkt.
+
+### Freistellungsanspruch des Verlags gegen Autor
+- Hat der Autor die Freistellungsklausel im Vertrag akzeptiert → Verlag kann alle Kosten (Schadensersatz, Rückrufkosten, Anwaltskosten) vom Autor einfordern.
+- Praktischer Wert beschränkt, wenn Autor mittellos ist.
+
+## Wissenschaftliche Verlage — Besonderheiten
+
+- Peer Review als erste Prüflinie: Gutachter können Plagiate erkennen.
+- Retraction: Standardprozess in der Wissenschaftspublizistik; Artikel oder Buch wird zurückgezogen; Retraction-Datenbank (Retraction Watch) dokumentiert.
+- Akademische Folgen für Autor: Disziplinarmaßnahmen durch Hochschule.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Passagen aus Wikipedia**: Häufig unerkannte Selbstplagiat-Quelle; Wikipedia-Text ist meist CC BY-SA → Nutzung im kommerziellen Buch ohne ShareAlike-Klausel problematisch.
+- **Übersetzungsplagiart**: Autor übersetzt fremdsprachigen Text ohne Genehmigung des Originalverlags und eigene Übersetzernennung → Urheberrechtsverletzung.
+- **Kumulierte Kurzübernahmen**: Jede einzelne Passage wäre als Zitat zulässig, aber die Masse der Übernahmen ergibt de facto ein Plagiat.
+- **Selbstplagiat bei Dissertation → Buchfassung**: Dissertation war mit CC-Lizenz open access; Buchausgabe muss dieselbe Lizenz tragen (ShareAlike) oder darf keine CC BY-SA-Inhalte enthalten.
 
-## Output
+## Checkliste Plagiatsprüfung
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Plagiatsprüfungs-Tool für das Manuskript genutzt (iThenticate / PlagScan)
+- [ ] Ergebnis durch Mensch bewertet (nicht nur Prozentsatz)
+- [ ] Alle Zitate nach § 51 UrhG korrekt belegt (Quelle, Seite)
+- [ ] Bildrechte-Freigabe für übernommene Abbildungen vorhanden
+- [ ] Autorenvertrag enthält Freistellungsklausel für Plagiatsfälle
+- [ ] Bei Verdacht: Schriftliche Anfrage an Autor vor Erscheinen
+
+## Quellenreferenzen
+
+- UrhG §§ 97, 98: https://dejure.org/gesetze/UrhG/97.html
+- UrhG § 51 (Zitatrecht): https://dejure.org/gesetze/UrhG/51.html
+- VerlG § 2: https://www.gesetze-im-internet.de/verlg/__2.html
+- Retraction Watch: https://retractionwatch.com
+- BGH „Plagiat" I ZR 224/17: https://www.bgh.de
+
+## Output-Formate
+
+- **Plagiatsprüfungsbericht**: Fundstellen mit Quellenvergleich und Bewertung
+- **Reaktionsschreiben an Autor**: Fundstellennotiz und Fristsetzung
+- **Rücktrittsschreiben** (bei erheblichem Plagiat)
+- **Titelrückruf-Protokoll**: Rückrufverfahren, Händleranschreiben
+- **Freistellungs-Rechnung** an Autor nach Plagiatshaftung

@@ -1,46 +1,115 @@
 ---
 name: verl-032-buchhandelsvertrag-konditionen-und-remission
-description: "Verlagsrecht: Buchhandelsvertrag Konditionen und Remission mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel — Konditionenabkommen, Remissionsrecht, Retourenquoten, Auslieferungsverträge und Buchpreisbindungs-Compliance."
 ---
 
-# Verlagsrecht: Buchhandelsvertrag Konditionen und Remission
+# Verl-032 · Buchhandelsvertrag, Konditionen und Remission
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Buchhandelsvertrag Konditionen und Remission** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung ist die Grundlage des Buchvertriebssystems. Er regelt Rabatte, Zahlungsbedingungen, Remissionsrechte und Buchpreisbindungs-Pflichten. Dieser Skill analysiert die typischen Konditionenmodelle und die Remissions-Praxis.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| BuchPrG §§ 3–5 | Preisbindung, Verpflichtung des Buchhandels zum gebundenen Preis | https://www.gesetze-im-internet.de/buchprg/ |
+| BuchPrG § 4 | Buchhandel als Vertragspartner: Preisbindungsklausel | https://www.gesetze-im-internet.de/buchprg/__4.html |
+| HGB §§ 343 ff. | Handelsrecht: Kaufmann, Handelsgeschäft | https://dejure.org/gesetze/HGB/343.html |
+| HGB § 377 | Untersuchungs- und Rügeobliegenheit beim Handelskauf | https://dejure.org/gesetze/HGB/377.html |
+| BGB §§ 305 ff. | AGB-Recht: Konditionenabkommen als AGB | https://dejure.org/gesetze/BGB/305.html |
+| BGB § 448 | Gefahrübergang beim Kauf | https://dejure.org/gesetze/BGB/448.html |
 
-## Prüfprogramm
+## Konditionensystem im Buchhandel
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Barsortimentsrabatt vs. Direktbezug
+- **Barsortiment** (Grossist: Libri, KNV/VVA, Umbreit): Buchhandel kauft beim Barsortiment; Verlag liefert an Barsortiment.
+  - Verlagsrabatt an Barsortiment: 40–50 % des Ladenpreises.
+  - Barsortiment verkauft an Buchhandel mit 20–25 % Buchhandelsrabatt.
+- **Direktbezug**: Buchhandel bestellt direkt beim Verlag oder dessen Auslieferung.
+  - Buchhandelsrabatt: Typisch 30–40 % je nach Bestellgröße.
+  - Kleinbuchhandlungen: 25–30 %.
+  - Großfilialketten: 35–45 %.
+
+### Konditionenabkommen des Börsenvereins
+- Konditionenabkommen zwischen Verlegerverbänden und Buchhandelsverbänden legt Grundrabattrahmen fest.
+- Sonderkonditionen: Verhandlung möglich, aber darf nicht zu Buchpreisbindungsverstoß führen.
+
+### Zahlungsbedingungen
+- Netto-Zahlungsziel: 30–90 Tage nach Rechnungserhalt.
+- Skonto: 2–3 % bei Zahlung innerhalb von 10 Tagen üblich.
+- Factoring: Manche Verlage/Auslieferungen nutzen Factoring; Buchhandel zahlt an Factor.
+
+## Remission (Rücksendungsrecht)
+
+### Remissionsrecht des Buchhandels
+- Buchhandel darf unverkaufte Bücher an Verlag/Auslieferung zurücksenden.
+- Grundlage: Vertragsklausel (nicht gesetzlich); im Buchhandel historisch als „Kommissionsähnliches" Recht etabliert.
+- **Remissionsquote**: Prozentsatz der Liefermenge, die zurückgesandt werden darf; üblich 30–60 %.
+- Bedingung: Rücksendung in verkaufsfähigem Zustand; Buchhandel trägt Rücksendungskosten (oft).
+
+### Remission und Buchpreisbindung
+- Remittierte Exemplare werden vom Verlag als Remittenden reklassifiziert.
+- Kennzeichnung bei Wiederverkauf als Remittend unter Ladenpreis (§ 6 BuchPrG) erforderlich.
+- Verlag sollte keine Abmahnung riskieren, wenn Remittenden ohne Kennzeichnung erneut als Neuware verkauft werden.
+
+### Remissionsklausel im Buchhandelsvertrag
+- Klare Regelung: Remissionsfenster (z.B. Bücher die 2 Jahre oder mehr im Lager), maximale Remissionsquote, Konditionierung (gut verkaufte Titel: keine Remission).
+- Beschädigte Remittenden: Buchhandel haftet für Schäden durch sachgemäßen Umgang; ungerechtfertigte Beschädigungen → Schadensersatz.
+
+## Auslieferungsvertrag
+
+### Typischer Inhalt
+1. Lagerhaltung: Auslieferung lagert den Verlagsbestand.
+2. Auftragsabwicklung: Bestellungen annehmen, kommissionieren, versenden.
+3. Abrechnung: Wöchentliche oder monatliche Abrechnung über Umsatz, Remittenden, Bestände.
+4. Versicherung: Lagerware versichert durch Auslieferung (oder Verlag trägt Risiko).
+5. Lagerkostenmodell: Flat-Rate oder per-Exemplar-Kosten; Lagergebühren für Slow-Mover.
+6. Exklusivität: Häufig exklusive Auslieferung in DACH; eigene Vertriebskanäle behalten.
+
+### Kündigung des Auslieferungsvertrags
+- Verlag trägt Lagerbestand aus; Auslieferung stellt neue Bestellungen ein.
+- Übergangszeit: Typisch 3–6 Monate für geordneten Wechsel.
+- Lagerbestandsübertragung: Dokumentation aller Exemplare, Zustand, ISBN; Inventar bei Übergabe.
+
+## Buchpreisbindungs-Compliance im Buchhandelsvertrag
+
+### Pflichten des Buchhandels (§ 4 BuchPrG)
+- Buchhandel verpflichtet sich im Vertrag, den gebundenen Ladenpreis einzuhalten.
+- Verlag kann Buchhandelsvertrag kündigen oder Belieferung einstellen, wenn Buchhandel systematisch Preisbindung verletzt.
+
+### Meldesystem für Verstöße
+- Verlag informiert Buchhandel über Preisänderungen rechtzeitig (EDI, VLB-Update, Preisliste).
+- Bei Buchhandels-Verstoß: Abmahnung (intern) → Kündigungsandrohung → Kündigung des Liefervertrags.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Remissionsrecht ohne Quoten-Klausel**: Buchhandel sendet beliebig zurück; Verlag hat keine Kontrolle.
+- **Konditionenrabatt und Buchpreisbindung**: Höherer Rabatt an bevorzugte Buchhandlung → wenn Endkundenpeis trotzdem stimmt, kein Verstoß; Rabatt ist Verlagssache.
+- **Auslieferungsvertrag ohne Versicherungsklausel**: Lager brennt ab; Verlag hat keinen Ersatzanspruch.
+- **Beschädigte Remittenden als Neuware reklassifiziert**: Auslieferung verbucht zurückgesandtes beschädigtes Exemplar als neu → Verkauf ohne Mängelkennzeichnung → Preisbindungsverstoß.
 
-## Output
+## Checkliste Buchhandelsvertrag
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Rabattstaffel und Zahlungsbedingungen klar vereinbart
+- [ ] Remissionsquote und Remissionsfenster begrenzt
+- [ ] Buchpreisbindungsklausel (§ 4 BuchPrG) im Vertrag
+- [ ] Auslieferungsvertrag: Versicherung, Lagerkosten, Kündigung geregelt
+- [ ] Remittend-Kennzeichnungspflicht im Vertrag festgehalten
+- [ ] Kommunikationswege für Preisänderungen definiert (EDI, E-Mail)
+
+## Quellenreferenzen
+
+- BuchPrG § 4: https://www.gesetze-im-internet.de/buchprg/__4.html
+- HGB § 377: https://dejure.org/gesetze/HGB/377.html
+- Börsenverein, Konditionenabkommen: https://www.boersenverein.de
+- Barsortiment Libri: https://www.libri.de
+- BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag): https://www.bgh.de
+
+## Output-Formate
+
+- **Konditionenvergleich**: Aktueller Vertrag vs. Marktstandard
+- **Remissions-Analyse**: Remissionsquoten und Kostenwirkung
+- **Buchhandelsvertrag-Muster**: Mindestklauseln
+- **Auslieferungsvertrag-Review**: Versicherung, Kündigung, Kosten
+- **Preisbindungs-Compliance-Checkliste** für Buchhandel

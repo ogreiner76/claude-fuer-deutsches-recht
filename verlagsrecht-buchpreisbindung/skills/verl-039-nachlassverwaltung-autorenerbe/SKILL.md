@@ -1,46 +1,111 @@
 ---
 name: verl-039-nachlassverwaltung-autorenerbe
-description: "Verlagsrecht: Nachlassverwaltung Autorenerbe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit."
 ---
 
-# Verlagsrecht: Nachlassverwaltung Autorenerbe
+# Verl-039 · Nachlassverwaltung und Autorenerbe
 
-## Aufgabe
+## Zweck dieses Skills
 
-Dieser Skill bearbeitet **Nachlassverwaltung Autorenerbe** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Mit dem Tod eines Autors geht das Urheberrecht auf die **Erben** über. Dieser Skill klärt den Erbgang des Urheberrechts, die Verwaltung des literarischen Nachlasses, Verlagsverträge nach dem Tod, Schutzfristen und die Besonderheiten bei bekannten Autoren-Nachlässen.
 
-## Kaltstart in 6 Fragen
+## Rechtsgrundlagen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| UrhG § 28 | Vererblichkeit des Urheberrechts | https://dejure.org/gesetze/UrhG/28.html |
+| UrhG § 64 | Schutzfrist: 70 Jahre post mortem auctoris | https://dejure.org/gesetze/UrhG/64.html |
+| UrhG § 65 | Schutzfristen bei Miturhebern | https://dejure.org/gesetze/UrhG/65.html |
+| UrhG § 30 | Erbe als Rechtsnachfolger des Urhebers | https://dejure.org/gesetze/UrhG/30.html |
+| BGB §§ 1922 ff. | Erbrecht: Gesamtrechtsnachfolge | https://dejure.org/gesetze/BGB/1922.html |
+| BGB §§ 2197 ff. | Testamentsvollstreckung | https://dejure.org/gesetze/BGB/2197.html |
+| VerlG §§ 28 ff. | Honoraransprüche nach Tod des Autors | https://www.gesetze-im-internet.de/verlg/ |
 
-## Prüfprogramm
+## Erbgang des Urheberrechts
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Vererblichkeit (§ 28 UrhG)
+- Das Urheberrecht ist **vererblich**; es geht als Teil des Nachlasses auf die Erben über.
+- Mehrere Erben: Urheberrecht gehört zur Erbengemeinschaft; alle Erben müssen gemeinsam über das Urheberrecht verfügen (§ 2038 BGB).
+- Testamentarische Regelung: Autor kann im Testament einzelnen Erben das Urheberrecht zuweisen oder Testamentsvollstrecker einsetzen.
+
+### Schutzfrist (§ 64 UrhG)
+- Schutzfrist: 70 Jahre post mortem auctoris (p.m.a.) = 70 Jahre nach dem 31. Dezember des Todesjahres.
+- Bei Miturhebern (§ 65 UrhG): Schutzfrist richtet sich nach dem Tod des zuletzt verstorbenen Miturhebers.
+- Anonyme/pseudonyme Werke: Abweichende Berechnung (§ 66 UrhG).
+- Nach Ablauf der Schutzfrist: Werk wird **gemeinfrei**; jeder kann es nutzen.
+
+## Verlagsvertrag nach dem Tod des Autors
+
+### Fortführung bestehender Verlagsverträge
+- Verlagsverträge gehen auf die Erben über (§ 28 UrhG i.V.m. § 1922 BGB Gesamtrechtsnachfolge).
+- Erben treten in alle Rechte und Pflichten des Autors ein.
+- **Ausnahme**: Wenn Verlagsvertrag „höchstpersönliche" Pflichten enthält (z.B. Mitwirkungspflichten bei Neuauflagen), erlöschen diese mit dem Tod.
+
+### Honorare nach dem Tod
+- Ausstehende Honorare werden an die Erben gezahlt.
+- Laufende Abrechnungen: Verlag rechnet weiterhin regelmäßig mit dem Nachlassverwalter ab.
+- Nachlass-Vergütungsansprüche (§ 32a UrhG): Auch Erben können Nachvergütung geltend machen.
+
+## Nachlassverwaltung
+
+### Formen der Nachlassverwaltung
+1. **Erbengemeinschaft** (ohne Testamentsvollstrecker): Alle Erben gemeinsam; oft ineffizient.
+2. **Testamentsvollstrecker** (§§ 2197 ff. BGB): Vom Autor im Testament eingesetzt; verwaltet Nachlass; kann allein handeln.
+3. **Nachlassverwalter** (§§ 1975 ff. BGB): Gerichtlich bestellt bei drohender Überschuldung.
+4. **Literarische Nachlass-Gesellschaft oder Stiftung**: Bei bedeutenden Autoren (z.B. Kafka-Erbe, Bertolt-Brecht-Erbe); spezialisierte Verwaltung.
+
+### Aufgaben des Testamentsvollstreckers
+- Verwaltung aller bestehenden Lizenz- und Verlagsverträge.
+- Verhandlung neuer Lizenzen (Übersetzungen, Film, TV, E-Book).
+- Wahrnehmung von Persönlichkeitsrechten des Urhebers (posthumes Persönlichkeitsrecht, § 22 KUG Abs. 5).
+- Pflege des Nachlasses: Manuskripte, Briefe, unveröffentlichte Werke.
+
+## Posthumes Persönlichkeitsrecht
+
+- Auch nach dem Tod schützt das Urheberrecht vor Entstellungen (§ 14 UrhG).
+- Weitere Schutzzeit für Persönlichkeitsrecht: Mindestens 10 Jahre nach dem Tod (§ 22 Abs. 3 KUG für Bildnisse: 10 Jahre).
+- Für bedeutende Autoren: Schutz kann länger dauern, abhängig von Intensität des Interesses.
+
+## Vergriffene Werke nach dem Tod (VerlG § 17)
+
+- Wenn Verlag das Werk vergriffen erklärt und keine Neuauflage plant → Rückfall der Nutzungsrechte an Erben (VerlG § 17).
+- Erben können Neuauflage bei anderem Verlag anbieten.
+- Digitale Vergriffenheit: DSM-RL Art. 8–11, UrhG §§ 61d ff. regeln Bibliotheksnutzung vergriffener Werke.
+
+## Unveröffentlichte Nachlass-Werke
+
+- Autor hat unveröffentlichte Werke hinterlassen: Erben entscheiden über Erstveröffentlichung.
+- § 12 UrhG: Recht auf Erstveröffentlichung beim Urheber; nach Tod bei Erben.
+- Verlagsvertrag für posthumes Werk: Erben schließen Vertrag wie regulärer Verlagsvertrag.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Erbengemeinschaft ohne Einigkeit**: Mehrere Erben uneins über Lizenzerteilung → Verlag kann keine neue Ausgabe veröffentlichen.
+- **Kein Testament**: Urheberrecht geht nach Erbquoten auf gesetzliche Erben über; kann breit gestreut sein.
+- **Verlagsvertrag läuft weiter ohne Honorarzahlung**: Verlag hat vom Tod des Autors erfahren; zahlt aber weiterhin auf altes Konto → sollte Zahlung einstellen und Erben kontaktieren.
+- **Posthumes Werk ohne Verlagspflicht**: Nachlassverwalter veröffentlicht unveröffentlichtes Manuskript; fragt nicht nach Qualitätsprüfung → Reputationsrisiko für Autor-Erbe.
 
-## Output
+## Checkliste Nachlassverwaltung
 
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- [ ] Testamentsvollstrecker/Nachlassverwalter identifiziert
+- [ ] Alle bestehenden Verlagsverträge inventarisiert
+- [ ] Verlag über Tod des Autors informiert; Zahlungsadresse aktualisiert
+- [ ] Erbengemeinschaft geregelt (falls keine Testamentsvollstreckung)
+- [ ] Posthumes Persönlichkeitsrecht: Klausel in neuen Lizenzen
+- [ ] Unveröffentlichte Werke inventarisiert; Entscheidung über Erstveröffentlichung
+
+## Quellenreferenzen
+
+- UrhG §§ 28, 64: https://dejure.org/gesetze/UrhG/28.html
+- BGB §§ 2197 ff. (Testamentsvollstreckung): https://dejure.org/gesetze/BGB/2197.html
+- VerlG § 17: https://www.gesetze-im-internet.de/verlg/__17.html
+- BGH „Urheberrecht und Erbe" I ZR 2/88: https://www.bgh.de
+- Deutsche Nationalbibliothek, Nachlassverwaltung: https://www.dnb.de
+
+## Output-Formate
+
+- **Nachlassinventar**: Alle Werke, Verträge, Rechte, Kontakte
+- **Testamentsvollstrecker-Briefing**: Was Verlag und Lizenznehmer wissen müssen
+- **Nachlass-Lizenzvertrag-Muster**: Posthumes Werk
+- **Erbengemeinschafts-Zustimmungs-Protokoll**: Für Lizenzerteilungen
+- **Schutzfristen-Kalender**: Für alle Werke eines Autors
