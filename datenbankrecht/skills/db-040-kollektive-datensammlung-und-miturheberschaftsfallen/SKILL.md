@@ -1,46 +1,65 @@
 ---
 name: db-040-kollektive-datensammlung-und-miturheberschaftsfallen
-description: "Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner.'
 ---
 
-# Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen
+# Kollektive Datensammlungen und Miturheberschaftsfallen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Kollektive Datensammlung und Miturheberschaftsfallen** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Forschungskonsortium hat gemeinsam eine Datenbank aufgebaut — jetzt streiten die Partner, wer Herstellerrecht hat und wer Lizenzen vergeben darf.
+- Plattformbetreiber fragt, ob die User-Generated-Content-Datenbank, die durch Beiträge vieler Nutzer entstand, ihm als Datenbankwerk oder Herstellerrecht gehört.
+- Unternehmen und IT-Dienstleister haben gemeinsam eine Datenbank entwickelt — wer hat die wesentliche Investition getragen und wer ist Herstellerrechtinhaber?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Miturheberschaft am Datenbankwerk prüfen: § 8 UrhG — haben mehrere natürliche Personen schöpferisch zur Auswahl/Anordnung beigetragen, ohne trennbare Teile zu schaffen?
+2. Geteilte Herstellereigenschaft bewerten: § 87a Abs. 2 UrhG — wer hat welchen Anteil an der wesentlichen Investition getragen?
+3. UGC-Datenbank analysieren: Plattformbetreiber als Hersteller bei wesentlicher Investition in Plattforminfrastruktur, Qualitätssicherung und Darstellung — Nutzer behalten Urheberrecht an eigenen Beiträgen.
+4. Rechteverwertung unter Mithersteller klären: § 741 BGB (Gemeinschaft) — einstimmig oder Mehrheit für Lizenzvergabe erforderlich?
+5. Verletzung durch Mitmitglied prüfen: Kann ein Konsortiumspartner das gemeinsame Datenbankrecht verletzen?
+6. Konsortialvertrag gestalten: Klare Zuweisung von Investitionsanteilen, Herstellerrechten, Lizenzkompetenzen und Erlösverteilung.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 8 UrhG: Miturheberschaft — mehrere Schöpfer ohne trennbare Beiträge; gemeinsame Verwertung erforderlich.
+- § 87a Abs. 2 UrhG: Datenbankherstellereigenschaft — wer Initiative und Investitionsrisiko trägt; kann aufgeteilt sein.
+- § 741 BGB: Gemeinschaft — Gemeinschaftsverhältnis bei gemeinsam gehaltenem Datenbankherstellerrecht.
+- § 745 BGB: Verwaltung und Nutzung des gemeinschaftlichen Rechts — Regelungen für Lizenzvergabe.
+- § 4 Abs. 2 UrhG: Datenbankwerk — Miturheberschaft möglich, wenn mehrere zur Gesamtstruktur schöpferisch beigetragen haben.
+- § 31 UrhG: Nutzungsrechte — Konsortialpartner müssen gemeinsam Nutzungsrechte einräumen oder separat für ihren Anteil.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Haben mehrere Personen oder Unternehmen zur schöpferischen Auswahl/Anordnung der Datenbankstruktur beigetragen (Miturheberschaft, § 8 UrhG)?
+- Ist der Investitionsbeitrag jedes Partners klar dokumentiert und abgrenzbar?
+- Wer trägt das finanzielle Risiko der Datenbank — ist das der Hersteller oder sind es mehrere?
+- Regelt ein Konsortialvertrag die Verwertungsrechte, Lizenzvergabe und Erlösverteilung?
+- Sind Nutzer (UGC) Datenbankbeitragende mit eigenen Urheberrechten, und in welchem Verhältnis stehen diese zur Herstellerrechtsposition der Plattform?
+- Kann ein einzelner Konsortiumspartner die gemeinsame Datenbank lizenzieren oder veräußern?
+- Wie wird verfahren, wenn ein Partner aus dem Konsortium ausscheidet — wem gehört sein Investitionsanteil?
+
+## Typische Fallstricke
+
+- Konsortialpartner ohne schriftliche Vereinbarung über Datenbankrechte landen in §§ 741 ff. BGB — Gemeinschaft mit Einstimmigkeitserfordernis.
+- UGC-Plattformbetreiber werden oft fälschlich als Urheber der Nutzerbeiträge behandelt — Urheberrecht bleibt bei Nutzern.
+- Plattformbetreiber kann Herstellerrecht an der Datenbank-Struktur haben, nicht aber an Nutzerinhalten — Trennung ist entscheidend.
+- Ausscheiden eines Konsortialpartners führt zu Unklarheiten über Fortführung der Schutzdauer (§ 87d UrhG) — vertragliche Regelung nötig.
+- Mitmitglied kann Datenbankherstellerrecht nicht einzeln verletzen, wenn es gemeinsam am Recht beteiligt ist — andere Ansprüche (vertragliche Pflichtverletzung) prüfen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Konsortialvertrag-Klauseln für gemeinsame Datenbankrechte
+- Investitionsanteils-Matrix (Hersteller-Beitragsverteilung)
+- UGC-Plattform-Rechtszuweisung (Plattform vs. Nutzer)
+- Miturheberschafts-Prüfprotokoll (§ 8 UrhG)
+- Ausscheidungsregelung für Konsortialpartner (Datenbankrecht-Fortführung)
+
+## Quellen
+
+- [§ 8 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 741 BGB — dejure.org](https://dejure.org/gesetze/BGB/741.html)
+- [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
+- [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

@@ -1,46 +1,65 @@
 ---
 name: db-049-datenbankvergleich-und-bereinigungsplan
-description: "Datenbankrecht: Datenbankvergleich und Bereinigungsplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung.'
 ---
 
-# Datenbankrecht: Datenbankvergleich und Bereinigungsplan
+# Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankvergleich und Bereinigungsplan** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Datenbankbetreiber hat eine Unterlassungsverpflichtung erwirkt und muss nun sicherstellen, dass der Verletzer die entnommenen Daten tatsächlich löscht und nicht mehr nutzt.
+- Verletzer bestreitet, dass die bei ihm gefundenen Daten aus der Kläger-Datenbank stammen — technischer Nachweis der Übereinstimmung ist erforderlich.
+- IT-Abteilung soll einen Datenbankvergleich durchführen, der vor Gericht als Sachverständigengutachten verwendet werden kann.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vergleichsmethodik festlegen: Fingerprinting (eindeutige Kennung je Datensatz), Hash-Vergleich (kryptographische Übereinstimmung), Fuzzy-Matching (nahezu identische Einträge trotz geringfügiger Änderungen).
+2. Datenbankzustand dokumentieren: Snapshot der eigenen Datenbank mit Zeitstempel als Referenzpunkt für den Vergleich.
+3. Wettbewerber-Daten sichern: Öffentlich zugängliche Daten des Verletzers aus seinem Portal/API erfassen und speichern.
+4. Übereinstimmungsanalyse: Automatischer Vergleich der Datensätze — Anzahl der Übereinstimmungen, Honey-Pot-Treffer, strukturelle Ähnlichkeiten.
+5. Bereinigungsplan erstellen: Welche Daten muss der Verletzer löschen, in welcher Frist und wie wird die Löschung nachgewiesen?
+6. Vernichtungsanspruch geltend machen: § 98 UrhG — Vernichtung von widerrechtlich hergestellten Vervielfältigungsstücken der Datenbank.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 97 Abs. 1 UrhG: Unterlassungs- und Beseitigungsanspruch — Verletzer muss Verletzungszustand beenden.
+- § 98 UrhG: Vernichtungsanspruch — rechtswidrig hergestellte Vervielfältigungsstücke müssen vernichtet werden.
+- § 890 ZPO: Vollstreckung des Unterlassungsurteils — Ordnungsgeld bei Nichterfüllung.
+- § 286 ZPO: Freie Beweiswürdigung — technische Datenbankvergleiche als Beweismittel; Sachverständigengutachten.
+- § 887 ZPO: Vollstreckung vertretbarer Handlungen (Datenlöschung) — Ersatzvornahme durch das Gericht.
+- Art. 10 RL 96/9/EG: Rechtsfolgen bei Verletzung des sui-generis-Datenbankrechts — Mitgliedstaaten müssen wirksame Rechtsbehelfe vorsehen.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Welche Vergleichsmethodik (Fingerprinting, Hash, Fuzzy) ist für den konkreten Datenbanktyp am besten geeignet?
+- Sind Honey-Pot-Datensätze in der eigenen Datenbank vorhanden, die beim Verletzer aufgetaucht sind?
+- Kann der Zeitpunkt der Übernahme durch den Verletzer technisch eingegrenzt werden?
+- Wurde ein Bereinigungsplan mit konkreten Fristen und Löschnachweis vereinbart oder durch Gericht angeordnet?
+- Greift § 98 UrhG — muss der Verletzer die entnommenen Datensätze vernichten, oder reicht Löschung?
+- Kann die Bereinigung durch Ersatzvornahme (§ 887 ZPO) vollstreckt werden, wenn der Verletzer nicht kooperiert?
+- Ist ein Sachverständigengutachten für den Datenbankvergleich erforderlich, um die Beweiskraft zu stärken?
+
+## Typische Fallstricke
+
+- Verletzer kann Daten geringfügig verändern (Schreibweisen, Formatierungen), um Hash-Vergleiche zu umgehen — Fuzzy-Matching erforderlich.
+- Bereinigungsplan ohne Nachweis-Mechanismus (Löschprotokoll, Audit) ist nicht vollstreckbar.
+- § 98 UrhG-Vernichtungsanspruch ist verhältnismäßig zu prüfen — kann bei geringer Verletzung unverhältnismäßig sein.
+- Backup-Kopien des Verletzers enthalten möglicherweise noch die gestohlenen Daten — Bereinigung muss explizit alle Systeme umfassen.
+- Ohne Sachverständigengutachten kann das Gericht die technische Vergleichsmethodik nicht ausreichend würdigen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankvergleichs-Protokollvorlage (Methodik, Ergebnis, Statistik)
+- Bereinigungsplan-Vorlage (Fristen, Systeme, Nachweispflichten)
+- Vernichtungsantrag nach § 98 UrhG
+- Vollstreckungsantrag bei Nichterfüllung (§§ 887-890 ZPO)
+- Sachverständigen-Briefing für technischen Datenbankvergleich
+
+## Quellen
+
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 98 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/98.html)
+- [§ 890 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/890.html)
+- [§ 887 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/887.html)
+- [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
+- [Art. 10 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

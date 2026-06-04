@@ -1,46 +1,65 @@
 ---
 name: db-043-plattform-sperre-wegen-data-extraction
-description: "Datenbankrecht: Plattform-Sperre wegen Data Extraction mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag.'
 ---
 
-# Datenbankrecht: Plattform-Sperre wegen Data Extraction
+# Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Plattform-Sperre wegen Data Extraction** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Plattformbetreiber will einen Nutzer sperren, der systematisch Daten extrahiert hat — wie dokumentiert er die Sperre rechtlich?
+- Unternehmen wurde von einer Datenbank-Plattform gesperrt und bestreitet die Verletzungsvorwürfe — welche rechtlichen Mittel gegen die Sperre bestehen?
+- Startup betreibt einen Aggregationsdienst und hat von einer marktbeherrschenden Plattform eine Sperrdrohung erhalten — ist die Sperre kartellrechtlich zulässig?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Sperrberechtigung prüfen: Liegt eine vertragliche Grundlage (AGB) für die Sperre vor — Kündigung aus wichtigem Grund (§ 314 BGB) bei Datenbankrechts-Verletzung?
+2. Urheberrechtliche Verletzung als Sperrgrundlage: § 87b UrhG-Verletzung durch Data Extraction als sachlicher Grund für außerordentliche Kündigung.
+3. Verhältnismäßigkeit der Sperre prüfen: Sofortige Komplettsperre oder abgestufte Maßnahmen (Warnung, Drosselung, temporäre Sperre)?
+4. Kartellrechtliche Grenzen: Marktbeherrschende Plattform kann nicht beliebig sperren — Art. 102 AEUV, § 19 GWB; Diskriminierungsverbot, Digital Markets Act (DMA).
+5. Sperrung anfechten: Einstweilige Verfügung auf Wiederherstellung des Zugangs bei unberechtigter Sperre; vertragliche Schadensersatzansprüche.
+6. Dokumentation der Sperre: Beweise für Verletzung sichern, Sperrbenachrichtigung, Frist zur Stellungnahme (für den Betreiber).
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87b UrhG: Verletzung des Datenbankherstellerrechts als sachlicher Grund für Vertragsbeendigung.
+- § 314 BGB: Außerordentliche Kündigung des Nutzungsvertrags aus wichtigem Grund — unverzüglich nach Kenntnis.
+- § 307 BGB: AGB-Sperr- und Kündigungsklausel muss verhältnismäßig und transparent sein.
+- Art. 102 AEUV: Marktmissbrauchsverbot — marktbeherrschende Plattform kann Zugang nicht willkürlich verweigern.
+- § 19 GWB: Missbrauchsverbot für marktbeherrschende Unternehmen — Zugangsverweigerung als Diskriminierung?
+- DMA Art. 5-6: Digital Markets Act — Gatekeeper-Verpflichtungen; Diskriminierungsverbote für große Plattformen.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine nachgewiesene Datenbankrechts-Verletzung (§ 87b UrhG) als Grundlage der Sperre vor?
+- Enthält der AGB-Vertrag eine klare Sperr- und Kündigungsklausel für Datenverletzungen?
+- Ist die Sperre verhältnismäßig — war eine vorherige Abmahnung oder Warnung möglich und zumutbar?
+- Hat der Betreiber eine marktbeherrschende Stellung — gelten Art. 102 AEUV oder DMA-Verpflichtungen?
+- Wird die Sperre diskriminierungsfrei angewandt — werden ähnliche Verletzungen anderer Nutzer gleich behandelt?
+- Hat der gesperrte Nutzer eine Möglichkeit zur Stellungnahme erhalten (Anforderung nach DMA und P2B-VO)?
+- Bestehen Alternativen zur vollständigen Sperre (Drosselung, Datenextraktions-Limitierung)?
+
+## Typische Fallstricke
+
+- Sperre ohne vorherige Abmahnung oder Kündigungsfristsetzung kann als unverhältnismäßig angesehen werden — insb. bei erstmaligem Verstoß.
+- Marktbeherrschende Plattformen müssen bei Sperrungen besondere Verhältnismäßigkeit wahren und DMA-Anforderungen beachten.
+- Diskriminierende Sperrpolitik (nur bestimmte Aggregatoren werden gesperrt, andere nicht) ist kartellrechtlich angreifbar.
+- Unberechtigte Sperre kann Schadensersatzansprüche des gesperrten Nutzers auslösen (§ 280 BGB).
+- DMA-Gatekeeper haben zusätzliche Verfahrenspflichten bei Sperrungen — Verletzung führt zu DMA-Bußgeldern.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Sperrbenachrichtigungs-Vorlage mit Rechtsgrundsatz und Fristsetzung
+- Sperr-Berechtigung-Prüfprotokoll (AGB + § 314 BGB + § 87b UrhG)
+- Kartellrechtliche Sperrgrenzenbewertung (Art. 102 AEUV / § 19 GWB)
+- Widerspruch gegen unberechtigte Sperre — Musterbrief
+- Einstweiliger Verfügungsantrag auf Zugangswiederherstellung
+
+## Quellen
+
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [Art. 102 AEUV — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12012E102)
+- [§ 19 GWB — dejure.org](https://dejure.org/gesetze/GWB/19.html)
+- [DMA-Verordnung 2022/1925 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R1925)

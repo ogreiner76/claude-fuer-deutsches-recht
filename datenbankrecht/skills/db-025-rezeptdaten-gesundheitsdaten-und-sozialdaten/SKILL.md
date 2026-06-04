@@ -1,46 +1,65 @@
 ---
 name: db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten
-description: "Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken.'
 ---
 
-# Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten
+# Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Rezeptdaten Gesundheitsdaten und Sozialdaten** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- HealthTech-Startup will anonymisierte Patientendaten einer Klinikdatenbank für KI-Modell-Training nutzen und fragt nach dem rechtlichen Rahmen.
+- Pharmaunternehmen hat eine Arzneimitteldatenbank aufgebaut und will diese an Forschungseinrichtungen lizenzieren — welche Rechte können übertragen werden?
+- Krankenkasse möchte ihre Rezeptdatenbank für Versorgungsforschung zugänglich machen und fragt nach DSGVO-Anforderungen und Datenbankschutz.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankherstellerrecht prüfen: Wesentliche Investition in Aufbau und Pflege der Gesundheitsdatenbank (§ 87a UrhG)?
+2. Besondere Kategorien nach Art. 9 DSGVO prüfen: Gesundheitsdaten sind besondere Kategorien — erhöhte Anforderungen an Rechtsgrundlage (Art. 9 Abs. 2 DSGVO).
+3. Anonymisierungs- und Pseudonymisierungsgrad bewerten: Sind die Daten tatsächlich anonym oder nur pseudonymisiert — welche Datenschutzpflichten verbleiben?
+4. Forschungsschranken klären: § 27 BDSG für wissenschaftliche Forschung, Art. 9 Abs. 2 lit. j DSGVO — erlaubte Verarbeitung für Gesundheitsforschung.
+5. Zweckbindungspflicht bei Lizenzierung: Gesundheitsdaten dürfen nur für vereinbarte Zwecke genutzt werden — vertragliche Zweckbindungsklausel.
+6. KI-Training mit Gesundheitsdaten: § 44b UrhG TDM-Schranke und Art. 9 DSGVO — erhöhter Schutzstandard beachten.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht für Gesundheitsdatenbanken — Investition in Beschaffung, Überprüfung und Darstellung von Patientendaten.
+- Art. 9 DSGVO: Besondere Kategorien personenbezogener Daten — Verarbeitung von Gesundheitsdaten erfordert explizite Ausnahme.
+- Art. 9 Abs. 2 lit. j DSGVO: Verarbeitung für Forschungszwecke im öffentlichen Interesse mit angemessenen Schutzmaßnahmen.
+- § 27 BDSG: Verarbeitung für wissenschaftliche Forschung — nationale Umsetzung der Forschungsschranke.
+- § 44b UrhG: TDM-Schranke auch für Gesundheitsdatenbanken — aber DSGVO-Anforderungen bei personenbezogenen Daten bleiben.
+- SGB V §§ 284 ff.: Datenschutzrecht für Sozialdaten (Krankenversicherungsdaten) — besondere gesetzliche Schranken.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine wesentliche Investition in die Gesundheitsdatenbank vor (Erhebungsaufwand, Qualitätsprüfung, Kodierung)?
+- Sind die Daten wirklich anonymisiert, oder handelt es sich um Pseudonymisierung mit Reidentifikationsrisiko?
+- Liegt eine Rechtsgrundlage nach Art. 9 Abs. 2 DSGVO für die geplante Nutzung vor?
+- Gilt die Forschungsschranke nach § 27 BDSG — ist der Zweck wissenschaftliche Forschung im öffentlichen Interesse?
+- Ist die Zweckbindung bei Lizenzierung an externe Forschungseinrichtungen vertraglich abgesichert?
+- Werden KI-Modelle mit den Gesundheitsdaten trainiert — greifen TDM-Schranke und DSGVO gleichzeitig?
+- Liegen Sozialdaten (SGB-Daten) vor — gelten besondere gesetzliche Schranken des Sozialgeheimnisses?
+
+## Typische Fallstricke
+
+- Pseudonymisierte Daten sind keine anonymisierten Daten — DSGVO gilt weiterhin, besondere Kategorien ebenfalls.
+- Forschungsschranke nach § 27 BDSG setzt echten wissenschaftlichen Zweck voraus — kommerzielle KI-Entwicklung reicht nicht.
+- Lizenznehmer können mit den Daten Sekundärprodukte entwickeln, die nicht mehr von der Zweckbindung erfasst sind — klare Verbote erforderlich.
+- Reidentifikation aus anonymisierten Gesundheitsdaten ist durch moderne KI-Methoden möglich — Risikoanalyse nach Art. 35 DSGVO (DSFA) erforderlich.
+- Sozialdaten der Krankenkassen unterliegen dem Sozialgeheimnis (§ 35 SGB I) — Weitergabe an Private fast immer unzulässig.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Gutachten für Gesundheitsdatenbank
+- Art. 9 DSGVO-Rechtsgrundlagen-Check für Gesundheitsdatennutzung
+- Zweckbindungs-Lizenzklausel für Gesundheitsdatenbank-Lizenzvertrag
+- Anonymisierungs-/Pseudonymisierungs-Risikoanalyse
+- Forschungsschranken-Prüfbogen (§ 27 BDSG / Art. 9 Abs. 2 lit. j DSGVO)
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [Art. 9 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/9.html)
+- [§ 27 BDSG — dejure.org](https://dejure.org/gesetze/BDSG/27.html)
+- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [Art. 35 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/35.html)

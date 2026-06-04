@@ -1,46 +1,65 @@
 ---
 name: db-030-lizenzanalogie-und-unterlassungsvertrag
-description: "Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell.'
 ---
 
-# Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag
+# Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Lizenzanalogie und Unterlassungsvertrag** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Verletzer hat nach Abmahnung eine Unterlassungserklärung abgegeben — Datenbankbetreiber fragt, ob die Vertragsstrafe angemessen und vollstreckbar ist.
+- Datenbankbetreiber möchte außergerichtlich einigen und verhandelt über einen Vergleich — wie wird die Lizenzanalogie berechnet und im Vergleich abgebildet?
+- Anwalt muss entscheiden, ob Unterlassungsklage oder modifizierte Unterlassungserklärung die bessere Absicherung für seinen Mandanten bietet.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Lizenzanalogie berechnen: Übliche Lizenzgebühr für die Nutzung des verletzten Datenbankherstellerrechts ermitteln — eigene Lizenzpraxis, Marktpreise, Vergleichslizenzverträge.
+2. Unterlassungserklärung prüfen: Ist sie hinreichend bestimmt, zeitlich unbegrenzt und enthält eine angemessene Vertragsstrafe (§ 339 BGB)?
+3. Vertragsstrafe-Höhe festlegen: Hamburger Brauch (nach billigem Ermessen des Gläubigers) oder konkrete Summe? Verhältnismäßigkeit nach § 340 BGB prüfen.
+4. Wiederholungsgefahr-Beseitigung bewerten: Beseitigt die Unterlassungserklärung die Wiederholungsgefahr vollständig — ist ein Unterlassungsurteil noch nötig?
+5. Vergleich gestalten: Lizenzgebühr für Vergangenheit, Unterlassungsverpflichtung für Zukunft, ggf. Lizenzvertrag für zukünftige Nutzung.
+6. Modifizierte Unterlassungserklärung: Welche Einschränkungen des Verletzers sind akzeptabel — muss der Gläubiger widersprechen?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 97 Abs. 2 S. 3 UrhG: Lizenzanalogie — als Schaden gilt auch die fiktive Lizenzgebühr, die bei erlaubter Nutzung angefallen wäre.
+- § 339 BGB: Vertragsstrafenklausel — Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; Hamburger Brauch oder Festsumme.
+- § 340 BGB: Herabsetzung unverhältnismäßig hoher Vertragsstrafen durch Gericht.
+- § 97a UrhG: Abmahnung als Voraussetzung für Erstattung von Rechtsanwaltsgebühren; Unterlassungserklärung beendet Wiederholungsgefahr.
+- § 87b UrhG: Verletzungstatbestand als Grundlage der Unterlassungs- und Lizenzanalogie-Ansprüche.
+- § 890 ZPO: Vollstreckung von Unterlassungsurteilen — Ordnungsgeld bis 250.000 EUR oder Ordnungshaft.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine genau bezifferte oder zumindest bestimmbare übliche Lizenzgebühr für die verletzten Datenbankteile vor?
+- Ist die Unterlassungserklärung hinreichend bestimmt — erfasst sie alle Verletzungshandlungen und Varianten?
+- Ist die Vertragsstrafe-Höhe angemessen und nicht so hoch, dass das Gericht sie nach § 340 BGB herabsetzen würde?
+- Beseitigt die Erklärung die Wiederholungsgefahr vollständig, sodass eine Unterlassungsklage entbehrlich wird?
+- Nimmt der Gläubiger die modifizierte Unterlassungserklärung an — oder muss er widersprechen und klagen?
+- Sind Vergleichsverhandlungen über Lizenzgebühren für Vergangenheit und Zukunft sinnvoll?
+- Besteht Strafklausel für den Fall weiterer Verletzungen nach der Unterlassungserklärung?
+
+## Typische Fallstricke
+
+- Zu eng gefasste Unterlassungserklärung lässt Umgehungsmöglichkeiten — Gläubiger kann auf vollständigem Rechtsschutz bestehen.
+- Hamburger Brauch bei der Vertragsstrafe gibt dem Verletzer Rechtsunsicherheit — zu niedrige Strafe entfaltet keine abschreckende Wirkung.
+- Lizenzanalogie ohne Nachweis der üblichen Lizenzgebühr führt zu unsicherer Vergleichsverhandlung.
+- Modifizierte Unterlassungserklärung muss innerhalb kurzer Frist angenommen oder abgelehnt werden — prozessuale Fristen beachten.
+- Vergleich über Vergangenheit schließt Schadensersatzansprüche für den vereinbarten Zeitraum ab — Restansprüche sichern.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Lizenzanalogie-Berechnungsmodell (Marktpreisanalyse, eigene Lizenzpraxis)
+- Unterlassungserklärung-Muster mit Vertragsstrafe (Hamburger Brauch und Festsumme-Variante)
+- Vertragsstrafe-Verhältnismäßigkeitsprüfung nach § 340 BGB
+- Vergleichsvertrag-Muster (Lizenzgebühr + Unterlassung + Lizenz)
+- Modifizierte Unterlassungserklärung — Annahme/Ablehnung-Entscheidungsmatrix
+
+## Quellen
+
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 339 BGB — dejure.org](https://dejure.org/gesetze/BGB/339.html)
+- [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 890 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/890.html)
+- [§ 340 BGB — dejure.org](https://dejure.org/gesetze/BGB/340.html)

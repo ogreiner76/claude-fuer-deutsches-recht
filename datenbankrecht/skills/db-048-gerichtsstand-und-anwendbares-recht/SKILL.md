@@ -1,46 +1,65 @@
 ---
 name: db-048-gerichtsstand-und-anwendbares-recht
-description: "Datenbankrecht: Gerichtsstand und anwendbares Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken.'
 ---
 
-# Datenbankrecht: Gerichtsstand und anwendbares Recht
+# Gerichtsstand und anwendbares Recht im Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Gerichtsstand und anwendbares Recht** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Deutsches Unternehmen wird von einem Tschechischen Wettbewerber, der in Prag sitzt, gecrawlt — vor welchem Gericht klagen?
+- Datenbankbetreiber fragt, ob er den Verletzer in Deutschland oder am Tatort (Serverstandort des Verletzers) verklagen muss.
+- Lizenzvertrag für eine Datenbank enthält eine Schiedsklausel für Wien — welches Recht gilt für den Inhalt des Streits?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Internationale Zuständigkeit bestimmen: EuGVVO — Wohnsitz des Beklagten (Art. 4 EuGVVO) oder besonderer Gerichtsstand Unerlaubte Handlung (Art. 7 Nr. 2 EuGVVO) am Erfolgs- oder Handlungsort.
+2. Tatort bei Internet-Verletzungen: Erfolgsort = Ort, wo die Verletzung eingetreten ist (Datenbankbetreiber-Sitz); Handlungsort = Server des Verletzers.
+3. Anwendbares Recht nach Rom-II-VO: Art. 8 Abs. 1 Rom-II-VO — Recht des Schutzlandes (lex loci protectionis) bei IP-Verletzungen.
+4. Fliegender Gerichtsstand bei Internet: Bei abrufbaren Inhalten in ganz Deutschland — welcher Tatort-Gerichtsstand ist der günstigste (LG Hamburg, LG München, LG Köln)?
+5. Vertragliche Gerichtsstandsvereinbarung prüfen: Ist eine Gerichtsstandsklausel im Lizenzvertrag wirksam — EuGVVO Art. 25?
+6. Schiedsklausel bewerten: Schiedsgericht für Datenbankrechts-Streitigkeiten — welches Recht gilt für Hauptsache und Verfahren?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Art. 4 EuGVVO: Allgemeiner Gerichtsstand — Beklagtenwohnsitz in seinem EU-Mitgliedsstaat.
+- Art. 7 Nr. 2 EuGVVO: Besonderer Gerichtsstand für unerlaubte Handlungen — Handlungs- oder Erfolgsort.
+- Art. 8 Abs. 1 Rom-II-VO: Anwendbares Recht bei IP-Verletzungen — Recht des Schutzlandes (lex loci protectionis).
+- Art. 25 EuGVVO: Gerichtsstandsvereinbarung — Prorogation für EU-Gerichte wirksam.
+- § 32 ZPO: Fliegender Gerichtsstand bei unerlaubten Handlungen — Handlungs- oder Erfolgsort, auch bei Internet-Verletzungen.
+- EuGH C-170/12 (Pinckney/KDG): Tatortgerichtsstand für IP-Verletzungen im Internet — Anknüpfung an den Mitgliedsstaat, in dem die Website zugänglich ist.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat der Beklagte seinen Sitz in einem EU-Mitgliedsstaat — gilt EuGVVO?
+- Wo liegt der Handlungsort (Server des Verletzers) und wo der Erfolgsort (Datenbankbetreiber-Sitz)?
+- Ist ein fliegender Gerichtsstand in Deutschland begründet — ist die verletzte Datenbank in Deutschland abrufbar?
+- Welches Recht gilt nach Art. 8 Rom-II-VO — deutsches Recht (Schutzland) oder ausländisches Recht?
+- Enthält der Lizenzvertrag eine wirksame Gerichtsstandsvereinbarung (Art. 25 EuGVVO)?
+- Ist eine Schiedsklausel vorhanden und welches Recht gilt für Haupt- und Verfahrensfragen?
+- Welches Forum ist strategisch günstiger — LG Hamburg (schnell, Expertise), LG München oder LG Köln?
+
+## Typische Fallstricke
+
+- Fliegender Gerichtsstand bei Internet-Verletzungen ist nicht universell — bundesweite Abrufbarkeit allein reicht nicht immer aus.
+- Rom-II-VO Art. 8 Abs. 1 ist zwingend — vertragliche Rechtswahl ändert das anwendbare Recht bei Verletzungen nicht (nur bei Vertragsrecht).
+- Schiedsklauseln in Lizenzverträgen schließen einstweiligen Verfügungsschutz vor staatlichen Gerichten nicht aus.
+- Beklagter im Drittland (außerhalb EU) — keine EuGVVO-Anwendung; nationale Zuständigkeitsregeln prüfen.
+- Forum-Shopping zwischen EU-Gerichten muss rechtsmissbräuchliche Antizipation vermeiden — LG-Wahl muss sachlich gerechtfertigt sein.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Gerichtsstandsanalyse (EU-intern und international) für Datenbankrechts-Verletzungsklage
+- Forum-Shopping-Strategie-Empfehlung (LG Hamburg / München / Köln)
+- Anwendbares-Recht-Check nach Art. 8 Rom-II-VO
+- Gerichtsstandsklausel-Vorlage für Datenbanklizenzverträge (Art. 25 EuGVVO)
+- Schiedsklausel-Analyse für internationale Datenbankstreitigkeiten
+
+## Quellen
+
+- [Art. 7 EuGVVO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
+- [Art. 8 Rom-II-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007R0864)
+- [§ 32 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/32.html)
+- [EuGH C-170/12 Pinckney — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-170/12)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [Art. 25 EuGVVO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)

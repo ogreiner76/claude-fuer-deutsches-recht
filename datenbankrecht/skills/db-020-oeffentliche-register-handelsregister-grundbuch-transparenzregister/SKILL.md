@@ -1,46 +1,65 @@
 ---
-name: db-020-oeffentliche-register-handelsregister-grundbuch-transpare
-description: "Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: db-020-oeffentliche-register-handelsregister-grundbuch
+description: 'Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste.'
 ---
 
-# Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister
+# Öffentliche Register — Handelsregister, Grundbuch und Transparenzregister
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Öffentliche Register Handelsregister Grundbuch Transparenzregister** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Fintech-Unternehmen will Handelsregisterdaten massenhaft abrufen und für eine Unternehmens-Datenbank verwenden — fragt nach Zulässigkeit und Grenzen.
+- Datenaggregationsdienst hat Grundbuchdaten über Abfragen zusammengestellt und erhält eine Abmahnung von der registerführenden Behörde.
+- Datenschutzbehörde kritisiert ein Transparenzregister-Scraping-Dienst, der personenbezogene Daten von wirtschaftlich Berechtigten weiterverwendet.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Schutzrechtslage des Registers prüfen: Behörden können Datenbankherstellerrecht nach § 87a UrhG geltend machen, wenn wesentliche Investition in Aufbau und Pflege; § 5 UrhG schützt amtliche Werke nicht.
+2. Weiterverwendungsrecht nach IWG klären: Handels- und Transparenzregister sind öffentliche Stellen — gilt das Recht auf Weiterverwendung nach § 3 IWG?
+3. Massenabfragen als Verletzung prüfen: Systematische Massenabfragen können wesentliche Teile entnehmen (§ 87b UrhG) oder den Registerbetrieb stören.
+4. DSGVO-Prüfung: Transparenzregister enthält personenbezogene Daten von wirtschaftlich Berechtigten — welche Zweckbindung und Weiterverwendungsschranken gelten?
+5. Nutzungsbedingungen der Register analysieren: Bundesanzeiger-AGB, Grundbuch-Zugangsbedingungen, GBO-Anforderungen.
+6. Zulässige Registernutzung abgrenzen: Einzelabrufe zu berechtigtem Interesse vs. systematische Gesamtabfragen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Öffentliche Stellen als Datenbankherstellerinnen — Investition in Registeraufbau und -pflege kann wesentlich sein.
+- § 5 UrhG: Amtliche Werke (Gesetzestexte, Verordnungen) ohne Urheberrechtsschutz — gilt nicht für strukturierte Registerdatenbanken.
+- IWG § 3: Recht auf Weiterverwendung von Informationen öffentlicher Stellen — Ausnahme bei Schutzrechten Dritter.
+- § 12 GBO: Einsichtsrecht in das Grundbuch nur bei berechtigtem Interesse — systematische Massenabfragen nicht erfasst.
+- Art. 30 Abs. 5a GWG: Öffentlicher Zugang zum Transparenzregister — aber personenbezogene Daten mit DSGVO-Zweckbindung.
+- Art. 6 Abs. 1 lit. e DSGVO: Verarbeitung personenbezogener Registerdaten im öffentlichen Interesse — Zweckbindungspflicht.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat die registerführende Behörde eine wesentliche Investition in Aufbau und Pflege der Registerdatenbank getätigt?
+- Überschreiten die Abfragen die erlaubte Einzelnutzung und stellen systematische Massenentnahmen dar?
+- Gilt das IWG für das betreffende Register, und erlaubt es die geplante Weiterverwendung?
+- Enthält das Register personenbezogene Daten (Transparenzregister, Grundbuch) — welche DSGVO-Rechtsgrundlage und Zweckbindung gilt?
+- Haben die Registerbehörden AGB oder Nutzungsbedingungen für digitale Abfragen erlassen?
+- Besteht ein berechtigtes Interesse für die geplante Registernutzung (§ 12 GBO, § 30 GWG)?
+- Wird die abgefragte Datenmenge als wesentlicher Teil der Registerdatenbank zu qualifizieren sein?
+
+## Typische Fallstricke
+
+- Öffentlich zugänglich ≠ frei verwendbar in großem Umfang — das Datenbankherstellerrecht gilt unabhängig von der Öffentlichkeit des Registers.
+- IWG-Weiterverwendungsrecht schließt personenbezogene Daten nicht ohne weiteres ein — DSGVO-Zweckbindung bleibt.
+- Massenabfragen beim Handelsregister verstoßen gegen Bundesanzeiger-AGB und können zu Sperren und Schadensersatzforderungen führen.
+- Transparenzregister-Daten dürfen nur zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung genutzt werden — andere Zwecke sind DSGVO-widrig.
+- „Screen-Scraping" von Registerportalen kann § 202a StGB erfüllen, wenn Zugangssperren überwunden werden.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Rechtsgutachten zur Zulässigkeit der Registernutzung
+- IWG-Weiterverwendungsantrag-Vorlage
+- DSGVO-Zweckbindungs-Prüfbogen für Registerdaten
+- Abmahnschreiben gegen unerlaubtes Register-Massenabgreifen
+- Compliance-Konzept für Datenaggregationsdienste mit Registerdaten
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 5 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/5.html)
+- [IWG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/iwg/index.html)
+- [§ 12 GBO — dejure.org](https://dejure.org/gesetze/GBO/12.html)
+- [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
+- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)

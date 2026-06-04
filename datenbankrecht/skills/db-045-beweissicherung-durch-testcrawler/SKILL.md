@@ -1,46 +1,65 @@
 ---
 name: db-045-beweissicherung-durch-testcrawler
-description: "Datenbankrecht: Beweissicherung durch Testcrawler mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode.'
 ---
 
-# Datenbankrecht: Beweissicherung durch Testcrawler
+# Beweissicherung durch Testcrawler — Zulässigkeit und Verwertbarkeit
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Beweissicherung durch Testcrawler** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Datenbankbetreiber will einen eigenen Testcrawler einsetzen, der die Verletzungen eines Wettbewerbers dokumentiert — ist das rechtlich zulässig?
+- Anwalt fragt, ob durch einen Testcrawler gewonnene Beweise im Datenbankrechts-Prozess vor dem LG Hamburg verwertbar sind.
+- IT-Abteilung soll einen Testcrawler entwickeln, der regelmäßig Wettbewerber-Websites auf Datenbankübereinstimmungen prüft.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Zulässigkeit des Testcrawlers prüfen: Ist das Crawlen der Wettbewerber-Website erlaubt — AGB-Bindung, robots.txt, § 202a StGB bei Zugangssicherungen?
+2. Beweisziel definieren: Was soll der Testcrawler nachweisen — Übernahme eigener Datenbankeinträge, systematische Entnahme, Honey-Pot-Treffer?
+3. Testcrawler-Protokoll aufsetzen: Zeitstempel, Hashwerte der abgerufenen Daten, Vergleich mit eigener Datenbank, Abrufvolumen und Herkunft.
+4. Notarielle oder technische Zertifizierung: Einsatz eines qualifizierten Zeitstempels (eIDAS-VO) oder notarielle Protokollierung des Crawling-Vorgangs.
+5. Honey-Pot-Vergleich integrieren: Wenn eigene Datenbank Honey-Pot-Einträge enthält, können diese bei Wettbewerber nachgewiesen werden.
+6. Verwertbarkeit im Prozess sichern: § 286 ZPO — technische Protokolle als Augenscheinsbeweis; Sachverständigen-Gutachten über die Vergleichsmethodik.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 286 ZPO: Freie Beweiswürdigung — technische Protokolle und Crawl-Ergebnisse als Augenscheinsbeweis verwertbar.
+- § 202a StGB: Ausspähen von Daten — Testcrawler darf keine Zugangssicherungen (Passwort, CAPTCHA, technische Sperre) überwinden.
+- § 1 UWG: Unlautere Mittel — Testcrawler ohne Täuschung ist kein UWG-Verstoß, wenn nur öffentlich zugängliche Daten abgerufen werden.
+- DSGVO Art. 6: Personenbezogene Daten — Testcrawler darf keine personenbezogenen Daten ohne Rechtsgrundlage erheben.
+- eIDAS-VO Art. 41: Qualifizierter elektronischer Zeitstempel für Nachweis des Abrufzeitpunkts.
+- § 87b UrhG: Verletzungstatbestand als Beweisziel — Testcrawler dokumentiert Entnahme von Teilen der eigenen Datenbank.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die Zielwebsite öffentlich zugänglich ohne Zugangssicherung (kein Login, kein CAPTCHA, keine technische Blockade)?
+- Verletzt der Testcrawler die AGB der Zielwebsite — kann der Betreiber des Testcrawlers deshalb haftbar werden?
+- Ist § 202a StGB ausgeschlossen — werden keine Zugangssicherungen überwunden?
+- Enthält das Crawl-Protokoll alle für die Beweiswürdigung erforderlichen Daten (Zeitstempel, URLs, abgerufene Inhalte, Hashwerte)?
+- Wurden Honey-Pot-Datensätze bei der Zielwebsite gefunden — sind diese eindeutig identifizierbar?
+- Ist das Protokoll von einem neutralen Dritten (Notar, IT-Sachverständiger) zertifiziert?
+- Enthält der Testcrawler-Abruf personenbezogene Daten — welche DSGVO-Rechtsgrundlage gilt?
+
+## Typische Fallstricke
+
+- Testcrawler, der robots.txt ignoriert, kann AGB-Verletzung begehen — Testcrawler-AGB-Compliance prüfen.
+- Ohne neutrale Zertifizierung kann der Gegner die Authentizität der Crawl-Ergebnisse im Prozess angreifen.
+- Honey-Pot-Datensätze müssen vor dem Verdachtsfall in der eigenen Datenbank vorhanden sein — nachträgliches Einpflegen entwertet den Beweis.
+- DSGVO-Verletzung durch personenbezogene Datenabrufe im Testcrawler kann die Beweise unverwertbar machen.
+- Sachverständiger muss die Crawl-Vergleichsmethodik vor Gericht erklären können — Briefing ist entscheidend.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Testcrawler-Zulässigkeitsprüfung (§ 202a StGB / AGB / DSGVO)
+- Testcrawler-Protokollvorlage (Zeitstempel, Hashwerte, Honey-Pot-Vergleich)
+- Notarielle Beweissicherungs-Briefing-Vorlage für Crawl-Dokumentation
+- Sachverständigen-Briefing für technischen Datenbankvergleich
+- Prozessvorbereitung: Crawl-Beweis als Augenscheinsbeweis nach § 286 ZPO
+
+## Quellen
+
+- [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
+- [§ 202a StGB — dejure.org](https://dejure.org/gesetze/StGB/202a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
+- [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+- [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)

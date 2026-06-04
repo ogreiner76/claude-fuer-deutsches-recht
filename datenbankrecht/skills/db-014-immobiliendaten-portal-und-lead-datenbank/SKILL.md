@@ -1,46 +1,65 @@
 ---
 name: db-014-immobiliendaten-portal-und-lead-datenbank
-description: "Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen.'
 ---
 
-# Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank
+# Immobiliendaten, Portale und Lead-Datenbanken — Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Immobiliendaten Portal und Lead-Datenbank** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Immobilienportal-Betreiber stellt fest, dass ein Konkurrent täglich Exposés automatisiert abruft und in ein eigenes Portal übernimmt.
+- Maklerunternehmen hat eine Lead-Datenbank mit Interessentendaten aufgebaut und will sie an einen Käufer verkaufen — welche Rechte können übertragen werden?
+- PropTech-Startup will Immobilienangebote mehrerer Portale aggregieren und fragt nach dem rechtlichen Risiko gegenüber den Portal-Betreibern.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankherstellerrecht für das Portal prüfen: Wesentliche Investition in Sammlung, Qualitätsprüfung und Darstellung der Exposés (§ 87a UrhG)?
+2. Systematisches Abgreifen bewerten: Wesentliche Entnahme oder kumulierte Teilentnahmen (§ 87b UrhG), AGB-Verstoß, UWG-Tatbestand?
+3. DSGVO-Prüfung für Lead-Datenbank: Enthält die Datenbank personenbezogene Kontaktdaten? Rechtsgrundlage nach Art. 6 DSGVO?
+4. Datenbankübertragung bei Lead-Datenbank: Welche Rechte (Herstellerrecht, Urheberrecht an Inseraten) können verkauft werden — und welche DSGVO-Pflichten gehen über?
+5. Aggregator-Risiko bewerten: EuGH Innoweb/Wegener — Weiterverwendung durch Meta-Suchmaschine ist verboten (C-202/12).
+6. Schutzmaßnahmen empfehlen: robots.txt, AGB, technische Sperren, Honey-Pot-Einträge als Beweisinstrument.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht für Immobilienportale — wesentliche Investition in Sammlung und Darstellung von Exposés.
+- § 87b UrhG: Verbot der Entnahme wesentlicher Teile; Kumulationstatbestand bei wiederholtem Abgreifen.
+- EuGH C-202/12 (Innoweb/Wegener): Meta-Suchmaschine, die eine Datenbank in Echtzeit durchsucht, verwendet wesentliche Teile weiter.
+- Art. 6 Abs. 1 lit. f DSGVO: Berechtigtes Interesse als Rechtsgrundlage für Lead-Datenbanken — Interessenabwägung erforderlich.
+- § 4 Nr. 4 UWG: Gezielte Behinderung durch systematisches Abgreifen von Wettbewerberdaten.
+- § 307 BGB: AGB-Scraping-Verbote — wirksam, wenn transparent und verhältnismäßig formuliert.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat das Portal eine wesentliche Investition in Beschaffung (Maklerinserate einsammeln), Überprüfung (Qualitätskontrolle) und Darstellung (Suchmasken, Filterfunktionen) getätigt?
+- Sind die abgegriffenen Exposés wesentliche Teile der Datenbank — qualitativ (Exklusivinserate) oder quantitativ (hoher Anteil)?
+- Handelt der Aggregator systematisch und regelmäßig (Kumulationstatbestand § 87b Abs. 1 S. 2 UrhG)?
+- Enthält die Lead-Datenbank personenbezogene Daten, und auf welcher DSGVO-Rechtsgrundlage wurden sie erhoben?
+- Liegt ein wirksames AGB-Verbot für automatisiertes Abrufen vor?
+- Wurde Honey-Pot-Datensätze oder Wasserzeichen in den Inseraten als Beweisinstrument eingesetzt?
+- Besteht bei Lead-Datenbankübertragung eine DSGVO-konforme Rechtsgrundlage für die Weitergabe?
+
+## Typische Fallstricke
+
+- Portale, die Inserate lediglich von Maklern entgegennehmen und veröffentlichen, investieren primär in Darstellung — nicht in Beschaffung; Herstellerrecht kann dennoch begründet sein.
+- Einzelne Maklerinserate können eigenen Urheberrechtsschutz der Texte/Fotos genießen — Portalrecht und Inseratrecht trennen.
+- Lead-Datenbankverkauf ohne DSGVO-Grundlage ist Datenschutzverstoß — Bußgeld bis 4 % des Jahresumsatzes (Art. 83 DSGVO).
+- Honey-Pot-Einträge sind effektives Beweismittel, müssen aber rechtssicher eingesetzt werden (keine Täuschung Dritter).
+- Aggregatoren können argumentieren, sie nutzten nur öffentlich zugängliche Daten — Innoweb/Wegener-Entscheidung entgegnet dem.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankschutzanalyse für das Immobilienportal (§ 87a UrhG-Gutachten)
+- Schutzmaßnahmen-Empfehlung (AGB, robots.txt, Honey-Pots)
+- Abmahnschreiben gegen Aggregator (§ 87b UrhG + § 4 Nr. 4 UWG)
+- DSGVO-Compliance-Check für Lead-Datenbank
+- Datenbankübertragungsvertrag-Checkliste (M&A / Lead-Datenkauf)
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
+- [Art. 83 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/83.html)

@@ -1,46 +1,65 @@
 ---
 name: db-051-datenbankrecht-fuer-behoerden
-description: "Datenbankrecht: Datenbankrecht für Behörden mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche.'
 ---
 
-# Datenbankrecht: Datenbankrecht für Behörden
+# Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht für Behörden** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Bundesbehörde fragt, ob sie Datenbankherstellerrecht an ihrer Statistikdatenbank geltend machen kann, obwohl das IWG Weiterverwendung grundsätzlich erlaubt.
+- Landesamt behauptet Herstellerrecht an seiner Geodatenbank und will kommerziellen Nutzern Lizenzgebühren in Rechnung stellen — ist das nach Open-Data-RL zulässig?
+- Unternehmen will behördliche Datenbanken für ein Compliance-Produkt nutzen und muss klären, welche Nutzungsrechte und -pflichten bestehen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Herstellerrechts-Schutz für Behörden prüfen: § 87a UrhG gilt für alle Hersteller, einschließlich Behörden — wesentliche Investition in Datenbeschaffung und -pflege nachweisen.
+2. § 5 UrhG-Ausnahme abgrenzen: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) genießen keinen Urheberrechtsschutz — aber strukturierte Behördendatenbanken können Datenbankherstellerrecht haben.
+3. IWG-Pflichten klären: § 3 IWG — Behörden müssen auf Antrag Informationen zur Weiterverwendung bereitstellen; Gebühren sind begrenzt.
+4. Open-Data-RL 2019/1024 anwenden: Kategorien hochwertige Datensätze müssen kostenlos und maschinenlesbar bereitgestellt werden.
+5. DSGVO-Anforderungen: Personenbezogene Daten in Behördendatenbanken unterliegen DSGVO — Zweckbindung, Auskunfts- und Löschungsrechte.
+6. Lizenzgebühren prüfen: Sind Behörden nach IWG und Open-Data-RL berechtigt, Lizenzgebühren zu erheben — Grenzen?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Behörden als Datenbankherstellerinnen — wesentliche Investition begründet Herstellerrecht auch für öffentliche Stellen.
+- § 5 UrhG: Amtliche Werke — kein Urheberrechtsschutz für Gesetze, Verordnungen, Entscheidungen; aber Herstellerrecht an strukturierten Zusammenstellungen.
+- IWG § 3: Weiterverwendungsrecht — Anspruch auf Bereitstellung von Behördendaten; Gebühren auf Grenzkosten begrenzt.
+- Open-Data-RL 2019/1024 Art. 11: Hochwertige Datensätze kostenlos bereitstellen (z. B. statistische Daten, Geodaten).
+- DSGVO Art. 5 Abs. 1: Zweckbindungsgrundsatz für Behördendatenbanken mit personenbezogenen Daten.
+- § 12 GBO / § 30 GWG: Bereichsspezifische Zugangsbeschränkungen für Grundbuch und Transparenzregister.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat die Behörde eine wesentliche Investition in ihre Datenbankinfrastruktur (Datenbeschaffung, Qualitätsprüfung, Darstellung) getätigt?
+- Fällt die Datenbank unter § 5 UrhG-Ausnahme (amtliche Werke) oder ist sie trotzdem herstellerrechtsschutzfähig?
+- Gilt das IWG für die betreffende Behörde und Datenbank — welche Ausnahmen bestehen?
+- Handelt es sich um hochwertige Datensätze nach Open-Data-RL Art. 11 — kostenlose Bereitstellungspflicht?
+- Enthält die Datenbank personenbezogene Daten — welche DSGVO-Rechtsgrundlage und Zweckbindung gilt?
+- Sind die erhobenen Lizenzgebühren durch IWG-Grenzkosten-Begrenzung gerechtfertigt?
+- Besteht ein Weiterverwendungsanspruch gegen Behörden-Weigerung — Verwaltungsrecht und IWG-Rechtsweg?
+
+## Typische Fallstricke
+
+- Behörden irren, wenn sie § 5 UrhG als Schutzausschluss für ihre Datenbanken verstehen — § 87a UrhG gilt daneben.
+- IWG-Weiterverwendungsansprüche schließen das Datenbankherstellerrecht nicht aus — beides besteht parallel.
+- Hochwertige Datensätze nach Open-Data-RL Art. 11 müssen kostenlos bereitgestellt werden — Lizenzgebühren unzulässig.
+- Personenbezogene Daten in Behördendatenbanken dürfen nicht unbeschränkt zur Weiterverwendung freigegeben werden.
+- Behörden als Hersteller können Unterlassungsansprüche gegen kommerzielle Nutzung geltend machen, soweit IWG nicht greift.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Check für öffentliche Stellen
+- IWG-Weiterverwendungsanspruch-Vorlage
+- Open-Data-Richtlinien-Compliance-Check für Behördendatenbanken
+- DSGVO-Zweckbindungs-Prüfbogen für Behördendaten
+- Lizenzgebühren-Zulässigkeitsanalyse (IWG-Grenzkosten vs. kommerzieller Gebühr)
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 5 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/5.html)
+- [IWG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/iwg/index.html)
+- [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
+- [DSGVO Art. 5 — dejure.org](https://dejure.org/gesetze/DSGVO/5.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

@@ -1,46 +1,65 @@
 ---
 name: db-056-datenbankrecht-im-verlag
-description: "Datenbankrecht: Datenbankrecht im Verlag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage.'
 ---
 
-# Datenbankrecht: Datenbankrecht im Verlag
+# Datenbankrecht im Verlag — Volltextdatenbanken und digitale Archive
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht im Verlag** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Wissenschaftsverlag fragt, wie er seine Zeitschriftendatenbank gegen KI-Trainingsdaten-Ernte schützen kann, nachdem TDM-Crawler die Datenbank systematisch abgerufen haben.
+- Fachverlag lizenziert seine Rechtsdatenbank an Hochschulen und Kanzleien und muss Lizenzklauseln für Volllizenz vs. Single-Seat-Zugang definieren.
+- Digitales Bibliotheksarchiv fragt, wer Datenbankherstellerrecht an einer aus Verlagsarchiven zusammengestellten Datenbank hat — Verlag oder Bibliothek?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankherstellerrecht des Verlags bestimmen: Wesentliche Investition in Beschaffung (Manuskriptakquisition), Überprüfung (Peer Review, Redaktion) und Darstellung (digitale Plattform)?
+2. Abgrenzung Verlagsrecht und Datenbankrecht: § 87k UrhG (Verleger-Beteiligungsrecht) vs. § 87a UrhG (Datenbankherstellerrecht) — beide können nebeneinander gelten.
+3. TDM-Opt-out implementieren: § 44b Abs. 3 UrhG — maschinenlesbarer Opt-out für Verlags-Datenbank (robots.txt, HTTP-Header, JATS-Metadaten-Opt-out).
+4. Lizenzstruktur für Hochschulen und Kanzleien: Einzelzugang, Institutionslizenz, Simultanzugriff, Download-Limits, Volllizenz vs. Lesezugang.
+5. Bibliotheksschranken prüfen: § 60e UrhG (Bibliotheksschranke) — zulässige Nutzungen für Bibliotheken bei digitalen Verlagsarchiven.
+6. Aggregator-Risiko bewerten: Volltextaggregatoren wie EBSCO, Scopus — lizenzierte Nutzung vs. unbefugte Übernahme der Verlagsdatenbank.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Verlags-Datenbankherstellerrecht — wesentliche Investition in Beschaffung und redaktionelle Überprüfung von Beiträgen.
+- § 87k UrhG: Verleger-Beteiligungsrecht — ergänzender Schutz für Verlage neben Urheberrecht und Datenbankherstellerrecht.
+- § 44b UrhG: TDM-Schranke — Verlag kann durch maschinenlesbaren Opt-out KI-Training ausschließen.
+- § 60e UrhG: Bibliotheksschranke — zulässige Nutzungen für Bibliotheksbestände einschließlich digitaler Verlagsarchive.
+- § 87b UrhG: Verletzung durch Entnahme wesentlicher Teile aus der Verlagsdatenbank ohne Lizenz.
+- DSM-RL Art. 15 (RL 2019/790): Presseverleger-Leistungsschutzrecht — gilt für Online-Nutzungen von Presseerzeugnissen.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat der Verlag eine wesentliche Investition in seine Datenbankinfrastruktur (Redaktion, Peer Review, digitale Plattform) getätigt?
+- Ist das Datenbankherstellerrecht vom Urheberrecht der Autoren klar getrennt — welche Rechte liegen beim Verlag, welche bei den Autoren?
+- Wurde ein wirksamer TDM-Opt-out nach § 44b Abs. 3 UrhG erklärt (robots.txt, JATS-Metadaten)?
+- Decken bestehende Institutionslizenzen die geplante Nutzung durch Hochschulen und Kanzleien vollständig ab?
+- Greift die Bibliotheksschranke (§ 60e UrhG) für die geplante Archivnutzung?
+- Entnehmen Aggregatoren wesentliche Teile der Verlagsdatenbank ohne Lizenz — ist eine Verletzungsklage erforderlich?
+- Gilt das Presseverleger-Leistungsschutzrecht (§ 87g UrhG) neben dem Datenbankherstellerrecht?
+
+## Typische Fallstricke
+
+- Autoren-Urheberrecht und Verlags-Herstellerrecht sind kumulativ — Verlag lizenziert Datenbankzugang, Autor kann weiterhin Rechte an einzelnen Beiträgen haben.
+- TDM-Opt-out ohne Standard-Metadaten-Format wird von KI-Crawlern ignoriert — JATS-Opt-out und robots.txt kombinieren.
+- Bibliotheksschranke § 60e UrhG erlaubt keine vollständige Datenbanknutzung — nur für definierte Bibliothekszwecke.
+- Institutionslizenzen werden oft auf neue Nutzergruppen (Remote-Zugriff, Alumni) ausgedehnt, ohne Lizenzerweiterung — Verstoß gegen Vertragskonditionen.
+- Presseverleger-Leistungsschutzrecht (§ 87g UrhG) gilt nur für Presseverlage, nicht für Wissenschaftsverlage.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Check für Verlagsarchiv
+- TDM-Opt-out-Implementierungsguide für Verlage (JATS, robots.txt, HTTP-Header)
+- Institutionslizenz-Vorlage mit Download-Limits und Simultanzugriff-Regeln
+- Bibliotheksschranken-Übersicht (§ 60e UrhG) für digitale Verlagsarchive
+- Aggregator-Verletzungsanalyse und Abmahn-Strategie
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 60e UrhG — dejure.org](https://dejure.org/gesetze/UrhG/60e.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

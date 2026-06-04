@@ -1,46 +1,65 @@
 ---
 name: db-013-sportdaten-live-daten-fixtures-und-ergebnislisten
-description: "Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern.'
 ---
 
-# Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten
+# Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Sportdaten Live-Daten Fixtures und Ergebnislisten** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Sportwettenanbieter fragt, ob er Spielpläne und Ergebnisse einer Fußballliga ohne Lizenz nutzen darf, nachdem die Liga Datenbankherstellerrecht geltend macht.
+- Sportdaten-Aggregator verkauft Live-Statistikdaten und will wissen, ob der Datenbankschutz seine Datenbank gegen Wettbewerber absichert.
+- Bundesliga-Klub lizenziert seine Spieler- und Spieldatenbank an einen App-Anbieter und muss den Vertragsumfang definieren.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. BHB/William Hill-Doktrin anwenden: Investition in Schaffung der Sportdaten (Spielbetrieb) vs. Investition in Beschaffung und Überprüfung bestehender Daten trennen.
+2. Datenbankcharakter prüfen: Spielpläne, Ergebnislisten, Statistikdatenbanken — systematisch geordnete Sammlung mit individuellem Zugriff (§ 87a Abs. 1 UrhG)?
+3. Investitionsnachweis für Statistikdatenbanken: Separate Datenerfassung, Überprüfung und Aufbereitung von Spielerstatistiken kann eigenständige Investition darstellen.
+4. Wettbewerbsrechtliche Alternativen prüfen: Leistungsschutz über § 4 Nr. 3 UWG (Schmarotzen) oder Hausrecht des Veranstalters?
+5. Lizenzmodell entwickeln: Welche Daten werden lizenziert, in welchem Umfang, zu welchen Konditionen für Echtzeitnutzung vs. historische Daten?
+6. Vertragliche Absicherung: Nutzungsbedingungen für Daten-Feeds, API-Verträge, Sublizenzierungsverbote.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 87a-87e UrhG: Datenbankherstellerrecht — Investition in Beschaffung, Überprüfung oder Darstellung erforderlich.
+- EuGH C-203/02 (BHB/William Hill): Pferderenndaten werden vom Veranstalter erzeugt, nicht beschafft — kein Herstellerrecht.
+- EuGH C-338/02 (Fixtures Marketing/Svenska AB): Spielpläne von Fußballligen sind eigene Daten — kein Datenbankherstellerrecht.
+- § 4 Nr. 3 UWG: Nachahmungsschutz als wettbewerbsrechtliche Alternative bei kumulativen Voraussetzungen.
+- § 87a Abs. 2 UrhG: Hersteller trägt Investitionsrisiko — Verein vs. Liga vs. Datendienstleister.
+- Art. 7 RL 96/9/EG: Qualitative oder quantitative Wesentlichkeit der entnommenen Teile.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Erzeugt der Anspruchsteller die Sportdaten selbst (Spielbetrieb), oder beschafft er sie aus externen Quellen?
+- Liegt eine separate, wesentliche Investition in Beschaffung und Überprüfung von Spielstatistiken vor, die über die Erzeugung der Daten hinausgeht?
+- Ist die Datenbank systematisch geordnet und bietet sie individuellen Datenzugriff?
+- Handelt es sich um Live-Daten (hohe Aktualitätsinvestition) oder historische Daten (Archivierungsinvestition)?
+- Besteht ein Wettbewerbsrechtlicher Schutz (§ 4 Nr. 3 UWG) als Auffangtatbestand?
+- Ist das Lizenzmodell wettbewerbsrechtlich zulässig — kein Marktmissbrauch durch Exklusivlizenz?
+- Welcher Anteil der Datenbank wird genutzt — wesentlicher Teil (§ 87b Abs. 1 UrhG)?
+
+## Typische Fallstricke
+
+- Ligabetreiber und Veranstalter irren häufig, wenn sie eigene Spielpläne und Ergebnisse automatisch als datenbankgeschützt betrachten — BHB/William Hill verneint dies klar.
+- Separate Statistikdienste können eigenes Datenbankherstellerrecht erwerben, wenn sie Daten eigenständig beschaffen und aufbereiten.
+- Wettbewerbsrechtlicher Leistungsschutz (§ 4 Nr. 3 UWG) ist subsidiär und setzt Nachahmung eines konkreten Produkts voraus.
+- Exklusive Datenlizenzierungsverträge können kartellrechtliche Probleme aufwerfen, wenn ein Veranstalter marktbeherrschende Stellung hat.
+- Historische Datenbankbestände genießen oft anderen Schutz als tagesaktuelle Live-Daten — Schutzdauer (§ 87d UrhG) prüfen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankschutz-Gutachten für Sportdaten (BHB/William Hill-Subsumtion)
+- Investitionsnachweis-Schema für Statistikdatenbanken
+- Lizenzvertrag-Vorlage für Live-Sportdaten-APIs
+- Wettbewerbsrechtliche Alternativanalyse (§ 4 Nr. 3 UWG)
+- Marktmissbrauchs-Risikocheck für exklusive Sportdatenlizenz
+
+## Quellen
+
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-338/02 Fixtures Marketing — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-338/02)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

@@ -1,46 +1,65 @@
 ---
 name: db-039-open-source-datenbank-und-open-data-commons
-description: "Datenbankrecht: Open Source Datenbank und Open Data Commons mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan.'
 ---
 
-# Datenbankrecht: Open Source Datenbank und Open Data Commons
+# Open-Source-Datenbanken und Open-Data-Commons-Lizenzen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Open Source Datenbank und Open Data Commons** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Startup will eine Open-Data-Datenbank (ODbL-lizenziert) mit proprietären Daten kombinieren und fragt, ob das Sharealike-Gebot die gesamte Datenbank erfasst.
+- Unternehmen hat seine Datenbank unter CC0 veröffentlicht und fragt nun, ob es trotzdem Verletzungsansprüche nach § 87b UrhG geltend machen kann.
+- NGO will ihre eigene Datenbank unter PDDL veröffentlichen und muss verstehen, was das für zukünftige Herstellerrechte bedeutet.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Lizenzart bestimmen: ODbL (Sharealike-Copyleft), PDDL (Public Domain), CC0 (Rechteaufgabe inkl. sui-generis-Datenbankschutz)?
+2. Sharealike-Analyse für ODbL: Wann ist eine Datenbank „abgeleitet" von einer ODbL-Quelldatenbank — Abgrenzung zwischen abgeleiteter Datenbank und collective database.
+3. CC0-Wirkung prüfen: CC0 umfasst explizit auch das sui-generis-Datenbankherstellerrecht — kann der Herausgeber nach CC0 noch nach § 87b UrhG vorgehen?
+4. Attribution-Pflichten erfüllen: ODbL und CC BY fordern Namensnennung — was ist konkret, maschinenlesbar und für abgeleitete Produkte erforderlich?
+5. Lizenzkompatibilität prüfen: ODbL + CC BY — kompatibel? ODbL + proprietäre Daten — Sharealike-Problem?
+6. Strategische Lizenzwahl: Welche Lizenz passt zur Geschäftsstrategie — maximale Offenheit vs. Schutz der Datenbankstruktur?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht — durch CC0 explizit aufgegeben, durch ODbL lizenziert unter Copyleft-Bedingung.
+- § 87b UrhG: Verletzungsanspruch — nach CC0-Veröffentlichung sind Verletzungsansprüche weitgehend ausgeschlossen.
+- ODbL 1.0 § 4: Sharealike — Derivatives Database müssen unter ODbL weitergegeben werden.
+- CC0 1.0 Universell: Waiver auch für Datenbankherstellerrecht nach RL 96/9/EG — gilt explizit für § 87a UrhG.
+- PDDL 1.0: Public Domain Dedication — weitreichende Rechteaufgabe, kein Copyleft.
+- RL 96/9/EG Art. 7-8: Datenbankherstellerrecht als Lizenzgegenstand für Open-Data-Lizenzen.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Unter welcher Lizenz steht die Quelldatenbank — ODbL, PDDL oder CC0?
+- Löst die geplante Nutzung die Sharealike-Verpflichtung der ODbL aus (Derivatives Database)?
+- Ist nach CC0-Veröffentlichung noch ein Verletzungsanspruch nach § 87b UrhG möglich?
+- Sind Attribution-Pflichten der angewandten Lizenz für alle Nutzungsformen erfüllbar?
+- Sind ODbL und die andere eingesetzte Lizenz (CC BY, proprietär) kompatibel?
+- Welche Lizenzbedingungen gelten für Collective Databases (ODbL §§ 4.5-4.6) vs. Derivative Databases?
+- Kann das Unternehmen eine proprietäre Datenbank auf Basis einer ODbL-Quelldatenbank aufbauen ohne Sharealike-Verpflichtung?
+
+## Typische Fallstricke
+
+- ODbL-Sharealike gilt für Derivative Databases, nicht für den Inhalt (Contents) — diese Unterscheidung ist entscheidend.
+- CC0 gibt das Herstellerrecht auf — nach Veröffentlichung unter CC0 kein Rücktritt von der Lizenz möglich.
+- Kombinationsdatenbank aus ODbL-Quellen und eigenen Daten kann ODbL-Sharealike auslösen — ohne es zu bemerken.
+- Attribution-Pflichten bei ODbL für große Datenbankbestände technisch schwierig umzusetzen — pragmatische Lösung erforderlich.
+- PDDL gibt kein Sharealike vor, aber auch keine Haftungsfreistellung — Haftungsrisiken für fehlerhafte Daten bleiben.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Open-Data-Lizenz-Kompatibilitätsmatrix (ODbL / PDDL / CC0 / CC BY)
+- ODbL-Sharealike-Analyse (Derivative Database vs. Collective Database)
+- Lizenzwahlberatung für Datenbankveröffentlichungen
+- Attribution-Implementierungsguide für ODbL und CC BY
+- Verletzungsanspruchs-Check nach Open-Data-Lizenzveröffentlichung
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [§ 4 UrhG Datenbankwerk — dejure.org](https://dejure.org/gesetze/UrhG/4.html)

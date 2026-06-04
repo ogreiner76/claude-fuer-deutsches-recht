@@ -1,46 +1,65 @@
 ---
 name: db-008-ki-training-mit-datenbankbestand
-description: "Datenbankrecht: KI-Training mit Datenbankbestand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber.'
 ---
 
-# Datenbankrecht: KI-Training mit Datenbankbestand
+# KI-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **KI-Training mit Datenbankbestand** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- KI-Startup möchte eine kommerzielle Sprachmodell-Trainingsdatenbank aus lizenzierten und öffentlichen Quellen zusammenstellen und benötigt Rechtssicherheit zur TDM-Schranke.
+- Datenbankbetreiber fragt, wie er sein Opt-out gegen KI-Training technisch und rechtlich wirksam dokumentieren kann.
+- Forschungsinstitut will eine Datenbanksammlung für nicht-kommerzielle Textanalyse nutzen und prüft, ob § 60d UrhG die Nutzung erlaubt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Nutzungsart bestimmen: Kommerzielles KI-Training (§ 44b UrhG) oder wissenschaftliche Forschung (§ 60d UrhG)?
+2. Datenbankschutz der Quelle prüfen: Greift §§ 87a ff. UrhG für die Quelldatenbank? Ist eine Lizenz oder Schranke erforderlich?
+3. Opt-out der Rechteinhaber prüfen: Hat der Datenbankbetreiber einen maschinenlesbaren Opt-out erklärt (§ 44b Abs. 3 UrhG)?
+4. Vertragslage analysieren: Lizenzbedingungen der Quelldatenbank, AGB, API-Nutzungsbedingungen — erlauben sie Training?
+5. Technische Umsetzung des Opt-outs dokumentieren: robots.txt-Einträge, HTTP-Header, Metadaten — reichen diese als maschinenlesbarer Vorbehalt?
+6. DSGVO-Schnittmenge prüfen: Enthält die Trainingsdatenbank personenbezogene Daten (§ 12 DSGVO, Art. 6 Abs. 1 DSGVO)?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 44b UrhG: TDM-Schranke für kommerzielle Zwecke — erlaubt Vervielfältigung für TDM, es sei denn, Rechteinhaber hat Opt-out erklärt.
+- § 60d UrhG: TDM-Schranke für wissenschaftliche Forschung — weitgehend zwingend, kaum Opt-out möglich.
+- § 87b UrhG: Datenbankherstellerrecht — TDM-Schranken gelten auch gegenüber dem sui-generis-Recht (§ 87c Abs. 1 Nr. 4 UrhG).
+- DSM-RL Art. 3-4 (RL 2019/790): Europäische Grundlage der TDM-Schranken; Art. 4 für kommerzielle TDM mit Opt-out.
+- § 87c UrhG: Erlaubte Handlungen — Verweis auf § 44b und § 60d als Schranken.
+- Art. 6 Abs. 1 DSGVO: Rechtsgrundlage für Verarbeitung personenbezogener Trainingsdaten.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Dient das KI-Training einem kommerziellen oder wissenschaftlichen Zweck?
+- Wurde ein wirksamer maschinenlesbarer Opt-out durch den Datenbankbetreiber erklärt?
+- Enthält die Datenbank urheberrechtlich oder durch Herstellerrecht geschützte Inhalte?
+- Erlauben vorhandene Lizenzverträge die Nutzung für KI-Training explizit oder schließen sie diese aus?
+- Werden personenbezogene Daten für das Training verwendet — welche DSGVO-Rechtsgrundlage gilt?
+- Sind die erzeugten KI-Modelle selbst als abgeleitete Datenbankwerke einzuordnen?
+- Welche Dokumentationspflichten gelten für den Trainingsdatensatz (Transparenz, DSM-RL Erwägungsgrund 18)?
+
+## Typische Fallstricke
+
+- Opt-out nach § 44b Abs. 3 UrhG muss maschinenlesbar sein — ein allgemeines AGB-Verbot reicht nicht aus.
+- Kommerzielle TDM-Schranke schützt nicht, wenn der Opt-out vor dem Abruf wirksam erklärt wurde.
+- Auch öffentlich zugängliche Datenbanken können durch Herstellerrecht geschützt sein — öffentlich ≠ frei nutzbar.
+- § 60d UrhG gilt nur für originär wissenschaftliche Forschung, nicht für Forschungs-Spin-offs mit kommerziellem Fokus.
+- Das erzeugte KI-Modell kann Datenbankschutz der Quelldatenbank weitertragen, wenn Trainingsdaten direkt abrufbar sind.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- TDM-Compliance-Prüfbericht (kommerziell/wissenschaftlich, Opt-out-Status)
+- Opt-out-Implementierungsguide für Datenbankbetreiber (robots.txt, HTTP-Header)
+- Lizenz-Checkliste für Trainingsdaten-Beschaffung
+- Datenschutz-Kurzprüfung (DSGVO-Rechtsgrundlage für personenbezogene Trainingsdaten)
+- Vertragsmuster für KI-Trainingsdaten-Lizenz
+
+## Quellen
+
+- [§ 44b UrhG TDM-Schranke — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 60d UrhG wissenschaftliches TDM — dejure.org](https://dejure.org/gesetze/UrhG/60d.html)
+- [§ 87c UrhG erlaubte Handlungen — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)

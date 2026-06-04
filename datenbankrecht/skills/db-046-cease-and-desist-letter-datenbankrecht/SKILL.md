@@ -1,46 +1,65 @@
 ---
 name: db-046-cease-and-desist-letter-datenbankrecht
-description: "Datenbankrecht: Cease-and-desist Letter Datenbankrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung.'
 ---
 
-# Datenbankrecht: Cease-and-desist Letter Datenbankrecht
+# Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — § 97a UrhG
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Cease-and-desist Letter Datenbankrecht** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Datenbankbetreiber hat Nachweise für systematisches Scraping durch einen Wettbewerber und will eine förmliche Abmahnung mit Unterlassungsforderung senden.
+- Unternehmen hat eine Abmahnung wegen behaupteter Datenbankrechts-Verletzung erhalten und muss kurzfristig entscheiden, ob es die Unterlassungserklärung unterzeichnet.
+- Anwalt will überprüfen, ob eine erhaltene Abmahnung den gesetzlichen Anforderungen des § 97a UrhG entspricht und ob die Kostenerstattungspflicht besteht.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Verletzungshandlung klar benennen: Welche konkreten Handlungen verletzen welche Normen (§ 87b UrhG) — Entnahme welcher Teile, durch wen, wann?
+2. Unterlassungsforderung formulieren: Hinreichend bestimmt und vollständig — alle Verletzungshandlungen und Varianten erfassen.
+3. Fristsetzung bestimmen: Üblicherweise kurze Frist (3-7 Tage) für Unterzeichnung der Unterlassungserklärung.
+4. Kostenerstattungsanspruch prüfen: § 97a Abs. 3 UrhG — Kostenerstattung für Abmahnanwaltsgebühren bei Nicht-Verbraucher-Geschäftsbeziehung.
+5. Missbrauchsprüfung vornehmen: § 97a Abs. 4 UrhG — unberechtigte Abmahnung kann Schadensersatzpflicht des Abmahnenden begründen.
+6. Unterlassungserklärung entgegennehmen und prüfen: Ist sie ausreichend weit, zeitlich unbegrenzt und enthält sie eine angemessene Vertragsstrafe?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 97a Abs. 1 UrhG: Abmahnung als Voraussetzung für Kostenerstattung — muss hinreichend deutlich sein.
+- § 97a Abs. 3 UrhG: Ersatz der Rechtsanwaltsgebühren bei berechtigter Abmahnung — gilt auch im Datenbankrecht.
+- § 97a Abs. 4 UrhG: Kostenerstattung für unberechtigte Abmahnung beim Abgemahnten.
+- § 87b UrhG: Verletzungstatbestand — Grundlage für den Unterlassungsanspruch in der Abmahnung.
+- § 97 Abs. 1 UrhG: Unterlassungsanspruch bei Datenbankherstellerrechts-Verletzung.
+- § 339 BGB: Vertragsstrafe in Unterlassungserklärung — Höhe und Bestimmtheit.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die Verletzungshandlung in der Abmahnung konkret und vollständig beschrieben?
+- Enthält die Abmahnung eine klare Unterlassungsforderung mit Fristsetzung?
+- Ist der Abmahnende berechtigt — ist er tatsächlich Inhaber des Datenbankherstellerrechts (§ 87a Abs. 2 UrhG)?
+- Entspricht der Kostenerstattungsanspruch dem § 97a Abs. 3 UrhG — liegt ein berechtigtes Interesse vor?
+- Besteht Gefahr einer unberechtigten Abmahnung (§ 97a Abs. 4 UrhG) — muss der Abgemahnte Gegenabmahnung aussprechen?
+- Ist die angeforderte Unterlassungserklärung ausreichend weit und zeitlich unbegrenzt?
+- Ist die Vertragsstrafe in der beigefügten Unterlassungserklärung angemessen und vollstreckbar?
+
+## Typische Fallstricke
+
+- Zu eng gefasste Unterlassungserklärung des Abgemahnten beseitigt nicht alle Verletzungsformen — Gläubiger sollte ablehnen und klagen.
+- Unberechtigte Abmahnung (kein tatsächliches Herstellerrecht) löst Kostenerstattung zugunsten des Abgemahnten aus (§ 97a Abs. 4 UrhG).
+- Abmahnung zu kurzfristig (weniger als 3 Tage Frist) kann als unzumutbar angesehen werden.
+- Wenn Verletzung bereits eingestellt wurde, besteht keine Wiederholungsgefahr mehr — Unterlassungsanspruch entfällt.
+- Massenabmahnungen ohne konkrete Verletzungsanalyse sind rechtsmissbräuchlich nach § 8c UWG (analog).
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Abmahnschreiben-Vorlage für § 87b UrhG-Verletzung (vollständige Pflichtangaben)
+- Unterlassungserklärung-Vorlage (mit Vertragsstrafe)
+- Gegenabmahnung bei unberechtigter Abmahnung (§ 97a Abs. 4 UrhG)
+- Abmahnung-Prüfcheckliste für Empfänger (Berechtigung, Vollständigkeit, Fristen)
+- Antwortschreiben auf Abmahnung (Unterzeichnung / Widerspruch / modifizierte Erklärung)
+
+## Quellen
+
+- [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 339 BGB — dejure.org](https://dejure.org/gesetze/BGB/339.html)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

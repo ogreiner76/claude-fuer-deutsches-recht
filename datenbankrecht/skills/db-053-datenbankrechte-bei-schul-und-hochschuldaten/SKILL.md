@@ -1,46 +1,65 @@
 ---
 name: db-053-datenbankrechte-bei-schul-und-hochschuldaten
-description: "Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen.'
 ---
 
-# Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten
+# Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrechte bei Schul- und Hochschuldaten** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Universität hat eine umfangreiche Forschungsdatenbank aufgebaut und fragt, ob sie EdTech-Startups Lizenzen erteilen kann oder ob das Hochschulrecht dem entgegensteht.
+- Schulbuchverlag behauptet Datenbankherstellerrecht an seiner digitalen Aufgabendatenbank — Lehrerin fragt, welche Aufgaben sie frei nutzen darf.
+- Lernmanagementsystem-Betreiber will wissen, ob die von Lehrkräften hochgeladenen Materialien sein Datenbankherstellerrecht begründen oder ob die Lehrkräfte selbst Rechteinhaber bleiben.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Herstellerrecht der Bildungseinrichtung prüfen: Hat die Hochschule oder Schule eine wesentliche Investition in Datenbankbeschaffung und -pflege getätigt?
+2. Lehrkraft vs. Einrichtung als Hersteller: Hat die Lehrkraft das Material selbst erstellt (Urheberrecht verbleibt bei ihr) oder hat die Einrichtung investiert?
+3. Bildungsschranke § 60a UrhG: Vervielfältigung und Bereitstellung für Unterricht und Forschung in gebotenem Umfang — gilt auch für Datenbankentnahmen (§ 87c UrhG i.V.m. § 60a UrhG)?
+4. LMS-Inhaberschaft klären: Hat der LMS-Betreiber Herstellerrecht an der Gesamtdatenbank, oder nur Infrastrukturrecht?
+5. DSGVO für Lernerdaten: Schüler- und Studierendendaten in Lernmanagementsystemen sind personenbezogen — besonders schützenswert bei Minderjährigen (§ 8 DSGVO).
+6. Lizenzmodell für EdTech-Nutzung: Welche Rechte kann die Hochschule lizenzieren — Herstellerrecht, Urheberrecht an Inhalten, Datenbankzugang?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht für Bildungseinrichtungen — wesentliche Investition in Aufbau und Pflege von Lehrmaterial-Datenbanken.
+- § 60a UrhG: Bildungsschranke — Vervielfältigung für Unterricht und Forschung zulässig; gilt auch für Datenbanken.
+- § 87c UrhG: Erlaubte Handlungen — Verweis auf § 60a UrhG als Schranke auch gegenüber Herstellerrecht.
+- § 43 UrhG: Arbeitnehmerurheberrecht — Herstellerrecht der Einrichtung bei Arbeitnehmer-Erstellungen im Dienst.
+- DSGVO Art. 8: Einwilligung Minderjähriger — ab 16 Jahren selbstständig (in DE ggf. ab 14 nach § 8 Abs. 1 DSGVO-Öffnungsklausel).
+- § 60a Abs. 1 UrhG: Unterrichtsschranke — bis 15 % eines Werks, für Lehrende und Lernende der Einrichtung.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat die Bildungseinrichtung eine eigenständige wesentliche Investition in ihre Datenbankstruktur getätigt?
+- Wer ist Urheber oder Hersteller — Einrichtung, Lehrkraft oder beide (§§ 8 / 43 UrhG)?
+- Greift § 60a UrhG als Schranke gegenüber dem Verlagsherstellerrecht oder der Einrichtungs-Datenbank?
+- Hat der LMS-Betreiber Herstellerrecht an der Gesamtdatenbank oder nur Infrastrukturrecht?
+- Sind Schüler- und Studierendendaten (Lernfortschritte, Noten, Anwesenheit) in der Datenbank — welche DSGVO-Anforderungen gelten?
+- Ist die EdTech-Lizenzierung mit dem Hochschulrecht und staatlichen Förderungsbedingungen vereinbar?
+- Besteht ein Open-Access-Mandat für Forschungsdaten der Hochschule (DFG, BMBF)?
+
+## Typische Fallstricke
+
+- Lehrmaterialien, die Lehrkräfte im Dienst erstellen, können Herstellerrecht der Einrichtung begründen — persönliches Urheberrecht der Lehrkraft bleibt aber bestehen.
+- § 60a UrhG-Schranke gilt nur für Lehrende und Lernende der eigenen Einrichtung, nicht für externe Plattformen.
+- LMS-Datenbankrecht des Betreibers schließt nicht das Urheberrecht der hochladenden Lehrkraft aus — differenzierte Klärung nötig.
+- Minderjährigen-DSGVO-Anforderungen werden in EdTech-AGB häufig unzureichend berücksichtigt.
+- Open-Access-Pflichten für geförderte Forschungsdaten kollidieren manchmal mit Verlagslizenzen — Prüfung der Förderbedingungen nötig.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Gutachten für Bildungseinrichtung
+- Bildungsschranken-Check (§ 60a UrhG für Unterrichtsdatenbank-Nutzung)
+- LMS-Inhaberschafts-Matrix (Einrichtung / Lehrkraft / LMS-Betreiber)
+- DSGVO-Minderjährigen-Compliance-Checkliste für Schul-IT-Systeme
+- EdTech-Lizenzvertrag-Vorlage für Hochschuldatenbanknutzung
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 60a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/60a.html)
+- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [§ 43 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
+- [DSGVO Art. 8 — dejure.org](https://dejure.org/gesetze/DSGVO/8.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

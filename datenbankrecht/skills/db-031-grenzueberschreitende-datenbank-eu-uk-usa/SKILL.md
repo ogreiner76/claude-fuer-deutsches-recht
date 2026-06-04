@@ -1,46 +1,65 @@
 ---
 name: db-031-grenzueberschreitende-datenbank-eu-uk-usa
-description: "Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen.'
 ---
 
-# Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA
+# Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Grenzüberschreitende Datenbank EU UK USA** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- US-amerikanisches Unternehmen entnimmt Daten aus einer deutschen Datenbank — kann der Hersteller das Datenbankherstellerrecht in den USA durchsetzen?
+- Britisches Unternehmen nutzt nach dem Brexit EU-Daten — welches Recht gilt für den Datenbankschutz?
+- Deutschen Unternehmen wird von einer US-amerikanischen Plattform Datenbankschutz entgegengehalten — gibt es sui-generis-Schutz in den USA?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Schutzrechts-Verortung: In welchem Land wird die Verletzung begangen? Art. 8 Abs. 1 Rom-II-VO — Recht des Schutzlandes (Territorialitätsprinzip).
+2. EU-Schutz prüfen: Gilt RL 96/9/EG und § 87a UrhG — nur für Hersteller mit Sitz oder Niederlassung im EWR (§ 87a Abs. 2 UrhG).
+3. UK-Post-Brexit-Lage: UK behält Database Right nach CDPA s. 3A; aber kein gegenseitiger Schutz für EU-Hersteller in UK und umgekehrt — Stand: Brexit-Folge.
+4. USA-Rechtslage: Kein sui-generis-Schutz in den USA (Feist Publications v. Rural Telephone Service); compilations nur bei minimaler Schöpfungshöhe (creative selection/arrangement).
+5. Internationalen Gerichtsstand ermitteln: EuGVVO für EU-interne Fälle; bei US-Beklagten keine EuGVVO-Anwendung — Zuständigkeitsvereinbarung oder US-Gerichtsbarkeit?
+6. DSGVO-Drittlandtransfer: Wird die Datenbank in die USA oder ein Drittland übermittelt — gelten Standardvertragsklauseln oder Adequacy Decision (Art. 46-47 DSGVO)?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a Abs. 2 UrhG: Datenbankherstellerrecht nur für Hersteller mit Sitz oder gewöhnlichem Aufenthalt im EWR.
+- Art. 11 RL 96/9/EG: Schutzberechtigte — nur EWR-ansässige Hersteller; Gegenseitigkeitsprinzip bei Drittstaaten.
+- Art. 8 Abs. 1 Rom-II-VO: Anwendbares Recht bei IP-Verletzungen — Recht des Schutzlandes (lex loci protectionis).
+- CDPA 1988 s. 3A und Database Regulations 1997 (UK): Database Right in UK nach Brexit weiter anwendbar für UK-Hersteller.
+- Feist Publications v. Rural Telephone Service (US Supreme Court 1991): Kein Schutz für bloße Datenerzeugung (sweat of the brow) — creative selection erforderlich.
+- Art. 46 DSGVO: Geeignete Garantien für Drittlandtransfer — Standardvertragsklauseln, Binding Corporate Rules.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat der Hersteller seinen Sitz oder gewöhnlichen Aufenthalt im EWR — nur dann greift § 87a UrhG?
+- In welchem Land wird die Verletzungshandlung begangen — welches Recht ist nach Art. 8 Rom-II-VO anwendbar?
+- Gilt in dem betroffenen Land sui-generis-Datenbankschutz (EU, UK) oder nur copyright-Schutz (USA, Kanada)?
+- Kann ein deutsches Urteil im Ausland vollstreckt werden — besteht ein Anerkennungs- und Vollstreckungsabkommen?
+- Werden personenbezogene Daten in die USA übertragen — greifen Standardvertragsklauseln oder Data Privacy Framework?
+- Besteht ein Gerichtsstandsproblem bei US-Beklagten — muss das Verfahren in den USA geführt werden?
+- Unterscheiden sich die Schutzdauern (EU: 15 Jahre; USA: Urheberrecht 70 Jahre p.m.a.) — beeinflusst das die Transaktionsstruktur?
+
+## Typische Fallstricke
+
+- US-amerikanische Unternehmen sind häufig nicht nach § 87a UrhG schutzfähig — sie können sich aber in der EU auf Urheberrecht an schöpferischen Datenbankwerken berufen.
+- UK-Hersteller genießen seit Brexit keinen automatischen EU-Schutz mehr — Reziprozitätslücke.
+- Deutsches Datenbankherstellerrecht ist in den USA nicht vollstreckbar ohne US-Anerkennungsverfahren.
+- Feist-Doktrin (USA) schützt keine faktischen Daten ohne kreative Auswahl — US-Plattformen können sich auf Feist berufen.
+- DSGVO-Drittlandtransfer bei Datenbankübertragung in die USA erfordert seit Schrems II Standardvertragsklauseln mit TIA.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Internationales Datenbankschutz-Vergleichstabelle (EU / UK / USA)
+- Kollisionsrechtliche Analyse (Art. 8 Rom-II-VO) mit Schutzland-Bestimmung
+- Drittland-DSGVO-Compliance-Checkliste für Datenbankübertragungen
+- Gerichtsstands-Entscheidungsmatrix für internationale Verletzungen
+- UK-Post-Brexit-Datenbankrecht-Übersicht für deutsch-britische Transaktionen
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [Art. 11 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [Art. 8 Rom-II-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007R0864)
+- [Art. 46 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/46.html)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)

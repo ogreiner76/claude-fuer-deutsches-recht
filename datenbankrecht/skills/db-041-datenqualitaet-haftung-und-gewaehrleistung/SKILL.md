@@ -1,46 +1,65 @@
 ---
 name: db-041-datenqualitaet-haftung-und-gewaehrleistung
-description: "Datenbankrecht: Datenqualität Haftung und Gewährleistung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln.'
 ---
 
-# Datenbankrecht: Datenqualität Haftung und Gewährleistung
+# Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenqualität Haftung und Gewährleistung** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Unternehmen hat auf Basis fehlerhafter Bonitätsdaten aus einer kommerziellen Datenbank einen Kredit gewährt, der ausgefallen ist — wer haftet?
+- Betroffene Person verlangt die Berichtigung eines falschen Eintrags in einer Unternehmensdatenbank nach Art. 16 DSGVO und droht mit Schadensersatz.
+- Datenbankbetreiber will seine Haftung für fehlerhafte Datenbankeinträge durch Disclaimer-Klauseln begrenzen — sind diese wirksam?
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragliche Haftungsgrundlage prüfen: Liegt ein Kauf- oder Dienstleistungsvertrag für Datenbankzugang vor — gilt Sachmängelhaftung (§§ 434 ff. BGB)?
+2. Deliktshaftung prüfen: § 823 Abs. 1 BGB (Verletzung absoluter Rechte) oder § 823 Abs. 2 BGB (Schutzgesetzverletzung) bei falschen Datenbankeinträgen?
+3. DSGVO-Berichtigungspflicht erfüllen: Art. 16 DSGVO — Pflicht zur Berichtigung unrichtiger personenbezogener Daten; § 84 DSGVO-Schadensersatz.
+4. Haftungsbegrenzung durch AGB prüfen: § 309 Nr. 7 BGB — Haftung für grobe Fahrlässigkeit und Vorsatz kann nicht ausgeschlossen werden.
+5. Datenbankqualitätspflichten bestimmen: Welche Sorgfaltspflichten hat der Datenbankbetreiber bei Datenerhebung und -pflege?
+6. Schadenskausalität nachweisen: Adäquanzkausalität zwischen fehlerhaftem Datenbankeintrag und eingetretenem Schaden.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 434-437 BGB: Sachmangelhaftung — fehlerhafte Datenbankdaten als Sachmangel bei Datenbankverkauf oder -lizenz.
+- § 823 Abs. 1 BGB: Deliktshaftung für fehlerhafte Einträge, die Eigentum, Gesundheit oder sonstige absolute Rechte verletzen.
+- Art. 16 DSGVO: Berichtigungsrecht für unrichtige personenbezogene Daten — kostenlos, unverzüglich.
+- Art. 82 DSGVO: Schadensersatzanspruch für materiellen oder immateriellen Schaden durch DSGVO-Verstoß.
+- § 309 Nr. 7 BGB: Haftungsausschluss für Vorsatz und grobe Fahrlässigkeit in AGB unzulässig.
+- § 309 Nr. 8 BGB: Einschränkungen der Mängelgewährleistung in AGB — Grenzen der wirksamen Haftungsbeschränkung.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt ein Vertrag (Kauf, Lizenz, SaaS) vor, aus dem Gewährleistungspflichten für Datenqualität entstehen?
+- Ist der fehlerhafte Datenbankeintrag kausal für den eingetretenen Schaden — lässt sich die Kausalkette nachweisen?
+- Hat der Datenbankbetreiber Sorgfaltspflichten bei Datenerhebung und -pflege verletzt (Fahrlässigkeit)?
+- Enthält die Datenbank personenbezogene Daten — gilt die DSGVO-Berichtigungspflicht (Art. 16 DSGVO)?
+- Sind Disclaimer-/Haftungsbeschrän­kungsklauseln AGB-wirksam nach §§ 307-309 BGB?
+- Schreibt das Gläubiger eine Obliegenheit zur Eigenprüfung von Datenbankdaten vor — Mitverschulden (§ 254 BGB)?
+- Besteht ein immaterieller Schaden wegen falscher Datenbankeinträge (z. B. Bonitätsdaten, Schwarze Liste)?
+
+## Typische Fallstricke
+
+- Haftungsausschluss für fehlerhafte Daten in AGB ist wirksam nur für einfache Fahrlässigkeit — grobe Fahrlässigkeit und Vorsatz können nicht ausgeschlossen werden.
+- Art. 82 DSGVO-Schadensersatz ist unabhängig vom Vertragsrecht — auch ohne Vertragsverletzung kann DSGVO-Schadensersatz entstehen.
+- Mitverschulden des Datenbank-Nutzers möglich, wenn er fehlerhafte Einträge nicht einer Plausibilitätsprüfung unterzogen hat.
+- Bonitätsdatenbankbetreiber (SCHUFA) haben besondere gesetzliche Sorgfaltspflichten — Verletzungen können erhebliche Schadensersatzansprüche auslösen.
+- Berichtigungspflicht nach Art. 16 DSGVO schließt Schadensersatzansprüche nicht aus — beides kann parallel geltend gemacht werden.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Haftungsrisikoanalyse für Datenbankbetreiber (Vertrag + Delikt + DSGVO)
+- DSGVO-Berichtigungsworkflow (Art. 16 DSGVO) für personenbezogene Datenbanken
+- Haftungsbegrenzungs-AGB-Klausel (§§ 307-309 BGB-konform)
+- Datenbankqualitäts-Sorgfaltspflichten-Katalog
+- Schadensberechnung für Falschauskunft-Fälle (Lizenzanalogie / konkreter Schaden)
+
+## Quellen
+
+- [§ 434 BGB — dejure.org](https://dejure.org/gesetze/BGB/434.html)
+- [§ 823 BGB — dejure.org](https://dejure.org/gesetze/BGB/823.html)
+- [Art. 16 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/16.html)
+- [Art. 82 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/82.html)
+- [§ 309 BGB — dejure.org](https://dejure.org/gesetze/BGB/309.html)
+- [§ 254 BGB Mitverschulden — dejure.org](https://dejure.org/gesetze/BGB/254.html)

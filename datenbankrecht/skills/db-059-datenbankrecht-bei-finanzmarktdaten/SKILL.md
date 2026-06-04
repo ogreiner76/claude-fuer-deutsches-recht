@@ -1,46 +1,65 @@
 ---
 name: db-059-datenbankrecht-bei-finanzmarktdaten
-description: "Datenbankrecht: Datenbankrecht bei Finanzmarktdaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten.'
 ---
 
-# Datenbankrecht: Datenbankrecht bei Finanzmarktdaten
+# Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht bei Finanzmarktdaten** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- FinTech-Unternehmen will Echtzeit-Kursdaten einer Börse ohne Lizenz in seine App integrieren und fragt, ob das datenbankherstellerrechtlich zulässig ist.
+- Börse stellt fest, dass ein Datenaggregator ihre historischen Kursdatenbank vollständig kopiert und verkauft — welche Ansprüche bestehen?
+- Investmentbank möchte Marktdaten-Feeds von Bloomberg und Reuters lizenzieren und muss den rechtlichen Rahmen (Datenbankrecht, MiFID II) verstehen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. BHB/William Hill-Einwand für Börsen prüfen: Erzeugt die Börse die Kurse selbst (Handelsgeschäfte) oder beschafft sie Daten? Wenn Kurse durch eigenen Handelsbetrieb entstehen — Einschränkung des Herstellerrechts nach EuGH-Doktrin?
+2. Separate Datenbankpflege-Investition: Historische Kursdatenbank, Tick-Datensammlung, Indexberechnungen — separate Investition in Beschaffung und Aufbereitung?
+3. MiFID-II-Transparenzpflichten prüfen: Art. 64-65 MiFID II — Nachhandels-Transparenz, Pflicht zur Marktdatenbereitstellung zu angemessenen Konditionen.
+4. Lizenzmodell für Marktdaten-Feeds: Echtzeit vs. verzögert, Terminal-Lizenzen, Redistributionsverbote, Snapshots — differenzierte Lizenzstruktur.
+5. Aggregator-Verletzung bewerten: Wesentliche Entnahme historischer Kursdaten (§ 87b UrhG) — Kumulation bei täglichem Abruf?
+6. DSGVO bei Transaktionsdaten: Transaktionsdaten von identifizierbaren Personen (Privatanleger) — Rechtsgrundlage und Zweckbindung.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Börsen-Datenbankherstellerrecht — Investition in Kursdaten-Sammlung, historische Tick-Daten, Indexberechnungen.
+- EuGH C-203/02 (BHB/William Hill): Selbst erzeugte Daten (eigene Handelspreise) schützt kein Herstellerrecht — separate Datenbankpflege-Investition erforderlich.
+- § 87b UrhG: Verbot der wesentlichen Entnahme aus Börsendatenbanken ohne Lizenz.
+- MiFID II Art. 65 (RL 2014/65/EU): Pflicht zur Veröffentlichung von Handelsdaten zu angemessenen kommerziellen Bedingungen.
+- DSGVO Art. 4 Nr. 1: Transaktionsdaten von identifizierbaren Personen sind personenbezogene Daten.
+- RL 96/9/EG Art. 7: Europäischer Schutz für Börsendatenbanken mit wesentlicher Investition.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Beruht das Herstellerrecht der Börse auf Investition in Datenbeschaffung/-überprüfung oder nur in eigene Kursfeststellung (BHB-Einwand)?
+- Gibt es eine separate wesentliche Investition in die historische Kursdatenbank (Tick-Daten, Zeitreihen)?
+- Entsteht der Verletzungstatbestand durch Echtzeit-Abruf (Innoweb-Test) oder durch historische Batch-Entnahme?
+- Erfüllt das Lizenzmodell die MiFID-II-Anforderungen (angemessene, nichtdiskriminierende Preise)?
+- Sind FinTech-App-Nutzer Privatanleger — liegen personenbezogene Transaktionsdaten vor?
+- Ist der Datenaggregator vertraglich gebunden (Redistributionsverbot) oder agiert er außerhalb jeder Lizenz?
+- Welche Lizenzgebühr gilt als Lizenzanalogie für unerlaubten historischen Kursdaten-Zugriff?
+
+## Typische Fallstricke
+
+- Börsen irren häufig, wenn sie behaupten, ihre eigenen Handelsdaten seien automatisch datenbankherstellerrechtlich geschützt — BHB/William Hill schränkt das ein.
+- MiFID-II-Pflicht zur fairen Preisgestaltung für Marktdaten kann überhöhte Lizenzgebühren einschränken — kartellrechtliche Parallele.
+- Historische Kursdatenbanken können eigenes Herstellerrecht haben, selbst wenn Echtzeit-Preise nicht geschützt sind.
+- Kumulationsregel (§ 87b Abs. 1 S. 2 UrhG) trifft FinTechs, die täglich kleine Datenpakete abrufen.
+- DSGVO-Transaktionsdaten dürfen nicht unbeschränkt für Analytics-Zwecke verarbeitet werden — Zweckbindung beachten.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Börsendaten-Herstellerrecht-Gutachten (BHB-Prüfung + separate Datenbankpflege)
+- MiFID-II-Marktdaten-Compliance-Analyse
+- Marktdaten-Lizenzvertrag-Vorlage (Echtzeit / Verzögert / Historisch)
+- Aggregator-Verletzungsanalyse und Abmahnstrategie
+- DSGVO-Prüfbogen für Transaktionsdaten in FinTech-Datenbanken
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [MiFID-II-Richtlinie 2014/65/EU — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014L0065)
+- [DSGVO Art. 4 — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

@@ -1,46 +1,65 @@
 ---
 name: db-019-datenbank-als-kreditsicherheit-due-diligence
-description: "Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte.'
 ---
 
-# Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence
+# Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbank als Kreditsicherheit Due Diligence** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Startup will seine proprietäre Datenbankrechte als Sicherheit für einen Kredit einsetzen und fragt, wie das rechtlich strukturiert wird.
+- Bank erhält Datenbankherstellerrechte als Sicherheit und benötigt eine Due-Diligence-Checkliste zur Bewertung der Werthaltigkeit.
+- Insolvenzverwalter stellt fest, dass Datenbankrechte an eine Bank sicherungsübereignet wurden und klärt Priorität gegenüber anderen Gläubigern.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Verpfändbarkeit prüfen: Datenbankherstellerrecht ist ein übertragbares Vermögensrecht (§ 87a Abs. 2 UrhG) — Verpfändung nach § 1273 BGB oder Sicherungsübertragung möglich.
+2. Investitionsnachweis bewerten: Kann der Kreditnehmer die wesentliche Investition in die Datenbank belegen (Kostenaufstellungen, Projektnachweise)?
+3. Schutzdauer prüfen: Verbleibende Laufzeit nach § 87d UrhG bestimmt den wirtschaftlichen Wert als Sicherheit.
+4. Verletzungsfreiheit prüfen: Besteht das Herstellerrecht unangefochten — keine anhängigen Rechtsstreitigkeiten, keine Drittlizenzen mit Ausschlusswirkung?
+5. Verwertungsweg planen: Wie kann die Bank im Sicherungsfall die Datenbankrechte verwerten (Lizenzeinnahmen, Verkauf, Vollstreckung)?
+6. Vertragliche Sicherung: Sicherungsübereignungsvertrag, Verwertungsklausel, Pflicht des Kreditnehmers zur Aufrechterhaltung des Datenbankschutzes.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a Abs. 2 UrhG: Datenbankherstellerrecht als übertragbares Recht — Sicherungsübertragung rechtlich möglich.
+- § 1273 BGB: Verpfändung von Rechten — gilt auch für Immaterialgüterrechte wie Datenbankherstellerrecht.
+- § 87d UrhG: Schutzdauer 15 Jahre — Wertfaktor für Kreditbewertung; Verlängerung bei wesentlichen Änderungen.
+- § 35 InsO: Im Insolvenzfall fällt die Datenbank in die Masse — Absonderungsrecht der Bank bei vorheriger wirksamer Sicherung.
+- § 51 InsO: Absonderungsrecht für Sicherungsrechte an beweglichen Gegenständen und Rechten.
+- § 87b UrhG: Laufende Verletzungen durch Dritte mindern den Wert als Sicherheit — Prüfpflicht der Bank.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist das Datenbankherstellerrecht klar auf den Kreditnehmer zurückführbar (keine Fremdrechte, keine ungelösten Inhaberschaftsfragen)?
+- Kann der Kreditnehmer die wesentliche Investition dokumentieren (Buchhaltung, Projektunterlagen)?
+- Wie lang ist die verbleibende Schutzdauer (§ 87d UrhG) — reicht sie für die Kreditlaufzeit?
+- Bestehen laufende Datenbanklizenzen, die den Verwertungswert mindern oder erhöhen?
+- Sind Dritte vorhanden, die möglicherweise Herstellerrecht an Teilen der Datenbank beanspruchen?
+- Enthält die Datenbank personenbezogene Daten — erschwert das die Verwertung im Sicherungsfall?
+- Wurde die Sicherungsübertragung/-verpfändung wirksam vereinbart und ggf. im Rechtsverkehr kenntlich gemacht?
+
+## Typische Fallstricke
+
+- Datenbankherstellerrecht ist schwieriger zu bewerten als Patent oder Marke — standardisierte Bewertungsmethoden fehlen weitgehend.
+- Verwertung im Sicherungsfall ist komplex — Bank muss entweder einen Käufer für das Recht finden oder selbst Lizenzen vergeben.
+- Personenbezogene Daten in der Datenbank schränken den Käuferkreis im Verwertungsfall erheblich ein.
+- Ohne laufende Datenbankpflege durch den Kreditnehmer sinkt der Wert der Datenbank rapide — Covenants erforderlich.
+- Insolvenzanfechtung bei kurzfristiger Sicherungsübertragung (§ 133 InsO) kann die Sicherheit zunichte machen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- IP-Sicherheitenprüfbogen Datenbankrecht (Due-Diligence-Checkliste)
+- Sicherungsübertragungsvertrag-Vorlage für Datenbankherstellerrecht
+- Wertbewertungsrahmen (Investitionsvolumen, Schutzdauer, Lizenzpotenzial)
+- Covenant-Klauseln für Kreditvertrag (Datenbankpflege, Verletzungsabwehr)
+- Verwertungsplan-Übersicht für den Sicherungsfall
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87d.html)
+- [§ 1273 BGB Pfandrecht an Rechten — dejure.org](https://dejure.org/gesetze/BGB/1273.html)
+- [§ 35 InsO — dejure.org](https://dejure.org/gesetze/InsO/35.html)
+- [§ 51 InsO Absonderungsrecht — dejure.org](https://dejure.org/gesetze/InsO/51.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

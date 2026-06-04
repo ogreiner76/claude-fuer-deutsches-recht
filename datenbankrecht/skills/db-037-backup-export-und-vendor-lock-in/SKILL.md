@@ -1,46 +1,65 @@
 ---
 name: db-037-backup-export-und-vendor-lock-in
-description: "Datenbankrecht: Backup Export und Vendor Lock-in mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme.'
 ---
 
-# Datenbankrecht: Backup Export und Vendor Lock-in
+# Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Backup Export und Vendor Lock-in** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Unternehmen hat entdeckt, dass sein Datenbankdienstleister in den AGB den Export der Daten in maschinenlesbarer Form ausschließt — ist das wirksam?
+- SaaS-Anbieter verlangt nach Vertragsende eine hohe Gebühr für den Datenexport — darf er das und was sind die rechtlichen Mittel dagegen?
+- IT-Leiter fragt, welche Vertragsklauseln beim Abschluss eines neuen Datenbankvertrags verhindern, dass das Unternehmen an einen Anbieter gebunden bleibt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Backup-Recht nach § 87c UrhG prüfen: Erlaubte Handlungen für rechtmäßige Datenbanknutzer — ist eine Sicherungskopie zulässig?
+2. Vertragliche Export-Klausel analysieren: Verbietet die AGB den Datenexport — ist das Verbot nach § 307 BGB angemessen?
+3. Data Act Art. 17 anwenden: Wechselrecht ab September 2025 — Anbieter müssen Datenmigration ohne unverhältnismäßige Hürden ermöglichen.
+4. Exportformat-Standard prüfen: Offenes, maschinenlesbares Format erforderlich — proprietäre Formate können Lock-in begründen.
+5. Gebühr für Export bewerten: Angemessene Gebühr nach Data Act Art. 17 zulässig, aber unverhältnismäßige Exportgebühren sind verboten.
+6. Vertragsgestaltung für neuen Datenbankvertrag: Exit-Klausel mit Exportpflicht, Format-Anforderungen, Löschpflicht nach Herausgabe.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87c UrhG: Erlaubte Handlungen — rechtmäßige Nutzer dürfen Teile einer Datenbank für zulässige Zwecke nutzen; Sicherungskopie analog.
+- § 307 BGB: AGB-Wirksamkeit von Export-Verboten — totalem Datenexport-Verbot widerspricht berechtigtem Interesse des Nutzers.
+- Data Act VO 2023/2854 Art. 17: Wechselrecht — keine unverhältnismäßigen technischen oder wirtschaftlichen Hürden bei Anbieterwechsel.
+- DSGVO Art. 20: Datenportabilität — gilt für personenbezogene Verbraucherdaten; kostenloses, strukturiertes Format.
+- § 314 BGB: Außerordentliche Kündigung bei Verweigerung des Datenexports als wesentlicher Vertragspflicht.
+- § 93 UrhG analog: Schutz gegen wesentliche Änderungen oder Vernichtung des Datenbankwerks.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Schließen AGB den Datenexport vollständig aus — ist das nach § 307 BGB unverhältnismäßig benachteiligend?
+- Besteht nach Data Act Art. 17 ein gesetzliches Wechselrecht — gilt die VO für den betreffenden Dienst?
+- Hat der Nutzer ein Recht auf Backup nach § 87c UrhG oder vertraglich?
+- Verlangt der Anbieter für den Export eine unangemessene Gebühr (> echte Kosten)?
+- Stellt der Anbieter Daten in einem offenen Format bereit oder bindet er durch proprietäre Formate?
+- Enthält der bestehende Vertrag eine Exit-Klausel mit Exportpflicht, und ist diese vollstreckbar?
+- Umfasst der Export auch Metadaten, Konfigurationsdaten und Datenbankstruktur — oder nur Rohdaten?
+
+## Typische Fallstricke
+
+- AGB-Klauseln, die Datenexport gegen Entgelt erlauben, aber mit unangemessenen Gebühren belasten, sind nach § 307 BGB anfechtbar.
+- Data Act Art. 17 Wechselrecht gilt erst ab September 2025 — für bestehende Verträge muss vertragliche Grundlage geprüft werden.
+- Proprietäre Exportformate können faktisch den Datenwechsel verhindern, obwohl rechtlich ein Herausgabeanspruch besteht.
+- Backup von Datenbankstrukturen ohne Genehmigung kann Herstellerrecht verletzen, wenn keine vertragliche Erlaubnis oder § 87c-Schranke eingreift.
+- Löschpflicht nach Export — der alte Anbieter hat kein Recht, eine Kopie der Kundendaten nach Herausgabe zu behalten.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- AGB-Prüfbogen für Export-Verbote und Exportgebühren (§ 307 BGB)
+- Data Act Art. 17 Wechselrecht-Checkliste für Unternehmenskunden
+- Exit-Klausel-Vorlage (Export, Format, Gebühr, Löschung)
+- DSGVO-Portabilitäts-Anspruchsformulierung für Verbraucher
+- Vendor-Lock-in-Risikoanalyse für Datenbankverträge
+
+## Quellen
+
+- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
+- [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
+- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)

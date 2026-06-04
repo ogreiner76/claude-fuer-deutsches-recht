@@ -1,46 +1,65 @@
 ---
 name: db-038-m-a-datenraum-datenbankrechte
-description: "Datenbankrecht: M&A Datenraum Datenbankrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix.'
 ---
 
-# Datenbankrecht: M&A Datenraum Datenbankrechte
+# M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **M&A Datenraum Datenbankrechte** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Käufer eines Tech-Unternehmens will alle Datenbankrechte des Zielunternehmens im Rahmen der Due Diligence bewerten und im Kaufvertrag absichern.
+- Verkäufer möchte wissen, welche Datenbankherstellerrechte seines Unternehmens einen materiellen Wert für die Transaktion haben.
+- M&A-Berater fragt, wie Datenbankrechte in einem virtuellen Datenraum korrekt dokumentiert und offengelegt werden müssen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankrechte-Inventarisierung: Welche Datenbanken hat das Zielunternehmen? Welches Schutzrecht gilt (Herstellerrecht, Datenbankwerk, beide)?
+2. Herstellereigenschaft und Investitionsnachweis prüfen: Kann das Zielunternehmen die wesentliche Investition in jede relevante Datenbank belegen?
+3. Schutzdauer bewerten: Verbleibende 15-Jahres-Frist (§ 87d UrhG) für jede Datenbank als Wertindikator.
+4. Lizenzen und Drittrechte prüfen: Bestehende Datenbanklizenzen (In- und Out-Lizenzen), Drittansprüche, laufende Verletzungsstreitigkeiten.
+5. Übertragungsstruktur planen: Asset Deal (explizite Übertragung jedes Datenbankrechts) vs. Share Deal (automatischer Rechtsübergang mit Gesellschaft).
+6. DSGVO-Due-Diligence: Personenbezogene Daten in den Zieldatenbanken — Rechtsgrundlagen, Auftragsverarbeitung, DSGVO-Compliance-Status.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a Abs. 2 UrhG: Datenbankherstellerrecht als übertragbares Vermögensrecht — Bestandteil des Unternehmenskaufgegenstands.
+- § 87d UrhG: Schutzdauer 15 Jahre — wichtiger Bewertungsfaktor bei M&A-Transaktion.
+- § 453 BGB: Rechtskauf — Mängelgewährleistung bei Erwerb von Datenbankrechten; Rechtsmangel bei Drittrechten.
+- DSGVO Art. 6: Rechtsgrundlage für Datenbankzugang im Rahmen von Due Diligence — berechtigtes Interesse.
+- § 31 UrhG: Einräumung von Nutzungsrechten am Datenbankwerk — muss im Kaufvertrag klar übertragen werden.
+- DSGVO Art. 28: Auftragsverarbeitung — virtuelle Datenräume als Auftragsverarbeiter des Verkäufers.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat das Zielunternehmen eine vollständige Datenbankrechte-Übersicht (Inventar) erstellt?
+- Kann jedes Datenbankherstellerrecht durch Investitionsnachweise belegt werden?
+- Wie lang ist die verbleibende Schutzdauer für die wesentlichen Datenbanken?
+- Bestehen Drittrechte (Lizenzen an Dritte, Unterlizenzen, laufende Verletzungsverfahren) an Zieldatenbanken?
+- Enthält der Kaufvertrag eine vollständige Liste aller zu übertragenden Datenbankrechte mit Individualzuweisung?
+- Sind personenbezogene Daten im virtuellen Datenraum oder in den Zieldatenbanken DSGVO-konform verarbeitet?
+- Besteht eine Gewährleistungsklausel für unbekannte Drittrechte an Zieldatenbanken?
+
+## Typische Fallstricke
+
+- Asset Deal ohne explizite Datenbankrechte-Auflistung überträgt das Herstellerrecht nicht automatisch — Vollständigkeit des Inventars ist entscheidend.
+- Schutzdauer endet während der Integrationsphase — Wertminderung nach Closing ohne Warnung.
+- Personenbezogene Kundendatenbanken des Zielunternehmens erfordern DSGVO-Compliance-Check beim Käufer vor Integration.
+- Laufende Datenbankrechts-Verletzungen des Zielunternehmens gegen Dritte gehen auf Käufer über — Freistellungsklausel im Vertrag nötig.
+- Virtuelle Datenräume mit sensiblen Datenbankdaten erfordern Auftragsverarbeitungsvertrag mit dem Datenraum-Anbieter.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankrechte-Inventarvorlage für Due Diligence
+- IP-Asset-Bewertungsmatrix (Herstellerrecht, Schutzdauer, Lizenzpotenzial)
+- Kaufvertrag-Klauseln zur Datenbankrechte-Übertragung (Asset Deal)
+- DSGVO-Due-Diligence-Checkliste für personenbezogene Zieldatenbanken
+- Freistellungsklausel für Datenbankrechts-Verletzungen des Zielunternehmens
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87d.html)
+- [§ 453 BGB — dejure.org](https://dejure.org/gesetze/BGB/453.html)
+- [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
+- [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+- [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)

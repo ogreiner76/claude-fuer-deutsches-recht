@@ -1,46 +1,65 @@
 ---
 name: db-023-ticketingdaten-veranstaltungsdaten-und-kalender
-description: "Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten.'
 ---
 
-# Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender
+# Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Ticketingdaten Veranstaltungsdaten und Kalender** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Ticketing-Plattform stellt fest, dass ein Konkurrent alle Veranstaltungsdaten täglich aus ihrer Datenbank übernimmt und auf dem eigenen Portal zeigt.
+- Kulturveranstalter fragt, ob seine in einer Datenbank gepflegten Konzert- und Festivaltermine gegen systematische Übernahme durch Eventkalender-Apps geschützt sind.
+- Startup will eine Veranstaltungsaggregator-App entwickeln und muss verstehen, welche Daten es frei verwenden darf und wo Lizenzen erforderlich sind.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. BHB/William Hill-Prüfung für Eventdaten: Erzeugt der Veranstalter die Daten selbst (Programmplanung) oder beschafft er sie aus Quellen? Investition in Datenerzeugung schützt nicht.
+2. Separate Datenbankpflege-Investition nachweisen: Systematische Erfassung, Kategorisierung, Überprüfung und Darstellung von Veranstaltungsdaten als eigenständige Investition.
+3. Ticketing-Datenbank prüfen: Verkaufsdaten, Sitzplatzpläne, Käuferdaten — welche Teile sind durch § 87a UrhG geschützt?
+4. Verletzungsanalyse für Aggregatoren: Wesentliche Entnahme oder Kumulation von Eventdaten ohne Lizenz (§ 87b UrhG)?
+5. Lizenzmodell entwickeln: Datenlizenz für Event-API, Nutzungsumfang (Veranstaltungsdetails, Bilder, Ticketverfügbarkeit), Vergütung.
+6. DSGVO für Käuferdaten: Personenbezogene Käufer- und Buchungsdaten — Rechtsgrundlage, Zweckbindung, Datenweitergabe an Dritte.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht für Eventdatenbanken — Investition in Beschaffung und Darstellung von Veranstaltungsdaten von Dritten.
+- EuGH C-203/02 (BHB/William Hill): Selbst erzeugte Daten begründen kein Herstellerrecht — gilt auch für eigene Veranstaltungen.
+- § 87b UrhG: Verbot der Entnahme wesentlicher Teile; Kumulationstatbestand bei wiederholtem Abgreifen von Eventdaten.
+- Art. 6 Abs. 1 lit. b DSGVO: Vertragliche Rechtsgrundlage für Verarbeitung von Käuferdaten im Ticketing.
+- § 307 BGB: AGB-Gestaltung für Event-API-Nutzungsbedingungen und Scraping-Verbote.
+- EuGH C-202/12 (Innoweb/Wegener): Aggregatoren, die Echtzeit-Suche auf Fremddatenbanken betreiben, verwenden wesentliche Teile weiter.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat die Ticketing-Plattform oder das Veranstaltungsportal eine separate wesentliche Investition in Datenbeschaffung (Einholung von Eventdaten von Veranstaltern) getätigt?
+- Handelt es sich bei den abgegriffenen Eventdaten um wesentliche Teile der Datenbank (quantitativ oder qualitativ)?
+- Betreibt der Aggregator eine systematische Echtzeit-Abfrage der Datenbank (Innoweb-Tatbestand)?
+- Sind Sitzplatzpläne, Ticketpreise oder Kapazitätsdaten als besonders wertvolle Kerndaten anzusehen?
+- Enthält die Datenbank Käuferdaten (personenbezogen) — welche DSGVO-Grundlage und Zweckbindung gilt?
+- Schließen AGB und robots.txt automatisierte Abfragen wirksam aus?
+- Gibt es bereits ein Lizenzmodell für Eventdaten-Feeds — schließt es die geplante Nutzung ein oder aus?
+
+## Typische Fallstricke
+
+- Veranstalter, die ihre eigenen Events in die Datenbank eintragen, erzeugen die Daten selbst — kein Herstellerrecht für diesen Teil.
+- Portale, die Eventdaten von Veranstaltern aktiv einsammeln und qualitätsprüfen, haben separates Herstellerrecht.
+- DSGVO-Weitergabe von Käuferdaten an externe Eventkalender-Apps ist ohne Einwilligung oder berechtigtes Interesse der Nutzer unzulässig.
+- Aggregatoren mit Deeplinks zu Ticketportalen können Unterlassung wegen technischer Schutzmaßnahmenumgehung riskieren.
+- Eventdaten werden oft von mehreren Stellen gepflegt (Veranstalter, Portal, Agentur) — Inhaberschaft des Herstellerrechts klären.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Gutachten für Eventdatenbank
+- Aggregator-Risikobewertung (§ 87b UrhG + Innoweb-Test)
+- Event-API-Lizenzvertrag-Vorlage
+- DSGVO-Prüfbogen für Käuferdaten (Ticketing)
+- AGB-Klausel-Empfehlung gegen Scraping von Eventdaten
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)

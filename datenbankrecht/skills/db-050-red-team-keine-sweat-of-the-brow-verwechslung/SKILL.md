@@ -1,46 +1,65 @@
 ---
 name: db-050-red-team-keine-sweat-of-the-brow-verwechslung
-description: "Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im Datenbankrecht: EuGH-Linie (BHB/William Hill C-203/02) verbietet Schutz für bloße Datenerzeugung. Identifiziert typische Argumentationsfehler in Herstellerrechts-Gutachten, prüft Gegenangriffe auf Datenbankschutz-Behauptungen und entwickelt Verteidigungsstrategien für Beklagte in Datenbankrechts-Verfahren.'
 ---
 
-# Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung
+# Red Team: Keine Sweat-of-the-Brow-Verwechslung im Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Red-Team keine Sweat-of-the-brow-Verwechslung** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Beklagter in einem Datenbankrechts-Verfahren fragt, ob der Kläger tatsächlich Herstellerrecht hat oder ob er nur auf selbst erzeugte Daten verweist (BHB-Einwand).
+- Anwalt soll das Datenbankherstellerrecht-Gutachten der Gegenseite kritisch analysieren — welche Schwachstellen sind angreifbar?
+- Startup hat eine Abmahnung erhalten und will die Herstellerrechts-Behauptung des Abmahnenden systematisch hinterfragen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. BHB/William Hill-Einwand prüfen: Behauptet der Kläger Herstellerrecht für Daten, die er selbst erzeugt hat (Sportergebnisse, Messungen, eigene Produktionsdaten)?
+2. Investitionsanalyse des Klägers kritisch hinterfragen: Fließt die behauptete Investition in Datenerzeugung oder in Datenbeschaffung/Überprüfung/Darstellung?
+3. Schöpfungshöhe-Einwand für Datenbankwerk: Liegt keine schöpferische Auswahl oder Anordnung vor — Vollständigkeitsdatenbank ohne Werkcharakter?
+4. Quantitative/qualitative Wesentlichkeit bestreiten: Ist der entnommene Teil wirklich wesentlich — quantitativ unter Schwelle, qualitativ kein Kernbestand?
+5. Schranken als positive Einwände: § 87c UrhG (erlaubte Handlungen), § 44b UrhG (TDM-Schranke), Open-Data-Lizenz, vertragliche Erlaubnis.
+6. Verfahrenseinwände prüfen: Dringlichkeitsverwirkung bei EV, Verjährung (§ 102 UrhG), fehlende Aktivlegitimation, fliegender Gerichtsstand.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- EuGH C-203/02 (BHB/William Hill): Investition in Datenerzeugung begründet kein Herstellerrecht — nur Investition in Beschaffung/Überprüfung/Darstellung.
+- § 87a Abs. 1 UrhG: Definition der Datenbank — systematisch geordnete Sammlung unabhängiger Elemente; Tatbestandsmerkmale prüfen.
+- § 87a Abs. 2 UrhG: Herstellereigenschaft — wer trägt das wirtschaftliche Risiko? Kläger muss dies nachweisen.
+- § 87b UrhG: Verletzungstatbestand — Beweislast beim Kläger für wesentliche Entnahme.
+- § 87c UrhG: Erlaubte Handlungen — Einwand des Beklagten gegen Verletzungsbehauptung.
+- § 102 UrhG: Verjährung — Einwand bei verspätetem Klageerheben.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Beruht das behauptete Herstellerrecht auf Investition in Datenerzeugung statt Datenbeschaffung — BHB-Einwand einschlägig?
+- Kann der Kläger die wesentliche Investition in Beschaffung, Überprüfung oder Darstellung konkret nachweisen?
+- Ist die Datenbank tatsächlich systematisch geordnet und bietet sie individuellen Zugriff (§ 87a Abs. 1 UrhG-Grundvoraussetzungen)?
+- Ist der entnommene Teil wirklich wesentlich — quantitativ und qualitativ (Einwand gegen Wesentlichkeit)?
+- Greift eine Schranke (§ 87c, § 44b UrhG) zugunsten des Beklagten?
+- Ist die Klage verjährt (§ 102 UrhG) oder die EV wegen Dringlichkeitsverwirkung abzuweisen?
+- Hat der Kläger die Aktivlegitimation — ist er tatsächlich Herstellerrechtsinhaber, nicht nur Lizenznehmer?
+
+## Typische Fallstricke
+
+- Kläger, der eigene Sportergebnisse oder eigene Messdaten behauptet zu schützen, verwechselt Datenerzeugung mit Datenbeschaffung — klarer BHB-Einwand.
+- Vollständigkeitsdatenbanken (Telefonbücher, vollständige Produktlisten) haben kein Datenbankwerk-Schutz — können aber Herstellerrecht haben.
+- Kläger belegt Investitionsvolumen pauschal ohne Zuordnung zu Beschaffung/Überprüfung/Darstellung — angreifbar.
+- Einwand der TDM-Schranke (§ 44b UrhG) nur wirksam, wenn kein maschinenlesbarer Opt-out erklärt wurde.
+- Aktivlegitimation des Lizenznehmers ist beschränkt — nur der Herstellerrechtsinhaber kann vollständige Unterlassung verlangen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Red-Team-Analyse-Checkliste für eingehende Datenbankrechts-Klagen und Abmahnungen
+- BHB-Einwand-Argumentation (Datenerzeugung vs. Datenbeschaffung)
+- Angriffspunkte auf Investitionsnachweis des Klägers
+- Schranken-Einwands-Übersicht für Beklagte
+- Schutzschrift-Gliederung mit allen relevanten Gegenargumenten
+
+## Quellen
+
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
+- [EuGH C-338/02 Fixtures Marketing — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-338/02)

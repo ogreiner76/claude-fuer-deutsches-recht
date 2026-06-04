@@ -1,46 +1,65 @@
 ---
 name: db-003-datenbankherstellerrecht-wesentliche-investition
-description: "Datenbankrecht: Datenbankherstellerrecht wesentliche Investition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG).'
 ---
 
-# Datenbankrecht: Datenbankherstellerrecht wesentliche Investition
+# Datenbankherstellerrecht: Wesentliche Investition nachweisen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankherstellerrecht wesentliche Investition** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Betreiber eines Immobilienportals will gegen einen Konkurrenten vorgehen, der systematisch Angebote aus seiner Datenbank abgreift.
+- Pharmaunternehmen hat über Jahre eine Wirkstoffdatenbank aufgebaut und möchte Lizenzgebühren für externe Nutzung durchsetzen.
+- Startup streitet darüber, ob der Gründer oder der Investor Hersteller einer KI-Trainingsdatenbank ist, und wer die 15-Jahres-Frist geltend machen kann.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Investitionsarten identifizieren: Beschaffung (Sammlung vorhandener Daten), Überprüfung (Qualitätskontrolle, Verifizierung), Darstellung (Aufbereitung, Indexierung) — diese drei Kategorien sind abschließend.
+2. Investitionshöhe belegen: Kostenaufstellung nach Personalaufwand, Lizenzen, Infrastruktur und Zeit; interne Dokumente sichern.
+3. Abgrenzung Datenerzeugung: Investition in die Schaffung von Daten (z. B. Durchführung von Rennen, Messungen) begründet kein Herstellerrecht (EuGH BHB/William Hill).
+4. Herstellereigenschaft prüfen: § 87a Abs. 2 UrhG — wer trägt das wirtschaftliche Risiko der Investition?
+5. Schutzdauer berechnen: 15 Jahre ab Fertigstellung (§ 87d UrhG); wesentliche Änderungen lösen neue Frist aus.
+6. Verletzungshandlung bestimmen: § 87b Abs. 1 UrhG — Entnahme oder Weiterverwendung wesentlicher Teile ohne Zustimmung.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a Abs. 1 S. 1 UrhG: Definition der Datenbank; wesentliche Investition in Beschaffung, Überprüfung oder Darstellung.
+- § 87a Abs. 2 UrhG: Datenbankherstellereigenschaft — wer Initiative ergreift und Investitionsrisiko trägt.
+- § 87b Abs. 1 UrhG: Verbot der Entnahme und Weiterverwendung wesentlicher Teile ohne Erlaubnis.
+- § 87d UrhG: Schutzdauer 15 Jahre; Neuheit bei wesentlicher Änderung.
+- Art. 7 RL 96/9/EG: Europarechtliche Grundlage des sui-generis-Schutzes.
+- EuGH C-203/02 (BHB/William Hill): Investition muss in Beschaffung vorhandener Daten liegen, nicht in deren Erzeugung.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine systematisch geordnete Sammlung unabhängiger Elemente mit individuellem Zugriff vor?
+- Welcher Anteil der Gesamtinvestition entfällt auf Beschaffung/Überprüfung/Darstellung vs. Datenerzeugung?
+- Überschreitet die Investition die Erheblichkeitsschwelle — ist sie „wesentlich" im Sinne des § 87a Abs. 1 UrhG?
+- Trägt der Anspruchsteller das wirtschaftliche Risiko (Herstellereigenschaft)?
+- Ist die 15-Jahres-Frist noch offen, und wurden nach der letzten wesentlichen Änderung erneut 15 Jahre ausgelöst?
+- Liegt eine Entnahme oder Weiterverwendung ohne Lizenz vor, und ist der entnommene Teil wesentlich?
+- Besteht eine vertragliche oder gesetzliche Schranke (TDM, Open Data, § 44b UrhG)?
+
+## Typische Fallstricke
+
+- Sportdaten-Erzeuger (Ligabetreiber, Veranstalter) genießen kein Herstellerrecht an den eigenen Spielergebnissen, da diese selbst erzeugt werden.
+- Vermengt das Unternehmen Datenerzeugungskosten mit Beschaffungskosten in der Buchhaltung, fehlt der Investitionsnachweis für das Herstellerrecht.
+- Wesentliche Änderungen einer Datenbank verlängern die Schutzfrist nur für den geänderten Teil, nicht automatisch für die gesamte Datenbank.
+- Ein ausgelagerter Datenbankbetreiber (Dienstleister) ist nicht Hersteller, wenn er kein Investitionsrisiko trägt.
+- Parallele Datenbankwerke können daneben geschützt sein — die Prüfung muss beide Schutztatbestände getrennt erfassen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Investitionsprotokoll-Vorlage (Kategorisierung nach Beschaffung/Überprüfung/Darstellung)
+- Herstellerrechtsgutachten mit Subsumtion nach § 87a UrhG
+- Schutzdauer-Kalender (Fristbeginn, letzte wesentliche Änderung, Ablauf)
+- Verletzungsanalyse mit Empfehlung (Abmahnung, EV, Klage)
+- Lizenzgebühren-Berechnungshinweise für Schadensersatz (§ 97 UrhG)
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 87d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87d.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)

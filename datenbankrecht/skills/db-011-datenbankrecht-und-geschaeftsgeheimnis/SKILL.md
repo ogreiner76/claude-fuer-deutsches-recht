@@ -1,46 +1,65 @@
 ---
 name: db-011-datenbankrecht-und-geschaeftsgeheimnis
-description: "Datenbankrecht: Datenbankrecht und Geschäftsgeheimnis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung.'
 ---
 
-# Datenbankrecht: Datenbankrecht und Geschäftsgeheimnis
+# Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht und Geschäftsgeheimnis** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Pharmaunternehmen hat eine Wirkstoffdatenbank aufgebaut, die als Betriebsgeheimnis behandelt wird — jetzt hat ein ausgeschiedener Mitarbeiter Teile weitergegeben.
+- Technologieunternehmen fragt, ob seine proprietäre Kundendatenbank als Geschäftsgeheimnis einstufbar ist und welche Schutzmaßnahmen erforderlich sind.
+- Startup-Investor will vor Beteiligung prüfen, ob die Datenbank des Zielunternehmens urheberrechtlich und als Geschäftsgeheimnis ausreichend geschützt ist.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankschutz nach UrhG prüfen: §§ 87a ff. (Herstellerrecht) und § 4 Abs. 2 UrhG (Datenbankwerk) — welcher Tatbestand ist erfüllt?
+2. Geschäftsgeheimniseigenschaft prüfen: § 2 Nr. 1 GeschGehG — Information nicht allgemein bekannt, wirtschaftlicher Wert, angemessene Geheimhaltungsmaßnahmen.
+3. Geheimhaltungsmaßnahmen dokumentieren: Zugangsbeschränkungen, NDA-Klauseln, technische Sicherung, Zugriffsprotokollierung.
+4. Verletzungshandlung bestimmen: § 4 GeschGehG — rechtswidrige Erlangung, Nutzung oder Offenlegung; welche Handlung liegt vor?
+5. Ansprüche kombinieren: Unterlassung, Schadensersatz, Auskunft und Vernichtung nach GeschGehG §§ 6-8 neben UrhG-Ansprüchen.
+6. Beweissicherung: Digitale Forensik, Zugriffslogdaten, Kommunikationsnachweise sichern.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 2 Nr. 1 GeschGehG: Geschäftsgeheimnis — nicht allgemein bekannt/zugänglich, wirtschaftlicher Wert, angemessene Geheimhaltungsmaßnahmen.
+- § 4 GeschGehG: Verbotene Handlungen — rechtswidrige Erlangung, Nutzung oder Offenlegung.
+- §§ 6-8 GeschGehG: Unterlassung, Schadensersatz, Auskunft, Vernichtung als Rechtsfolgen.
+- §§ 87a-87e UrhG: Datenbankherstellerrecht — kumulativer Schutz neben Geschäftsgeheimnisrecht möglich.
+- EU-RL 2016/943: Europäische Grundlage des Geschäftsgeheimnisschutzes — Trade Secrets Directive.
+- § 17 UWG a.F. (heute GeschGehG): Verrat von Geschäftsgeheimnissen — Übergangsrecht beachten.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die Datenbankstruktur oder ihr Inhalt nicht allgemein bekannt und wirtschaftlich wertvoll?
+- Wurden angemessene Geheimhaltungsmaßnahmen ergriffen (NDA, Zugangsbeschränkungen, Verschlüsselung)?
+- Ist die Verletzungshandlung einer der Kategorien des § 4 GeschGehG zuzuordnen?
+- Sind Datenbankschutz (§§ 87a ff. UrhG) und Geschäftsgeheimnisschutz (GeschGehG) kumulativ anwendbar?
+- Gibt es Beweise für die Verletzungshandlung (Logs, E-Mails, exportierte Dateien)?
+- Wurde das Geheimnis durch einen ehemaligen Mitarbeiter oder externen Dienstleister verletzt — welche Vertragsgrundlage besteht?
+- Besteht Pflicht zur Abmahnung vor Klageerhebung oder gerichtlichem Eilantrag?
+
+## Typische Fallstricke
+
+- Fehlende schriftliche Geheimhaltungsmaßnahmen (keine NDA, keine Zugriffskontrollen) können den GeschGehG-Schutz vollständig entfallen lassen.
+- Daten, die in einer öffentlichen Datenbank erscheinen, verlieren den Geheimnischarakter — auch wenn die eigene Datenbank weiterhin geschützt sein kann.
+- GeschGehG und UrhG haben unterschiedliche Verjährungsfristen — Ansprüche dürfen nicht verwechselt werden.
+- Reverse Engineering ist nach § 3 Abs. 1 Nr. 2 GeschGehG grundsätzlich erlaubt — der Datenbankschutz kann hier stärker greifen.
+- Beweislastverteilung im GeschGehG-Prozess ist komplex; vorprozessuale Dokumentation der Geheimhaltungsmaßnahmen ist entscheidend.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Geheimhaltungsmaßnahmen-Audit-Checkliste (§ 2 Nr. 1 GeschGehG)
+- Kumulative Schutzrechtskarte (UrhG + GeschGehG)
+- Verletzungshandlungsanalyse nach § 4 GeschGehG
+- NDA-Klausel mit Datenbankbezug
+- Abmahnschreiben (GeschGehG + UrhG kombiniert)
+
+## Quellen
+
+- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [EU-RL 2016/943 Trade Secrets — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0943)
+- [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
+- [§§ 6-8 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/6.html)
+- [§ 307 BGB AGB-Kontrolle — dejure.org](https://dejure.org/gesetze/BGB/307.html)

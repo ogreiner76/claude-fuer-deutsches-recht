@@ -1,46 +1,65 @@
 ---
 name: db-005-unwesentliche-teile-wiederholte-systematische-entnahme
-description: "Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie.'
 ---
 
-# Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme
+# Unwesentliche Teile — wiederholte und systematische Entnahme als Verletzung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Unwesentliche Teile wiederholte systematische Entnahme** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Datenbankbetreiber stellt fest, dass ein Wettbewerber täglich kleine Mengen an Datensätzen abruft, die einzeln unterhalb der Wesentlichkeitsschwelle liegen, aber in Summe den Datenbankbestand duplizieren.
+- Startup betreibt einen Preisvergleichsdienst und ist unsicher, ob sein automatisiertes Abrufen kleiner Datenpakete den Kumulations-Tatbestand erfüllt.
+- Anwalt möchte für einen Mandanten prüfen, ob eine technische Drosselung der API-Abfragen (rate limiting) die rechtliche Problematik beseitigt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Entnahmemuster dokumentieren: Häufigkeit, Zeitintervalle, Volumen pro Abruf und Gesamtvolumen über den gesamten Zeitraum erfassen.
+2. Systematik nachweisen: Automatisierter Prozess? Regelmäßige Intervalle? Ziel der Vollständigkeitsduplizierung erkennbar?
+3. Wirtschaftliche Auswirkung beurteilen: Ersetzt die kumulative Entnahme die Nutzung der Originaldatenbank oder konkurriert sie wirtschaftlich?
+4. Abgrenzung zur erlaubten Nutzung: § 87c UrhG (zulässige Entnahmen), Vertragslage, Schranken prüfen.
+5. Technische Beweise sichern: API-Logs, Crawling-Protokolle, IP-Adressen, User-Agent-Strings, Zeitstempel.
+6. Unterlassungsanspruch formulieren: Kumulative Entnahme als eigenständiger Verletzungstatbestand darlegen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile gleichgestellt mit Entnahme wesentlicher Teile.
+- Art. 7 Abs. 5 RL 96/9/EG: Europäische Grundlage des Kumulationstatbestands — verhindert Umgehung durch Stückelung.
+- § 87b Abs. 1 S. 1 UrhG: Haupttatbestand der wesentlichen Entnahme als Vergleichsmaßstab.
+- § 87c UrhG: Schranken des Datenbankherstellerrechts — zulässige Entnahmen für rechtmäßige Nutzer.
+- EuGH C-203/02 (BHB/William Hill) Rn. 86-92: Kumulationsverbot bei systematischer Entnahme kleiner Teile.
+- Art. 8 RL 96/9/EG: Rechte und Pflichten rechtmäßiger Nutzer — Grenze zwischen zulässigem Zugriff und verbotener Entnahme.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind die einzelnen Entnahmen für sich unwesentlich, kumulieren sie aber über Zeit zu einer wesentlichen Gesamtentnahme?
+- Ist ein systematisches Muster erkennbar (Automatisierung, feste Intervalle, Vollständigkeitsziel)?
+- Orientiert sich die Entnahmetätigkeit erkennbar daran, eine eigene Datenbank mit demselben Inhalt aufzubauen?
+- Beeinträchtigt die kumulative Entnahme die normale Auswertung der Datenbank oder die berechtigten Interessen des Herstellers?
+- Liegt ein Vertrag (AGB, Lizenz) vor, der bestimmte Entnahmen erlaubt oder verbietet?
+- Hat der Hersteller robots.txt, API-Nutzungsbedingungen oder technische Schutzmaßnahmen eingesetzt?
+- Sind die Entnahmen auf mehrere IP-Adressen oder Accounts verteilt, um Erkennung zu verschleiern?
+
+## Typische Fallstricke
+
+- Rate-Limiting-Compliance entbindet nicht von der Kumulations-Prüfung: Auch kleine erlaubte Einzelabrufe können kumulativ verboten sein, wenn sie auf Vollständigkeitskopie zielen.
+- Vertragliche Erlaubnis für einzelne Abrufe schließt den gesetzlichen Kumulationstatbestand nicht zwingend aus.
+- Technische Verschleierung (rotierende IPs, verschiedene User-Agents) ist kein rechtfertigender Umstand, verschärft aber Vorsatz-Indiz.
+- Zeitlicher Nachweis der Systematik erfordert lückenlose Logs über längere Zeiträume — Einmalsicherungen sind unzureichend.
+- Anspruch verjährt nach § 102 UrhG (regelmäßige Verjährungsfrist § 195 BGB, 3 Jahre) — Fristbeginn ab Kenntnis prüfen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Kumulationsnachweis-Tabelle (Abrufprotokoll nach Zeit und Volumen)
+- Systematizitäts-Analyse (Muster, Automatisierungshinweise)
+- Unterlassungs- und Auskunftsschreiben
+- Sachverhaltsbeschreibung für einstweilige Verfügung
+- Beweissicherungsprotokoll (technische Mittel)
+
+## Quellen
+
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+- [§ 102 UrhG Verjährung — dejure.org](https://dejure.org/gesetze/UrhG/102.html)

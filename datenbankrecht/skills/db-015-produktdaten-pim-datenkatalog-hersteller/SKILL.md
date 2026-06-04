@@ -1,46 +1,65 @@
 ---
 name: db-015-produktdaten-pim-datenkatalog-hersteller
-description: "Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken.'
 ---
 
-# Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller
+# Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Produktdaten PIM Datenkatalog Hersteller** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Hersteller stellt fest, dass sein vollständiger Produktkatalog von einem Großhändler in dessen eigenes System übertragen wurde, ohne Lizenz und ohne Namensnennung.
+- E-Commerce-Dienstleister hat ein PIM-System mit Produktdaten vieler Hersteller aufgebaut und fragt, wer Datenbankinhaber ist — er oder die Hersteller?
+- Unternehmen will einen Produktdaten-Feed an Händler lizenzieren und benötigt eine Klausel, die Weiterverwendung in Preisvergleichsportalen ausschließt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Herstellereigenschaft klären: Wer hat die wesentliche Investition in die Produktdatenbank getätigt — der Hersteller, der Dienstleister oder das Handelsunternehmen?
+2. Datenbankschutz für Produktkatalog prüfen: Wesentliche Investition in Beschaffung (Produktfotos, Spezifikationen erfassen), Überprüfung (Qualitätskontrolle, Normkonformität) und Darstellung (PIM-Struktur, Kategorisierung)?
+3. Verletzungsanalyse: Systematische Übernahme des Produktkatalogs — wesentlicher Teil (§ 87b UrhG)?
+4. Inhaberschaft bei arbeitsteiliger Erstellung: Wer hat welchen Teil der Investition getragen? Vertragliche Regelung?
+5. Lizenzvertrag für Produktdaten-Feed entwickeln: Nutzungsumfang, Weiterverwendungsverbote, Audit-Recht, Preisvergleichsportal-Ausschluss.
+6. Urheberrecht an Produktfotografien und Texten prüfen: Separate Schutzrechte der Einzelelemente neben Datenbankschutz.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Datenbankherstellerrecht für Produktdatenbanken — wesentliche Investition in systematisch geordnete Produktdaten.
+- § 87b UrhG: Verbot der Entnahme und Weiterverwendung wesentlicher Teile des Produktkatalogs.
+- § 4 Abs. 2 UrhG: Datenbankwerk, wenn Auswahl oder Anordnung der Produkte schöpferisch ist (z. B. redaktionell kuratierter Katalog).
+- § 31 UrhG: Einräumung von Nutzungsrechten an Produktdaten-Feeds — Spezifizierungspflicht.
+- § 307 BGB: AGB-Wirksamkeit von Weiterverwendungsverboten in Produktdaten-Lizenzen.
+- Art. 7 RL 96/9/EG: Europarechtliche Grundlage; gilt auch für Produktdatenbanken mit wesentlicher Investition.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Wer hat die wesentliche Investition in den Produktkatalog getätigt — Hersteller, Dienstleister oder Händler?
+- Sind Produktdaten (Spezifikationen, Fotos, Beschreibungen) systematisch geordnet und einzeln zugänglich?
+- Übersteigt der Erstellungsaufwand des Katalogs die bloße Datenerzeugung (Produktionsdaten) und betrifft Beschaffung/Überprüfung?
+- Stellt die Übernahme des Produktkatalogs eine Entnahme wesentlicher Teile dar?
+- Sind Urheberrechte an Produktfotos und -texten separat zu klären (§ 2 UrhG, § 72 UrhG für Lichtbilder)?
+- Enthält der Lizenzvertrag klare Verbote für Weiterverwendung in Preisvergleichsportalen?
+- Ist eine arbeitsteilig entstandene Investitionsstruktur vertraglich klar auf Hersteller oder Dienstleister zugewiesen?
+
+## Typische Fallstricke
+
+- Produktspezifikationen, die der Hersteller selbst erstellt hat, sind erzeugte Daten — das Herstellerrecht entsteht erst durch separate Datenbankpflege.
+- Produktdaten-Feeds ohne klare Lizenzstruktur gelten oft als implizit freigegeben für die Händlernutzung — explizite Einschränkungen sind unerlässlich.
+- Übertragung der Datenbankrechte an Dienstleister ohne Rückübertragungsklausel führt dazu, dass der Hersteller keinen eigenen Schutzanspruch mehr hat.
+- AGB-Weiterverwendungsverbote ohne hinreichende Bestimmtheit sind nach § 307 BGB unwirksam.
+- Produktdaten aus Drittquellen (z. B. GS1-Datenbanken) können eigene Schutzrechte Dritter tragen — Lizenzprüfung nötig.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Gutachten für Produktkatalog
+- Produktdaten-Lizenzvertrag mit Weiterverwendungsverbot-Klausel
+- Inhaberschafts-Matrix für arbeitsteilig erstellte PIM-Datenbanken
+- Abmahnschreiben bei unerlaubter Katalogübernahme
+- Feed-Lizenz-AGB-Vorlage mit Preisvergleichsportal-Ausschluss
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
+- [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

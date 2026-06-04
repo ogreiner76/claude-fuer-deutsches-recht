@@ -1,46 +1,65 @@
 ---
 name: db-055-datenbankrecht-und-machine-learning-features
-description: "Datenbankrecht: Datenbankrecht und Machine Learning Features mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams.'
 ---
 
-# Datenbankrecht: Datenbankrecht und Machine Learning Features
+# Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht und Machine Learning Features** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Data-Science-Team eines Unternehmens hat einen umfangreichen Feature Store aufgebaut und will ihn gegen externe Nutzung durch Wettbewerber schützen.
+- KI-Unternehmen hat einen eigenen Feature-Datensatz aus öffentlichen Quellen aggregiert und fragt, welches Datenbankrecht es daran hat.
+- Rechtsabteilung muss klären, ob die Feature-Extraktion aus einer geschützten Datenbank für ML-Training unter die TDM-Schranke fällt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Feature-Store als Datenbank bewerten: Ist der Feature Store eine systematisch geordnete Sammlung unabhängiger Elemente mit individuellem Zugriff (§ 87a Abs. 1 UrhG)?
+2. Herstellerrecht prüfen: Wesentliche Investition in Beschaffung und Aufbereitung der Feature-Vektoren — Daten aus eigenen Messungen (Datenerzeugung = kein Schutz) oder aus externen Quellen aggregiert?
+3. TDM-Schranke prüfen: Dient die Feature-Extraktion aus Fremddatenbanken einem TDM-Zweck (§ 44b UrhG)?
+4. Abgeleitete Datensätze bewerten: Genießen aus einer geschützten Datenbank abgeleitete Feature-Datensätze eigenes Herstellerrecht oder sind sie Verletzungsprodukte?
+5. DSGVO bei personenbezogenen Features: Enthält der Feature Store personenbezogene Daten (Nutzerverhalten, biometrische Daten) — Rechtsgrundlage?
+6. Schutzstrategie für Feature Store: TDM-Opt-out, AGB-Schutz, technische Zugangskontrollen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Feature Store als Datenbankherstellerrecht — wenn wesentliche Investition in Beschaffung und Aufbereitung der Feature-Daten.
+- EuGH C-203/02 (BHB/William Hill): Investition in Datenerzeugung (eigene ML-Modelltraining-Daten) schützt nicht — nur Investition in Datenbeschaffung.
+- § 44b UrhG: TDM-Schranke für kommerzielle KI-Anwendungen — Opt-out des Quelldatenbank-Inhabers ausschlaggebend.
+- § 60d UrhG: Wissenschaftliche TDM-Schranke — gilt auch für akademische ML-Forschung.
+- DSGVO Art. 22: Automatisierte Entscheidungen und Profiling mit Feature-Daten — Betroffenenrechte bei automatisierten Systemen.
+- § 87b UrhG: Verletzung durch Extraktion wesentlicher Feature-Teile aus einer Fremddatenbank.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist der Feature Store als Datenbank gemäß § 87a Abs. 1 UrhG einzustufen (systematische Ordnung, individueller Zugriff)?
+- Beruht die Investition in den Feature Store auf Datenbeschaffung/-überprüfung oder nur auf Datenmodellierung/-erzeugung?
+- Dient die Feature-Extraktion aus einer Fremddatenbank einem TDM-Zweck — greift § 44b UrhG?
+- Enthält der Feature Store personenbezogene Merkmale — ist DSGVO Art. 22 relevant (automatisierte Entscheidungen)?
+- Haben abgeleitete Feature-Datensätze (Feature Engineering) eigenes Herstellerrecht oder sind sie Verletzungsprodukte der Quelldatenbank?
+- Wurde ein TDM-Opt-out für die Quelldatenbank erteilt — schließt das die TDM-Schranke aus?
+- Enthält der Feature Store Daten aus lizenzierten Quellen — erlaubt die Lizenz die Nutzung für ML-Training?
+
+## Typische Fallstricke
+
+- Feature Stores aus selbst erhobenen ML-Trainingsdaten sind keine durch Datenbankherstellerrecht geschützten Beschaffungsinvestitionen (BHB-Doktrin).
+- Feature Engineering (Transformation bestehender Daten) kann nicht das ursprüngliche Herstellerrecht der Quelldatenbank auf den Feature Store übertragen.
+- TDM-Schranke gilt für Vervielfältigung zum Zweck des Mining, nicht für kommerzielle Weiterverwertung abgeleiteter Modelle.
+- DSGVO Art. 22 ist relevant, wenn Feature-basierte Entscheidungen vollständig automatisiert sind und rechtliche Wirkung haben.
+- Personenbezogene Features erfordern DSGVO-Rechtsgrundlage — nicht immer durch berechtigtes Interesse abgedeckt.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Feature-Store-Datenbankherstellerrecht-Prüfbogen
+- TDM-Schranken-Analyse für ML-Feature-Extraktion
+- DSGVO-Compliance-Check für personenbezogene ML-Feature-Daten
+- Schutzstrategie für Feature Store (AGB, Opt-out, Zugangskontrolle)
+- Lizenz-Compliance-Matrix für ML-Trainingsdaten-Quellen
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 60d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/60d.html)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [DSGVO Art. 22 — dejure.org](https://dejure.org/gesetze/DSGVO/22.html)
+- [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)

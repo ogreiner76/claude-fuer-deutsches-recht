@@ -1,46 +1,66 @@
 ---
 name: db-062-datenbankrecht-und-cyberincident
-description: "Datenbankrecht: Datenbankrecht und Cyberincident mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff oder Datenleck aus eigenem Datenbankbestand. Output: Notfall-Checkliste, Meldepflichtprüfung BSI/Aufsichtsbehörde, Beweissicherungsprotokoll, Schadensersatzansprüche gegen Angreifer und Dritte.'
 ---
 
-# Datenbankrecht: Datenbankrecht und Cyberincident
+# Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht und Cyberincident** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Ransomware-Angriff verschlüsselt Datenbankserver; Angreifer drohen mit Veröffentlichung des exfiltrierten Datenbankbestands.
+- Unbekannte haben über eine SQL-Injection auf die Produktdatenbank zugegriffen und strukturierte Datensätze (Kundenstamm, Preislisten) abgezogen.
+- Ein ehemaliger Dienstleister hat nach Vertragsende mit einer Datenbankdumpdatei Wettbewerber beliefert; der Mandant bemerkt identische Datensätze beim Konkurrenten.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. **Incident abgrenzen**: Feststellen, welche Datenbank(en) betroffen sind, Zeitfenster des Zugriffs und Umfang der exfiltrierten Datensätze schätzen (qualitativ und quantitativ im Sinne von § 87b Abs. 1 UrhG).
+2. **Beweissicherung forensisch**: Logfiles, Access-Logs, Datenbankaudit-Trails vor Überschreibung sichern; kryptografischen Hash der Rohdaten erstellen (SHA-256); Notarprotokoll oder IT-Gutachter beauftragen.
+3. **DSGVO-Meldepflicht prüfen**: Bei personenbezogenen Daten 72-Stunden-Frist nach Art. 33 DSGVO an die zuständige Datenschutzaufsichtsbehörde; Benachrichtigungspflicht Betroffener nach Art. 34 DSGVO bewerten.
+4. **NIS2/KRITIS-Meldepflicht prüfen**: Fällt der Mandant unter NIS2-RL oder das KRITIS-Dachgesetz, sind Meldungen an das BSI innerhalb von 24 Stunden (erheblicher Vorfall) bzw. 72 Stunden (Erstmeldung) erforderlich.
+5. **Datenbankrecht-Ansprüche formulieren**: Ansprüche auf Unterlassung, Auskunft, Vernichtung, Schadensersatz nach §§ 87b, 97, 97a UrhG gegen identifizierbare Angreifer oder Hehler prüfen.
+6. **Strafanzeige erwägen**: § 202a StGB (Ausspähen von Daten), § 303a StGB (Datenveränderung), § 303b StGB (Computersabotage) bei Ransomware; Strafanzeige bei Staatsanwaltschaft oder LKA.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **§ 87b Abs. 1 UrhG** — Entnahme oder Weiterverwendung wesentlicher Teile der Datenbank ohne Zustimmung des Herstellers ist unzulässig; gilt auch bei rechtswidrigem Systemzugang.
+- **§ 97 UrhG** — Anspruch auf Unterlassung und Schadensersatz bei Verletzung des Datenbankherstellerrechts; dreifache Schadensberechnung möglich.
+- **Art. 33, 34 DSGVO** — Meldepflicht an Aufsichtsbehörde (72 h) und Benachrichtigung Betroffener bei voraussichtlich hohem Risiko; Dokumentationspflicht Art. 33 Abs. 5 DSGVO.
+- **NIS2-RL 2022/2555, Art. 23** — Erhebliche Sicherheitsvorfälle sind unverzüglich (24 h Frühwarnung, 72 h Meldung) dem nationalen CSIRT bzw. BSI zu melden.
+- **§ 202a StGB** — Strafbarkeit des unbefugten Zugangs zu gesicherten Daten; korrespondiert mit zivilrechtlichen Ansprüchen aus UrhG.
+- **§ 823 Abs. 1 BGB i.V.m. § 87a UrhG** — Deliktsrechtlicher Schadensersatz bei Verletzung des Datenbankherstellerrechts als sonstiges Recht.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine schutzfähige Datenbank im Sinne von § 87a UrhG vor (wesentliche Investition in Beschaffung, Überprüfung oder Darstellung)?
+- Wurden wesentliche Teile qualitativ oder quantitativ entnommen oder wurden unwesentliche Teile systematisch und wiederholt verwendet (§ 87b Abs. 1 S. 2 UrhG)?
+- Sind Logfiles und Audit-Trails vollständig gesichert und integer (Hash-Wert dokumentiert)?
+- Greift DSGVO Art. 33: Sind personenbezogene Daten betroffen, und wann begann die 72-Stunden-Frist zu laufen?
+- Fällt der Mandant unter NIS2-RL oder KRITIS-Regelungen (Sektor, Schwellenwert, wesentliche oder wichtige Einrichtung)?
+- Ist ein identifizierbarer Angreifer oder Empfänger der Daten vorhanden, gegen den Unterlassung und Auskunft durchgesetzt werden können?
+- Hat der Mandant vertragliche Sicherheitspflichten (SLA, ISO 27001, TISAX) verletzt und haftet gegenüber Dritten?
+- Besteht eine Cyber-Versicherung, die Meldepflichten und Fristen im Policentext vorschreibt?
+
+## Typische Fallstricke
+
+- **Fristversäumnis DSGVO**: 72-Stunden-Frist läuft ab Kenntnisnahme, nicht ab Bestätigung des Vorfalls; interne Eskalation muss sofort erfolgen.
+- **Beweise überschreiben**: Automatische Log-Rotation oder Neustart des Systems zerstört Forensikdaten; sofortiger Snapshot und Netzwerktrennung sind Vorrang.
+- **Doppelrolle Mandant**: Wer eigene Sicherheitslücken verschweigt, riskiert Mitverschulden (§ 254 BGB) und aufsichtsrechtliche Sanktionen.
+- **Fehlende Aktivlegitimation**: Nur der Datenbankhersteller (§ 87a UrhG) kann Ansprüche geltend machen; bei Outsourcing prüfen, wer tatsächlich investiert hat.
+- **Ransomware-Zahlung und Sanktionsrecht**: Zahlung an Angreifer kann EU-Sanktionsrecht (VO 269/2014 etc.) oder US-OFAC-Regelungen verletzen; immer vor Zahlung prüfen.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Notfall-Checkliste mit Sofortmaßnahmen (Beweissicherung, Systemisolierung, Benachrichtigungskette)
+- Meldepflichtmemo: DSGVO Art. 33/34-Analyse, NIS2-Meldestatus, BSI-Formular-Hinweise
+- Forensik-Beauftragungsschreiben und Beweissicherungsprotokoll (Hash-Log)
+- Unterlassungs- und Auskunftsschreiben nach § 87b, § 97 UrhG gegen Angreifer/Hehler
+- Strafanzeigeentwurf (§§ 202a, 303a, 303b StGB)
+- Schadensberechnung (Lizenzanalogie, entgangener Gewinn, Wiederherstellungskosten)
+
+## Quellen
+
+- [§ 87a UrhG — Datenbankherstellerrecht (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87a.html)
+- [§ 202a StGB — Ausspähen von Daten (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/stgb/__202a.html)
+- [Art. 33 DSGVO — Meldung von Verletzungen (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/dsgvo/art_33_dsgvo.html)
+- [NIS2-Richtlinie 2022/2555 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022L2555)
+- [§ 97 UrhG — Anspruch auf Unterlassung und Schadensersatz (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__97.html)

@@ -1,46 +1,65 @@
 ---
 name: db-057-datenbankrecht-musik-film-bildarchiv
-description: "Datenbankrecht: Datenbankrecht Musik Film Bildarchiv mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale.'
 ---
 
-# Datenbankrecht: Datenbankrecht Musik Film Bildarchiv
+# Datenbankrecht für Musik-, Film- und Bildarchive — Mediendatenbanken
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht Musik Film Bildarchiv** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Stockfoto-Portal stellt fest, dass ein Wettbewerber alle Metadaten und Thumbnails aus seiner Bilddatenbank extrahiert und in einem eigenen Portal zeigt.
+- Musikarchiv-Betreiber will seine Datenbank aus Aufnahmen und Metadaten gegen KI-Training schützen und fragt, welche Rechte er kombiniert geltend machen kann.
+- Filmproduzent fragt, ob die von seiner Produktionsdatenbank gepflegten Film-Metadaten (Schnittlisten, Casting-Daten) datenbankherstellerrechtlich geschützt sind.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Schichtenschutz-Analyse: Mediendatenbanken haben typischerweise drei Schutzschichten — Urheberrecht an Einzelwerken (§ 2 UrhG), Leistungsschutzrecht (§§ 70 ff. UrhG) und Datenbankherstellerrecht (§ 87a UrhG).
+2. Herstellerrecht für Mediendatenbank: Wesentliche Investition in Beschaffung (Rechte-Clearing, Metadaten-Erstellung), Überprüfung (Qualitätsprüfung) und Darstellung (Suchfunktion, Thumbnails)?
+3. Metadaten-Schutz separat prüfen: Sind Metadaten (EXIF-Daten, Schnittlisten) durch Datenbankherstellerrecht geschützt, auch wenn die Bilder selbst nicht gezeigt werden?
+4. TDM-Opt-out für Mediendatenbank: § 44b Abs. 3 UrhG — maschinenlesbarer Opt-out für KI-Training (IPTC-Metadaten-Standard für Bilder).
+5. Lizenzmodell für Stock-Media-Portal: Einzellizenz, Abo-Modell, Editorial vs. kommerziell — Datenbankherstellerrecht als Lizenzgegenstand neben Urheberrecht.
+6. Verwertungsgesellschaften: GEMA (Musikrechte), VGBild-Kunst (Bildrechte) — wie verhält sich deren Wahrnehmungsbereich zum Datenbankherstellerrecht des Portals?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: Mediendatenbank-Herstellerrecht — wesentliche Investition in Metadaten-Beschaffung, Qualitätsprüfung und Darstellung.
+- § 2 UrhG: Urheberrecht an Einzelwerken (Bilder, Filme, Musikwerke) — kumulativ zum Herstellerrecht.
+- §§ 70 ff. UrhG: Leistungsschutzrechte für ausübende Künstler, Tonträgerhersteller, Filmhersteller.
+- § 44b UrhG: TDM-Schranke — Opt-out für Mediendatenbanken durch maschinenlesbare Metadaten (IPTC, Exif).
+- § 87b UrhG: Verbot der Entnahme wesentlicher Teile — gilt auch für Metadaten-Entnahmen aus Mediendatenbanken.
+- § 60c UrhG: Schranke für Karikatur, Parodie und Pastiche — Grenzen des Mediendatenbankschutzes.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine wesentliche Investition in die Mediendatenbank-Infrastruktur (Metadaten-Pflege, Rechte-Clearing, Suchsystem) vor?
+- Werden nur Metadaten oder auch geschützte Medien (Thumbnails, Vorschauen) entnommen?
+- Welche Schutzschicht wird verletzt — Urheberrecht an Einzelwerken, Leistungsschutzrecht oder Herstellerrecht?
+- Wurde ein TDM-Opt-out durch IPTC-Metadaten oder robots.txt erklärt?
+- Übernimmt der Wettbewerber wesentliche Teile der Datenbankstruktur oder nur einzelne Einträge?
+- Sind Verwertungsgesellschaften in die Lizenzstruktur einzubinden (GEMA-Pflichtlizenz für Musik)?
+- Enthält die Datenbank personenbezogene Daten (Fotografennamen, Modelrelease-Daten) — DSGVO-Pflichten?
+
+## Typische Fallstricke
+
+- Thumbnails können als Vorschaubilder eigenes Urheberrecht des Portals haben, wenn sie schöpferisch erstellt wurden.
+- GEMA-Lizenzen decken das Datenbankherstellerrecht des Musik-Portals nicht ab — separate Prüfung erforderlich.
+- Metadaten-Entnahme kann Datenbankherstellerrecht verletzen, auch wenn keine Bilder übernommen werden.
+- IPTC-Metadaten-Opt-out (XMP-Creator-Tag) wird von vielen KI-Crawlern nicht respektiert — zusätzliche technische Sperren nötig.
+- Leistungsschutzrecht der Tonträgerhersteller (§ 85 UrhG) ist separat von Datenbankrecht zu lizenzieren.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Schichtenschutz-Analyse für Mediendatenbank (Datenbankrecht + Urheberrecht + Leistungsschutz)
+- TDM-Opt-out-Implementierungsguide für Bild- und Musikdatenbanken (IPTC-Standard)
+- Stock-Media-Lizenzvertrag-Vorlage (Editorial / Kommerziell / Abo)
+- Verwertungsgesellschafts-Schnittstellen-Übersicht (GEMA / VGBild-Kunst)
+- Verletzungsklage-Strategie für Mediendatenbank-Scraping
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 2 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/2.html)
+- [§ 85 UrhG Tonträgerhersteller — dejure.org](https://dejure.org/gesetze/UrhG/85.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

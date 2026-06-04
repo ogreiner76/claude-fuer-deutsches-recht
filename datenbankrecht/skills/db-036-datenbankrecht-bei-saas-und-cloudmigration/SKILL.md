@@ -1,46 +1,65 @@
 ---
 name: db-036-datenbankrecht-bei-saas-und-cloudmigration
-description: "Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden.'
 ---
 
-# Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration
+# Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Datenbankrecht bei SaaS und Cloudmigration** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Unternehmen wechselt seinen CRM-SaaS-Anbieter und muss alle Kundendaten mitnehmen — welche Rechte am Datenbankinhalt hat es gegenüber dem alten Anbieter?
+- SaaS-Anbieter behauptet in seinen AGB, Datenbankherstellerrechte an allen Kundendaten zu halten, die in seiner Plattform gespeichert werden.
+- Startup fragt, wie Cloud-Migrationsverträge gestaltet sein müssen, damit die Datenbankrechte beim Kunden bleiben und nicht auf den Cloud-Provider übergehen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Herstellereigenschaft klären: Wer hat die wesentliche Investition in die Datenbankstruktur getragen — der SaaS-Anbieter (Infrastruktur) oder der Kunde (Inhaltsbefüllung)?
+2. AGB auf Datenbankrechte-Klauseln prüfen: Behauptet der SaaS-Anbieter Herstellerrecht oder Urheberrecht an Kundendaten — ist das nach § 307 BGB wirksam?
+3. Datenmitnahmerecht bestimmen: Data Act Art. 17 (Wechselrecht), DSGVO Art. 20 (Datenportabilität für Verbraucher), vertragliche Herausgabepflicht.
+4. Auftragsverarbeitung bewerten: Ist der SaaS-Anbieter Auftragsverarbeiter (Art. 28 DSGVO) — er kann dann kein eigenes Datenbankherstellerrecht beanspruchen.
+5. Datenbankformat und Portabilität prüfen: Liefert der SaaS-Anbieter Daten in einem offenen Format oder nur proprietary — Vendor-Lock-in-Risiko?
+6. Exit-Klausel im Vertrag: Datenmitnahme-Anspruch, Export-Pflicht des Anbieters, Löschpflicht nach Herausgabe.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a Abs. 2 UrhG: Hersteller ist, wer die wesentliche Investition trägt — Herstellereigenschaft folgt dem wirtschaftlichen Risiko.
+- § 307 BGB: AGB-Klausel, die alle Datenbankrechte auf SaaS-Anbieter überträgt, kann unangemessen benachteiligend sein.
+- Data Act Art. 17 VO 2023/2854: Wechselrecht — Kunden können zu anderem Anbieter wechseln und Daten mitnehmen.
+- DSGVO Art. 20: Datenportabilitätsrecht für Verbraucher (personenbezogene Daten).
+- DSGVO Art. 28: Auftragsverarbeitungsvertrag — SaaS-Anbieter als Auftragsverarbeiter hat keinen eigenständigen Datenbankherstelleranspruch.
+- § 314 BGB: Außerordentliche Kündigung bei Verweigerung der Datenherausgabe als schwerwiegender Vertragsbruch.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Wer hat die wesentliche Investition in die Datenbankstruktur und -befüllung getragen (Hersteller-Frage)?
+- Enthält der SaaS-Vertrag eine Klausel, die Datenbankrechte auf den Anbieter überträgt — ist diese nach § 307 BGB wirksam?
+- Greift Data Act Art. 17 — kann der Kunde Wechsel und Datenmitnahme erzwingen?
+- Hat der Kunde als Verbraucher einen DSGVO-Portabilitätsanspruch (Art. 20 DSGVO) für personenbezogene Daten?
+- Ist der SaaS-Anbieter Auftragsverarbeiter — und was bedeutet das für seine Datenbankrechte-Ansprüche?
+- Stellt der Anbieter Daten in einem offenen maschinenlesbaren Format bereit (Vendor-Lock-in-Risiko)?
+- Enthält der Vertrag eine Exit-Klausel mit klarer Herausgabe- und Löschpflicht?
+
+## Typische Fallstricke
+
+- SaaS-Anbieter, der nur Infrastruktur bereitstellt, hat meist kein Datenbankherstellerrecht an Kundendaten — das trägt der Kunde als Datenbefüller.
+- AGB-Klausel, die alle in der Plattform gespeicherten Daten dem Anbieter zuweist, ist nach § 307 BGB anfechtbar.
+- Data Act Art. 17 Wechselrecht gilt erst ab September 2025 — für laufende Verträge muss die vertragliche Grundlage ausreichen.
+- Datenportabilität nach DSGVO Art. 20 betrifft nur personenbezogene Daten von Verbrauchern — B2B-Kunden sind nicht erfasst.
+- Proprietäre Exportformate können faktisch die Datenmitnahme blockieren, selbst wenn rechtlich Herausgabepflicht besteht.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Datenbankherstellerrecht-Inhaberschaftsanalyse für SaaS-Kunden
+- AGB-Prüfbogen für Datenbankrechte-Klauseln (§ 307 BGB)
+- Exit-Klausel-Vorlage (Datenmitnahme, Format, Löschung)
+- Data Act Art. 17 Wechselrecht-Checkliste
+- DSGVO-Auftragsverarbeitungsvertrag-Klausel zum Datenbankherstellerrecht
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
+- [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
+- [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)
+- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)

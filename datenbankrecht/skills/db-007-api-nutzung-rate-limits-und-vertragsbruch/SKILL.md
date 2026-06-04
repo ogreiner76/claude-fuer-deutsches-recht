@@ -1,46 +1,65 @@
 ---
 name: db-007-api-nutzung-rate-limits-und-vertragsbruch
-description: "Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers.'
 ---
 
-# Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch
+# API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **API-Nutzung Rate Limits und Vertragsbruch** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- SaaS-Anbieter stellt fest, dass ein Geschäftskunde über seine API weit mehr Abfragen tätigt als vertraglich erlaubt, und will Schadenersatz und Kündigung prüfen.
+- Startup hat eine API-Schnittstelle zu einer Fremddatenbank genutzt und überschreitet unbewusst die Rate-Limits — die Gegenseite droht mit Abmahnung.
+- Unternehmen entwirft neue API-Nutzungsbedingungen und will sicherstellen, dass diese das Datenbankherstellerrecht wirksam ergänzen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragliche Grundlage klären: API-Nutzungsvertrag, AGB, Developer-Agreement — welche Rate-Limits und Nutzungszwecke sind vereinbart?
+2. Vertragsbruch bewerten: Überschreitung der Abfragelimits, unerlaubte Weiterverwendung, Verstoß gegen Zweckbindung — § 280 BGB, § 241 Abs. 2 BGB.
+3. Urheberrechtliche Parallelprüfung: Erfüllt die Abfrageintensität den Tatbestand der wesentlichen Entnahme nach § 87b UrhG unabhängig vom Vertrag?
+4. Kündigung und Sperre prüfen: Außerordentliche Kündigung (§ 314 BGB) bei schwerwiegendem Vertragsbruch; technische Sperre als berechtigte Maßnahme.
+5. Schadensersatz berechnen: Überschussabfragen nach Lizenzanalogie bewerten; Nutzungsausfallschaden des Betreibers.
+6. AGB-Wirksamkeit prüfen: Rate-Limit-Klauseln nach § 307 BGB; transparente Formulierung und klar definierte Folgen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis.
+- § 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch.
+- § 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein.
+- § 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme.
+- § 97 UrhG: Unterlassung und Schadensersatz bei Urheberrechtsverletzung — Lizenzanalogie als Berechnungsmethode.
+- § 97a UrhG: Abmahnung als Voraussetzung für Erstattung von Rechtsanwaltsgebühren.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt ein wirksamer API-Nutzungsvertrag vor, und was regelt er zu Abfragevolumen, Zweck und Weiterverwendung?
+- Überschreiten die tatsächlichen Abfragen die vertraglich vereinbarten Rate-Limits messbar?
+- Sind die Rate-Limits technisch nachweisbar (Server-Logs, API-Gateway-Protokolle)?
+- Erfüllen die Abfragen unabhängig vom Vertrag den urheberrechtlichen Verletzungstatbestand (§ 87b UrhG)?
+- Hat der Betreiber vor der Kündigung abgemahnt oder eine Frist zur Abhilfe gesetzt (§ 314 Abs. 2 BGB)?
+- Sind Rate-Limit-Klauseln in AGB nach § 307 BGB wirksam — sind Schwellenwerte und Rechtsfolgen transparent?
+- Kann der Schaden nach Lizenzanalogie (übliche API-Lizenzgebühr) berechnet werden?
+
+## Typische Fallstricke
+
+- Rate-Limits ohne klare Rechtsfolge in den AGB lassen offen, ob Überschreitung Vertragsbruch oder nur technische Einschränkung ist.
+- Urheberrechtliche Ansprüche laufen auch ohne Vertragsverletzung — der Betreiber kann beide Ansprüche nebeneinander geltend machen.
+- Kündigung ohne vorherige Abmahnung bei erstmaligem Verstoß ist oft unwirksam (§ 314 Abs. 2 BGB).
+- Technische Sperren ohne vorherige Abmahnung können ihrerseits Vertragsbruch des Betreibers darstellen (§ 280 BGB).
+- Entwickler-Teams überschreiten Rate-Limits oft versehentlich — culpa levis reicht aber für vertraglichen Schadensersatzanspruch.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Vertragsbruchanalyse mit Anspruchsübersicht (§ 280 BGB / § 97 UrhG)
+- Rate-Limit-Klausel-Vorlage für wirksame AGB-Gestaltung
+- Abmahnschreiben bei API-Missbrauch
+- Schadensberechnung nach Lizenzanalogie
+- Kündigung aus wichtigem Grund — Musterformulierung (§ 314 BGB)
+
+## Quellen
+
+- [§ 280 BGB — dejure.org](https://dejure.org/gesetze/BGB/280.html)
+- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)

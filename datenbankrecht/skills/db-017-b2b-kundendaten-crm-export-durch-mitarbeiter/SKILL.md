@@ -1,46 +1,65 @@
 ---
 name: db-017-b2b-kundendaten-crm-export-durch-mitarbeiter
-description: "Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln.'
 ---
 
-# Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter
+# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **B2B-Kundendaten CRM Export durch Mitarbeiter** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Vertriebsmitarbeiter verlässt das Unternehmen und nimmt dabei die vollständige CRM-Kundendatenbank auf einem USB-Stick mit zum Wettbewerber.
+- Unternehmen fragt, welche Ansprüche gegen den ausgeschiedenen Mitarbeiter und den aufnehmenden Wettbewerber bestehen.
+- Arbeitgeber will präventiv sicherstellen, dass CRM-Exporte technisch verhindert und vertraglich verboten werden.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Datenbankherstellerrecht prüfen: Hat das Unternehmen eine wesentliche Investition in seine CRM-Kundendatenbank (Beschaffung, Überprüfung, Darstellung der Kundendaten) getätigt?
+2. Geschäftsgeheimnisschutz prüfen: Sind die Kundendaten als Geschäftsgeheimnis nach § 2 Nr. 1 GeschGehG geschützt — geheim, wertvoll, Geheimhaltungsmaßnahmen vorhanden?
+3. Verletzungshandlung bestimmen: § 87b UrhG (Entnahme wesentlicher Teile), § 4 GeschGehG (rechtswidrige Erlangung und Nutzung), Arbeitsvertragsverletzung.
+4. Ansprüche gegen Mitarbeiter und Wettbewerber formulieren: Unterlassung, Herausgabe, Schadensersatz, Auskunft.
+5. Einstweilige Verfügung prüfen: Dringlichkeit bejaht bei aktueller Verwendung beim Wettbewerber — Verfügungsanspruch und Verfügungsgrund.
+6. DSGVO-Pflichten klären: Datenpanne nach Art. 33-34 DSGVO melden — wenn personenbezogene Kundendaten betroffen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 87a UrhG: CRM-Datenbank als Datenbank mit wesentlicher Investition in Kundendatenbeschaffung und -pflege.
+- § 87b UrhG: Entnahme wesentlicher Teile durch den Mitarbeiter als Verletzung des Herstellerrechts.
+- § 2 Nr. 1 GeschGehG: Kundendaten als Geschäftsgeheimnis, wenn nicht allgemein bekannt, wirtschaftlich wertvoll und angemessen geheim gehalten.
+- § 4 GeschGehG: Verbotene Handlungen — rechtswidrige Erlangung, Nutzung und Offenlegung.
+- Art. 33-34 DSGVO: Meldepflicht bei Datenpannen an Aufsichtsbehörde und betroffene Kunden.
+- § 241 Abs. 2 BGB: Nebenpflicht des Arbeitnehmers zur Rücksicht auf Arbeitgeberinteressen — verletzt durch CRM-Export.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hat das Unternehmen angemessene Geheimhaltungsmaßnahmen für die CRM-Datenbank ergriffen (Zugangsbeschränkungen, NDA, Löschpflicht bei Ausscheiden)?
+- Enthält der Arbeitsvertrag explizite Verbote zur Mitnahme von Kundendaten bei Ausscheiden?
+- Weist die exportierte Datenmenge auf eine Entnahme wesentlicher Teile hin (§ 87b UrhG)?
+- Verwendet der Wettbewerber die Daten bereits aktiv — besteht Dringlichkeit für einstweilige Verfügung?
+- Sind personenbezogene Kundendaten betroffen — ist eine Datenpannen-Meldung nach Art. 33 DSGVO erforderlich?
+- Kann technisch nachgewiesen werden, dass ein Export stattgefunden hat (USB-Logs, E-Mail-Forensik, Zugriffsprotokoll)?
+- Ist der aufnehmende Wettbewerber gutgläubig oder wusste er von der rechtswidrigen Herkunft der Daten?
+
+## Typische Fallstricke
+
+- Fehlende technische Sperren (kein USB-Block, kein Export-Verbot im CRM) schwächen die Position im GeschGehG-Prozess erheblich.
+- Ohne DSGVO-Datenpannen-Meldung droht zusätzliches Bußgeld durch die Datenschutzbehörde.
+- Ansprüche gegen den Wettbewerber setzen Kenntnis oder fahrlässige Unkenntnis von der unrechtmäßigen Herkunft voraus.
+- Arbeitsrechtliche Abmahnung und außerordentliche Kündigung müssen zeitnah erfolgen — keine Verwirkung.
+- Berechnung des Schadens ist komplex: entgangene Aufträge, Lizenzanalogie oder pauschaler Schadensersatz nach § 97 Abs. 2 UrhG.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Verletzungsanalyse (§ 87b UrhG + GeschGehG + Arbeitsrecht kombiniert)
+- Abmahnschreiben und fristlose Kündigung des Mitarbeiters
+- Einstweiliger Verfügungsantrag gegen Mitarbeiter und Wettbewerber
+- DSGVO-Datenpannen-Meldung (Art. 33 DSGVO) — Muster
+- Präventionskonzept: Technische und vertragliche CRM-Schutzmaßnahmen
+
+## Quellen
+
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
+- [Art. 33 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/33.html)
+- [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)

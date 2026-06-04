@@ -1,46 +1,65 @@
 ---
 name: db-029-auskunft-rechnungslegung-schadensschaetzung
-description: "Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: 'Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge.'
 ---
 
-# Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung
+# Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Auskunft Rechnungslegung Schadensschätzung** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Datenbankbetreiber hat eine einstweilige Verfügung erwirkt und will nun im Hauptsacheverfahren Schadensersatz geltend machen — Auskunftsanspruch und Schadensberechnung sind unklar.
+- Verletzer hat Datenbankdaten für eigene kommerzielle Produkte genutzt — wie hoch ist der Schaden und welche Berechnungsmethode gilt?
+- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Scraper über den Internetdienstanbieter nach § 101 UrhG geltend machen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Auskunftsanspruch formulieren: § 101 UrhG gegen Verletzer — Umfang der Verletzung (Zeit, Volumen, Empfänger), Lieferkette der entnommenen Daten, Erlöse.
+2. Auskunft gegen ISP prüfen: § 101 Abs. 2 UrhG gegen Internetdienstanbieter — Voraussetzung: gewerbliche Verletzung, Antrag bei Gericht erforderlich.
+3. Schadensberechnungsmethode wählen: Konkreter Schaden, Herausgabe des Verletzergewinns oder Lizenzanalogie (§ 97 Abs. 2 UrhG) — welche Methode maximiert den Anspruch?
+4. Lizenzanalogie berechnen: Übliche Lizenzgebühr für die entnommenen Datenbankteile ermitteln (Marktvergleich, eigene Lizenzpraxis).
+5. Rechnungslegung vollstrecken: Wenn Verletzer Auskunft verweigert — Zwangsvollstreckung nach § 888 ZPO, Ordnungsgeld.
+6. Verjährung prüfen: § 102 UrhG i.V.m. §§ 195-199 BGB — 3 Jahre ab Kenntnis, 10 Jahre Höchstfrist.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
-- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
-- Entnahme/Weiterverwendung technisch und rechtlich trennen
-- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 97 Abs. 1 UrhG: Unterlassung und Schadensersatz bei Datenbankrechts-Verletzung.
+- § 97 Abs. 2 UrhG: Drei Berechnungsmethoden — konkreter Schaden, Verletzergewinnherausgabe, Lizenzanalogie.
+- § 101 UrhG: Auskunftsanspruch gegen Verletzer und (bei gewerblicher Verletzung) gegen ISP.
+- § 102 UrhG: Verjährung der Schadensersatzansprüche — 3 Jahre ab Kenntnis.
+- § 888 ZPO: Erzwingung nicht vertretbarer Handlungen (Rechnungslegung) durch Ordnungsgeld.
+- § 87b UrhG: Verletzungstatbestand als Grundlage aller Folgeansprüche.
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Liegt eine Verletzung nach § 87b UrhG als Grundlage des Schadensersatzes vor?
+- Ist der Verletzer bekannt, oder muss der ISP-Auskunftsweg nach § 101 Abs. 2 UrhG beschritten werden?
+- Welche der drei Berechnungsmethoden (§ 97 Abs. 2 UrhG) führt zu maximalem oder realistischstem Ergebnis?
+- Lässt sich eine übliche Lizenzgebühr (Lizenzanalogie) aus eigenen Verträgen oder Marktvergleichen ableiten?
+- Hat der Verletzer Gewinne aus der Nutzung der entnommenen Daten erzielt, die herausgegeben werden müssen?
+- Ist die Verjährungsfrist nach § 102 UrhG noch offen — wann hatte der Gläubiger Kenntnis?
+- Wann wurde Auskunft verlangt und noch nicht erfüllt — Rechnungslegungs-Klage und Vollstreckung planen?
+
+## Typische Fallstricke
+
+- Lizenzanalogie erfordert Nachweis einer „üblichen" Lizenzgebühr — ohne eigene Lizenzpraxis schwer zu begründen.
+- ISP-Auskunft nach § 101 Abs. 2 UrhG setzt gewerbliche Verletzung voraus — private Nutzung scheidet aus.
+- Verletzergewinnherausgabe ist oft schwer durchsetzbar, weil Verletzer keine separate Buchführung für Datenbanknutzung hat.
+- Schadensberechnung ohne Sachverständigengutachten zu Datenbankwert und Lizenzüblichkeit wird von Gerichten oft gekürzt.
+- Verjährung beginnt mit Kenntnis — nicht mit Entdeckung des vollen Schadensumfangs. Frühzeitige Klageerhebung oder Hemmung.
 
 ## Output
 
-- Datenbankrechte-Memo
-- Scraping-Risikomatrix
-- Lizenzklausel
-- Abmahnantwort
-- EV-Check
-- Beweisprotokoll
+- Schadensberechnungsmatrix (alle drei Methoden nach § 97 Abs. 2 UrhG)
+- Auskunftsklage-Muster gegen Verletzer (§ 101 UrhG)
+- ISP-Auskunftsantrag nach § 101 Abs. 2 UrhG (gerichtlich)
+- Lizenzanalogie-Berechnungsnachweis (Marktvergleich)
+- Verjährungsprüfungsprotokoll mit Fristberechnung
+
+## Quellen
+
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 101 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/101.html)
+- [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 888 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/888.html)
+- [§§ 195-199 BGB — dejure.org](https://dejure.org/gesetze/BGB/195.html)
