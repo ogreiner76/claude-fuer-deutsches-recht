@@ -47,7 +47,7 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer deutlich, ohne dass das f
 
 ## Nachgezogene Meta-Pflege
 
-- Root-README auf den aktuellen Stand gebracht: 209 Plugins, 5607 Skills, 201 Testakten.
+- Root-README auf den aktuellen Stand gebracht: 209 Plugins, 5629 Skills, 201 Testakten.
 - Testakten-README auf v100.0.0 und 201 Testakten aktualisiert.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
 - Veraltete Angaben aus der alten 52-Plugin-/361-Skill-Phase wurden aus diesem Testbericht entfernt.

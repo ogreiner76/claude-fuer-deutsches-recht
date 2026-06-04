@@ -61,7 +61,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 |  |  |
 
-**205 Plugins** in 33 Kategorien. Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md).
+**205 kuratierte Praxis-Plugins** in 33 Kategorien (von **209** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
 
 ---
 
@@ -376,4 +376,3 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 Wenn du neue Skills erzeugst (Perplexity Computer, Claude Code oder Codex): pruefe, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Plugins tragen in diese Promptliste ein und werden nach Rechtsgebiet einsortiert.
 
 **Pflegehinweis:** Diese Datei wird bei jedem groesseren Versionsbump durchgesehen und an den aktuellen Plugin-Stand angepasst. Die vollstaendigen Pflegeregeln stehen in [`.github/PROMPTLISTE_REGEL.md`](./.github/PROMPTLISTE_REGEL.md).
-
