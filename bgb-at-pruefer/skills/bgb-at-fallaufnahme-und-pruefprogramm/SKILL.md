@@ -1,60 +1,85 @@
 ---
 name: bgb-at-fallaufnahme-und-pruefprogramm
-description: "Fallaufnahme für BGB-AT-Konstellationen mit sauberem Prüfprogramm: Sachverhalt, Anspruchsziel, Personen, Erklärungen, Kommunikationswege, Zeitpunkte, Form, Genehmigungen, Vollmachten, Anfechtung und Fristen."
+description: "Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen."
 ---
 
-# Bgb At Fallaufnahme Und Pruefprogramm
+# Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil
 
-## Zweck
+## Mandantenfall
 
-BGB-AT-Sachverhalte so erfassen, dass keine Erklärung und kein Zeitpunkt verloren geht.
+- Neue Mandantin schildert einen Kaufstreit; Anwalt muss zunächst alle relevanten Fakten aufnehmen und strukturieren.
+- Klausurfall mit komplexem Sachverhalt — Student muss Prüfungsschwerpunkte identifizieren.
+- Mandant kommt mit einem Ordner Dokumente — Fallaufnahme-Protokoll erstellen.
 
-## Normanker
+## Erste Schritte
 
-§§ 104-185 und §§ 186-218 BGB
+1. Mandantenrolle klären: Kläger oder Beklagter, Anspruchsteller oder Anspruchsgegner?
+2. Sachverhalt vollständig erheben: Datum, Parteien, Erklärungen, Dokumente, Fristen.
+3. Rechtlich relevante von irrelevanten Fakten trennen.
+4. Prüfprogramm aufstellen: Welche Normen kommen in Betracht?
+5. Offene Tatsachenfragen identifizieren: Was muss noch aufgeklärt werden?
+6. Arbeitsziel definieren: Klausurlösung, Gutachten, Mandatsmemo oder Schriftsatzentwurf.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 145 ff. BGB: Vertragsschluss als häufigste Ausgangsfrage der Fallaufnahme.
+- §§ 116 ff. BGB: Willenserklärungsmängel, die bei der Aufnahme zu dokumentieren sind.
+- §§ 164 ff. BGB: Stellvertretung — wer hat für wen gehandelt?
+- §§ 104 ff. BGB: Geschäftsfähigkeit der Beteiligten erfassen.
+- §§ 194 ff. BGB: Verjährung — Fristen und Hemmung als Sofortprüfung bei Fallaufnahme.
+- § 242 BGB: Treu und Glauben als Querschnittsmaßstab für die Beurteilung.
 
 ## Prüfraster
 
-1. Ereignistabelle mit Datum, Uhrzeit, Kanal, Absender und Empfänger erstellen
-2. Erklärungstypen zuordnen
-3. gesicherte Tatsachen von Annahmen und Beweisfragen trennen
-4. Prüfprogramm nach Anspruch entstanden, erloschen, durchsetzbar sortieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Parteien vollständig erfassen mit Rollen und etwaiger Stellvertretung.
+2. Zeitstrahl: alle relevanten Ereignisse in Reihenfolge.
+3. Erklärungen qualifizieren: Angebot, Annahme, Kündigung, Genehmigung.
+4. Dokumente sichten: Vollmachten, Verträge, Rechnungen, Schriftverkehr.
+5. Offene Punkte markieren: fehlende Fakten, unklare Daten, Beweislage.
+6. Verjährung sofort grob prüfen: droht Fristablauf?
+7. Prüfprogramm schreiben: Normen und Reihenfolge der Prüfung.
+
+## Typische Fallstricke
+
+- Unvollständige Sachverhaltserhebung führt zu falschen oder unvollständigen Gutachten.
+- Verjährungsprüfung darf nicht vergessen werden — knappe Fristen erfordern sofortige Reaktion.
+- Rollenverteilung bei mehreren Beteiligten nicht verwischen: Wer hat wann was erklärt?
+- Mandantensicht von objektiver Rechtslage trennen — beides dokumentieren.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Fallaufnahme-Protokoll mit Zeitstrahl, Parteien und Erklärungen
+- Offene-Fragen-Liste für Rückfragen ans Mandat
+- Prüfprogramm: Normen und Reihenfolge
+- Verjährungs-Sofortcheck: Fristen und Handlungsbedarf
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
+- [§ 195 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Systematisches Fallaufnahme-Protokoll
 
+Eine strukturierte Fallaufnahme ist die Grundlage jeder BGB-AT-Prüfung. Dabei werden erfasst:
+(1) Parteien mit Eigenschaft (Kaufmann, Verbraucher, Minderjähriger), (2) zeitlicher Ablauf,
+(3) abgegebene Erklärungen mit Datum und Form, (4) vorhandene Vollmachten und Bevollmächtigungen,
+(5) geltend gemachte Ansprüche und deren Grundlage.
 
-## Qualitäts-Hardening
+### Prüfprogramm im Überblick
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Grundfrage: Ist ein Rechtsgeschäft wirksam entstanden?
+Prüfungsschritte: (1) Willenserklärungen abgegeben und zugegangen? (2) Geschäftsfähigkeit?
+(3) Form? (4) Inhalt nicht verboten (§§ 134/138 BGB)? (5) Anfechtung? (6) Bedingung/Befristung?
+
+### Klausur-Checkliste Fallaufnahme
+
+- Sachverhalt komplett erfasst und zeitlich sortiert?
+- Alle rechtserheblichen Erklärungen identifiziert?
+- Parteieigenschaft (Verbraucher/Unternehmer/Minderjähriger) festgestellt?
+- Vollmachten und Vertretungssituationen erfasst?
+- Prüfprogramm auf den konkreten Fall zugeschnitten?

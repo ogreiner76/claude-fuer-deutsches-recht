@@ -1,60 +1,86 @@
 ---
 name: fristen-berechnung-paragraphen-186-193
-description: "Berechnet Fristen nach §§ 186 bis 193 BGB: Ereignisfrist, Beginn, Ende, Wochen, Monate, Jahre, Sonnabend, Sonntag, Feiertag und dokumentierter Fristenvermerk."
+description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen."
 ---
 
-# Fristen Berechnung Paragraphen 186 193
+# Fristenberechnung — §§ 186 bis 193 BGB
 
-## Zweck
+## Mandantenfall
 
-Fristen nachvollziehbar und prüfbar berechnen.
+- Mandant fragt, ob seine Anfechtungserklärung vom letzten Freitag noch rechtzeitig war.
+- Verjährungsfrist endet auf einen Sonntag — verlängert sich die Frist nach § 193 BGB?
+- Klausurkonstellation: Angebotsfrist von zwei Wochen — konkreter Anfang und Ende berechnen.
 
-## Normanker
+## Erste Schritte
 
-§§ 186-193 BGB
+1. Art der Frist bestimmen: Ereignisfrist (nach einem Ereignis) oder Kalenderfrist (bestimmtes Datum).
+2. Fristbeginn nach §§ 187 und 188 BGB: Wird der Anfangstag mitgezählt oder nicht?
+3. Fristen nach Tagen, Wochen, Monaten oder Jahren: Berechnung nach §§ 188 und 189 BGB.
+4. § 193 BGB: Ende der Frist an Sonn- oder Feiertag oder Samstag — Verlängerung auf nächsten Werktag.
+5. Zeitpunkt des Fristablaufs: Ende des letzten Tages (24:00 Uhr).
+6. Kontrolle: Rechenweg sichtbar machen, Ergebnis mit konkretem Datum angeben.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 186 BGB: Anwendungsbereich der Fristenregeln auf Fristen und Termine.
+- § 187 Abs. 1 BGB: Fristbeginn — Anfangstag wird nicht mitgezählt, wenn Frist ab einem Ereignis läuft.
+- § 187 Abs. 2 BGB: Fristbeginn bei Anfang des Tages — Anfangstag wird mitgezählt.
+- § 188 BGB: Fristende — bei Wochen- oder Monatsfristen der entsprechende Tag.
+- § 189 BGB: Monats- und Jahresfristen bei fehlendem Endtag.
+- § 193 BGB: Verlängerung bei Sonn- und Feiertagen sowie Samstagen.
 
 ## Prüfraster
 
-1. fristauslösendes Ereignis oder Anfangstag bestimmen
-2. § 187 BGB für Beginn anwenden
-3. § 188 BGB für Ende anwenden
-4. § 193 BGB für Wochenende und Feiertag prüfen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Fristtyp bestimmen: Ereignisfrist oder Kalenderfrist?
+2. Fristbeginn: § 187 Abs. 1 oder Abs. 2 BGB — Anfangstag mitgezählt oder nicht?
+3. Fristlauf berechnen: Tage, Wochen, Monate oder Jahre.
+4. Fristende: § 188 BGB — bei Wochen- und Monatsfristen entsprechender Wochentag oder Datum.
+5. § 193 BGB: Fällt das Ende auf Samstag, Sonntag oder gesetzlichen Feiertag?
+6. Verlängerung auf nächsten Werktag: neues Enddatum konkret benennen.
+7. Ergebnis: Frist gewahrt oder abgelaufen mit Begründung und Rechenweg.
+
+## Typische Fallstricke
+
+- § 187 Abs. 1 BGB: Ereignisfristen zählen den Anfangstag nicht mit — häufiger Rechenfehler.
+- § 193 BGB gilt nur für Samstag, wenn Fristablauf auf einen Samstag fällt, nicht als generelle Fristunterbrechung.
+- Verjährungsfristen: § 199 BGB für Verjährungsbeginn kombiniert mit §§ 186 ff. BGB für Berechnung.
+- Bundesweite vs. landesrechtliche Feiertage können Fristende unterschiedlich verschieben.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Fristenberechnungsschema mit Rechenweg und konkretem Datum
+- Übersicht §§ 186 bis 193 BGB mit Anwendungsbeispielen
+- Gutachtenstil-Abschnitt zur Frist-Prüfung
+- Klausurlösungsskizze: Frist gewahrt oder abgelaufen?
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 187 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__187.html)
+- [§ 188 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__188.html)
+- [§ 193 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__193.html)
+- [dejure.org § 193 BGB](https://dejure.org/gesetze/BGB/193.html)
+- [§ 186 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__186.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Grundregeln der Fristberechnung
 
+§ 187 BGB: Bei Fristbeginn mit einem Ereignis oder Zeitpunkt (z.B. Zugang am 1.3.) beginnt die
+Frist erst am nächsten Tag (2.3.) zu laufen. Die Frist selbst zählt nicht den Anfangstag.
 
-## Qualitäts-Hardening
+§ 188 BGB: Das Fristende ist der letzte Tag der Frist. Bei Wochen- oder Monatsfristen ist es der
+entsprechende Wochentag oder Monatstag. Fällt er auf einen Feiertag, verschiebt sich die Frist
+nach § 193 BGB auf den nächsten Werktag.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Rückwärtsberechnung
+
+Bei Rückwärtsfristen (z.B. Kündigung muss 14 Tage vorher zugehen) gilt § 187 Abs. 2 BGB analog:
+Der Tag des Ereignisses (Beendigungsdatum) zählt nicht, die Frist zählt rückwärts.
+
+### Klausur-Checkliste Fristberechnung
+
+- Fristbeginn: Mit Ereignis oder am Tag danach (§ 187 Abs. 1 oder 2 BGB)?
+- Fristende: Letzter Tag der Woche/des Monats oder nach Tagen berechnet?
+- Feiertags- und Wochenendregelung nach § 193 BGB beachtet?
+- Anfechtungsfristen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr) — Fristbeginn?
+- Verjährungsfristen: § 199 Abs. 1 BGB — Entstehung und Kenntnis als Doppelerfordernis?

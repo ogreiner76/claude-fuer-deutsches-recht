@@ -1,60 +1,83 @@
 ---
 name: missbrauch-vertretungsmacht
-description: "Prüft Missbrauch der Vertretungsmacht: Innenverstoß trotz Außenmacht, Evidenz, Kollusion, Treuwidrigkeit und Folgen für Vertrag und Haftung."
+description: "Klausurfall zum Missbrauch der Vertretungsmacht: kollusives Zusammenwirken von Vertreter und Drittem zum Nachteil des Vertretenen, Kenntnis oder Kennenmüssen des Dritten, Rechtsfolge der Unwirksamkeit analog § 138 BGB oder § 242 BGB. BGH-Linie zum Evidenzmaßstab."
 ---
 
-# Missbrauch Vertretungsmacht
+# Missbrauch der Vertretungsmacht
 
-## Zweck
+## Mandantenfall
 
-Innenverhältnis und Außenwirkung sauber trennen.
+- Geschäftsführer verkauft GmbH-Vermögen unter Wert an befreundeten Dritten — Missbrauch der Vertretungsmacht.
+- Vertreter schließt für Auftraggeber nachteiligen Vertrag mit eigenem wirtschaftlichem Vorteil — kollusives Handeln?
+- Klausurkonstellation: Bankmitarbeiter bevollmächtigt, überweist Kundengelder an eigenes Konto — Wirksamkeit?
 
-## Normanker
+## Erste Schritte
 
-§§ 164 ff. BGB und § 242 BGB
+1. Vorliegen einer wirksamen Vollmacht bestätigen — Missbrauch setzt Vertretungsmacht voraus.
+2. Überschreitung des Innenverhältnisses prüfen: Vertreter handelt außerhalb der internen Bindung.
+3. Kollusion: Vertreter und Dritter handeln bewusst zum Nachteil des Vertretenen.
+4. Evidenz: Missbrauch war für den Dritten offenkundig oder er kannte das Innenverhältnis.
+5. Rechtsfolge bestimmen: § 138 BGB (Sittenwidrigkeit bei Kollusion) oder § 242 BGB (Einwendung).
+6. Schadensersatzansprüche des Vertretenen gegen Vertreter nach §§ 280 und 249 BGB prüfen.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 164 BGB: Stellvertretung — Vertretungsmacht als Grundlage.
+- § 138 BGB: Sittenwidrigkeit — Rechtsfolge bei kollusivem Missbrauch.
+- § 242 BGB: Treu und Glauben — Einwendung gegen evidenten Missbrauch ohne Kollusion.
+- §§ 280 und 249 BGB: Schadensersatz gegen missbrauchenden Vertreter.
+- § 166 BGB: Wissenszurechnung — Kenntnis des Vertreters wirkt für und gegen Vertretenen.
 
 ## Prüfraster
 
-1. Außenmacht zunächst bejahen oder verneinen
-2. Innenverstoß feststellen
-3. Evidenz und Kollusion prüfen
-4. Folgen für Vertrag und Innenhaftung trennen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Wirksame Vollmacht des Vertreters im Außenverhältnis? (Sonst § 177 BGB prüfen)
+2. Überschreitung des Innenverhältnisses: Vertreter handelt gegen interne Bindung?
+3. Kollusion: Beweisbar gemeinschaftliches Handeln von Vertreter und Drittem zum Nachteil?
+4. Evidenz beim Dritten: Kannte oder musste der Dritte den Missbrauch kennen?
+5. Rechtsfolge: § 138 BGB (Nichtigkeit) oder § 242 BGB (Einwendung) — Abgrenzung nach BGH?
+6. Schadensersatz des Vertretenen gegen den Vertreter (§§ 280 und 249 BGB)?
+7. Herausgabe des erlangten Vorteils (§ 812 BGB) beim kollusiven Dritten?
+
+## Typische Fallstricke
+
+- Missbrauch der Vertretungsmacht unterscheidet sich von Überschreitung der Vertretungsmacht — Vollmacht besteht!
+- Nur evident erkennbarer Missbrauch führt zu § 242 BGB — bloße Verdachtsmomente reichen nicht.
+- Bei Kollusion ist § 138 BGB die richtige Rechtsfolge, nicht § 242 BGB.
+- § 166 BGB-Wissenszurechnung kann zu Lasten des Vertretenen wirken — Doppelwirkung beachten.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zum Missbrauch der Vertretungsmacht
+- Prüfampel: Vertrag wirksam / nichtig nach § 138 BGB / Einwendung nach § 242 BGB
+- Klausurlösungsskizze mit Schadensersatz-Folgeprüfung
+- Rückfragenliste zu Vollmachtsumfang und Drittkenntnis
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
+- [§ 138 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__138.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [dejure.org § 164 BGB](https://dejure.org/gesetze/BGB/164.html)
+- [dejure.org § 138 BGB](https://dejure.org/gesetze/BGB/138.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### BGH-Evidenzmaßstab
 
+Der BGH hat in mehreren Entscheidungen den Evidenzmaßstab für den Missbrauch der Vertretungsmacht
+geprägt: Der Missbrauch muss für den Dritten ohne Weiteres, d.h. auf den ersten Blick erkennbar
+gewesen sein. Eine bloße Verdachtssituation oder abstrakte Risikoerwägung reicht nicht.
 
-## Qualitäts-Hardening
+### Kollusion und Betrug
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Bei Kollusion zwischen Vertreter und Drittem liegt regelmäßig auch ein Betrug (§ 263 StGB) und
+eine vorsätzliche sittenwidrige Schädigung (§ 826 BGB) vor. Die zivilrechtliche Unwirksamkeit
+nach § 138 BGB tritt neben die strafrechtliche Verantwortlichkeit.
+
+### Klausur-Checkliste Missbrauch der Vertretungsmacht
+
+- Formelle Vollmacht des Vertreters im Außenverhältnis besteht?
+- Überschreitung des Innenverhältnisses durch Vertreter festgestellt?
+- Kollusion: Gemeinsames Handeln von Vertreter und Drittem zum Nachteil des Vertretenen?
+- Evidenz: War Missbrauch für Dritten auf den ersten Blick erkennbar?
+- Rechtsfolge: § 138 BGB (Kollusion) oder § 242 BGB (Evidenz ohne Kollusion)?

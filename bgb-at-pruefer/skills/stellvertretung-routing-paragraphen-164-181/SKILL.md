@@ -1,60 +1,85 @@
 ---
 name: stellvertretung-routing-paragraphen-164-181
-description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: eigene Erklärung, fremder Name, Vertretungsmacht, Wissenszurechnung, Vollmacht, Missbrauch, Insichgeschäft und Vertreter ohne Vertretungsmacht."
+description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilskills."
 ---
 
-# Stellvertretung Routing Paragraphen 164 181
+# Stellvertretung — Routing §§ 164 bis 181 BGB
 
-## Zweck
+## Mandantenfall
 
-Stellvertretungsprobleme vollständig, aber schlank sortieren.
+- Mitarbeiter schließt ohne ausdrückliche Vollmacht Vertrag ab — Vollmacht, Duldungs- oder Anscheinsvollmacht?
+- Prokurist überschreitet seine Vollmacht — §§ 177 bis 179 BGB oder Missbrauch der Vertretungsmacht?
+- Klausurkonstellation: Komplexes Stellvertretungsproblem mit mehreren Fragen — Routing zum richtigen Teilskill.
 
-## Normanker
+## Erste Schritte
 
-§§ 164-181 BGB
+1. Handeln in fremdem Namen prüfen: Offenkundigkeit nach § 164 Abs. 1 BGB gegeben?
+2. Vollmacht identifizieren: Innen- oder Außenvollmacht, Prokura, gesetzliche Vertretung?
+3. Vollmachtsumfang: Reicht die Vollmacht für das konkrete Geschäft aus?
+4. Bei fehlender Vollmacht: Duldungs- oder Anscheinsvollmacht als Rechtsscheintatbestand?
+5. Vollmachtsmissbrauch: Handeln im Außenverhältnis mit Vollmacht, aber gegen Innenverhältnis?
+6. Vertreter ohne Vertretungsmacht: §§ 177 bis 179 BGB — schwebende Unwirksamkeit und Haftung.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 164 BGB: Stellvertretung — Handeln im fremden Namen mit Vertretungsmacht.
+- § 167 BGB: Vollmachtserteilung — Innen- und Außenvollmacht.
+- § 168 BGB: Erlöschen der Vollmacht.
+- §§ 177 bis 179 BGB: Vertretung ohne Vertretungsmacht und Haftung des Vertreters.
+- § 181 BGB: Insichgeschäft — Selbstkontrahieren und Mehrfachvertretung.
 
 ## Prüfraster
 
-1. Bote, Vertreter, Organ und Vermittler trennen
-2. eigene Willenserklärung und Offenkundigkeit prüfen
-3. Vertretungsmacht aus Quelle und Umfang ableiten
-4. bei Mangel §§ 177-179 BGB oder Rechtsschein prüfen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Offenkundigkeit (§ 164 Abs. 1 BGB): Im fremden Namen oder im eigenen Namen gehandelt?
+2. Vollmacht vorhanden: Innen- oder Außenvollmacht, Prokura oder gesetzliche Vertretung?
+3. Vollmachtsumfang: Geschäft vom Umfang der Vollmacht gedeckt?
+4. Duldungs- oder Anscheinsvollmacht: Rechtsscheintatbestand und Zurechenbarkeit?
+5. Vollmachtsmissbrauch: Kenntnis/Kennenmüssen des Dritten vom Innenverhältnis-Verstoß?
+6. § 177 BGB: Genehmigung schwebend unwirksamen Vertreterhandelns?
+7. § 179 BGB: Haftung des vollmachtlosen Vertreters gegenüber Drittem?
+8. § 181 BGB: Insichgeschäft — Ausnahmen beachten?
+
+## Typische Fallstricke
+
+- Offenkundigkeit nach § 164 BGB ist Voraussetzung — Namensnennung nicht immer erforderlich.
+- Duldungsvollmacht setzt voraus, dass der Vertretene das Handeln kannte und duldete.
+- Anscheinsvollmacht erfordert, dass der Vertretene das Erscheinungsbild hätte erkennen und verhindern können.
+- § 181 BGB ist abdingbar durch ausdrückliche Gestattung — Ausnahme prüfen.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Routing-Schema: Vollmacht vorhanden → Umfang → Missbrauch → vollmachtloser Vertreter
+- Verweis auf Teilskills: vollmacht-erteilung-umfang-erloeschen, duldungs-anscheinsvollmacht, insichgeschaeft-paragraph-181
+- Prüfampel: Vertretungswirkung eingetreten / schwebend unwirksam / Haftung des Vertreters
+- Klausurlösungsskizze mit vollständigem Stellvertretungspfad
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
+- [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
+- [§ 179 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
+- [dejure.org § 164 BGB](https://dejure.org/gesetze/BGB/164.html)
+- [dejure.org § 181 BGB](https://dejure.org/gesetze/BGB/181.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Prüfungsreihenfolge Stellvertretung
 
+Empfohlene Reihenfolge: (1) Offenkundigkeit nach § 164 Abs. 1 BGB, (2) Vertretungsmacht
+(Vollmacht, Prokura, gesetzliche Vertretung), (3) Vollmachtsumfang, (4) Handeln im Rahmen
+der Vollmacht, (5) Ausnahmen: Duldungs-/Anscheinsvollmacht, (6) Vollmachtloser Vertreter
+(§§ 177 bis 179 BGB), (7) Insichgeschäft (§ 181 BGB).
 
-## Qualitäts-Hardening
+### Routing-Logik
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Dieser Skill dient als Einstiegspunkt. Bei komplexen Stellvertretungsfragen werden die spezifischen
+Teilskills aufgerufen: vollmacht-erteilung-umfang-erloeschen für Vollmachtsfragen,
+duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 für § 181 BGB.
+
+### Klausur-Checkliste Routing
+
+- Einstieg: Offenkundigkeit und Vollmacht als erste Prüfungspunkte?
+- Vollmacht vorhanden: Umfang ausreichend für das konkrete Geschäft?
+- Vollmacht fehlend: Rechtsschein (Duldung/Anschein) oder vollmachtloser Vertreter?
+- Insichgeschäft: § 181 BGB mit Ausnahmen geprüft?
+- Richtiger Teilskill für Detailprüfung ausgewählt?

@@ -1,68 +1,88 @@
 ---
 name: duldungs-anscheinsvollmacht
-description: "Prüft Duldungs- und Anscheinsvollmacht als Rechtsscheinvertretung: zurechenbarer Rechtsschein, Vertrauen, Gutgläubigkeit und Abgrenzung zur bloßen Gefälligkeit."
+description: "Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT nach BGH-Rechtsprechung: Voraussetzungen der Duldungsvollmacht (Kenntnis und Dulden), Anscheinsvollmacht (Erkennbarkeit bei pflichtgemäßer Sorgfalt) und Rechtsfolgen für Vertragspartner."
 ---
 
-# Duldungs Anscheinsvollmacht
+# Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH
 
-## Zweck
+## Mandantenfall
 
-Rechtsschein nur bei tragfähigem Vertrauen anerkennen.
+- Angestellter hat wiederholt ohne Vollmacht für sein Unternehmen Verträge geschlossen — Duldungsvollmacht des Arbeitgebers?
+- Prokurist handelt über seinen Prokuristenbereich hinaus — weiß der Inhaber es und duldet er es?
+- Klausurkonstellation: Einmaliges Handeln ohne Vollmacht — reicht das für Anscheinsvollmacht?
 
-## Normanker
+## Erste Schritte
 
-- Rechtsscheinvollmacht: Richterrecht; dogmatische Anknüpfung an §§ 164 ff. BGB (Stellvertretung) iVm § 242 BGB (Treu und Glauben) sowie §§ 170-172 BGB (außerhalb gesetzlich kodifizierter Rechtsschein-Vollmachten).
-- Duldungsvollmacht: Vertretener kennt das Handeln des Vertreters und lässt es zu — gilt als konkludente Bevollmächtigung (BGH ständige Rspr.).
-- Anscheinsvollmacht: Vertretener kennt das Handeln nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können — Rechtsfolge: Bindung nach Treu und Glauben.
-- Abgrenzung zur Gefälligkeit: kein Rechtsbindungswille beim Gefälligkeitsverhältnis (§§ 133, 157 BGB Auslegung).
-- §§ 170-173 BGB: Spezialregeln zum Rechtsscheinschutz bei Innenvollmacht, Vollmachtsurkunde und öffentlicher Bekanntmachung.
+1. Echte Vollmacht ausschließen — erst dann Rechtsscheinvollmacht prüfen.
+2. Duldungsvollmacht: Vertretener wusste von dem Handeln und hat es geduldet (wiederholtes Dulden).
+3. Anscheinsvollmacht: Vertretener wusste es nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen können.
+4. Dritter (Vertragspartner): gutgläubig bezüglich der Vollmacht des Handelnden?
+5. Rechtsfolge: Vertrag bindet den Vertretenen wie bei echter Vollmacht.
+6. Vertrauensschadenshaftung nach § 179 BGB als Alternative bei fehlendem Rechtsschein.
 
-## Praxis-Tipp
-- Bei Anscheinsvollmacht ist die Häufigkeit und Dauer des Auftretens wesentlich. Einmaliges Handeln genügt nach hM nicht.
-- Im B2B-Geschäftsverkehr gilt ein strengerer Sorgfaltsmaßstab (§ 347 HGB).
+## Rechtsrahmen
 
-## Intake
-
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 167 BGB: Vollmachtserteilung — Abgrenzung zur Rechtsscheinvollmacht.
+- § 242 BGB: Treu und Glauben — dogmatische Grundlage der Duldungs- und Anscheinsvollmacht.
+- § 172 BGB: Vollmachtsurkunde als Rechtsschein-Grundlage.
+- § 173 BGB: Erlöschen der Vollmacht bei Gutgläubigkeit des Dritten.
+- § 179 BGB: Haftung des Vertreters ohne Vertretungsmacht als Auffangnorm.
 
 ## Prüfraster
 
-1. wiederholtes Vertreterauftreten feststellen
-2. Kenntnis oder pflichtwidrige Unkenntnis des Vertretenen prüfen
-3. schutzwürdiges Vertrauen des Dritten bewerten
-4. Duldungs- und Anscheinsvollmacht trennen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Echte Vollmacht ausgeschlossen?
+2. Duldungsvollmacht: Kenntnis des Vertretenen und wiederholtes Dulden nachgewiesen?
+3. Anscheinsvollmacht: Vertretener hätte bei pflichtgemäßer Sorgfalt erkennen können?
+4. Gutgläubigkeit des Dritten: Kannte oder musste er die fehlende Vollmacht kennen?
+5. Vollmachtsumfang: Für welche Geschäfte erstreckt sich der Rechtsschein?
+6. Rechtsfolge: Vertrag wirksam; Vertretener gebunden wie bei echter Vollmacht?
+7. Alternative § 179 BGB: Was haftet der Vertreter ohne Vertretungsmacht?
+
+## Typische Fallstricke
+
+- Duldungsvollmacht erfordert Wiederholung und positive Kenntnis, nicht nur Kennenmüssen.
+- Anscheinsvollmacht: Einmalige Handlung ohne Wissen des Vertretenen begründet noch keine Vollmacht.
+- Dritter muss gutgläubig sein — bei grob fahrlässiger Unkenntnis kein Vertrauensschutz.
+- BGH-Linie: Hohe Anforderungen an Anscheinsvollmacht, insbesondere bei ungewöhnlichen Geschäften.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Prüfungsschema: echte Vollmacht — Duldungsvollmacht — Anscheinsvollmacht — § 179 BGB
+- Gutachtenstil-Abschnitt mit vollständiger Subsumtion
+- BGH-Rechtsprechungs-Überblick zu Anforderungen
+- Klausurlösungsskizze mit Ergebnis
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
+- [§ 172 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__172.html)
+- [§ 179 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
+- [dejure.org § 167 BGB](https://dejure.org/gesetze/BGB/167.html)
+- [dejure.org § 179 BGB](https://dejure.org/gesetze/BGB/179.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Unterschied Duldungs- und Anscheinsvollmacht
 
+Duldungsvollmacht: Der Vertretene weiß, dass sein Vertreter ohne Vollmacht handelt, und duldet
+dies. Er muss den Rechtsschein kennen. Zurechnungsgrundlage: Wissen und Dulden.
 
-## Qualitäts-Hardening
+Anscheinsvollmacht: Der Vertretene weiß nichts von dem vollmachtlosen Handeln, aber er hätte es
+bei pflichtgemäßer Sorgfalt erkennen und verhindern können. Zurechnungsgrundlage: Fahrlässigkeit
+und Erkennbarkeit.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Voraussetzungen im Detail
+
+Duldungsvollmacht: (1) Handeln ohne Vollmacht, (2) Kenntnis des Vertretenen, (3) Dulden (kein
+Eingreifen), (4) Gutgläubigkeit des Dritten.
+
+Anscheinsvollmacht: (1) Handeln ohne Vollmacht, (2) Kein Wissen des Vertretenen, (3) Hätte
+erkennen und verhindern können, (4) Gutgläubigkeit des Dritten.
+
+### Klausur-Checkliste Rechtsscheins-Vollmacht
+
+- Formelle Vollmacht vorhanden? (Wenn ja, kein Raum für Duldungs-/Anscheinsvollmacht)
+- Duldungsvollmacht: Vertretener kannte das vollmachtlose Handeln und duldet es?
+- Anscheinsvollmacht: Hätte Vertretener es erkennen und verhindern können?
+- Gutgläubigkeit des Dritten in beiden Fällen erforderlich?
+- Rechtsfolge: Vollmacht gilt als erteilt — Vertrag mit Vertretungswirkung?

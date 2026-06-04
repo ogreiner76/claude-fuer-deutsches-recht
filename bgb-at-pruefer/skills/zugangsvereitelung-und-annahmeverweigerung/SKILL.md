@@ -1,60 +1,88 @@
 ---
 name: zugangsvereitelung-und-annahmeverweigerung
-description: "Prüft Zugangsvereitelung, Annahmeverweigerung, verspätete Kenntnisnahme und erneuten Zustellversuch bei empfangsbedürftigen Willenserklärungen."
+description: "Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug."
 ---
 
-# Zugangsvereitelung Und Annahmeverweigerung
+# Zugangsvereitelung und Annahmeverweigerung
 
-## Zweck
+## Mandantenfall
 
-Zugang bei treuwidriger Empfangserschwerung bewerten.
+- Empfänger beauftragt Briefkastenentleerung nach draußen, um Kündigung nicht zu erhalten — fiktiver Zugang?
+- Schuldner verweigert Annahme des Einschreibens mit Kündigung — Zugang nach § 242 BGB?
+- Klausurkonstellation: E-Mail-Provider blockiert bewusst Nachrichten des Gläubigers — Zugangsvereitelung.
 
-## Normanker
+## Erste Schritte
 
-§ 130 BGB und § 242 BGB
+1. Zugangsvereitelung feststellen: Hat der Empfänger aktiv den Zugang verhindert?
+2. Maßstab § 242 BGB: Empfänger darf sich nicht auf ausgebliebenen Zugang berufen, wenn er ihn vereitelt hat.
+3. Fiktiver Zugang: Zeitpunkt, zu dem der Zugang bei pflichtgemäßem Verhalten eingetreten wäre.
+4. Abgrenzung: Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB — Gläubigerverzug.
+5. Bewusstes Handeln des Empfängers: Vorsatz oder zumindest billigende Inkaufnahme erforderlich.
+6. Rechtsfolge: Erklärung gilt als zugegangen — Fristen beginnen zu laufen.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 242 BGB: Treu und Glauben — Empfänger kann sich nicht auf Zugangsvereitelung berufen.
+- § 130 BGB: Zugangserfordernis für empfangsbedürftige Willenserklärungen.
+- § 293 BGB: Gläubigerverzug bei Annahmeverweigerung körperlicher Leistungen.
+- § 162 BGB: Treuwidrige Vereitelung einer Bedingung — analoger Rechtsgedanke.
+- § 826 BGB: Schadensersatz bei vorsätzlicher sittenwidriger Schädigung durch Zugangsvereitelung.
 
 ## Prüfraster
 
-1. normalen Zugang zuerst prüfen
-2. Verantwortungsbereich des Scheiterns bestimmen
-3. Annahmeverweigerung und Vereitelung trennen
-4. erneuten Zustellversuch oder Zugangsfiktion begründen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Zugangsvereitelung: Hat der Empfänger aktiv und bewusst den Zugang verhindert?
+2. Kausalität: Ohne das vereitelende Verhalten wäre die Erklärung zugegangen?
+3. Zeitpunkt des fiktiven Zugangs: Wann wäre die Erklärung bei normalem Verlauf zugegangen?
+4. Abgrenzung Annahmeverweigerung: Geht es um eine körperliche Leistung (§ 293 BGB) oder Willenserklärung?
+5. § 242 BGB: Treu und Glauben — Empfänger kann sich auf fehlenden Zugang nicht berufen.
+6. Rechtsfolge des fiktiven Zugangs: Fristen beginnen zu laufen, Erklärung wird wirksam.
+7. Schadensersatz nach § 826 BGB bei vorsätzlicher Zugangsvereitelung?
+
+## Typische Fallstricke
+
+- Fahrlässige Nichtkenntnisnahme ist keine Zugangsvereitelung — Vorsatz oder bedingter Vorsatz nötig.
+- Urlaubsabwesenheit ohne Vorkehrungen ist grundsätzlich keine Zugangsvereitelung.
+- Annahmeverweigerung körperlicher Leistungen führt zu Gläubigerverzug nach § 293 BGB, nicht zu fiktivem Zugang.
+- § 242 BGB greift nur, wenn Empfänger aktiv vorging — bloßes Unterlassen reicht nicht.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zur Zugangsvereitelung mit § 242 BGB-Subsumtion
+- Prüfampel: Zugang fiktiv nach § 242 BGB / Annahmeverweigerung § 293 BGB / kein fiktiver Zugang
+- Klausurlösungsskizze mit Zeitpunkt des fiktiven Zugangs und Fristbeginn
+- Rückfragenliste zu Vorsatzelement und Ursächlichkeit der Vereitelung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
+- [§ 293 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__293.html)
+- [dejure.org § 242 BGB](https://dejure.org/gesetze/BGB/242.html)
+- [dejure.org § 130 BGB](https://dejure.org/gesetze/BGB/130.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Abgrenzung verschiedener Fallgruppen
 
+Fallgruppe 1 — Aktive Zugangsvereitelung: Empfänger beauftragt Postweiterleitung weg, schaltet
+E-Mail ab, verbarrikadiert Briefkasten. Fiktiver Zugang nach § 242 BGB.
 
-## Qualitäts-Hardening
+Fallgruppe 2 — Passive Nichtkenntnisnahme: Empfänger leert Briefkasten nicht, öffnet E-Mails
+nicht. Grundsätzlich kein fiktiver Zugang — mangelnde Sorgfalt ist nicht treuwidrig.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Fallgruppe 3 — Annahmeverweigerung körperliche Leistung: Gläubiger nimmt Werkleistung nicht an.
+§ 293 BGB: Gläubigerverzug — Schuldner haftet nur noch für Vorsatz und grobe Fahrlässigkeit.
+
+### Fiktiver Zugangszeitpunkt
+
+Wenn fiktiver Zugang nach § 242 BGB angenommen wird: Der Zeitpunkt ist der, zu dem die Erklärung
+bei pflichtgemäßem Verhalten zugegangen wäre. Maßgeblich ist der normale Postlauf oder die normale
+E-Mail-Übertragungszeit.
+
+### Klausur-Checkliste Zugangsvereitelung
+
+- Aktive Vereitelung: Hat Empfänger bewusst den Zugang verhindert?
+- Passive Nichtkenntnisnahme: Kein Vorsatz — kein fiktiver Zugang nach § 242 BGB?
+- Annahmeverweigerung körperlicher Leistung: § 293 BGB Gläubigerverzug?
+- Fiktiver Zugangszeitpunkt: Wann wäre die Erklärung bei normalem Verlauf zugegangen?
+- Rechtsfolgen: Fristbeginn, Wirksamkeit der Erklärung, Schadensersatz?

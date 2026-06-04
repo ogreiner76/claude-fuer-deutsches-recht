@@ -1,60 +1,88 @@
 ---
 name: einseitige-geschaefte-minderjaehrige-paragraph-111
-description: "Prüft einseitige Rechtsgeschäfte Minderjähriger nach § 111 BGB, insbesondere Kündigung, Anfechtung, Rücktritt, Vollmachtserteilung und Zugang gegenüber dem Minderjährigen."
+description: "Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag."
 ---
 
-# Einseitige Geschaefte Minderjaehrige Paragraph 111
+# Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
 
-## Zweck
+## Mandantenfall
 
-Einseitige Rechtsgeschäfte Minderjähriger streng von Verträgen trennen.
+- Minderjähriger kündigt ohne Wissen der Eltern sein Arbeitsverhältnis — wirksam nach § 111 BGB?
+- Vertragspartner erklärt Rücktritt gegenüber einem Minderjährigen ohne Zustimmung der Eltern — was gilt?
+- Klausurkonstellation: Anfechtungserklärung eines Minderjährigen — Unterschied zu zweiseitigem Vertragsschluss.
 
-## Normanker
+## Erste Schritte
 
-§ 111 BGB
+1. Einseitiges Rechtsgeschäft identifizieren: Kündigung, Anfechtung, Rücktritt, Aufrechnung.
+2. § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung des Vertreters sind unwirksam.
+3. Besonderheit: Bei einseitigen Rechtsgeschäften keine Genehmigungsmöglichkeit wie bei § 108 BGB.
+4. Gegenüber Minderjährigem: § 111 S. 2 BGB — Erklärung unwirksam, wenn Gegner Einwilligung nicht hatte.
+5. Ausnahme: Lediglich rechtlich vorteilhafte einseitige Geschäfte nach § 107 BGB.
+6. Heilung: Im Unterschied zu zweiseitigen Verträgen keine Genehmigung möglich.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung sind unwirksam, keine Genehmigung möglich.
+- § 107 BGB: Lediglich rechtlich vorteilhafte Geschäfte auch ohne Einwilligung wirksam.
+- § 108 BGB: Zweiseitige Verträge — Genehmigung möglich; gilt nicht für § 111 BGB-Fälle.
+- § 109 BGB: Widerrufsrecht des Vertragspartners bei schwebendem Geschäft.
+- §§ 1626 ff. BGB: Elterliche Sorge und gesetzliche Vertretung Minderjähriger.
 
 ## Prüfraster
 
-1. einseitige Erklärung identifizieren
-2. vorherige Einwilligung prüfen
-3. nachträgliche Genehmigung nicht vorschnell genügen lassen
-4. Zugang an Minderjährige gesondert prüfen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Ist das Rechtsgeschäft einseitig (Kündigung, Anfechtung, Rücktritt)?
+2. Liegt beschränkte Geschäftsfähigkeit vor (§ 106 BGB)?
+3. Einwilligung des gesetzlichen Vertreters vor Vornahme des einseitigen Geschäfts?
+4. Lediglich rechtlich vorteilhaft nach § 107 BGB — dann ausnahmsweise wirksam.
+5. Keine Genehmigung möglich nach § 111 BGB — anders als bei zweiseitigem Vertrag.
+6. Bei einseitigem Geschäft gegenüber Minderjährigem: § 111 S. 2 BGB beachten.
+7. Rechtsfolge: unwirksam von Anfang an, nicht schwebend unwirksam.
+
+## Typische Fallstricke
+
+- § 111 BGB-Unwirksamkeit ist endgültig — keine Heilung durch nachträgliche Genehmigung möglich.
+- Verwechslung mit § 108 BGB ist ein häufiger Klausurfehler: nur für zweiseitige Verträge gilt Genehmigung.
+- Gegenüber Minderjährigem abgegebene einseitige Erklärungen: §§ 111 und 131 BGB beachten.
+- Taschengeld-Paragraph § 110 BGB gilt nur für Verträge, nicht für einseitige Geschäfte.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Prüfungsschema einseitiges Rechtsgeschäft mit Minderjährigem
+- Abgrenzungstabelle: § 111 BGB vs. § 108 BGB
+- Gutachtenstil-Abschnitt mit Subsumtion
+- Klausurlösungsskizze: Kündigung durch Minderjährigen
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 111 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__111.html)
+- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
+- [dejure.org § 111 BGB](https://dejure.org/gesetze/BGB/111.html)
+- [dejure.org § 108 BGB](https://dejure.org/gesetze/BGB/108.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### § 111 BGB im Überblick
 
+§ 111 BGB schützt den Erklärungsempfänger bei einseitigen Rechtsgeschäften eines Minderjährigen:
+Ohne vorherige Einwilligung des gesetzlichen Vertreters sind sie unwirksam (nicht nur schwebend
+unwirksam). Eine nachträgliche Genehmigung ist nicht möglich.
 
-## Qualitäts-Hardening
+### Unterschied zu § 108 BGB
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Bei Verträgen gilt § 108 BGB: Schwebende Unwirksamkeit mit Genehmigungsmöglichkeit.
+Bei einseitigen Rechtsgeschäften gilt § 111 BGB: Endgültige Unwirksamkeit ohne Einwilligung.
+Dies ist der wesentliche Unterschied, den Klausuren regelmäßig testen.
+
+### Anwendungsfälle § 111 BGB
+
+Kündigung, Rücktritt, Anfechtung, Mahnungen und ähnliche Gestaltungsrechte sind einseitige
+Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserfordernis nach § 111 BGB.
+
+### Klausur-Checkliste § 111 BGB
+
+- Liegt ein einseitiges Rechtsgeschäft vor (keine Vertrag, nur eine WE)?
+- Minderjähriger ohne vorherige Einwilligung des gesetzlichen Vertreters gehandelt?
+- § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
+- Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
+- Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?

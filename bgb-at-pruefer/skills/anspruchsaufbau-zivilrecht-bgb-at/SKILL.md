@@ -1,60 +1,85 @@
 ---
 name: anspruchsaufbau-zivilrecht-bgb-at
-description: "Anspruchsaufbau im Zivilrecht mit präziser Einordnung von BGB-AT-Themen in Anspruch entstanden, erloschen und durchsetzbar; vermeidet freischwebende Vorprüfungen und baut ein sauberes Gutachten."
+description: "Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil."
 ---
 
-# Anspruchsaufbau Zivilrecht Bgb At
+# Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil
 
-## Zweck
+## Mandantenfall
 
-BGB-AT-Probleme an der richtigen Stelle im Anspruch prüfen.
+- Student der Rechtswissenschaften bereitet Examen vor und sucht eine klare Aufbaustruktur für BGB-AT-Klausurfälle.
+- Mandant schildert komplexen Sachverhalt — welche Ansprüche kommen in Betracht, in welcher Reihenfolge prüfen?
+- Klausurkonstellation: Sachverhalt mit mehreren Parteien und überkreuzenden Ansprüchen — wie systematisch vorgehen?
 
-## Normanker
+## Erste Schritte
 
-BGB Anspruchssystem
+1. Fallfrage lesen: Wer verlangt was von wem woraus? (Anspruchsformel aufstellen).
+2. Anspruchsgrundlage suchen: Vertrag, Delikt, ungerechtfertigte Bereicherung, Eigentum.
+3. Tatbestand der Anspruchsgrundlage vollständig prüfen: Voraussetzungen nacheinander.
+4. Rechtsfolge feststellen: Entsteht der Anspruch dem Grunde nach?
+5. Einwendungen prüfen: Nichtigkeit, Anfechtung, Erlöschen, Erfüllung, Aufrechnung.
+6. Einreden prüfen: Verjährung, Zurückbehaltungsrecht, § 242 BGB.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 241 ff. BGB: Schuldverhältnisse — vertragliche Hauptpflichten und Nebenpflichten.
+- §§ 823 ff. BGB: Deliktsrecht als außervertragliche Haftungsgrundlage.
+- §§ 812 ff. BGB: Bereicherungsrecht — Ansprüche ohne vertragliche Grundlage.
+- § 985 BGB: Herausgabeanspruch des Eigentümers als dinglicher Anspruch.
+- §§ 194 ff. BGB: Verjährung als Einrede gegen fällige Ansprüche.
+- § 242 BGB: Treu und Glauben als übergeordneter Maßstab für die Ausübung von Rechten.
 
 ## Prüfraster
 
-1. Anspruchsgrundlage und Begehren bestimmen
-2. Vertragsschluss und Wirksamkeit beim Entstehen prüfen
-3. Anfechtung, Genehmigung und Bedingung dort prüfen, wo sie die Anspruchslage ändern
-4. Verjährung bei Durchsetzbarkeit platzieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Anspruchsformel: Wer will was von wem auf welcher Grundlage?
+2. Anspruchsgrundlage identifizieren und in Normenpyramide einordnen.
+3. Tatbestand vollständig abarbeiten: Jedes Tatbestandsmerkmal eigener Prüfpunkt.
+4. Rechtswidrigkeit und Verschulden bei Deliktsrecht gesondert prüfen.
+5. Einwendungen ex officio prüfen (Nichtigkeit); Einreden nur auf Antrag.
+6. Anspruchskonkurrenz: Mehrere Anspruchsgrundlagen — Idealkonkurrenz oder Spezialität?
+7. Ergebnis mit Prüfampel: Anspruch besteht — Anspruch besteht nicht — Anspruch bedingt.
+
+## Typische Fallstricke
+
+- Aufbaufehler: Einwendungen prüfen, bevor der Anspruch dem Grunde nach besteht.
+- Gutachtenstil in der Klausur: Zwischenergebnisse formulieren, nicht nur Ergebnis hinschreiben.
+- Anspruchskonkurrenz nicht vergessen: Beide Ansprüche können nebeneinander bestehen.
+- § 242 BGB nur als letztes Korrektiv einsetzen, nicht als Allheilmittel.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Anspruchsaufbau-Schema als tabellarische Übersicht
+- Klausurlösungsskizze im Gutachtenstil für einen konkreten Fall
+- Checkliste: Einwendungen und Einreden systematisch
+- Hinweise zu Anspruchskonkurrenz und Reihenfolge der Prüfung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 241 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__241.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [§ 823 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__823.html)
+- [§ 812 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__812.html)
+- [dejure.org § 241 BGB](https://dejure.org/gesetze/BGB/241.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Gutachtenstil vs. Urteilsstil
 
+Im juristischen Studium und Examen ist der Gutachtenstil Pflicht: Obersatz (hypothetisch), Definitionen,
+Subsumtion, Ergebnis. Im Urteilsstil beginnt man mit dem Ergebnis und folgt mit der Begründung — nur
+für offensichtliche Punkte in Klausuren akzeptabel.
 
-## Qualitäts-Hardening
+### Strukturhilfe für den Anspruchsaufbau
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Der Dreiklang jeder Anspruchsprüfung:
+(1) Anspruch entstanden: Tatbestandsmerkmale prüfen
+(2) Anspruch nicht erloschen: Erfüllung, Aufrechnung, Erlass, Verjährung
+(3) Anspruch durchsetzbar: Einreden (z.B. § 273 BGB Zurückbehaltungsrecht)
+
+### Klausur-Checkliste Anspruchsaufbau
+
+- Wer will was von wem woraus — vier Grundfragen gestellt?
+- Anspruchsgrundlage aus dem Sachverhalt herausgearbeitet?
+- Tatbestandsmerkmale vollständig definiert und subsumiert?
+- Erlöschensgründe geprüft (Erfüllung § 362, Aufrechnung § 387, Verjährung §§ 194 ff. BGB)?
+- Durchsetzbarkeit: Einreden und Einwendungen geprüft?

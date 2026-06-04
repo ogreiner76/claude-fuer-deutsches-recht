@@ -1,60 +1,83 @@
 ---
 name: rechtlich-vorteilhaft-paragraph-107
-description: "Prüft § 107 BGB: rechtlich lediglich vorteilhafte Geschäfte Minderjähriger, rechtliche Nachteile, neutrale Geschäfte und Abgrenzung zu wirtschaftlicher Vorteilhaftigkeit."
+description: "Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligung des Vertreters, wenn das Geschäft keinen rechtlichen Nachteil bringt. Abgrenzung zu wirtschaftlichen Vorteilen, gemischte Rechtsgeschäfte und Schenkung mit Auflagen."
 ---
 
-# Rechtlich Vorteilhaft Paragraph 107
+# Lediglich rechtlich vorteilhaft — § 107 BGB
 
-## Zweck
+## Mandantenfall
 
-Streng rechtliche, nicht wirtschaftliche Vorteilhaftigkeit bewerten.
+- 14-Jähriger erhält Schenkung eines Grundstücks ohne elterliche Einwilligung — wirksam nach § 107 BGB?
+- Minderjähriger wird aus einer Bürgschaft entlassen — lediglich rechtlich vorteilhaft?
+- Klausurkonstellation: Schenkung mit Auflage an Minderjährigen — Auflage als rechtlicher Nachteil?
 
-## Normanker
+## Erste Schritte
 
-§ 107 BGB
+1. Geschäftsfähigkeit des Minderjährigen nach §§ 104 bis 106 BGB prüfen.
+2. § 107 BGB: Einwilligung des gesetzlichen Vertreters entbehrlich, wenn das Geschäft lediglich rechtlich vorteilhaft ist.
+3. Maßstab: Rechtliche — nicht wirtschaftliche — Betrachtung; OLG-Rspr. zur Einheitlichkeit.
+4. Schenkung mit Auflage: Auflage als rechtliche Verpflichtung begründet Nachteil.
+5. Grundstückserwerb: Grundbuchbelastungen prüfen — Hypothek, Grundschuld, Nießbrauch als Nachteile.
+6. Rechtsfolge bei fehlendem Vorteil: schwebende Unwirksamkeit nach § 108 BGB, Genehmigung erforderlich.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 107 BGB: Einwilligungsfreiheit bei lediglich rechtlich vorteilhaften Geschäften.
+- §§ 104 bis 106 BGB: Geschäftsfähigkeit Minderjähriger als Grundlage.
+- § 108 BGB: Schwebende Unwirksamkeit ohne Einwilligung.
+- § 109 BGB: Widerrufsrecht des Dritten bis zur Genehmigung.
+- § 516 BGB: Schenkung — Hauptanwendungsfall von § 107 BGB.
 
 ## Prüfraster
 
-1. Rechte, Pflichten und Rechtsverluste erfassen
-2. schuldrechtliche und dingliche Ebene trennen
-3. Nebenpflichten, Lasten und Gewährleistungsrisiken prüfen
-4. bei Nachteil in Zustimmung/Genehmigung weiterleiten
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Minderjähriger: Alter und Geschäftsfähigkeitsstufe nach §§ 104 bis 106 BGB?
+2. Rechtlicher Vorteil: Erlangt der Minderjährige ein Recht ohne rechtliche Pflicht?
+3. Grundstückserwerb: Sind Belastungen im Grundbuch eingetragen — Nachteil nach h.M.?
+4. Auflage bei Schenkung: Begründet Auflage eine rechtliche Verpflichtung — Nachteil?
+5. Wirtschaftliche Betrachtung ausschließen: Nur rechtliche Nachteilsprüfung maßgeblich.
+6. Konsequenz: Einwilligung erforderlich oder schwebende Unwirksamkeit nach § 108 BGB?
+7. Widerruf des Dritten nach § 109 BGB bis zur Genehmigung?
+
+## Typische Fallstricke
+
+- Wirtschaftliche Vorteile sind irrelevant — nur rechtliche Betrachtung nach § 107 BGB.
+- Grundstückserwerb mit Grundschuldeintragung ist nicht mehr lediglich vorteilhaft — häufiger Klausurfehler.
+- Schenkung mit Auflagen begründet rechtliche Pflichten — kein lediglich rechtlicher Vorteil.
+- § 107 BGB gilt nur für beschränkt Geschäftsfähige, nicht für Geschäftsunfähige (§ 104 BGB).
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu § 107 BGB mit vollständiger Subsumtion
+- Checkliste: rechtlicher Vorteil bejaht / verneint / gemischtes Geschäft
+- Prüfampel: wirksam ohne Einwilligung / schwebend unwirksam / nichtig
+- Klausurlösungsskizze mit § 108 BGB-Folgeprüfung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
+- [§ 109 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__109.html)
+- [dejure.org § 107 BGB](https://dejure.org/gesetze/BGB/107.html)
+- [dejure.org § 108 BGB](https://dejure.org/gesetze/BGB/108.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Grundbucheintragungen als Nachteil
 
+Die h.M. geht davon aus, dass ein Grundstückserwerb nicht lediglich vorteilhaft ist, wenn das
+Grundstück mit einer Hypothek, Grundschuld oder einem Nießbrauch belastet ist. Die Belastung
+ist eine rechtliche Pflicht, auch wenn sie wirtschaftlich neutral oder sogar vorteilhaft wäre.
 
-## Qualitäts-Hardening
+### Praxisrelevanz bei Schenkungen
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Eltern schenken Minderjährigem ein Grundstück: Wenn das Grundstück schuldenfrei ist, gilt die
+Schenkung als lediglich rechtlich vorteilhaft (§ 107 BGB). Wenn eine Grundschuld eingetragen ist,
+ist eine Einwilligung des gesetzlichen Vertreters erforderlich (§ 108 BGB).
+
+### Klausur-Checkliste § 107 BGB
+
+- Geschäft erlangt der Minderjährige ein Recht oder wird er von einer Pflicht befreit?
+- Rein rechtliche Betrachtung: Entstehen durch das Geschäft rechtliche Pflichten?
+- Grundstückserwerb: Sind im Grundbuch Belastungen eingetragen?
+- Schenkung mit Auflage: Auflage als rechtliche Pflicht des Minderjährigen?
+- Wirtschaftliche Vorteile bleiben außer Betracht — nur rechtliche Betrachtung?

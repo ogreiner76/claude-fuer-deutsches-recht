@@ -1,60 +1,87 @@
 ---
 name: wucher-und-ausbeutung-paragraph-138-2
-description: "Prüft Wucher und wucherähnliche Geschäfte nach § 138 Abs. 2 BGB: auffälliges Missverhältnis, Schwächesituation, Ausbeutung, subjektive Kenntnis und Gesamtwürdigung."
+description: "Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrigkeit nach § 138 Abs. 1 BGB."
 ---
 
-# Wucher Und Ausbeutung Paragraph 138 2
+# Wucher und Ausbeutung — § 138 Abs. 2 BGB
 
-## Zweck
+## Mandantenfall
 
-Austauschverhältnisse mit Ausbeutungsverdacht bewerten.
+- Darlehen zu 40 % Zinsen an Person in finanzieller Notlage — Wucher nach § 138 Abs. 2 BGB?
+- Grundstückskauf für ein Viertel des Marktwertes — wucherähnliches Geschäft oder § 138 Abs. 1 BGB?
+- Klausurkonstellation: Unerfahrener Schüler unterschreibt überteuerten Dienstleistungsvertrag.
 
-## Normanker
+## Erste Schritte
 
-§ 138 Abs. 2 BGB
+1. Tatbestand § 138 Abs. 2 BGB prüfen: Leistung und Gegenleistung in auffälligem Missverhältnis.
+2. Ausbeutungselement: Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder erhebliche Willensschwäche.
+3. Subjektives Element: Wucherer muss die Missverhältnis-Situation kennen und ausnutzen wollen.
+4. Quantitativer Maßstab: Gerichte nehmen bei Mietrecht doppelter Wert, bei Darlehen mehr als doppelt übliche Zinsen als Richtwert.
+5. Abgrenzung § 138 Abs. 1 BGB: Wucherähnliches Geschäft — objektives Missverhältnis plus verwerfliche Gesinnung.
+6. Rechtsfolge: Nichtigkeit des Rechtsgeschäfts ex tunc nach § 138 Abs. 1 BGB; Rückabwicklung nach § 812 BGB.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 138 Abs. 2 BGB: Nichtigkeit bei Wucher — Tatbestand mit Missverhältnis und Ausbeutungselement.
+- § 138 Abs. 1 BGB: Allgemeine Sittenwidrigkeit — Auffangtatbestand für wucherähnliche Geschäfte.
+- § 812 BGB: Ungerechtfertigte Bereicherung — Rückabwicklung bei nichtigen Rechtsgeschäften.
+- § 242 BGB: Treu und Glauben als Prüfungsmaßstab bei Grenzfällen.
+- §§ 291 bis 302 StGB: Strafrechtlicher Wuchertatbestand — parallel zu § 138 BGB.
 
 ## Prüfraster
 
-1. Leistung und Gegenleistung am Marktwert messen
-2. Schwächesituation feststellen
-3. Ausbeutung und Kenntnis indizieren
-4. Abgrenzung zu § 138 Abs. 1 BGB dokumentieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Leistung und Gegenleistung bestimmen — was ist das Missverhältnis konkret?
+2. Auffälliges Missverhältnis: Liegt Markt- oder Verkehrswert deutlich unter oder über der vereinbarten Leistung?
+3. Ausbeutungselement: Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder Willensschwäche feststellbar?
+4. Subjektives Wucherelement: Kenntnis und Ausnutzungswille des Begünstigten?
+5. Abgrenzung § 138 Abs. 1 BGB: Verwerfliche Gesinnung bei fehlendem Wucher-Tatbestand?
+6. Rechtsfolge: Nichtigkeit und Rückabwicklung nach § 812 BGB?
+7. Teilnichtigkeit: Kann der Vertrag auf ein zulässiges Maß reduziert werden (§ 139 BGB analog)?
+
+## Typische Fallstricke
+
+- Wucher nach § 138 Abs. 2 BGB erfordert subjektives Element — nur objektives Missverhältnis reicht nicht.
+- Wucherähnliches Geschäft nach § 138 Abs. 1 BGB: Kein Ausbeutungselement nötig, aber verwerfliche Gesinnung.
+- Bei Darlehen: Überschreitung des marktüblichen Zinssatzes um 100 % oder mehr als Richtwert des BGH.
+- § 139 BGB: Gericht kann nicht auf zulässige Konditionen reduzieren ohne ausdrückliche Bestimmung.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu § 138 Abs. 2 BGB mit Abgrenzung zu Abs. 1
+- Prüfampel: Wucher bejaht / wucherähnliches Geschäft / nur Sittenwidrigkeit § 138 Abs. 1 BGB
+- Klausurlösungsskizze mit Rückabwicklung nach § 812 BGB
+- Rückfragenliste zu Marktwertnachweisen und Ausbeutungssituation
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 138 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__138.html)
+- [§ 812 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__812.html)
+- [§ 139 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__139.html)
+- [dejure.org § 138 BGB](https://dejure.org/gesetze/BGB/138.html)
+- [dejure.org § 812 BGB](https://dejure.org/gesetze/BGB/812.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Quantitative Maßstäbe der Rechtsprechung
 
+BGH zu Mietwucher: Überschreitung des ortsüblichen Mietzinses um mehr als 50 % ist Anhaltspunkt
+für auffälliges Missverhältnis nach § 138 Abs. 2 BGB. Bei Darlehen: Mehr als doppelt so hoher
+Zinssatz wie marktüblich.
 
-## Qualitäts-Hardening
+BGH zu Grundstückskauf: Wenn der Kaufpreis weniger als die Hälfte des Verkehrswerts beträgt,
+spricht eine Vermutung für wucherähnliches Geschäft nach § 138 Abs. 1 BGB (objektives Missverhältnis
+plus verwerfliche Gesinnung).
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Verhältnis zu § 291 StGB
+
+§ 291 StGB (Wucher) und § 138 Abs. 2 BGB greifen parallel. Die zivilrechtliche Nichtigkeit ist
+unabhängig von einer strafrechtlichen Verurteilung. § 291 StGB hat höheren Verschuldensgradanforderung
+(Vorsatz), § 138 Abs. 2 BGB hingegen reicht Kenntnis der Missverhältnissituation.
+
+### Klausur-Checkliste § 138 Abs. 2 BGB
+
+- Leistung und Gegenleistung quantitativ bestimmt und verglichen?
+- Marktüblicher Wert als Vergleichsmaßstab festgestellt?
+- Ausbeutungselement: Zwangslage, Unerfahrenheit, Willensschwäche konkret?
+- Subjektives Element: Kenntnis und Ausnutzungswille des Begünstigten?
+- Abgrenzung § 138 Abs. 1 BGB: Fehlt das Ausbeutungselement — verwerfliche Gesinnung?

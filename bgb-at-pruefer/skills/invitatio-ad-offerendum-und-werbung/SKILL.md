@@ -1,60 +1,83 @@
 ---
 name: invitatio-ad-offerendum-und-werbung
-description: "Grenzt Angebot von invitatio ad offerendum, Werbung, Preisschild, Katalog, Online-Shop, Plattformlisting und unverbindlicher Verhandlungsaufforderung ab."
+description: "Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und Online-Shop als bloße Aufforderung zur Angebotsabgabe, verbindliche Preisauszeichnung, automatisierte Bestellbestätigung. Output: Subsumtionsraster und Gutachtenstil."
 ---
 
-# Invitatio Ad Offerendum Und Werbung
+# Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?
 
-## Zweck
+## Mandantenfall
 
-Bindungswillen im Markt- und Plattformkontext bewerten.
+- Online-Shop listet Artikel für 1 € statt 100 € — Preisfehler: Ist die Preisangabe ein verbindliches Angebot?
+- Schaufensterwerbung mit Preisschild: Kunde fordert Verkauf zum angezeigten Preis — Angebot oder invitatio?
+- Klausurkonstellation: Katalogversand eines Händlers enthält konkrete Mengen- und Preisangaben — Bindungswirkung?
 
-## Normanker
+## Erste Schritte
 
-§§ 145 ff. BGB
+1. Willenserklärung des Werbenden prüfen: Enthält die Werbung alle wesentlichen Vertragsbestandteile (essentialia negotii)?
+2. Rechtsbindungswille: Wollte der Erklärende sich verbindlich binden oder nur zur Angebotsabgabe auffordern?
+3. Auslegung nach §§ 133 und 157 BGB: Empfängerhorizont eines objektiven Dritten anlegen.
+4. Lagerbestand und Kapazitätsgrenzen: Kann ein Anbieter bei Massengeschäften an unbegrenzt viele Kunden gebunden sein?
+5. Automatisierte Bestellbestätigung: Ist sie Annahme oder nur Eingangsbestätigung?
+6. Rechtsfolge: Vertragsschluss oder Anfechtung wegen Irrtums (§ 119 Abs. 1 BGB) bei Preisfehler.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 145 BGB: Antrag — Bindungswirkung für den Antragenden.
+- § 147 BGB: Annahmefrist unter Anwesenden und Abwesenden.
+- §§ 133 und 157 BGB: Auslegung von Willenserklärungen und Verträgen nach Treu und Glauben.
+- § 119 Abs. 1 BGB: Irrtumsanfechtung wegen Inhalts- oder Erklärungsirrtum bei Preisfehler.
+- § 122 BGB: Schadensersatzpflicht des Anfechtenden gegenüber dem gutgläubigen Empfänger.
 
 ## Prüfraster
 
-1. objektiven Rechtsbindungswillen bestimmen
-2. Adressatenkreis, Vorrat und Bonitätsprüfung berücksichtigen
-3. Kundenhandlung als Angebot oder Annahme einordnen
-4. Preisfehler und Systemvorbehalt markieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Enthält die Werbung alle wesentlichen Vertragsbestandteile (Ware, Preis, Menge)?
+2. Rechtsbindungswille nach objektivem Empfängerhorizont bejaht oder verneint?
+3. Handelt es sich um ein Massengeschäft ohne feste Mengenbegrenzung (typisch invitatio)?
+4. Automatisierte Bestellbestätigung: Rechtsfolge Annahme oder nur Zugangsbestätigung?
+5. Bei Preisfehler: Voraussetzungen der Irrtumsanfechtung § 119 Abs. 1 BGB prüfen.
+6. Schadensersatz aus § 122 BGB: positives oder negatives Interesse des Empfängers?
+7. Sonderproblem Online-Auktionen: §§ 156 und 312 ff. BGB beachten.
+
+## Typische Fallstricke
+
+- Schaufensterwerbung ist in Deutschland grundsätzlich invitatio, nicht Angebot — häufiger Klausurfehler.
+- Automatisierte Eingangsbestätigungen im Online-Handel sind keine Annahmeerklärung.
+- Preisfehler-Anfechtung nach § 119 Abs. 1 BGB erfordert unverzügliche Erklärung (§ 121 BGB).
+- § 122 BGB schützt den Empfänger: Anfechtender haftet auf das negative Interesse.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt: invitatio oder Angebot mit vollständiger Subsumtion
+- Prüfampel: Vertragsschluss wirksam / Anfechtung möglich / offen
+- Rückfragenliste zu Mengenangaben, Automatisierungsgrad und Empfängerkenntnis
+- Klausurlösungsskizze mit Folgeprüfung § 122 BGB
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
+- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
+- [dejure.org § 157 BGB](https://dejure.org/gesetze/BGB/157.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Wirtschaftliche Bedeutung der Abgrenzung
 
+Die Abgrenzung von Angebot und invitatio ad offerendum hat erhebliche wirtschaftliche Konsequenzen:
+Wäre jede Preisauszeichnung ein verbindliches Angebot, wäre der Einzelhändler an jeden Preis gebunden,
+auch bei Schreibfehlern. Deshalb ist die Schaufensterwerbung in Deutschland grundsätzlich invitatio.
 
-## Qualitäts-Hardening
+### Internet-Preisfehler in der Praxis
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+BGH-Rechtsprechung zu Preisfehlern im Internet: Das Einstellen eines Artikels im Online-Shop ist
+in der Regel eine invitatio. Die Bestellung des Kunden ist das Angebot. Die Bestellbestätigung
+kann Annahme sein — hier kommt es auf die konkrete Formulierung an.
+
+### Klausur-Checkliste invitatio
+
+- Alle essentialia negotii in der Werbung enthalten?
+- Rechtsbindungswille nach objektivem Empfängerhorizont?
+- Massengeschäft ohne Mengenbegrenzung typischerweise invitatio?
+- Automatisierte Bestellbestätigung: Annahme oder nur Eingangsbestätigung?
+- Preisfehler: Anfechtung nach § 119 Abs. 1 BGB — unverzüglich nach § 121 BGB?

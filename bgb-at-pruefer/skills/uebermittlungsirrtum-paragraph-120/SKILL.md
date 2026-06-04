@@ -1,60 +1,85 @@
 ---
 name: uebermittlungsirrtum-paragraph-120
-description: "Prüft § 120 BGB bei falscher Übermittlung durch Boten, technische Systeme, Übersetzung, Diktat, Plattformfehler und Kommunikationsketten."
+description: "Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB."
 ---
 
-# Uebermittlungsirrtum Paragraph 120
+# Übermittlungsirrtum — § 120 BGB
 
-## Zweck
+## Mandantenfall
 
-Übermittlungsfehler von Erklärungsirrtum und Zugang trennen.
+- Telegraf übermittelt falschen Preis — Käufer verlangt Lieferung zum günstigeren Preis; § 120 BGB anwendbar?
+- Bote gibt abweichende Erklärung weiter — Anfechtung des Erklärenden nach § 120 BGB möglich?
+- Klausurkonstellation: E-Mail wird durch Tippfehler verändert und mit falscher Summe abgesandt.
 
-## Normanker
+## Erste Schritte
 
-§ 120 BGB
+1. Übermittlungsweg identifizieren: Bote, Fernkommunikationsmittel (Telegramm, Fax, digitale Übertragung).
+2. Übermittlungsfehler feststellen: Wurde die Erklärung auf dem Übertragungsweg verfälscht?
+3. § 120 BGB: Gleichstellung des Übermittlungsirrtums mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB.
+4. Anfechtungsrecht des Erklärenden: Unverzüglich nach Kenntnis (§ 121 BGB).
+5. Empfänger trägt Risiko des Übertragungswegs: Erklärungsbote vs. Empfangsbote unterscheiden.
+6. Schadensersatz nach § 122 BGB: negatives Interesse des gutgläubigen Empfängers.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 120 BGB: Anfechtungsrecht bei fehlerhafter Übermittlung durch Boten oder Übertragungsmittel.
+- § 119 Abs. 1 BGB: Erklärungsirrtum — durch § 120 BGB gleichgestellt.
+- § 121 BGB: Unverzügliche Anfechtung nach Kenntnis des Irrtums.
+- § 122 BGB: Schadensersatz des Anfechtenden gegenüber gutgläubigem Empfänger.
+- § 130 BGB: Zugang der Willenserklärung — maßgeblich für empfangsbedürftige Erklärungen.
 
 ## Prüfraster
 
-1. ursprüngliche und übermittelte Erklärung vergleichen
-2. Bote, Vertreter und technisches System abgrenzen
-3. Zurechnung prüfen
-4. Anfechtung und § 122 BGB anschließen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Übermittlungsweg: Wer oder was hat die Erklärung übermittelt — Bote oder technisches Mittel?
+2. Übermittlungsfehler: Hat die Erklärung ihren Inhalt auf dem Weg verändert?
+3. Erklärungsbote oder Empfangsbote: Wer trägt das Übertragungsrisiko?
+4. § 120 BGB: Gleichstellung mit § 119 Abs. 1 BGB — Anfechtungsrecht des Erklärenden.
+5. Unverzüglichkeit nach § 121 BGB gewahrt?
+6. Anfechtungsgegner nach § 143 BGB korrekt bestimmt?
+7. Schadensersatz nach § 122 BGB: Höhe und Deckelung auf positives Interesse?
+
+## Typische Fallstricke
+
+- § 120 BGB gilt nur für den Erklärenden — nicht für den Empfänger, der einen falschen Inhalt empfängt.
+- Empfangsbote trägt das Übertragungsrisiko für den Empfänger — dann kein § 120 BGB für den Erklärenden.
+- Technische Übertragungsfehler (Autokorrektur, Datenverlust) können § 120 BGB auslösen.
+- § 122 BGB-Haftung besteht auch ohne Verschulden des Erklärenden.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu § 120 BGB mit Abgrenzung zu § 119 Abs. 1 BGB
+- Prüfampel: Übermittlungsfehler bejaht / Anfechtung wirksam / Schadensersatz nach § 122 BGB
+- Klausurlösungsskizze mit Botenstellung und Risikoverteilung
+- Rückfragenliste zu Übertragungsweg und Fehlerzeitpunkt
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 120 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__120.html)
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
+- [dejure.org § 120 BGB](https://dejure.org/gesetze/BGB/120.html)
+- [dejure.org § 119 BGB](https://dejure.org/gesetze/BGB/119.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Technischer Wandel und § 120 BGB
 
+§ 120 BGB war ursprünglich auf das Telegramm-Zeitalter zugeschnitten. Mit der Digitalisierung sind
+neue Übermittlungsirrtümer entstanden: Auto-Korrektur-Fehler, OCR-Fehler, Datenbankfehler bei
+automatisierten Bestellsystemen. Diese fallen unter § 120 BGB, wenn sie die Erklärung verfälschen.
 
-## Qualitäts-Hardening
+### Risikoverteilung beim Übermittlungsirrtum
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Erklärungsbote (Risiko des Erklärenden): Verändert der Bote die Erklärung, trägt der Erklärende
+das Risiko — er haftet für den Boten als Erklärender.
+
+Empfangsbote (Risiko des Empfängers): Verändert der Empfangsbote die Erklärung, trägt der Empfänger
+das Risiko. § 120 BGB gilt dann nicht für den Erklärenden.
+
+### Klausur-Checkliste § 120 BGB
+
+- Übermittlungsweg identifiziert: Bote oder technisches Mittel?
+- Verfälschung der Erklärung auf dem Übertragungsweg?
+- Erklärungsbote (Risiko des Erklärenden) oder Empfangsbote (Risiko des Empfängers)?
+- § 120 BGB: Anfechtungsrecht des Erklärenden bei Übermittlungsirrtum?
+- § 122 BGB: Schadensersatz nach Anfechtung — auch ohne Verschulden?

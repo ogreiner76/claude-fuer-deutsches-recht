@@ -1,70 +1,84 @@
 ---
 name: abgabe-willenserklaerung
-description: "Prüft Abgabe einer Willenserklärung unter Anwesenden und Abwesenden, Boten, E-Mail, Plattformen, Brief, Machtbereich und willentliche Entäußerung."
+description: "Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. BGB: willentliche Entäußerung unter Anwesenden und Abwesenden, Botenproblematik, E-Mail und Plattform-Postfach, Widerruf vor Abgabe. Output: Gutachtenstil-Lösung mit Subsumtionsraster."
 ---
 
-# Abgabe Willenserklaerung
+# Abgabe der Willenserklärung — Tatbestand und Zeitpunkt
 
-## Zweck
+## Mandantenfall
 
-Abgabe vor Zugang präzise feststellen.
+- Mandant verschickt eine Kündigung per E-Mail, zieht sie kurz danach zurück — war die Erklärung schon abgegeben?
+- Arbeitgeber beauftragt einen Boten mit der Übermittlung eines Vertragsangebots; Bote verliert den Brief — Abgabe oder nicht?
+- Klausurkonstellation: Online-Bestellung wird durch Autofill-Fehler abgesendet, bevor Nutzer bestätigt.
 
-## Normanker
+## Erste Schritte
 
-- §§ 116-130 BGB: Allgemeine Vorschriften zur Willenserklärung.
-- § 130 Abs. 1 BGB: Zugang unter Abwesenden; Willenserklärung wird in dem Zeitpunkt wirksam, in dem sie dem Empfänger zugeht.
-- § 130 Abs. 2 BGB: Tod oder Geschäftsunfähigkeit des Erklärenden vor Zugang ohne Einfluss.
-- § 130 Abs. 3 BGB: Behörden — analog § 41 VwVfG.
-- Abgabe = willentliche Entäußerung in Richtung Empfänger (h.M.).
-- Unter Anwesenden Zugang regelmäßig sofort, sofern Empfänger akustisch wahrnimmt (eingeschränkte Vernehmungstheorie BGH ständige Rspr.).
-- E-Mail/Online-Plattform: Zugang im Postfach Empfänger zum Zeitpunkt, in dem ein verständiger Empfänger Kenntnis nehmen kann (BGH NJW-Rspr. zu Online-Banking). Bei B2B ggf. erweiterte Empfangsbereitschaft.
+1. Feststellen, ob eine empfangsbedürftige oder nicht empfangsbedürftige Willenserklärung vorliegt.
+2. Willentliche Entäußerung: Hat der Erklärende die Erklärung bewusst in Richtung Empfänger auf den Weg gebracht?
+3. Botenstellung bestimmen: Erklärungsbote (Risiko des Erklärenden), Empfangsbote (Risiko des Empfängers).
+4. Bei elektronischer Übermittlung: Verlassen des Machtbereichs des Absenders prüfen (E-Mail-Server).
+5. Widerruf vor Abgabe (§ 130 Abs. 1 S. 2 BGB analog) von Widerruf nach Zugang abgrenzen.
+6. Ergebnis im Gutachtenstil: Norm — Tatbestandsmerkmal — Subsumtion — Rechtsfolge.
 
-## Praxis-Tipp
-- Bei elektronischer Kommunikation: Lesebestätigung als Indiz; Empfangsbereitschaft des Geschäftspartners (DOI-Adresse aus Geschäftspapier).
-- Botenfehler: Bote als Werkzeug; Erklärungsbote (rechtsgeschäftlich, § 120 BGB), Empfangsbote (Risiko Empfänger), Erklärungsempfangsperson.
+## Rechtsrahmen
 
-## Intake
-
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 130 BGB: Zugang unter Abwesenden; Wirksamkeit der Willenserklärung ab Zugang.
+- §§ 116 ff. BGB: Allgemeine Vorschriften zur Willenserklärung und ihren Mängeln.
+- § 120 BGB: Haftung bei Übermittlungsfehlern durch Boten oder Übermittlungseinrichtung.
+- § 164 BGB: Handeln im fremden Namen; abzugrenzen vom Boten ohne eigene Willenserklärung.
+- § 242 BGB: Treu und Glauben — Empfänger kann sich nicht auf Nichtzugang berufen, wenn er ihn vereitelt hat.
 
 ## Prüfraster
 
-1. empfangsbedürftige und nicht empfangsbedürftige Erklärung trennen
-2. willentliche Entäußerung in Richtung Empfänger prüfen
-3. Boten, Vertreter und technische Systeme einordnen
-4. Abbruch- und Kontrollmöglichkeiten dokumentieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Empfangsbedürftige oder formfreie, nicht empfangsbedürftige Willenserklärung?
+2. Willentliche Entäußerung in Richtung des Empfängers bejaht oder verneint?
+3. Boteneigenschaft: Erklärungsbote oder Empfangsbote — wer trägt das Übermittlungsrisiko?
+4. Bei digitaler Übermittlung: Verlassen des Machtbereichs des Absenders (Outbox-Zeitstempel)?
+5. Widerruf: Ist er dem Empfänger vor oder gleichzeitig mit der Erklärung zugegangen?
+6. Abgabe bei Anwesenden: Akustisches Wahrnehmen nach eingeschränkter Vernehmungstheorie?
+7. Rechtsfolge: Zeitpunkt der Abgabe bestimmt Beginn von Fristen und Bindungswirkung.
+
+## Typische Fallstricke
+
+- Abgabe und Zugang werden in Klausuren häufig vermengt; beide müssen separat geprüft werden.
+- Boten-Fehler: Verlust durch Erklärungsboten trifft den Erklärenden, Verlust durch Empfangsboten trifft den Empfänger.
+- Bei Autofill oder technischen Fehlern: Fehlendes Erklärungsbewusstsein kann Abgabe verhindern.
+- Widerruf muss gleichzeitig oder früher zugehen, nicht nur gleichzeitig abgesendet werden.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenabschnitt zur Abgabe mit vollständiger Subsumtion
+- Kurztriage mit Prüfampel: Abgabe bejaht / verneint / offen
+- Rückfragenliste zu fehlenden Tatsachen (Zeitstempel, Botenweg, technisches Protokoll)
+- Schriftsatzbaustein für streitigen Abgabezeitpunkt
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 120 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__120.html)
+- [dejure.org § 130 BGB](https://dejure.org/gesetze/BGB/130.html)
+- [dejure.org § 116 BGB](https://dejure.org/gesetze/BGB/116.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Dogmatische Einordnung
 
+Die Abgabe ist zeitlich und begrifflich vom Zugang (§ 130 BGB) zu trennen. Sie markiert den Zeitpunkt,
+ab dem die Erklärung dem Erklärenden endgültig nicht mehr gehört. Für die Bindungswirkung des Antrags
+(§ 145 BGB) kommt es auf die Abgabe, für die Wirksamkeit der Willenserklärung auf den Zugang an.
 
-## Qualitäts-Hardening
+### Besonderheiten bei digitalen Erklärungen
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Bei E-Mail-Kommunikation verlässt die Erklärung den Machtbereich des Absenders mit dem Absendevorgang
+(Klick auf „Senden"). Die eingeschränkte Vernehmungstheorie, die der BGH für Erklärungen unter
+Anwesenden anwendet, gilt hier nicht. Plattform-Nachrichten (z.B. Messenger-Dienste) gelten in der
+Machtbereich-Lehre als vergleichbar mit E-Mail, solange der Absender keinen Rückholmechanismus hat.
+
+### Klausur-Checkliste Abgabe
+
+- Wurde die Erklärung willentlich nach außen gegeben?
+- War der Weg zum Empfänger erkennbar und gewollt?
+- Liegt ein Boten- oder Vertreter-Mittlerverhältnis vor?
+- Bestand eine Kontrollmöglichkeit bis zum letzten Moment?
+- Ist Widerruf noch möglich (gleichzeitig mit Zugang)?

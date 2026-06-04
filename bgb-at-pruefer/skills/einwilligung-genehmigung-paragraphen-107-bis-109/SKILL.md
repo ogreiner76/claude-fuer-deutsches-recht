@@ -1,60 +1,85 @@
 ---
 name: einwilligung-genehmigung-paragraphen-107-bis-109
-description: "Prüft Einwilligung, Genehmigung, schwebende Unwirksamkeit und Widerruf bei Minderjährigengeschäften nach §§ 107 bis 109 BGB mit sauberem Fristen- und Erklärungsrouting."
+description: "Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc."
 ---
 
-# Einwilligung Genehmigung Paragraphen 107 Bis 109
+# Einwilligung und Genehmigung — §§ 107 bis 109 BGB
 
-## Zweck
+## Mandantenfall
 
-Schwebende Unwirksamkeit handhabbar machen.
+- Minderjähriger schließt Kaufvertrag ohne elterliche Einwilligung — welche Rechtslage bis zur Genehmigung?
+- Eltern verweigern Genehmigung — Vertragspartner möchte Ersatz für getätigte Aufwendungen.
+- Klausurkonstellation: Eltern schweigen auf Aufforderung zur Genehmigung — Genehmigungsfiktion nach § 108 Abs. 2 BGB?
 
-## Normanker
+## Erste Schritte
 
-§§ 107-109 und §§ 182-184 BGB
+1. Beschränkte Geschäftsfähigkeit prüfen: Alter 7 bis 17 Jahre, § 106 BGB.
+2. Einwilligung (vorherige Zustimmung) oder Genehmigung (nachträgliche Zustimmung) bestimmen.
+3. Schwebende Unwirksamkeit: Vertrag bis Genehmigung oder Verweigerung in der Schwebe.
+4. Aufforderung zur Genehmigung durch Vertragspartner nach § 108 Abs. 2 BGB.
+5. Zweiwochenfrist: Keine Antwort = Genehmigung als verweigert geltend.
+6. Wirkung der Genehmigung: ex tunc nach § 184 Abs. 1 BGB.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 107 BGB: Einwilligung des gesetzlichen Vertreters für nicht lediglich rechtlich vorteilhafte Geschäfte.
+- § 108 Abs. 1 BGB: Schwebende Unwirksamkeit bis zur Genehmigung oder Verweigerung.
+- § 108 Abs. 2 BGB: Vertragspartner kann Sorgeberechtigte zur Genehmigung auffordern — Zweiwochenfrist.
+- § 109 BGB: Widerrufsrecht des Vertragspartners bis zur Genehmigung.
+- § 184 Abs. 1 BGB: Genehmigung wirkt ex tunc — Zeitpunkt der Vornahme des Rechtsgeschäfts.
 
 ## Prüfraster
 
-1. Einwilligung und Genehmigung unterscheiden
-2. gesetzliche Vertreter und Erklärungsempfänger bestimmen
-3. Widerruf und Aufforderung zur Genehmigung prüfen
-4. Rückwirkung nach § 184 BGB einordnen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Beschränkt Geschäftsfähiger: Alter und etwaige Betreuung prüfen.
+2. Einwilligung vorher erteilt — dann wirksam ohne Schwebephase?
+3. Keine Einwilligung: schwebende Unwirksamkeit nach § 108 Abs. 1 BGB.
+4. Genehmigungsaufforderung nach § 108 Abs. 2 BGB: Zugang bei Sorgeberechtigten, Frist läuft.
+5. Genehmigungsfiktion: Schweigen nach zwei Wochen = Verweigerung.
+6. Wirkung der Genehmigung: ex tunc nach § 184 Abs. 1 BGB.
+7. Widerrufsrecht des Vertragspartners nach § 109 BGB bis zur Genehmigung.
+
+## Typische Fallstricke
+
+- Genehmigungsfiktion nach § 108 Abs. 2 BGB ist Verweigerungsfiktion, nicht Zustimmungsfiktion — Schweigen gilt als Nein.
+- § 109 BGB-Widerruf ist nur bis zur Genehmigung möglich, nicht danach.
+- ex-tunc-Wirkung der Genehmigung nach § 184 BGB bedeutet: Eigentum war rückwirkend übergegangen.
+- Widerrufsrecht des Vertragspartners gilt nicht gegenüber einem gutgläubigen Vertragspartner.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Prüfungsschema: schwebende Unwirksamkeit — Genehmigung — Widerruf
+- Ablaufdiagramm: Fristenberechnung und Genehmigungsfiktion
+- Gutachtenstil-Abschnitt zu §§ 107 bis 109 BGB
+- Klausurlösungsskizze
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
+- [§ 109 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__109.html)
+- [§ 184 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__184.html)
+- [dejure.org § 108 BGB](https://dejure.org/gesetze/BGB/108.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Systematik Einwilligung vs. Genehmigung
 
+Einwilligung (§ 107 BGB): Vorherige Zustimmung. Das Rechtsgeschäft wird von Anfang an wirksam
+abgeschlossen. Der Minderjährige handelt im Rahmen der erteilten Einwilligung.
 
-## Qualitäts-Hardening
+Genehmigung (§ 108 Abs. 1 BGB): Nachträgliche Zustimmung. Das Rechtsgeschäft war schwebend
+unwirksam und wird durch Genehmigung ex tunc wirksam (rückwirkend).
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Widerrufsrecht nach § 109 BGB
+
+Bis zur Genehmigung kann der Dritte den Vertrag widerrufen — er soll nicht dauerhaft in
+Ungewissheit über die Wirksamkeit gelassen werden. Das Widerrufsrecht entfällt, wenn der
+Dritte bei Vertragsschluss von der Minderjährigkeit wusste.
+
+### Klausur-Checkliste Einwilligung und Genehmigung
+
+- Einwilligung: Vorher erteilt — Zeitpunkt und Umfang bestimmt?
+- Genehmigung: Nachträglich erteilt — Form und Frist beachtet?
+- Schwebende Unwirksamkeit: Zeitraum und Rechtswirkungen in dieser Zeit?
+- § 109 BGB: Hat der Dritte widerrufen oder konnte er widerrufen?
+- Verweigerung der Genehmigung: Vertrag endgültig unwirksam?

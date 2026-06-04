@@ -1,69 +1,85 @@
 ---
 name: anfechtungsfolgen-paragraphen-142-122
-description: "Prüft Folgen der Anfechtung nach §§ 142 und 122 BGB: rückwirkende Nichtigkeit, Vertrauensschaden, Kenntnis, Rückabwicklung, Kondiktion und Risikohinweise."
+description: "Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse."
 ---
 
-# Anfechtungsfolgen Paragraphen 142 122
+# Anfechtungsfolgen — §§ 142 und 122 BGB
 
-## Zweck
+## Mandantenfall
 
-Anfechtung nicht ohne Folgenbewusstsein empfehlen.
+- Käufer ficht Kaufvertrag wegen Eigenschaftsirrtum an — welche Ansprüche entstehen zwischen den Parteien nach Anfechtung?
+- Verkäufer hat bereits geleistet, Käufer ficht an — Herausgabe der Kaufsache und Rückforderung des Kaufpreises.
+- Klausurkonstellation: Anfechtungsgegner macht Vertrauensschaden geltend — wie wird dieser berechnet?
 
-## Normanker
+## Erste Schritte
 
-- § 142 Abs. 1 BGB: Rückwirkende Nichtigkeit (ex tunc); anfechtbare Erklärung gilt als von Anfang an nichtig.
-- § 142 Abs. 2 BGB: Wer die Anfechtbarkeit kannte oder kennen musste, wird so behandelt wie bei Kenntnis der Nichtigkeit. Wichtige Auswirkung auf Bereicherungsausgleich (§§ 818 Abs. 4, 819 BGB).
-- § 122 Abs. 1 BGB: Vertrauensschadens-Ersatzpflicht des Anfechtenden bei Erklärungsirrtum (§ 119), Übermittlungsirrtum (§ 120). Schaden = negatives Interesse, max. positives Interesse.
-- § 122 Abs. 2 BGB: Anspruch entfällt, wenn Anfechtungsgegner Anfechtungsgrund kannte oder kennen musste.
-- Rückabwicklung nichtiger Vertrag: §§ 812 ff. BGB Bereicherungsrecht; bei beidseitiger Leistung Saldotheorie/Zweikondiktionentheorie (BGH ständige Rspr. zur Saldotheorie modifiziert).
-- Sonderregel § 818 Abs. 3 BGB Entreicherung; § 819 BGB Bösgläubigkeit.
+1. Anfechtung wirksam: alle Voraussetzungen (Grund, Erklärung, Frist, kein Ausschluss) noch einmal bestätigen.
+2. § 142 Abs. 1 BGB: ex-tunc-Nichtigkeit — Vertrag gilt als von Anfang an nicht geschlossen.
+3. Rückabwicklung: §§ 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) für erbrachte Leistungen.
+4. § 122 BGB: Vertrauensschadenspflicht des Anfechtenden gegenüber gutgläubigem Anfechtungsgegner.
+5. Vertrauensschaden abgrenzen vom Erfüllungsinteresse (negatives Interesse, nicht positives Interesse).
+6. Kenntnis oder Kennenmüssen des Anfechtungsgrundes schließt § 122-Anspruch aus.
 
-## Praxis-Tipp
-- § 122 BGB-Anspruch nur bei Erklärungs-/Übermittlungsirrtum, nicht bei Anfechtung wegen arglistiger Täuschung oder Drohung (§ 123 BGB) — dort hat der Anfechtende vielmehr eigene Schadensersatzansprüche aus § 826 BGB / § 823 Abs. 2 BGB iVm § 263 StGB.
-- Folgen für Eigentumsübergang: bei dinglicher Anfechtung (§ 119 BGB auf Übereignung) Eigentum fällt zurück; bei nur schuldrechtlicher Anfechtung des Kausalgeschäfts bleibt Eigentum, aber Rückabwicklung über § 812 BGB.
+## Rechtsrahmen
 
-## Intake
-
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 142 Abs. 1 BGB: Das angefochtene Rechtsgeschäft gilt als von Anfang an nichtig.
+- § 142 Abs. 2 BGB: Kenntnis der Anfechtbarkeit steht Kenntnis der Nichtigkeit gleich.
+- § 122 Abs. 1 BGB: Schadensersatzpflicht des Anfechtenden für Vertrauensschaden.
+- § 122 Abs. 2 BGB: Ausschluss des Anspruchs bei Kenntnis oder Kennenmüssen des Anfechtungsgrundes.
+- §§ 812 ff. BGB: Bereicherungsrecht als Rückabwicklungsgrundlage nach Nichtigkeit.
+- § 818 BGB: Umfang der Herausgabepflicht, Entreicherung.
 
 ## Prüfraster
 
-1. ex-tunc-Wirkung für die konkrete Erklärung bestimmen
-2. Vertrauensschaden nach § 122 BGB prüfen
-3. Kenntnis oder Kennenmüssen des anderen Teils berücksichtigen
-4. Rückabwicklung als Anschlussfrage markieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Wirksamkeit der Anfechtung als Voraussetzung der Folgenprüfung?
+2. Zeitpunkt der Nichtigkeit: ex tunc — alle Wirkungen ab Vertragsschluss entfallen.
+3. Rückabwicklung nach §§ 812 ff. BGB: Wer hat was geleistet, was ist herauszugeben?
+4. § 122 BGB-Anspruch: Anfechtungsgegner gutgläubig, Schaden durch Vertrauen auf Gültigkeit?
+5. Höhe des Vertrauensschadens: Aufwendungen, entgangene Gewinne aus anderen Geschäften.
+6. Ausschluss nach § 122 Abs. 2 BGB: Hat der Anfechtungsgegner den Grund gekannt oder kennen müssen?
+7. Verjährung der Kondiktionsansprüche nach §§ 195 und 199 BGB.
+
+## Typische Fallstricke
+
+- § 122 BGB ist auf das negative Interesse (Vertrauensschaden) begrenzt, nicht auf das Erfüllungsinteresse.
+- Die ex-tunc-Wirkung des § 142 BGB bedeutet: Eigentumsübergang war nie wirksam — dingliche Rückabwicklung erforderlich.
+- Verjährungsbeginn der Kondiktionsansprüche: ab Kenntnis von Nichtigkeit und Person des Schuldners.
+- Bei gegenseitigen Verträgen: Saldotheorie oder Zweikondiktionentheorie anwenden.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt: Rechtsfolge der Anfechtung nach § 142 BGB
+- Rückabwicklungsschema: Ansprüche und Gegenforderungen tabellarisch
+- Berechnung des Vertrauensschadens nach § 122 BGB mit Rechenweg
+- Hinweise zur Verjährung der Rückforderungsansprüche
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 142 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__142.html)
+- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
+- [§ 812 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__812.html)
+- [dejure.org § 142 BGB](https://dejure.org/gesetze/BGB/142.html)
+- [dejure.org § 122 BGB](https://dejure.org/gesetze/BGB/122.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Systematik der Anfechtungsfolgen
 
+Die Nichtigkeit ex tunc nach § 142 BGB bedeutet: Das Rechtsgeschäft gilt als von Anfang an nicht
+geschlossen. Bei bereits vollzogenen Leistungen entsteht ein bereicherungsrechtlicher Rückabwicklungsanspruch
+nach § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion). Die Anfechtung wirkt damit nicht nur für die
+Zukunft, sondern beseitigt die Rechtsgrundlage rückwirkend.
 
-## Qualitäts-Hardening
+### Schadensersatz nach § 122 BGB
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Der Schadensersatz nach § 122 BGB schützt das negative Interesse (Vertrauensschaden) des gutgläubigen
+Empfängers: Er ist so zu stellen, wie er stünde, wenn er auf die Gültigkeit der Willenserklärung nicht
+vertraut hätte. Deckelung auf das positive Interesse (§ 122 Abs. 1 a.E. BGB) verhindert Überkompensation.
+
+### Klausur-Checkliste Anfechtungsfolgen
+
+- Wirksame Anfechtungserklärung gegenüber richtigem Gegner?
+- § 142 BGB: Nichtigkeit rückwirkend ab Abgabe der WE?
+- Rückabwicklung nach § 812 BGB bei vollzogenen Leistungen?
+- § 122 BGB: Schadensersatz nur bei gutgläubigem Empfänger?
+- Kein Schadensersatz, wenn Empfänger den Anfechtungsgrund kannte (§ 122 Abs. 2 BGB)?

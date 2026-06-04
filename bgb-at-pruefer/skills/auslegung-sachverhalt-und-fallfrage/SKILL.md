@@ -1,60 +1,84 @@
 ---
 name: auslegung-sachverhalt-und-fallfrage
-description: "Sachverhalts- und Fallfrageauslegung bei BGB-AT-Fällen: trennt Tatsachen, Wertungen, Hinweise, Bearbeitervermerk und verdeckte Probleme, bevor materiellrechtlich geprüft wird."
+description: "Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil."
 ---
 
-# Auslegung Sachverhalt Und Fallfrage
+# Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
 
-## Zweck
+## Mandantenfall
 
-Fallfrage, Bearbeitervermerk und Signalwörter in eine Prüfagenda übersetzen.
+- Student steht vor einer Klausur und ist unsicher, wie er Sachverhalt und Fallfrage richtig analysiert.
+- Mandant schildert langen Sachverhalt mit vielen Details — welche sind rechtlich relevant?
+- Klausurkonstellation: Mehrere Fallfragen — in welcher Reihenfolge und wie bearbeiten?
 
-## Normanker
+## Erste Schritte
 
-§§ 133 und 157 BGB als Auslegungsanker
+1. Fallfrage vollständig lesen und Prüfauftrag präzise formulieren: Wer will was von wem woraus?
+2. Sachverhalt zweimal lesen: zunächst zur Orientierung, dann aktiv mit Markierungen.
+3. Rechtlich relevante Tatsachen identifizieren und von irrelevanten Details trennen.
+4. Zeitliche Abfolge der Ereignisse rekonstruieren — Chronologie hilft beim Aufbau.
+5. Rechtliche Qualifikation der Tatsachen beginnen: Willenserklärungen, Vertragsschluss, Mängel.
+6. Vorläufige Prüfungsstruktur aufstellen, bevor mit dem Schreiben begonnen wird.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 133 BGB: Auslegungsmethodik gilt auch für Klausurvorgaben.
+- § 242 BGB: Treu und Glauben als Maßstab bei lückenhafter Fallfrage.
+- §§ 145 ff. BGB: Vertragsschluss-Normen zur Einordnung von Sachverhaltshandlungen.
+- §§ 116 ff. BGB: Willenserklärungsdogmatik für Sachverhaltsqualifikation.
+- §§ 164 ff. BGB: Stellvertretungsregeln bei mehreren handelnden Personen im Sachverhalt.
 
 ## Prüfraster
 
-1. Fallfrage paraphrasieren
-2. Signalwörter wie minderjährig, Vollmacht, E-Mail, Schweigen, Irrtum, Form und Frist markieren
-3. Tatsachen, Indizien und Wertungen trennen
-4. Prüfreihenfolge daraus ableiten
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Fallfrage isoliert lesen — was wird gefragt, was nicht?
+2. Parteien benennen und Rollen zuordnen: Anspruchsteller, Anspruchsgegner.
+3. Chronologie des Sachverhalts aufschreiben oder skizzieren.
+4. Relevante Tatsachen markieren — irrelevante Details bewusst weglassen.
+5. Rechtliche Einstufung der Kernhandlungen: WE, Vertrag, Stellvertretung, Formmangel.
+6. Prüfungsreihenfolge festlegen: vertragliche vor deliktischen Ansprüchen.
+7. Zeitplan einteilen: Sachverhaltsanalyse, Entwurf, Ausformulierung.
+
+## Typische Fallstricke
+
+- Sachverhaltstreue: Tatsachen nicht erfinden oder über den Text hinaus auslegen.
+- Fallfrage-Grenzen beachten: Nicht mehr prüfen als gefragt, aber auch nicht weniger.
+- Nebenpunkte wie Verjährung nicht vergessen, auch wenn sie nicht ausdrücklich gefragt sind.
+- Zeitmanagement: Sachverhaltsanalyse nicht zu lange betreiben, Schreibzeit einplanen.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Sachverhalts-Analyseblatt: Tatsachen, Qualifikation, offene Punkte
+- Prüfungsstruktur-Skizze vor dem Schreiben
+- Fallfrage-Matrix: Frage — Norm — Kurzantwort
+- Zeitplan für Klausurbearbeitung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [dejure.org § 133 BGB](https://dejure.org/gesetze/BGB/133.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Sachverhaltsanalyse als erste Pflicht
 
+Bevor rechtliche Fragen beantwortet werden, muss der Sachverhalt vollständig erfasst sein:
+Wer sind die Parteien? Was haben sie wann und wo getan oder unterlassen? Welche Fristen sind
+relevant? Welche Dokumente existieren? Klausurfehler entstehen oft durch unvollständige
+Sachverhaltserfassung.
 
-## Qualitäts-Hardening
+### Umgang mit Lücken im Sachverhalt
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Wenn der Sachverhalt Angaben vermissen lässt, sind zwei Wege möglich: (1) Sachverhaltsauslegung
+anhand von Lebenserfahrung und allgemeinen Grundsätzen; (2) explizites Benennen der Lücke und
+Prüfung unter alternativen Annahmen. Erfundene Tatsachen ohne Sachverhaltsgrundlage sind verboten.
+
+### Klausur-Checkliste Sachverhalt
+
+- Sachverhalt vollständig gelesen und markiert?
+- Alle Parteien, Handlungen, Zeitpunkte und Fristen erfasst?
+- Lücken identifiziert und als Rückfragen formuliert?
+- Rechtlich relevante Tatsachen von irrelevanten Hintergrundinformationen getrennt?
+- Fallfrage genau beantwortet — nicht an ihr vorbeigegangen?

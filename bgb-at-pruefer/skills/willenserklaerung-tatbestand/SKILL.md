@@ -1,60 +1,83 @@
 ---
 name: willenserklaerung-tatbestand
-description: "Prüft den Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Handlungswille, Erklärungsbewusstsein, Geschäftswille, Rechtsbindungswille und Abgrenzung zur Gefälligkeit."
+description: "Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung."
 ---
 
-# Willenserklaerung Tatbestand
+# Willenserklärung — Tatbestand §§ 116 ff. BGB
 
-## Zweck
+## Mandantenfall
 
-Feststellen, ob überhaupt eine rechtserhebliche Erklärung vorliegt.
+- Bieter auf Auktion hebt irrtümlich die Hand — liegt eine Willenserklärung vor?
+- Schreiben unter Scherz oder Druck verfasst — fehlt der Rechtsbindungswille?
+- Klausurkonstellation: Internetbestellung durch Kind auf Eltern-Account — Willenserklärung der Eltern?
 
-## Normanker
+## Erste Schritte
 
-BGB AT Willenserklärung
+1. Objektiver Tatbestand prüfen: Gibt es eine nach außen getretene Erklärung mit erkennbarem Rechtsbindungswillen?
+2. Subjektiver Tatbestand: Handlungswille, Erklärungsbewusstsein (Bewusstsein, irgendwie rechtserheblich zu handeln), Geschäftswille.
+3. Fehlendes Erklärungsbewusstsein: Gilt als Willenserklärung, wenn der Erklärende hätte erkennen können (potentielles Bewusstsein, h.M.).
+4. Rechtsbindungswille: Wollten die Parteien rechtlich gebunden sein — Abgrenzung zu Gefälligkeit und sozialem Kontakt.
+5. Scherzerklärung nach § 118 BGB: Erkennbare Scherzerklärung ist nichtig, Schadensersatz nach § 122 BGB.
+6. Geisteskrankheit oder vorübergehende Störung nach § 105 BGB: Kein Rechtsbindungswille möglich.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 116 bis 118 BGB: Geheimvorbehalt, Scheingeschäft und Scherzerklärung.
+- § 105 BGB: Nichtigkeit der Willenserklärung bei Geschäftsunfähigkeit.
+- §§ 133 und 157 BGB: Auslegung zur Ermittlung des objektiven Erklärungssinns.
+- § 122 BGB: Schadensersatzpflicht bei Nichtigkeit nach § 118 BGB.
+- § 242 BGB: Vertrauensschutz als Grenze beim fehlenden subjektiven Tatbestand.
 
 ## Prüfraster
 
-1. objektiven Erklärungstatbestand aus Empfängersicht bestimmen
-2. Handlungswille, Erklärungsbewusstsein und Geschäftswille trennen
-3. Rechtsbindungswillen und Gefälligkeit abgrenzen
-4. passende Fehlerfolge wählen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Objektiver Erklärungstatbestand: Äußeres Erklärungszeichen vorhanden und empfangsbedürftig?
+2. Rechtsbindungswille: Wollte der Erklärende bei objektivem Empfängerhorizont rechtlich gebunden sein?
+3. Erklärungsbewusstsein vorhanden oder zumindest potentiell vorhanden?
+4. Handlungswille: Hat der Erklärende die Handlung bewusst vorgenommen?
+5. Scherzerklärung nach § 118 BGB: War Scherz für Empfänger erkennbar?
+6. Geisteskrankheit oder Rausch nach § 105 BGB: Kein Erklärungswille möglich?
+7. Fehler bei Internetgeschäften: Wem ist die Erklärung zuzurechnen (Zurechnung nach § 164 BGB analog)?
+
+## Typische Fallstricke
+
+- Potentielles Erklärungsbewusstsein reicht nach h.M. aus — Erklärende haftet, wenn sie hätten erkennen können.
+- Scherzerklärung (§ 118 BGB) ist nichtig, aber Schadensersatzpflicht nach § 122 BGB entsteht.
+- Gefälligkeit ohne Rechtsbindungswillen begründet kein Schuldverhältnis — rein sozialer Bereich.
+- Vorübergehende Störung nach § 105 Abs. 2 BGB: Erklärung nichtig, auch wenn nicht auf Dauer geschäftsunfähig.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zum Tatbestand der Willenserklärung
+- Schema: Handlungswille → Erklärungsbewusstsein → Rechtsbindungswille → objektiver Tatbestand
+- Prüfampel: Willenserklärung bejaht / verneint / potentielles Bewusstsein ausreichend
+- Klausurlösungsskizze mit § 118 BGB und § 105 BGB-Varianten
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 118 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__118.html)
+- [§ 105 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__105.html)
+- [dejure.org § 116 BGB](https://dejure.org/gesetze/BGB/116.html)
+- [dejure.org § 105 BGB](https://dejure.org/gesetze/BGB/105.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Dreigliedriger Tatbestand
 
+Die Willenserklärung hat drei Elemente: (1) Handlungswille (der Erklärende handelt bewusst),
+(2) Erklärungsbewusstsein (Bewusstsein des Erklärenden, rechtserheblich zu handeln — nach h.M.
+genügt potentielles Bewusstsein), (3) Geschäftswille (der Erklärende will genau dieses Rechtsgeschäft).
 
-## Qualitäts-Hardening
+### Fehlen einzelner Elemente
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Fehlt der Handlungswille: Keine Willenserklärung (z.B. geführte Hand).
+Fehlt das Erklärungsbewusstsein: Streitig — nach h.M. WE mit Anfechtungsrecht.
+Fehlt der Geschäftswille: Anfechtungsrecht nach § 119 Abs. 1 BGB (Inhaltsirrtum).
+
+### Klausur-Checkliste Tatbestand WE
+
+- Handlungswille: Hat der Erklärende die äußere Handlung bewusst vorgenommen?
+- Erklärungsbewusstsein: Aktuell vorhanden oder nur potentiell — welche Ansicht?
+- Geschäftswille: Wollte Erklärende genau dieses Rechtsgeschäft?
+- Empfangsbedürftigkeit: Bedarf die WE des Zugangs beim Empfänger?
+- Objektiver Empfängerhorizont: Wie musste der Empfänger die Erklärung verstehen?

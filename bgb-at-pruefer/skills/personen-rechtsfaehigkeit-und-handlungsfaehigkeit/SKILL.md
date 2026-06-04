@@ -1,60 +1,83 @@
 ---
 name: personen-rechtsfaehigkeit-und-handlungsfaehigkeit
-description: "Prüft Rechtsfähigkeit, Verbraucher- und Unternehmerrolle, Wohnsitz, Organe und Handlungsfähigkeit als Vorfragen für BGB-AT-Fälle und Vertragsprüfungen."
+description: "Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess."
 ---
 
-# Personen Rechtsfaehigkeit Und Handlungsfaehigkeit
+# Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB
 
-## Zweck
+## Mandantenfall
 
-Rechtsträger, handelnde Person und Rolle sauber bestimmen.
+- Nasciturus — Ungeborenes Kind — soll Erbe werden; wann beginnt die Rechtsfähigkeit?
+- Verein handelt durch Vorstand — Rechtsfähigkeit der juristischen Person und Organvertretung.
+- Klausurkonstellation: Minderjähriger schließt Vertrag — Geschäftsfähigkeit und Genehmigungsbedarf.
 
-## Normanker
+## Erste Schritte
 
-§§ 1, 2 und 7-14 BGB
+1. Rechtsfähigkeit der natürlichen Person: Beginn mit Vollendung der Geburt (§ 1 BGB), Ende mit dem Tod.
+2. Nasciturus: Vorbehaltlich vollständige Geburt nach § 1923 Abs. 2 BGB als bedingt rechtsfähig.
+3. Juristische Personen: Rechtsfähigkeit ab Eintragung (§ 21 BGB e.V., § 13 GmbHG).
+4. Geschäftsfähigkeit prüfen: §§ 104 bis 106 BGB — Alters- und Geisteszustand.
+5. Deliktsfähigkeit nach § 828 BGB: Unterschiede zur Geschäftsfähigkeit.
+6. Parteifähigkeit im Zivilprozess nach § 50 ZPO mit Rechtsfähigkeit verknüpft.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 1 BGB: Beginn der Rechtsfähigkeit des Menschen mit vollendeter Geburt.
+- §§ 104 bis 106 BGB: Geschäftsunfähigkeit und beschränkte Geschäftsfähigkeit.
+- § 21 BGB: Rechtsfähigkeit des eingetragenen Vereins ab Registereintragung.
+- § 828 BGB: Deliktsfähigkeit — abweichende Altersgrenzen von der Geschäftsfähigkeit.
+- § 50 ZPO: Parteifähigkeit — Fähigkeit, als Partei im Prozess aufzutreten.
 
 ## Prüfraster
 
-1. Rechtsträger und handelnde Person getrennt erfassen
-2. Verbraucher- oder Unternehmerrolle markieren
-3. Organhandeln und Stellvertretung abgrenzen
-4. Statusfragen für spätere Form- und AGB-Prüfung festhalten
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Natürliche Person: Geburt vollständig vollzogen — § 1 BGB — Rechtsfähigkeit bejaht?
+2. Juristische Person: Eintragung oder gesetzliche Entstehungsvoraussetzungen erfüllt?
+3. Geschäftsfähigkeit: Alter und Geisteszustand nach §§ 104 bis 106 BGB?
+4. Beschränkte Geschäftsfähigkeit: Genehmigung des gesetzlichen Vertreters erforderlich?
+5. Deliktsfähigkeit nach § 828 BGB: Unterschied zur Geschäftsfähigkeit beachten.
+6. Parteifähigkeit nach § 50 ZPO für Prozessführung?
+7. Nasciturus: Bedingte Rechtsfähigkeit für Erbfall nach § 1923 Abs. 2 BGB?
+
+## Typische Fallstricke
+
+- Deliktsfähigkeit (§ 828 BGB) und Geschäftsfähigkeit (§ 104 BGB) haben unterschiedliche Altersgrenzen.
+- Juristische Person existiert erst ab Eintragung — vorher Vor-GmbH mit Eigenhaftung der Gründer.
+- Nasciturus ist noch nicht rechtsfähig — Rechte entstehen erst mit vollendeter Geburt, wirken zurück.
+- Parteifähigkeit und Prozessfähigkeit im Zivilprozess sind unterschiedliche Voraussetzungen.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu Rechtsfähigkeit und Handlungsfähigkeit
+- Checkliste: Rechtsfähigkeit / Geschäftsfähigkeit / Deliktsfähigkeit / Parteifähigkeit
+- Klausurlösungsskizze mit vollständiger Subsumtion
+- Rückfragenliste zu Geburtsdatum, Geisteszustand und Registereintragung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 1 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__1.html)
+- [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
+- [§ 828 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__828.html)
+- [dejure.org § 1 BGB](https://dejure.org/gesetze/BGB/1.html)
+- [dejure.org § 104 BGB](https://dejure.org/gesetze/BGB/104.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Juristische Personen im BGB
 
+Das BGB unterscheidet eingetragene Vereine (§§ 21 ff. BGB) und sonstige Körperschaften.
+Juristischen Personen handeln durch ihre Organe (§ 26 BGB beim Verein: Vorstand). Für die
+BGB-AT-Klausur ist wichtig: Wann entsteht die juristische Person und wer ist ihr Organ?
 
-## Qualitäts-Hardening
+### Vor-GmbH und Vor-Verein
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Vor Eintragung existiert eine Vor-GmbH oder ein Vor-Verein als nicht rechtsfähige Gesellschaft.
+Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung eingegangen werden
+(Handelndenhaftung, § 11 Abs. 2 GmbHG analog).
+
+### Klausur-Checkliste Rechtsfähigkeit
+
+- Natürliche Person: Geburt vollständig vollzogen — § 1 BGB?
+- Juristische Person: Eintragung erfolgt oder gesetzliche Entstehung?
+- Vor-Gesellschaft: Haftung der Gründer für Verbindlichkeiten?
+- Nasciturus: Bedingte Rechtsfähigkeit für Erbschaft nach § 1923 Abs. 2 BGB?
+- Deliktsfähigkeit nach § 828 BGB — Abweichung von Geschäftsfähigkeit beachten?

@@ -1,60 +1,83 @@
 ---
 name: eigenschaftsirrtum-paragraph-119-2
-description: "Prüft Eigenschaftsirrtum nach § 119 Abs. 2 BGB: verkehrswesentliche Eigenschaften von Person oder Sache, Wertabgrenzung, Beschaffenheit und Gewährleistungs-Schnittstelle."
+description: "Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen."
 ---
 
-# Eigenschaftsirrtum Paragraph 119 2
+# Eigenschaftsirrtum — § 119 Abs. 2 BGB
 
-## Zweck
+## Mandantenfall
 
-Eigenschaft nicht mit Wert oder bloßem Motiv gleichsetzen.
+- Mandant kauft ein vermeintlich echtes Gemälde — ist der Irrtum über die Echtheit ein Eigenschaftsirrtum nach § 119 Abs. 2 BGB?
+- Arbeitgeber hat Person eingestellt und erkennt nach Vertragsschluss, dass sie keine vorausgesetzte Qualifikation besitzt.
+- Klausurkonstellation: Irrtum über Zahlungsfähigkeit des Vertragspartners — Eigenschaftsirrtum oder Motivirrtum?
 
-## Normanker
+## Erste Schritte
 
-§ 119 Abs. 2 BGB
+1. Grundbegriff: Eigenschaft ist eine dem Gegenstand oder der Person dauerhaft anhaftende Qualität, die für den Verkehr bedeutsam ist.
+2. Verkehrswesentlichkeit bestimmen: Eigenschaft muss für diesen Vertragstyp im Verkehr erheblich sein.
+3. Abgrenzung Eigenschaftsirrtum vs. Motivirrtum: Motivirrtum liegt vor, wenn Irrtum nur persönliche Erwartung betrifft.
+4. Wertirrtum abgrenzen: Irrtum über Preis oder Marktwert ist grundsätzlich kein Eigenschaftsirrtum.
+5. Eigenschaft einer Person: Qualifikation, gesundheitlicher Zustand, Zahlungsfähigkeit — unterschiedliche Behandlung.
+6. Anfechtungsfrist nach § 121 BGB: unverzüglich nach Kenntnis.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 119 Abs. 2 BGB: Anfechtung bei Irrtum über verkehrswesentliche Eigenschaft einer Person oder Sache.
+- § 119 Abs. 1 BGB: Inhalts- und Erklärungsirrtum — abzugrenzen vom Eigenschaftsirrtum.
+- § 121 BGB: Unverzügliche Anfechtung nach Kenntnis des Eigenschaftsirrtums.
+- § 122 BGB: Vertrauensschadensersatz nach Anfechtung.
+- § 434 BGB: Sachmangel im Kaufrecht — Abgrenzung zu § 119 Abs. 2 BGB (Sperrwirkung?).
 
 ## Prüfraster
 
-1. Person oder Sache bestimmen
-2. Merkmal als verkehrswesentliche Eigenschaft prüfen
-3. Wert, Preis und Erwartung abgrenzen
-4. Gewährleistungsrecht als Schnittstelle markieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Liegt eine Eigenschaft i.S.d. § 119 Abs. 2 BGB vor (dauerhaft anhaftend, nicht bloß vorübergehend)?
+2. Verkehrswesentlichkeit: Eigenschaft für diesen Vertragstyp im Verkehr wesentlich?
+3. Irrtum: Hatte der Anfechtende eine falsche Vorstellung über diese Eigenschaft bei Vertragsschluss?
+4. Abgrenzung Motivirrtum: Nur individuelle Erwartung, nicht allgemein verkehrswesentlich?
+5. Wertirrtum ausschließen: Irrtum über Marktwert oder Preis ist kein Eigenschaftsirrtum.
+6. Kausalität: Hätte der Anfechtende bei richtiger Kenntnis die Erklärung nicht abgegeben?
+7. Verhältnis zu kaufrechtlicher Gewährleistung: Sperrwirkung oder Nebeneinander?
+
+## Typische Fallstricke
+
+- Wertirrtum ist kein Eigenschaftsirrtum — der BGH hält daran streng fest.
+- Zahlungsfähigkeit einer Person ist nach h.M. keine Eigenschaft i.S.d. § 119 Abs. 2 BGB.
+- Im Kaufrecht kann kaufrechtliche Gewährleistung § 119 Abs. 2 BGB verdrängen (streitig).
+- Eigenschaft muss bei Erklärung vorgelegen haben, nicht erst danach eingetreten sein.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt § 119 Abs. 2 BGB mit vollständiger Subsumtion
+- Abgrenzungstabelle: Eigenschaftsirrtum vs. Motivirrtum vs. Wertirrtum
+- Klausurlösungsskizze mit Anfechtungsfrist
+- Hinweise zur Konkurrenz mit kaufrechtlicher Gewährleistung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 121 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__121.html)
+- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
+- [dejure.org § 119 BGB](https://dejure.org/gesetze/BGB/119.html)
+- [§ 434 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__434.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Eigenschaftsbegriff im Überblick
 
+Eigenschaften im Sinne von § 119 Abs. 2 BGB sind dauerhafte, wertprägende Merkmale der Person
+oder Sache. Bei Sachen: Alter, Echtheit, Herkunft, Material. Bei Personen: Zahlungsfähigkeit
+(nur wenn verkehrswesentlich), Qualifikation (wenn vertragsrelevant).
 
-## Qualitäts-Hardening
+### Abgrenzung zum Motivirrtum
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Nicht jede irrige Vorstellung über den Gegenstand ist ein Eigenschaftsirrtum. Der Irrtum muss sich
+auf eine verkehrswesentliche Eigenschaft beziehen. Irrtum über den wirtschaftlichen Wert ist
+grundsätzlich Motivirrtum. Die Grenze ist fließend und BGH-Rechtsprechung prägt die Kasuistik.
+
+### Klausur-Checkliste § 119 Abs. 2 BGB
+
+- Eigenschaft der Sache oder Person konkret bestimmt (Alter, Echtheit, Qualifikation)?
+- Verkehrswesentlichkeit: Ist die Eigenschaft objektiv wertprägend?
+- Irrtum: Hatte der Anfechtende eine falsche Vorstellung über diese Eigenschaft?
+- Kausalität: Hätte er bei richtiger Kenntnis die Erklärung nicht abgegeben?
+- Abgrenzung: Eigenschaftsirrtum oder Motivirrtum — welche Merkmale sprechen wofür?

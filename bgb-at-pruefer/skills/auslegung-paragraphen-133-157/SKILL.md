@@ -1,70 +1,84 @@
 ---
 name: auslegung-paragraphen-133-157
-description: "Prüft Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: wirklicher Wille, objektiver Empfängerhorizont, Treu und Glauben, Verkehrssitte und Kontext."
+description: "Klausurfall zur Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: natürliche Auslegung, normative Auslegung nach objektivem Empfängerhorizont, falsa demonstratio non nocet, ergänzende Vertragsauslegung bei Lücken."
 ---
 
-# Auslegung Paragraphen 133 157
+# Auslegung von Willenserklärungen und Verträgen — §§ 133 und 157 BGB
 
-## Zweck
+## Mandantenfall
 
-Auslegung vor Anfechtung, Dissens und Lückenschließung durchführen.
+- Mandant und Vertragspartner streiten über Bedeutung eines Vertragsbegriffs — was war der gemeinsame Wille?
+- Kaufvertrag über 'Haakjöringsköd': falsa demonstratio non nocet — der wirkliche gemeinsame Wille zählt.
+- Klausurkonstellation: Schweigen oder unklare Formulierung — Auslegung vor Anfechtung prüfen.
 
-## Normanker
+## Erste Schritte
 
-- § 133 BGB: Bei Auslegung einer Willenserklärung ist der wirkliche Wille zu erforschen, nicht am buchstäblichen Sinn zu haften.
-- § 157 BGB: Verträge sind nach Treu und Glauben mit Rücksicht auf die Verkehrssitte auszulegen.
-- Auslegungsmethode bei empfangsbedürftigen Erklärungen: objektiver Empfängerhorizont (BGH ständige Rspr. — wie ein verständiger Dritter in der Lage des konkreten Empfängers verstehen durfte).
-- Nicht empfangsbedürftige Erklärungen (Testament): subjektiver Empfängerhorizont, wirklicher Wille des Erklärenden dominiert.
-- Falsa demonstratio non nocet: Beide Vertragsparteien wollten dasselbe; Falschbezeichnung schadet nicht. Vorrang vor Anfechtung.
-- Ergänzende Vertragsauslegung (§ 157 BGB analog): Lückenschließung über hypothetischen Parteiwillen, wenn Regelungslücke besteht.
-- Vorrang Auslegung vor Anfechtung: Erst klären, was vereinbart wurde, dann ob ein Anfechtungsgrund vorliegt.
-- AGB-spezifische Auslegung § 305c Abs. 2 BGB: Unklarheitenregel — Zweifel gehen zulasten des Verwenders.
+1. Natürliche Auslegung: War der gemeinsame Wille beider Parteien nachweisbar identisch? (falsa demonstratio).
+2. Normative Auslegung: Wie hätte ein verständiger Empfänger die Erklärung verstehen müssen?
+3. Wortlaut, Systematik, Entstehungsgeschichte und Zweck des Vertrags heranziehen (§ 133 BGB).
+4. Treu und Glauben und Verkehrssitte bei Vertragsauslegung (§ 157 BGB).
+5. Ergänzende Vertragsauslegung: Regelungslücke festgestellt — hypothetischer Parteiwille ermitteln.
+6. Auslegung hat Vorrang vor Anfechtung und Nichtigkeit.
 
-## Praxis-Tipp
-- Reihenfolge in der Klausur: 1) Auslegung, 2) Falsa demonstratio prüfen, 3) Dissens (§§ 154, 155 BGB), 4) erst dann Anfechtung. Wer hier umgekehrt prüft, prüft zu viel und meist falsch.
+## Rechtsrahmen
 
-## Intake
-
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 133 BGB: Auslegung von Willenserklärungen — erforschung des wirklichen Willens.
+- § 157 BGB: Auslegung von Verträgen — Treu und Glauben und Verkehrssitte.
+- § 242 BGB: Treu und Glauben als allgemeiner Auslegungsmaßstab.
+- § 119 BGB: Irrtumsanfechtung — erst nach gescheiterter Auslegung relevant.
+- §§ 305 ff. BGB: AGB-spezifische Auslegung nach objektiven Maßstäben.
 
 ## Prüfraster
 
-1. Wortlaut, Kontext, Zweck und Vorverhalten sammeln
-2. wirklichen Willen und Empfängerhorizont unterscheiden
-3. Treu und Glauben sowie Verkehrssitte einbeziehen
-4. erst danach Anfechtung oder Dissens prüfen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Natürliche Auslegung: Gibt es einen nachweisbaren übereinstimmenden Willen beider Parteien?
+2. Normative Auslegung: Empfängerhorizont — wie hätte ein verständiger Dritter verstanden?
+3. Auslegungsmittel: Wortlaut, Systematik, Vertragsgeschichte, wirtschaftlicher Zweck.
+4. Mehrdeutigkeit durch Auslegung auflösbar oder nicht?
+5. Ergänzende Vertragsauslegung: Liegt eine planwidrige Regelungslücke vor?
+6. Hypothetischer Parteiwille bei ergänzender Auslegung — nach Treu und Glauben.
+7. Ergebnis: Inhalt der Willenserklärung oder des Vertrags nach Auslegung.
+
+## Typische Fallstricke
+
+- Auslegung ist kein Instrument zum Vertragsinhalt-Erfinden; sie muss sich am Parteiwillen orientieren.
+- Falsa demonstratio: Unterschiedliche Bezeichnung, gleicher Wille — der Wille setzt sich durch.
+- Ergänzende Vertragsauslegung erfordert eine planwidrige Lücke, nicht bloß eine für eine Partei ungünstige Regelung.
+- § 157 BGB gilt nur für Verträge, § 133 BGB für alle Willenserklärungen.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Auslegungsgutachten: natürliche und normative Auslegung im Gutachtenstil
+- Schema: Auslegungsmittel und Ergebnis tabellarisch
+- Ergänzende Vertragsauslegung: Lücke — Maßstab — Ergebnis
+- Abgrenzung Auslegung vs. Anfechtung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 157 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__157.html)
+- [dejure.org § 133 BGB](https://dejure.org/gesetze/BGB/133.html)
+- [dejure.org § 157 BGB](https://dejure.org/gesetze/BGB/157.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Auslegungsmethoden im Überblick
 
+§ 133 BGB verbietet am Buchstaben zu haften — der wirkliche Wille ist zu erforschen.
+§ 157 BGB ergänzt: Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die
+Verkehrssitte es erfordern. Beide Normen greifen ineinander: § 133 BGB gilt für alle WE,
+§ 157 BGB spezifisch für Verträge.
 
-## Qualitäts-Hardening
+### Objektiver Empfängerhorizont
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Maßgeblich ist nicht der subjektive Wille des Erklärenden, sondern wie ein verständiger Empfänger
+in der Lage des Erklärungsempfängers die Erklärung verstehen musste (objektiver Empfängerhorizont).
+Ausnahme: Falsa demonstratio non nocet — wenn beide dasselbe wollten, trotz anderer Worte.
+
+### Klausur-Checkliste Auslegung
+
+- Wortlaut der Erklärung als Ausgangspunkt bestimmt?
+- Begleitumstände, Entstehungsgeschichte und Zweck berücksichtigt?
+- Objektiver Empfängerhorizont angelegt?
+- Falsa demonstratio: Haben beide Parteien dasselbe gemeint?
+- Ergänzende Vertragsauslegung nur bei echter Regelungslücke, nicht bei Dissens?

@@ -1,63 +1,83 @@
 ---
 name: elektronischer-zugang-und-plattformen
-description: "Prüft elektronischen Zugang über E-Mail, Kundenportal, Messenger, Plattformkonto, Signaturdienst und automatisierte Systeme mit BGB-AT-Zugang, Form und Beweisrisiko."
+description: "Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich."
 ---
 
-# Elektronischer Zugang Und Plattformen
+# Elektronischer Zugang und Plattformen — § 130 BGB digital
 
-## Zweck
+## Mandantenfall
 
-Digitale Erklärungsketten rechtsgeschäftlich sortieren.
+- Mandant sendet Kündigung per E-Mail außerhalb der Geschäftszeiten des Empfängers — wann ist sie zugegangen?
+- Vertragsangebot über Plattform-Nachrichtensystem eingegangen — gilt normales § 130-BGB-Zugangsprinzip?
+- Klausurkonstellation: Automatisiertes Bestellsystem nimmt Bestellung entgegen — Zugang gegenüber juristischer Person.
 
-## Normanker
+## Erste Schritte
 
-§§ 126a, 126b und 130 BGB
+1. Zugang nach § 130 BGB: Erklärung muss in den Machtbereich des Empfängers gelangen.
+2. Elektronische Erklärung: Eingang im Postfach oder System des Empfängers begründet Machtbereich.
+3. Kenntnisnahmemöglichkeit: Zeitpunkt, ab dem verständiger Empfänger Kenntnis nehmen kann.
+4. Geschäftszeiten: B2B — Eingang außerhalb der Geschäftszeiten = Zugang am nächsten Werktag zu Beginn.
+5. Plattformen: Eingang im Plattform-Postfach = Zugang, wenn verständige Person regelmäßig abruft.
+6. Empfangsbereitschaft: B2B umfangreicher als B2C; DOI-Adresse aus Geschäftspapier begründet Bereitschaft.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 130 Abs. 1 BGB: Zugang der Willenserklärung unter Abwesenden — Machtbereich und Kenntnisnahme.
+- § 130 Abs. 1 S. 2 BGB: Widerruf der Willenserklärung vor oder gleichzeitig mit Zugang.
+- § 312i BGB: Pflichten im elektronischen Geschäftsverkehr — Bestätigung des Eingangs.
+- § 126a BGB: Elektronische Form — qualifizierte elektronische Signatur.
+- § 242 BGB: Treu und Glauben — Empfänger kann Zugang nicht durch Abschaltung des Systems vereiteln.
 
 ## Prüfraster
 
-1. eröffneten Kommunikationskanal feststellen
-2. Abrufbarkeit, Spamfilter, Bounce und Portalhinweis prüfen
-3. Systemmeldungen als Wissenserklärung oder Willenserklärung einordnen
-4. bei qES prüfen, ob die Datei samt prüfbarer Signatur in den Machtbereich des Empfängers gelangt ist
-5. bei beA/EGVP prüfen, ob nur prozessual eingereicht wurde oder eine materielle Formfiktion trägt
-6. Form- und Beweisrisiken verbinden
-7. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-8. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Machtbereich des Empfängers bei elektronischer Erklärung: E-Mail-Eingang, Plattform-Postfach?
+2. Kenntnisnahmemöglichkeit: Zeitpunkt bestimmen (Eingang, Geschäftszeiten, Systemverfügbarkeit)?
+3. B2B oder B2C: unterschiedliche Empfangsbereitschaft und Zumutbarkeit.
+4. Plattformspezifische Besonderheiten: Benachrichtigungssystem, Lesebestätigung.
+5. Zugangsvereitelung durch Empfänger: § 242 BGB greift.
+6. Widerruf: Ist er dem Empfänger vor oder gleichzeitig zugegangen?
+7. Prozessualer Beweis: Serverlog, Lesebestätigung, Lieferquittung.
+
+## Typische Fallstricke
+
+- E-Mail-Zugang am Wochenende: Nach herrschender Meinung Zugang erst am nächsten Werktag bei B2B.
+- Plattform-Postfach ohne Benachrichtigung: Zugang kann sich verzögern, wenn Nutzer seltener einloggt.
+- Spam-Filter: Unverschuldete Nichtkenntnis kann Zugangsvereitelung durch Empfänger ausschließen.
+- Automatisierte Systeme bei juristischen Personen: Zugang sofort bei Eingang im System.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Zugangszeitpunkt-Schema: Eingang — Kenntnisnahmemöglichkeit — Zugang
+- B2B vs. B2C-Vergleich für elektronische Erklärungen
+- Gutachtenstil-Abschnitt zu § 130 BGB elektronisch
+- Beweislast-Hinweise für Zugangszeitpunkt
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
+- [§ 312i BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312i.html)
+- [§ 126a BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__126a.html)
+- [dejure.org § 130 BGB](https://dejure.org/gesetze/BGB/130.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- elektronische-form-bea-qes-formfiktion
-- bgb-at-output-gutachten-memo-schriftsatz
+### Elektronischer Geschäftsverkehr und BGB
 
+Das BGB enthält mit § 312i BGB spezielle Pflichten für den elektronischen Geschäftsverkehr:
+Bestellbutton-Anforderungen, Bestätigungspflichten, Informationspflichten. Diese Normen ergänzen
+das allgemeine Zugangsrecht nach § 130 BGB.
 
-## Qualitäts-Hardening
+### Plattform-Besonderheiten
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Bei Online-Marktplätzen (Amazon, eBay etc.) ist die Frage, wer Erklärungsempfänger ist und wann
+der Zugang in das System der Plattform als Zugang beim Empfänger gilt. Die Plattform als Empfangsbote
+des Nutzers ist der gängige Ansatz.
+
+### Klausur-Checkliste elektronischer Zugang
+
+- E-Mail: Zugang im Postfach des Empfängers oder im Provider-Server?
+- Plattform-Nachricht: Plattform als Empfangsbote — Zugang beim Nutzer wann?
+- Außerhalb der Geschäftszeiten: Im B2B-Bereich Verschiebung auf nächsten Werktag?
+- § 312i BGB: Bestätigungspflichten und ihre Rechtsfolgen?
+- Automatisierte Systeme: Wann gilt eine maschinelle Antwort als rechtsverbindliche Erklärung?

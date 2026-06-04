@@ -1,60 +1,83 @@
 ---
 name: ergaenzende-vertragsauslegung
-description: "Prüft ergänzende Vertragsauslegung bei planwidriger Lücke, hypothetischem Parteiwillen, dispositivem Recht und Grenzen zur unzulässigen Vertragsneuschöpfung."
+description: "Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Rechtsfortbildung."
 ---
 
-# Ergaenzende Vertragsauslegung
+# Ergänzende Vertragsauslegung — §§ 133 und 157 BGB
 
-## Zweck
+## Mandantenfall
 
-Vertragslücken füllen, ohne den Vertrag neu zu schreiben.
+- Langzeitvertrag schweigt zur Preisanpassung bei außergewöhnlicher Kostenentwicklung — ergänzende Auslegung?
+- Partnerschaftsvertrag enthält keine Regelung zur Kündigung — lückenlos ausgelegt oder gesetzliche Norm?
+- Klausurkonstellation: AGB-Klausel ist unwirksam (§ 307 BGB) — kann die Lücke durch ergänzende Auslegung geschlossen werden?
 
-## Normanker
+## Erste Schritte
 
-§§ 133 und 157 BGB
+1. Regelungslücke feststellen: Vertrag schweigt zu einem relevanten Punkt.
+2. Planwidrige Lücke prüfen: Haben die Parteien das Thema bewusst offengelassen oder nur vergessen?
+3. Hypothetischer Parteiwille ermitteln: Was hätten vernünftige Parteien vereinbart?
+4. Maßstab § 157 BGB: Treu und Glauben und Verkehrssitte.
+5. Vorrang dispositiver Gesetzesnormen: Liegt eine passende gesetzliche Regelung vor?
+6. Grenze: Keine Neuregelung durch ergänzende Auslegung — nur Schließung echter Lücke.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 133 BGB: Auslegung — erforschung des wirklichen Willens.
+- § 157 BGB: Vertragsauslegung nach Treu und Glauben und Verkehrssitte.
+- § 306 BGB: AGB-Lücke — ergänzende Vertragsauslegung nach Unwirksamkeit einer Klausel.
+- § 313 BGB: Störung der Geschäftsgrundlage — abzugrenzen von ergänzender Auslegung.
+- § 242 BGB: Treu und Glauben als übergeordneter Auslegungsmaßstab.
 
 ## Prüfraster
 
-1. planwidrige Lücke feststellen
-2. dispositives Recht und Risikozuweisung prüfen
-3. hypothetischen Parteiwillen aus Zweck und Interessen ableiten
-4. Grenze zur Neuschöpfung markieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Liegt eine Regelungslücke vor — Vertrag enthält keine Regelung für den eingetretenen Fall?
+2. Planwidrige Lücke: Parteien haben das Thema nicht bedacht (nicht bewusst offengelassen)?
+3. Hypothetischer Parteiwille: Was hätten redliche Parteien nach Treu und Glauben vereinbart?
+4. Gesetzliche Regelung: Gibt es ein dispositives Gesetz, das die Lücke füllt?
+5. AGB-Kontext nach § 306 BGB: Unwirksame Klausel — Lücke durch ergänzende Auslegung?
+6. Grenze: Darf das Ergebnis den Vertrag nicht in eine andere Richtung lenken als die Parteien es wollten.
+7. Abgrenzung zu § 313 BGB: Nicht jede Lücke ist eine Störung der Geschäftsgrundlage.
+
+## Typische Fallstricke
+
+- Ergänzende Auslegung ist kein Instrument für richterliche Rechtsfortbildung oder Vertragsneugestaltung.
+- Bewusst offengelassene Lücken sind nicht planwidrig — keine ergänzende Auslegung möglich.
+- Dispositives Recht hat Vorrang vor ergänzender Auslegung wenn eine passende Norm existiert.
+- Im AGB-Recht sind die Anforderungen an ergänzende Auslegung strenger als bei Individualverträgen.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Prüfungsschema ergänzende Vertragsauslegung: Lücke — planwidrig — hypothetischer Wille
+- Abgrenzungstabelle: ergänzende Auslegung vs. dispositives Recht vs. § 313 BGB
+- Gutachtenstil-Abschnitt zur Lückenschließung
+- Klausurlösungsskizze mit Ergebnis
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 157 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__157.html)
+- [§ 306 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__306.html)
+- [§ 313 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__313.html)
+- [dejure.org § 157 BGB](https://dejure.org/gesetze/BGB/157.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Abgrenzung zur dispositiven Auslegung
 
+Die ergänzende Vertragsauslegung nach §§ 133 und 157 BGB ist von der schlichten Auslegung
+zu unterscheiden: Auslegung erschließt vorhandene Erklärungen. Ergänzende Auslegung füllt
+echte Regelungslücken — Fälle, die die Parteien nicht bedacht haben.
 
-## Qualitäts-Hardening
+### Hypothetischer Parteiwille
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Maßstab der ergänzenden Auslegung ist der hypothetische Parteiwille: Was hätten die Parteien
+vernünftigerweise vereinbart, wenn sie den Lückenfall bedacht hätten? Nicht was eine Partei
+wollte, sondern was beide bei redlichem Vorgehen gewollt hätten.
+
+### Klausur-Checkliste ergänzende Vertragsauslegung
+
+- Echte Regelungslücke festgestellt (kein Dissens, kein offener Widerspruch)?
+- Dispositives Gesetzesrecht als Lückenfüller ausreichend?
+- Wenn nicht: Hypothetischer Parteiwille nach §§ 133 und 157 BGB ermittelbar?
+- Ergebnis sachgerecht und für beide Parteien zumutbar?
+- Abgrenzung zum Dissens: Haben Parteien die Lücke bewusst offengelassen?

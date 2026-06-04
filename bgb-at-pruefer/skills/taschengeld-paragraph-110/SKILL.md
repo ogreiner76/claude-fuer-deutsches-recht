@@ -1,60 +1,83 @@
 ---
 name: taschengeld-paragraph-110
-description: "Prüft § 110 BGB beim Minderjährigen: Bewirken der vertragsmäßigen Leistung mit überlassenen Mitteln, Raten, Kredit, Teilzahlung, digitale Zahlungen und Genehmigungsrisiken."
+description: "Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB."
 ---
 
-# Taschengeld Paragraph 110
+# Taschengeldparagraph — § 110 BGB
 
-## Zweck
+## Mandantenfall
 
-Taschengeldregel von bloßer Anzahlung und Kreditrisiko unterscheiden.
+- 16-Jähriger kauft Fahrrad für 200 € aus seinem Taschengeld — Vertrag ohne Elternzustimmung wirksam?
+- Minderjähriger kauft Monatskarte mit Taschengeld — Gesamtpreis übersteigt monatliches Taschengeld?
+- Klausurkonstellation: Minderjähriger erwirbt mit Taschengeld auf Raten — Gesamtbeurteilung der Erfüllungsmittel.
 
-## Normanker
+## Erste Schritte
 
-§ 110 BGB
+1. Geschäftsfähigkeit prüfen: Minderjähriger zwischen 7 und 17 Jahren — beschränkt geschäftsfähig (§ 106 BGB).
+2. Einwilligung des gesetzlichen Vertreters fehlt — grundsätzlich schwebende Unwirksamkeit nach § 108 BGB.
+3. § 110 BGB prüfen: Hat der Minderjährige die vertragsgemäße Leistung vollständig aus eigenen Mitteln erbracht?
+4. Zu freiem Verfügen überlassen: Taschengeld, Geldgeschenke — keine zweckgebundenen Gelder.
+5. Vollständige Leistungsbewirkung: Gesamter Preis aus freien Mitteln — Ratenkauf problematisch.
+6. Rechtsfolge: Vertrag gilt von Anfang an als wirksam ohne Einwilligung.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 106 BGB: Beschränkte Geschäftsfähigkeit von Minderjährigen ab 7 Jahren.
+- § 108 BGB: Schwebende Unwirksamkeit ohne Einwilligung des gesetzlichen Vertreters.
+- § 110 BGB: Bewirkung der Leistung aus eigenen Mitteln — Taschengeldparagraph.
+- § 107 BGB: Lediglich rechtlich vorteilhaftes Geschäft — kein Einwilligungsbedarf.
+- § 112 BGB: Selbständiger Betrieb eines Erwerbsgeschäfts — weitere Ausnahme.
 
 ## Prüfraster
 
-1. überlassene Mittel und Zweckbindung klären
-2. vollständiges Bewirken der vertragsmäßigen Leistung prüfen
-3. Raten, Kredit und Rückbelastung ausschließen
-4. Genehmigungsbedarf dokumentieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Minderjähriger: Alter zwischen 7 und 17 Jahren — § 106 BGB?
+2. Einwilligung des gesetzlichen Vertreters vorhanden oder fehlend?
+3. Mittel zu freiem Verfügen überlassen: Taschengeld, unzweckgebundenes Geldgeschenk?
+4. Vollständige Leistungsbewirkung aus diesen Mitteln — § 110 BGB erfüllt?
+5. Ratenkauf: Kann Minderjähriger alle Raten aus freien Mitteln bestreiten?
+6. Zweckgebundene Mittel: Ausbildungsgelder, Sparguthaben mit Elternzweck — kein § 110 BGB?
+7. Rechtsfolge: Vertrag nachträglich wirksam oder weiterhin schwebend unwirksam?
+
+## Typische Fallstricke
+
+- Zweckgebundene Mittel (z.B. Schulbuch-Geld der Eltern) fallen nicht unter § 110 BGB.
+- Ratenkäufe: Nur wirksam nach § 110 BGB, wenn alle Raten aus freien Mitteln geleistet werden.
+- § 110 BGB heilt nur, wenn die vollständige Leistung erbracht wurde — nicht schon bei Vertragsschluss.
+- Schenkungen an Minderjährige von Dritten können freie Mittel sein, wenn keine Zweckbindung besteht.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu § 110 BGB mit vollständiger Subsumtion
+- Prüfampel: § 110 BGB erfüllt / schwebend unwirksam / weitere Ausnahme einschlägig
+- Klausurlösungsskizze mit Abgrenzung zu §§ 107 und 112 BGB
+- Rückfragenliste zu Mittelherkunft und Vollständigkeit der Leistung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 110 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__110.html)
+- [§ 106 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__106.html)
+- [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
+- [dejure.org § 110 BGB](https://dejure.org/gesetze/BGB/110.html)
+- [dejure.org § 106 BGB](https://dejure.org/gesetze/BGB/106.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Taschengeldparagraph im modernen Kontext
 
+In der digitalen Welt stellt sich die Frage, ob Kryptowährungen oder Guthaben auf Online-Plattformen
+als Mittel im Sinne von § 110 BGB gelten. Die h.M. bejaht dies, wenn der Minderjährige frei
+über das Guthaben verfügen kann und es ihm zu freiem Verfügen überlassen wurde.
 
-## Qualitäts-Hardening
+### Ratenkauf-Problem
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+§ 110 BGB schützt bei Ratenkäufen nur, wenn der Minderjährige sämtliche Raten aus den frei
+verfügbaren Mitteln bestreiten kann. Es genügt nicht, wenn nur die erste Rate aus Taschengeld
+bezahlt wird und die restlichen Raten noch offen sind.
+
+### Klausur-Checkliste § 110 BGB
+
+- Alter des Minderjährigen: § 106 BGB-Stufe (7-17 Jahre)?
+- Mittel zu freiem Verfügen überlassen: Taschengeld, unzweckgebundenes Geldgeschenk?
+- Vollständige Leistungsbewirkung aus diesen Mitteln?
+- Ratenkauf: Alle künftigen Raten aus freien Mitteln bestreitbar?
+- Zweckgebundene Mittel ausgeschieden: Schulbuch-Geld, Ausbildungsgelder?

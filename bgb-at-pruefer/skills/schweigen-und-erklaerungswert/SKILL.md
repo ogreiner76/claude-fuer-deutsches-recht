@@ -1,60 +1,85 @@
 ---
 name: schweigen-und-erklaerungswert
-description: "Prüft Schweigen als Nicht-Erklärung und Ausnahmen: kaufmännisches Bestätigungsschreiben, vereinbarte Erklärungswirkung, Treu und Glauben, AGB-Grenzen und Verbraucherschutz."
+description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster."
 ---
 
-# Schweigen Und Erklaerungswert
+# Schweigen und Erklärungswert
 
-## Zweck
+## Mandantenfall
 
-Schweigen nur in engen Ausnahmefällen als Zustimmung behandeln.
+- Kaufmann erhält Bestätigungsschreiben und schweigt — gilt der Vertragsinhalt des Schreibens als vereinbart?
+- Vertragsklausel: Ausbleiben der Antwort innerhalb von 14 Tagen gilt als Zustimmung — wirksam?
+- Klausurkonstellation: Verbraucher erhält unbestellte Ware mit dem Hinweis, Schweigen sei Annahme.
 
-## Normanker
+## Erste Schritte
 
-BGB AT und HGB-Schnittstelle
+1. Grundregel: Schweigen ist grundsätzlich keine Willenserklärung — kein Rechtsbindungswille.
+2. Ausnahmen prüfen: Gesetz, Vertrag oder Handelsbrauch können Schweigen Erklärungswert geben.
+3. Kaufmännisches Bestätigungsschreiben: Erhält Kaufmann ein Bestätigungsschreiben und schweigt — wesentliche Inhalte gelten als angenommen (§ 346 HGB analog, Gewohnheitsrecht).
+4. Vertraglich vereinbarter Erklärungswert: § 305c BGB-Überraschungsklausel und AGB-Inhaltskontrolle.
+5. § 362 HGB: Kaufmann muss auf Antragsschreiben reagieren, wenn er Geschäfte dieser Art besorgt.
+6. Verbraucherschutz: Unbestellte Ware begründet keinen Anspruch auf Bezahlung (§ 241a BGB).
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 116 ff. BGB: Willenserklärung setzt Rechtsbindungswillen voraus — Schweigen in der Regel keine WE.
+- § 241a BGB: Unbestellte Leistungen — Schweigen begründet kein Schuldverhältnis.
+- § 362 HGB: Kaufmännische Reaktionspflicht auf Antragsschreiben.
+- §§ 305c und 307 BGB: AGB-Kontrolle bei vertraglich vereinbartem Erklärungswert des Schweigens.
+- § 346 HGB: Handelsbräuche — Grundlage für kaufmännisches Bestätigungsschreiben.
 
 ## Prüfraster
 
-1. Ausgangspunkt kein Erklärungswert festhalten
-2. gesetzliche, vertragliche oder Verkehrssitte-Ausnahme prüfen
-3. kaufmännisches Bestätigungsschreiben eng aufbauen
-4. Verbraucher- und AGB-Grenzen markieren
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Grundregel beachten: Ist Schweigen nach allgemeinen Grundsätzen keine Willenserklärung?
+2. Gesetzliche Ausnahme: § 362 HGB oder § 241a BGB einschlägig?
+3. Kaufmännisches Bestätigungsschreiben: Beide Kaufleute, vorhergehende Verhandlung, Schreiben zeitnah nach Vertragsschluss?
+4. Vertraglich vereinbarter Erklärungswert: AGB-Kontrolle nach §§ 305c und 307 BGB?
+5. Schweigen auf Vertragsangebot: Kein Annahmewert ohne Ausnahmegrundlage.
+6. Verbraucher: § 241a BGB schließt Bezahlungspflicht aus.
+7. Ergebnis: Schweigen als Zustimmung, Ablehnung oder bedeutungslos?
+
+## Typische Fallstricke
+
+- Kaufmännisches Bestätigungsschreiben gilt nur bei vorherigen Verhandlungen, nicht als erstes Angebot.
+- § 241a BGB schützt Verbraucher nur — im B2B-Bereich andere Maßstäbe.
+- AGB-Klauseln mit Schweigen als Zustimmung müssen § 307 BGB standhalten.
+- Bloßes Unterlassen der Antwort auf ein Angebot ist nie Annahme im Verbraucherrecht.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zum Erklärungswert des Schweigens
+- Entscheidungsbaum: Grundregel → gesetzliche Ausnahme → vertragliche Ausnahme
+- Prüfampel: Schweigen als WE / keine WE / AGB-Problem
+- Klausurlösungsskizze mit kaufmännischem Bestätigungsschreiben
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 241a BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__241a.html)
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 305c BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__305c.html)
+- [dejure.org § 241a BGB](https://dejure.org/gesetze/BGB/241a.html)
+- [dejure.org § 362 HGB](https://dejure.org/gesetze/HGB/362.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Kaufmännisches Bestätigungsschreiben im Detail
 
+Das kaufmännische Bestätigungsschreiben (kfm. BS) ist Gewohnheitsrecht: Nach Vertragsverhandlungen
+bestätigt eine Seite den Vertragsinhalt schriftlich. Der Empfänger muss widersprechen, wenn der
+Inhalt nicht dem Vereinbarten entspricht. Ohne Widerspruch gilt der Inhalt als vereinbart.
 
-## Qualitäts-Hardening
+Voraussetzungen: (1) Beide Seiten Kaufleute, (2) vorangegangene Vertragsverhandlungen,
+(3) Bestätigungsschreiben zeitnah nach Abschluss, (4) Inhalt nicht evident falsch.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Schweigen als Annahme in AGB
+
+AGB-Klauseln, die Schweigen als Zustimmung werten, unterliegen der Inhaltskontrolle nach § 307 BGB.
+Im Verbraucherbereich sind solche Klauseln regelmäßig unwirksam (§ 308 Nr. 5 BGB).
+
+### Klausur-Checkliste Schweigen
+
+- Grundregel beachtet: Schweigen ist keine Willenserklärung?
+- Ausnahme: § 362 HGB, § 241a BGB oder kaufmännisches Bestätigungsschreiben?
+- Kfm. BS: Beide Kaufleute, vorangegangene Verhandlungen, zeitnah?
+- Vertraglich vereinbarter Erklärungswert: AGB-Kontrolle nach § 307 BGB?
+- Verbraucher: § 241a BGB schließt Zahlungspflicht bei unbestellter Ware aus?

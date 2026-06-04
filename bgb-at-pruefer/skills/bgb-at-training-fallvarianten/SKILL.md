@@ -1,60 +1,84 @@
 ---
 name: bgb-at-training-fallvarianten
-description: "Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining."
+description: "Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen."
 ---
 
-# Bgb At Training Fallvarianten
+# Training mit Fallvarianten — BGB Allgemeiner Teil Examen
 
-## Zweck
+## Mandantenfall
 
-Realistische Übungsfälle ohne erkennbare Vorlagen bauen.
+- Examenskandidat möchte typische Fallvarianten zu BGB-AT-Themen üben.
+- Universitätskurs sucht Trainingsaufgaben mit steigendem Schwierigkeitsgrad.
+- Referendar bereitet sich auf Assessorexamen vor und braucht Praxisvarianten.
 
-## Normanker
+## Erste Schritte
 
-BGB AT fallabhängig
+1. Themenschwerpunkt wählen: Willenserklärung, Anfechtung, Stellvertretung oder Geschäftsfähigkeit.
+2. Einstiegsvariante (leicht): klare Faktenlage, direkte Normzuordnung.
+3. Fortgeschrittene Variante: Überlagerung zweier Probleme (z.B. Minderjähriger + Vollmacht).
+4. Examens-Variante: Kombinierte Probleme mit Ablenkungsfakten im Sachverhalt.
+5. Mustersubsumtion durcharbeiten und mit eigenem Ergebnis vergleichen.
+6. Selbstkontrollfragen beantworten und Lücken identifizieren.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 104 bis 113 BGB: Geschäftsfähigkeit — häufigster Klausurschwerpunkt im BGB AT.
+- §§ 116 bis 130 BGB: Willenserklärung — Tatbestand, Mängel, Zugang.
+- §§ 119 bis 124 BGB: Anfechtung — Grund, Frist, Folgen.
+- §§ 164 bis 181 BGB: Stellvertretung — Vollmacht, Missbrauch, Insichgeschäft.
+- §§ 145 bis 157 BGB: Vertragsschluss und Auslegung.
 
 ## Prüfraster
 
-1. Lernziel und Normcluster wählen
-2. vollständig fiktive Namen, Orte, Beträge und Dokumente erzeugen
-3. Abwandlungen mit je einem Schwerpunkt bauen
-4. Lösungsskizze und Fehlerdiagnose liefern
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Fallvariante sorgfältig lesen — Abweichung zur Standardkonstellation identifizieren.
+2. Betroffene Normen herausarbeiten.
+3. Selbstständige Lösung erarbeiten, bevor Mustersubsumtion gelesen wird.
+4. Mustersubsumtion vergleichen: Aufbau, Argumentation, Ergebnis.
+5. Fehleranalyse: Wo lag der Unterschied zur Musterlösung?
+6. Variante abwandeln und neue Lösungsübung erstellen.
+7. Zeitmessung: Klausurzeit pro Variante dokumentieren.
+
+## Typische Fallstricke
+
+- Zu schnelles Lesen der Mustersubsumtion verhindert echten Lerneffekt.
+- Varianten nicht isoliert üben — Vernetzung mit anderen BGB-AT-Themen erkunden.
+- Ablenkungsfakten im Sachverhalt nicht übersehen — Examensklausuren arbeiten damit gezielt.
+- Zeitmanagement trainieren: Nicht nur Inhalte, sondern auch Zeitplanung üben.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Fallvariantenserie mit drei Schwierigkeitsstufen pro Thema
+- Mustersubsumtionen im Gutachtenstil
+- Selbstkontroll-Fragebogen nach jeder Variante
+- Lernfortschritts-Checkliste für Examensvorbereitung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
+- [dejure.org § 104 BGB](https://dejure.org/gesetze/BGB/104.html)
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Trainingsansatz mit Fallvarianten
 
+BGB-AT-Kompetenz entsteht durch wiederholtes Durcharbeiten verschiedener Fallkonstellationen.
+Fallvarianten helfen, das Verständnis zu vertiefen: Was ändert sich, wenn der Minderjährige statt
+7 Jahre alt 16 Jahre alt ist? Was ändert sich, wenn die Erklärung per E-Mail statt per Brief abgegeben wird?
 
-## Qualitäts-Hardening
+### Variationsdimensionen
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+(1) Personeneigenschaft: Minderjähriger, Geschäftsunfähiger, Kaufmann, Verbraucher
+(2) Erklärungsform: mündlich, schriftlich, elektronisch, durch Boten
+(3) Vollmachtsstruktur: Eigenvollmacht, Prokura, gesetzliche Vertretung
+(4) Zeitliche Dimension: Fristen, Verjährung, Rückwirkung
+
+### Klausur-Checkliste Fallvarianten
+
+- Ausgangssachverhalt vollständig gelöst?
+- Varianten systematisch durchgespielt?
+- Unterschiede zwischen den Varianten klar herausgearbeitet?
+- Lernziel der Variation verstanden und internalisiert?
+- Merkregel für die Variante formuliert?

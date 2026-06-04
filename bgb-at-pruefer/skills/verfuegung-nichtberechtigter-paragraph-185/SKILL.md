@@ -1,60 +1,84 @@
 ---
 name: verfuegung-nichtberechtigter-paragraph-185
-description: "Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung, Genehmigung, Verfügungsbefugnis, Priorität, Eigentümerstellung und Rückwirkungsfragen."
+description: "Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung und nachträgliche Genehmigung des Berechtigten, Heilung durch spätere Berechtigung, Abgrenzung zum gutgläubigen Erwerb nach §§ 932 ff. BGB. Klausurfall mit Subsumtionsraster für Examen."
 ---
 
-# Verfuegung Nichtberechtigter Paragraph 185
+# Verfügung des Nichtberechtigten — § 185 BGB
 
-## Zweck
+## Mandantenfall
 
-Verfügungsmacht von Verpflichtung und Vertretung unterscheiden.
+- A verkauft und übereignet das Auto des B ohne dessen Wissen — Eigentumsübergang nach § 185 BGB?
+- Gläubiger pfändet Sache, die dem Schuldner nicht gehört — Verfügung des Nichtberechtigten?
+- Klausurkonstellation: Treuhänder verfügt über Treuhandvermögen ohne Ermächtigung des Treugebers.
 
-## Normanker
+## Erste Schritte
 
-§ 185 BGB und §§ 182-184 BGB
+1. Berechtigungsprüfung: Ist der Verfügende Eigentümer oder verfügungsbefugter Nichteigentümer?
+2. § 185 Abs. 1 BGB: Einwilligung des Berechtigten vor der Verfügung — Wirksamkeit der Verfügung.
+3. § 185 Abs. 2 S. 1 Var. 1 BGB: Nachträgliche Genehmigung des Berechtigten — Rückwirkung auf Zeitpunkt der Verfügung.
+4. § 185 Abs. 2 S. 1 Var. 2 BGB: Heilung durch nachträglichen Erwerb der Berechtigung.
+5. Gutgläubiger Erwerb: §§ 932 ff. BGB als alternative Erwerbsgrundlage prüfen.
+6. Konsequenz bei fehlender Berechtigung und keiner Heilung: keine Eigentumsübertragung — Vindikation nach § 985 BGB.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 185 Abs. 1 BGB: Einwilligung des Berechtigten macht Verfügung des Nichtberechtigten wirksam.
+- § 185 Abs. 2 BGB: Genehmigung und Heilung durch nachträgliche Berechtigung.
+- §§ 932 bis 934 BGB: Gutgläubiger Erwerb vom Nichtberechtigten bei beweglichen Sachen.
+- § 985 BGB: Herausgabeanspruch des Eigentümers gegen Besitzer.
+- § 816 BGB: Bereicherungsanspruch des Berechtigten gegen den Verfügenden.
 
 ## Prüfraster
 
-1. Verfügungsgeschäft und Berechtigten bestimmen
-2. Einwilligung oder Genehmigung prüfen
-3. späteren Rechtserwerb und Priorität einordnen
-4. Wirksamkeitszeitpunkt und Rückabwicklung festhalten
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Berechtigungslage: Ist der Verfügende Eigentümer oder anderweitig zur Verfügung befugt?
+2. Einwilligung nach § 185 Abs. 1 BGB: Vorherige Zustimmung des Berechtigten vorhanden?
+3. Genehmigung nach § 185 Abs. 2 S. 1 Var. 1 BGB: Nachträgliche Zustimmung mit Rückwirkung?
+4. Heilung nach § 185 Abs. 2 S. 1 Var. 2 BGB: Verfügender erwirbt nach Verfügung die Berechtigung?
+5. Gutgläubiger Erwerb: §§ 932 ff. BGB als eigenständige Erwerbsgrundlage prüfen.
+6. Folgen fehlender Berechtigung: § 985 BGB Herausgabe an Eigentümer.
+7. § 816 BGB: Bereicherungsanspruch des Berechtigten gegen den Verfügenden.
+
+## Typische Fallstricke
+
+- § 185 BGB gilt für Verfügungsgeschäfte — nicht für Verpflichtungsgeschäfte (dort § 433 BGB etc.).
+- Genehmigung nach § 185 Abs. 2 BGB wirkt zurück auf Zeitpunkt der Verfügung (ex tunc).
+- Gutgläubiger Erwerb nach §§ 932 ff. BGB kann § 185 BGB verdrängen — immer subsidiär prüfen.
+- Bei Grundstücken: §§ 892 und 893 BGB statt §§ 932 ff. BGB für gutgläubigen Erwerb.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu § 185 BGB mit vollständiger Subsumtion
+- Prüfschema: Einwilligung → Genehmigung → Heilung → gutgläubiger Erwerb
+- Prüfampel: Eigentum übergegangen / nicht übergegangen / gutgläubiger Erwerb möglich
+- Klausurlösungsskizze mit § 985 und § 816 BGB-Folgeprüfung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 185 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__185.html)
+- [§ 932 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__932.html)
+- [§ 985 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__985.html)
+- [dejure.org § 185 BGB](https://dejure.org/gesetze/BGB/185.html)
+- [dejure.org § 816 BGB](https://dejure.org/gesetze/BGB/816.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### § 185 BGB im Verhältnis zu §§ 932 ff. BGB
 
+§ 185 BGB und §§ 932 ff. BGB regeln beide den Erwerb vom Nichtberechtigten. Unterschied:
+§ 185 BGB setzt Einwilligung oder Genehmigung des Berechtigten voraus — keine Schutzwürdigkeit
+des Dritten erforderlich. §§ 932 ff. BGB schützen den gutgläubigen Dritten ohne Zustimmung des
+Berechtigten.
 
-## Qualitäts-Hardening
+### Anwendung bei Treuhand und Sicherungsübereignung
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+Bei Treuhandverhältnissen: Treugeber ist Berechtigter, Treuhänder ist Nichtberechtigter in Bezug
+auf eine Verfügung außerhalb des Treuhandzwecks. Eine Verfügung des Treuhänders gegen den
+Treuhandzweck kann nur nach § 185 Abs. 2 BGB (Genehmigung) geheilt werden.
+
+### Klausur-Checkliste § 185 BGB
+
+- Verfügungsgeschäft identifiziert (Übereignung, Abtretung etc.)?
+- Berechtigungslage: Verfügender ist nicht Eigentümer oder nicht befugt?
+- Einwilligung nach § 185 Abs. 1 BGB: Vor der Verfügung erteilt?
+- Genehmigung nach § 185 Abs. 2 S. 1 Var. 1 BGB: Nachträglich — Rückwirkung beachten?
+- Gutgläubiger Erwerb §§ 932 ff. BGB: Kein Abhandenkommen, Gutgläubigkeit des Erwerbers?

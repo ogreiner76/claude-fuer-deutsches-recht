@@ -1,60 +1,86 @@
 ---
 name: erklaerungsbewusstsein-und-potentielles-bewusstsein
-description: "Vertieft Erklärungsbewusstsein und potentielles Erklärungsbewusstsein bei versehentlichen Erklärungen, digitalen Klicks, Signaturen und Verkehrsschutz."
+description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung."
 ---
 
-# Erklaerungsbewusstsein Und Potentielles Bewusstsein
+# Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung
 
-## Zweck
+## Mandantenfall
 
-Zurechnung trotz fehlender aktueller Rechtsgeschäftswollung prüfen.
+- Mandant hat versehentlich auf einer Auktion die Hand gehoben und ein Gebot abgegeben — liegt überhaupt eine Willenserklärung vor?
+- Klausurkonstellation: Trierer Weinversteigerungsfall nachbauen — fehlendes Erklärungsbewusstsein als Klausurproblem.
+- Student fragt nach der h.M. zum potentiellen Erklärungsbewusstsein und dessen Konsequenzen.
 
-## Normanker
+## Erste Schritte
 
-§§ 119 und 122 BGB
+1. Tatbestand der Willenserklärung prüfen: objektiver Tatbestand (Erklärungszeichen) vorhanden?
+2. Subjektiver Tatbestand: Handlungswille, Erklärungsbewusstsein, Geschäftswille.
+3. Fehlendes Erklärungsbewusstsein: Hat der Erklärende gewusst, dass er eine rechtlich erhebliche Erklärung abgibt?
+4. Potentielles Erklärungsbewusstsein (h.M.): Hat er es bei pflichtgemäßer Sorgfalt wissen können?
+5. Rechtsfolge bei potentiellem Bewusstsein: Willenserklärung liegt vor, aber Anfechtung möglich.
+6. Mindermeinung: Fehlendes Bewusstsein = keine Willenserklärung, § 122 BGB analog.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 116 ff. BGB: Allgemeine Voraussetzungen der Willenserklärung.
+- § 119 Abs. 1 BGB: Anfechtung bei Irrtum — auch anwendbar bei fehlendem Erklärungsbewusstsein nach h.M.
+- § 122 BGB: Vertrauensschadensersatz nach Anfechtung.
+- § 242 BGB: Treu und Glauben — Empfänger verdient Schutz, wenn er auf Erklärung vertrauen durfte.
+- § 130 BGB: Zugang und Empfängerhorizont als Grundlage für Vertrauensschutz.
 
 ## Prüfraster
 
-1. objektiven Erklärungstatbestand prüfen
-2. fehlendes aktuelles Erklärungsbewusstsein feststellen
-3. Erkennbarkeit bei pflichtgemäßer Sorgfalt bewerten
-4. Anfechtung und Vertrauensschaden anschließen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Objektiver Tatbestand: Liegt ein Zeichen vor, das nach Verkehrsauffassung als Erklärung gilt?
+2. Handlungswille: Hat der Erklärende die Handlung willentlich vorgenommen?
+3. Erklärungsbewusstsein: Wusste er, dass er eine rechtlich erhebliche Erklärung abgibt?
+4. Fehlendes Erklärungsbewusstsein — potentielles Bewusstsein nach h.M. bejaht?
+5. Hat er es bei zumutbarer Sorgfalt wissen können? — dann WE vorhanden, aber anfechtbar.
+6. Anfechtung nach § 119 Abs. 1 BGB: unverzüglich, Vertrauensschadensersatz nach § 122 BGB.
+7. Mindermeinung: Keine WE, aber § 122 BGB analog zum Schutz des Empfängers.
+
+## Typische Fallstricke
+
+- Fehlendes Erklärungsbewusstsein ist nicht mit fehlendem Geschäftswillen identisch.
+- h.M. zum potentiellen Bewusstsein führt zu Willenserklärung trotz Unwissenheit — wichtiger Examenpunkt.
+- Anfechtung beseitigt die Willenserklärung ex tunc — aber Vertrauensschaden bleibt.
+- Mindermeinung (keine WE) schützt den Erklärenden stärker, aber belastet Rechtsverkehr.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Meinungsstreit-Darstellung: h.M. potentielles Bewusstsein vs. Mindermeinung
+- Gutachtenstil-Abschnitt zum Willenserklärungstatbestand
+- Trierer Weinversteigerungsfall nachgebaut als Klausurbeispiel
+- Folgeprüfung Anfechtung nach § 119 Abs. 1 BGB
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
+- [dejure.org § 119 BGB](https://dejure.org/gesetze/BGB/119.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Streit um das Erklärungsbewusstsein
 
+Die herrschende Meinung verlangt nur potentielles Erklärungsbewusstsein: Es genügt, wenn der
+Erklärende bei Anwendung der im Verkehr erforderlichen Sorgfalt hätte erkennen können, dass sein
+Verhalten als Willenserklärung aufgefasst werden könnte (BGH NJW 1984/2279 — Trierer Weinversteigerung).
 
-## Qualitäts-Hardening
+Die Mindermeinung verlangt aktuelles Erklärungsbewusstsein und gibt dem Erklärenden ein
+Anfechtungsrecht, wenn er ohne Erklärungsbewusstsein gehandelt hat.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Praktische Konsequenzen
+
+Bei versehentlichem Nicken, unbewusstem Bieten oder automatisiertem Klicken: Nach h.M. kommt
+eine Willenserklärung zustande, wenn potentielles Bewusstsein vorliegt. Der Erklärende haftet
+nach § 122 BGB, wenn er anficht.
+
+### Klausur-Checkliste Erklärungsbewusstsein
+
+- Handlungswille vorhanden (Erklärende hat bewusst gehandelt)?
+- Aktuelles Erklärungsbewusstsein: Wusste Erklärende, dass er rechtserheblich handelt?
+- Potentielles Bewusstsein: Hätte Erklärende bei Sorgfalt erkennen können?
+- Rechtsfolge: Willenserklärung wirksam — Anfechtung nach § 119 Abs. 1 BGB möglich?
+- § 122 BGB-Haftung bei Anfechtung wegen fehlendem Erklärungsbewusstsein?

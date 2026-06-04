@@ -1,60 +1,86 @@
 ---
 name: vollmacht-erteilung-umfang-erloeschen
-description: "Prüft Vollmachtserteilung, Innen-/Außenvollmacht, Umfang, Auslegung, Erlöschen, Widerruf, Rechtsschein und Nachweis der Vollmacht."
+description: "Klausurfall zu Vollmachtserteilung, Vollmachtsumfang und Erlöschen der Vollmacht nach §§ 167 bis 169 BGB: Innen- und Außenvollmacht, Spezial- und Generalvollmacht, Widerruf, Erlöschen nach § 168 BGB und Rechtsscheinwirkung nach §§ 170 bis 172 BGB."
 ---
 
-# Vollmacht Erteilung Umfang Erloeschen
+# Vollmacht — Erteilung, Umfang und Erlöschen §§ 167 bis 176 BGB
 
-## Zweck
+## Mandantenfall
 
-Vertretungsmacht aus Quelle, Umfang und Fortbestand ableiten.
+- Vollmacht per Brief erteilt, Brief aber verlorengegangen — Innenvollmacht trotzdem wirksam?
+- Vollmacht widerrufen, Dritter wusste nichts davon — Außenvollmacht nach § 170 BGB noch wirksam?
+- Klausurkonstellation: Prokura als Sonderform der Vollmacht — Umfang und gesetzliche Beschränkungen.
 
-## Normanker
+## Erste Schritte
 
-§§ 166-173 BGB
+1. Vollmachtserteilung nach § 167 BGB: Innenvollmacht (gegenüber dem Vertreter) oder Außenvollmacht (gegenüber dem Dritten).
+2. Vollmachtsform: Grundsätzlich formfrei, aber bei formbedürftigen Grundgeschäften Formpflicht beachten.
+3. Umfang der Vollmacht: Spezialvollmacht (einzelnes Geschäft), Generalvollmacht oder gesetzliche Grenzen.
+4. Erlöschen nach § 168 BGB: Widerruf durch Vollmachtgeber, Beendigung des Grundverhältnisses.
+5. Rechtsscheinwirkung nach §§ 170 bis 172 BGB: Erlöschende Vollmacht wirkt gegenüber gutgläubigem Dritten fort.
+6. Vollmachtsurkunde nach § 172 BGB: Vorlage begründet Rechtsschein der Vollmacht.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- § 167 BGB: Vollmachtserteilung — Innen- und Außenvollmacht, Formfreiheit.
+- § 168 BGB: Erlöschen der Vollmacht — Widerruf und Beendigung des Grundverhältnisses.
+- §§ 170 bis 172 BGB: Fortbestehen der Vollmacht bei Erlöschen gegenüber gutgläubigem Dritten.
+- § 173 BGB: Kein Rechtsschutz bei Kenntnis des Erlöschens oder grob fahrlässiger Unkenntnis.
+- § 181 BGB: Insichgeschäft — Vollmacht kann es ausdrücklich erlauben.
 
 ## Prüfraster
 
-1. Vollmachtsquelle bestimmen
-2. Innen- und Außenvollmacht unterscheiden
-3. Umfang nach Erklärung und Empfängerhorizont auslegen
-4. Erlöschen und Rechtsschein nach §§ 170-173 BGB prüfen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Vollmachtserteilung nach § 167 BGB: Innen- oder Außenvollmacht — Adressat der Erteilungserklärung?
+2. Form gewahrt: Grundsätzlich formfrei; bei formbedürftigem Grundgeschäft Ausnahmen?
+3. Umfang: Welche Geschäfte umfasst die Vollmacht — konkrete Auslegung nach §§ 133 und 157 BGB?
+4. Erlöschensgrund: Widerruf, Zeitablauf, Zweckerreichung oder Beendigung des Grundverhältnisses?
+5. Rechtsscheinwirkung: §§ 170 bis 172 BGB — gutgläubiger Dritter ohne Kenntnis des Erlöschens?
+6. § 173 BGB: Kannte oder musste der Dritte das Erlöschen kennen — kein Rechtsschutz?
+7. Vollmachtsurkunde: Vorlage und Herausgabepflicht nach § 175 BGB?
+
+## Typische Fallstricke
+
+- Innenvollmacht erlischt mit Widerruf sofort; Außenvollmacht erst nach Mitteilung an Dritten (§§ 170 bis 172 BGB).
+- § 173 BGB: Grob fahrlässige Unkenntnis des Dritten schließt Rechtsschutz aus — häufig übersehen.
+- Vollmachtsurkunde begründet Rechtsschein — Aushändigung an gutgläubigen Dritten bindet Vollmachtgeber.
+- Generalvollmacht mit gesetzlichem Umfang nicht grenzenlos — § 181 BGB und Missbrauchsschranken gelten.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- Gutachtenstil-Abschnitt zu Vollmachtserteilung und -erlöschen
+- Schema: Erteilung → Umfang → Erlöschen → Rechtsscheinwirkung → Drittschutz
+- Prüfampel: Vollmacht wirksam / erloschen / Rechtsschein fortbestehend
+- Klausurlösungsskizze mit §§ 170 bis 173 BGB-Prüfung
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
+- [§ 168 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__168.html)
+- [§ 172 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__172.html)
+- [dejure.org § 167 BGB](https://dejure.org/gesetze/BGB/167.html)
+- [dejure.org § 168 BGB](https://dejure.org/gesetze/BGB/168.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Innen- vs. Außenvollmacht
 
+Innenvollmacht (§ 167 Abs. 1 Alt. 1 BGB): Vollmacht wird dem Vertreter erteilt. Relevant für
+das Innenverhältnis. Erlöschen durch Widerruf gegenüber dem Vertreter.
 
-## Qualitäts-Hardening
+Außenvollmacht (§ 167 Abs. 1 Alt. 2 BGB): Vollmacht wird dem Dritten gegenüber erklärt.
+Erlöschensschutz nach § 170 BGB: Dritten gegenüber bleibt Vollmacht wirksam, bis Widerruf
+dem Dritten mitgeteilt wird.
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+### Prokura als Sonderform
+
+§§ 48 ff. HGB regeln die Prokura als umfassendste kaufmännische Vollmacht. Reichweite ist gesetzlich
+bestimmt (§ 49 HGB). Einschränkungen durch Innenverhältnis sind dem Dritten nicht entgegensetzbar
+(§ 50 HGB). Prokura erlischt nicht durch Tod des Inhabers (§ 52 Abs. 1 HGB).
+
+### Klausur-Checkliste Vollmacht
+
+- Erteilungsform: Innen- oder Außenvollmacht — Adressat der Erteilung?
+- Vollmachtsumfang: Spezial-, General- oder gesetzlich geregelter Umfang (Prokura)?
+- Erlöschen: Widerruf oder Beendigung des Grundverhältnisses?
+- Rechtsschein nach §§ 170 bis 172 BGB: Gutgläubiger Dritte geschützt?
+- § 173 BGB: Kannte oder musste Dritte das Erlöschen kennen?

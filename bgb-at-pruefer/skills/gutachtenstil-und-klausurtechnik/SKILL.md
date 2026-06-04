@@ -1,60 +1,85 @@
 ---
 name: gutachtenstil-und-klausurtechnik
-description: "Gutachtenstil, Klausurtechnik und Schwerpunktsetzung für BGB AT: Obersatz, Definition, Subsumtion, Ergebnis, Streitstand nur wenn entscheidungserheblich, mit verständlicher Priorisierung."
+description: "Methodik-Skill für Gutachtenstil und Klausurtechnik im Zivilrecht BGB AT: OTSE-Schema (Obersatz — Tatbestand — Subsumtion — Ergebnis), Urteilsstil vs. Gutachtenstil, häufige Aufbaufehler, Zeitmanagement und Schwerpunktsetzung."
 ---
 
-# Gutachtenstil Und Klausurtechnik
+# Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT
 
-## Zweck
+## Mandantenfall
 
-Eine lesbare Klausur- oder Memo-Struktur mit Schwerpunktgefühl erzeugen.
+- Examenskandidat schreibt immer im Urteilsstil auch dort, wo Gutachtenstil gefordert ist — wie korrigieren?
+- Probeklausur zeigt Aufbaufehler: Rechtsfolge wird vor vollständiger Tatbestandsprüfung dargestellt.
+- Student verliert Zeit durch übermäßige Erörterung unstreitiger Punkte und kommt nicht zu den Hauptproblemen.
 
-## Normanker
+## Erste Schritte
 
-Juristische Methodik
+1. Gutachtenstil-Grundregel: Obersatz — Tatbestandsmerkmale — Subsumtion — Ergebnis (OTSE).
+2. Obersatz formulieren: Fragenformat, nicht Behauptungsformat.
+3. Tatbestandsmerkmale einzeln herausarbeiten und definieren.
+4. Subsumtion: Tatsachen des Sachverhalts unter jedes Tatbestandsmerkmal subsumieren.
+5. Zwischenergebnisse formulieren; Endergebnis erst am Ende.
+6. Urteilsstil nur bei eindeutig nicht problematischen Punkten einsetzen.
 
-## Intake
+## Rechtsrahmen
 
-- Welche Rolle hat die Nutzerin oder der Nutzer: Kanzlei, Rechtsabteilung, Ausbildung, Gerichtsvorbereitung oder Selbststudium?
-- Was ist das konkrete Arbeitsziel: Anspruchsprüfung, Memo, Klausurlösung, Schriftsatzbaustein, Fristenvermerk oder Rückfragenkatalog?
-- Welche Tatsachen sind belegt, welche sind nur Behauptung, welche fehlen noch?
-- Welche Daten, Uhrzeiten, Erklärungen, Vollmachten, Formvorgaben und Fristen sind im Sachverhalt erkennbar?
+- §§ 116 ff. BGB: Willenserklärung als häufigster Ausgangspunkt der Klausur.
+- §§ 145 ff. BGB: Vertragsschluss-Prüfung als erster Prüfungsabschnitt.
+- § 242 BGB: Treu und Glauben — Verwendung sparsam und nur als Korrektiv.
+- §§ 194 ff. BGB: Verjährung — nicht vergessen, aber nicht ausufern lassen.
+- §§ 119 ff. BGB: Anfechtung — nach Auslegung, nicht davor.
 
 ## Prüfraster
 
-1. schlanke Obersätze mit Norm und Rechtsfolge formulieren
-2. Definition nur bei arbeitendem Tatbestandsmerkmal bringen
-3. klare Punkte knapp behandeln
-4. Streitstände nur bei Ergebnisrelevanz entfalten
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+1. Gutachtenstil eingeleitet: Obersatz als Frage formuliert?
+2. Tatbestandsmerkmale vollständig aufgezählt und definiert?
+3. Subsumtion: Jede Tatsache einem Tatbestandsmerkmal zugeordnet?
+4. Zwischenergebnisse sauber formuliert und nicht vorweggenommen?
+5. Schwerpunktsetzung: Problematische Punkte ausführlich, Unstreitiges kurz?
+6. Zeitplan eingehalten: Anteil Analyse, Entwurf, Ausformulierung, Kontrolle?
+7. Klausurfehler vermieden: kein Kreisschluss, keine Normvermischung?
+
+## Typische Fallstricke
+
+- Gutachtenstil und Urteilsstil unkontrolliert mischen erzeugt Unklarheit und Punktabzug.
+- Zu ausführliche Bearbeitung nicht-problematischer Fragen verschwendet wertvolle Zeit.
+- Ergebnis zu früh nennen: zerstört Gutachtenstruktur und führt zu Abzug.
+- Normen ohne Subsumtion zitieren ist kein Gutachtenstil.
 
 ## Output
 
-- Kurztriage mit Ampel und nächstem Schritt
-- Prüfung im Gutachtenstil oder als praxisnahes Mandatsmemo
-- Anspruchs- oder Erklärungsmatrix mit Beweisankern
-- Rückfragenliste und optionaler Entwurfsbaustein
+- OTSE-Schema als Vorlage mit Beispiel
+- Klausuraufbau-Checkliste: was wann wie
+- Häufige Fehler-Liste mit Korrekturtipps
+- Zeitplan-Vorlage für Examensklausur
 
-## Qualitätsregeln
+## Quellen
 
-- BGB-AT-Fragen immer an der passenden Stelle im Anspruchsaufbau prüfen.
-- Auslegung geht regelmäßig vor Anfechtung, Dissens oder Lückenschließung.
-- Keine erfundenen Rechtsprechungs- oder Literaturzitate verwenden; bei Zitaten Primärquelle prüfen.
-- Bei Fristen den Rechenweg sichtbar machen.
-- Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
+- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
 
-## Anschluss-Skills
+## Vertiefung
 
-- allgemein
-- anspruchsaufbau-zivilrecht-bgb-at
-- bgb-at-output-gutachten-memo-schriftsatz
+### Strukturelemente des Gutachtenstils
 
+Obersatz: Hypothetische Formulierung — „A könnte gegen B einen Anspruch auf ... haben."
+Definition: Tatbestandsmerkmale der Norm abstrakt und vollständig benennen.
+Subsumtion: Jeden Tatbestand auf den konkreten Sachverhalt anwenden — „A hat ... getan, weil..."
+Ergebnis: Abschließendes Urteil — „Das Tatbestandsmerkmal ist erfüllt/nicht erfüllt."
 
-## Qualitäts-Hardening
+### Häufige Gutachtenstil-Fehler
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+(1) Ergebnis im Obersatz: „A hat gegen B einen Anspruch auf ..." — falsch, weil kein Hypothetisch.
+(2) Fehlende Definition: Tatbestandsmerkmal ohne Definition direkt subsumiert.
+(3) Subsumtion fehlt: Definition korrekt, aber Sachverhalt nicht angewendet.
+(4) Falsche Reihenfolge: Ergebnis vor Begründung (Urteilsstil statt Gutachtenstil).
+
+### Klausur-Checkliste Gutachtenstil
+
+- Obersatz hypothetisch formuliert?
+- Jedes Tatbestandsmerkmal einzeln definiert?
+- Subsumtion für jedes Merkmal auf den Sachverhalt bezogen?
+- Zwischenergebnis und Endergebnis klar formuliert?
+- Gutachtenstil durchgehalten oder Urteilsstil eingeschlichen?
