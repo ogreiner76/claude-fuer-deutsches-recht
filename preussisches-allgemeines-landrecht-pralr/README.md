@@ -1,5 +1,6 @@
 # Preußisches Allgemeines Landrecht (PrALR)
 
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -23,6 +24,28 @@ Das PrALR-Plugin macht das **Allgemeine Landrecht für die Preußischen Staaten*
 
 Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unterschiedlichen Jahren oder Drucktraditionen stammen können. Der erste Schritt ist deshalb immer: **Welcher Textzeuge liegt vor?** Danach kommen Systemstelle, Geltungsraum, heutige Fortwirkung und Output.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** ([`testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/`](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/)).
+
+Direkt-Download als ZIP: [testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
+
+## Digitale Textzeugen
+
+Für die Arbeit am PrALR sollen Digitalisate offen benannt und gegeneinander geprüft werden. Besonders nützlich sind:
+
+- Internet Archive: [Allgemeines Landrecht für die Preußischen Staaten, Drucktradition 1794](https://archive.org/details/11750101bsb/page/n1/mode/2up)
+- Staatsbibliothek zu Berlin: [Digitalisat PPN646281704](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN646281704&PHYSID=PHYS_0184&view=fulltext-endless)
+
+Arbeitsregel: 1794-, 1804- und spätere Textzeugen dürfen nie blind gleichgesetzt werden. Der Normnavigator erzeugt für jede einzelne Fundstelle eine Normkarte mit Teil, Titel, Paragraph, Textzeuge, OCR-Risiko, möglicher Abweichung und heutiger Anschlussfrage. Das ersetzt nicht die Einzelprüfung, macht aber jede Norm praktisch auffindbar.
+
 ## Arbeitsweise
 
 1. Textzeuge und Ausgabejahr klären: Scan, OCR, PDF, 1794-Druck, spätere Ausgabe oder Sekundärhinweis.
@@ -42,6 +65,7 @@ Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unte
 ## Quellen- und Qualitätsdisziplin
 
 Keine Scheinfundstellen, keine OCR-Fundstellen ohne Scan-Gegenprobe, keine Gleichsetzung verschiedener Digitalisate. Für aktuelle Rechtsanwendung: immer Live-Check mit heutiger Norm, Landesrecht und frei zugänglicher Rechtsprechung.
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

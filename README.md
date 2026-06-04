@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 193 |
-| **Skills (SKILL.md)** | 16861 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 189 |
+| **Plugins** | 201 |
+| **Skills (SKILL.md)** | 17541 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 197 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v70.0.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v71.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -40,6 +40,18 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Testakten-ZIPs, Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+
+
+### Neu in v71
+
+- [`notariat-alltag`](./notariat-alltag) — Notariatsalltag, Beurkundung, Register, Grundbuch, Vollzug, Kosten, Geldwäsche und gestresste Sachbearbeitung.
+- [`weltraumrecht`](./weltraumrecht) — deutsches, europäisches und internationales Weltraumrecht mit Satelliten, Startplätzen, Haftung, Raumstationen, Frequenzen und Space Property.
+- [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) — GKV, PKV, Beihilfe, Krankengeld, Hilfsmittel, MD, Widerspruch und Sozialgericht.
+- [`datenbankrecht`](./datenbankrecht) — Datenbankherstellerrecht, Datenbankrichtlinie, Scraping, API, KI-Training, Lizenz und Beweissicherung.
+- [`verlagsrecht-buchpreisbindung`](./verlagsrecht-buchpreisbindung) — Verlagsgesetz, Buchpreisbindung, Autorenverträge, E-Book, Hörbuch, Vertrieb und VG-Wort-Nähe.
+- [`influencer-recht`](./influencer-recht) — Werbekennzeichnung, Sachleistungen, Steuer, Plattformrecht, Musik, Persönlichkeitsrechte und Creator-Verträge.
+- [`leasingrecht-praxis`](./leasingrecht-praxis) — Leasing, Sale-and-lease-back, Restwert, Rückgabe, Refinanzierung und Insolvenz.
+- [`franchiserecht-praxis`](./franchiserecht-praxis) — Franchise-Aufklärung, Systemhandbuch, Gebietsschutz, Kartellrecht, Marke, Kündigung und Exit.
 
 ### Inhaltliche Cluster
 

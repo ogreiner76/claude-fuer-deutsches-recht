@@ -1,0 +1,29 @@
+# Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen
+
+Diese Akte gehört zu den Plugins `notariat-alltag`, `berufsrecht-notare`.
+
+## Downloads
+
+- [Gesamt-PDF](gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf)
+- Die Einzeldateien in diesem Ordner bilden den Aktenwust aus E-Mail, Tabelle, Vermerk, Bild und Anlagen ab.
+
+## Aktenstücke
+
+| Datei | Inhalt |
+| --- | --- |
+| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
+| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
+| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
+| `05-dashboard.csv` | strukturierte Prüfspur |
+| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
+| `gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf` | Gesamt-PDF der Akte |
+
+## Sachstand
+
+- GmbH-Anteilsabtretung soll am selben Tag wie ein Grundstückskauf vollzogen werden, aber die Vollmacht der Erbin ist nur als Scan vorhanden.
+- Das Grundbuch zeigt in Abteilung II ein altes Wegerecht, das im Kaufvertragsentwurf nicht erwähnt ist.
+- Die Bank verlangt Auszahlung erst nach Rangbestätigung, während der Verkäufer sofortige Fälligkeit behauptet.
+- Ein Beteiligter spricht kaum Deutsch; unklar ist, ob Dolmetscher und Belehrungsvermerk ausreichen.
+- Das Registergericht beanstandet die Gesellschafterliste nach einer Einziehung, weil Nennbeträge und Prozentangaben nicht zusammenpassen.
+- Die Geldwäscheprüfung hängt an einem Treuhandkonstrukt mit ausländischer Holding.
